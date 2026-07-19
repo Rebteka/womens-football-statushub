@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 2026-07-19T14:23:09Z
+> Quelle: API-SPORTS · Datenstand: 2026-07-19T14:43:43Z
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,13 +14,92 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 2026-07-19T14:23:09Z |
+| Dashboard | generiert 2026-07-19T14:43:43Z |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
 | Turnierstatus | Stand 2026-07-19T10:23:53Z |
 
 ---
 
 ## Spiele: Rueckblick + Vorschau
+
+### Mobile Ansicht nach Wettbewerb
+
+<details>
+<summary>Friendlies Women · 4 Spiele</summary>
+
+<div class="match-card">
+<strong>United States U20 W vs Colombia U20 W</strong><br>
+Mo, 2026-07-13 · 02:00 · **0:1** [FT] · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>England U20 W vs Colombia U20 W</strong><br>
+Mi, 2026-07-15 · 18:00 · kein Ergebnis laut API · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Algeria W vs Zambia W</strong><br>
+So, 2026-07-19 · 20:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Algeria W vs Zambia W</strong><br>
+Mi, 2026-07-22 · 19:00 · geplant · Live-Capability
+</div>
+
+</details>
+
+<details>
+<summary>UEFA Champions League Women · 9 Spiele</summary>
+
+<div class="match-card">
+<strong>Neftçi Bakı vs Budućnost W</strong><br>
+Mi, 2026-07-22 · 10:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Athlone WFC W vs ZFK Skopje 2014 W</strong><br>
+Mi, 2026-07-22 · 11:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Glentoran BU W vs Riga W</strong><br>
+Mi, 2026-07-22 · 14:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>KÍ vs Ludogorets W</strong><br>
+Mi, 2026-07-22 · 16:30 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Mitrovica W vs Zimbru Chisinau W</strong><br>
+Mi, 2026-07-22 · 16:30 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>PAOK W vs Hapoel Jerusalem W</strong><br>
+Mi, 2026-07-22 · 17:30 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Czarni Sosnowiec W vs Lusso W</strong><br>
+Mi, 2026-07-22 · 18:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Flora W vs Mgarr W</strong><br>
+Mi, 2026-07-22 · 18:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Pyunik W vs Wrexham W</strong><br>
+Mi, 2026-07-22 · 20:00 · geplant · Live-Capability
+</div>
+
+</details>
+
+### Flat-Ansicht fuer Vergleich und Rueckblick
 
 | Tag | Datum | Uhrzeit (Europe/Berlin) | Spiel | Wettbewerb | Ergebnis/Status | Live |
 |---|---|---:|---|---|---|:---:|
@@ -44,6 +123,95 @@ _Live: 📡 = Status-Updates ueber API-SPORTS grundsaetzlich moeglich._
 
 ## Turnierstatus / einfache Turniersammlung (4 aktiv)
 
+<details open>
+<summary>Turnierstatus kompakt</summary>
+
+<details>
+<summary>🆕 1. Frauen-Bundesliga · neu erkannt</summary>
+
+Zeitraum: 2026-08-21 bis 2027-05-23<br>
+Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>🆕 DFB-Pokal Frauen · neu erkannt</summary>
+
+Zeitraum: 2026-08-15 bis 2026-08-15<br>
+Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>🆕 UEFA Women's Champions League · neu erkannt</summary>
+
+Zeitraum: 2026-07-22 bis 2026-08-05<br>
+Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>🆕 Länderspiele · neu erkannt</summary>
+
+Zeitraum: 2026-01-11 bis 2026-07-22<br>
+Sieger: kein Sieger festgelegt (nicht anwendbar)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>⚪ 2. Frauen-Bundesliga · abgeschlossen</summary>
+
+Zeitraum: 2025-08-23 bis 2026-05-17<br>
+Sieger: Stuttgart W (bestaetigt aus Tabelle)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>⚪ UEFA Women's U19 · abgeschlossen</summary>
+
+Zeitraum: 2026-06-27 bis 2026-07-10<br>
+Sieger: Spain U19 W (bestaetigt aus Finale)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>⚪ UEFA Women's U17 · abgeschlossen</summary>
+
+Zeitraum: 2026-05-04 bis 2026-05-17<br>
+Sieger: Germany U17 W (bestaetigt aus Finale)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>⚪ UEFA Women's EURO · abgeschlossen</summary>
+
+Zeitraum: 2025-07-02 bis 2025-07-27<br>
+Sieger: England W (bestaetigt aus Finale)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+<details>
+<summary>⚪ UEFA Women's Nations League · abgeschlossen</summary>
+
+Zeitraum: 2025-02-21 bis 2025-12-02<br>
+Sieger: Spain W (bestaetigt aus Finale)<br>
+Datenstand: 2026-07-19
+
+</details>
+
+</details>
+
+<details>
+<summary>Turniertabelle anzeigen</summary>
+
 | Status | Wettbewerb | Saison | Zeitraum | Sieger | Sieger-Status | Hub-Status | Datenstand |
 |--------|------------|--------|----------|--------|---------------|------------|-----------|
 | 🆕 | 1. Frauen-Bundesliga | 2026 | 2026-08-21 bis 2027-05-23 | – | noch nicht abgeschlossen | neu erkannt | 2026-07-19 |
@@ -56,9 +224,14 @@ _Live: 📡 = Status-Updates ueber API-SPORTS grundsaetzlich moeglich._
 | ⚪ | UEFA Women's EURO | 2025 | 2025-07-02 bis 2025-07-27 | England W | bestaetigt aus Finale | abgeschlossen | 2026-07-19 |
 | ⚪ | UEFA Women's Nations League | 2025 | 2025-02-21 bis 2025-12-02 | Spain W | bestaetigt aus Finale | abgeschlossen | 2026-07-19 |
 
+</details>
+
 ---
 
 ## 1. Frauen-Bundesliga – Tabelle
+
+<details>
+<summary>1. Frauen-Bundesliga Tabelle anzeigen</summary>
 
 | # | Team | Sp | S | U | N | Tore | Pkt |
 |---|------|----|---|---|---|------|-----|
@@ -77,7 +250,12 @@ _Live: 📡 = Status-Updates ueber API-SPORTS grundsaetzlich moeglich._
 | 13 | SGS Essen W | 26 | 3 | 7 | 16 | 22:63 | **16** |
 | 14 | Carl Zeiss Jena  W | 26 | 2 | 5 | 19 | 22:72 | **11** |
 
+</details>
+
 ## 2. Frauen-Bundesliga – Tabelle
+
+<details>
+<summary>2. Frauen-Bundesliga Tabelle anzeigen</summary>
 
 | # | Team | Sp | S | U | N | Tore | Pkt |
 |---|------|----|---|---|---|------|-----|
@@ -95,6 +273,8 @@ _Live: 📡 = Status-Updates ueber API-SPORTS grundsaetzlich moeglich._
 | 12 | Bayern München II W | 26 | 8 | 3 | 15 | 40:64 | **27** |
 | 13 | Wolfsburg II W | 26 | 6 | 1 | 19 | 38:75 | **19** |
 | 14 | Warbeyen W | 26 | 1 | 3 | 22 | 21:99 | **6** |
+
+</details>
 
 ---
 
