@@ -10,7 +10,7 @@ Datenstand: 2026-07-19T15:59:10Z
 Diese Uebersicht stammt aus dem API-SPORTS-League-Audit. Kandidaten sind nur Review-Hinweise und werden nicht automatisch im Statushub freigeschaltet.
 
 - Bestaetigt: 9
-- Kandidaten: 56 Kandidaten
+- Kandidaten: 56
 
 ## Bestaetigte Wettbewerbe
 
