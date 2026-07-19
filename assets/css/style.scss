@@ -132,7 +132,8 @@ details[open] > :not(summary) {
   background: var(--statushub-surface);
 }
 
-.table-scroll {
+.table-scroll,
+.site-main > table {
   max-width: 100%;
   margin: 0.75rem 0 1rem;
   overflow-x: auto;
@@ -142,9 +143,21 @@ details[open] > :not(summary) {
 
 table {
   width: 100%;
-  min-width: 640px;
   border-spacing: 0;
   font-size: 0.92rem;
+}
+
+.table-scroll table {
+  min-width: 640px;
+}
+
+.site-main > table {
+  display: block;
+}
+
+.site-main > table th,
+.site-main > table td {
+  white-space: nowrap;
 }
 
 th,

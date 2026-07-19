@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 2026-07-19T15:51:20Z
+> Quelle: API-SPORTS · Datenstand: 2026-07-19T15:57:43Z
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,7 +14,7 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 2026-07-19T15:51:20Z |
+| Dashboard | generiert 2026-07-19T15:57:43Z |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
 | Turnierstatus | Stand 2026-07-19T10:23:53Z |
 
