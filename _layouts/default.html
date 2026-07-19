@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <p class="site-description">{{ site.description }}</p>
+      <nav class="site-nav" aria-label="Hauptnavigation">
+        <a href="{{ '/statushub/latest.html' | relative_url }}">Aktuell</a>
+        <a href="{{ '/competitions/index.html' | relative_url }}">Wettbewerbe</a>
+        <a href="{{ '/statushub/archive/' | relative_url }}">Archiv</a>
+      </nav>
+    </header>
+    <main class="site-main">
+      {{ content }}
+    </main>
+    <footer class="site-footer">Automatisch erzeugte, public-faehige Ausgabe</footer>
+  </div>
+</body>
+</html>
