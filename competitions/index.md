@@ -18,119 +18,137 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <details open>
 <summary>Deutschland · 4 Wettbewerbe</summary>
 
-- **2. Frauen Bundesliga** · freigegeben (Germany/DE, ID `1034`, League) · Slug `2-frauen-bundesliga-1034` · Allowlist: `fbl2`
-- **DFB Pokal - Women** · freigegeben (Germany/DE, ID `947`, Cup) · Slug `dfb-pokal-women-947` · Allowlist: `dfb_pokal`
-- **Frauen Bundesliga** · freigegeben (Germany/DE, ID `82`, League) · Slug `frauen-bundesliga-82` · Allowlist: `fbl1`
-- **Supercup der Frauen** · Kandidat (Germany/DE, ID `1137`, League) · Slug `supercup-der-frauen-1137`
+<ul>
+<li><strong>2. Frauen Bundesliga</strong> · freigegeben (Germany/DE, ID <code>1034</code>, League) · Slug <code>2-frauen-bundesliga-1034</code> · Allowlist: <code>fbl2</code></li>
+<li><strong>DFB Pokal - Women</strong> · freigegeben (Germany/DE, ID <code>947</code>, Cup) · Slug <code>dfb-pokal-women-947</code> · Allowlist: <code>dfb_pokal</code></li>
+<li><strong>Frauen Bundesliga</strong> · freigegeben (Germany/DE, ID <code>82</code>, League) · Slug <code>frauen-bundesliga-82</code> · Allowlist: <code>fbl1</code></li>
+<li><strong>Supercup der Frauen</strong> · Kandidat (Germany/DE, ID <code>1137</code>, League) · Slug <code>supercup-der-frauen-1137</code></li>
+</ul>
 
 </details>
 
 <details open>
 <summary>Europa ohne Deutschland · 22 Wettbewerbe</summary>
 
-- **Super League Women** · Kandidat (Belgium/BE, ID `146`, League) · Slug `super-league-women-146`
-- **1. Liga Women** · Kandidat (Czech-Republic/CZ, ID `669`, League) · Slug `1-liga-women-669`
-- **Community Shield Women** · Kandidat (England/GB-ENG, ID `670`, Cup) · Slug `community-shield-women-670`
-- **FA Women's Cup** · Kandidat (England/GB-ENG, ID `698`, Cup) · Slug `fa-women-s-cup-698`
-- **Women's Championship** · Kandidat (England/GB-ENG, ID `699`, League) · Slug `women-s-championship-699`
-- **Úrvalsdeild Women** · Kandidat (Iceland/IS, ID `671`, League) · Slug `urvalsdeild-women-671`
-- **Women's President's Cup** · Kandidat (Ireland/IE, ID `1175`, Cup) · Slug `women-s-president-s-cup-1175`
-- **Coppa Italia Women** · Kandidat (Italy/IT, ID `1171`, Cup) · Slug `coppa-italia-women-1171`
-- **Serie A Cup Women** · Kandidat (Italy/IT, ID `1198`, Cup) · Slug `serie-a-cup-women-1198`
-- **Serie A Women** · Kandidat (Italy/IT, ID `139`, League) · Slug `serie-a-women-139`
-- **Eredivisie Women** · Kandidat (Netherlands/NL, ID `91`, League) · Slug `eredivisie-women-91`
-- **Super Cup Women** · Kandidat (Netherlands/NL, ID `1190`, Cup) · Slug `super-cup-women-1190`
-- **Premiership Women** · Kandidat (Northern-Ireland/GB-NIR, ID `1103`, League) · Slug `premiership-women-1103`
-- **1. Division Women** · Kandidat (Norway/NO, ID `915`, League) · Slug `1-division-women-915`
-- **Ekstraliga Women** · Kandidat (Poland/PL, ID `1033`, League) · Slug `ekstraliga-women-1033`
-- **1a Divisão - Women** · Kandidat (Portugal/PT, ID `948`, League) · Slug `1a-divisao-women-948`
-- **Liga 1 Feminin** · Kandidat (Romania/RO, ID `728`, League) · Slug `liga-1-feminin-728`
-- **Super Cup Women** · Kandidat (Russia/RU, ID `1233`, Cup) · Slug `super-cup-women-1233`
-- **Supreme Division Women** · Kandidat (Russia/RU, ID `649`, League) · Slug `supreme-division-women-649`
-- **I Liga - Women** · Kandidat (Slovakia/SK, ID `733`, League) · Slug `i-liga-women-733`
-- **Svenska Cupen - Women** · Kandidat (Sweden/SE, ID `737`, Cup) · Slug `svenska-cupen-women-737`
-- **AXA Women’s Super League** · Kandidat (Switzerland/CH, ID `739`, League) · Slug `axa-womens-super-league-739`
+<ul>
+<li><strong>Super League Women</strong> · Kandidat (Belgium/BE, ID <code>146</code>, League) · Slug <code>super-league-women-146</code></li>
+<li><strong>1. Liga Women</strong> · Kandidat (Czech-Republic/CZ, ID <code>669</code>, League) · Slug <code>1-liga-women-669</code></li>
+<li><strong>Community Shield Women</strong> · Kandidat (England/GB-ENG, ID <code>670</code>, Cup) · Slug <code>community-shield-women-670</code></li>
+<li><strong>FA Women&#x27;s Cup</strong> · Kandidat (England/GB-ENG, ID <code>698</code>, Cup) · Slug <code>fa-women-s-cup-698</code></li>
+<li><strong>Women&#x27;s Championship</strong> · Kandidat (England/GB-ENG, ID <code>699</code>, League) · Slug <code>women-s-championship-699</code></li>
+<li><strong>Úrvalsdeild Women</strong> · Kandidat (Iceland/IS, ID <code>671</code>, League) · Slug <code>urvalsdeild-women-671</code></li>
+<li><strong>Women&#x27;s President&#x27;s Cup</strong> · Kandidat (Ireland/IE, ID <code>1175</code>, Cup) · Slug <code>women-s-president-s-cup-1175</code></li>
+<li><strong>Coppa Italia Women</strong> · Kandidat (Italy/IT, ID <code>1171</code>, Cup) · Slug <code>coppa-italia-women-1171</code></li>
+<li><strong>Serie A Cup Women</strong> · Kandidat (Italy/IT, ID <code>1198</code>, Cup) · Slug <code>serie-a-cup-women-1198</code></li>
+<li><strong>Serie A Women</strong> · Kandidat (Italy/IT, ID <code>139</code>, League) · Slug <code>serie-a-women-139</code></li>
+<li><strong>Eredivisie Women</strong> · Kandidat (Netherlands/NL, ID <code>91</code>, League) · Slug <code>eredivisie-women-91</code></li>
+<li><strong>Super Cup Women</strong> · Kandidat (Netherlands/NL, ID <code>1190</code>, Cup) · Slug <code>super-cup-women-1190</code></li>
+<li><strong>Premiership Women</strong> · Kandidat (Northern-Ireland/GB-NIR, ID <code>1103</code>, League) · Slug <code>premiership-women-1103</code></li>
+<li><strong>1. Division Women</strong> · Kandidat (Norway/NO, ID <code>915</code>, League) · Slug <code>1-division-women-915</code></li>
+<li><strong>Ekstraliga Women</strong> · Kandidat (Poland/PL, ID <code>1033</code>, League) · Slug <code>ekstraliga-women-1033</code></li>
+<li><strong>1a Divisão - Women</strong> · Kandidat (Portugal/PT, ID <code>948</code>, League) · Slug <code>1a-divisao-women-948</code></li>
+<li><strong>Liga 1 Feminin</strong> · Kandidat (Romania/RO, ID <code>728</code>, League) · Slug <code>liga-1-feminin-728</code></li>
+<li><strong>Super Cup Women</strong> · Kandidat (Russia/RU, ID <code>1233</code>, Cup) · Slug <code>super-cup-women-1233</code></li>
+<li><strong>Supreme Division Women</strong> · Kandidat (Russia/RU, ID <code>649</code>, League) · Slug <code>supreme-division-women-649</code></li>
+<li><strong>I Liga - Women</strong> · Kandidat (Slovakia/SK, ID <code>733</code>, League) · Slug <code>i-liga-women-733</code></li>
+<li><strong>Svenska Cupen - Women</strong> · Kandidat (Sweden/SE, ID <code>737</code>, Cup) · Slug <code>svenska-cupen-women-737</code></li>
+<li><strong>AXA Women’s Super League</strong> · Kandidat (Switzerland/CH, ID <code>739</code>, League) · Slug <code>axa-womens-super-league-739</code></li>
+</ul>
 
 </details>
 
 <details>
 <summary>UEFA-Wettbewerbe · 7 Wettbewerbe</summary>
 
-- **UEFA Champions League Women** · freigegeben (World, ID `525`, Cup) · Slug `uefa-champions-league-women-525` · Allowlist: `ucl_women`
-- **UEFA Championship - Women** · freigegeben (World, ID `743`, Cup) · Slug `uefa-championship-women-743` · Allowlist: `euro_women`
-- **UEFA Nations League - Women** · freigegeben (World, ID `1040`, Cup) · Slug `uefa-nations-league-women-1040` · Allowlist: `unl_women`
-- **UEFA U17 Championship - Women** · freigegeben (World, ID `1102`, Cup) · Slug `uefa-u17-championship-women-1102` · Allowlist: `u17`
-- **UEFA U19 Championship - Women** · freigegeben (World, ID `918`, Cup) · Slug `uefa-u19-championship-women-918` · Allowlist: `u19`
-- **UEFA Championship - Women - Qualification** · Kandidat (World, ID `1083`, Cup) · Slug `uefa-championship-women-qualification-1083`
-- **UEFA Europa Cup - Women** · Kandidat (World, ID `1191`, Cup) · Slug `uefa-europa-cup-women-1191`
+<ul>
+<li><strong>UEFA Champions League Women</strong> · freigegeben (World, ID <code>525</code>, Cup) · Slug <code>uefa-champions-league-women-525</code> · Allowlist: <code>ucl_women</code></li>
+<li><strong>UEFA Championship - Women</strong> · freigegeben (World, ID <code>743</code>, Cup) · Slug <code>uefa-championship-women-743</code> · Allowlist: <code>euro_women</code></li>
+<li><strong>UEFA Nations League - Women</strong> · freigegeben (World, ID <code>1040</code>, Cup) · Slug <code>uefa-nations-league-women-1040</code> · Allowlist: <code>unl_women</code></li>
+<li><strong>UEFA U17 Championship - Women</strong> · freigegeben (World, ID <code>1102</code>, Cup) · Slug <code>uefa-u17-championship-women-1102</code> · Allowlist: <code>u17</code></li>
+<li><strong>UEFA U19 Championship - Women</strong> · freigegeben (World, ID <code>918</code>, Cup) · Slug <code>uefa-u19-championship-women-918</code> · Allowlist: <code>u19</code></li>
+<li><strong>UEFA Championship - Women - Qualification</strong> · Kandidat (World, ID <code>1083</code>, Cup) · Slug <code>uefa-championship-women-qualification-1083</code></li>
+<li><strong>UEFA Europa Cup - Women</strong> · Kandidat (World, ID <code>1191</code>, Cup) · Slug <code>uefa-europa-cup-women-1191</code></li>
+</ul>
 
 </details>
 
 <details>
 <summary>FIFA-/World-Cup-Wettbewerbe · 6 Wettbewerbe</summary>
 
-- **FIFA Women Champions Cup** · Kandidat (World, ID `1217`, Cup) · Slug `fifa-women-champions-cup-1217`
-- **World Cup - U17 - Women** · Kandidat (World, ID `950`, Cup) · Slug `world-cup-u17-women-950`
-- **World Cup - U20 - Women** · Kandidat (World, ID `920`, Cup) · Slug `world-cup-u20-women-920`
-- **World Cup - Women** · Kandidat (World, ID `8`, Cup) · Slug `world-cup-women-8`
-- **World Cup - Women - Qualification Concacaf** · Kandidat (World, ID `927`, Cup) · Slug `world-cup-women-qualification-concacaf-927`
-- **World Cup - Women - Qualification Europe** · Kandidat (World, ID `880`, Cup) · Slug `world-cup-women-qualification-europe-880`
+<ul>
+<li><strong>FIFA Women Champions Cup</strong> · Kandidat (World, ID <code>1217</code>, Cup) · Slug <code>fifa-women-champions-cup-1217</code></li>
+<li><strong>World Cup - U17 - Women</strong> · Kandidat (World, ID <code>950</code>, Cup) · Slug <code>world-cup-u17-women-950</code></li>
+<li><strong>World Cup - U20 - Women</strong> · Kandidat (World, ID <code>920</code>, Cup) · Slug <code>world-cup-u20-women-920</code></li>
+<li><strong>World Cup - Women</strong> · Kandidat (World, ID <code>8</code>, Cup) · Slug <code>world-cup-women-8</code></li>
+<li><strong>World Cup - Women - Qualification Concacaf</strong> · Kandidat (World, ID <code>927</code>, Cup) · Slug <code>world-cup-women-qualification-concacaf-927</code></li>
+<li><strong>World Cup - Women - Qualification Europe</strong> · Kandidat (World, ID <code>880</code>, Cup) · Slug <code>world-cup-women-qualification-europe-880</code></li>
+</ul>
 
 </details>
 
 <details>
 <summary>Afrika · 2 Wettbewerbe</summary>
 
-- **Africa Cup of Nations - Women** · Kandidat (World, ID `922`, Cup) · Slug `africa-cup-of-nations-women-922`
-- **CAF Women's Champions League** · Kandidat (World, ID `1164`, Cup) · Slug `caf-women-s-champions-league-1164`
+<ul>
+<li><strong>Africa Cup of Nations - Women</strong> · Kandidat (World, ID <code>922</code>, Cup) · Slug <code>africa-cup-of-nations-women-922</code></li>
+<li><strong>CAF Women&#x27;s Champions League</strong> · Kandidat (World, ID <code>1164</code>, Cup) · Slug <code>caf-women-s-champions-league-1164</code></li>
+</ul>
 
 </details>
 
 <details>
 <summary>Asien/Ozeanien · 10 Wettbewerbe</summary>
 
-- **A-League Women** · Kandidat (Australia/AU, ID `190`, League) · Slug `a-league-women-190`
-- **Premier League Women** · Kandidat (Saudi-Arabia/SA, ID `1227`, League) · Slug `premier-league-women-1227`
-- **AFC U17 Asian Cup - Women** · Kandidat (World, ID `1101`, Cup) · Slug `afc-u17-asian-cup-women-1101`
-- **AFC U20 Asian Cup - Women** · Kandidat (World, ID `1070`, Cup) · Slug `afc-u20-asian-cup-women-1070`
-- **AFC Women's Champions League** · Kandidat (World, ID `1140`, Cup) · Slug `afc-women-s-champions-league-1140`
-- **Asean Championship Women** · Kandidat (World, ID `1189`, Cup) · Slug `asean-championship-women-1189`
-- **Asian Cup Women** · Kandidat (World, ID `897`, Cup) · Slug `asian-cup-women-897`
-- **Asian Cup Women - Qualification** · Kandidat (World, ID `894`, Cup) · Slug `asian-cup-women-qualification-894`
-- **EAFF E-1 Football Championship - Women** · Kandidat (World, ID `1188`, Cup) · Slug `eaff-e-1-football-championship-women-1188`
-- **Olympics Women - Qualification Asia** · Kandidat (World, ID `882`, Cup) · Slug `olympics-women-qualification-asia-882`
+<ul>
+<li><strong>A-League Women</strong> · Kandidat (Australia/AU, ID <code>190</code>, League) · Slug <code>a-league-women-190</code></li>
+<li><strong>Premier League Women</strong> · Kandidat (Saudi-Arabia/SA, ID <code>1227</code>, League) · Slug <code>premier-league-women-1227</code></li>
+<li><strong>AFC U17 Asian Cup - Women</strong> · Kandidat (World, ID <code>1101</code>, Cup) · Slug <code>afc-u17-asian-cup-women-1101</code></li>
+<li><strong>AFC U20 Asian Cup - Women</strong> · Kandidat (World, ID <code>1070</code>, Cup) · Slug <code>afc-u20-asian-cup-women-1070</code></li>
+<li><strong>AFC Women&#x27;s Champions League</strong> · Kandidat (World, ID <code>1140</code>, Cup) · Slug <code>afc-women-s-champions-league-1140</code></li>
+<li><strong>Asean Championship Women</strong> · Kandidat (World, ID <code>1189</code>, Cup) · Slug <code>asean-championship-women-1189</code></li>
+<li><strong>Asian Cup Women</strong> · Kandidat (World, ID <code>897</code>, Cup) · Slug <code>asian-cup-women-897</code></li>
+<li><strong>Asian Cup Women - Qualification</strong> · Kandidat (World, ID <code>894</code>, Cup) · Slug <code>asian-cup-women-qualification-894</code></li>
+<li><strong>EAFF E-1 Football Championship - Women</strong> · Kandidat (World, ID <code>1188</code>, Cup) · Slug <code>eaff-e-1-football-championship-women-1188</code></li>
+<li><strong>Olympics Women - Qualification Asia</strong> · Kandidat (World, ID <code>882</code>, Cup) · Slug <code>olympics-women-qualification-asia-882</code></li>
+</ul>
 
 </details>
 
 <details>
 <summary>Nord-/Mittelamerika · 6 Wettbewerbe</summary>
 
-- **NWSL Women** · Kandidat (USA/US, ID `254`, League) · Slug `nwsl-women-254`
-- **NWSL Women - Challenge Cup** · Kandidat (USA/US, ID `641`, Cup) · Slug `nwsl-women-challenge-cup-641`
-- **CONCACAF Gold Cup - Qualification - Women** · Kandidat (World, ID `1046`, Cup) · Slug `concacaf-gold-cup-qualification-women-1046`
-- **CONCACAF Gold Cup - Women** · Kandidat (World, ID `1057`, Cup) · Slug `concacaf-gold-cup-women-1057`
-- **CONCACAF Women U17** · Kandidat (World, ID `912`, Cup) · Slug `concacaf-women-u17-912`
-- **CONCACAF Women U20** · Kandidat (World, ID `1001`, Cup) · Slug `concacaf-women-u20-1001`
+<ul>
+<li><strong>NWSL Women</strong> · Kandidat (USA/US, ID <code>254</code>, League) · Slug <code>nwsl-women-254</code></li>
+<li><strong>NWSL Women - Challenge Cup</strong> · Kandidat (USA/US, ID <code>641</code>, Cup) · Slug <code>nwsl-women-challenge-cup-641</code></li>
+<li><strong>CONCACAF Gold Cup - Qualification - Women</strong> · Kandidat (World, ID <code>1046</code>, Cup) · Slug <code>concacaf-gold-cup-qualification-women-1046</code></li>
+<li><strong>CONCACAF Gold Cup - Women</strong> · Kandidat (World, ID <code>1057</code>, Cup) · Slug <code>concacaf-gold-cup-women-1057</code></li>
+<li><strong>CONCACAF Women U17</strong> · Kandidat (World, ID <code>912</code>, Cup) · Slug <code>concacaf-women-u17-912</code></li>
+<li><strong>CONCACAF Women U20</strong> · Kandidat (World, ID <code>1001</code>, Cup) · Slug <code>concacaf-women-u20-1001</code></li>
+</ul>
 
 </details>
 
 <details>
 <summary>Suedamerika · 3 Wettbewerbe</summary>
 
-- **Brasileiro Women** · Kandidat (Brazil/BR, ID `74`, League) · Slug `brasileiro-women-74`
-- **Liga Women** · Kandidat (Peru/PE, ID `1229`, League) · Slug `liga-women-1229`
-- **CONMEBOL Nations League Women** · Kandidat (World, ID `1206`, Cup) · Slug `conmebol-nations-league-women-1206`
+<ul>
+<li><strong>Brasileiro Women</strong> · Kandidat (Brazil/BR, ID <code>74</code>, League) · Slug <code>brasileiro-women-74</code></li>
+<li><strong>Liga Women</strong> · Kandidat (Peru/PE, ID <code>1229</code>, League) · Slug <code>liga-women-1229</code></li>
+<li><strong>CONMEBOL Nations League Women</strong> · Kandidat (World, ID <code>1206</code>, Cup) · Slug <code>conmebol-nations-league-women-1206</code></li>
+</ul>
 
 </details>
 
 <details>
 <summary>Weitere internationale Wettbewerbe · 5 Wettbewerbe</summary>
 
-- **Friendlies Women** · freigegeben (World, ID `666`, Cup) · Slug `friendlies-women-666` · Allowlist: `friendlies`
-- **All-Island Cup - Women** · Kandidat (World, ID `1013`, Cup) · Slug `all-island-cup-women-1013`
-- **International Champions Cup - Women** · Kandidat (World, ID `945`, Cup) · Slug `international-champions-cup-women-945`
-- **Olympics Women** · Kandidat (World, ID `524`, Cup) · Slug `olympics-women-524`
-- **Olympics Women - Qualification CAF** · Kandidat (World, ID `1047`, Cup) · Slug `olympics-women-qualification-caf-1047`
+<ul>
+<li><strong>Friendlies Women</strong> · freigegeben (World, ID <code>666</code>, Cup) · Slug <code>friendlies-women-666</code> · Allowlist: <code>friendlies</code></li>
+<li><strong>All-Island Cup - Women</strong> · Kandidat (World, ID <code>1013</code>, Cup) · Slug <code>all-island-cup-women-1013</code></li>
+<li><strong>International Champions Cup - Women</strong> · Kandidat (World, ID <code>945</code>, Cup) · Slug <code>international-champions-cup-women-945</code></li>
+<li><strong>Olympics Women</strong> · Kandidat (World, ID <code>524</code>, Cup) · Slug <code>olympics-women-524</code></li>
+<li><strong>Olympics Women - Qualification CAF</strong> · Kandidat (World, ID <code>1047</code>, Cup) · Slug <code>olympics-women-qualification-caf-1047</code></li>
+</ul>
 
 </details>
 
