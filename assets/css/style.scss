@@ -62,6 +62,11 @@ th {
   background: var(--statushub-surface);
 }
 
+thead th {
+  position: static;
+  top: auto;
+}
+
 td:nth-child(4),
 td:nth-child(5) {
   min-width: 12rem;
@@ -71,6 +76,26 @@ hr {
   border: 0;
   border-top: 1px solid var(--statushub-border);
   margin: 2rem 0;
+}
+
+@media (max-width: 900px) {
+  .wrapper {
+    width: auto;
+    margin: 0;
+    padding: 1.5rem;
+  }
+
+  header,
+  section,
+  footer {
+    float: none;
+    position: static;
+    width: 100%;
+  }
+
+  header {
+    padding-right: 0;
+  }
 }
 
 @media (max-width: 640px) {
