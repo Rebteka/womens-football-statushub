@@ -1,0 +1,102 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  --statushub-text: #1f2933;
+  --statushub-muted: #5f6f7f;
+  --statushub-border: #d8dee8;
+  --statushub-surface: #f7fafc;
+  --statushub-link: #0f766e;
+}
+
+body {
+  color: var(--statushub-text);
+  font-size: 17px;
+  line-height: 1.62;
+}
+
+.wrapper {
+  max-width: 1080px;
+}
+
+section {
+  width: min(100%, 820px);
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+a {
+  color: var(--statushub-link);
+}
+
+blockquote {
+  color: var(--statushub-muted);
+  border-left: 4px solid var(--statushub-border);
+  padding-left: 1rem;
+}
+
+table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-spacing: 0;
+  font-size: 0.92rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+th,
+td {
+  padding: 0.55rem 0.65rem;
+  vertical-align: top;
+  white-space: normal;
+}
+
+th {
+  background: var(--statushub-surface);
+}
+
+td:nth-child(4),
+td:nth-child(5) {
+  min-width: 12rem;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--statushub-border);
+  margin: 2rem 0;
+}
+
+@media (max-width: 640px) {
+  body {
+    font-size: 16px;
+  }
+
+  .wrapper {
+    width: auto;
+    margin: 0;
+    padding: 1rem;
+  }
+
+  header,
+  section,
+  footer {
+    float: none;
+    position: static;
+    width: 100%;
+  }
+
+  header {
+    padding-right: 0;
+  }
+
+  table {
+    margin: 1rem 0;
+  }
+}

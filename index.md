@@ -1,3 +1,13 @@
+---
+layout: default
+title: Women's Football Statushub
+---
+
 # Women's Football Statushub
 
-[Aktuellen Statushub anzeigen](statushub/latest.md)
+Aktuelle, public-faehige Markdown-Ausgabe fuer Frauenfussballspiele und Turnierstatus.
+
+- [Aktuellen Statushub anzeigen](statushub/latest.md)
+- [Archiv oeffnen](statushub/archive/)
+
+Die Seite wird automatisch aus API-SPORTS-Daten erzeugt. Rohdaten und private Snapshots werden nicht veroeffentlicht.
