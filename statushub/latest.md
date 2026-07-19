@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 2026-07-19T14:57:39Z
+> Quelle: API-SPORTS · Datenstand: 2026-07-19T15:05:34Z
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,7 +14,7 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 2026-07-19T14:57:39Z |
+| Dashboard | generiert 2026-07-19T15:05:34Z |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
 | Turnierstatus | Stand 2026-07-19T10:23:53Z |
 
@@ -189,49 +189,31 @@ Datenstand: 2026-07-19
 
 </details>
 
-<details>
-<summary>Turniertabelle anzeigen</summary>
-
-<div markdown="1">
-| Status | Wettbewerb | Saison | Zeitraum | Sieger | Sieger-Status | Hub-Status | Datenstand |
-|--------|------------|--------|----------|--------|---------------|------------|-----------|
-| 🆕 | 1. Frauen-Bundesliga | 2026 | 2026-08-21 bis 2027-05-23 | – | noch nicht abgeschlossen | neu erkannt | 2026-07-19 |
-| 🆕 | DFB-Pokal Frauen | 2026 | 2026-08-15 bis 2026-08-15 | – | noch nicht abgeschlossen | neu erkannt | 2026-07-19 |
-| 🆕 | UEFA Women's Champions League | 2026 | 2026-07-22 bis 2026-08-05 | – | noch nicht abgeschlossen | neu erkannt | 2026-07-19 |
-| 🆕 | Länderspiele | 2026 | 2026-01-11 bis 2026-07-22 | – | nicht anwendbar | neu erkannt | 2026-07-19 |
-| ⚪ | 2. Frauen-Bundesliga | 2025 | 2025-08-23 bis 2026-05-17 | Stuttgart W | bestaetigt aus Tabelle | abgeschlossen | 2026-07-19 |
-| ⚪ | UEFA Women's U19 | 2026 | 2026-06-27 bis 2026-07-10 | Spain U19 W | bestaetigt aus Finale | abgeschlossen | 2026-07-19 |
-| ⚪ | UEFA Women's U17 | 2026 | 2026-05-04 bis 2026-05-17 | Germany U17 W | bestaetigt aus Finale | abgeschlossen | 2026-07-19 |
-| ⚪ | UEFA Women's EURO | 2025 | 2025-07-02 bis 2025-07-27 | England W | bestaetigt aus Finale | abgeschlossen | 2026-07-19 |
-| ⚪ | UEFA Women's Nations League | 2025 | 2025-02-21 bis 2025-12-02 | Spain W | bestaetigt aus Finale | abgeschlossen | 2026-07-19 |
-</div>
-
-</details>
-
----
-
 ## 1. Frauen-Bundesliga – Tabelle
 
 <details>
 <summary>1. Frauen-Bundesliga Tabelle anzeigen</summary>
 
-<div markdown="1">
-| # | Team | Sp | S | U | N | Tore | Pkt |
-|---|------|----|---|---|---|------|-----|
-| 1 | Bayern Munich W | 26 | 24 | 2 | 0 | 90:9 | **74** |
-| 2 | VfL Wolfsburg W | 26 | 18 | 4 | 4 | 72:38 | **58** |
-| 3 | Eintracht Frankfurt W | 26 | 16 | 3 | 7 | 65:43 | **51** |
-| 4 | 1899 Hoffenheim W | 26 | 14 | 4 | 8 | 48:30 | **46** |
-| 5 | Bayer Leverkusen W | 26 | 15 | 1 | 10 | 46:36 | **46** |
-| 6 | Werder Bremen W | 26 | 12 | 7 | 7 | 42:36 | **43** |
-| 7 | FC Koln W | 26 | 11 | 4 | 11 | 36:37 | **37** |
-| 8 | SC Freiburg W | 26 | 10 | 4 | 12 | 44:46 | **34** |
-| 9 | Union Berlin W | 26 | 8 | 6 | 12 | 42:51 | **30** |
-| 10 | RB Leipzig W | 26 | 7 | 7 | 12 | 39:48 | **28** |
-| 11 | Nürnberg W | 26 | 6 | 4 | 16 | 33:61 | **22** |
-| 12 | Hamburger SV W | 26 | 4 | 6 | 16 | 26:57 | **18** |
-| 13 | SGS Essen W | 26 | 3 | 7 | 16 | 22:63 | **16** |
-| 14 | Carl Zeiss Jena  W | 26 | 2 | 5 | 19 | 22:72 | **11** |
+<div class="table-scroll">
+<table>
+<thead><tr><th>#</th><th>Team</th><th>Sp</th><th>S</th><th>U</th><th>N</th><th>Tore</th><th>Pkt</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>Bayern Munich W</td><td>26</td><td>24</td><td>2</td><td>0</td><td>90:9</td><td><strong>74</strong></td></tr>
+<tr><td>2</td><td>VfL Wolfsburg W</td><td>26</td><td>18</td><td>4</td><td>4</td><td>72:38</td><td><strong>58</strong></td></tr>
+<tr><td>3</td><td>Eintracht Frankfurt W</td><td>26</td><td>16</td><td>3</td><td>7</td><td>65:43</td><td><strong>51</strong></td></tr>
+<tr><td>4</td><td>1899 Hoffenheim W</td><td>26</td><td>14</td><td>4</td><td>8</td><td>48:30</td><td><strong>46</strong></td></tr>
+<tr><td>5</td><td>Bayer Leverkusen W</td><td>26</td><td>15</td><td>1</td><td>10</td><td>46:36</td><td><strong>46</strong></td></tr>
+<tr><td>6</td><td>Werder Bremen W</td><td>26</td><td>12</td><td>7</td><td>7</td><td>42:36</td><td><strong>43</strong></td></tr>
+<tr><td>7</td><td>FC Koln W</td><td>26</td><td>11</td><td>4</td><td>11</td><td>36:37</td><td><strong>37</strong></td></tr>
+<tr><td>8</td><td>SC Freiburg W</td><td>26</td><td>10</td><td>4</td><td>12</td><td>44:46</td><td><strong>34</strong></td></tr>
+<tr><td>9</td><td>Union Berlin W</td><td>26</td><td>8</td><td>6</td><td>12</td><td>42:51</td><td><strong>30</strong></td></tr>
+<tr><td>10</td><td>RB Leipzig W</td><td>26</td><td>7</td><td>7</td><td>12</td><td>39:48</td><td><strong>28</strong></td></tr>
+<tr><td>11</td><td>Nürnberg W</td><td>26</td><td>6</td><td>4</td><td>16</td><td>33:61</td><td><strong>22</strong></td></tr>
+<tr><td>12</td><td>Hamburger SV W</td><td>26</td><td>4</td><td>6</td><td>16</td><td>26:57</td><td><strong>18</strong></td></tr>
+<tr><td>13</td><td>SGS Essen W</td><td>26</td><td>3</td><td>7</td><td>16</td><td>22:63</td><td><strong>16</strong></td></tr>
+<tr><td>14</td><td>Carl Zeiss Jena  W</td><td>26</td><td>2</td><td>5</td><td>19</td><td>22:72</td><td><strong>11</strong></td></tr>
+</tbody>
+</table>
 </div>
 
 </details>
@@ -241,23 +223,26 @@ Datenstand: 2026-07-19
 <details>
 <summary>2. Frauen-Bundesliga Tabelle anzeigen</summary>
 
-<div markdown="1">
-| # | Team | Sp | S | U | N | Tore | Pkt |
-|---|------|----|---|---|---|------|-----|
-| 1 | Stuttgart W | 26 | 17 | 7 | 2 | 81:33 | **58** |
-| 2 | Mainz 05 W | 26 | 17 | 4 | 5 | 77:29 | **55** |
-| 3 | SC Sand W | 26 | 16 | 5 | 5 | 53:26 | **53** |
-| 4 | Meppen W | 26 | 15 | 4 | 7 | 56:26 | **49** |
-| 5 | Viktoria Berlin W | 26 | 12 | 9 | 5 | 41:20 | **45** |
-| 6 | Andernach W | 26 | 10 | 8 | 8 | 46:44 | **38** |
-| 7 | Ingolstadt W | 26 | 12 | 2 | 12 | 45:48 | **38** |
-| 8 | Eintracht Frankfurt II W | 26 | 9 | 6 | 11 | 38:38 | **33** |
-| 9 | Bochum W | 26 | 9 | 5 | 12 | 33:40 | **32** |
-| 10 | Borussia Monchengladbach W | 26 | 9 | 4 | 13 | 39:53 | **31** |
-| 11 | Turbine Potsdam W | 26 | 9 | 3 | 14 | 37:50 | **30** |
-| 12 | Bayern München II W | 26 | 8 | 3 | 15 | 40:64 | **27** |
-| 13 | Wolfsburg II W | 26 | 6 | 1 | 19 | 38:75 | **19** |
-| 14 | Warbeyen W | 26 | 1 | 3 | 22 | 21:99 | **6** |
+<div class="table-scroll">
+<table>
+<thead><tr><th>#</th><th>Team</th><th>Sp</th><th>S</th><th>U</th><th>N</th><th>Tore</th><th>Pkt</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>Stuttgart W</td><td>26</td><td>17</td><td>7</td><td>2</td><td>81:33</td><td><strong>58</strong></td></tr>
+<tr><td>2</td><td>Mainz 05 W</td><td>26</td><td>17</td><td>4</td><td>5</td><td>77:29</td><td><strong>55</strong></td></tr>
+<tr><td>3</td><td>SC Sand W</td><td>26</td><td>16</td><td>5</td><td>5</td><td>53:26</td><td><strong>53</strong></td></tr>
+<tr><td>4</td><td>Meppen W</td><td>26</td><td>15</td><td>4</td><td>7</td><td>56:26</td><td><strong>49</strong></td></tr>
+<tr><td>5</td><td>Viktoria Berlin W</td><td>26</td><td>12</td><td>9</td><td>5</td><td>41:20</td><td><strong>45</strong></td></tr>
+<tr><td>6</td><td>Andernach W</td><td>26</td><td>10</td><td>8</td><td>8</td><td>46:44</td><td><strong>38</strong></td></tr>
+<tr><td>7</td><td>Ingolstadt W</td><td>26</td><td>12</td><td>2</td><td>12</td><td>45:48</td><td><strong>38</strong></td></tr>
+<tr><td>8</td><td>Eintracht Frankfurt II W</td><td>26</td><td>9</td><td>6</td><td>11</td><td>38:38</td><td><strong>33</strong></td></tr>
+<tr><td>9</td><td>Bochum W</td><td>26</td><td>9</td><td>5</td><td>12</td><td>33:40</td><td><strong>32</strong></td></tr>
+<tr><td>10</td><td>Borussia Monchengladbach W</td><td>26</td><td>9</td><td>4</td><td>13</td><td>39:53</td><td><strong>31</strong></td></tr>
+<tr><td>11</td><td>Turbine Potsdam W</td><td>26</td><td>9</td><td>3</td><td>14</td><td>37:50</td><td><strong>30</strong></td></tr>
+<tr><td>12</td><td>Bayern München II W</td><td>26</td><td>8</td><td>3</td><td>15</td><td>40:64</td><td><strong>27</strong></td></tr>
+<tr><td>13</td><td>Wolfsburg II W</td><td>26</td><td>6</td><td>1</td><td>19</td><td>38:75</td><td><strong>19</strong></td></tr>
+<tr><td>14</td><td>Warbeyen W</td><td>26</td><td>1</td><td>3</td><td>22</td><td>21:99</td><td><strong>6</strong></td></tr>
+</tbody>
+</table>
 </div>
 
 </details>
