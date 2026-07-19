@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Wettbewerbe
+title: Wettbewerbs-Katalog
 ---
 
-# Wettbewerbe
+# Wettbewerbs-Katalog
 
 Datenstand: 2026-07-19T15:59:10Z
 
-Diese Uebersicht stammt aus dem API-SPORTS-League-Audit. Kandidaten sind nur Review-Hinweise und werden nicht automatisch im Statushub freigeschaltet.
+Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
+Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
+Kandidaten sind nur Review-Hinweise und werden nicht automatisch im Statushub freigeschaltet.
 Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Europa, UEFA/FIFA und danach Kontinente.
 
 - Bestaetigt: 9
@@ -152,4 +154,4 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 
 </details>
 
-[Zur aktuellen Spieluebersicht]({{ '/statushub/latest.html#spiele-rueckblick--vorschau' | relative_url }})
+[Zum aktuellen Statushub mit Spielen, Turnierstatus und Liga-Tabellen]({{ '/statushub/latest.html' | relative_url }})

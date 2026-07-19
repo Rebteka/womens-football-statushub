@@ -132,6 +132,12 @@ details[open] > :not(summary) {
   background: var(--statushub-surface);
 }
 
+.context-note {
+  margin: 0.75rem 0;
+  color: var(--statushub-muted);
+  font-size: 0.95rem;
+}
+
 .table-scroll,
 .site-main > table {
   max-width: 100%;

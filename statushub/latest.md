@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 2026-07-19T16:21:42Z
+> Quelle: API-SPORTS · Datenstand: 2026-07-19T16:31:06Z
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,9 +14,12 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 2026-07-19T16:21:42Z |
+| Dashboard | generiert 2026-07-19T16:31:06Z |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
 | Turnierstatus | Stand 2026-07-19T10:23:53Z |
+| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 2026-07-19T16:31:06Z |
+
+Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
 
 ---
 
@@ -189,10 +192,12 @@ Datenstand: 2026-07-19
 
 </details>
 
-## 1. Frauen-Bundesliga – Tabelle
+## 1. Frauen-Bundesliga – Liga-Tabelle
 
 <details>
-<summary>1. Frauen-Bundesliga Tabelle anzeigen</summary>
+<summary>1. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
+
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Tabellenstand aus API-SPORTS beim Dashboard-Build 2026-07-19T16:31:06Z. Kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -218,10 +223,12 @@ Datenstand: 2026-07-19
 
 </details>
 
-## 2. Frauen-Bundesliga – Tabelle
+## 2. Frauen-Bundesliga – Liga-Tabelle
 
 <details>
-<summary>2. Frauen-Bundesliga Tabelle anzeigen</summary>
+<summary>2. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
+
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Tabellenstand aus API-SPORTS beim Dashboard-Build 2026-07-19T16:31:06Z. Kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
