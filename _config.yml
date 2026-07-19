@@ -1,3 +1,4 @@
 title: Women's Football Statushub
 description: Public match and tournament status for women's football
-theme: jekyll-theme-minimal
+baseurl: ""
+url: ""

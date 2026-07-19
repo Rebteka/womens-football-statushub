@@ -1,44 +1,143 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 :root {
   --statushub-text: #1f2933;
   --statushub-muted: #5f6f7f;
   --statushub-border: #d8dee8;
   --statushub-surface: #f7fafc;
   --statushub-link: #0f766e;
+  --statushub-accent: #0f766e;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  overflow-x: hidden;
 }
 
 body {
+  margin: 0;
   color: var(--statushub-text);
+  background: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 17px;
   line-height: 1.62;
-}
-
-.wrapper {
-  max-width: 1080px;
-}
-
-section {
-  width: min(100%, 820px);
-}
-
-h1,
-h2,
-h3 {
-  line-height: 1.2;
+  overflow-x: hidden;
 }
 
 a {
   color: var(--statushub-link);
 }
 
-blockquote {
+.site-shell {
+  width: min(100%, 1120px);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.site-header {
+  position: static;
+  width: 100%;
+  padding: 1.25rem 0 1rem;
+  border-bottom: 1px solid var(--statushub-border);
+}
+
+.site-title {
+  display: inline-block;
+  color: var(--statushub-text);
+  font-size: clamp(1.35rem, 3vw, 2rem);
+  font-weight: 700;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.site-description {
+  margin: 0.35rem 0 0;
   color: var(--statushub-muted);
-  border-left: 4px solid var(--statushub-border);
-  padding-left: 1rem;
+  font-size: 0.95rem;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin-top: 0.85rem;
+}
+
+.site-nav a {
+  min-height: 2.75rem;
+  padding: 0.45rem 0;
+  touch-action: manipulation;
+}
+
+.site-main {
+  width: min(100%, 900px);
+  padding: 1.5rem 0 2.5rem;
+}
+
+.site-main h1,
+.site-main h2,
+.site-main h3 {
+  line-height: 1.25;
+}
+
+.site-main h1 {
+  font-size: clamp(1.55rem, 4vw, 2.25rem);
+}
+
+.site-main h2 {
+  margin-top: 2rem;
+  font-size: clamp(1.25rem, 3vw, 1.7rem);
+}
+
+.site-main h3 {
+  font-size: 1.1rem;
+}
+
+.site-footer {
+  padding: 1rem 0 2rem;
+  border-top: 1px solid var(--statushub-border);
+  color: var(--statushub-muted);
+  font-size: 0.9rem;
+}
+
+details {
+  margin: 0.75rem 0;
+  border: 1px solid var(--statushub-border);
+  border-radius: 0.35rem;
+  background: #fff;
+}
+
+summary {
+  min-height: 2.75rem;
+  padding: 0.65rem 0.8rem;
+  cursor: pointer;
+  font-weight: 650;
+  touch-action: manipulation;
+}
+
+details[open] > :not(summary) {
+  margin-left: 0.8rem;
+  margin-right: 0.8rem;
+}
+
+.match-card {
+  margin: 0.75rem 0;
+  padding: 0.75rem;
+  border-left: 3px solid var(--statushub-accent);
+  background: var(--statushub-surface);
+}
+
+.table-scroll {
+  max-width: 100%;
+  margin: 0.75rem 0 1rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
 }
 
 table {
@@ -48,31 +147,23 @@ table {
   font-size: 0.92rem;
 }
 
-.table-scroll {
-  max-width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
 th,
 td {
   padding: 0.55rem 0.65rem;
+  border-bottom: 1px solid var(--statushub-border);
+  text-align: left;
   vertical-align: top;
-  white-space: normal;
 }
 
 th {
   background: var(--statushub-surface);
 }
 
-thead th {
-  position: static;
-  top: auto;
-}
-
-td:nth-child(4),
-td:nth-child(5) {
-  min-width: 12rem;
+blockquote {
+  margin-left: 0;
+  padding-left: 1rem;
+  border-left: 4px solid var(--statushub-border);
+  color: var(--statushub-muted);
 }
 
 hr {
@@ -81,50 +172,24 @@ hr {
   margin: 2rem 0;
 }
 
-@media screen and (max-width: 1100px) {
-  .wrapper {
-    width: auto;
-    margin: 0;
-    padding: 1.5rem;
-  }
-
-  header,
-  section,
-  footer {
-    float: none;
-    position: static;
-    width: 100%;
-  }
-
-  header {
-    padding-right: 0;
-  }
-}
-
 @media (max-width: 640px) {
   body {
     font-size: 16px;
   }
 
-  .wrapper {
-    width: auto;
-    margin: 0;
-    padding: 1rem;
+  .site-shell {
+    padding: 0 1rem;
   }
 
-  header,
-  section,
-  footer {
-    float: none;
-    position: static;
-    width: 100%;
+  .site-header {
+    padding-top: 1rem;
   }
 
-  header {
-    padding-right: 0;
+  .site-main {
+    padding-top: 1.1rem;
   }
 
-  table {
-    margin: 1rem 0;
+  .site-main h1 {
+    overflow-wrap: anywhere;
   }
 }
