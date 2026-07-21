@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 2026-07-20T14:10:48Z
+> Quelle: API-SPORTS · Datenstand: 2026-07-21T02:49:13Z
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,10 +14,10 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 2026-07-20T14:10:48Z |
+| Dashboard | generiert 2026-07-21T02:49:13Z |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 2026-07-20T14:08:14Z |
-| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 2026-07-20T14:10:48Z |
+| Turnierstatus | Stand 2026-07-21T02:46:38Z |
+| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 2026-07-21T02:49:13Z |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
 
@@ -27,16 +27,11 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Mobile Ansicht nach Wettbewerb
 
-_Abfragefenster: 2026-07-13 bis 2026-07-27 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 2026-07-20T14:10:48Z. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
+_Abfragefenster: 2026-07-14 bis 2026-07-28 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
+_Datenabruf: 2026-07-21T02:49:13Z. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
 
 <details>
-<summary>Friendlies Women · 6 Spiele</summary>
-
-<div class="match-card">
-<strong>United States U20 W vs Colombia U20 W</strong><br>
-Mo, 2026-07-13 · 02:00 · <strong>0:1</strong> [FT] · Live-Capability
-</div>
+<summary>Friendlies Women · 5 Spiele</summary>
 
 <div class="match-card">
 <strong>Ivory Coast W vs Ghana W</strong><br>
@@ -127,7 +122,7 @@ Mi, 2026-07-22 · 20:00 · geplant · Live-Capability
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -136,7 +131,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2026-08-15 bis 2026-08-15<br>
 Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -145,7 +140,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2026-07-22 bis 2026-08-05<br>
 Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -154,7 +149,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2026-01-11 bis 2026-07-22<br>
 Sieger: kein Sieger festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -163,7 +158,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2025-08-23 bis 2026-05-17<br>
 Sieger: Stuttgart W (bestaetigt aus Tabelle)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -172,7 +167,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Sieger: Spain U19 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -181,7 +176,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Sieger: Germany U17 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -190,7 +185,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Sieger: England W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -199,7 +194,7 @@ Datenstand: 2026-07-20
 
 Zeitraum: 2025-02-21 bis 2025-12-02<br>
 Sieger: Spain W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-20
+Datenstand: 2026-07-21
 
 </details>
 
@@ -210,7 +205,7 @@ Datenstand: 2026-07-20
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-20T14:10:48Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-21T02:49:13Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -241,7 +236,7 @@ Datenstand: 2026-07-20
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-20T14:10:48Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-21T02:49:13Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
