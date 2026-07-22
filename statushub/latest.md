@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 22.07.2026, 21:05 Uhr
+> Quelle: API-SPORTS · Datenstand: 22.07.2026, 21:33 Uhr
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 22.07.2026, 21:05 Uhr |
+| Dashboard | generiert 22.07.2026, 21:33 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 22.07.2026, 21:03 Uhr |
-| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 22.07.2026, 21:05 Uhr |
+| Turnierstatus | Stand 22.07.2026, 21:30 Uhr |
+| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 22.07.2026, 21:33 Uhr |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
 
@@ -29,7 +29,7 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 ### Mobile Ansicht nach Wettbewerb
 
 _Abfragefenster: 2026-07-15 bis 2026-07-29 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 22.07.2026, 21:05 Uhr. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
+_Datenabruf: 22.07.2026, 21:33 Uhr. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
 
 <details>
 <summary>Friendlies Women · 4 Spiele</summary>
@@ -41,7 +41,7 @@ Mi, 2026-07-15 · 17:00 · <strong>0:0</strong> [FT] · Live-Capability
 
 <div class="match-card">
 <strong>Morocco W vs Malawi W</strong><br>
-Do, 2026-07-16 · 21:00 · <strong>2:1</strong> [FT] · Live-Capability
+Do, 2026-07-16 · 21:00 · <strong>2:1</strong> [FT] – Sieger: Morocco W · Live-Capability
 </div>
 
 <div class="match-card">
@@ -51,7 +51,7 @@ So, 2026-07-19 · 19:00 · <strong>1:1</strong> [FT] · Live-Capability
 
 <div class="match-card">
 <strong>Algeria W vs Zambia W</strong><br>
-Mi, 2026-07-22 · 19:00 · <strong>1:0</strong> [2H] · Live-Capability
+Mi, 2026-07-22 · 19:00 · <strong>1:0</strong> [FT] – Sieger: Algeria W · Live-Capability
 </div>
 
 </details>
@@ -61,47 +61,47 @@ Mi, 2026-07-22 · 19:00 · <strong>1:0</strong> [2H] · Live-Capability
 
 <div class="match-card">
 <strong>Neftçi Bakı vs Budućnost W</strong><br>
-Mi, 2026-07-22 · 10:00 · <strong>0:0</strong> [PEN] · Live-Capability
+Mi, 2026-07-22 · 10:00 · <strong>0:0</strong> [PEN] (nach 90 Min 0:0, i.E. 4:3) – Sieger: Neftçi Bakı · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Athlone WFC W vs ZFK Skopje 2014 W</strong><br>
-Mi, 2026-07-22 · 11:00 · <strong>4:0</strong> [FT] · Live-Capability
+Mi, 2026-07-22 · 11:00 · <strong>4:0</strong> [FT] – Sieger: Athlone WFC W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Glentoran BU W vs Riga W</strong><br>
-Mi, 2026-07-22 · 14:00 · <strong>1:4</strong> [FT] · Live-Capability
+Mi, 2026-07-22 · 14:00 · <strong>1:4</strong> [FT] – Sieger: Riga W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>KÍ vs Ludogorets W</strong><br>
-Mi, 2026-07-22 · 16:30 · <strong>0:3</strong> [FT] · Live-Capability
+Mi, 2026-07-22 · 16:30 · <strong>0:3</strong> [FT] – Sieger: Ludogorets W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Mitrovica W vs Zimbru Chisinau W</strong><br>
-Mi, 2026-07-22 · 16:30 · <strong>10:0</strong> [FT] · Live-Capability
+Mi, 2026-07-22 · 16:30 · <strong>10:0</strong> [FT] – Sieger: Mitrovica W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>PAOK W vs Hapoel Jerusalem W</strong><br>
-Mi, 2026-07-22 · 17:30 · <strong>3:1</strong> [FT] · Live-Capability
+Mi, 2026-07-22 · 17:30 · <strong>3:1</strong> [FT] – Sieger: PAOK W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Czarni Sosnowiec W vs Lusso W</strong><br>
-Mi, 2026-07-22 · 18:00 · <strong>7:1</strong> [FT] · Live-Capability
+Mi, 2026-07-22 · 18:00 · <strong>7:1</strong> [FT] – Sieger: Czarni Sosnowiec W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Flora W vs Mgarr W</strong><br>
-Mi, 2026-07-22 · 18:00 · <strong>0:4</strong> [FT] · Live-Capability
+Mi, 2026-07-22 · 18:00 · <strong>0:4</strong> [FT] – Sieger: Mgarr W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Pyunik W vs Wrexham W</strong><br>
-Mi, 2026-07-22 · 20:00 · <strong>1:1</strong> [HT] · Live-Capability
+Mi, 2026-07-22 · 20:00 · <strong>2:3</strong> [2H] · Live-Capability
 </div>
 
 </details>
@@ -209,7 +209,7 @@ Datenstand: 2026-07-22
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 21:05 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 21:33 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -240,7 +240,7 @@ Datenstand: 2026-07-22
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 21:05 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 21:33 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
