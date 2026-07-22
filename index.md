@@ -8,6 +8,7 @@ title: Women's Football Statushub
 Aktuelle, public-faehige Markdown-Ausgabe fuer Frauenfussballspiele und Turnierstatus.
 
 - [Aktuellen Statushub anzeigen]({{ '/statushub/latest.html' | relative_url }})
+- [Live-Ticker anzeigen]({{ '/statushub/live.html' | relative_url }})
 - [Wettbewerbs-Katalog / API-Abdeckung oeffnen]({{ '/competitions/index.html' | relative_url }})
 - [Archiv oeffnen]({{ '/statushub/archive/index.html' | relative_url }})
 

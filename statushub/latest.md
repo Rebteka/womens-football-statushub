@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 22.07.2026, 20:47 Uhr
+> Quelle: API-SPORTS · Datenstand: 22.07.2026, 21:05 Uhr
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 22.07.2026, 20:47 Uhr |
-| Live-Status | Live (Stand 22.07.2026, 20:47 Uhr) |
-| Spielvorschau/Rueckblick | stale (76.2h alt, max 18h) |
-| Turnierstatus | Stand 19.07.2026, 12:23 Uhr |
-| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 22.07.2026, 20:47 Uhr |
+| Dashboard | generiert 22.07.2026, 21:05 Uhr |
+| Live-Status | siehe [Live-Ticker](live.html) |
+| Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
+| Turnierstatus | Stand 22.07.2026, 21:03 Uhr |
+| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 22.07.2026, 21:05 Uhr |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
 
@@ -28,30 +28,30 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Mobile Ansicht nach Wettbewerb
 
-_Abfragefenster: 2026-07-12 bis 2026-07-26 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 19.07.2026, 16:35 Uhr. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
+_Abfragefenster: 2026-07-15 bis 2026-07-29 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
+_Datenabruf: 22.07.2026, 21:05 Uhr. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
 
 <details>
 <summary>Friendlies Women · 4 Spiele</summary>
 
 <div class="match-card">
-<strong>United States U20 W vs Colombia U20 W</strong><br>
-Mo, 2026-07-13 · 02:00 · <strong>0:1</strong> [FT] · Live-Capability
-</div>
-
-<div class="match-card">
 <strong>England U20 W vs Colombia U20 W</strong><br>
-Mi, 2026-07-15 · 18:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-15 · 17:00 · <strong>0:0</strong> [FT] · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Morocco W vs Malawi W</strong><br>
+Do, 2026-07-16 · 21:00 · <strong>2:1</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Algeria W vs Zambia W</strong><br>
-So, 2026-07-19 · 20:00 · kein Ergebnis laut API · Live-Capability
+So, 2026-07-19 · 19:00 · <strong>1:1</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Algeria W vs Zambia W</strong><br>
-Mi, 2026-07-22 · 19:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 19:00 · <strong>1:0</strong> [2H] · Live-Capability
 </div>
 
 </details>
@@ -61,47 +61,47 @@ Mi, 2026-07-22 · 19:00 · kein Ergebnis laut API · Live-Capability
 
 <div class="match-card">
 <strong>Neftçi Bakı vs Budućnost W</strong><br>
-Mi, 2026-07-22 · 10:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 10:00 · <strong>0:0</strong> [PEN] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Athlone WFC W vs ZFK Skopje 2014 W</strong><br>
-Mi, 2026-07-22 · 11:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 11:00 · <strong>4:0</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Glentoran BU W vs Riga W</strong><br>
-Mi, 2026-07-22 · 14:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 14:00 · <strong>1:4</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>KÍ vs Ludogorets W</strong><br>
-Mi, 2026-07-22 · 16:30 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 16:30 · <strong>0:3</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Mitrovica W vs Zimbru Chisinau W</strong><br>
-Mi, 2026-07-22 · 16:30 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 16:30 · <strong>10:0</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>PAOK W vs Hapoel Jerusalem W</strong><br>
-Mi, 2026-07-22 · 17:30 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 17:30 · <strong>3:1</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Czarni Sosnowiec W vs Lusso W</strong><br>
-Mi, 2026-07-22 · 18:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 18:00 · <strong>7:1</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Flora W vs Mgarr W</strong><br>
-Mi, 2026-07-22 · 18:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 18:00 · <strong>0:4</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Pyunik W vs Wrexham W</strong><br>
-Mi, 2026-07-22 · 20:00 · kein Ergebnis laut API · Live-Capability
+Mi, 2026-07-22 · 20:00 · <strong>1:1</strong> [HT] · Live-Capability
 </div>
 
 </details>
@@ -110,11 +110,9 @@ Mi, 2026-07-22 · 20:00 · kein Ergebnis laut API · Live-Capability
 
 ## Live-Status
 
-_Live (Stand 22.07.2026, 20:47 Uhr)_
-
-- 🔴 **Pyunik W 1:1 Wrexham W** (45')  _UEFA Champions League Women_ · Stand: 22.07.2026, 20:47 Uhr
-- 🔴 **Algeria W 0:0 Zambia W** (79')  _Friendlies Women_ · Stand: 22.07.2026, 20:47 Uhr
-
+Live-Ergebnisse laufender Spiele werden nur waehrend eines manuell gestarteten
+Live-Updates aktualisiert und stehen auf einer eigenen Seite:
+👉 [Live-Ticker ansehen](live.html)
 
 ---
 
@@ -128,7 +126,7 @@ _Live (Stand 22.07.2026, 20:47 Uhr)_
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -137,7 +135,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2026-08-15 bis 2026-08-15<br>
 Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -146,7 +144,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2026-07-22 bis 2026-08-05<br>
 Sieger: kein Sieger festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -155,7 +153,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2025-08-23 bis 2026-05-17<br>
 Sieger: Stuttgart W (bestaetigt aus Tabelle)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -164,7 +162,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Sieger: Spain U19 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -173,7 +171,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Sieger: Germany U17 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -182,7 +180,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Sieger: England W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -191,7 +189,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2026-01-11 bis 2026-07-22<br>
 Sieger: kein Sieger festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -200,7 +198,7 @@ Datenstand: 2026-07-19
 
 Zeitraum: 2025-02-21 bis 2025-12-02<br>
 Sieger: Spain W (bestaetigt aus Finale)<br>
-Datenstand: 2026-07-19
+Datenstand: 2026-07-22
 
 </details>
 
@@ -211,7 +209,7 @@ Datenstand: 2026-07-19
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 20:47 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 21:05 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -242,7 +240,7 @@ Datenstand: 2026-07-19
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 20:47 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 21:05 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
