@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 2026-07-22T02:47:14Z
+> Quelle: API-SPORTS · Datenstand: 2026-07-22T14:00:11Z
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,10 +14,10 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 2026-07-22T02:47:14Z |
+| Dashboard | generiert 2026-07-22T14:00:11Z |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 2026-07-22T02:44:25Z |
-| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 2026-07-22T02:47:14Z |
+| Turnierstatus | Stand 2026-07-22T13:57:35Z |
+| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 2026-07-22T14:00:11Z |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
 
@@ -28,7 +28,7 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 ### Mobile Ansicht nach Wettbewerb
 
 _Abfragefenster: 2026-07-15 bis 2026-07-29 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 2026-07-22T02:47:14Z. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
+_Datenabruf: 2026-07-22T14:00:11Z. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
 
 <details>
 <summary>Friendlies Women · 4 Spiele</summary>
@@ -60,17 +60,17 @@ Mi, 2026-07-22 · 19:00 · geplant · Live-Capability
 
 <div class="match-card">
 <strong>Neftçi Bakı vs Budućnost W</strong><br>
-Mi, 2026-07-22 · 10:00 · geplant · Live-Capability
+Mi, 2026-07-22 · 10:00 · <strong>0:0</strong> [PEN] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Athlone WFC W vs ZFK Skopje 2014 W</strong><br>
-Mi, 2026-07-22 · 11:00 · geplant · Live-Capability
+Mi, 2026-07-22 · 11:00 · <strong>4:0</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Glentoran BU W vs Riga W</strong><br>
-Mi, 2026-07-22 · 14:00 · geplant · Live-Capability
+Mi, 2026-07-22 · 14:00 · <strong>1:4</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
@@ -200,7 +200,7 @@ Datenstand: 2026-07-22
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-22T02:47:14Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-22T14:00:11Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -231,7 +231,7 @@ Datenstand: 2026-07-22
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-22T02:47:14Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-22T14:00:11Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
