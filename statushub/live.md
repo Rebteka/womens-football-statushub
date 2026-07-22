@@ -7,11 +7,11 @@ title: Live-Ticker
 
 > Diese Seite wird nur waehrend eines laufenden, manuell gestarteten Live-Updates
 > aktualisiert. Ausserhalb eines aktiven Updates zeigt sie den letzten bekannten Stand.
-> Build-Zeitpunkt: 22.07.2026, 21:40 Uhr
+> Build-Zeitpunkt: 22.07.2026, 21:45 Uhr
 
-_Live (Stand 22.07.2026, 21:40 Uhr)_
+_Live (Stand 22.07.2026, 21:45 Uhr)_
 
-- 🔴 **Pyunik W 2:3 Wrexham W** (81')  _UEFA Champions League Women_ · Stand: 22.07.2026, 21:40 Uhr
+- 🔴 **Pyunik W 2:3 Wrexham W** (86')  _UEFA Champions League Women_ · Stand: 22.07.2026, 21:45 Uhr
 
 ---
 
