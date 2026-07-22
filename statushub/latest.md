@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 2026-07-22T17:58:23Z
+> Quelle: API-SPORTS · Datenstand: 22.07.2026, 20:20 Uhr
 > Saison: 2025 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 2026-07-22T17:58:23Z |
-| Live-Status | Live (Stand 2026-07-22T17:58:23Z) |
-| Spielvorschau/Rueckblick | stale (75.4h alt, max 18h) |
-| Turnierstatus | Stand 2026-07-19T10:23:53Z |
-| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 2026-07-22T17:58:23Z |
+| Dashboard | generiert 22.07.2026, 20:20 Uhr |
+| Live-Status | Live (Stand 22.07.2026, 20:20 Uhr) |
+| Spielvorschau/Rueckblick | stale (75.7h alt, max 18h) |
+| Turnierstatus | Stand 19.07.2026, 12:23 Uhr |
+| Liga-Tabellen | Saison 2025, Snapshot beim Dashboard-Build 22.07.2026, 20:20 Uhr |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
 
@@ -29,7 +29,7 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 ### Mobile Ansicht nach Wettbewerb
 
 _Abfragefenster: 2026-07-12 bis 2026-07-26 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 2026-07-19T14:35:59Z. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
+_Datenabruf: 19.07.2026, 16:35 Uhr. Wettbewerbe/Ligen: Friendlies Women, UEFA Champions League Women._
 
 <details>
 <summary>Friendlies Women · 4 Spiele</summary>
@@ -101,7 +101,7 @@ Mi, 2026-07-22 · 18:00 · kein Ergebnis laut API · Live-Capability
 
 <div class="match-card">
 <strong>Pyunik W vs Wrexham W</strong><br>
-Mi, 2026-07-22 · 20:00 · geplant · Live-Capability
+Mi, 2026-07-22 · 20:00 · kein Ergebnis laut API · Live-Capability
 </div>
 
 </details>
@@ -110,10 +110,10 @@ Mi, 2026-07-22 · 20:00 · geplant · Live-Capability
 
 ## Live-Status
 
-_Live (Stand 2026-07-22T17:58:23Z)_
+_Live (Stand 22.07.2026, 20:20 Uhr)_
 
-- 🔴 **Czarni Sosnowiec W 6:1 Lusso W** (90')  _UEFA Champions League Women_ · Stand: 2026-07-22T17:58:23Z
-- 🔴 **Algeria W 0:0 Zambia W** (45')  _Friendlies Women_ · Stand: 2026-07-22T17:58:23Z
+- 🔴 **Pyunik W 1:1 Wrexham W** (19')  _UEFA Champions League Women_ · Stand: 22.07.2026, 20:20 Uhr
+- 🔴 **Algeria W 0:0 Zambia W** (52')  _Friendlies Women_ · Stand: 22.07.2026, 20:20 Uhr
 
 
 ---
@@ -211,7 +211,7 @@ Datenstand: 2026-07-19
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-22T17:58:23Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 20:20 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -242,7 +242,7 @@ Datenstand: 2026-07-19
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 2026-07-22T17:58:23Z. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.07.2026, 20:20 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
