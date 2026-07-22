@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-07-22T21:59:46Z
+Datenstand: 2026-07-22T22:03:41Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
