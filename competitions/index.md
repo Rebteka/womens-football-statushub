@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-07-23T02:50:11Z
+Datenstand: 2026-07-23T14:02:55Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -103,7 +103,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <summary>CAF-Wettbewerbe · 6 Wettbewerbe</summary>
 
 <ul>
-<li><strong>Africa Cup of Nations - Women</strong> · Kandidat (World, ID <code>922</code>, Cup) · Slug <code>africa-cup-of-nations-women-922</code> · API-Saison 2024 (2025-07-05 bis 2025-07-26)</li>
+<li><strong>Africa Cup of Nations - Women</strong> · Kandidat (World, ID <code>922</code>, Cup) · Slug <code>africa-cup-of-nations-women-922</code> · API-Saison 2025 (2026-07-26 bis 2026-08-06)</li>
 <li><strong>CAF Women&#x27;s Champions League</strong> · Kandidat (World, ID <code>1164</code>, Cup) · Slug <code>caf-women-s-champions-league-1164</code> · API-Saison 2025 (2025-11-08 bis 2025-11-21)</li>
 <li><strong>CONCACAF Gold Cup - Qualification - Women</strong> · Kandidat (World, ID <code>1046</code>, Cup) · Slug <code>concacaf-gold-cup-qualification-women-1046</code> · API-Saison 2024 (2023-09-20 bis 2024-02-17)</li>
 <li><strong>CONCACAF Gold Cup - Women</strong> · Kandidat (World, ID <code>1057</code>, Cup) · Slug <code>concacaf-gold-cup-women-1057</code> · API-Saison 2024 (2024-02-21 bis 2024-03-11)</li>
