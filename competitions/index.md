@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-07-24T02:45:07Z
+Datenstand: 2026-07-24T13:47:25Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -48,7 +48,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <li><strong>Women&#x27;s President&#x27;s Cup</strong> · Kandidat (Ireland/IE, ID <code>1175</code>, Cup) · Slug <code>women-s-president-s-cup-1175</code> · API-Saison 2026 (2026-03-08 bis 2026-03-08)</li>
 <li><strong>Coppa Italia Women</strong> · Kandidat (Italy/IT, ID <code>1171</code>, Cup) · Slug <code>coppa-italia-women-1171</code> · API-Saison 2025 (2025-08-31 bis 2026-05-24)</li>
 <li><strong>Serie A Cup Women</strong> · Kandidat (Italy/IT, ID <code>1198</code>, Cup) · Slug <code>serie-a-cup-women-1198</code> · API-Saison 2026 (2026-08-22 bis 2026-09-05)</li>
-<li><strong>Serie A Women</strong> · Kandidat (Italy/IT, ID <code>139</code>, League) · Slug <code>serie-a-women-139</code> · API-Saison 2025 (2025-10-04 bis 2026-05-17)</li>
+<li><strong>Serie A Women</strong> · Kandidat (Italy/IT, ID <code>139</code>, League) · Slug <code>serie-a-women-139</code> · API-Saison 2026 (2026-09-26 bis 2027-05-15)</li>
 <li><strong>Eredivisie Women</strong> · Kandidat (Netherlands/NL, ID <code>91</code>, League) · Slug <code>eredivisie-women-91</code> · API-Saison 2026 (2026-08-16 bis 2027-02-21)</li>
 <li><strong>Super Cup Women</strong> · Kandidat (Netherlands/NL, ID <code>1190</code>, Cup) · Slug <code>super-cup-women-1190</code> · API-Saison 2024 (2025-08-23 bis 2025-08-23)</li>
 <li><strong>Premiership Women</strong> · Kandidat (Northern-Ireland/GB-NIR, ID <code>1103</code>, League) · Slug <code>premiership-women-1103</code> · API-Saison 2026 (2026-05-01 bis 2026-09-04)</li>
