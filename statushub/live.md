@@ -7,11 +7,11 @@ title: Live-Ticker
 
 > Diese Seite wird nur waehrend eines laufenden, manuell gestarteten Live-Updates
 > aktualisiert. Ausserhalb eines aktiven Updates zeigt sie den letzten bekannten Stand.
-> Build-Zeitpunkt: 25.07.2026, 21:22 Uhr
+> Build-Zeitpunkt: 25.07.2026, 21:27 Uhr
 
-_Live (Stand 25.07.2026, 21:22 Uhr)_
+_Live (Stand 25.07.2026, 21:27 Uhr)_
 
-- 🔴 **Mitrovica W 2:0 Ludogorets W** (65')  _UEFA Champions League Women_ · Stand: 25.07.2026, 21:22 Uhr
+- 🔴 **Mitrovica W 2:0 Ludogorets W** (71')  _UEFA Champions League Women_ · Stand: 25.07.2026, 21:27 Uhr
 - ⏹️ **Spartak Myjava W 6:1 Mgarr W** [FT] – Siegerin: Spartak Myjava W  _UEFA Champions League Women_
 - ⏹️ **Riga W 4:1 Wrexham W** [FT] – Siegerin: Riga W  _UEFA Champions League Women_
 
