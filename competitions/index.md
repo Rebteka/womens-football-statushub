@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-07-28T02:36:16Z
+Datenstand: 2026-07-28T14:08:50Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -145,7 +145,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <summary>Nord-/Mittelamerika · nationale Wettbewerbe · 3 Wettbewerbe</summary>
 
 <ul>
-<li><strong>Liga MX Femenil</strong> · Kandidat (Mexico/MX, ID <code>673</code>, League) · Slug <code>liga-mx-femenil-673</code> · API-Saison 2025 (2025-07-11 bis 2026-05-17)</li>
+<li><strong>Liga MX Femenil</strong> · Kandidat (Mexico/MX, ID <code>673</code>, League) · Slug <code>liga-mx-femenil-673</code> · API-Saison 2026 (2026-08-01 bis 2026-11-07)</li>
 <li><strong>NWSL Women</strong> · Kandidat (USA/US, ID <code>254</code>, League) · Slug <code>nwsl-women-254</code> · API-Saison 2026 (2026-03-14 bis 2026-11-01)</li>
 <li><strong>NWSL Women - Challenge Cup</strong> · Kandidat (USA/US, ID <code>641</code>, Cup) · Slug <code>nwsl-women-challenge-cup-641</code> · API-Saison 2026 (2026-06-27 bis 2026-06-27)</li>
 </ul>
