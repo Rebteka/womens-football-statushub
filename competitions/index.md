@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-07-29T02:43:25Z
+Datenstand: 2026-07-29T14:11:55Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -191,7 +191,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <summary>Weitere internationale Wettbewerbe · 6 Wettbewerbe</summary>
 
 <ul>
-<li><strong>Friendlies Women</strong> · freigegeben (World, ID <code>666</code>, Cup) · Slug <code>friendlies-women-666</code> · API-Saison 2026 (2026-01-11 bis 2026-07-22) · Allowlist: <code>friendlies</code></li>
+<li><strong>Friendlies Women</strong> · freigegeben (World, ID <code>666</code>, Cup) · Slug <code>friendlies-women-666</code> · API-Saison 2026 (2026-01-11 bis 2026-10-13) · Allowlist: <code>friendlies</code></li>
 <li><strong>All-Island Cup - Women</strong> · Kandidat (World, ID <code>1013</code>, Cup) · Slug <code>all-island-cup-women-1013</code> · API-Saison 2026 (2026-04-04 bis 2026-07-18)</li>
 <li><strong>Copa America Femenina</strong> · Kandidat (World, ID <code>926</code>, Cup) · Slug <code>copa-america-femenina-926</code> · API-Saison 2025 (2025-07-12 bis 2025-08-02)</li>
 <li><strong>International Champions Cup - Women</strong> · Kandidat (World, ID <code>945</code>, Cup) · Slug <code>international-champions-cup-women-945</code> · API-Saison 2022 (2022-08-18 bis 2022-08-21)</li>
