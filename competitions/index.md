@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-08-04T02:36:57Z
+Datenstand: 2026-08-04T14:14:08Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -64,7 +64,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <li><strong>Supercopa Femenina</strong> · Kandidat (Spain/ES, ID <code>1058</code>, Cup) · Slug <code>supercopa-femenina-1058</code> · API-Saison 2025 (2026-01-20 bis 2026-01-24)</li>
 <li><strong>Damallsvenskan</strong> · Kandidat (Sweden/SE, ID <code>549</code>, League) · Slug <code>damallsvenskan-549</code> · API-Saison 2026 (2026-03-29 bis 2026-11-15)</li>
 <li><strong>Elitettan</strong> · Kandidat (Sweden/SE, ID <code>736</code>, League) · Slug <code>elitettan-736</code> · API-Saison 2026 (2026-03-29 bis 2026-11-14)</li>
-<li><strong>Svenska Cupen - Women</strong> · Kandidat (Sweden/SE, ID <code>737</code>, Cup) · Slug <code>svenska-cupen-women-737</code> · API-Saison 2025 (2025-07-23 bis 2026-05-16)</li>
+<li><strong>Svenska Cupen - Women</strong> · Kandidat (Sweden/SE, ID <code>737</code>, Cup) · Slug <code>svenska-cupen-women-737</code> · API-Saison 2026 (2026-08-04 bis 2026-08-12)</li>
 <li><strong>AXA Women’s Super League</strong> · Kandidat (Switzerland/CH, ID <code>739</code>, League) · Slug <code>axa-womens-super-league-739</code> · API-Saison 2026 (2026-08-07 bis 2026-11-20)</li>
 </ul>
 
