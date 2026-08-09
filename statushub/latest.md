@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 08.08.2026, 14:52 Uhr
+> Quelle: API-SPORTS · Datenstand: 09.08.2026, 03:51 Uhr
 > Saison: 2025-2026 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 08.08.2026, 14:52 Uhr |
+| Dashboard | generiert 09.08.2026, 03:51 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 08.08.2026, 14:49 Uhr |
-| Liga-Tabellen | Saison 2025-2026, Snapshot beim Dashboard-Build 08.08.2026, 14:52 Uhr |
+| Turnierstatus | Stand 09.08.2026, 03:48 Uhr |
+| Liga-Tabellen | Saison 2025-2026, Snapshot beim Dashboard-Build 09.08.2026, 03:51 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_25_26.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -29,8 +29,8 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Mobile Ansicht nach Wettbewerb
 
-_Abfragefenster: 2026-08-01 bis 2026-08-15 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 08.08.2026, 14:52 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, DFB Pokal - Women, UEFA Champions League Women._
+_Abfragefenster: 2026-08-02 bis 2026-08-16 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
+_Datenabruf: 09.08.2026, 03:51 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, DFB Pokal - Women, UEFA Champions League Women._
 
 <details>
 <summary>2. Frauen Bundesliga · 14 Spiele</summary>
@@ -72,7 +72,7 @@ So, 2026-08-02 · 15:00 · <strong>3:0</strong> [FT] – Siegerin: Bochum W · L
 
 <div class="match-card">
 <strong>Carl Zeiss Jena  W vs SGS Essen W</strong><br>
-Sa, 2026-08-08 · 14:00 · kein Ergebnis laut API · Live-Capability
+Sa, 2026-08-08 · 14:00 · <strong>1:2</strong> [FT] – Siegerin: SGS Essen W · Live-Capability
 </div>
 
 <div class="match-card">
@@ -108,7 +108,7 @@ So, 2026-08-09 · 14:00 · geplant · Live-Capability
 </details>
 
 <details>
-<summary>DFB Pokal - Women · 4 Spiele</summary>
+<summary>DFB Pokal - Women · 16 Spiele</summary>
 
 <div class="match-card">
 <strong>Hansa Rostock W vs Bochum W</strong><br>
@@ -128,6 +128,66 @@ Sa, 2026-08-15 · 15:00 · geplant · Live-Capability
 <div class="match-card">
 <strong>MSV Duisburg W vs B. Monchengladbach W</strong><br>
 Sa, 2026-08-15 · 15:30 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Chemnitzer FC W vs Blau-Gelb Marburg W</strong><br>
+So, 2026-08-16 · 12:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Holstein Kiel W vs Magdeburg W</strong><br>
+So, 2026-08-16 · 12:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Worms W vs Eutingen W</strong><br>
+So, 2026-08-16 · 13:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Fortuna Köln W vs Andernach W</strong><br>
+So, 2026-08-16 · 14:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Buntentor W vs Blau Weiss Berolina Mitte W</strong><br>
+So, 2026-08-16 · 14:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>FFV Erfurt W vs Ingolstadt W</strong><br>
+So, 2026-08-16 · 14:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>FSV Babelsberg W vs Turbine Potsdam W</strong><br>
+So, 2026-08-16 · 14:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Saarbrücken W vs Greuther Furth W</strong><br>
+So, 2026-08-16 · 14:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Warbeyen W vs Viktoria Berlin W</strong><br>
+So, 2026-08-16 · 14:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>St. Pauli W vs Meppen W</strong><br>
+So, 2026-08-16 · 15:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Freiburg-Zähringen W vs SC Sand W</strong><br>
+So, 2026-08-16 · 16:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Karlsruher SC W vs Issel W</strong><br>
+So, 2026-08-16 · 17:00 · geplant · Live-Capability
 </div>
 
 </details>
@@ -272,87 +332,87 @@ Sa, 2026-08-08 · 12:00 · <strong>4:1</strong> [FT] – Siegerin: Gintra-Univer
 
 <div class="match-card">
 <strong>Metalist 1925 W vs TSC W</strong><br>
-Sa, 2026-08-08 · 13:00 · <strong>1:1</strong> [2H] · Live-Capability
+Sa, 2026-08-08 · 13:00 · <strong>3:2</strong> [AET] (nach 90 Min 1:1) – Siegerin: Metalist 1925 W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>SFK 2000 W vs Racing W</strong><br>
-Sa, 2026-08-08 · 13:00 · <strong>4:1</strong> [2H] · Live-Capability
+Sa, 2026-08-08 · 13:00 · <strong>4:1</strong> [FT] – Siegerin: SFK 2000 W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Vålerenga W vs Omonia W</strong><br>
-Sa, 2026-08-08 · 13:00 · <strong>2:0</strong> [2H] · Live-Capability
+Sa, 2026-08-08 · 13:00 · <strong>2:0</strong> [FT] – Siegerin: Vålerenga W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Young Boys W vs SeaSters Odesa W</strong><br>
-Sa, 2026-08-08 · 14:30 · <strong>0:0</strong> [1H] · Live-Capability
+Sa, 2026-08-08 · 14:30 · <strong>1:3</strong> [FT] – Siegerin: SeaSters Odesa W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Torreense W vs Apolonia Fier W</strong><br>
-Sa, 2026-08-08 · 15:30 · geplant · Live-Capability
+Sa, 2026-08-08 · 15:30 · <strong>5:2</strong> [FT] – Siegerin: Torreense W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Køge W vs Hearts W</strong><br>
-Sa, 2026-08-08 · 15:30 · geplant · Live-Capability
+Sa, 2026-08-08 · 15:30 · <strong>2:1</strong> [FT] – Siegerin: Køge W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Vllaznia W vs Apollon Limassol W</strong><br>
-Sa, 2026-08-08 · 16:00 · geplant · Live-Capability
+Sa, 2026-08-08 · 16:00 · <strong>1:2</strong> [AET] (nach 90 Min 1:1) – Siegerin: Apollon Limassol W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Brann W vs PAOK W</strong><br>
-Sa, 2026-08-08 · 16:30 · geplant · Live-Capability
+Sa, 2026-08-08 · 16:30 · <strong>3:2</strong> [FT] – Siegerin: Brann W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Austria Wien W vs Farul Constanţa W</strong><br>
-Sa, 2026-08-08 · 18:00 · geplant · Live-Capability
+Sa, 2026-08-08 · 18:00 · <strong>5:0</strong> [FT] – Siegerin: Austria Wien W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>St. Pölten W vs Sporting CP W</strong><br>
-Sa, 2026-08-08 · 18:00 · geplant · Live-Capability
+Sa, 2026-08-08 · 18:00 · <strong>1:1</strong> [PEN] (nach 90 Min 0:0, i.E. 4:1) – Siegerin: St. Pölten W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Eintracht Frankfurt W vs Malmö FF W</strong><br>
-Sa, 2026-08-08 · 19:00 · geplant · Live-Capability
+Sa, 2026-08-08 · 19:00 · <strong>2:0</strong> [FT] – Siegerin: Eintracht Frankfurt W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>PSV/Eindhoven W vs HJK W</strong><br>
-Sa, 2026-08-08 · 19:00 · geplant · Live-Capability
+Sa, 2026-08-08 · 19:00 · <strong>3:1</strong> [FT] – Siegerin: PSV/Eindhoven W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>OH Leuven W vs Fenerbahce W</strong><br>
-Sa, 2026-08-08 · 20:00 · geplant · Live-Capability
+Sa, 2026-08-08 · 20:00 · <strong>1:1</strong> [PEN] (nach 90 Min 1:1, i.E. 4:2) – Siegerin: OH Leuven W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Slavia Praha W vs Brøndby W</strong><br>
-Sa, 2026-08-08 · 20:30 · geplant · Live-Capability
+Sa, 2026-08-08 · 20:30 · <strong>1:1</strong> [PEN] (nach 90 Min 1:1, i.E. 3:5) – Siegerin: Brøndby W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Ajax W vs Rangers W</strong><br>
-Sa, 2026-08-08 · 20:30 · geplant · Live-Capability
+Sa, 2026-08-08 · 20:30 · <strong>2:1</strong> [FT] – Siegerin: Ajax W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Spartak Myjava W vs Czarni Sosnowiec W</strong><br>
-Sa, 2026-08-08 · 20:30 · geplant · Live-Capability
+Sa, 2026-08-08 · 20:30 · <strong>2:4</strong> [FT] – Siegerin: Czarni Sosnowiec W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Juventus W vs Hammarby W</strong><br>
-Sa, 2026-08-08 · 21:00 · geplant · Live-Capability
+Sa, 2026-08-08 · 21:00 · <strong>3:1</strong> [AET] (nach 90 Min 1:1) – Siegerin: Juventus W · Live-Capability
 </div>
 
 </details>
@@ -377,7 +437,7 @@ Live-Updates aktualisiert und stehen auf einer eigenen Seite:
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -386,7 +446,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2026-08-02 bis 2027-05-09<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -395,7 +455,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2026-08-15 bis 2026-08-15<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -404,7 +464,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2026-01-11 bis 2026-10-13<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -413,7 +473,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Siegerin: Spain U19 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -422,7 +482,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Siegerin: Germany U17 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -431,7 +491,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2026-07-22 bis 2026-08-08<br>
 Siegerin: keine Siegerin festgelegt (finale nicht gefunden)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -440,7 +500,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Siegerin: England W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -449,7 +509,7 @@ Datenstand: 2026-08-08
 
 Zeitraum: 2025-02-21 bis 2025-12-02<br>
 Siegerin: Spain W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-08
+Datenstand: 2026-08-09
 
 </details>
 
@@ -460,7 +520,7 @@ Datenstand: 2026-08-08
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 08.08.2026, 14:52 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 09.08.2026, 03:51 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -491,7 +551,7 @@ Datenstand: 2026-08-08
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 08.08.2026, 14:52 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 09.08.2026, 03:51 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
