@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-08-10T01:52:15Z
+Datenstand: 2026-08-10T13:10:02Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -119,7 +119,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <ul>
 <li><strong>A-League Women</strong> · Kandidat (Australia/AU, ID <code>190</code>, League) · Slug <code>a-league-women-190</code> · API-Saison 2025 (2025-10-31 bis 2026-05-16)</li>
 <li><strong>WE League</strong> · Kandidat (Japan/JP, ID <code>854</code>, League) · Slug <code>we-league-854</code> · API-Saison 2026 (2026-08-22 bis 2027-05-15)</li>
-<li><strong>Premier League Women</strong> · Kandidat (Saudi-Arabia/SA, ID <code>1227</code>, League) · Slug <code>premier-league-women-1227</code> · API-Saison 2026 (2025-09-12 bis 2026-04-24)</li>
+<li><strong>Premier League Women</strong> · Kandidat (Saudi-Arabia/SA, ID <code>1227</code>, League) · Slug <code>premier-league-women-1227</code> · API-Saison 2027 (2026-09-10 bis 2027-05-12)</li>
 <li><strong>WK-League</strong> · Kandidat (South-Korea/KR, ID <code>660</code>, League) · Slug <code>wk-league-660</code> · API-Saison 2026 (2026-04-04 bis 2026-10-31)</li>
 </ul>
 
