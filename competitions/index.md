@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-08-14T02:01:04Z
+Datenstand: 2026-08-14T13:07:25Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -23,9 +23,9 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 
 <ul>
 <li><strong>2. Frauen Bundesliga</strong> · freigegeben (Germany/DE, ID <code>1034</code>, League) · Slug <code>2-frauen-bundesliga-1034</code> · API-Saison 2026 (2026-08-02 bis 2027-05-09) · Allowlist: <code>fbl2</code></li>
-<li><strong>DFB Pokal - Women</strong> · freigegeben (Germany/DE, ID <code>947</code>, Cup) · Slug <code>dfb-pokal-women-947</code> · API-Saison 2026 (2026-08-15 bis 2026-08-15) · Allowlist: <code>dfb_pokal</code></li>
+<li><strong>DFB Pokal - Women</strong> · freigegeben (Germany/DE, ID <code>947</code>, Cup) · Slug <code>dfb-pokal-women-947</code> · API-Saison 2026 (2026-08-15 bis 2026-08-16) · Allowlist: <code>dfb_pokal</code></li>
 <li><strong>Frauen Bundesliga</strong> · freigegeben (Germany/DE, ID <code>82</code>, League) · Slug <code>frauen-bundesliga-82</code> · API-Saison 2026 (2026-08-21 bis 2027-05-23) · Allowlist: <code>fbl1</code></li>
-<li><strong>Supercup der Frauen</strong> · Kandidat (Germany/DE, ID <code>1137</code>, League) · Slug <code>supercup-der-frauen-1137</code> · API-Saison 2025 (2025-08-30 bis 2025-08-30)</li>
+<li><strong>Supercup der Frauen</strong> · Kandidat (Germany/DE, ID <code>1137</code>, League) · Slug <code>supercup-der-frauen-1137</code> · API-Saison 2026 (2026-08-15 bis 2026-08-15)</li>
 </ul>
 
 </details>
@@ -103,7 +103,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <summary>CAF-Wettbewerbe · 6 Wettbewerbe</summary>
 
 <ul>
-<li><strong>Africa Cup of Nations - Women</strong> · Kandidat (World, ID <code>922</code>, Cup) · Slug <code>africa-cup-of-nations-women-922</code> · API-Saison 2025 (2026-07-26 bis 2026-08-13)</li>
+<li><strong>Africa Cup of Nations - Women</strong> · Kandidat (World, ID <code>922</code>, Cup) · Slug <code>africa-cup-of-nations-women-922</code> · API-Saison 2025 (2026-07-26 bis 2026-08-16)</li>
 <li><strong>CAF Women&#x27;s Champions League</strong> · Kandidat (World, ID <code>1164</code>, Cup) · Slug <code>caf-women-s-champions-league-1164</code> · API-Saison 2025 (2025-11-08 bis 2025-11-21)</li>
 <li><strong>CONCACAF Gold Cup - Qualification - Women</strong> · Kandidat (World, ID <code>1046</code>, Cup) · Slug <code>concacaf-gold-cup-qualification-women-1046</code> · API-Saison 2024 (2023-09-20 bis 2024-02-17)</li>
 <li><strong>CONCACAF Gold Cup - Women</strong> · Kandidat (World, ID <code>1057</code>, Cup) · Slug <code>concacaf-gold-cup-women-1057</code> · API-Saison 2024 (2024-02-21 bis 2024-03-11)</li>
