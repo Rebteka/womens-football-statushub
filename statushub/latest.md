@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 14.08.2026, 15:31 Uhr
+> Quelle: API-SPORTS · Datenstand: 15.08.2026, 03:19 Uhr
 > Saison: 2025-2026 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 14.08.2026, 15:31 Uhr |
+| Dashboard | generiert 15.08.2026, 03:19 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 14.08.2026, 15:28 Uhr |
-| Liga-Tabellen | Saison 2025-2026, Snapshot beim Dashboard-Build 14.08.2026, 15:31 Uhr |
+| Turnierstatus | Stand 15.08.2026, 03:16 Uhr |
+| Liga-Tabellen | Saison 2025-2026, Snapshot beim Dashboard-Build 15.08.2026, 03:19 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_25_26.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -29,8 +29,8 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Mobile Ansicht nach Wettbewerb
 
-_Abfragefenster: 2026-08-07 bis 2026-08-21 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 14.08.2026, 15:31 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, DFB Pokal - Women, Frauen Bundesliga, UEFA Champions League Women._
+_Abfragefenster: 2026-08-08 bis 2026-08-22 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
+_Datenabruf: 15.08.2026, 03:19 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, DFB Pokal - Women, Frauen Bundesliga, UEFA Champions League Women._
 
 <details>
 <summary>2. Frauen Bundesliga · 7 Spiele</summary>
@@ -158,27 +158,27 @@ So, 2026-08-16 · 17:00 · geplant · Live-Capability
 </details>
 
 <details>
-<summary>Frauen Bundesliga · 1 Spiele</summary>
+<summary>Frauen Bundesliga · 3 Spiele</summary>
 
 <div class="match-card">
 <strong>Union Berlin W vs Bayern Munich W</strong><br>
 Fr, 2026-08-21 · 18:20 · geplant · Live-Capability
 </div>
 
+<div class="match-card">
+<strong>Eintracht Frankfurt W vs FC Koln W</strong><br>
+Sa, 2026-08-22 · 12:00 · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Nürnberg W vs VfL Wolfsburg W</strong><br>
+Sa, 2026-08-22 · 14:00 · geplant · Live-Capability
+</div>
+
 </details>
 
 <details>
-<summary>UEFA Champions League Women · 22 Spiele</summary>
-
-<div class="match-card">
-<strong>Breidablik W vs Dinamo-BGU W</strong><br>
-Fr, 2026-08-07 · 09:00 · <strong>3:2</strong> [AET] (nach 90 Min 2:2) – Siegerin: Breidablik W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Servette Chênois W vs Aktobe W</strong><br>
-Fr, 2026-08-07 · 16:00 · <strong>4:0</strong> [FT] – Siegerin: Servette Chênois W · Live-Capability
-</div>
+<summary>UEFA Champions League Women · 20 Spiele</summary>
 
 <div class="match-card">
 <strong>Ferencváros W vs Mitrovica W</strong><br>
@@ -302,7 +302,7 @@ Live-Updates aktualisiert und stehen auf einer eigenen Seite:
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -311,7 +311,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2026-08-02 bis 2027-05-09<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -320,7 +320,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2026-08-15 bis 2026-08-16<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -329,7 +329,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2026-07-22 bis 2026-09-02<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -338,7 +338,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2026-01-11 bis 2026-10-13<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -347,7 +347,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Siegerin: Spain U19 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -356,7 +356,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Siegerin: Germany U17 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -365,7 +365,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Siegerin: England W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -374,7 +374,7 @@ Datenstand: 2026-08-14
 
 Zeitraum: 2025-02-21 bis 2025-12-02<br>
 Siegerin: Spain W (bestaetigt aus Finale)<br>
-Datenstand: 2026-08-14
+Datenstand: 2026-08-15
 
 </details>
 
@@ -385,7 +385,7 @@ Datenstand: 2026-08-14
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 14.08.2026, 15:31 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 15.08.2026, 03:19 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -416,7 +416,7 @@ Datenstand: 2026-08-14
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 14.08.2026, 15:31 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 15.08.2026, 03:19 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
