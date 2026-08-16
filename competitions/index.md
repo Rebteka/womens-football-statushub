@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-08-16T01:20:58Z
+Datenstand: 2026-08-16T12:40:02Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -36,7 +36,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <ul>
 <li><strong>Frauenliga</strong> · Kandidat (Austria/AT, ID <code>484</code>, League) · Slug <code>frauenliga-484</code> · API-Saison 2026 (2026-08-02 bis 2027-04-11)</li>
 <li><strong>Super League Women</strong> · Kandidat (Belgium/BE, ID <code>146</code>, League) · Slug <code>super-league-women-146</code> · API-Saison 2026 (2026-09-05 bis 2027-03-19)</li>
-<li><strong>1. Liga Women</strong> · Kandidat (Czech-Republic/CZ, ID <code>669</code>, League) · Slug <code>1-liga-women-669</code> · API-Saison 2025 (2025-08-16 bis 2026-05-24)</li>
+<li><strong>1. Liga Women</strong> · Kandidat (Czech-Republic/CZ, ID <code>669</code>, League) · Slug <code>1-liga-women-669</code> · API-Saison 2026 (2026-08-15 bis 2027-03-21)</li>
 <li><strong>Kvindeliga</strong> · Kandidat (Denmark/DK, ID <code>638</code>, League) · Slug <code>kvindeliga-638</code> · API-Saison 2026 (2026-07-26 bis 2026-12-13)</li>
 <li><strong>Community Shield Women</strong> · Kandidat (England/GB-ENG, ID <code>670</code>, Cup) · Slug <code>community-shield-women-670</code> · API-Saison 2020 (2020-08-29 bis 2020-08-29)</li>
 <li><strong>FA WSL</strong> · Kandidat (England/GB-ENG, ID <code>44</code>, League) · Slug <code>fa-wsl-44</code> · API-Saison 2026 (2026-09-04 bis 2027-05-22)</li>
