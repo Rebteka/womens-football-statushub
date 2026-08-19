@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-08-19T01:17:10Z
+Datenstand: 2026-08-19T12:48:40Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -23,7 +23,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 
 <ul>
 <li><strong>2. Frauen Bundesliga</strong> · freigegeben (Germany/DE, ID <code>1034</code>, League) · Slug <code>2-frauen-bundesliga-1034</code> · API-Saison 2026 (2026-08-02 bis 2027-05-09) · Allowlist: <code>fbl2</code></li>
-<li><strong>DFB Pokal - Women</strong> · freigegeben (Germany/DE, ID <code>947</code>, Cup) · Slug <code>dfb-pokal-women-947</code> · API-Saison 2026 (2026-08-15 bis 2026-08-16) · Allowlist: <code>dfb_pokal</code></li>
+<li><strong>DFB Pokal - Women</strong> · freigegeben (Germany/DE, ID <code>947</code>, Cup) · Slug <code>dfb-pokal-women-947</code> · API-Saison 2026 (2026-08-15 bis 2026-09-26) · Allowlist: <code>dfb_pokal</code></li>
 <li><strong>Frauen Bundesliga</strong> · freigegeben (Germany/DE, ID <code>82</code>, League) · Slug <code>frauen-bundesliga-82</code> · API-Saison 2026 (2026-08-21 bis 2027-05-23) · Allowlist: <code>fbl1</code></li>
 <li><strong>Supercup der Frauen</strong> · Kandidat (Germany/DE, ID <code>1137</code>, League) · Slug <code>supercup-der-frauen-1137</code> · API-Saison 2026 (2026-08-15 bis 2026-08-15)</li>
 </ul>
