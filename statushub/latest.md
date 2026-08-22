@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 21.08.2026, 14:12 Uhr
+> Quelle: API-SPORTS · Datenstand: 22.08.2026, 02:17 Uhr
 > Saison: 2025-2026 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 21.08.2026, 14:12 Uhr |
+| Dashboard | generiert 22.08.2026, 02:17 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | source_error (API-SPORTS nicht abrufbar) |
-| Turnierstatus | Stand 21.08.2026, 14:11 Uhr |
-| Liga-Tabellen | Saison 2025-2026, Snapshot beim Dashboard-Build 21.08.2026, 14:12 Uhr |
+| Turnierstatus | Stand 22.08.2026, 02:16 Uhr |
+| Liga-Tabellen | Saison 2025-2026, Snapshot beim Dashboard-Build 22.08.2026, 02:17 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_25_26.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -29,7 +29,7 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Mobile Ansicht nach Wettbewerb
 
-_Keine gruppierten Wettbewerbsdaten verfuegbar. Abfragefenster: 2026-08-14 bis 2026-08-28; geprueft: 21.08.2026, 14:12 Uhr._
+_Keine gruppierten Wettbewerbsdaten verfuegbar. Abfragefenster: 2026-08-15 bis 2026-08-29; geprueft: 22.08.2026, 02:17 Uhr._
 
 ---
 
@@ -51,7 +51,7 @@ Live-Updates aktualisiert und stehen auf einer eigenen Seite:
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-21
+Datenstand: 2026-08-22
 
 </details>
 
@@ -60,7 +60,7 @@ Datenstand: 2026-08-21
 
 Zeitraum: 2026-08-02 bis 2027-05-09<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-21
+Datenstand: 2026-08-22
 
 </details>
 
@@ -69,7 +69,7 @@ Datenstand: 2026-08-21
 
 Zeitraum: 2026-08-15 bis 2026-09-26<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-21
+Datenstand: 2026-08-22
 
 </details>
 
@@ -78,7 +78,7 @@ Datenstand: 2026-08-21
 
 Zeitraum: 2026-07-22 bis 2026-09-02<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-08-21
+Datenstand: 2026-08-22
 
 </details>
 
@@ -87,7 +87,7 @@ Datenstand: 2026-08-21
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Siegerin: keine Siegerin festgelegt (fehler)<br>
-Datenstand: 2026-08-21
+Datenstand: 2026-08-22
 
 </details>
 
@@ -96,7 +96,7 @@ Datenstand: 2026-08-21
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Siegerin: keine Siegerin festgelegt (fehler)<br>
-Datenstand: 2026-08-21
+Datenstand: 2026-08-22
 
 </details>
 
@@ -105,7 +105,7 @@ Datenstand: 2026-08-21
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Siegerin: keine Siegerin festgelegt (fehler)<br>
-Datenstand: 2026-08-21
+Datenstand: 2026-08-22
 
 </details>
 
@@ -116,7 +116,7 @@ Datenstand: 2026-08-21
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 21.08.2026, 14:12 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.08.2026, 02:17 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -147,7 +147,7 @@ Datenstand: 2026-08-21
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 21.08.2026, 14:12 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 22.08.2026, 02:17 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
