@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-08-24T00:16:53Z
+Datenstand: 2026-08-24T12:11:24Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -157,7 +157,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 
 <ul>
 <li><strong>Brasileiro Women</strong> · Kandidat (Brazil/BR, ID <code>74</code>, League) · Slug <code>brasileiro-women-74</code> · API-Saison 2026 (2026-02-13 bis 2026-08-22)</li>
-<li><strong>Liga Femenina</strong> · Kandidat (Colombia/CO, ID <code>712</code>, League) · Slug <code>liga-femenina-712</code> · API-Saison 2026 (2026-02-12 bis 2026-08-09)</li>
+<li><strong>Liga Femenina</strong> · Kandidat (Colombia/CO, ID <code>712</code>, League) · Slug <code>liga-femenina-712</code> · API-Saison 2026 (2026-02-12 bis 2026-09-02)</li>
 <li><strong>Liga Women</strong> · Kandidat (Peru/PE, ID <code>1229</code>, League) · Slug <code>liga-women-1229</code> · API-Saison 2026 (2026-03-14 bis 2026-09-13)</li>
 </ul>
 
