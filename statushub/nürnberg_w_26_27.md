@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 28.08.2026, 22:15 Uhr
+**Stand:** 28.08.2026, 22:19 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-08-28T20:15:28Z*
+*Abrufdatum: 2026-08-28T20:19:13Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -39,9 +39,38 @@
 
 ---
 
+## Spielerinnen in Saisonaufstellungen
+
+*Zusätzliche API-Sicht: in Aufstellungen der Saison 2026/27 gefunden.*
+
+| Name | Position |
+|------|----------|
+| A. Lobanova | – |
+| C. Coutel | – |
+| E. Papai | – |
+| F. Mai | – |
+| F. Proniez | – |
+| J. Brengel | – |
+| J. Pollak | – |
+| K. Bednorz | – |
+| L. Lapassouse | – |
+| L. Meroni | – |
+| L. Miller | – |
+| L. Romero | – |
+| L. Varley | – |
+| M. Bleil | – |
+| M. Lindner | – |
+| M. Seguin | – |
+| N. Lein | – |
+| R. Adamczyk | – |
+| S. Homann | – |
+| S. Licina | – |
+
+---
+
 ## Trainerteam
 
-*Abrufdatum: 2026-08-28T20:15:28Z*
+*Abrufdatum: 2026-08-28T20:19:13Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -53,7 +82,7 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-08-28T20:15:28Z*
+*Abrufdatum: 2026-08-28T20:19:13Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
