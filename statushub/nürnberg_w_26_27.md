@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 28.08.2026, 22:09 Uhr
+**Stand:** 28.08.2026, 22:15 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-08-28T20:09:41Z*
+*Abrufdatum: 2026-08-28T20:15:28Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -23,7 +23,6 @@
 | 4 | A. Lobanova | Defender | 25 | – |
 | 22 | J. Pollak | Defender | 23 | – |
 | 3 | F. Proniez | Defender | 23 | – |
-| 2 | K. Svensson | Defender | 20 | – |
 | 12 | A. Thöle | Defender | 22 | – |
 | 2 | L. Varley | Defender | 23 | – |
 | 29 | H. Deuber | Midfielder | 17 | – |
@@ -42,7 +41,7 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-08-28T20:09:41Z*
+*Abrufdatum: 2026-08-28T20:15:28Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -54,7 +53,7 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-08-28T20:09:41Z*
+*Abrufdatum: 2026-08-28T20:15:28Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
