@@ -5,8 +5,8 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 28.08.2026, 21:35 Uhr
-> Saison: 2025-2026 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
+> Quelle: API-SPORTS · Datenstand: 28.08.2026, 21:50 Uhr
+> Saison: 2026-2027 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
 
@@ -14,12 +14,12 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 28.08.2026, 21:35 Uhr |
+| Dashboard | generiert 28.08.2026, 21:50 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 28.08.2026, 21:33 Uhr |
-| Liga-Tabellen | Saison 2025-2026, Snapshot beim Dashboard-Build 28.08.2026, 21:35 Uhr |
-| Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_25_26.md) |
+| Turnierstatus | Stand 28.08.2026, 21:47 Uhr |
+| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 28.08.2026, 21:50 Uhr |
+| Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_26_27.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
 
@@ -30,7 +30,7 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 ### Mobile Ansicht nach Wettbewerb
 
 _Abfragefenster: 2026-08-21 bis 2026-09-04 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 28.08.2026, 21:35 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, UEFA Champions League Women._
+_Datenabruf: 28.08.2026, 21:50 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, UEFA Champions League Women._
 
 <details>
 <summary>2. Frauen Bundesliga · 14 Spiele</summary>
@@ -383,28 +383,28 @@ Datenstand: 2026-08-28
 ## 1. Frauen-Bundesliga – Liga-Tabelle
 
 <details>
-<summary>1. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
+<summary>1. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-09-05 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 28.08.2026, 21:35 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 28.08.2026, 21:50 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
 <thead><tr><th>#</th><th>Team</th><th>Sp</th><th>S</th><th>U</th><th>N</th><th>Tore</th><th>Pkt</th></tr></thead>
 <tbody>
-<tr><td>1</td><td>Bayern Munich W</td><td>26</td><td>24</td><td>2</td><td>0</td><td>90:9</td><td><strong>74</strong></td></tr>
-<tr><td>2</td><td>VfL Wolfsburg W</td><td>26</td><td>18</td><td>4</td><td>4</td><td>72:38</td><td><strong>58</strong></td></tr>
-<tr><td>3</td><td>Eintracht Frankfurt W</td><td>26</td><td>16</td><td>3</td><td>7</td><td>65:43</td><td><strong>51</strong></td></tr>
-<tr><td>4</td><td>1899 Hoffenheim W</td><td>26</td><td>14</td><td>4</td><td>8</td><td>48:30</td><td><strong>46</strong></td></tr>
-<tr><td>5</td><td>Bayer Leverkusen W</td><td>26</td><td>15</td><td>1</td><td>10</td><td>46:36</td><td><strong>46</strong></td></tr>
-<tr><td>6</td><td>Werder Bremen W</td><td>26</td><td>12</td><td>7</td><td>7</td><td>42:36</td><td><strong>43</strong></td></tr>
-<tr><td>7</td><td>FC Koln W</td><td>26</td><td>11</td><td>4</td><td>11</td><td>36:37</td><td><strong>37</strong></td></tr>
-<tr><td>8</td><td>SC Freiburg W</td><td>26</td><td>10</td><td>4</td><td>12</td><td>44:46</td><td><strong>34</strong></td></tr>
-<tr><td>9</td><td>Union Berlin W</td><td>26</td><td>8</td><td>6</td><td>12</td><td>42:51</td><td><strong>30</strong></td></tr>
-<tr><td>10</td><td>RB Leipzig W</td><td>26</td><td>7</td><td>7</td><td>12</td><td>39:48</td><td><strong>28</strong></td></tr>
-<tr><td>11</td><td>Nürnberg W</td><td>26</td><td>6</td><td>4</td><td>16</td><td>33:61</td><td><strong>22</strong></td></tr>
-<tr><td>12</td><td>Hamburger SV W</td><td>26</td><td>4</td><td>6</td><td>16</td><td>26:57</td><td><strong>18</strong></td></tr>
-<tr><td>13</td><td>SGS Essen W</td><td>26</td><td>3</td><td>7</td><td>16</td><td>22:63</td><td><strong>16</strong></td></tr>
-<tr><td>14</td><td>Carl Zeiss Jena  W</td><td>26</td><td>2</td><td>5</td><td>19</td><td>22:72</td><td><strong>11</strong></td></tr>
+<tr><td>1</td><td>Bayern Munich W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>2</td><td>SC Freiburg W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>3</td><td>VfL Wolfsburg W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>4</td><td>Hamburger SV W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>5</td><td>FC Koln W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>6</td><td>Bayer Leverkusen W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>7</td><td>Nürnberg W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>8</td><td>Werder Bremen W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>9</td><td>Union Berlin W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>10</td><td>1899 Hoffenheim W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>11</td><td>Mainz 05 W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>12</td><td>Eintracht Frankfurt W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>13</td><td>RB Leipzig W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
+<tr><td>14</td><td>Stuttgart W</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0:0</td><td><strong>0</strong></td></tr>
 </tbody>
 </table>
 </div>
@@ -414,31 +414,11 @@ Datenstand: 2026-08-28
 ## 2. Frauen-Bundesliga – Liga-Tabelle
 
 <details>
-<summary>2. Frauen-Bundesliga · Saison 2025-2026 · Tabelle anzeigen</summary>
+<summary>2. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2025-2026 · Laufzeit laut API: 2025-08-23 bis 2026-05-17. Tabellenstand gültig bis zum Dashboard-Build 28.08.2026, 21:35 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 28.08.2026, 21:50 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
-<div class="table-scroll">
-<table>
-<thead><tr><th>#</th><th>Team</th><th>Sp</th><th>S</th><th>U</th><th>N</th><th>Tore</th><th>Pkt</th></tr></thead>
-<tbody>
-<tr><td>1</td><td>Stuttgart W</td><td>26</td><td>17</td><td>7</td><td>2</td><td>81:33</td><td><strong>58</strong></td></tr>
-<tr><td>2</td><td>Mainz 05 W</td><td>26</td><td>17</td><td>4</td><td>5</td><td>77:29</td><td><strong>55</strong></td></tr>
-<tr><td>3</td><td>SC Sand W</td><td>26</td><td>16</td><td>5</td><td>5</td><td>53:26</td><td><strong>53</strong></td></tr>
-<tr><td>4</td><td>Meppen W</td><td>26</td><td>15</td><td>4</td><td>7</td><td>56:26</td><td><strong>49</strong></td></tr>
-<tr><td>5</td><td>Viktoria Berlin W</td><td>26</td><td>12</td><td>9</td><td>5</td><td>41:20</td><td><strong>45</strong></td></tr>
-<tr><td>6</td><td>Andernach W</td><td>26</td><td>10</td><td>8</td><td>8</td><td>46:44</td><td><strong>38</strong></td></tr>
-<tr><td>7</td><td>Ingolstadt W</td><td>26</td><td>12</td><td>2</td><td>12</td><td>45:48</td><td><strong>38</strong></td></tr>
-<tr><td>8</td><td>Eintracht Frankfurt II W</td><td>26</td><td>9</td><td>6</td><td>11</td><td>38:38</td><td><strong>33</strong></td></tr>
-<tr><td>9</td><td>Bochum W</td><td>26</td><td>9</td><td>5</td><td>12</td><td>33:40</td><td><strong>32</strong></td></tr>
-<tr><td>10</td><td>Borussia Monchengladbach W</td><td>26</td><td>9</td><td>4</td><td>13</td><td>39:53</td><td><strong>31</strong></td></tr>
-<tr><td>11</td><td>Turbine Potsdam W</td><td>26</td><td>9</td><td>3</td><td>14</td><td>37:50</td><td><strong>30</strong></td></tr>
-<tr><td>12</td><td>Bayern München II W</td><td>26</td><td>8</td><td>3</td><td>15</td><td>40:64</td><td><strong>27</strong></td></tr>
-<tr><td>13</td><td>Wolfsburg II W</td><td>26</td><td>6</td><td>1</td><td>19</td><td>38:75</td><td><strong>19</strong></td></tr>
-<tr><td>14</td><td>Warbeyen W</td><td>26</td><td>1</td><td>3</td><td>22</td><td>21:99</td><td><strong>6</strong></td></tr>
-</tbody>
-</table>
-</div>
+<p>Keine Daten</p>
 
 </details>
 
