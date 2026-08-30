@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 30.08.2026, 02:42 Uhr
+**Stand:** 30.08.2026, 14:20 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-08-30T00:39:57Z*
+*Abrufdatum: 2026-08-30T12:18:08Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -70,7 +70,7 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-08-30T00:39:57Z*
+*Abrufdatum: 2026-08-30T12:18:08Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -82,12 +82,12 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-08-30T00:39:57Z*
+*Abrufdatum: 2026-08-30T12:18:08Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
 | 22.08.2026 | Regular Season - 1 | Nürnberg W vs VfL Wolfsburg W (H) | 2:8 ✗ | FT |
-| 30.08.2026 | Regular Season - 2 | Nürnberg W vs Eintracht Frankfurt W (A) | – | NS |
+| 30.08.2026 | Regular Season - 2 | Nürnberg W vs Eintracht Frankfurt W (A) | 0:0 = | 1H |
 | 06.09.2026 | Regular Season - 3 | Nürnberg W vs Stuttgart W (H) | – | NS |
 | 12.09.2026 | Regular Season - 4 | Nürnberg W vs RB Leipzig W (A) | – | NS |
 | 20.09.2026 | Regular Season - 5 | Nürnberg W vs Hamburger SV W (A) | – | NS |
@@ -97,6 +97,7 @@
 | 25.10.2026 | Regular Season - 8 | Nürnberg W vs Bayer Leverkusen W (H) | – | NS |
 | 08.11.2026 | Regular Season - 9 | Nürnberg W vs SC Freiburg W (A) | – | NS |
 | 15.11.2026 | Regular Season - 10 | Nürnberg W vs FC Koln W (H) | – | NS |
+| 22.11.2026 | Regular Season - 11 | Nürnberg W vs Mainz 05 W (A) | – | NS |
 
 ---
 
