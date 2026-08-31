@@ -3,12 +3,12 @@ layout: default
 title: Vorschau Liga-Uebersicht fbl1
 ---
 
-_Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan (alle Spieltage), nicht nur 7-Tage-Fenster._
+_Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan (alle Spieltage), echte Tabellen, Terminierungs-Status je Spieltag._
 
 # 1. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 31.08.2026, 23:44 Uhr
+**Stand:** 31.08.2026, 23:50 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -40,394 +40,654 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan (alle Spieltage
 
 ## Spielplan (alle Spieltage, Saison 2026-2027)
 
-[Spieltag 1](#spieltag-1) · [Spieltag 2](#spieltag-2) · [Spieltag 3](#spieltag-3) · [Spieltag 4](#spieltag-4) · [Spieltag 5](#spieltag-5) · [Spieltag 6](#spieltag-6) · [Spieltag 7](#spieltag-7) · [Spieltag 8](#spieltag-8) · [Spieltag 9](#spieltag-9) · [Spieltag 10](#spieltag-10) · [Spieltag 11](#spieltag-11) · [Spieltag 12](#spieltag-12) · [Spieltag 13](#spieltag-13) · [Spieltag 14](#spieltag-14) · [Spieltag 15](#spieltag-15) · [Spieltag 16](#spieltag-16) · [Spieltag 17](#spieltag-17) · [Spieltag 18](#spieltag-18) · [Spieltag 19](#spieltag-19) · [Spieltag 20](#spieltag-20) · [Spieltag 21](#spieltag-21) · [Spieltag 22](#spieltag-22) · [Spieltag 23](#spieltag-23) · [Spieltag 24](#spieltag-24) · [Spieltag 25](#spieltag-25) · [Spieltag 26](#spieltag-26)
+[Spieltag 1 · terminiert · 2026-08-21 bis 2026-08-24](#spieltag-1) · [Spieltag 2 · terminiert · 2026-08-28 bis 2026-08-31](#spieltag-2) · [Spieltag 3 · terminiert · 2026-09-04 bis 2026-09-07](#spieltag-3) · [Spieltag 4 · terminiert · 2026-09-11 bis 2026-09-14](#spieltag-4) · [Spieltag 5 · terminiert · 2026-09-18 bis 2026-09-21](#spieltag-5) · [Spieltag 6 · terminiert · 2026-10-04](#spieltag-6) · [Spieltag 7 · terminiert · 2026-10-18](#spieltag-7) · [Spieltag 8 · terminiert · 2026-10-25](#spieltag-8) · [Spieltag 9 · terminiert · 2026-11-08](#spieltag-9) · [Spieltag 10 · terminiert · 2026-11-15](#spieltag-10) · [Spieltag 11 · terminiert · 2026-11-22](#spieltag-11) · [Spieltag 12 · terminiert · 2026-12-13](#spieltag-12) · [Spieltag 13 · terminiert · 2026-12-20](#spieltag-13) · [Spieltag 14 · terminiert · 2027-01-17](#spieltag-14) · [Spieltag 15 · terminiert · 2027-01-24](#spieltag-15) · [Spieltag 16 · terminiert · 2027-01-31](#spieltag-16) · [Spieltag 17 · terminiert · 2027-02-07](#spieltag-17) · [Spieltag 18 · terminiert · 2027-02-14](#spieltag-18) · [Spieltag 19 · terminiert · 2027-02-21](#spieltag-19) · [Spieltag 20 · terminiert · 2027-03-14](#spieltag-20) · [Spieltag 21 · terminiert · 2027-03-21](#spieltag-21) · [Spieltag 22 · terminiert · 2027-03-28](#spieltag-22) · [Spieltag 23 · terminiert · 2027-04-11](#spieltag-23) · [Spieltag 24 · terminiert · 2027-05-02](#spieltag-24) · [Spieltag 25 · terminiert · 2027-05-09](#spieltag-25) · [Spieltag 26 · terminiert · 2027-05-23](#spieltag-26)
 
 <details id="spieltag-1">
-<summary>Spieltag 1</summary>
+<summary>Spieltag 1 · terminiert · 2026-08-21 bis 2026-08-24</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 21.08.2026, 18:20 Uhr | Union Berlin W | Bayern Munich W | 1:4 |
-| 22.08.2026, 12:00 Uhr | Eintracht Frankfurt W | FC Koln W | 2:0 |
-| 22.08.2026, 14:00 Uhr | Nürnberg W | VfL Wolfsburg W | 2:8 |
-| 23.08.2026, 14:00 Uhr | 1899 Hoffenheim W | Stuttgart W | 1:2 |
-| 23.08.2026, 16:00 Uhr | RB Leipzig W | Bayer Leverkusen W | 0:2 |
-| 23.08.2026, 18:30 Uhr | Hamburger SV W | SC Freiburg W | 1:1 |
-| 24.08.2026, 18:00 Uhr | Mainz 05 W | Werder Bremen W | 1:2 |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>21.08.2026, 18:20 Uhr</td><td>Union Berlin W</td><td>Bayern Munich W</td><td>1:4</td></tr>
+<tr><td>22.08.2026, 12:00 Uhr</td><td>Eintracht Frankfurt W</td><td>FC Koln W</td><td>2:0</td></tr>
+<tr><td>22.08.2026, 14:00 Uhr</td><td>Nürnberg W</td><td>VfL Wolfsburg W</td><td>2:8</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Stuttgart W</td><td>1:2</td></tr>
+<tr><td>23.08.2026, 16:00 Uhr</td><td>RB Leipzig W</td><td>Bayer Leverkusen W</td><td>0:2</td></tr>
+<tr><td>23.08.2026, 18:30 Uhr</td><td>Hamburger SV W</td><td>SC Freiburg W</td><td>1:1</td></tr>
+<tr><td>24.08.2026, 18:00 Uhr</td><td>Mainz 05 W</td><td>Werder Bremen W</td><td>1:2</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-2">
-<summary>Spieltag 2</summary>
+<summary>Spieltag 2 · terminiert · 2026-08-28 bis 2026-08-31</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 28.08.2026, 18:30 Uhr | FC Koln W | 1899 Hoffenheim W | 1:0 |
-| 29.08.2026, 12:00 Uhr | SC Freiburg W | Union Berlin W | 1:0 |
-| 29.08.2026, 14:00 Uhr | Stuttgart W | Hamburger SV W | 2:1 |
-| 30.08.2026, 14:00 Uhr | Eintracht Frankfurt W | Nürnberg W | 1:1 |
-| 30.08.2026, 16:00 Uhr | Bayer Leverkusen W | VfL Wolfsburg W | 1:2 |
-| 30.08.2026, 18:30 Uhr | Werder Bremen W | RB Leipzig W | 2:0 |
-| 31.08.2026, 18:00 Uhr | Bayern Munich W | Mainz 05 W | 2:0 |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>28.08.2026, 18:30 Uhr</td><td>FC Koln W</td><td>1899 Hoffenheim W</td><td>1:0</td></tr>
+<tr><td>29.08.2026, 12:00 Uhr</td><td>SC Freiburg W</td><td>Union Berlin W</td><td>1:0</td></tr>
+<tr><td>29.08.2026, 14:00 Uhr</td><td>Stuttgart W</td><td>Hamburger SV W</td><td>2:1</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Nürnberg W</td><td>1:1</td></tr>
+<tr><td>30.08.2026, 16:00 Uhr</td><td>Bayer Leverkusen W</td><td>VfL Wolfsburg W</td><td>1:2</td></tr>
+<tr><td>30.08.2026, 18:30 Uhr</td><td>Werder Bremen W</td><td>RB Leipzig W</td><td>2:0</td></tr>
+<tr><td>31.08.2026, 18:00 Uhr</td><td>Bayern Munich W</td><td>Mainz 05 W</td><td>2:0</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-3" open>
-<summary>Spieltag 3</summary>
+<summary>Spieltag 3 · terminiert · 2026-09-04 bis 2026-09-07</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 04.09.2026, 18:30 Uhr | 1899 Hoffenheim W | Bayer Leverkusen W | – |
-| 05.09.2026, 12:00 Uhr | Hamburger SV W | RB Leipzig W | – |
-| 05.09.2026, 14:00 Uhr | Mainz 05 W | FC Koln W | – |
-| 06.09.2026, 14:00 Uhr | VfL Wolfsburg W | Werder Bremen W | – |
-| 06.09.2026, 16:00 Uhr | Bayern Munich W | SC Freiburg W | – |
-| 06.09.2026, 18:30 Uhr | Nürnberg W | Stuttgart W | – |
-| 07.09.2026, 18:00 Uhr | Union Berlin W | Eintracht Frankfurt W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>04.09.2026, 18:30 Uhr</td><td>1899 Hoffenheim W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>05.09.2026, 12:00 Uhr</td><td>Hamburger SV W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>05.09.2026, 14:00 Uhr</td><td>Mainz 05 W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>06.09.2026, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>06.09.2026, 16:00 Uhr</td><td>Bayern Munich W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>06.09.2026, 18:30 Uhr</td><td>Nürnberg W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>07.09.2026, 18:00 Uhr</td><td>Union Berlin W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-4">
-<summary>Spieltag 4</summary>
+<summary>Spieltag 4 · terminiert · 2026-09-11 bis 2026-09-14</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 11.09.2026, 18:30 Uhr | Werder Bremen W | Hamburger SV W | – |
-| 12.09.2026, 12:00 Uhr | RB Leipzig W | Nürnberg W | – |
-| 12.09.2026, 14:00 Uhr | FC Koln W | Union Berlin W | – |
-| 13.09.2026, 14:00 Uhr | Stuttgart W | VfL Wolfsburg W | – |
-| 13.09.2026, 16:00 Uhr | Eintracht Frankfurt W | 1899 Hoffenheim W | – |
-| 13.09.2026, 18:30 Uhr | SC Freiburg W | Mainz 05 W | – |
-| 14.09.2026, 18:00 Uhr | Bayer Leverkusen W | Bayern Munich W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>11.09.2026, 18:30 Uhr</td><td>Werder Bremen W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>12.09.2026, 12:00 Uhr</td><td>RB Leipzig W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>12.09.2026, 14:00 Uhr</td><td>FC Koln W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Stuttgart W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>13.09.2026, 16:00 Uhr</td><td>Eintracht Frankfurt W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>13.09.2026, 18:30 Uhr</td><td>SC Freiburg W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>14.09.2026, 18:00 Uhr</td><td>Bayer Leverkusen W</td><td>Bayern Munich W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-5">
-<summary>Spieltag 5</summary>
+<summary>Spieltag 5 · terminiert · 2026-09-18 bis 2026-09-21</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 18.09.2026, 18:30 Uhr | 1899 Hoffenheim W | VfL Wolfsburg W | – |
-| 18.09.2026, 18:30 Uhr | Mainz 05 W | Eintracht Frankfurt W | – |
-| 19.09.2026, 14:00 Uhr | Bayern Munich W | FC Koln W | – |
-| 20.09.2026, 14:00 Uhr | Hamburger SV W | Nürnberg W | – |
-| 20.09.2026, 16:00 Uhr | SC Freiburg W | Bayer Leverkusen W | – |
-| 20.09.2026, 18:30 Uhr | Union Berlin W | RB Leipzig W | – |
-| 21.09.2026, 18:00 Uhr | Werder Bremen W | Stuttgart W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>18.09.2026, 18:30 Uhr</td><td>1899 Hoffenheim W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>18.09.2026, 18:30 Uhr</td><td>Mainz 05 W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>19.09.2026, 14:00 Uhr</td><td>Bayern Munich W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>20.09.2026, 14:00 Uhr</td><td>Hamburger SV W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>20.09.2026, 16:00 Uhr</td><td>SC Freiburg W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>20.09.2026, 18:30 Uhr</td><td>Union Berlin W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>21.09.2026, 18:00 Uhr</td><td>Werder Bremen W</td><td>Stuttgart W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-6">
-<summary>Spieltag 6</summary>
+<summary>Spieltag 6 · terminiert · 2026-10-04</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 04.10.2026, 14:00 Uhr | Bayer Leverkusen W | Werder Bremen W | – |
-| 04.10.2026, 14:00 Uhr | VfL Wolfsburg W | Hamburger SV W | – |
-| 04.10.2026, 14:00 Uhr | FC Koln W | SC Freiburg W | – |
-| 04.10.2026, 14:00 Uhr | Eintracht Frankfurt W | Bayern Munich W | – |
-| 04.10.2026, 14:00 Uhr | Nürnberg W | 1899 Hoffenheim W | – |
-| 04.10.2026, 14:00 Uhr | RB Leipzig W | Mainz 05 W | – |
-| 04.10.2026, 14:00 Uhr | Stuttgart W | Union Berlin W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>FC Koln W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Nürnberg W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>RB Leipzig W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Stuttgart W</td><td>Union Berlin W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-7">
-<summary>Spieltag 7</summary>
+<summary>Spieltag 7 · terminiert · 2026-10-18</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 18.10.2026, 14:00 Uhr | Bayer Leverkusen W | Eintracht Frankfurt W | – |
-| 18.10.2026, 14:00 Uhr | Bayern Munich W | Stuttgart W | – |
-| 18.10.2026, 14:00 Uhr | SC Freiburg W | RB Leipzig W | – |
-| 18.10.2026, 14:00 Uhr | Werder Bremen W | 1899 Hoffenheim W | – |
-| 18.10.2026, 14:00 Uhr | FC Koln W | Hamburger SV W | – |
-| 18.10.2026, 14:00 Uhr | Mainz 05 W | VfL Wolfsburg W | – |
-| 18.10.2026, 14:00 Uhr | Union Berlin W | Nürnberg W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Bayern Munich W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>SC Freiburg W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Werder Bremen W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>FC Koln W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Mainz 05 W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Union Berlin W</td><td>Nürnberg W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-8">
-<summary>Spieltag 8</summary>
+<summary>Spieltag 8 · terminiert · 2026-10-25</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 25.10.2026, 14:00 Uhr | 1899 Hoffenheim W | Mainz 05 W | – |
-| 25.10.2026, 14:00 Uhr | VfL Wolfsburg W | FC Koln W | – |
-| 25.10.2026, 14:00 Uhr | Werder Bremen W | SC Freiburg W | – |
-| 25.10.2026, 14:00 Uhr | Nürnberg W | Bayer Leverkusen W | – |
-| 25.10.2026, 14:00 Uhr | Hamburger SV W | Union Berlin W | – |
-| 25.10.2026, 14:00 Uhr | RB Leipzig W | Bayern Munich W | – |
-| 25.10.2026, 14:00 Uhr | Stuttgart W | Eintracht Frankfurt W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Werder Bremen W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Nürnberg W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Hamburger SV W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>RB Leipzig W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Stuttgart W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-9">
-<summary>Spieltag 9</summary>
+<summary>Spieltag 9 · terminiert · 2026-11-08</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 08.11.2026, 14:00 Uhr | Bayer Leverkusen W | Hamburger SV W | – |
-| 08.11.2026, 14:00 Uhr | Bayern Munich W | Werder Bremen W | – |
-| 08.11.2026, 14:00 Uhr | SC Freiburg W | Nürnberg W | – |
-| 08.11.2026, 14:00 Uhr | FC Koln W | RB Leipzig W | – |
-| 08.11.2026, 14:00 Uhr | Eintracht Frankfurt W | VfL Wolfsburg W | – |
-| 08.11.2026, 14:00 Uhr | Mainz 05 W | Stuttgart W | – |
-| 08.11.2026, 14:00 Uhr | Union Berlin W | 1899 Hoffenheim W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Bayern Munich W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>SC Freiburg W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>FC Koln W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Mainz 05 W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Union Berlin W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-10">
-<summary>Spieltag 10</summary>
+<summary>Spieltag 10 · terminiert · 2026-11-15</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 15.11.2026, 14:00 Uhr | 1899 Hoffenheim W | SC Freiburg W | – |
-| 15.11.2026, 14:00 Uhr | VfL Wolfsburg W | Bayern Munich W | – |
-| 15.11.2026, 14:00 Uhr | Werder Bremen W | Union Berlin W | – |
-| 15.11.2026, 14:00 Uhr | Nürnberg W | FC Koln W | – |
-| 15.11.2026, 14:00 Uhr | Hamburger SV W | Mainz 05 W | – |
-| 15.11.2026, 14:00 Uhr | RB Leipzig W | Eintracht Frankfurt W | – |
-| 15.11.2026, 14:00 Uhr | Stuttgart W | Bayer Leverkusen W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>Werder Bremen W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>Nürnberg W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>Hamburger SV W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>RB Leipzig W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>Stuttgart W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-11">
-<summary>Spieltag 11</summary>
+<summary>Spieltag 11 · terminiert · 2026-11-22</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 22.11.2026, 14:00 Uhr | Bayern Munich W | 1899 Hoffenheim W | – |
-| 22.11.2026, 14:00 Uhr | SC Freiburg W | Stuttgart W | – |
-| 22.11.2026, 14:00 Uhr | FC Koln W | Werder Bremen W | – |
-| 22.11.2026, 14:00 Uhr | Eintracht Frankfurt W | Hamburger SV W | – |
-| 22.11.2026, 14:00 Uhr | RB Leipzig W | VfL Wolfsburg W | – |
-| 22.11.2026, 14:00 Uhr | Mainz 05 W | Nürnberg W | – |
-| 22.11.2026, 14:00 Uhr | Union Berlin W | Bayer Leverkusen W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Bayern Munich W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>SC Freiburg W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>FC Koln W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>RB Leipzig W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Mainz 05 W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Union Berlin W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-12">
-<summary>Spieltag 12</summary>
+<summary>Spieltag 12 · terminiert · 2026-12-13</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 13.12.2026, 14:00 Uhr | 1899 Hoffenheim W | Hamburger SV W | – |
-| 13.12.2026, 14:00 Uhr | Bayer Leverkusen W | FC Koln W | – |
-| 13.12.2026, 14:00 Uhr | Bayern Munich W | Nürnberg W | – |
-| 13.12.2026, 14:00 Uhr | SC Freiburg W | VfL Wolfsburg W | – |
-| 13.12.2026, 14:00 Uhr | Werder Bremen W | Eintracht Frankfurt W | – |
-| 13.12.2026, 14:00 Uhr | Stuttgart W | RB Leipzig W | – |
-| 13.12.2026, 14:00 Uhr | Union Berlin W | Mainz 05 W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Bayern Munich W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>SC Freiburg W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Werder Bremen W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Stuttgart W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Union Berlin W</td><td>Mainz 05 W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-13">
-<summary>Spieltag 13</summary>
+<summary>Spieltag 13 · terminiert · 2026-12-20</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 20.12.2026, 14:00 Uhr | VfL Wolfsburg W | Union Berlin W | – |
-| 20.12.2026, 14:00 Uhr | FC Koln W | Stuttgart W | – |
-| 20.12.2026, 14:00 Uhr | Eintracht Frankfurt W | SC Freiburg W | – |
-| 20.12.2026, 14:00 Uhr | Nürnberg W | Werder Bremen W | – |
-| 20.12.2026, 14:00 Uhr | Hamburger SV W | Bayern Munich W | – |
-| 20.12.2026, 14:00 Uhr | RB Leipzig W | 1899 Hoffenheim W | – |
-| 20.12.2026, 14:00 Uhr | Mainz 05 W | Bayer Leverkusen W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>FC Koln W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Nürnberg W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Hamburger SV W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>RB Leipzig W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Mainz 05 W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-14">
-<summary>Spieltag 14</summary>
+<summary>Spieltag 14 · terminiert · 2027-01-17</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 17.01.2027, 14:00 Uhr | Bayer Leverkusen W | RB Leipzig W | – |
-| 17.01.2027, 14:00 Uhr | Bayern Munich W | Union Berlin W | – |
-| 17.01.2027, 14:00 Uhr | VfL Wolfsburg W | Nürnberg W | – |
-| 17.01.2027, 14:00 Uhr | SC Freiburg W | Hamburger SV W | – |
-| 17.01.2027, 14:00 Uhr | Werder Bremen W | Mainz 05 W | – |
-| 17.01.2027, 14:00 Uhr | FC Koln W | Eintracht Frankfurt W | – |
-| 17.01.2027, 14:00 Uhr | Stuttgart W | 1899 Hoffenheim W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>17.01.2027, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>17.01.2027, 14:00 Uhr</td><td>Bayern Munich W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>17.01.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>17.01.2027, 14:00 Uhr</td><td>SC Freiburg W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>17.01.2027, 14:00 Uhr</td><td>Werder Bremen W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>17.01.2027, 14:00 Uhr</td><td>FC Koln W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>17.01.2027, 14:00 Uhr</td><td>Stuttgart W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-15">
-<summary>Spieltag 15</summary>
+<summary>Spieltag 15 · terminiert · 2027-01-24</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 24.01.2027, 14:00 Uhr | 1899 Hoffenheim W | FC Koln W | – |
-| 24.01.2027, 14:00 Uhr | VfL Wolfsburg W | Bayer Leverkusen W | – |
-| 24.01.2027, 14:00 Uhr | Nürnberg W | Eintracht Frankfurt W | – |
-| 24.01.2027, 14:00 Uhr | Hamburger SV W | Stuttgart W | – |
-| 24.01.2027, 14:00 Uhr | RB Leipzig W | Werder Bremen W | – |
-| 24.01.2027, 14:00 Uhr | Mainz 05 W | Bayern Munich W | – |
-| 24.01.2027, 14:00 Uhr | Union Berlin W | SC Freiburg W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>24.01.2027, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>24.01.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>24.01.2027, 14:00 Uhr</td><td>Nürnberg W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>24.01.2027, 14:00 Uhr</td><td>Hamburger SV W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>24.01.2027, 14:00 Uhr</td><td>RB Leipzig W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>24.01.2027, 14:00 Uhr</td><td>Mainz 05 W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>24.01.2027, 14:00 Uhr</td><td>Union Berlin W</td><td>SC Freiburg W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-16">
-<summary>Spieltag 16</summary>
+<summary>Spieltag 16 · terminiert · 2027-01-31</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 31.01.2027, 14:00 Uhr | Bayer Leverkusen W | 1899 Hoffenheim W | – |
-| 31.01.2027, 14:00 Uhr | SC Freiburg W | Bayern Munich W | – |
-| 31.01.2027, 14:00 Uhr | Werder Bremen W | VfL Wolfsburg W | – |
-| 31.01.2027, 14:00 Uhr | FC Koln W | Mainz 05 W | – |
-| 31.01.2027, 14:00 Uhr | Eintracht Frankfurt W | Union Berlin W | – |
-| 31.01.2027, 14:00 Uhr | RB Leipzig W | Hamburger SV W | – |
-| 31.01.2027, 14:00 Uhr | Stuttgart W | Nürnberg W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>SC Freiburg W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Werder Bremen W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>FC Koln W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>RB Leipzig W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Stuttgart W</td><td>Nürnberg W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-17">
-<summary>Spieltag 17</summary>
+<summary>Spieltag 17 · terminiert · 2027-02-07</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 07.02.2027, 14:00 Uhr | 1899 Hoffenheim W | Eintracht Frankfurt W | – |
-| 07.02.2027, 14:00 Uhr | Bayern Munich W | Bayer Leverkusen W | – |
-| 07.02.2027, 14:00 Uhr | VfL Wolfsburg W | Stuttgart W | – |
-| 07.02.2027, 14:00 Uhr | Nürnberg W | RB Leipzig W | – |
-| 07.02.2027, 14:00 Uhr | Hamburger SV W | Werder Bremen W | – |
-| 07.02.2027, 14:00 Uhr | Mainz 05 W | SC Freiburg W | – |
-| 07.02.2027, 14:00 Uhr | Union Berlin W | FC Koln W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Bayern Munich W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Nürnberg W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Hamburger SV W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Mainz 05 W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Union Berlin W</td><td>FC Koln W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-18">
-<summary>Spieltag 18</summary>
+<summary>Spieltag 18 · terminiert · 2027-02-14</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 14.02.2027, 14:00 Uhr | Bayer Leverkusen W | SC Freiburg W | – |
-| 14.02.2027, 14:00 Uhr | VfL Wolfsburg W | 1899 Hoffenheim W | – |
-| 14.02.2027, 14:00 Uhr | FC Koln W | Bayern Munich W | – |
-| 14.02.2027, 14:00 Uhr | Eintracht Frankfurt W | Mainz 05 W | – |
-| 14.02.2027, 14:00 Uhr | Nürnberg W | Hamburger SV W | – |
-| 14.02.2027, 14:00 Uhr | RB Leipzig W | Union Berlin W | – |
-| 14.02.2027, 14:00 Uhr | Stuttgart W | Werder Bremen W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>FC Koln W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Nürnberg W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>RB Leipzig W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Stuttgart W</td><td>Werder Bremen W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-19">
-<summary>Spieltag 19</summary>
+<summary>Spieltag 19 · terminiert · 2027-02-21</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 21.02.2027, 14:00 Uhr | 1899 Hoffenheim W | Nürnberg W | – |
-| 21.02.2027, 14:00 Uhr | Bayern Munich W | Eintracht Frankfurt W | – |
-| 21.02.2027, 14:00 Uhr | SC Freiburg W | FC Koln W | – |
-| 21.02.2027, 14:00 Uhr | Werder Bremen W | Bayer Leverkusen W | – |
-| 21.02.2027, 14:00 Uhr | Hamburger SV W | VfL Wolfsburg W | – |
-| 21.02.2027, 14:00 Uhr | Mainz 05 W | RB Leipzig W | – |
-| 21.02.2027, 14:00 Uhr | Union Berlin W | Stuttgart W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Bayern Munich W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>SC Freiburg W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Werder Bremen W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Hamburger SV W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Mainz 05 W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Union Berlin W</td><td>Stuttgart W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-20">
-<summary>Spieltag 20</summary>
+<summary>Spieltag 20 · terminiert · 2027-03-14</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 14.03.2027, 14:00 Uhr | 1899 Hoffenheim W | Werder Bremen W | – |
-| 14.03.2027, 14:00 Uhr | VfL Wolfsburg W | Mainz 05 W | – |
-| 14.03.2027, 14:00 Uhr | Eintracht Frankfurt W | Bayer Leverkusen W | – |
-| 14.03.2027, 14:00 Uhr | Nürnberg W | Union Berlin W | – |
-| 14.03.2027, 14:00 Uhr | Hamburger SV W | FC Koln W | – |
-| 14.03.2027, 14:00 Uhr | RB Leipzig W | SC Freiburg W | – |
-| 14.03.2027, 14:00 Uhr | Stuttgart W | Bayern Munich W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Nürnberg W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Hamburger SV W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>RB Leipzig W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Stuttgart W</td><td>Bayern Munich W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-21">
-<summary>Spieltag 21</summary>
+<summary>Spieltag 21 · terminiert · 2027-03-21</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 21.03.2027, 14:00 Uhr | Bayer Leverkusen W | Nürnberg W | – |
-| 21.03.2027, 14:00 Uhr | Bayern Munich W | RB Leipzig W | – |
-| 21.03.2027, 14:00 Uhr | SC Freiburg W | Werder Bremen W | – |
-| 21.03.2027, 14:00 Uhr | FC Koln W | VfL Wolfsburg W | – |
-| 21.03.2027, 14:00 Uhr | Eintracht Frankfurt W | Stuttgart W | – |
-| 21.03.2027, 14:00 Uhr | Mainz 05 W | 1899 Hoffenheim W | – |
-| 21.03.2027, 14:00 Uhr | Union Berlin W | Hamburger SV W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Bayern Munich W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>SC Freiburg W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>FC Koln W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Mainz 05 W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Union Berlin W</td><td>Hamburger SV W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-22">
-<summary>Spieltag 22</summary>
+<summary>Spieltag 22 · terminiert · 2027-03-28</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 28.03.2027, 14:00 Uhr | 1899 Hoffenheim W | Union Berlin W | – |
-| 28.03.2027, 14:00 Uhr | VfL Wolfsburg W | Eintracht Frankfurt W | – |
-| 28.03.2027, 14:00 Uhr | Werder Bremen W | Bayern Munich W | – |
-| 28.03.2027, 14:00 Uhr | Nürnberg W | SC Freiburg W | – |
-| 28.03.2027, 14:00 Uhr | Hamburger SV W | Bayer Leverkusen W | – |
-| 28.03.2027, 14:00 Uhr | RB Leipzig W | FC Koln W | – |
-| 28.03.2027, 14:00 Uhr | Stuttgart W | Mainz 05 W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Werder Bremen W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Nürnberg W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Hamburger SV W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>RB Leipzig W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Stuttgart W</td><td>Mainz 05 W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-23">
-<summary>Spieltag 23</summary>
+<summary>Spieltag 23 · terminiert · 2027-04-11</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 11.04.2027, 14:00 Uhr | Bayer Leverkusen W | Stuttgart W | – |
-| 11.04.2027, 14:00 Uhr | Bayern Munich W | VfL Wolfsburg W | – |
-| 11.04.2027, 14:00 Uhr | SC Freiburg W | 1899 Hoffenheim W | – |
-| 11.04.2027, 14:00 Uhr | FC Koln W | Nürnberg W | – |
-| 11.04.2027, 14:00 Uhr | Eintracht Frankfurt W | RB Leipzig W | – |
-| 11.04.2027, 14:00 Uhr | Mainz 05 W | Hamburger SV W | – |
-| 11.04.2027, 14:00 Uhr | Union Berlin W | Werder Bremen W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Bayern Munich W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>SC Freiburg W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>FC Koln W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Mainz 05 W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Union Berlin W</td><td>Werder Bremen W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-24">
-<summary>Spieltag 24</summary>
+<summary>Spieltag 24 · terminiert · 2027-05-02</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 02.05.2027, 14:00 Uhr | 1899 Hoffenheim W | Bayern Munich W | – |
-| 02.05.2027, 14:00 Uhr | Bayer Leverkusen W | Union Berlin W | – |
-| 02.05.2027, 14:00 Uhr | VfL Wolfsburg W | RB Leipzig W | – |
-| 02.05.2027, 14:00 Uhr | Werder Bremen W | FC Koln W | – |
-| 02.05.2027, 14:00 Uhr | Nürnberg W | Mainz 05 W | – |
-| 02.05.2027, 14:00 Uhr | Hamburger SV W | Eintracht Frankfurt W | – |
-| 02.05.2027, 14:00 Uhr | Stuttgart W | SC Freiburg W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>Union Berlin W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Werder Bremen W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Nürnberg W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Hamburger SV W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Stuttgart W</td><td>SC Freiburg W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-25">
-<summary>Spieltag 25</summary>
+<summary>Spieltag 25 · terminiert · 2027-05-09</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 09.05.2027, 14:00 Uhr | VfL Wolfsburg W | SC Freiburg W | – |
-| 09.05.2027, 14:00 Uhr | FC Koln W | Bayer Leverkusen W | – |
-| 09.05.2027, 14:00 Uhr | Eintracht Frankfurt W | Werder Bremen W | – |
-| 09.05.2027, 14:00 Uhr | Nürnberg W | Bayern Munich W | – |
-| 09.05.2027, 14:00 Uhr | Hamburger SV W | 1899 Hoffenheim W | – |
-| 09.05.2027, 14:00 Uhr | RB Leipzig W | Stuttgart W | – |
-| 09.05.2027, 14:00 Uhr | Mainz 05 W | Union Berlin W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>VfL Wolfsburg W</td><td>SC Freiburg W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>FC Koln W</td><td>Bayer Leverkusen W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Eintracht Frankfurt W</td><td>Werder Bremen W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Nürnberg W</td><td>Bayern Munich W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Hamburger SV W</td><td>1899 Hoffenheim W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>RB Leipzig W</td><td>Stuttgart W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Mainz 05 W</td><td>Union Berlin W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-26">
-<summary>Spieltag 26</summary>
+<summary>Spieltag 26 · terminiert · 2027-05-23</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 23.05.2027, 14:00 Uhr | 1899 Hoffenheim W | RB Leipzig W | – |
-| 23.05.2027, 14:00 Uhr | Bayer Leverkusen W | Mainz 05 W | – |
-| 23.05.2027, 14:00 Uhr | Bayern Munich W | Hamburger SV W | – |
-| 23.05.2027, 14:00 Uhr | SC Freiburg W | Eintracht Frankfurt W | – |
-| 23.05.2027, 14:00 Uhr | Werder Bremen W | Nürnberg W | – |
-| 23.05.2027, 14:00 Uhr | Stuttgart W | FC Koln W | – |
-| 23.05.2027, 14:00 Uhr | Union Berlin W | VfL Wolfsburg W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>23.05.2027, 14:00 Uhr</td><td>1899 Hoffenheim W</td><td>RB Leipzig W</td><td>–</td></tr>
+<tr><td>23.05.2027, 14:00 Uhr</td><td>Bayer Leverkusen W</td><td>Mainz 05 W</td><td>–</td></tr>
+<tr><td>23.05.2027, 14:00 Uhr</td><td>Bayern Munich W</td><td>Hamburger SV W</td><td>–</td></tr>
+<tr><td>23.05.2027, 14:00 Uhr</td><td>SC Freiburg W</td><td>Eintracht Frankfurt W</td><td>–</td></tr>
+<tr><td>23.05.2027, 14:00 Uhr</td><td>Werder Bremen W</td><td>Nürnberg W</td><td>–</td></tr>
+<tr><td>23.05.2027, 14:00 Uhr</td><td>Stuttgart W</td><td>FC Koln W</td><td>–</td></tr>
+<tr><td>23.05.2027, 14:00 Uhr</td><td>Union Berlin W</td><td>VfL Wolfsburg W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>

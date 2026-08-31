@@ -3,12 +3,12 @@ layout: default
 title: Vorschau Liga-Uebersicht fbl2
 ---
 
-_Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan (alle Spieltage), nicht nur 7-Tage-Fenster._
+_Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan (alle Spieltage), echte Tabellen, Terminierungs-Status je Spieltag._
 
 # 2. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 31.08.2026, 23:44 Uhr
+**Stand:** 31.08.2026, 23:51 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -26,394 +26,654 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan (alle Spieltage
 
 ## Spielplan (alle Spieltage, Saison 2026-2027)
 
-[Spieltag 1](#spieltag-1) · [Spieltag 2](#spieltag-2) · [Spieltag 3](#spieltag-3) · [Spieltag 4](#spieltag-4) · [Spieltag 5](#spieltag-5) · [Spieltag 6](#spieltag-6) · [Spieltag 7](#spieltag-7) · [Spieltag 8](#spieltag-8) · [Spieltag 9](#spieltag-9) · [Spieltag 10](#spieltag-10) · [Spieltag 11](#spieltag-11) · [Spieltag 12](#spieltag-12) · [Spieltag 13](#spieltag-13) · [Spieltag 14](#spieltag-14) · [Spieltag 15](#spieltag-15) · [Spieltag 16](#spieltag-16) · [Spieltag 17](#spieltag-17) · [Spieltag 18](#spieltag-18) · [Spieltag 19](#spieltag-19) · [Spieltag 20](#spieltag-20) · [Spieltag 21](#spieltag-21) · [Spieltag 22](#spieltag-22) · [Spieltag 23](#spieltag-23) · [Spieltag 24](#spieltag-24) · [Spieltag 25](#spieltag-25) · [Spieltag 26](#spieltag-26)
+[Spieltag 1 · terminiert · 2026-08-02](#spieltag-1) · [Spieltag 2 · terminiert · 2026-08-08 bis 2026-08-09](#spieltag-2) · [Spieltag 3 · terminiert · 2026-08-23](#spieltag-3) · [Spieltag 4 · terminiert · 2026-08-30](#spieltag-4) · [Spieltag 5 · terminiert · 2026-09-06](#spieltag-5) · [Spieltag 6 · terminiert · 2026-09-13](#spieltag-6) · [Spieltag 7 · terminiert · 2026-09-19 bis 2026-09-20](#spieltag-7) · [Spieltag 8 · terminiert · 2026-10-04](#spieltag-8) · [Spieltag 9 · terminiert · 2026-10-18](#spieltag-9) · [Spieltag 10 · terminiert · 2026-10-25](#spieltag-10) · [Spieltag 11 · terminiert · 2026-11-08](#spieltag-11) · [Spieltag 12 · terminiert · 2026-11-14 bis 2026-11-15](#spieltag-12) · [Spieltag 13 · terminiert · 2026-11-22](#spieltag-13) · [Spieltag 14 · terminiert · 2026-12-13](#spieltag-14) · [Spieltag 15 · terminiert · 2026-12-20](#spieltag-15) · [Spieltag 16 · terminiert · 2027-01-31](#spieltag-16) · [Spieltag 17 · terminiert · 2027-02-07](#spieltag-17) · [Spieltag 18 · terminiert · 2027-02-14](#spieltag-18) · [Spieltag 19 · terminiert · 2027-02-21](#spieltag-19) · [Spieltag 20 · terminiert · 2027-03-14](#spieltag-20) · [Spieltag 21 · terminiert · 2027-03-21](#spieltag-21) · [Spieltag 22 · terminiert · 2027-03-27 bis 2027-03-28](#spieltag-22) · [Spieltag 23 · terminiert · 2027-04-03 bis 2027-04-04](#spieltag-23) · [Spieltag 24 · terminiert · 2027-04-11](#spieltag-24) · [Spieltag 25 · terminiert · 2027-05-02](#spieltag-25) · [Spieltag 26 · terminiert · 2027-05-09](#spieltag-26)
 
 <details id="spieltag-1">
-<summary>Spieltag 1</summary>
+<summary>Spieltag 1 · terminiert · 2026-08-02</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 02.08.2026, 14:00 Uhr | Borussia Monchengladbach W | Carl Zeiss Jena  W | 1:2 |
-| 02.08.2026, 14:00 Uhr | SGS Essen W | Eintracht Frankfurt II W | 3:1 |
-| 02.08.2026, 14:00 Uhr | Ingolstadt W | Turbine Potsdam W | 1:0 |
-| 02.08.2026, 14:00 Uhr | Andernach W | Meppen W | 1:2 |
-| 02.08.2026, 14:00 Uhr | Hoffenheim II W | Viktoria Berlin W | 1:3 |
-| 02.08.2026, 14:00 Uhr | FC Koln II W | SC Sand W | 1:3 |
-| 02.08.2026, 15:00 Uhr | Bochum W | Hertha Berlin W | 3:0 |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>02.08.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Carl Zeiss Jena  W</td><td>1:2</td></tr>
+<tr><td>02.08.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Eintracht Frankfurt II W</td><td>3:1</td></tr>
+<tr><td>02.08.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>Turbine Potsdam W</td><td>1:0</td></tr>
+<tr><td>02.08.2026, 14:00 Uhr</td><td>Andernach W</td><td>Meppen W</td><td>1:2</td></tr>
+<tr><td>02.08.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Viktoria Berlin W</td><td>1:3</td></tr>
+<tr><td>02.08.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>SC Sand W</td><td>1:3</td></tr>
+<tr><td>02.08.2026, 15:00 Uhr</td><td>Bochum W</td><td>Hertha Berlin W</td><td>3:0</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-2">
-<summary>Spieltag 2</summary>
+<summary>Spieltag 2 · terminiert · 2026-08-08 bis 2026-08-09</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 08.08.2026, 14:00 Uhr | Carl Zeiss Jena  W | SGS Essen W | 1:2 |
-| 09.08.2026, 11:00 Uhr | Meppen W | Hoffenheim II W | 2:1 |
-| 09.08.2026, 14:00 Uhr | SC Sand W | Andernach W | 1:2 |
-| 09.08.2026, 14:00 Uhr | Turbine Potsdam W | Borussia Monchengladbach W | 1:4 |
-| 09.08.2026, 14:00 Uhr | Viktoria Berlin W | Bochum W | 1:2 |
-| 09.08.2026, 14:00 Uhr | Eintracht Frankfurt II W | Ingolstadt W | 0:1 |
-| 09.08.2026, 14:00 Uhr | Hertha Berlin W | FC Koln II W | 2:0 |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>08.08.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>SGS Essen W</td><td>1:2</td></tr>
+<tr><td>09.08.2026, 11:00 Uhr</td><td>Meppen W</td><td>Hoffenheim II W</td><td>2:1</td></tr>
+<tr><td>09.08.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Andernach W</td><td>1:2</td></tr>
+<tr><td>09.08.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Borussia Monchengladbach W</td><td>1:4</td></tr>
+<tr><td>09.08.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Bochum W</td><td>1:2</td></tr>
+<tr><td>09.08.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Ingolstadt W</td><td>0:1</td></tr>
+<tr><td>09.08.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>FC Koln II W</td><td>2:0</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-3">
-<summary>Spieltag 3</summary>
+<summary>Spieltag 3 · terminiert · 2026-08-23</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 23.08.2026, 14:00 Uhr | Borussia Monchengladbach W | SC Sand W | 1:2 |
-| 23.08.2026, 14:00 Uhr | Turbine Potsdam W | Hertha Berlin W | 1:2 |
-| 23.08.2026, 14:00 Uhr | Bochum W | Eintracht Frankfurt II W | 4:0 |
-| 23.08.2026, 14:00 Uhr | Ingolstadt W | Carl Zeiss Jena  W | 2:3 |
-| 23.08.2026, 14:00 Uhr | Viktoria Berlin W | Andernach W | 2:1 |
-| 23.08.2026, 14:00 Uhr | Hoffenheim II W | SGS Essen W | 1:4 |
-| 23.08.2026, 14:00 Uhr | FC Koln II W | Meppen W | 0:3 |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>SC Sand W</td><td>1:2</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Hertha Berlin W</td><td>1:2</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Bochum W</td><td>Eintracht Frankfurt II W</td><td>4:0</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>Carl Zeiss Jena  W</td><td>2:3</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Andernach W</td><td>2:1</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>SGS Essen W</td><td>1:4</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Meppen W</td><td>0:3</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-4" open>
-<summary>Spieltag 4</summary>
+<summary>Spieltag 4 · terminiert · 2026-08-30</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 30.08.2026, 14:00 Uhr | SC Sand W | Bochum W | 0:3 |
-| 30.08.2026, 14:00 Uhr | Meppen W | Eintracht Frankfurt II W | 5:0 |
-| 30.08.2026, 14:00 Uhr | Carl Zeiss Jena  W | Turbine Potsdam W | 3:1 |
-| 30.08.2026, 14:00 Uhr | Andernach W | Hoffenheim II W | 2:1 |
-| 30.08.2026, 14:00 Uhr | Hertha Berlin W | Ingolstadt W | 2:1 |
-| 30.08.2026, 14:00 Uhr | FC Koln II W | Viktoria Berlin W | 0:2 |
-| 30.08.2026, 14:00 Uhr | SGS Essen W | Borussia Monchengladbach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Bochum W</td><td>0:3</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Meppen W</td><td>Eintracht Frankfurt II W</td><td>5:0</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Turbine Potsdam W</td><td>3:1</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Andernach W</td><td>Hoffenheim II W</td><td>2:1</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Ingolstadt W</td><td>2:1</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Viktoria Berlin W</td><td>0:2</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-5">
-<summary>Spieltag 5</summary>
+<summary>Spieltag 5 · terminiert · 2026-09-06</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 06.09.2026, 11:00 Uhr | Ingolstadt W | FC Koln II W | – |
-| 06.09.2026, 14:00 Uhr | Borussia Monchengladbach W | Hertha Berlin W | – |
-| 06.09.2026, 14:00 Uhr | Turbine Potsdam W | SGS Essen W | – |
-| 06.09.2026, 14:00 Uhr | Bochum W | Andernach W | – |
-| 06.09.2026, 14:00 Uhr | Viktoria Berlin W | Meppen W | – |
-| 06.09.2026, 14:00 Uhr | Eintracht Frankfurt II W | Carl Zeiss Jena  W | – |
-| 06.09.2026, 14:00 Uhr | Hoffenheim II W | SC Sand W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>06.09.2026, 11:00 Uhr</td><td>Ingolstadt W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>06.09.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>06.09.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>06.09.2026, 14:00 Uhr</td><td>Bochum W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>06.09.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>06.09.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>06.09.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>SC Sand W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-6">
-<summary>Spieltag 6</summary>
+<summary>Spieltag 6 · terminiert · 2026-09-13</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 13.09.2026, 14:00 Uhr | SC Sand W | Viktoria Berlin W | – |
-| 13.09.2026, 14:00 Uhr | Borussia Monchengladbach W | Bochum W | – |
-| 13.09.2026, 14:00 Uhr | SGS Essen W | Ingolstadt W | – |
-| 13.09.2026, 14:00 Uhr | Carl Zeiss Jena  W | Hoffenheim II W | – |
-| 13.09.2026, 14:00 Uhr | Andernach W | Eintracht Frankfurt II W | – |
-| 13.09.2026, 14:00 Uhr | Hertha Berlin W | Meppen W | – |
-| 13.09.2026, 14:00 Uhr | FC Koln II W | Turbine Potsdam W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Andernach W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-7">
-<summary>Spieltag 7</summary>
+<summary>Spieltag 7 · terminiert · 2026-09-19 bis 2026-09-20</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 19.09.2026, 14:00 Uhr | Viktoria Berlin W | SGS Essen W | – |
-| 20.09.2026, 11:00 Uhr | Meppen W | SC Sand W | – |
-| 20.09.2026, 14:00 Uhr | Bochum W | FC Koln II W | – |
-| 20.09.2026, 14:00 Uhr | Ingolstadt W | Borussia Monchengladbach W | – |
-| 20.09.2026, 14:00 Uhr | Andernach W | Carl Zeiss Jena  W | – |
-| 20.09.2026, 14:00 Uhr | Eintracht Frankfurt II W | Hertha Berlin W | – |
-| 20.09.2026, 14:00 Uhr | Hoffenheim II W | Turbine Potsdam W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>19.09.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>20.09.2026, 11:00 Uhr</td><td>Meppen W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>20.09.2026, 14:00 Uhr</td><td>Bochum W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>20.09.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>20.09.2026, 14:00 Uhr</td><td>Andernach W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>20.09.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>20.09.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-8">
-<summary>Spieltag 8</summary>
+<summary>Spieltag 8 · terminiert · 2026-10-04</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 04.10.2026, 11:00 Uhr | Ingolstadt W | Bochum W | – |
-| 04.10.2026, 14:00 Uhr | Borussia Monchengladbach W | Viktoria Berlin W | – |
-| 04.10.2026, 14:00 Uhr | SGS Essen W | Meppen W | – |
-| 04.10.2026, 14:00 Uhr | Turbine Potsdam W | Eintracht Frankfurt II W | – |
-| 04.10.2026, 14:00 Uhr | Carl Zeiss Jena  W | SC Sand W | – |
-| 04.10.2026, 14:00 Uhr | Hertha Berlin W | Hoffenheim II W | – |
-| 04.10.2026, 14:00 Uhr | FC Koln II W | Andernach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>04.10.2026, 11:00 Uhr</td><td>Ingolstadt W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>04.10.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Andernach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-9">
-<summary>Spieltag 9</summary>
+<summary>Spieltag 9 · terminiert · 2026-10-18</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 18.10.2026, 11:00 Uhr | Hoffenheim II W | FC Koln II W | – |
-| 18.10.2026, 14:00 Uhr | SC Sand W | Hertha Berlin W | – |
-| 18.10.2026, 14:00 Uhr | Meppen W | Carl Zeiss Jena  W | – |
-| 18.10.2026, 14:00 Uhr | Bochum W | Turbine Potsdam W | – |
-| 18.10.2026, 14:00 Uhr | Andernach W | SGS Essen W | – |
-| 18.10.2026, 14:00 Uhr | Viktoria Berlin W | Ingolstadt W | – |
-| 18.10.2026, 14:00 Uhr | Eintracht Frankfurt II W | Borussia Monchengladbach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>18.10.2026, 11:00 Uhr</td><td>Hoffenheim II W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Meppen W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Bochum W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Andernach W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>18.10.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-10">
-<summary>Spieltag 10</summary>
+<summary>Spieltag 10 · terminiert · 2026-10-25</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 25.10.2026, 14:00 Uhr | Borussia Monchengladbach W | Hoffenheim II W | – |
-| 25.10.2026, 14:00 Uhr | SGS Essen W | Bochum W | – |
-| 25.10.2026, 14:00 Uhr | Turbine Potsdam W | Meppen W | – |
-| 25.10.2026, 14:00 Uhr | Carl Zeiss Jena  W | Viktoria Berlin W | – |
-| 25.10.2026, 14:00 Uhr | Ingolstadt W | SC Sand W | – |
-| 25.10.2026, 14:00 Uhr | Eintracht Frankfurt II W | FC Koln II W | – |
-| 25.10.2026, 14:00 Uhr | Hertha Berlin W | Andernach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Andernach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-11">
-<summary>Spieltag 11</summary>
+<summary>Spieltag 11 · terminiert · 2026-11-08</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 08.11.2026, 11:00 Uhr | Meppen W | Ingolstadt W | – |
-| 08.11.2026, 14:00 Uhr | SC Sand W | SGS Essen W | – |
-| 08.11.2026, 14:00 Uhr | Bochum W | Carl Zeiss Jena  W | – |
-| 08.11.2026, 14:00 Uhr | Andernach W | Turbine Potsdam W | – |
-| 08.11.2026, 14:00 Uhr | Viktoria Berlin W | Hertha Berlin W | – |
-| 08.11.2026, 14:00 Uhr | Hoffenheim II W | Eintracht Frankfurt II W | – |
-| 08.11.2026, 14:00 Uhr | FC Koln II W | Borussia Monchengladbach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>08.11.2026, 11:00 Uhr</td><td>Meppen W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>SC Sand W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Bochum W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Andernach W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>08.11.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-12">
-<summary>Spieltag 12</summary>
+<summary>Spieltag 12 · terminiert · 2026-11-14 bis 2026-11-15</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 14.11.2026, 13:00 Uhr | Carl Zeiss Jena  W | FC Koln II W | – |
-| 14.11.2026, 14:00 Uhr | Bochum W | Hoffenheim II W | – |
-| 14.11.2026, 14:00 Uhr | Eintracht Frankfurt II W | Viktoria Berlin W | – |
-| 15.11.2026, 14:00 Uhr | Borussia Monchengladbach W | Meppen W | – |
-| 15.11.2026, 14:00 Uhr | SGS Essen W | Hertha Berlin W | – |
-| 15.11.2026, 14:00 Uhr | Turbine Potsdam W | SC Sand W | – |
-| 15.11.2026, 14:00 Uhr | Ingolstadt W | Andernach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>14.11.2026, 13:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>14.11.2026, 14:00 Uhr</td><td>Bochum W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>14.11.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>15.11.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>Andernach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-13">
-<summary>Spieltag 13</summary>
+<summary>Spieltag 13 · terminiert · 2026-11-22</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 22.11.2026, 14:00 Uhr | SC Sand W | Eintracht Frankfurt II W | – |
-| 22.11.2026, 14:00 Uhr | Meppen W | Bochum W | – |
-| 22.11.2026, 14:00 Uhr | Andernach W | Borussia Monchengladbach W | – |
-| 22.11.2026, 14:00 Uhr | Viktoria Berlin W | Turbine Potsdam W | – |
-| 22.11.2026, 14:00 Uhr | Hoffenheim II W | Ingolstadt W | – |
-| 22.11.2026, 14:00 Uhr | Hertha Berlin W | Carl Zeiss Jena  W | – |
-| 22.11.2026, 14:00 Uhr | FC Koln II W | SGS Essen W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Meppen W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Andernach W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>SGS Essen W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-14">
-<summary>Spieltag 14</summary>
+<summary>Spieltag 14 · terminiert · 2026-12-13</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 13.12.2026, 14:00 Uhr | SC Sand W | FC Koln II W | – |
-| 13.12.2026, 14:00 Uhr | Turbine Potsdam W | Ingolstadt W | – |
-| 13.12.2026, 14:00 Uhr | Meppen W | Andernach W | – |
-| 13.12.2026, 14:00 Uhr | Carl Zeiss Jena  W | Borussia Monchengladbach W | – |
-| 13.12.2026, 14:00 Uhr | Viktoria Berlin W | Hoffenheim II W | – |
-| 13.12.2026, 14:00 Uhr | Eintracht Frankfurt II W | SGS Essen W | – |
-| 13.12.2026, 14:00 Uhr | Hertha Berlin W | Bochum W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>SC Sand W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Meppen W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Bochum W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-15">
-<summary>Spieltag 15</summary>
+<summary>Spieltag 15 · terminiert · 2026-12-20</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 20.12.2026, 11:00 Uhr | Hoffenheim II W | Meppen W | – |
-| 20.12.2026, 14:00 Uhr | Borussia Monchengladbach W | Turbine Potsdam W | – |
-| 20.12.2026, 14:00 Uhr | SGS Essen W | Carl Zeiss Jena  W | – |
-| 20.12.2026, 14:00 Uhr | Bochum W | Viktoria Berlin W | – |
-| 20.12.2026, 14:00 Uhr | Ingolstadt W | Eintracht Frankfurt II W | – |
-| 20.12.2026, 14:00 Uhr | Andernach W | SC Sand W | – |
-| 20.12.2026, 14:00 Uhr | FC Koln II W | Hertha Berlin W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>20.12.2026, 11:00 Uhr</td><td>Hoffenheim II W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Bochum W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>Andernach W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>20.12.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Hertha Berlin W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-16">
-<summary>Spieltag 16</summary>
+<summary>Spieltag 16 · terminiert · 2027-01-31</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 31.01.2027, 14:00 Uhr | SC Sand W | Borussia Monchengladbach W | – |
-| 31.01.2027, 14:00 Uhr | SGS Essen W | Hoffenheim II W | – |
-| 31.01.2027, 14:00 Uhr | Meppen W | FC Koln II W | – |
-| 31.01.2027, 14:00 Uhr | Carl Zeiss Jena  W | Ingolstadt W | – |
-| 31.01.2027, 14:00 Uhr | Andernach W | Viktoria Berlin W | – |
-| 31.01.2027, 14:00 Uhr | Eintracht Frankfurt II W | Bochum W | – |
-| 31.01.2027, 14:00 Uhr | Hertha Berlin W | Turbine Potsdam W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>SC Sand W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Meppen W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Andernach W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-17">
-<summary>Spieltag 17</summary>
+<summary>Spieltag 17 · terminiert · 2027-02-07</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 07.02.2027, 14:00 Uhr | Borussia Monchengladbach W | SGS Essen W | – |
-| 07.02.2027, 14:00 Uhr | Turbine Potsdam W | Carl Zeiss Jena  W | – |
-| 07.02.2027, 14:00 Uhr | Bochum W | SC Sand W | – |
-| 07.02.2027, 14:00 Uhr | Ingolstadt W | Hertha Berlin W | – |
-| 07.02.2027, 14:00 Uhr | Viktoria Berlin W | FC Koln II W | – |
-| 07.02.2027, 14:00 Uhr | Eintracht Frankfurt II W | Meppen W | – |
-| 07.02.2027, 14:00 Uhr | Hoffenheim II W | Andernach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Bochum W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Ingolstadt W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Andernach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-18">
-<summary>Spieltag 18</summary>
+<summary>Spieltag 18 · terminiert · 2027-02-14</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 14.02.2027, 11:00 Uhr | FC Koln II W | Ingolstadt W | – |
-| 14.02.2027, 14:00 Uhr | SC Sand W | Hoffenheim II W | – |
-| 14.02.2027, 14:00 Uhr | SGS Essen W | Turbine Potsdam W | – |
-| 14.02.2027, 14:00 Uhr | Meppen W | Viktoria Berlin W | – |
-| 14.02.2027, 14:00 Uhr | Carl Zeiss Jena  W | Eintracht Frankfurt II W | – |
-| 14.02.2027, 14:00 Uhr | Andernach W | Bochum W | – |
-| 14.02.2027, 14:00 Uhr | Hertha Berlin W | Borussia Monchengladbach W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>14.02.2027, 11:00 Uhr</td><td>FC Koln II W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>SC Sand W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Meppen W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Andernach W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>14.02.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-19">
-<summary>Spieltag 19</summary>
+<summary>Spieltag 19 · terminiert · 2027-02-21</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 21.02.2027, 14:00 Uhr | Turbine Potsdam W | FC Koln II W | – |
-| 21.02.2027, 14:00 Uhr | Meppen W | Hertha Berlin W | – |
-| 21.02.2027, 14:00 Uhr | Bochum W | Borussia Monchengladbach W | – |
-| 21.02.2027, 14:00 Uhr | Ingolstadt W | SGS Essen W | – |
-| 21.02.2027, 14:00 Uhr | Viktoria Berlin W | SC Sand W | – |
-| 21.02.2027, 14:00 Uhr | Eintracht Frankfurt II W | Andernach W | – |
-| 21.02.2027, 14:00 Uhr | Hoffenheim II W | Carl Zeiss Jena  W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Meppen W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Bochum W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Ingolstadt W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-20">
-<summary>Spieltag 20</summary>
+<summary>Spieltag 20 · terminiert · 2027-03-14</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 14.03.2027, 11:00 Uhr | SC Sand W | Meppen W | – |
-| 14.03.2027, 14:00 Uhr | Borussia Monchengladbach W | Ingolstadt W | – |
-| 14.03.2027, 14:00 Uhr | SGS Essen W | Viktoria Berlin W | – |
-| 14.03.2027, 14:00 Uhr | Turbine Potsdam W | Hoffenheim II W | – |
-| 14.03.2027, 14:00 Uhr | Carl Zeiss Jena  W | Andernach W | – |
-| 14.03.2027, 14:00 Uhr | Hertha Berlin W | Eintracht Frankfurt II W | – |
-| 14.03.2027, 14:00 Uhr | FC Koln II W | Bochum W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>14.03.2027, 11:00 Uhr</td><td>SC Sand W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>14.03.2027, 14:00 Uhr</td><td>FC Koln II W</td><td>Bochum W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-21">
-<summary>Spieltag 21</summary>
+<summary>Spieltag 21 · terminiert · 2027-03-21</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 21.03.2027, 11:00 Uhr | Bochum W | Ingolstadt W | – |
-| 21.03.2027, 14:00 Uhr | SC Sand W | Carl Zeiss Jena  W | – |
-| 21.03.2027, 14:00 Uhr | Meppen W | SGS Essen W | – |
-| 21.03.2027, 14:00 Uhr | Andernach W | FC Koln II W | – |
-| 21.03.2027, 14:00 Uhr | Viktoria Berlin W | Borussia Monchengladbach W | – |
-| 21.03.2027, 14:00 Uhr | Eintracht Frankfurt II W | Turbine Potsdam W | – |
-| 21.03.2027, 14:00 Uhr | Hoffenheim II W | Hertha Berlin W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>21.03.2027, 11:00 Uhr</td><td>Bochum W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>SC Sand W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Meppen W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Andernach W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>21.03.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Hertha Berlin W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-22">
-<summary>Spieltag 22</summary>
+<summary>Spieltag 22 · terminiert · 2027-03-27 bis 2027-03-28</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 27.03.2027, 11:00 Uhr | FC Koln II W | Hoffenheim II W | – |
-| 27.03.2027, 14:00 Uhr | Carl Zeiss Jena  W | Meppen W | – |
-| 28.03.2027, 14:00 Uhr | Borussia Monchengladbach W | Eintracht Frankfurt II W | – |
-| 28.03.2027, 14:00 Uhr | SGS Essen W | Andernach W | – |
-| 28.03.2027, 14:00 Uhr | Turbine Potsdam W | Bochum W | – |
-| 28.03.2027, 14:00 Uhr | Ingolstadt W | Viktoria Berlin W | – |
-| 28.03.2027, 14:00 Uhr | Hertha Berlin W | SC Sand W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>27.03.2027, 11:00 Uhr</td><td>FC Koln II W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>27.03.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Ingolstadt W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>28.03.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>SC Sand W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-23">
-<summary>Spieltag 23</summary>
+<summary>Spieltag 23 · terminiert · 2027-04-03 bis 2027-04-04</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 03.04.2027, 14:00 Uhr | Viktoria Berlin W | Carl Zeiss Jena  W | – |
-| 04.04.2027, 14:00 Uhr | SC Sand W | Ingolstadt W | – |
-| 04.04.2027, 14:00 Uhr | Meppen W | Turbine Potsdam W | – |
-| 04.04.2027, 14:00 Uhr | Bochum W | SGS Essen W | – |
-| 04.04.2027, 14:00 Uhr | Andernach W | Hertha Berlin W | – |
-| 04.04.2027, 14:00 Uhr | Hoffenheim II W | Borussia Monchengladbach W | – |
-| 04.04.2027, 14:00 Uhr | FC Koln II W | Eintracht Frankfurt II W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>03.04.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>04.04.2027, 14:00 Uhr</td><td>SC Sand W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>04.04.2027, 14:00 Uhr</td><td>Meppen W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>04.04.2027, 14:00 Uhr</td><td>Bochum W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>04.04.2027, 14:00 Uhr</td><td>Andernach W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>04.04.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>04.04.2027, 14:00 Uhr</td><td>FC Koln II W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-24">
-<summary>Spieltag 24</summary>
+<summary>Spieltag 24 · terminiert · 2027-04-11</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 11.04.2027, 11:00 Uhr | Ingolstadt W | Meppen W | – |
-| 11.04.2027, 14:00 Uhr | Borussia Monchengladbach W | FC Koln II W | – |
-| 11.04.2027, 14:00 Uhr | SGS Essen W | SC Sand W | – |
-| 11.04.2027, 14:00 Uhr | Turbine Potsdam W | Andernach W | – |
-| 11.04.2027, 14:00 Uhr | Carl Zeiss Jena  W | Bochum W | – |
-| 11.04.2027, 14:00 Uhr | Eintracht Frankfurt II W | Hoffenheim II W | – |
-| 11.04.2027, 14:00 Uhr | Hertha Berlin W | Viktoria Berlin W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>11.04.2027, 11:00 Uhr</td><td>Ingolstadt W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>11.04.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-25">
-<summary>Spieltag 25</summary>
+<summary>Spieltag 25 · terminiert · 2027-05-02</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 02.05.2027, 14:00 Uhr | SC Sand W | Turbine Potsdam W | – |
-| 02.05.2027, 14:00 Uhr | Meppen W | Borussia Monchengladbach W | – |
-| 02.05.2027, 14:00 Uhr | Andernach W | Ingolstadt W | – |
-| 02.05.2027, 14:00 Uhr | Viktoria Berlin W | Eintracht Frankfurt II W | – |
-| 02.05.2027, 14:00 Uhr | Hoffenheim II W | Bochum W | – |
-| 02.05.2027, 14:00 Uhr | Hertha Berlin W | SGS Essen W | – |
-| 02.05.2027, 14:00 Uhr | FC Koln II W | Carl Zeiss Jena  W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>SC Sand W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Meppen W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Andernach W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>FC Koln II W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
 
 <details id="spieltag-26">
-<summary>Spieltag 26</summary>
+<summary>Spieltag 26 · terminiert · 2027-05-09</summary>
 
-| Datum | Heim | Gast | Ergebnis |
-|---|---|---|---|
-| 09.05.2027, 14:00 Uhr | Borussia Monchengladbach W | Andernach W | – |
-| 09.05.2027, 14:00 Uhr | SGS Essen W | FC Koln II W | – |
-| 09.05.2027, 14:00 Uhr | Turbine Potsdam W | Viktoria Berlin W | – |
-| 09.05.2027, 14:00 Uhr | Carl Zeiss Jena  W | Hertha Berlin W | – |
-| 09.05.2027, 14:00 Uhr | Bochum W | Meppen W | – |
-| 09.05.2027, 14:00 Uhr | Ingolstadt W | Hoffenheim II W | – |
-| 09.05.2027, 14:00 Uhr | Eintracht Frankfurt II W | SC Sand W | – |
+<div class="table-scroll">
+<table>
+<thead><tr>
+<th>Datum</th>
+<th>Heim</th>
+<th>Gast</th>
+<th>Ergebnis</th>
+</tr></thead>
+<tbody>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Bochum W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Ingolstadt W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>SC Sand W</td><td>–</td></tr>
+</tbody>
+</table>
+</div>
 
 </details>
