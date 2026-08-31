@@ -18,20 +18,28 @@ freigegeben wird. Wird nicht durch die laufende Pipeline veraendert.
 
 ## Schnellsuche
 
-<input list="datahub-search" id="datahub-search-input" placeholder="Liga oder Verein suchen...">
-<datalist id="datahub-search">
-  <option value="A-League Women"></option>
-  <option value="2. Frauen Bundesliga"></option>
-  <option value="Frauen Bundesliga"></option>
-  <option value="Sydney FC W"></option>
-  <option value="Turbine Potsdam W"></option>
-  <option value="Nürnberg W"></option>
-</datalist>
+<input type="text" id="datahub-search-input" placeholder="Liga oder Verein suchen..." autocomplete="off">
+<ul id="datahub-search-results"></ul>
 <script>
   var datahubSearchMap = {"A-League Women": "leagues/australia_190.md", "2. Frauen Bundesliga": "leagues/germany_1034.md", "Frauen Bundesliga": "leagues/germany_82.md", "Sydney FC W": "clubs/1968.md", "Turbine Potsdam W": "clubs/1869.md", "Nürnberg W": "clubs/20487.md"};
-  document.getElementById('datahub-search-input').addEventListener('change', function () {
-    var url = datahubSearchMap[this.value];
-    if (url) { window.location.href = url.replace('.md', '.html'); }
+  var datahubSearchNames = Object.keys(datahubSearchMap);
+  var datahubSearchInput = document.getElementById('datahub-search-input');
+  var datahubSearchResults = document.getElementById('datahub-search-results');
+  datahubSearchInput.addEventListener('input', function () {
+    var query = this.value.trim().toLowerCase();
+    datahubSearchResults.innerHTML = '';
+    if (!query) { return; }
+    datahubSearchNames
+      .filter(function (name) { return name.toLowerCase().indexOf(query) !== -1; })
+      .slice(0, 10)
+      .forEach(function (name) {
+        var li = document.createElement('li');
+        var a = document.createElement('a');
+        a.href = datahubSearchMap[name].replace('.md', '.html');
+        a.textContent = name;
+        li.appendChild(a);
+        datahubSearchResults.appendChild(li);
+      });
   });
 </script>
 
