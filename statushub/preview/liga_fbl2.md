@@ -3,12 +3,12 @@ layout: default
 title: Vorschau Liga-Uebersicht fbl2
 ---
 
-_Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji-Sprungnavigation je Spieltag._
+_Versteckte Testseite - Terminierungs-Check jetzt nach offizieller API-SPORTS-Doku (Status TBD), nicht mehr nach eigener Zeitstempel-Vermutung._
 
 # 2. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 31.08.2026, 23:59 Uhr
+**Stand:** 01.09.2026, 00:03 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -26,7 +26,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 
 ## Spielplan (alle Spieltage, Saison 2026-2027)
 
-[Spieltag 1 ✅](#spieltag-1) · [Spieltag 2 ✅](#spieltag-2) · [Spieltag 3 🕒](#spieltag-3) · [Spieltag 4 🕒](#spieltag-4) · [Spieltag 5 ✅](#spieltag-5) · [Spieltag 6 🕒](#spieltag-6) · [Spieltag 7 ✅](#spieltag-7) · [Spieltag 8 ✅](#spieltag-8) · [Spieltag 9 ✅](#spieltag-9) · [Spieltag 10 🕒](#spieltag-10) · [Spieltag 11 ✅](#spieltag-11) · [Spieltag 12 ✅](#spieltag-12) · [Spieltag 13 🕒](#spieltag-13) · [Spieltag 14 🕒](#spieltag-14) · [Spieltag 15 ✅](#spieltag-15) · [Spieltag 16 🕒](#spieltag-16) · [Spieltag 17 🕒](#spieltag-17) · [Spieltag 18 ✅](#spieltag-18) · [Spieltag 19 🕒](#spieltag-19) · [Spieltag 20 ✅](#spieltag-20) · [Spieltag 21 ✅](#spieltag-21) · [Spieltag 22 ✅](#spieltag-22) · [Spieltag 23 ✅](#spieltag-23) · [Spieltag 24 ✅](#spieltag-24) · [Spieltag 25 🕒](#spieltag-25) · [Spieltag 26 🕒](#spieltag-26)
+[Spieltag 1 ✅](#spieltag-1) · [Spieltag 2 ✅](#spieltag-2) · [Spieltag 3 ✅](#spieltag-3) · [Spieltag 4 ✅](#spieltag-4) · [Spieltag 5 ✅](#spieltag-5) · [Spieltag 6 ✅](#spieltag-6) · [Spieltag 7 ✅](#spieltag-7) · [Spieltag 8 ✅](#spieltag-8) · [Spieltag 9 ✅](#spieltag-9) · [Spieltag 10 ✅](#spieltag-10) · [Spieltag 11 ✅](#spieltag-11) · [Spieltag 12 ✅](#spieltag-12) · [Spieltag 13 ✅](#spieltag-13) · [Spieltag 14 ✅](#spieltag-14) · [Spieltag 15 ✅](#spieltag-15) · [Spieltag 16 ✅](#spieltag-16) · [Spieltag 17 ✅](#spieltag-17) · [Spieltag 18 ✅](#spieltag-18) · [Spieltag 19 ✅](#spieltag-19) · [Spieltag 20 ✅](#spieltag-20) · [Spieltag 21 ✅](#spieltag-21) · [Spieltag 22 ✅](#spieltag-22) · [Spieltag 23 ✅](#spieltag-23) · [Spieltag 24 ✅](#spieltag-24) · [Spieltag 25 ✅](#spieltag-25) · [Spieltag 26 ✅](#spieltag-26)
 
 <details id="spieltag-1">
 <summary>Spieltag 1 · terminiert · 2026-08-02</summary>
@@ -79,7 +79,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-3">
-<summary>Spieltag 3 · Zeitraum um 2026-08-23 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 3 · terminiert · 2026-08-23 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -90,13 +90,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2026-08-23</td><td>Borussia Monchengladbach W</td><td>SC Sand W</td><td>1:2</td></tr>
-<tr><td>2026-08-23</td><td>Turbine Potsdam W</td><td>Hertha Berlin W</td><td>1:2</td></tr>
-<tr><td>2026-08-23</td><td>Bochum W</td><td>Eintracht Frankfurt II W</td><td>4:0</td></tr>
-<tr><td>2026-08-23</td><td>Ingolstadt W</td><td>Carl Zeiss Jena  W</td><td>2:3</td></tr>
-<tr><td>2026-08-23</td><td>Viktoria Berlin W</td><td>Andernach W</td><td>2:1</td></tr>
-<tr><td>2026-08-23</td><td>Hoffenheim II W</td><td>SGS Essen W</td><td>1:4</td></tr>
-<tr><td>2026-08-23</td><td>FC Koln II W</td><td>Meppen W</td><td>0:3</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>SC Sand W</td><td>1:2</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Hertha Berlin W</td><td>1:2</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Bochum W</td><td>Eintracht Frankfurt II W</td><td>4:0</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>Carl Zeiss Jena  W</td><td>2:3</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Andernach W</td><td>2:1</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>SGS Essen W</td><td>1:4</td></tr>
+<tr><td>23.08.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Meppen W</td><td>0:3</td></tr>
 </tbody>
 </table>
 </div>
@@ -104,7 +104,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-4" open>
-<summary>Spieltag 4 · Zeitraum um 2026-08-30 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 4 · terminiert · 2026-08-30 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -115,13 +115,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2026-08-30</td><td>SC Sand W</td><td>Bochum W</td><td>0:3</td></tr>
-<tr><td>2026-08-30</td><td>Meppen W</td><td>Eintracht Frankfurt II W</td><td>5:0</td></tr>
-<tr><td>2026-08-30</td><td>Carl Zeiss Jena  W</td><td>Turbine Potsdam W</td><td>3:1</td></tr>
-<tr><td>2026-08-30</td><td>Andernach W</td><td>Hoffenheim II W</td><td>2:1</td></tr>
-<tr><td>2026-08-30</td><td>Hertha Berlin W</td><td>Ingolstadt W</td><td>2:1</td></tr>
-<tr><td>2026-08-30</td><td>FC Koln II W</td><td>Viktoria Berlin W</td><td>0:2</td></tr>
-<tr><td>2026-08-30</td><td>SGS Essen W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Bochum W</td><td>0:3</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Meppen W</td><td>Eintracht Frankfurt II W</td><td>5:0</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Turbine Potsdam W</td><td>3:1</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Andernach W</td><td>Hoffenheim II W</td><td>2:1</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Ingolstadt W</td><td>2:1</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Viktoria Berlin W</td><td>0:2</td></tr>
+<tr><td>30.08.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -154,7 +154,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-6">
-<summary>Spieltag 6 · Zeitraum um 2026-09-13 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 6 · terminiert · 2026-09-13 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -165,13 +165,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2026-09-13</td><td>SC Sand W</td><td>Viktoria Berlin W</td><td>–</td></tr>
-<tr><td>2026-09-13</td><td>Borussia Monchengladbach W</td><td>Bochum W</td><td>–</td></tr>
-<tr><td>2026-09-13</td><td>SGS Essen W</td><td>Ingolstadt W</td><td>–</td></tr>
-<tr><td>2026-09-13</td><td>Carl Zeiss Jena  W</td><td>Hoffenheim II W</td><td>–</td></tr>
-<tr><td>2026-09-13</td><td>Andernach W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
-<tr><td>2026-09-13</td><td>Hertha Berlin W</td><td>Meppen W</td><td>–</td></tr>
-<tr><td>2026-09-13</td><td>FC Koln II W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Andernach W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>13.09.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>Turbine Potsdam W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -254,7 +254,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-10">
-<summary>Spieltag 10 · Zeitraum um 2026-10-25 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 10 · terminiert · 2026-10-25 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -265,13 +265,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2026-10-25</td><td>Borussia Monchengladbach W</td><td>Hoffenheim II W</td><td>–</td></tr>
-<tr><td>2026-10-25</td><td>SGS Essen W</td><td>Bochum W</td><td>–</td></tr>
-<tr><td>2026-10-25</td><td>Turbine Potsdam W</td><td>Meppen W</td><td>–</td></tr>
-<tr><td>2026-10-25</td><td>Carl Zeiss Jena  W</td><td>Viktoria Berlin W</td><td>–</td></tr>
-<tr><td>2026-10-25</td><td>Ingolstadt W</td><td>SC Sand W</td><td>–</td></tr>
-<tr><td>2026-10-25</td><td>Eintracht Frankfurt II W</td><td>FC Koln II W</td><td>–</td></tr>
-<tr><td>2026-10-25</td><td>Hertha Berlin W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>SGS Essen W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Ingolstadt W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>25.10.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Andernach W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -329,7 +329,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-13">
-<summary>Spieltag 13 · Zeitraum um 2026-11-22 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 13 · terminiert · 2026-11-22 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -340,13 +340,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2026-11-22</td><td>SC Sand W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
-<tr><td>2026-11-22</td><td>Meppen W</td><td>Bochum W</td><td>–</td></tr>
-<tr><td>2026-11-22</td><td>Andernach W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
-<tr><td>2026-11-22</td><td>Viktoria Berlin W</td><td>Turbine Potsdam W</td><td>–</td></tr>
-<tr><td>2026-11-22</td><td>Hoffenheim II W</td><td>Ingolstadt W</td><td>–</td></tr>
-<tr><td>2026-11-22</td><td>Hertha Berlin W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
-<tr><td>2026-11-22</td><td>FC Koln II W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>SC Sand W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Meppen W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Andernach W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>22.11.2026, 14:00 Uhr</td><td>FC Koln II W</td><td>SGS Essen W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -354,7 +354,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-14">
-<summary>Spieltag 14 · Zeitraum um 2026-12-13 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 14 · terminiert · 2026-12-13 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -365,13 +365,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2026-12-13</td><td>SC Sand W</td><td>FC Koln II W</td><td>–</td></tr>
-<tr><td>2026-12-13</td><td>Turbine Potsdam W</td><td>Ingolstadt W</td><td>–</td></tr>
-<tr><td>2026-12-13</td><td>Meppen W</td><td>Andernach W</td><td>–</td></tr>
-<tr><td>2026-12-13</td><td>Carl Zeiss Jena  W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
-<tr><td>2026-12-13</td><td>Viktoria Berlin W</td><td>Hoffenheim II W</td><td>–</td></tr>
-<tr><td>2026-12-13</td><td>Eintracht Frankfurt II W</td><td>SGS Essen W</td><td>–</td></tr>
-<tr><td>2026-12-13</td><td>Hertha Berlin W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>SC Sand W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Meppen W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>13.12.2026, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Bochum W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -404,7 +404,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-16">
-<summary>Spieltag 16 · Zeitraum um 2027-01-31 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 16 · terminiert · 2027-01-31 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -415,13 +415,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2027-01-31</td><td>SC Sand W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
-<tr><td>2027-01-31</td><td>SGS Essen W</td><td>Hoffenheim II W</td><td>–</td></tr>
-<tr><td>2027-01-31</td><td>Meppen W</td><td>FC Koln II W</td><td>–</td></tr>
-<tr><td>2027-01-31</td><td>Carl Zeiss Jena  W</td><td>Ingolstadt W</td><td>–</td></tr>
-<tr><td>2027-01-31</td><td>Andernach W</td><td>Viktoria Berlin W</td><td>–</td></tr>
-<tr><td>2027-01-31</td><td>Eintracht Frankfurt II W</td><td>Bochum W</td><td>–</td></tr>
-<tr><td>2027-01-31</td><td>Hertha Berlin W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>SC Sand W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Meppen W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Andernach W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>31.01.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>Turbine Potsdam W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -429,7 +429,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-17">
-<summary>Spieltag 17 · Zeitraum um 2027-02-07 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 17 · terminiert · 2027-02-07 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -440,13 +440,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2027-02-07</td><td>Borussia Monchengladbach W</td><td>SGS Essen W</td><td>–</td></tr>
-<tr><td>2027-02-07</td><td>Turbine Potsdam W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
-<tr><td>2027-02-07</td><td>Bochum W</td><td>SC Sand W</td><td>–</td></tr>
-<tr><td>2027-02-07</td><td>Ingolstadt W</td><td>Hertha Berlin W</td><td>–</td></tr>
-<tr><td>2027-02-07</td><td>Viktoria Berlin W</td><td>FC Koln II W</td><td>–</td></tr>
-<tr><td>2027-02-07</td><td>Eintracht Frankfurt II W</td><td>Meppen W</td><td>–</td></tr>
-<tr><td>2027-02-07</td><td>Hoffenheim II W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Bochum W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Ingolstadt W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>07.02.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Andernach W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -479,7 +479,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-19">
-<summary>Spieltag 19 · Zeitraum um 2027-02-21 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 19 · terminiert · 2027-02-21 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -490,13 +490,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2027-02-21</td><td>Turbine Potsdam W</td><td>FC Koln II W</td><td>–</td></tr>
-<tr><td>2027-02-21</td><td>Meppen W</td><td>Hertha Berlin W</td><td>–</td></tr>
-<tr><td>2027-02-21</td><td>Bochum W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
-<tr><td>2027-02-21</td><td>Ingolstadt W</td><td>SGS Essen W</td><td>–</td></tr>
-<tr><td>2027-02-21</td><td>Viktoria Berlin W</td><td>SC Sand W</td><td>–</td></tr>
-<tr><td>2027-02-21</td><td>Eintracht Frankfurt II W</td><td>Andernach W</td><td>–</td></tr>
-<tr><td>2027-02-21</td><td>Hoffenheim II W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Meppen W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Bochum W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Ingolstadt W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>21.02.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -629,7 +629,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-25">
-<summary>Spieltag 25 · Zeitraum um 2027-05-02 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 25 · terminiert · 2027-05-02 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -640,13 +640,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2027-05-02</td><td>SC Sand W</td><td>Turbine Potsdam W</td><td>–</td></tr>
-<tr><td>2027-05-02</td><td>Meppen W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
-<tr><td>2027-05-02</td><td>Andernach W</td><td>Ingolstadt W</td><td>–</td></tr>
-<tr><td>2027-05-02</td><td>Viktoria Berlin W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
-<tr><td>2027-05-02</td><td>Hoffenheim II W</td><td>Bochum W</td><td>–</td></tr>
-<tr><td>2027-05-02</td><td>Hertha Berlin W</td><td>SGS Essen W</td><td>–</td></tr>
-<tr><td>2027-05-02</td><td>FC Koln II W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>SC Sand W</td><td>Turbine Potsdam W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Meppen W</td><td>Borussia Monchengladbach W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Andernach W</td><td>Ingolstadt W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Viktoria Berlin W</td><td>Eintracht Frankfurt II W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Hoffenheim II W</td><td>Bochum W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>Hertha Berlin W</td><td>SGS Essen W</td><td>–</td></tr>
+<tr><td>02.05.2027, 14:00 Uhr</td><td>FC Koln II W</td><td>Carl Zeiss Jena  W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
@@ -654,7 +654,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 </details>
 
 <details id="spieltag-26">
-<summary>Spieltag 26 · Zeitraum um 2027-05-09 (Termine noch nicht einzeln angesetzt)</summary>
+<summary>Spieltag 26 · terminiert · 2027-05-09 (7 Spiele exakt gleicher Kickoff-Zeitpunkt)</summary>
 
 <div class="table-scroll">
 <table>
@@ -665,13 +665,13 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji
 <th>Ergebnis</th>
 </tr></thead>
 <tbody>
-<tr><td>2027-05-09</td><td>Borussia Monchengladbach W</td><td>Andernach W</td><td>–</td></tr>
-<tr><td>2027-05-09</td><td>SGS Essen W</td><td>FC Koln II W</td><td>–</td></tr>
-<tr><td>2027-05-09</td><td>Turbine Potsdam W</td><td>Viktoria Berlin W</td><td>–</td></tr>
-<tr><td>2027-05-09</td><td>Carl Zeiss Jena  W</td><td>Hertha Berlin W</td><td>–</td></tr>
-<tr><td>2027-05-09</td><td>Bochum W</td><td>Meppen W</td><td>–</td></tr>
-<tr><td>2027-05-09</td><td>Ingolstadt W</td><td>Hoffenheim II W</td><td>–</td></tr>
-<tr><td>2027-05-09</td><td>Eintracht Frankfurt II W</td><td>SC Sand W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Borussia Monchengladbach W</td><td>Andernach W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>SGS Essen W</td><td>FC Koln II W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Turbine Potsdam W</td><td>Viktoria Berlin W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Carl Zeiss Jena  W</td><td>Hertha Berlin W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Bochum W</td><td>Meppen W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Ingolstadt W</td><td>Hoffenheim II W</td><td>–</td></tr>
+<tr><td>09.05.2027, 14:00 Uhr</td><td>Eintracht Frankfurt II W</td><td>SC Sand W</td><td>–</td></tr>
 </tbody>
 </table>
 </div>
