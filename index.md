@@ -11,6 +11,6 @@ Aktuelle, public-faehige Markdown-Ausgabe fuer Frauenfussballspiele und Turniers
 - [Live-Ticker anzeigen]({{ '/statushub/live.html' | relative_url }})
 - [Wettbewerbs-Katalog / API-Abdeckung oeffnen]({{ '/competitions/index.html' | relative_url }})
 - [Archiv oeffnen]({{ '/statushub/archive/index.html' | relative_url }})
-- [Datenhub (Test): Kontinentalverband/Land/Liga/Verein oeffnen]({{ '/data_hub_test/index.html' | relative_url }})
+- [Datenhub: alle Ligen/Vereine, Kontinentalverband/Land/Liga/Verein oeffnen]({{ '/data_hub/index.html' | relative_url }})
 
 Der Statushub zeigt aktuelle Spiele, Turnierstatus und Liga-Tabellen. Der Katalog zeigt die API-SPORTS-Abdeckung und Review-Kandidaten. Rohdaten und private Snapshots werden nicht veroeffentlicht.
