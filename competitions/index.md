@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-08-31T18:32:30Z
+Datenstand: 2026-08-31T22:07:16Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -13,8 +13,8 @@ Kandidaten sind nur Review-Hinweise und werden nicht automatisch im Statushub fr
 Der Datenstand gilt fuer den API-SPORTS-Abfragezeitpunkt oben; er ist kein historischer Verlauf und keine Aussage ueber die aktuelle Saisonlaufzeit eines Wettbewerbs.
 Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Europa, UEFA/FIFA und danach Kontinente.
 
-- Bestaetigt: 9
-- Kandidaten: 78
+- Bestaetigt: 10
+- Kandidaten: 77
 
 ## Wettbewerbe nach Prioritaet
 
@@ -89,12 +89,12 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <summary>FIFA-/World-Cup-Wettbewerbe · 6 Wettbewerbe</summary>
 
 <ul>
+<li><strong>World Cup - Women - Qualification Europe</strong> · freigegeben (World, ID <code>880</code>, Cup) · Slug <code>world-cup-women-qualification-europe-880</code> · API-Saison 2027 (2025-11-28 bis 2026-10-13) · Allowlist: <code>wm_quali_europe</code></li>
 <li><strong>FIFA Women Champions Cup</strong> · Kandidat (World, ID <code>1217</code>, Cup) · Slug <code>fifa-women-champions-cup-1217</code> · API-Saison 2026 (2025-10-08 bis 2026-02-01)</li>
 <li><strong>World Cup - U17 - Women</strong> · Kandidat (World, ID <code>950</code>, Cup) · Slug <code>world-cup-u17-women-950</code> · API-Saison 2026 (2026-10-17 bis 2026-10-25)</li>
 <li><strong>World Cup - U20 - Women</strong> · Kandidat (World, ID <code>920</code>, Cup) · Slug <code>world-cup-u20-women-920</code> · API-Saison 2024 (2024-08-31 bis 2024-09-22)</li>
 <li><strong>World Cup - Women</strong> · Kandidat (World, ID <code>8</code>, Cup) · Slug <code>world-cup-women-8</code> · API-Saison 2023 (2023-07-20 bis 2023-08-20)</li>
 <li><strong>World Cup - Women - Qualification Concacaf</strong> · Kandidat (World, ID <code>927</code>, Cup) · Slug <code>world-cup-women-qualification-concacaf-927</code> · API-Saison 2026 (2025-11-27 bis 2026-11-28)</li>
-<li><strong>World Cup - Women - Qualification Europe</strong> · Kandidat (World, ID <code>880</code>, Cup) · Slug <code>world-cup-women-qualification-europe-880</code> · API-Saison 2027 (2025-11-28 bis 2026-10-13)</li>
 </ul>
 
 </details>

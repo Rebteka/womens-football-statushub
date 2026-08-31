@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Vorschau Archiv UEFA Champions League Women
+title: Archiv UEFA Champions League Women
 ---
 
-# Archiv (Vorschau): UEFA Champions League Women
+# Archiv: UEFA Champions League Women
 
 | Datum | Heim | Gast | Ergebnis |
 |---|---|---|---|
