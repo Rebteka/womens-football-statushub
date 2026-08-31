@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 31.08.2026, 02:43 Uhr
+**Stand:** 31.08.2026, 14:24 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-08-31T00:40:51Z*
+*Abrufdatum: 2026-08-31T12:21:43Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -70,11 +70,11 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-08-31T00:40:51Z*
+*Abrufdatum: 2026-08-31T12:21:43Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
-| O. Cankaya |  | Germany |
+| A.Theiss |  | Germany |
 | T. Oostendorp |  | Netherlands |
 | Thomas Oostendorp |  | None |
 
@@ -82,7 +82,7 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-08-31T00:40:51Z*
+*Abrufdatum: 2026-08-31T12:21:43Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
