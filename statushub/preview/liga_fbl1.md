@@ -3,12 +3,12 @@ layout: default
 title: Vorschau Liga-Uebersicht fbl1
 ---
 
-_Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, echte Tabellen, echte Terminierungspruefung anhand der Zeitstempel-Verteilung je Spieltag._
+_Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, kompakte Emoji-Sprungnavigation je Spieltag._
 
 # 1. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 31.08.2026, 23:55 Uhr
+**Stand:** 31.08.2026, 23:59 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -40,7 +40,7 @@ _Versteckte Testseite - Liga-Uebersicht mit komplettem Spielplan, echte Tabellen
 
 ## Spielplan (alle Spieltage, Saison 2026-2027)
 
-[Spieltag 1 · terminiert · 2026-08-21 bis 2026-08-24](#spieltag-1) · [Spieltag 2 · terminiert · 2026-08-28 bis 2026-08-31](#spieltag-2) · [Spieltag 3 · terminiert · 2026-09-04 bis 2026-09-07](#spieltag-3) · [Spieltag 4 · terminiert · 2026-09-11 bis 2026-09-14](#spieltag-4) · [Spieltag 5 · terminiert · 2026-09-18 bis 2026-09-21](#spieltag-5) · [Spieltag 6 · Zeitraum um 2026-10-04 (Termine noch nicht einzeln angesetzt)](#spieltag-6) · [Spieltag 7 · Zeitraum um 2026-10-18 (Termine noch nicht einzeln angesetzt)](#spieltag-7) · [Spieltag 8 · Zeitraum um 2026-10-25 (Termine noch nicht einzeln angesetzt)](#spieltag-8) · [Spieltag 9 · Zeitraum um 2026-11-08 (Termine noch nicht einzeln angesetzt)](#spieltag-9) · [Spieltag 10 · Zeitraum um 2026-11-15 (Termine noch nicht einzeln angesetzt)](#spieltag-10) · [Spieltag 11 · Zeitraum um 2026-11-22 (Termine noch nicht einzeln angesetzt)](#spieltag-11) · [Spieltag 12 · Zeitraum um 2026-12-13 (Termine noch nicht einzeln angesetzt)](#spieltag-12) · [Spieltag 13 · Zeitraum um 2026-12-20 (Termine noch nicht einzeln angesetzt)](#spieltag-13) · [Spieltag 14 · Zeitraum um 2027-01-17 (Termine noch nicht einzeln angesetzt)](#spieltag-14) · [Spieltag 15 · Zeitraum um 2027-01-24 (Termine noch nicht einzeln angesetzt)](#spieltag-15) · [Spieltag 16 · Zeitraum um 2027-01-31 (Termine noch nicht einzeln angesetzt)](#spieltag-16) · [Spieltag 17 · Zeitraum um 2027-02-07 (Termine noch nicht einzeln angesetzt)](#spieltag-17) · [Spieltag 18 · Zeitraum um 2027-02-14 (Termine noch nicht einzeln angesetzt)](#spieltag-18) · [Spieltag 19 · Zeitraum um 2027-02-21 (Termine noch nicht einzeln angesetzt)](#spieltag-19) · [Spieltag 20 · Zeitraum um 2027-03-14 (Termine noch nicht einzeln angesetzt)](#spieltag-20) · [Spieltag 21 · Zeitraum um 2027-03-21 (Termine noch nicht einzeln angesetzt)](#spieltag-21) · [Spieltag 22 · Zeitraum um 2027-03-28 (Termine noch nicht einzeln angesetzt)](#spieltag-22) · [Spieltag 23 · Zeitraum um 2027-04-11 (Termine noch nicht einzeln angesetzt)](#spieltag-23) · [Spieltag 24 · Zeitraum um 2027-05-02 (Termine noch nicht einzeln angesetzt)](#spieltag-24) · [Spieltag 25 · Zeitraum um 2027-05-09 (Termine noch nicht einzeln angesetzt)](#spieltag-25) · [Spieltag 26 · Zeitraum um 2027-05-23 (Termine noch nicht einzeln angesetzt)](#spieltag-26)
+[Spieltag 1 ✅](#spieltag-1) · [Spieltag 2 ✅](#spieltag-2) · [Spieltag 3 ✅](#spieltag-3) · [Spieltag 4 ✅](#spieltag-4) · [Spieltag 5 ✅](#spieltag-5) · [Spieltag 6 🕒](#spieltag-6) · [Spieltag 7 🕒](#spieltag-7) · [Spieltag 8 🕒](#spieltag-8) · [Spieltag 9 🕒](#spieltag-9) · [Spieltag 10 🕒](#spieltag-10) · [Spieltag 11 🕒](#spieltag-11) · [Spieltag 12 🕒](#spieltag-12) · [Spieltag 13 🕒](#spieltag-13) · [Spieltag 14 🕒](#spieltag-14) · [Spieltag 15 🕒](#spieltag-15) · [Spieltag 16 🕒](#spieltag-16) · [Spieltag 17 🕒](#spieltag-17) · [Spieltag 18 🕒](#spieltag-18) · [Spieltag 19 🕒](#spieltag-19) · [Spieltag 20 🕒](#spieltag-20) · [Spieltag 21 🕒](#spieltag-21) · [Spieltag 22 🕒](#spieltag-22) · [Spieltag 23 🕒](#spieltag-23) · [Spieltag 24 🕒](#spieltag-24) · [Spieltag 25 🕒](#spieltag-25) · [Spieltag 26 🕒](#spieltag-26)
 
 <details id="spieltag-1">
 <summary>Spieltag 1 · terminiert · 2026-08-21 bis 2026-08-24</summary>
