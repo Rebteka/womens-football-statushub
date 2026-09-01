@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-09-01T00:43:43Z
+Datenstand: 2026-09-01T12:20:31Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -14,7 +14,7 @@ Der Datenstand gilt fuer den API-SPORTS-Abfragezeitpunkt oben; er ist kein histo
 Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Europa, UEFA/FIFA und danach Kontinente.
 
 - Bestaetigt: 10
-- Kandidaten: 77
+- Kandidaten: 79
 
 ## Wettbewerbe nach Prioritaet
 
@@ -31,12 +31,13 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 </details>
 
 <details open>
-<summary>Europa · nationale Wettbewerbe · 32 Wettbewerbe</summary>
+<summary>Europa · nationale Wettbewerbe · 33 Wettbewerbe</summary>
 
 <ul>
 <li><strong>Frauenliga</strong> · Kandidat (Austria/AT, ID <code>484</code>, League) · Slug <code>frauenliga-484</code> · API-Saison 2026 (2026-08-02 bis 2027-04-11)</li>
 <li><strong>Super League Women</strong> · Kandidat (Belgium/BE, ID <code>146</code>, League) · Slug <code>super-league-women-146</code> · API-Saison 2026 (2026-09-05 bis 2027-03-19)</li>
 <li><strong>1. Liga Women</strong> · Kandidat (Czech-Republic/CZ, ID <code>669</code>, League) · Slug <code>1-liga-women-669</code> · API-Saison 2026 (2026-08-15 bis 2027-03-21)</li>
+<li><strong>B-Liga Women</strong> · Kandidat (Denmark/DK, ID <code>1244</code>, League) · Slug <code>b-liga-women-1244</code> · API-Saison 2026 (2026-08-15 bis 2026-11-21)</li>
 <li><strong>Kvindeliga</strong> · Kandidat (Denmark/DK, ID <code>638</code>, League) · Slug <code>kvindeliga-638</code> · API-Saison 2026 (2026-07-26 bis 2026-12-13)</li>
 <li><strong>Community Shield Women</strong> · Kandidat (England/GB-ENG, ID <code>670</code>, Cup) · Slug <code>community-shield-women-670</code> · API-Saison 2020 (2020-08-29 bis 2020-08-29)</li>
 <li><strong>FA WSL</strong> · Kandidat (England/GB-ENG, ID <code>44</code>, League) · Slug <code>fa-wsl-44</code> · API-Saison 2026 (2026-09-04 bis 2027-05-22)</li>
@@ -92,7 +93,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <li><strong>World Cup - Women - Qualification Europe</strong> · freigegeben (World, ID <code>880</code>, Cup) · Slug <code>world-cup-women-qualification-europe-880</code> · API-Saison 2027 (2025-11-28 bis 2026-10-13) · Allowlist: <code>wm_quali_europe</code></li>
 <li><strong>FIFA Women Champions Cup</strong> · Kandidat (World, ID <code>1217</code>, Cup) · Slug <code>fifa-women-champions-cup-1217</code> · API-Saison 2026 (2025-10-08 bis 2026-02-01)</li>
 <li><strong>World Cup - U17 - Women</strong> · Kandidat (World, ID <code>950</code>, Cup) · Slug <code>world-cup-u17-women-950</code> · API-Saison 2026 (2026-10-17 bis 2026-10-25)</li>
-<li><strong>World Cup - U20 - Women</strong> · Kandidat (World, ID <code>920</code>, Cup) · Slug <code>world-cup-u20-women-920</code> · API-Saison 2024 (2024-08-31 bis 2024-09-22)</li>
+<li><strong>World Cup - U20 - Women</strong> · Kandidat (World, ID <code>920</code>, Cup) · Slug <code>world-cup-u20-women-920</code> · API-Saison 2026 (2026-09-05 bis 2026-09-13)</li>
 <li><strong>World Cup - Women</strong> · Kandidat (World, ID <code>8</code>, Cup) · Slug <code>world-cup-women-8</code> · API-Saison 2023 (2023-07-20 bis 2023-08-20)</li>
 <li><strong>World Cup - Women - Qualification Concacaf</strong> · Kandidat (World, ID <code>927</code>, Cup) · Slug <code>world-cup-women-qualification-concacaf-927</code> · API-Saison 2026 (2025-11-27 bis 2026-11-28)</li>
 </ul>
@@ -176,13 +177,14 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 </details>
 
 <details>
-<summary>Weitere nationale Wettbewerbe · 4 Wettbewerbe</summary>
+<summary>Weitere nationale Wettbewerbe · 5 Wettbewerbe</summary>
 
 <ul>
 <li><strong>Northern Super League</strong> · Kandidat (Canada/CA, ID <code>1182</code>, League) · Slug <code>northern-super-league-1182</code> · API-Saison 2026 (2026-04-25 bis 2026-10-27)</li>
 <li><strong>Kansallinen Liiga</strong> · Kandidat (Finland/FI, ID <code>640</code>, League) · Slug <code>kansallinen-liiga-640</code> · API-Saison 2026 (2026-03-28 bis 2026-10-24)</li>
 <li><strong>SWF Scottish Cup</strong> · Kandidat (Scotland/GB-SCT, ID <code>1078</code>, Cup) · Slug <code>swf-scottish-cup-1078</code> · API-Saison 2023 (2023-11-05 bis 2024-04-27)</li>
 <li><strong>SWPL Cup</strong> · Kandidat (Scotland/GB-SCT, ID <code>1074</code>, Cup) · Slug <code>swpl-cup-1074</code> · API-Saison 2025 (2025-09-07 bis 2026-03-29)</li>
+<li><strong>Super League Women</strong> · Kandidat (South-Africa/ZA, ID <code>1243</code>, League) · Slug <code>super-league-women-1243</code> · API-Saison 2026 (2026-05-22 bis 2026-11-08)</li>
 </ul>
 
 </details>
