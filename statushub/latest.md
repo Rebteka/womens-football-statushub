@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 02.09.2026, 14:24 Uhr
+> Quelle: API-SPORTS · Datenstand: 03.09.2026, 02:40 Uhr
 > Saison: 2026-2027 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 02.09.2026, 14:24 Uhr |
+| Dashboard | generiert 03.09.2026, 02:40 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 02.09.2026, 14:21 Uhr |
-| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 02.09.2026, 14:24 Uhr |
+| Turnierstatus | Stand 03.09.2026, 02:37 Uhr |
+| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 03.09.2026, 02:40 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_26_27.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -29,14 +29,14 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Wettbewerbs-Baum (Kategorie -> Wettbewerb -> Tag -> Spiel)
 
-_Abfragefenster: 2026-08-26 bis 2026-09-09 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 02.09.2026, 14:24 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
+_Abfragefenster: 2026-08-27 bis 2026-09-10 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
+_Datenabruf: 03.09.2026, 02:40 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
 
 <details open>
-<summary><strong>Nationalteam-Turniere</strong> · 1 Wettbewerbe · 1 Spiele</summary>
+<summary><strong>Nationalteam-Turniere</strong> · 1 Wettbewerbe · 3 Spiele</summary>
 
 <details>
-<summary>Friendlies Women · 1 Spiele</summary>
+<summary>Friendlies Women · 3 Spiele</summary>
 
 **Di, 2026-09-08**
 
@@ -45,57 +45,27 @@ _Datenabruf: 02.09.2026, 14:24 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 22:00 Uhr · geplant · Live-Capability
 </div>
 
+**Do, 2026-09-10**
+
+<div class="match-card">
+<strong>Chile U20 W vs Uruguay U20 W</strong><br>
+16:00 Uhr · geplant · Live-Capability
+</div>
+
+<div class="match-card">
+<strong>Finland U17 W vs England U17 W</strong><br>
+17:30 Uhr · geplant · Live-Capability
+</div>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong>Vereinswettbewerbe (Europa)</strong> · 1 Wettbewerbe · 17 Spiele</summary>
+<summary><strong>Vereinswettbewerbe (Europa)</strong> · 1 Wettbewerbe · 9 Spiele</summary>
 
 <details>
-<summary>UEFA Champions League Women · 17 Spiele</summary>
-
-**Mi, 2026-08-26**
-
-<div class="match-card">
-<strong>VfL Wolfsburg W vs Inter Milano W</strong><br>
-18:00 Uhr · <strong>2:0</strong> [FT] – Siegerin: VfL Wolfsburg W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Sparta Praha W vs Servette Chênois W</strong><br>
-18:30 Uhr · <strong>3:2</strong> [FT] – Siegerin: Sparta Praha W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Czarni Sosnowiec W vs OH Leuven W</strong><br>
-19:00 Uhr · <strong>1:4</strong> [FT] – Siegerin: OH Leuven W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Eintracht Frankfurt W vs Paris Saint Germain W</strong><br>
-19:00 Uhr · <strong>1:1</strong> [FT] · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>PSV/Eindhoven W vs Køge W</strong><br>
-19:00 Uhr · <strong>0:1</strong> [FT] – Siegerin: Køge W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Ajax W vs Real Madrid W</strong><br>
-19:30 Uhr · <strong>0:2</strong> [FT] – Siegerin: Real Madrid W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Chelsea W vs Real Sociedad W</strong><br>
-19:45 Uhr · <strong>5:2</strong> [FT] – Siegerin: Chelsea W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>St. Pölten W vs Juventus W</strong><br>
-20:45 Uhr · <strong>0:3</strong> [FT] – Siegerin: Juventus W · Live-Capability
-</div>
+<summary>UEFA Champions League Women · 9 Spiele</summary>
 
 **Di, 2026-09-01**
 
@@ -108,42 +78,42 @@ _Datenabruf: 02.09.2026, 14:24 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 
 <div class="match-card">
 <strong>Inter Milano W vs VfL Wolfsburg W</strong><br>
-18:30 Uhr · geplant · Live-Capability
+18:30 Uhr · <strong>3:1</strong> [PEN] (nach 90 Min 2:0, i.E. 5:4) – Siegerin: Inter Milano W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Paris Saint Germain W vs Eintracht Frankfurt W</strong><br>
-18:30 Uhr · geplant · Live-Capability
+18:30 Uhr · <strong>5:1</strong> [AET] (nach 90 Min 1:1) – Siegerin: Paris Saint Germain W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Servette Chênois W vs Sparta Praha W</strong><br>
-18:45 Uhr · geplant · Live-Capability
+18:45 Uhr · <strong>3:0</strong> [FT] – Siegerin: Servette Chênois W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Real Sociedad W vs Chelsea W</strong><br>
-19:00 Uhr · geplant · Live-Capability
+19:00 Uhr · <strong>0:1</strong> [FT] – Siegerin: Chelsea W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Køge W vs PSV/Eindhoven W</strong><br>
-19:00 Uhr · geplant · Live-Capability
+19:00 Uhr · <strong>1:1</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>OH Leuven W vs Czarni Sosnowiec W</strong><br>
-20:00 Uhr · geplant · Live-Capability
+20:00 Uhr · <strong>2:1</strong> [FT] – Siegerin: OH Leuven W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Real Madrid W vs Ajax W</strong><br>
-20:00 Uhr · geplant · Live-Capability
+20:00 Uhr · <strong>2:1</strong> [FT] – Siegerin: Real Madrid W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Juventus W vs St. Pölten W</strong><br>
-20:30 Uhr · geplant · Live-Capability
+20:30 Uhr · <strong>1:1</strong> [FT] · Live-Capability
 </div>
 
 </details>
@@ -345,7 +315,7 @@ Live-Updates aktualisiert und stehen auf einer eigenen Seite:
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -354,7 +324,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2026-08-02 bis 2027-05-09<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -363,7 +333,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2026-08-15 bis 2026-09-26<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -372,7 +342,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2026-01-11 bis 2026-10-13<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -381,7 +351,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2025-11-28 bis 2026-10-13<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -390,7 +360,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Siegerin: Spain U19 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -399,7 +369,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Siegerin: Germany U17 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -408,7 +378,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2026-07-22 bis 2026-09-02<br>
 Siegerin: keine Siegerin festgelegt (finale nicht gefunden)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -417,7 +387,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Siegerin: England W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -426,7 +396,7 @@ Datenstand: 2026-09-02
 
 Zeitraum: 2025-02-21 bis 2025-12-02<br>
 Siegerin: Spain W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-02
+Datenstand: 2026-09-03
 
 </details>
 
@@ -437,7 +407,7 @@ Datenstand: 2026-09-02
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 02.09.2026, 14:24 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 03.09.2026, 02:40 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -468,7 +438,7 @@ Datenstand: 2026-09-02
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 02.09.2026, 14:24 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 03.09.2026, 02:40 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>

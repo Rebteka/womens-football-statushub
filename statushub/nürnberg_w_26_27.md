@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 02.09.2026, 14:24 Uhr
+**Stand:** 03.09.2026, 02:40 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-09-02T12:21:30Z*
+*Abrufdatum: 2026-09-03T00:38:01Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -63,7 +63,6 @@
 | L. Romero | – |
 | L. Varley | – |
 | M. Bleil | – |
-| M. Bleil | – |
 | M. Lindner | – |
 | M. Seguin | – |
 | N. Lein | – |
@@ -75,7 +74,7 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-09-02T12:21:30Z*
+*Abrufdatum: 2026-09-03T00:38:01Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -87,7 +86,7 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-09-02T12:21:30Z*
+*Abrufdatum: 2026-09-03T00:38:01Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
