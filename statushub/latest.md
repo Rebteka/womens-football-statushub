@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 04.09.2026, 02:37 Uhr
+> Quelle: API-SPORTS · Datenstand: 04.09.2026, 14:23 Uhr
 > Saison: 2026-2027 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 04.09.2026, 02:37 Uhr |
+| Dashboard | generiert 04.09.2026, 14:23 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 04.09.2026, 02:34 Uhr |
-| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 04.09.2026, 02:37 Uhr |
+| Turnierstatus | Stand 04.09.2026, 14:20 Uhr |
+| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 04.09.2026, 14:23 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_26_27.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -30,7 +30,7 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 ### Wettbewerbs-Baum (Kategorie -> Wettbewerb -> Tag -> Spiel)
 
 _Abfragefenster: 2026-08-28 bis 2026-09-11 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 04.09.2026, 02:37 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
+_Datenabruf: 04.09.2026, 14:23 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
 
 <details open>
 <summary><strong>Nationalteam-Turniere</strong> · 1 Wettbewerbe · 3 Spiele</summary>
@@ -414,7 +414,7 @@ Datenstand: 2026-09-04
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 04.09.2026, 02:37 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 04.09.2026, 14:23 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -445,7 +445,7 @@ Datenstand: 2026-09-04
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 04.09.2026, 02:37 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 04.09.2026, 14:23 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
