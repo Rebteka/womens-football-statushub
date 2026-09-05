@@ -1,7 +1,7 @@
 # 1. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 04.09.2026, 14:23 Uhr
+**Stand:** 05.09.2026, 02:38 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -13,14 +13,14 @@
 | 1 | VfL Wolfsburg W | 2 | 2 | 0 | 0 | 10:3 | **6** |
 | 2 | Bayern Munich W | 2 | 2 | 0 | 0 | 6:1 | **6** |
 | 3 | Werder Bremen W | 2 | 2 | 0 | 0 | 4:1 | **6** |
-| 4 | Stuttgart W | 2 | 2 | 0 | 0 | 4:2 | **6** |
-| 5 | Eintracht Frankfurt W | 2 | 1 | 1 | 0 | 3:1 | **4** |
-| 6 | SC Freiburg W | 2 | 1 | 1 | 0 | 2:1 | **4** |
-| 7 | Bayer Leverkusen W | 2 | 1 | 0 | 1 | 3:2 | **3** |
+| 4 | Bayer Leverkusen W | 3 | 2 | 0 | 1 | 5:3 | **6** |
+| 5 | Stuttgart W | 2 | 2 | 0 | 0 | 4:2 | **6** |
+| 6 | Eintracht Frankfurt W | 2 | 1 | 1 | 0 | 3:1 | **4** |
+| 7 | SC Freiburg W | 2 | 1 | 1 | 0 | 2:1 | **4** |
 | 8 | FC Koln W | 2 | 1 | 0 | 1 | 1:2 | **3** |
 | 9 | Hamburger SV W | 2 | 0 | 1 | 1 | 2:3 | **1** |
 | 10 | [Nürnberg W](nürnberg_w_26_27.md) | 2 | 0 | 1 | 1 | 3:9 | **1** |
-| 11 | 1899 Hoffenheim W | 2 | 0 | 0 | 2 | 1:3 | **0** |
+| 11 | 1899 Hoffenheim W | 3 | 0 | 0 | 3 | 2:5 | **0** |
 | 12 | Mainz 05 W | 2 | 0 | 0 | 2 | 1:4 | **0** |
 | 13 | Union Berlin W | 2 | 0 | 0 | 2 | 1:5 | **0** |
 | 14 | RB Leipzig W | 2 | 0 | 0 | 2 | 0:4 | **0** |
