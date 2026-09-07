@@ -1,7 +1,7 @@
 # 1. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 06.09.2026, 14:20 Uhr
+**Stand:** 07.09.2026, 02:43 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -10,17 +10,17 @@
 
 | Pl. | Team | Sp | S | U | N | Tore | Pkt |
 |-----|------|----|---|---|---|------|-----|
-| 1 | VfL Wolfsburg W | 2 | 2 | 0 | 0 | 10:3 | **6** |
-| 2 | Bayern Munich W | 2 | 2 | 0 | 0 | 6:1 | **6** |
-| 3 | FC Koln W | 3 | 2 | 0 | 1 | 5:2 | **6** |
-| 4 | Werder Bremen W | 2 | 2 | 0 | 0 | 4:1 | **6** |
-| 5 | Bayer Leverkusen W | 3 | 2 | 0 | 1 | 5:3 | **6** |
-| 6 | Stuttgart W | 2 | 2 | 0 | 0 | 4:2 | **6** |
+| 1 | VfL Wolfsburg W | 3 | 3 | 0 | 0 | 13:5 | **9** |
+| 2 | Bayern Munich W | 3 | 3 | 0 | 0 | 10:2 | **9** |
+| 3 | Stuttgart W | 3 | 2 | 1 | 0 | 7:5 | **7** |
+| 4 | FC Koln W | 3 | 2 | 0 | 1 | 5:2 | **6** |
+| 5 | Werder Bremen W | 3 | 2 | 0 | 1 | 6:4 | **6** |
+| 6 | Bayer Leverkusen W | 3 | 2 | 0 | 1 | 5:3 | **6** |
 | 7 | Eintracht Frankfurt W | 2 | 1 | 1 | 0 | 3:1 | **4** |
-| 8 | SC Freiburg W | 2 | 1 | 1 | 0 | 2:1 | **4** |
+| 8 | SC Freiburg W | 3 | 1 | 1 | 1 | 3:5 | **4** |
 | 9 | Hamburger SV W | 3 | 0 | 2 | 1 | 3:4 | **2** |
-| 10 | RB Leipzig W | 3 | 0 | 1 | 2 | 1:5 | **1** |
-| 11 | [Nürnberg W](nürnberg_w_26_27.md) | 2 | 0 | 1 | 1 | 3:9 | **1** |
+| 10 | [Nürnberg W](nürnberg_w_26_27.md) | 3 | 0 | 2 | 1 | 6:12 | **2** |
+| 11 | RB Leipzig W | 3 | 0 | 1 | 2 | 1:5 | **1** |
 | 12 | 1899 Hoffenheim W | 3 | 0 | 0 | 3 | 2:5 | **0** |
 | 13 | Union Berlin W | 2 | 0 | 0 | 2 | 1:5 | **0** |
 | 14 | Mainz 05 W | 3 | 0 | 0 | 3 | 1:8 | **0** |

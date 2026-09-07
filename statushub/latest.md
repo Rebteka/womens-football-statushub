@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 06.09.2026, 14:20 Uhr
+> Quelle: API-SPORTS · Datenstand: 07.09.2026, 02:43 Uhr
 > Saison: 2026-2027 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 06.09.2026, 14:20 Uhr |
+| Dashboard | generiert 07.09.2026, 02:43 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 06.09.2026, 14:17 Uhr |
-| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 06.09.2026, 14:20 Uhr |
+| Turnierstatus | Stand 07.09.2026, 02:40 Uhr |
+| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 07.09.2026, 02:43 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_26_27.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -29,8 +29,8 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Wettbewerbs-Baum (Kategorie -> Wettbewerb -> Tag -> Spiel)
 
-_Abfragefenster: 2026-08-30 bis 2026-09-13 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 06.09.2026, 14:20 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
+_Abfragefenster: 2026-08-31 bis 2026-09-14 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
+_Datenabruf: 07.09.2026, 02:43 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
 
 <details open>
 <summary><strong>Nationalteam-Turniere</strong> · 1 Wettbewerbe · 5 Spiele</summary>
@@ -135,53 +135,16 @@ _Datenabruf: 06.09.2026, 14:20 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 </details>
 
 <details open>
-<summary><strong>Deutsche Ligen</strong> · 2 Wettbewerbe · 38 Spiele</summary>
+<summary><strong>Deutsche Ligen</strong> · 2 Wettbewerbe · 29 Spiele</summary>
 
 <details>
-<summary>2. Frauen Bundesliga · 21 Spiele</summary>
-
-**So, 2026-08-30**
-
-<div class="match-card">
-<strong>Andernach W vs Hoffenheim II W</strong><br>
-14:00 Uhr · <strong>2:1</strong> [FT] – Siegerin: Andernach W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Hertha Berlin W vs Ingolstadt W</strong><br>
-14:00 Uhr · <strong>2:1</strong> [FT] – Siegerin: Hertha Berlin W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Carl Zeiss Jena  W vs Turbine Potsdam W</strong><br>
-14:00 Uhr · <strong>3:1</strong> [FT] – Siegerin: Carl Zeiss Jena  W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Meppen W vs Eintracht Frankfurt II W</strong><br>
-14:00 Uhr · <strong>5:0</strong> [FT] – Siegerin: Meppen W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>SC Sand W vs Bochum W</strong><br>
-14:00 Uhr · <strong>0:3</strong> [FT] – Siegerin: Bochum W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>SGS Essen W vs Borussia Monchengladbach W</strong><br>
-14:00 Uhr · <strong>5:1</strong> [FT] – Siegerin: SGS Essen W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>FC Koln II W vs Viktoria Berlin W</strong><br>
-14:00 Uhr · <strong>0:2</strong> [FT] – Siegerin: Viktoria Berlin W · Live-Capability
-</div>
+<summary>2. Frauen Bundesliga · 14 Spiele</summary>
 
 **So, 2026-09-06**
 
 <div class="match-card">
 <strong>Ingolstadt W vs FC Koln II W</strong><br>
-11:00 Uhr · kein Ergebnis laut API · Live-Capability
+11:00 Uhr · <strong>3:1</strong> [FT] – Siegerin: Ingolstadt W · Live-Capability
 </div>
 
 <div class="match-card">
@@ -191,27 +154,27 @@ _Datenabruf: 06.09.2026, 14:20 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 
 <div class="match-card">
 <strong>Bochum W vs Andernach W</strong><br>
-14:00 Uhr · kein Ergebnis laut API · Live-Capability
+14:00 Uhr · <strong>6:0</strong> [FT] – Siegerin: Bochum W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Eintracht Frankfurt II W vs Carl Zeiss Jena  W</strong><br>
-14:00 Uhr · kein Ergebnis laut API · Live-Capability
+14:00 Uhr · <strong>1:0</strong> [FT] – Siegerin: Eintracht Frankfurt II W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Hoffenheim II W vs SC Sand W</strong><br>
-14:00 Uhr · kein Ergebnis laut API · Live-Capability
+14:00 Uhr · <strong>2:2</strong> [FT] · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Turbine Potsdam W vs SGS Essen W</strong><br>
-14:00 Uhr · kein Ergebnis laut API · Live-Capability
+14:00 Uhr · <strong>0:1</strong> [FT] – Siegerin: SGS Essen W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Viktoria Berlin W vs Meppen W</strong><br>
-14:00 Uhr · kein Ergebnis laut API · Live-Capability
+14:00 Uhr · <strong>1:0</strong> [FT] – Siegerin: Viktoria Berlin W · Live-Capability
 </div>
 
 **So, 2026-09-13**
@@ -254,24 +217,7 @@ _Datenabruf: 06.09.2026, 14:20 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 </details>
 
 <details>
-<summary>Frauen Bundesliga · 17 Spiele</summary>
-
-**So, 2026-08-30**
-
-<div class="match-card">
-<strong>Eintracht Frankfurt W vs Nürnberg W</strong><br>
-14:00 Uhr · <strong>1:1</strong> [FT] · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Bayer Leverkusen W vs VfL Wolfsburg W</strong><br>
-16:00 Uhr · <strong>1:2</strong> [FT] – Siegerin: VfL Wolfsburg W · Live-Capability
-</div>
-
-<div class="match-card">
-<strong>Werder Bremen W vs RB Leipzig W</strong><br>
-18:30 Uhr · <strong>2:0</strong> [FT] – Siegerin: Werder Bremen W · Live-Capability
-</div>
+<summary>Frauen Bundesliga · 15 Spiele</summary>
 
 **Mo, 2026-08-31**
 
@@ -303,17 +249,17 @@ _Datenabruf: 06.09.2026, 14:20 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 
 <div class="match-card">
 <strong>VfL Wolfsburg W vs Werder Bremen W</strong><br>
-14:00 Uhr · <strong>0:1</strong> [1H] · Live-Capability
+14:00 Uhr · <strong>3:2</strong> [FT] – Siegerin: VfL Wolfsburg W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Bayern Munich W vs SC Freiburg W</strong><br>
-16:00 Uhr · geplant · Live-Capability
+16:00 Uhr · <strong>4:1</strong> [FT] – Siegerin: Bayern Munich W · Live-Capability
 </div>
 
 <div class="match-card">
 <strong>Nürnberg W vs Stuttgart W</strong><br>
-18:30 Uhr · geplant · Live-Capability
+18:30 Uhr · <strong>3:3</strong> [FT] · Live-Capability
 </div>
 
 **Mo, 2026-09-07**
@@ -359,6 +305,13 @@ _Datenabruf: 06.09.2026, 14:20 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 18:30 Uhr · geplant · Live-Capability
 </div>
 
+**Mo, 2026-09-14**
+
+<div class="match-card">
+<strong>Bayer Leverkusen W vs Bayern Munich W</strong><br>
+18:00 Uhr · geplant · Live-Capability
+</div>
+
 </details>
 
 </details>
@@ -383,7 +336,7 @@ Live-Updates aktualisiert und stehen auf einer eigenen Seite:
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -392,7 +345,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2026-08-02 bis 2027-05-09<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -401,7 +354,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2026-08-15 bis 2026-09-26<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -410,7 +363,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2026-07-22 bis 2026-09-22<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -419,7 +372,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2026-01-11 bis 2026-10-13<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -428,7 +381,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2025-11-28 bis 2026-12-05<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -437,7 +390,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Siegerin: Spain U19 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -446,7 +399,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Siegerin: Germany U17 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -455,7 +408,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Siegerin: England W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -464,7 +417,7 @@ Datenstand: 2026-09-06
 
 Zeitraum: 2025-02-21 bis 2025-12-02<br>
 Siegerin: Spain W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-06
+Datenstand: 2026-09-07
 
 </details>
 
@@ -475,23 +428,23 @@ Datenstand: 2026-09-06
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 06.09.2026, 14:20 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 07.09.2026, 02:43 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
 <thead><tr><th>#</th><th>Team</th><th>Sp</th><th>S</th><th>U</th><th>N</th><th>Tore</th><th>Pkt</th></tr></thead>
 <tbody>
-<tr><td>1</td><td>VfL Wolfsburg W</td><td>2</td><td>2</td><td>0</td><td>0</td><td>10:3</td><td><strong>6</strong></td></tr>
-<tr><td>2</td><td>Bayern Munich W</td><td>2</td><td>2</td><td>0</td><td>0</td><td>6:1</td><td><strong>6</strong></td></tr>
-<tr><td>3</td><td>FC Koln W</td><td>3</td><td>2</td><td>0</td><td>1</td><td>5:2</td><td><strong>6</strong></td></tr>
-<tr><td>4</td><td>Werder Bremen W</td><td>2</td><td>2</td><td>0</td><td>0</td><td>4:1</td><td><strong>6</strong></td></tr>
-<tr><td>5</td><td>Bayer Leverkusen W</td><td>3</td><td>2</td><td>0</td><td>1</td><td>5:3</td><td><strong>6</strong></td></tr>
-<tr><td>6</td><td>Stuttgart W</td><td>2</td><td>2</td><td>0</td><td>0</td><td>4:2</td><td><strong>6</strong></td></tr>
+<tr><td>1</td><td>VfL Wolfsburg W</td><td>3</td><td>3</td><td>0</td><td>0</td><td>13:5</td><td><strong>9</strong></td></tr>
+<tr><td>2</td><td>Bayern Munich W</td><td>3</td><td>3</td><td>0</td><td>0</td><td>10:2</td><td><strong>9</strong></td></tr>
+<tr><td>3</td><td>Stuttgart W</td><td>3</td><td>2</td><td>1</td><td>0</td><td>7:5</td><td><strong>7</strong></td></tr>
+<tr><td>4</td><td>FC Koln W</td><td>3</td><td>2</td><td>0</td><td>1</td><td>5:2</td><td><strong>6</strong></td></tr>
+<tr><td>5</td><td>Werder Bremen W</td><td>3</td><td>2</td><td>0</td><td>1</td><td>6:4</td><td><strong>6</strong></td></tr>
+<tr><td>6</td><td>Bayer Leverkusen W</td><td>3</td><td>2</td><td>0</td><td>1</td><td>5:3</td><td><strong>6</strong></td></tr>
 <tr><td>7</td><td>Eintracht Frankfurt W</td><td>2</td><td>1</td><td>1</td><td>0</td><td>3:1</td><td><strong>4</strong></td></tr>
-<tr><td>8</td><td>SC Freiburg W</td><td>2</td><td>1</td><td>1</td><td>0</td><td>2:1</td><td><strong>4</strong></td></tr>
+<tr><td>8</td><td>SC Freiburg W</td><td>3</td><td>1</td><td>1</td><td>1</td><td>3:5</td><td><strong>4</strong></td></tr>
 <tr><td>9</td><td>Hamburger SV W</td><td>3</td><td>0</td><td>2</td><td>1</td><td>3:4</td><td><strong>2</strong></td></tr>
-<tr><td>10</td><td>RB Leipzig W</td><td>3</td><td>0</td><td>1</td><td>2</td><td>1:5</td><td><strong>1</strong></td></tr>
-<tr><td>11</td><td>Nürnberg W</td><td>2</td><td>0</td><td>1</td><td>1</td><td>3:9</td><td><strong>1</strong></td></tr>
+<tr><td>10</td><td>Nürnberg W</td><td>3</td><td>0</td><td>2</td><td>1</td><td>6:12</td><td><strong>2</strong></td></tr>
+<tr><td>11</td><td>RB Leipzig W</td><td>3</td><td>0</td><td>1</td><td>2</td><td>1:5</td><td><strong>1</strong></td></tr>
 <tr><td>12</td><td>1899 Hoffenheim W</td><td>3</td><td>0</td><td>0</td><td>3</td><td>2:5</td><td><strong>0</strong></td></tr>
 <tr><td>13</td><td>Union Berlin W</td><td>2</td><td>0</td><td>0</td><td>2</td><td>1:5</td><td><strong>0</strong></td></tr>
 <tr><td>14</td><td>Mainz 05 W</td><td>3</td><td>0</td><td>0</td><td>3</td><td>1:8</td><td><strong>0</strong></td></tr>
@@ -506,7 +459,7 @@ Datenstand: 2026-09-06
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 06.09.2026, 14:20 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 07.09.2026, 02:43 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>

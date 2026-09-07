@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 06.09.2026, 14:20 Uhr
+**Stand:** 07.09.2026, 02:43 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-09-06T12:17:57Z*
+*Abrufdatum: 2026-09-07T00:40:51Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -49,32 +49,33 @@
 
 | Name | Position |
 |------|----------|
-| A. Lobanova | – |
+| A. Lobanova | D |
 | C. Coutel | – |
+| C. Fröhlich | D |
 | E. Papai | – |
-| F. Mai | – |
+| F. Mai | M |
 | F. Proniez | – |
-| J. Brengel | – |
-| J. Pollak | – |
-| K. Bednorz | – |
-| L. Lapassouse | – |
-| L. Meroni | – |
-| L. Miller | – |
-| L. Romero | – |
+| J. Brengel | M |
+| J. Pollak | M |
+| K. Bednorz | D |
+| L. Lapassouse | F |
+| L. Meroni | M |
+| L. Miller | M |
+| L. Romero | G |
 | L. Varley | – |
 | M. Bleil | – |
 | M. Lindner | – |
-| M. Seguin | – |
-| N. Lein | – |
-| R. Adamczyk | – |
-| S. Homann | – |
-| S. Licina | – |
+| M. Seguin | M |
+| N. Lein | M |
+| R. Adamczyk | G |
+| S. Homann | M |
+| S. Licina | M |
 
 ---
 
 ## Trainerteam
 
-*Abrufdatum: 2026-09-06T12:17:57Z*
+*Abrufdatum: 2026-09-07T00:40:51Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -87,13 +88,13 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-09-06T12:17:57Z*
+*Abrufdatum: 2026-09-07T00:40:51Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
 | 22.08.2026 | Regular Season - 1 | Nürnberg W vs VfL Wolfsburg W (H) | 2:8 ✗ | FT |
 | 30.08.2026 | Regular Season - 2 | Nürnberg W vs Eintracht Frankfurt W (A) | 1:1 = | FT |
-| 06.09.2026 | Regular Season - 3 | Nürnberg W vs Stuttgart W (H) | – | NS |
+| 06.09.2026 | Regular Season - 3 | Nürnberg W vs Stuttgart W (H) | 3:3 = | FT |
 | 12.09.2026 | Regular Season - 4 | Nürnberg W vs RB Leipzig W (A) | – | NS |
 | 20.09.2026 | Regular Season - 5 | Nürnberg W vs Hamburger SV W (A) | – | NS |
 | 26.09.2026 | Round of 32 | Nürnberg W vs Buntentor W (A) | – | NS |
@@ -103,6 +104,7 @@
 | 08.11.2026 | Regular Season - 9 | Nürnberg W vs SC Freiburg W (A) | – | NS |
 | 15.11.2026 | Regular Season - 10 | Nürnberg W vs FC Koln W (H) | – | NS |
 | 22.11.2026 | Regular Season - 11 | Nürnberg W vs Mainz 05 W (A) | – | NS |
+| 13.12.2026 | Regular Season - 12 | Nürnberg W vs Bayern Munich W (A) | – | NS |
 
 ---
 
