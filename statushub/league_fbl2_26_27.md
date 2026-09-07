@@ -1,7 +1,7 @@
 # 2. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 07.09.2026, 02:43 Uhr
+**Stand:** 07.09.2026, 14:23 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -10,20 +10,20 @@
 
 | Pl. | Team | Sp | S | U | N | Tore | Pkt |
 |-----|------|----|---|---|---|------|-----|
-| 1 | Bochum W | 4 | 4 | 0 | 0 | 12:1 | **12** |
-| 2 | SGS Essen W | 4 | 4 | 0 | 0 | 14:4 | **12** |
-| 3 | Meppen W | 4 | 4 | 0 | 0 | 12:2 | **12** |
-| 4 | Viktoria Berlin W | 4 | 3 | 0 | 1 | 8:4 | **9** |
-| 5 | Carl Zeiss Jena  W | 4 | 3 | 0 | 1 | 9:6 | **9** |
-| 6 | Hertha Berlin W | 4 | 3 | 0 | 1 | 6:5 | **9** |
-| 7 | Andernach W | 4 | 2 | 0 | 2 | 6:6 | **6** |
-| 8 | Ingolstadt W | 4 | 2 | 0 | 2 | 5:5 | **6** |
-| 9 | SC Sand W | 4 | 2 | 0 | 2 | 6:7 | **6** |
+| 1 | Bochum W | 5 | 5 | 0 | 0 | 18:1 | **15** |
+| 2 | SGS Essen W | 5 | 5 | 0 | 0 | 15:4 | **15** |
+| 3 | Meppen W | 5 | 4 | 0 | 1 | 12:3 | **12** |
+| 4 | Viktoria Berlin W | 5 | 4 | 0 | 1 | 9:4 | **12** |
+| 5 | Carl Zeiss Jena  W | 5 | 3 | 0 | 2 | 9:7 | **9** |
+| 6 | Ingolstadt W | 5 | 3 | 0 | 2 | 8:6 | **9** |
+| 7 | Hertha Berlin W | 4 | 3 | 0 | 1 | 6:5 | **9** |
+| 8 | SC Sand W | 5 | 2 | 1 | 2 | 8:9 | **7** |
+| 9 | Andernach W | 5 | 2 | 0 | 3 | 6:12 | **6** |
 | 10 | Borussia Monchengladbach W | 4 | 1 | 0 | 3 | 7:10 | **3** |
-| 11 | Hoffenheim II W | 4 | 0 | 0 | 4 | 4:11 | **0** |
-| 12 | Turbine Potsdam W | 4 | 0 | 0 | 4 | 3:10 | **0** |
-| 13 | FC Koln II W | 4 | 0 | 0 | 4 | 1:10 | **0** |
-| 14 | Eintracht Frankfurt II W | 4 | 0 | 0 | 4 | 1:13 | **0** |
+| 11 | Eintracht Frankfurt II W | 5 | 1 | 0 | 4 | 2:13 | **3** |
+| 12 | Hoffenheim II W | 5 | 0 | 1 | 4 | 6:13 | **1** |
+| 13 | Turbine Potsdam W | 5 | 0 | 0 | 5 | 3:11 | **0** |
+| 14 | FC Koln II W | 5 | 0 | 0 | 5 | 2:13 | **0** |
 
 ---
 

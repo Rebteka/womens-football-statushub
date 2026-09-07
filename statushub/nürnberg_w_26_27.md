@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 07.09.2026, 02:43 Uhr
+**Stand:** 07.09.2026, 14:23 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-09-07T00:40:51Z*
+*Abrufdatum: 2026-09-07T12:20:58Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -19,10 +19,10 @@
 | 31 | S. Tölzel | Goalkeeper | 16 | – |
 | 21 | K. Bednorz | Defender | 19 | – |
 | 4 | L. Guttenberger | Defender | 27 | – |
-| 19 | S. Homann | Defender | 23 | – |
+| 19 | S. Homann | Midfielder | 23 | – |
 | 14 | M. Lindner | Defender | 18 | – |
 | 4 | A. Lobanova | Defender | 25 | – |
-| 22 | J. Pollak | Defender | 23 | – |
+| 22 | J. Pollak | Midfielder | 23 | – |
 | 3 | F. Proniez | Defender | 23 | – |
 | 12 | A. Thöle | Defender | 22 | – |
 | 2 | L. Varley | Defender | 23 | – |
@@ -31,7 +31,7 @@
 | 6 | C. Coutel | Midfielder | 20 | – |
 | 29 | H. Deuber | Midfielder | 17 | – |
 | 8 | M. Günster | Midfielder | 22 | – |
-| 99 | L. Lapassouse | Midfielder | 24 | – |
+| 99 | L. Lapassouse | Attacker | 24 | – |
 | 24 | N. Lein | Midfielder | 24 | – |
 | 7 | S. Licina | Midfielder | 24 | – |
 | 18 | F. Mai | Midfielder | 26 | – |
@@ -75,7 +75,7 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-09-07T00:40:51Z*
+*Abrufdatum: 2026-09-07T12:20:58Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -88,7 +88,7 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-09-07T00:40:51Z*
+*Abrufdatum: 2026-09-07T12:20:58Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
