@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 07.09.2026, 14:23 Uhr
+**Stand:** 08.09.2026, 02:40 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-09-07T12:20:58Z*
+*Abrufdatum: 2026-09-08T00:37:27Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -75,7 +75,7 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-09-07T12:20:58Z*
+*Abrufdatum: 2026-09-08T00:37:27Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -88,7 +88,7 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-09-07T12:20:58Z*
+*Abrufdatum: 2026-09-08T00:37:27Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
