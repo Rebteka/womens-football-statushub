@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 08.09.2026, 02:40 Uhr
+> Quelle: API-SPORTS · Datenstand: 08.09.2026, 14:23 Uhr
 > Saison: 2026-2027 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 08.09.2026, 02:40 Uhr |
+| Dashboard | generiert 08.09.2026, 14:23 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 08.09.2026, 02:37 Uhr |
-| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 08.09.2026, 02:40 Uhr |
+| Turnierstatus | Stand 08.09.2026, 14:20 Uhr |
+| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 08.09.2026, 14:23 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_26_27.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -30,19 +30,26 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 ### Wettbewerbs-Baum (Kategorie -> Wettbewerb -> Tag -> Spiel)
 
 _Abfragefenster: 2026-09-01 bis 2026-09-15 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 08.09.2026, 02:40 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
+_Datenabruf: 08.09.2026, 14:23 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
 
 <details open>
-<summary><strong>Nationalteam-Turniere</strong> · 1 Wettbewerbe · 6 Spiele</summary>
+<summary><strong>Nationalteam-Turniere</strong> · 1 Wettbewerbe · 7 Spiele</summary>
 
 <details>
-<summary>Friendlies Women · 6 Spiele</summary>
+<summary>Friendlies Women · 7 Spiele</summary>
 
 **Di, 2026-09-08**
 
 <div class="match-card">
 <strong>Chile U20 W vs Uruguay U20 W</strong><br>
-22:00 Uhr · geplant · Live-Capability
+17:00 Uhr · geplant · Live-Capability
+</div>
+
+**Mi, 2026-09-09**
+
+<div class="match-card">
+<strong>China W vs Vietnam W</strong><br>
+12:00 Uhr · geplant · Live-Capability
 </div>
 
 **Do, 2026-09-10**
@@ -156,7 +163,7 @@ _Datenabruf: 08.09.2026, 02:40 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 
 <div class="match-card">
 <strong>Borussia Monchengladbach W vs Hertha Berlin W</strong><br>
-14:00 Uhr · kein Ergebnis laut API · Live-Capability
+14:00 Uhr · <strong>2:3</strong> [FT] – Siegerin: Hertha Berlin W · Live-Capability
 </div>
 
 <div class="match-card">
@@ -428,7 +435,7 @@ Datenstand: 2026-09-08
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 08.09.2026, 02:40 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 08.09.2026, 14:23 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -459,7 +466,7 @@ Datenstand: 2026-09-08
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 08.09.2026, 02:40 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 08.09.2026, 14:23 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>

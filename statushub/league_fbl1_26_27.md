@@ -1,7 +1,7 @@
 # 1. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 08.09.2026, 02:40 Uhr
+**Stand:** 08.09.2026, 14:23 Uhr
 **Quelle:** API-SPORTS
 
 ---

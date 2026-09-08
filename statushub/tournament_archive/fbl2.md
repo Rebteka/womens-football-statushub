@@ -8,6 +8,7 @@ title: Archiv 2. Frauen Bundesliga
 | Datum | Heim | Gast | Ergebnis |
 |---|---|---|---|
 | 2026-09-06 | Ingolstadt W | FC Koln II W | 3:1 |
+| 2026-09-06 | Borussia Monchengladbach W | Hertha Berlin W | 2:3 |
 | 2026-09-06 | Bochum W | Andernach W | 6:0 |
 | 2026-09-06 | Eintracht Frankfurt II W | Carl Zeiss Jena  W | 1:0 |
 | 2026-09-06 | Hoffenheim II W | SC Sand W | 2:2 |

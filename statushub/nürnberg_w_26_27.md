@@ -1,14 +1,14 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 08.09.2026, 02:40 Uhr
+**Stand:** 08.09.2026, 14:23 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-09-08T00:37:27Z*
+*Abrufdatum: 2026-09-08T12:20:42Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
@@ -18,7 +18,7 @@
 | 1 | L. Romero | Goalkeeper | 20 | – |
 | 31 | S. Tölzel | Goalkeeper | 16 | – |
 | 21 | K. Bednorz | Defender | 19 | – |
-| 4 | L. Guttenberger | Defender | 27 | – |
+| 14 | L. Guttenberger | Defender | 27 | – |
 | 19 | S. Homann | Midfielder | 23 | – |
 | 14 | M. Lindner | Defender | 18 | – |
 | 4 | A. Lobanova | Defender | 25 | – |
@@ -26,16 +26,17 @@
 | 3 | F. Proniez | Defender | 23 | – |
 | 12 | A. Thöle | Defender | 22 | – |
 | 2 | L. Varley | Defender | 23 | – |
-| 17 | Marie Bleil | Midfielder | 21 | – |
+| 17 | M. Bleil | Midfielder | 21 | – |
 | 10 | J. Brengel | Midfielder | 21 | – |
-| 6 | C. Coutel | Midfielder | 20 | – |
+| 6 | C. Coutel | Midfielder | 19 | – |
 | 29 | H. Deuber | Midfielder | 17 | – |
+| 5 | C. Fröhlich | Defender | 21 | – |
 | 8 | M. Günster | Midfielder | 22 | – |
 | 99 | L. Lapassouse | Attacker | 24 | – |
 | 24 | N. Lein | Midfielder | 24 | – |
 | 7 | S. Licina | Midfielder | 24 | – |
 | 18 | F. Mai | Midfielder | 26 | – |
-| 11 | Lara Meroni | Midfielder | 22 | – |
+| 11 | L. Meroni | Midfielder | 22 | – |
 | 28 | M. Seguin | Midfielder | 21 | – |
 | 16 | Z. Grzywinska | Attacker | 19 | – |
 | 15 | E. Papai | Attacker | 22 | – |
@@ -75,7 +76,7 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-09-08T00:37:27Z*
+*Abrufdatum: 2026-09-08T12:20:42Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
@@ -88,7 +89,7 @@
 
 ## Spielplan
 
-*Abrufdatum: 2026-09-08T00:37:27Z*
+*Abrufdatum: 2026-09-08T12:20:42Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|
