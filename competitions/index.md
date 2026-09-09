@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-09-08T12:20:26Z
+Datenstand: 2026-09-09T12:20:05Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -48,11 +48,11 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <li><strong>Úrvalsdeild Women</strong> · Kandidat (Iceland/IS, ID <code>671</code>, League) · Slug <code>urvalsdeild-women-671</code> · API-Saison 2025 (2025-04-15 bis 2025-10-18)</li>
 <li><strong>Women&#x27;s President&#x27;s Cup</strong> · Kandidat (Ireland/IE, ID <code>1175</code>, Cup) · Slug <code>women-s-president-s-cup-1175</code> · API-Saison 2026 (2026-03-08 bis 2026-03-08)</li>
 <li><strong>Coppa Italia Women</strong> · Kandidat (Italy/IT, ID <code>1171</code>, Cup) · Slug <code>coppa-italia-women-1171</code> · API-Saison 2025 (2025-08-31 bis 2026-05-24)</li>
-<li><strong>Serie A Cup Women</strong> · Kandidat (Italy/IT, ID <code>1198</code>, Cup) · Slug <code>serie-a-cup-women-1198</code> · API-Saison 2026 (2026-08-22 bis 2026-09-05)</li>
+<li><strong>Serie A Cup Women</strong> · Kandidat (Italy/IT, ID <code>1198</code>, Cup) · Slug <code>serie-a-cup-women-1198</code> · API-Saison 2026 (2026-08-21 bis 2026-09-13)</li>
 <li><strong>Serie A Women</strong> · Kandidat (Italy/IT, ID <code>139</code>, League) · Slug <code>serie-a-women-139</code> · API-Saison 2026 (2026-09-26 bis 2027-05-15)</li>
 <li><strong>Eredivisie Women</strong> · Kandidat (Netherlands/NL, ID <code>91</code>, League) · Slug <code>eredivisie-women-91</code> · API-Saison 2026 (2026-08-16 bis 2027-02-21)</li>
 <li><strong>Super Cup Women</strong> · Kandidat (Netherlands/NL, ID <code>1190</code>, Cup) · Slug <code>super-cup-women-1190</code> · API-Saison 2025 (2026-07-31 bis 2026-07-31)</li>
-<li><strong>Premiership Women</strong> · Kandidat (Northern-Ireland/GB-NIR, ID <code>1103</code>, League) · Slug <code>premiership-women-1103</code> · API-Saison 2026 (2026-05-01 bis 2026-09-04)</li>
+<li><strong>Premiership Women</strong> · Kandidat (Northern-Ireland/GB-NIR, ID <code>1103</code>, League) · Slug <code>premiership-women-1103</code> · API-Saison 2026 (2026-05-01 bis 2026-10-04)</li>
 <li><strong>1. Division Women</strong> · Kandidat (Norway/NO, ID <code>915</code>, League) · Slug <code>1-division-women-915</code> · API-Saison 2026 (2026-03-21 bis 2026-10-25)</li>
 <li><strong>Toppserien</strong> · Kandidat (Norway/NO, ID <code>725</code>, League) · Slug <code>toppserien-725</code> · API-Saison 2026 (2026-03-20 bis 2026-11-07)</li>
 <li><strong>Ekstraliga Women</strong> · Kandidat (Poland/PL, ID <code>1033</code>, League) · Slug <code>ekstraliga-women-1033</code> · API-Saison 2026 (2026-08-01 bis 2026-11-14)</li>
@@ -157,8 +157,8 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <summary>Suedamerika · nationale Wettbewerbe · 3 Wettbewerbe</summary>
 
 <ul>
-<li><strong>Brasileiro Women</strong> · Kandidat (Brazil/BR, ID <code>74</code>, League) · Slug <code>brasileiro-women-74</code> · API-Saison 2026 (2026-02-13 bis 2026-09-06)</li>
-<li><strong>Liga Femenina</strong> · Kandidat (Colombia/CO, ID <code>712</code>, League) · Slug <code>liga-femenina-712</code> · API-Saison 2026 (2026-02-12 bis 2026-09-09)</li>
+<li><strong>Brasileiro Women</strong> · Kandidat (Brazil/BR, ID <code>74</code>, League) · Slug <code>brasileiro-women-74</code> · API-Saison 2026 (2026-02-13 bis 2026-09-20)</li>
+<li><strong>Liga Femenina</strong> · Kandidat (Colombia/CO, ID <code>712</code>, League) · Slug <code>liga-femenina-712</code> · API-Saison 2026 (2026-02-12 bis 2026-09-13)</li>
 <li><strong>Liga Women</strong> · Kandidat (Peru/PE, ID <code>1229</code>, League) · Slug <code>liga-women-1229</code> · API-Saison 2026 (2026-03-14 bis 2026-09-20)</li>
 </ul>
 
