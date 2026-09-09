@@ -7,7 +7,6 @@ title: Archiv UEFA Champions League Women
 
 | Datum | Heim | Gast | Ergebnis |
 |---|---|---|---|
-| 2026-09-01 | Austria Wien W | Brann W | 4:0 |
 | 2026-09-02 | Inter Milano W | VfL Wolfsburg W | 3:1 |
 | 2026-09-02 | Paris Saint Germain W | Eintracht Frankfurt W | 5:1 |
 | 2026-09-02 | Servette Chênois W | Sparta Praha W | 3:0 |

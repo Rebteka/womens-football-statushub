@@ -5,7 +5,7 @@ title: Aktueller Statushub
 
 # Frauen-Fussball Statushub (public-faehig)
 
-> Quelle: API-SPORTS · Datenstand: 08.09.2026, 14:23 Uhr
+> Quelle: API-SPORTS · Datenstand: 09.09.2026, 02:39 Uhr
 > Saison: 2026-2027 · API-SPORTS-only · nicht automatisch extern veroeffentlicht
 
 ---
@@ -14,11 +14,11 @@ title: Aktueller Statushub
 
 | Bereich | Status |
 |---|---|
-| Dashboard | generiert 08.09.2026, 14:23 Uhr |
+| Dashboard | generiert 09.09.2026, 02:39 Uhr |
 | Live-Status | siehe [Live-Ticker](live.html) |
 | Spielvorschau/Rueckblick | fresh (0.0h alt, max 18h) |
-| Turnierstatus | Stand 08.09.2026, 14:20 Uhr |
-| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 08.09.2026, 14:23 Uhr |
+| Turnierstatus | Stand 09.09.2026, 02:37 Uhr |
+| Liga-Tabellen | Saison 2026-2027, Snapshot beim Dashboard-Build 09.09.2026, 02:39 Uhr |
 | Liga-Seiten (Test) | [1. Frauen-Bundesliga](league_fbl1_26_27.md) |
 
 Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen. Der Wettbewerbs-Katalog ist dagegen eine Abdeckungs- und Review-Uebersicht der API-SPORTS-Wettbewerbe.
@@ -29,8 +29,8 @@ Diese Seite zeigt aktuelle Statusdaten: Spiele, Turnierstatus und Liga-Tabellen.
 
 ### Wettbewerbs-Baum (Kategorie -> Wettbewerb -> Tag -> Spiel)
 
-_Abfragefenster: 2026-09-01 bis 2026-09-15 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
-_Datenabruf: 08.09.2026, 14:23 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
+_Abfragefenster: 2026-09-02 bis 2026-09-16 (Rueckschau 7 Tage, heute und Vorschau 7 Tage)._
+_Datenabruf: 09.09.2026, 02:39 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Frauen Bundesliga, Friendlies Women, UEFA Champions League Women._
 
 <details open>
 <summary><strong>Nationalteam-Turniere</strong> · 1 Wettbewerbe · 7 Spiele</summary>
@@ -42,7 +42,7 @@ _Datenabruf: 08.09.2026, 14:23 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 
 <div class="match-card">
 <strong>Chile U20 W vs Uruguay U20 W</strong><br>
-17:00 Uhr · geplant · Live-Capability
+17:00 Uhr · <strong>3:0</strong> [FT] – Siegerin: Chile U20 W · Live-Capability
 </div>
 
 **Mi, 2026-09-09**
@@ -56,7 +56,7 @@ _Datenabruf: 08.09.2026, 14:23 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 
 <div class="match-card">
 <strong>Chile U20 W vs Uruguay U20 W</strong><br>
-16:00 Uhr · geplant · Live-Capability
+15:00 Uhr · geplant · Live-Capability
 </div>
 
 <div class="match-card">
@@ -90,17 +90,10 @@ _Datenabruf: 08.09.2026, 14:23 Uhr. Wettbewerbe/Ligen: 2. Frauen Bundesliga, Fra
 </details>
 
 <details open>
-<summary><strong>Vereinswettbewerbe (Europa)</strong> · 1 Wettbewerbe · 9 Spiele</summary>
+<summary><strong>Vereinswettbewerbe (Europa)</strong> · 1 Wettbewerbe · 8 Spiele</summary>
 
 <details>
-<summary>UEFA Champions League Women · 9 Spiele</summary>
-
-**Di, 2026-09-01**
-
-<div class="match-card">
-<strong>Austria Wien W vs Brann W</strong><br>
-18:00 Uhr · <strong>4:0</strong> [FT] – Siegerin: Austria Wien W · Live-Capability
-</div>
+<summary>UEFA Champions League Women · 8 Spiele</summary>
 
 **Mi, 2026-09-02**
 
@@ -343,7 +336,7 @@ Live-Updates aktualisiert und stehen auf einer eigenen Seite:
 
 Zeitraum: 2026-08-21 bis 2027-05-23<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -352,7 +345,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2026-08-02 bis 2027-05-09<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -361,7 +354,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2026-08-15 bis 2026-09-26<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -370,7 +363,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2026-07-22 bis 2026-09-22<br>
 Siegerin: keine Siegerin festgelegt (noch nicht abgeschlossen)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -379,7 +372,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2026-01-11 bis 2026-11-28<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -388,7 +381,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2025-11-28 bis 2026-12-05<br>
 Siegerin: keine Siegerin festgelegt (nicht anwendbar)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -397,7 +390,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2026-06-27 bis 2026-07-10<br>
 Siegerin: Spain U19 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -406,7 +399,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2026-05-04 bis 2026-05-17<br>
 Siegerin: Germany U17 W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -415,7 +408,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2025-07-02 bis 2025-07-27<br>
 Siegerin: England W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -424,7 +417,7 @@ Datenstand: 2026-09-08
 
 Zeitraum: 2025-02-21 bis 2025-12-02<br>
 Siegerin: Spain W (bestaetigt aus Finale)<br>
-Datenstand: 2026-09-08
+Datenstand: 2026-09-09
 
 </details>
 
@@ -435,7 +428,7 @@ Datenstand: 2026-09-08
 <details>
 <summary>1. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 08.09.2026, 14:23 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">1. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-21 bis 2027-05-23. Tabellenstand gültig bis zum Dashboard-Build 09.09.2026, 02:39 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
@@ -466,7 +459,7 @@ Datenstand: 2026-09-08
 <details>
 <summary>2. Frauen-Bundesliga · Saison 2026-2027 · Tabelle anzeigen</summary>
 
-<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 08.09.2026, 14:23 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
+<p class="context-note">2. Frauen-Bundesliga · Saison 2026-2027 · Laufzeit laut API: 2026-08-02 bis 2027-05-09. Tabellenstand gültig bis zum Dashboard-Build 09.09.2026, 02:39 Uhr. Die API-Rohdaten enthalten hier kein separates Saisonstart- oder Saisonenddatum; kein historischer Verlauf.</p>
 
 <div class="table-scroll">
 <table>
