@@ -9,4 +9,4 @@ _Nach jedem Dashboard-Build additiv ergaenzt (Plan 120 WI-04). Kein Wochenrhythm
 
 - [Frauen Bundesliga](fbl1.html): 7 archivierte Spiele
 - [2. Frauen Bundesliga](fbl2.html): 7 archivierte Spiele
-- [Friendlies Women](friendlies.html): 2 archivierte Spiele
+- [Friendlies Women](friendlies.html): 3 archivierte Spiele
