@@ -14,3 +14,4 @@ title: Archiv Frauen Bundesliga
 | 2026-09-06 | Nürnberg W | Stuttgart W | 3:3 |
 | 2026-09-07 | Union Berlin W | Eintracht Frankfurt W | 0:1 |
 | 2026-09-11 | Werder Bremen W | Hamburger SV W | 1:0 |
+| 2026-09-12 | RB Leipzig W | Nürnberg W | 2:1 |
