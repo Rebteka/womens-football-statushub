@@ -1,24 +1,21 @@
 # Nürnberg W (1. Frauen-Bundesliga)
 
 **Saison:** 2026-2027
-**Stand:** 14.09.2026, 02:43 Uhr
+**Stand:** 14.09.2026, 14:24 Uhr
 **Quelle:** API-SPORTS
 
 ---
 
 ## Spielerinnen (Kader)
 
-*Abrufdatum: 2026-09-14T00:40:21Z*
+*Abrufdatum: 2026-09-14T12:21:22Z*
 
 | # | Name | Position | Alter | Nationalitaet |
 |---|------|----------|-------|---------------|
 | 33 | R. Adamczyk | Goalkeeper | 20 | – |
-| 21 | Abigail Chaves | Goalkeeper | 28 | – |
-| 30 | E. Paschedag | Goalkeeper | 16 | – |
 | 1 | L. Romero | Goalkeeper | 20 | – |
 | 31 | S. Tölzel | Goalkeeper | 16 | – |
 | 21 | K. Bednorz | Defender | 19 | – |
-| 14 | L. Guttenberger | Defender | 27 | – |
 | 19 | S. Homann | Midfielder | 23 | – |
 | 14 | M. Lindner | Defender | 18 | – |
 | 4 | A. Lobanova | Defender | 25 | – |
@@ -76,20 +73,19 @@
 
 ## Trainerteam
 
-*Abrufdatum: 2026-09-14T00:40:21Z*
+*Abrufdatum: 2026-09-14T12:21:22Z*
 
 | Name | Position | Nationalitaet |
 |------|----------|---------------|
-| A.Theiss |  | Germany |
 | O. Cankaya |  | Germany |
-| T. Oostendorp |  | Netherlands |
+| T. Oostendorp |  | None |
 | Thomas Oostendorp |  | None |
 
 ---
 
 ## Spielplan
 
-*Abrufdatum: 2026-09-14T00:40:21Z*
+*Abrufdatum: 2026-09-14T12:21:22Z*
 
 | Datum | Spieltag | Spiel | Ergebnis | Status |
 |-------|----------|-------|----------|--------|

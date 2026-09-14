@@ -1,7 +1,7 @@
 # 2. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 14.09.2026, 02:43 Uhr
+**Stand:** 14.09.2026, 14:24 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -10,20 +10,20 @@
 
 | Pl. | Team | Sp | S | U | N | Tore | Pkt |
 |-----|------|----|---|---|---|------|-----|
-| 1 | Bochum W | 5 | 5 | 0 | 0 | 18:1 | **15** |
-| 2 | SGS Essen W | 5 | 5 | 0 | 0 | 15:4 | **15** |
-| 3 | Meppen W | 5 | 4 | 0 | 1 | 12:3 | **12** |
-| 4 | Viktoria Berlin W | 5 | 4 | 0 | 1 | 9:4 | **12** |
-| 5 | Hertha Berlin W | 5 | 4 | 0 | 1 | 9:7 | **12** |
-| 6 | Carl Zeiss Jena  W | 5 | 3 | 0 | 2 | 9:7 | **9** |
-| 7 | Ingolstadt W | 5 | 3 | 0 | 2 | 8:6 | **9** |
-| 8 | SC Sand W | 5 | 2 | 1 | 2 | 8:9 | **7** |
-| 9 | Andernach W | 5 | 2 | 0 | 3 | 6:12 | **6** |
-| 10 | Borussia Monchengladbach W | 5 | 1 | 0 | 4 | 9:13 | **3** |
-| 11 | Eintracht Frankfurt II W | 5 | 1 | 0 | 4 | 2:13 | **3** |
-| 12 | Hoffenheim II W | 5 | 0 | 1 | 4 | 6:13 | **1** |
-| 13 | Turbine Potsdam W | 5 | 0 | 0 | 5 | 3:11 | **0** |
-| 14 | FC Koln II W | 5 | 0 | 0 | 5 | 2:13 | **0** |
+| 1 | SGS Essen W | 6 | 5 | 1 | 0 | 16:5 | **16** |
+| 2 | Bochum W | 5 | 5 | 0 | 0 | 18:1 | **15** |
+| 3 | Viktoria Berlin W | 6 | 5 | 0 | 1 | 11:5 | **15** |
+| 4 | Hertha Berlin W | 6 | 5 | 0 | 1 | 11:7 | **15** |
+| 5 | Meppen W | 6 | 4 | 0 | 2 | 12:5 | **12** |
+| 6 | Carl Zeiss Jena  W | 6 | 4 | 0 | 2 | 13:8 | **12** |
+| 7 | Ingolstadt W | 6 | 3 | 1 | 2 | 9:7 | **10** |
+| 8 | SC Sand W | 6 | 2 | 1 | 3 | 9:11 | **7** |
+| 9 | Andernach W | 6 | 2 | 0 | 4 | 6:13 | **6** |
+| 10 | Eintracht Frankfurt II W | 6 | 2 | 0 | 4 | 3:13 | **6** |
+| 11 | Borussia Monchengladbach W | 5 | 1 | 0 | 4 | 9:13 | **3** |
+| 12 | Turbine Potsdam W | 6 | 1 | 0 | 5 | 5:12 | **3** |
+| 13 | Hoffenheim II W | 6 | 0 | 1 | 5 | 7:17 | **1** |
+| 14 | FC Koln II W | 6 | 0 | 0 | 6 | 3:15 | **0** |
 
 ---
 
