@@ -1,7 +1,7 @@
 # 2. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 15.09.2026, 20:45 Uhr
+**Stand:** 15.09.2026, 21:24 Uhr
 **Quelle:** API-SPORTS
 
 ---
