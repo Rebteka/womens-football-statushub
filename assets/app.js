@@ -27,6 +27,15 @@
   fetch(base + "/assets/meta.json", { cache: "no-cache" }).then(function (r) { return r.json(); }).then(function (m) {
     if (stand && m.stand_label) stand.textContent = m.stand_label + " \u00b7 Zeiten in Europe/Berlin";
     if (m.generated_at) markStaleLive(m.generated_at);
+    // Ehrlicher Hinweis, wenn die Daten deutlich aelter sind als der 4-Stunden-Rhythmus
+    var ageH = (Date.now() - new Date(m.generated_at).getTime()) / 3600000;
+    var main = document.querySelector(".main");
+    if (main && ageH > 12) {
+      var b = document.createElement("div");
+      b.className = "stale-banner";
+      b.textContent = "Hinweis: Die Daten wurden zuletzt vor " + (ageH < 48 ? Math.round(ageH) + " Stunden" : Math.round(ageH / 24) + " Tagen") + " aktualisiert. Ergebnisse und Termine k\u00f6nnen veraltet sein.";
+      main.insertBefore(b, main.firstChild);
+    }
   }).catch(function () {});
 
   /* ---------- Live-Ticker (optional): assets/live.json aktualisiert Karten in place ---------- */

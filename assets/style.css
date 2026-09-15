@@ -270,6 +270,23 @@ h3 { font-size: 1.02rem; }
 .autostart { display: flex; gap: .5rem; align-items: center; margin: -.25rem 0 1rem; font-size: .9rem; color: var(--ink-2); }
 .autostart[hidden] { display: none; }
 
+/* Prognose, Direktvergleich, Saisonverlauf */
+.projection .team { text-align: left; }
+.proj.up { color: var(--win); font-weight: 700; }
+.proj.down { color: var(--loss); font-weight: 700; }
+.proj small { font-size: .8em; }
+.h2h { display: grid; grid-template-columns: repeat(4, 1fr); gap: .5rem; margin-bottom: .75rem; }
+.h2h div { display: grid; text-align: center; padding: .6rem .4rem; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+.h2h b { font-size: 1.3rem; font-variant-numeric: tabular-nums; }
+.h2h small { color: var(--ink-3); font-size: .72rem; }
+.form-chart { width: 100%; max-width: 520px; height: auto; display: block; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); }
+.form-chart polyline { fill: none; stroke: var(--brand); stroke-width: 2.5; stroke-linejoin: round; }
+.form-chart circle { fill: var(--brand); }
+.form-chart .grid { stroke: var(--line); stroke-width: 1; }
+.form-chart text { font-size: 9px; fill: var(--ink-3); }
+.stale-banner { margin: .5rem 0 1rem; padding: .6rem .9rem; border-radius: 10px; background: #fff3cd; color: #7a5a00; font-size: .9rem; font-weight: 600; }
+@media (prefers-color-scheme: dark) { .stale-banner { background: #3d3410; color: #f1d27a; } }
+
 /* Kalender-Abo */
 .cal-box { display: grid; gap: .3rem; margin: 1rem 0; padding: .85rem 1rem; border-radius: var(--radius); background: var(--brand-soft); border: 1px solid color-mix(in srgb, var(--brand) 25%, transparent); }
 .cal-box span { display: flex; flex-wrap: wrap; gap: .25rem .5rem; font-weight: 600; }
