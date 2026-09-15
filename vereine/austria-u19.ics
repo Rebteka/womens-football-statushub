@@ -13,7 +13,8 @@ DTSTAMP:20260302T140000Z
 DTSTART:20260302T140000Z
 DTEND:20260302T160000Z
 SUMMARY:Austria U19 – Finland U19 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526369.ht
  ml
 END:VEVENT
@@ -23,7 +24,8 @@ DTSTAMP:20260305T100000Z
 DTSTART:20260305T100000Z
 DTEND:20260305T120000Z
 SUMMARY:Austria U19 – Finland U19 2:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526377.ht
  ml
 END:VEVENT
@@ -33,7 +35,7 @@ DTSTAMP:20260628T150000Z
 DTSTART:20260628T150000Z
 DTEND:20260628T170000Z
 SUMMARY:Austria U19 – Iceland U19 3:0
-DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+DESCRIPTION:U19-EM · Gruppenphase
 LOCATION:Bilino Polje\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561060.ht
  ml
@@ -44,7 +46,7 @@ DTSTAMP:20260701T120000Z
 DTSTART:20260701T120000Z
 DTEND:20260701T140000Z
 SUMMARY:Austria U19 – Switzerland U19 3:1
-DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+DESCRIPTION:U19-EM · Gruppenphase
 LOCATION:Stadion Grbavica\, Sarajevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561063.ht
  ml
@@ -55,7 +57,7 @@ DTSTAMP:20260704T150000Z
 DTSTART:20260704T150000Z
 DTEND:20260704T170000Z
 SUMMARY:Spain U19 – Austria U19 2:1
-DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+DESCRIPTION:U19-EM · Gruppenphase
 LOCATION:Bilino Polje\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561068.ht
  ml
@@ -66,7 +68,7 @@ DTSTAMP:20260707T180000Z
 DTSTART:20260707T180000Z
 DTEND:20260707T200000Z
 SUMMARY:Germany U19 – Austria U19 1:0
-DESCRIPTION:UEFA U19 Championship - Women · Halbfinale
+DESCRIPTION:U19-EM · Halbfinale
 LOCATION:Stadion Grbavica\, Sarajevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1578549.ht
  ml

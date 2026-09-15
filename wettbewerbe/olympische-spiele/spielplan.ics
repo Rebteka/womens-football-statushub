@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Olympische Spiele 2024
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1187464@anstoss
+DTSTAMP:20240725T150000Z
+DTSTART:20240725T150000Z
+DTEND:20240725T170000Z
+SUMMARY:Kanada – New Zealand 2:1
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187463@anstoss
+DTSTAMP:20240725T150000Z
+DTSTART:20240725T150000Z
+DTEND:20240725T170000Z
+SUMMARY:Spanien – Japan 2:1
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
+LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187465@anstoss
+DTSTAMP:20240725T170000Z
+DTSTART:20240725T170000Z
+DTEND:20240725T190000Z
+SUMMARY:Deutschland – Australien 3:0
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194357@anstoss
+DTSTAMP:20240725T170000Z
+DTSTART:20240725T170000Z
+DTEND:20240725T190000Z
+SUMMARY:Nigeria – Brasilien 0:1
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
+LOCATION:Stade Matmut-Atlantique\, Bordeaux
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194358@anstoss
+DTSTAMP:20240725T190000Z
+DTSTART:20240725T190000Z
+DTEND:20240725T210000Z
+SUMMARY:USA – Zambia 3:0
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187466@anstoss
+DTSTAMP:20240725T190000Z
+DTSTART:20240725T190000Z
+DTEND:20240725T210000Z
+SUMMARY:Frankreich – Kolumbien 3:2
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187468@anstoss
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:New Zealand – Kolumbien 0:2
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187467@anstoss
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:Brasilien – Japan 1:2
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
+LOCATION:Parc des Princes\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194360@anstoss
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T190000Z
+SUMMARY:Australien – Zambia 6:5
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194359@anstoss
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T190000Z
+SUMMARY:Spanien – Nigeria 1:0
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
+LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187470@anstoss
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T210000Z
+SUMMARY:USA – Deutschland 4:1
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187469@anstoss
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T210000Z
+SUMMARY:Frankreich – Kanada 1:2
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194361@anstoss
+DTSTAMP:20240731T150000Z
+DTSTART:20240731T150000Z
+DTEND:20240731T170000Z
+SUMMARY:Japan – Nigeria 3:1
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
+LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187471@anstoss
+DTSTAMP:20240731T150000Z
+DTSTART:20240731T150000Z
+DTEND:20240731T170000Z
+SUMMARY:Brasilien – Spanien 0:2
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
+LOCATION:Stade Matmut-Atlantique\, Bordeaux
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187472@anstoss
+DTSTAMP:20240731T170000Z
+DTSTART:20240731T170000Z
+DTEND:20240731T190000Z
+SUMMARY:Australien – USA 1:2
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194362@anstoss
+DTSTAMP:20240731T170000Z
+DTSTART:20240731T170000Z
+DTEND:20240731T190000Z
+SUMMARY:Zambia – Deutschland 1:4
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187473@anstoss
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T210000Z
+SUMMARY:New Zealand – Frankreich 1:2
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187474@anstoss
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T210000Z
+SUMMARY:Kolumbien – Kanada 0:1
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1274761@anstoss
+DTSTAMP:20240803T130000Z
+DTSTART:20240803T130000Z
+DTEND:20240803T150000Z
+SUMMARY:USA – Japan 1:0
+DESCRIPTION:Olympische Spiele · Viertelfinale
+LOCATION:Parc des Princes\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1274761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1274762@anstoss
+DTSTAMP:20240803T150000Z
+DTSTART:20240803T150000Z
+DTEND:20240803T170000Z
+SUMMARY:Spanien – Kolumbien 2:2
+DESCRIPTION:Olympische Spiele · Viertelfinale
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1274762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1274763@anstoss
+DTSTAMP:20240803T170000Z
+DTSTART:20240803T170000Z
+DTEND:20240803T190000Z
+SUMMARY:Kanada – Deutschland 0:0
+DESCRIPTION:Olympische Spiele · Viertelfinale
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1274763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1274764@anstoss
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T210000Z
+SUMMARY:Frankreich – Brasilien 0:1
+DESCRIPTION:Olympische Spiele · Viertelfinale
+LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1274764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1279532@anstoss
+DTSTAMP:20240806T160000Z
+DTSTART:20240806T160000Z
+DTEND:20240806T180000Z
+SUMMARY:USA – Deutschland 1:0
+DESCRIPTION:Olympische Spiele · Halbfinale
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1279532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1279533@anstoss
+DTSTAMP:20240806T190000Z
+DTSTART:20240806T190000Z
+DTEND:20240806T210000Z
+SUMMARY:Brasilien – Spanien 4:2
+DESCRIPTION:Olympische Spiele · Halbfinale
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1279533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1283390@anstoss
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T150000Z
+SUMMARY:Spanien – Deutschland 0:1
+DESCRIPTION:Olympische Spiele · Spiel um Platz 3
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1283390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1283391@anstoss
+DTSTAMP:20240810T150000Z
+DTSTART:20240810T150000Z
+DTEND:20240810T170000Z
+SUMMARY:Brasilien – USA 0:1
+DESCRIPTION:Olympische Spiele · Finale
+LOCATION:Parc des Princes\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1283391.ht
+ ml
+END:VEVENT
+END:VCALENDAR

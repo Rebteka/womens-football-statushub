@@ -13,7 +13,7 @@ DTSTAMP:20230721T073000Z
 DTSTART:20230721T073000Z
 DTEND:20230721T093000Z
 SUMMARY:Spanien – Costa Rica 3:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:Sky Stadium\, Wellington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013556.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230726T073000Z
 DTSTART:20230726T073000Z
 DTEND:20230726T093000Z
 SUMMARY:Spanien – Zambia 5:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013571.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230731T070000Z
 DTSTART:20230731T070000Z
 DTEND:20230731T090000Z
 SUMMARY:Japan – Spanien 4:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Sky Stadium\, Wellington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013586.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20230805T050000Z
 DTSTART:20230805T050000Z
 DTEND:20230805T070000Z
 SUMMARY:Schweiz – Spanien 1:5
-DESCRIPTION:World Cup - Women · Achtelfinale
+DESCRIPTION:Frauen-WM · Achtelfinale
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1102768.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20230811T010000Z
 DTSTART:20230811T010000Z
 DTEND:20230811T030000Z
 SUMMARY:Spanien – Niederlande 2:1
-DESCRIPTION:World Cup - Women · Viertelfinale
+DESCRIPTION:Frauen-WM · Viertelfinale
 LOCATION:Wellington Regional Stadium\, Wellington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1108402.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20230815T080000Z
 DTSTART:20230815T080000Z
 DTEND:20230815T100000Z
 SUMMARY:Spanien – Schweden 2:1
-DESCRIPTION:World Cup - Women · Halbfinale
+DESCRIPTION:Frauen-WM · Halbfinale
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1116446.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20230820T100000Z
 DTSTART:20230820T100000Z
 DTEND:20230820T120000Z
 SUMMARY:Spanien – England 1:0
-DESCRIPTION:World Cup - Women · Finale
+DESCRIPTION:Frauen-WM · Finale
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1119623.ht
  ml
@@ -90,8 +90,7 @@ DTSTAMP:20240405T184500Z
 DTSTART:20240405T184500Z
 DTEND:20240405T204500Z
 SUMMARY:Belgien – Spanien 0:7
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:King Power at Den Dreef Stadion\, Heverlee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193108.ht
  ml
@@ -102,8 +101,7 @@ DTSTAMP:20240409T170000Z
 DTSTART:20240409T170000Z
 DTEND:20240409T190000Z
 SUMMARY:Spanien – Tschechien 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Estadio Municipal de El Plantío\, Burgos
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193115.ht
  ml
@@ -114,8 +112,7 @@ DTSTAMP:20240531T170000Z
 DTSTART:20240531T170000Z
 DTEND:20240531T190000Z
 SUMMARY:Dänemark – Spanien 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:Vejle Stadion\, Vejle
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193123.ht
  ml
@@ -126,8 +123,7 @@ DTSTAMP:20240604T193000Z
 DTSTART:20240604T193000Z
 DTEND:20240604T213000Z
 SUMMARY:Spanien – Dänemark 3:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Estadio Heliodoro Rodríguez Lopéz\, Tenerife
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193129.ht
  ml
@@ -138,8 +134,7 @@ DTSTAMP:20240712T160000Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Tschechien – Spanien 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:Letní stadion na Zadních Vinohradech\, Chomutov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193138.ht
  ml
@@ -150,8 +145,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Spanien – Belgien 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:Estadio Abanca-Riazor\, La Coruña
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193145.ht
  ml
@@ -162,7 +156,7 @@ DTSTAMP:20240725T150000Z
 DTSTART:20240725T150000Z
 DTEND:20240725T170000Z
 SUMMARY:Spanien – Japan 2:1
-DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
 LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187463.ht
  ml
@@ -173,7 +167,7 @@ DTSTAMP:20240728T170000Z
 DTSTART:20240728T170000Z
 DTEND:20240728T190000Z
 SUMMARY:Spanien – Nigeria 1:0
-DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
 LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1194359.ht
  ml
@@ -184,7 +178,7 @@ DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T170000Z
 SUMMARY:Brasilien – Spanien 0:2
-DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
 LOCATION:Stade Matmut-Atlantique\, Bordeaux
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187471.ht
  ml
@@ -195,7 +189,7 @@ DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z
 DTEND:20240803T170000Z
 SUMMARY:Spanien – Kolumbien 2:2
-DESCRIPTION:Olympics Women · Viertelfinale
+DESCRIPTION:Olympische Spiele · Viertelfinale
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1274762.ht
  ml
@@ -206,7 +200,7 @@ DTSTAMP:20240806T190000Z
 DTSTART:20240806T190000Z
 DTEND:20240806T210000Z
 SUMMARY:Brasilien – Spanien 4:2
-DESCRIPTION:Olympics Women · Halbfinale
+DESCRIPTION:Olympische Spiele · Halbfinale
 LOCATION:Orange Vélodrome\, Marseille
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1279533.ht
  ml
@@ -217,7 +211,7 @@ DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
 DTEND:20240809T150000Z
 SUMMARY:Spanien – Deutschland 0:1
-DESCRIPTION:Olympics Women · Spiel um Platz 3
+DESCRIPTION:Olympische Spiele · Spiel um Platz 3
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1283390.ht
  ml
@@ -228,7 +222,7 @@ DTSTAMP:20250221T174500Z
 DTSTART:20250221T174500Z
 DTEND:20250221T194500Z
 SUMMARY:Spanien – Belgien 3:2
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Estadio Ciudad de Valencia\, Valencia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315762.ht
  ml
@@ -239,7 +233,7 @@ DTSTAMP:20250226T200000Z
 DTSTART:20250226T200000Z
 DTEND:20250226T220000Z
 SUMMARY:England – Spanien 1:0
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Wembley Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315772.ht
  ml
@@ -250,7 +244,7 @@ DTSTAMP:20250404T184500Z
 DTSTART:20250404T184500Z
 DTEND:20250404T204500Z
 SUMMARY:Portugal – Spanien 2:4
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Estádio da Capital do Móvel\, Paços de Ferreira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315778.ht
  ml
@@ -261,7 +255,7 @@ DTSTAMP:20250408T170000Z
 DTSTART:20250408T170000Z
 DTEND:20250408T190000Z
 SUMMARY:Spanien – Portugal 7:1
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Estadio Abanca-Balaídos\, Vigo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315786.ht
  ml
@@ -272,7 +266,7 @@ DTSTAMP:20250530T183000Z
 DTSTART:20250530T183000Z
 DTEND:20250530T203000Z
 SUMMARY:Belgien – Spanien 1:5
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Den Dreef\, Heverlee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315793.ht
  ml
@@ -283,7 +277,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Spanien – England 2:1
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:RCDE Stadium\, Cornella de Llobregat
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315802.ht
  ml
@@ -294,7 +288,7 @@ DTSTAMP:20250703T190000Z
 DTSTART:20250703T190000Z
 DTEND:20250703T210000Z
 SUMMARY:Spanien – Portugal 5:0
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:Stadion Wankdorf\, Bern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367627.ht
  ml
@@ -305,7 +299,7 @@ DTSTAMP:20250707T160000Z
 DTSTART:20250707T160000Z
 DTEND:20250707T180000Z
 SUMMARY:Spanien – Belgien 6:2
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:Stockhorn Arena\, Thun
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367634.ht
  ml
@@ -316,7 +310,7 @@ DTSTAMP:20250711T190000Z
 DTSTART:20250711T190000Z
 DTEND:20250711T210000Z
 SUMMARY:Italien – Spanien 1:3
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:Stadion Wankdorf\, Bern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367642.ht
  ml
@@ -327,7 +321,7 @@ DTSTAMP:20250718T190000Z
 DTSTART:20250718T190000Z
 DTEND:20250718T210000Z
 SUMMARY:Spanien – Schweiz 2:0
-DESCRIPTION:UEFA Championship - Women · Viertelfinale
+DESCRIPTION:Frauen-EM · Viertelfinale
 LOCATION:Stadion Wankdorf\, Bern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1401204.ht
  ml
@@ -338,7 +332,7 @@ DTSTAMP:20250723T190000Z
 DTSTART:20250723T190000Z
 DTEND:20250723T210000Z
 SUMMARY:Deutschland – Spanien 0:1
-DESCRIPTION:UEFA Championship - Women · Halbfinale
+DESCRIPTION:Frauen-EM · Halbfinale
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1410142.ht
  ml
@@ -349,7 +343,7 @@ DTSTAMP:20250727T160000Z
 DTSTART:20250727T160000Z
 DTEND:20250727T180000Z
 SUMMARY:England – Spanien 1:1
-DESCRIPTION:UEFA Championship - Women · Finale
+DESCRIPTION:Frauen-EM · Finale
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1413345.ht
  ml
@@ -360,7 +354,7 @@ DTSTAMP:20251024T180000Z
 DTSTART:20251024T180000Z
 DTEND:20251024T200000Z
 SUMMARY:Spanien – Schweden 4:0
-DESCRIPTION:UEFA Nations League - Women · Halbfinale
+DESCRIPTION:UEFA Nations League · Halbfinale
 LOCATION:Estadio La Rosaleda
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478110.ht
  ml
@@ -371,7 +365,7 @@ DTSTAMP:20251028T180000Z
 DTSTART:20251028T180000Z
 DTEND:20251028T200000Z
 SUMMARY:Schweden – Spanien 0:1
-DESCRIPTION:UEFA Nations League - Women · Halbfinale
+DESCRIPTION:UEFA Nations League · Halbfinale
 LOCATION:Gamla Ullevi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478117.ht
  ml
@@ -382,7 +376,7 @@ DTSTAMP:20251128T193000Z
 DTSTART:20251128T193000Z
 DTEND:20251128T213000Z
 SUMMARY:Deutschland – Spanien 0:0
-DESCRIPTION:UEFA Nations League - Women · Finale
+DESCRIPTION:UEFA Nations League · Finale
 LOCATION:Fritz Walter Stadion\, Kaiserslautern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1484738.ht
  ml
@@ -393,7 +387,7 @@ DTSTAMP:20251202T173000Z
 DTSTART:20251202T173000Z
 DTEND:20251202T193000Z
 SUMMARY:Spanien – Deutschland 3:0
-DESCRIPTION:UEFA Nations League - Women · Finale
+DESCRIPTION:UEFA Nations League · Finale
 LOCATION:Metropolitano Stadium\, Madrid
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1484739.ht
  ml
@@ -404,8 +398,7 @@ DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z
 DTEND:20260303T200000Z
 SUMMARY:Spanien – Island 3:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Municipal de Castalia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523815.ht
  ml
@@ -416,8 +409,7 @@ DTSTAMP:20260307T170000Z
 DTSTART:20260307T170000Z
 DTEND:20260307T190000Z
 SUMMARY:Ukraine – Spanien 1:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Mardan Antalyaspor\, Antalya
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523840.ht
  ml
@@ -428,8 +420,7 @@ DTSTAMP:20260414T180000Z
 DTSTART:20260414T180000Z
 DTEND:20260414T200000Z
 SUMMARY:England – Spanien 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Wembley Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523865.ht
  ml
@@ -440,8 +431,7 @@ DTSTAMP:20260418T140000Z
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
 SUMMARY:Spanien – Ukraine 5:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523890.ht
  ml
 END:VEVENT
@@ -451,8 +441,7 @@ DTSTAMP:20260605T190000Z
 DTSTART:20260605T190000Z
 DTEND:20260605T210000Z
 SUMMARY:Spanien – England 4:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Estadi Mallorca Son Moix\, Palma de Mallorca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523915.ht
  ml
@@ -463,8 +452,7 @@ DTSTAMP:20260609T190000Z
 DTSTART:20260609T190000Z
 DTEND:20260609T210000Z
 SUMMARY:Island – Spanien 1:6
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523940.ht
  ml
 END:VEVENT
@@ -474,7 +462,8 @@ DTSTAMP:20261010T183000Z
 DTSTART:20261010T183000Z
 DTEND:20261010T203000Z
 SUMMARY:USA – Spanien
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
  ml
 END:VEVENT
@@ -484,7 +473,8 @@ DTSTAMP:20261013T230000Z
 DTSTART:20261013T230000Z
 DTEND:20261014T010000Z
 SUMMARY:USA – Spanien
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1604195.ht
  ml
 END:VEVENT

@@ -13,7 +13,7 @@ DTSTAMP:20260128T123000Z
 DTSTART:20260128T123000Z
 DTEND:20260128T143000Z
 SUMMARY:NJ/NY Gotham FC – Corinthians 0:1
-DESCRIPTION:FIFA Women Champions Cup · Halbfinale
+DESCRIPTION:FIFA Women's Champions Cup · Halbfinale
 LOCATION:Brentford Community Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514364.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20260201T144500Z
 DTSTART:20260201T144500Z
 DTEND:20260201T164500Z
 SUMMARY:FAR Rabat – NJ/NY Gotham FC 0:4
-DESCRIPTION:FIFA Women Champions Cup · 3rd place
+DESCRIPTION:FIFA Women's Champions Cup · 3rd place
 LOCATION:Emirates Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514987.ht
  ml
@@ -156,7 +156,7 @@ DTSTAMP:20260627T001000Z
 DTSTART:20260627T001000Z
 DTEND:20260627T021000Z
 SUMMARY:NJ/NY Gotham FC – Kansas City 2:0
-DESCRIPTION:NWSL Women - Challenge Cup · Finale
+DESCRIPTION:NWSL Challenge Cup · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1563057.ht
  ml
 END:VEVENT

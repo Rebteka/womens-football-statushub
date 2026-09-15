@@ -13,7 +13,7 @@ DTSTAMP:20230722T070000Z
 DTSTART:20230722T070000Z
 DTEND:20230722T090000Z
 SUMMARY:Zambia – Japan 0:5
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:FMG Stadium Waikato\, Hamilton
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013558.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230726T050000Z
 DTSTART:20230726T050000Z
 DTEND:20230726T070000Z
 SUMMARY:Japan – Costa Rica 2:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Forsyth Barr Stadium\, Dunedin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013570.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230731T070000Z
 DTSTART:20230731T070000Z
 DTEND:20230731T090000Z
 SUMMARY:Japan – Spanien 4:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Sky Stadium\, Wellington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013586.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20230805T080000Z
 DTSTART:20230805T080000Z
 DTEND:20230805T100000Z
 SUMMARY:Japan – Norwegen 3:1
-DESCRIPTION:World Cup - Women · Achtelfinale
+DESCRIPTION:Frauen-WM · Achtelfinale
 LOCATION:Wellington Regional Stadium\, Wellington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1102769.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20230811T073000Z
 DTSTART:20230811T073000Z
 DTEND:20230811T093000Z
 SUMMARY:Japan – Schweden 1:2
-DESCRIPTION:World Cup - Women · Viertelfinale
+DESCRIPTION:Frauen-WM · Viertelfinale
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1113421.ht
  ml
@@ -68,8 +68,7 @@ DTSTAMP:20231026T100000Z
 DTSTART:20231026T100000Z
 DTEND:20231026T120000Z
 SUMMARY:Japan – India 7:0
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 1. Spieltag
 LOCATION:Stadion Lokomotiv\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1027919.ht
  ml
@@ -80,8 +79,7 @@ DTSTAMP:20231029T120000Z
 DTSTART:20231029T120000Z
 DTEND:20231029T140000Z
 SUMMARY:Uzbekistan – Japan 0:2
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 2. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1034485.ht
  ml
@@ -92,8 +90,7 @@ DTSTAMP:20231101T100000Z
 DTSTART:20231101T100000Z
 DTEND:20231101T120000Z
 SUMMARY:Japan – Vietnam 2:0
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 3. Spieltag
 LOCATION:Stadion Lokomotiv\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1034490.ht
  ml
@@ -104,7 +101,7 @@ DTSTAMP:20240224T130400Z
 DTSTART:20240224T130400Z
 DTEND:20240224T150400Z
 SUMMARY:Korea DPR – Japan 0:0
-DESCRIPTION:Olympics Women - Qualification Asia · Finale
+DESCRIPTION:Olympia-Qualifikation Asien · Finale
 LOCATION:Prince Abdullah al-Faisal Stadium\, Jeddah
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1178544.ht
  ml
@@ -115,7 +112,7 @@ DTSTAMP:20240228T093400Z
 DTSTART:20240228T093400Z
 DTEND:20240228T113400Z
 SUMMARY:Japan – Korea DPR 2:1
-DESCRIPTION:Olympics Women - Qualification Asia · Finale
+DESCRIPTION:Olympia-Qualifikation Asien · Finale
 LOCATION:Japan National Stadium\, Tokyo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1178545.ht
  ml
@@ -126,7 +123,7 @@ DTSTAMP:20240725T150000Z
 DTSTART:20240725T150000Z
 DTEND:20240725T170000Z
 SUMMARY:Spanien – Japan 2:1
-DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
 LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187463.ht
  ml
@@ -137,7 +134,7 @@ DTSTAMP:20240728T150000Z
 DTSTART:20240728T150000Z
 DTEND:20240728T170000Z
 SUMMARY:Brasilien – Japan 1:2
-DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
 LOCATION:Parc des Princes\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187467.ht
  ml
@@ -148,7 +145,7 @@ DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T170000Z
 SUMMARY:Japan – Nigeria 3:1
-DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
 LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1194361.ht
  ml
@@ -159,7 +156,7 @@ DTSTAMP:20240803T130000Z
 DTSTART:20240803T130000Z
 DTEND:20240803T150000Z
 SUMMARY:USA – Japan 1:0
-DESCRIPTION:Olympics Women · Viertelfinale
+DESCRIPTION:Olympische Spiele · Viertelfinale
 LOCATION:Parc des Princes\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1274761.ht
  ml
@@ -170,8 +167,7 @@ DTSTAMP:20250709T073000Z
 DTSTART:20250709T073000Z
 DTEND:20250709T093000Z
 SUMMARY:Japan – Chinese Taipei 4:0
-DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 1. 
- Spieltag
+DESCRIPTION:EAFF E-1 Championship · Finale Round · 1. Spieltag
 LOCATION:Suwon World Cup Stadium\, Suwon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1399950.ht
  ml
@@ -182,8 +178,7 @@ DTSTAMP:20250713T110000Z
 DTSTART:20250713T110000Z
 DTEND:20250713T130000Z
 SUMMARY:Japan – Südkorea 1:1
-DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 2. 
- Spieltag
+DESCRIPTION:EAFF E-1 Championship · Finale Round · 2. Spieltag
 LOCATION:Hwaseong Stadium\, Hwaseong
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1399953.ht
  ml
@@ -194,8 +189,7 @@ DTSTAMP:20250716T070000Z
 DTSTART:20250716T070000Z
 DTEND:20250716T090000Z
 SUMMARY:Japan – China 0:0
-DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 3. 
- Spieltag
+DESCRIPTION:EAFF E-1 Championship · Finale Round · 3. Spieltag
 LOCATION:Suwon World Cup Stadium\, Suwon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1399954.ht
  ml
@@ -206,7 +200,7 @@ DTSTAMP:20260304T050000Z
 DTSTART:20260304T050000Z
 DTEND:20260304T070000Z
 SUMMARY:Japan – Chinese Taipei 2:0
-DESCRIPTION:Asian Cup Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
 LOCATION:HBF Park\, Perth
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516364.ht
  ml
@@ -217,7 +211,7 @@ DTSTAMP:20260307T110000Z
 DTSTART:20260307T110000Z
 DTEND:20260307T130000Z
 SUMMARY:India – Japan 0:11
-DESCRIPTION:Asian Cup Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
 LOCATION:HBF Park\, Perth
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516371.ht
  ml
@@ -228,7 +222,7 @@ DTSTAMP:20260310T090000Z
 DTSTART:20260310T090000Z
 DTEND:20260310T110000Z
 SUMMARY:Japan – Vietnam 4:0
-DESCRIPTION:Asian Cup Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
 LOCATION:HBF Park\, Perth
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516376.ht
  ml
@@ -239,7 +233,7 @@ DTSTAMP:20260315T050000Z
 DTSTART:20260315T050000Z
 DTEND:20260315T070000Z
 SUMMARY:Japan – Philippines 7:0
-DESCRIPTION:Asian Cup Women · Viertelfinale
+DESCRIPTION:Asien-Cup · Viertelfinale
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1531619.ht
  ml
@@ -250,7 +244,7 @@ DTSTAMP:20260318T090000Z
 DTSTART:20260318T090000Z
 DTEND:20260318T110000Z
 SUMMARY:Südkorea – Japan 1:4
-DESCRIPTION:Asian Cup Women · Halbfinale
+DESCRIPTION:Asien-Cup · Halbfinale
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533904.ht
  ml
@@ -261,7 +255,7 @@ DTSTAMP:20260321T090000Z
 DTSTART:20260321T090000Z
 DTEND:20260321T110000Z
 SUMMARY:Japan – Australien 1:0
-DESCRIPTION:Asian Cup Women · Finale
+DESCRIPTION:Asien-Cup · Finale
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1534913.ht
  ml
@@ -272,7 +266,8 @@ DTSTAMP:20260411T213000Z
 DTSTART:20260411T213000Z
 DTEND:20260411T233000Z
 SUMMARY:USA – Japan 2:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:PayPal Park
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514113.ht
  ml
@@ -283,7 +278,8 @@ DTSTAMP:20260415T020000Z
 DTSTART:20260415T020000Z
 DTEND:20260415T040000Z
 SUMMARY:USA – Japan 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Lumen Field
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514114.ht
  ml
@@ -294,7 +290,8 @@ DTSTAMP:20260418T010000Z
 DTSTART:20260418T010000Z
 DTEND:20260418T030000Z
 SUMMARY:USA – Japan 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514115.ht
  ml
 END:VEVENT
@@ -304,7 +301,8 @@ DTSTAMP:20260606T065000Z
 DTSTART:20260606T065000Z
 DTEND:20260606T085000Z
 SUMMARY:Japan – South Africa 5:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Yanmar Stadium Nagai\, Osaka
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539392.ht
  ml
@@ -315,7 +313,8 @@ DTSTAMP:20260609T063000Z
 DTSTART:20260609T063000Z
 DTEND:20260609T083000Z
 SUMMARY:Japan – South Africa 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:J-GREEN Sakai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542896.ht
  ml
@@ -326,7 +325,8 @@ DTSTAMP:20261013T154500Z
 DTSTART:20261013T154500Z
 DTEND:20261013T174500Z
 SUMMARY:Deutschland – Japan
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628978.ht
  ml
 END:VEVENT

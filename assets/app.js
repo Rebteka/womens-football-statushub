@@ -98,6 +98,16 @@
       var link = document.querySelector('.day-nav a[href="#' + sec.id + '"]');
       if (link) link.style.display = any ? "" : "none";
     });
+    // Sektionen, die der Filter komplett leert, bekommen einen Hinweis statt Leere
+    document.querySelectorAll("section.section:not(.day)").forEach(function (sec) {
+      var all = sec.querySelectorAll(".match").length, vis = sec.querySelectorAll("[data-region]:not(.is-hidden) .match").length;
+      var hint = sec.querySelector(".region-hint");
+      if (all && !vis) {
+        if (!hint) { hint = document.createElement("div"); hint.className = "empty region-hint"; sec.appendChild(hint); }
+        hint.innerHTML = "<p>" + all + " Spiel" + (all === 1 ? "" : "e") + " in anderen Regionen.</p><small><button type=\"button\" class=\"linklike\" data-region-filter=\"alle\">Alle anzeigen</button></small>";
+        hint.querySelector("button").addEventListener("click", function () { localStorage.setItem(LS_REGION, "alle"); applyRegion("alle"); });
+      } else if (hint) hint.remove();
+    });
   }
   if (chips.length) {
     var saved = localStorage.getItem(LS_REGION);
@@ -159,6 +169,21 @@
       if (!c) return;
       var logo = c.logo ? '<img class="logo" src="' + c.logo + '" alt="" width="36" height="36">' : "";
       favSlot.innerHTML = '<a class="fav-card" href="' + c.url + '">' + logo + '<span>' + c.name + '<small>Mein Verein · zur Vereinsseite →</small></span></a>';
+      // Spiele des Favoriten auf der Seite hervorheben und die naechsten zwei oben anzeigen
+      var mine = [];
+      document.querySelectorAll(".match").forEach(function (card) {
+        var hit = false;
+        card.querySelectorAll(".match-team").forEach(function (t) {
+          if (t.textContent.trim() === c.name) { t.classList.add("is-fav"); hit = true; }
+        });
+        if (hit && mine.length < 2 && !card.closest("[data-fav-slot]")) mine.push(card);
+      });
+      if (mine.length) {
+        var list = document.createElement("div");
+        list.className = "match-list fav-matches";
+        mine.forEach(function (card) { var cl = card.cloneNode(true); cl.classList.remove("is-hidden"); cl.removeAttribute("data-region"); list.appendChild(cl); });
+        favSlot.appendChild(list);
+      }
       favSlot.hidden = false;
     }).catch(function () {});
   }

@@ -13,8 +13,7 @@ DTSTAMP:20240405T160000Z
 DTSTART:20240405T160000Z
 DTEND:20240405T180000Z
 SUMMARY:Serbia – Schottland 0:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Gradski stadion Dubočica\, Leskovac
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193154.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T183500Z
 DTSTART:20240409T183500Z
 DTEND:20240409T203500Z
 SUMMARY:Schottland – Slowakei 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193166.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T180500Z
 DTSTART:20240531T180500Z
 DTEND:20240531T200500Z
 SUMMARY:Schottland – Israel 4:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193169.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T140000Z
 DTSTART:20240604T140000Z
 DTEND:20240604T160000Z
 SUMMARY:Israel – Schottland 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:Árok utcai pálya\, Budaörs
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193178.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T170000Z
 DTSTART:20240712T170000Z
 DTEND:20240712T190000Z
 SUMMARY:Slowakei – Schottland 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:Štadión pod Zoborom\, Nitra
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193186.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Schottland – Serbia 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Wyre Stadium at Firhill\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193193.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T161500Z
 DTSTART:20241025T161500Z
 DTEND:20241025T181500Z
 SUMMARY:Hungary – Schottland 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Bozsik Aréna\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252909.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T193500Z
 DTSTART:20241029T193500Z
 DTEND:20241029T213500Z
 SUMMARY:Schottland – Hungary 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Easter Road Stadium\, Edinburgh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252910.ht
  ml
@@ -109,8 +101,7 @@ DTSTAMP:20241129T193500Z
 DTSTART:20241129T193500Z
 DTEND:20241129T213500Z
 SUMMARY:Schottland – Finnland 0:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Easter Road Stadium\, Edinburgh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314221.ht
  ml
@@ -121,8 +112,7 @@ DTSTAMP:20241203T171500Z
 DTSTART:20241203T171500Z
 DTEND:20241203T191500Z
 SUMMARY:Finnland – Schottland 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Bolt Arena\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314222.ht
  ml
@@ -133,7 +123,7 @@ DTSTAMP:20250221T170000Z
 DTSTART:20250221T170000Z
 DTEND:20250221T190000Z
 SUMMARY:Österreich – Schottland 1:0
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Josko Arena\, Ried
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315757.ht
  ml
@@ -144,7 +134,7 @@ DTSTAMP:20250225T193000Z
 DTSTART:20250225T193000Z
 DTEND:20250225T213000Z
 SUMMARY:Schottland – Niederlande 1:2
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315766.ht
  ml
@@ -155,7 +145,7 @@ DTSTAMP:20250404T183500Z
 DTSTART:20250404T183500Z
 DTEND:20250404T203500Z
 SUMMARY:Schottland – Deutschland 0:4
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Tannadice Park\, Dundee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315774.ht
  ml
@@ -166,7 +156,7 @@ DTSTAMP:20250408T154500Z
 DTSTART:20250408T154500Z
 DTEND:20250408T174500Z
 SUMMARY:Deutschland – Schottland 6:1
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Volkswagen Arena\, Wolfsburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315782.ht
  ml
@@ -177,7 +167,7 @@ DTSTAMP:20250530T183500Z
 DTSTART:20250530T183500Z
 DTEND:20250530T203500Z
 SUMMARY:Schottland – Österreich 0:1
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315790.ht
  ml
@@ -188,7 +178,7 @@ DTSTAMP:20250603T183000Z
 DTSTART:20250603T183000Z
 DTEND:20250603T203000Z
 SUMMARY:Niederlande – Schottland 1:1
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:Koning Willem II Stadion\, Tilburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315798.ht
  ml
@@ -199,8 +189,7 @@ DTSTAMP:20260303T183000Z
 DTSTART:20260303T183000Z
 DTEND:20260303T203000Z
 SUMMARY:Luxembourg – Schottland 0:5
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Stade Emile Mayrisch\, Esch-sur-Alzette
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523826.ht
  ml
@@ -211,8 +200,7 @@ DTSTAMP:20260307T170000Z
 DTSTART:20260307T170000Z
 DTEND:20260307T190000Z
 SUMMARY:Schottland – Luxembourg 7:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523851.ht
  ml
@@ -223,8 +211,7 @@ DTSTAMP:20260414T183000Z
 DTSTART:20260414T183000Z
 DTEND:20260414T203000Z
 SUMMARY:Schottland – Belgien 1:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Easter Road\, Edinburgh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523875.ht
  ml
@@ -235,8 +222,7 @@ DTSTAMP:20260418T183000Z
 DTSTART:20260418T183000Z
 DTEND:20260418T203000Z
 SUMMARY:Belgien – Schottland 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Den Dreef\, Heverlee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523900.ht
  ml
@@ -247,8 +233,7 @@ DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Schottland – Israel 6:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Bozsik Arena\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523926.ht
  ml
@@ -259,8 +244,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Israel – Schottland 1:5
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Bozsik Arena\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523951.ht
  ml
@@ -271,7 +255,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Tschechien – Schottland
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557246.ht
  ml
 END:VEVENT
@@ -281,7 +265,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Schottland – Tschechien
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557267.ht
  ml
 END:VEVENT

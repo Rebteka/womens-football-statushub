@@ -13,7 +13,7 @@ DTSTAMP:20260404T140000Z
 DTSTART:20260404T140000Z
 DTEND:20260404T160000Z
 SUMMARY:Treaty Utd – Cliftonville 3:2
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539600.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20260510T130000Z
 DTSTART:20260510T130000Z
 DTEND:20260510T150000Z
 SUMMARY:Cliftonville – Athlone WFC 0:0
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539611.ht
  ml
 END:VEVENT
@@ -63,7 +63,7 @@ DTSTAMP:20260530T130000Z
 DTSTART:20260530T130000Z
 DTEND:20260530T150000Z
 SUMMARY:Cliftonville – Cork City 3:3
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542077.ht
  ml
 END:VEVENT
@@ -73,7 +73,7 @@ DTSTAMP:20260613T150000Z
 DTSTART:20260613T150000Z
 DTEND:20260613T170000Z
 SUMMARY:Shelbourne – Cliftonville 3:1
-DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+DESCRIPTION:All-Island Cup · Quarter-Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1553409.ht
  ml
 END:VEVENT

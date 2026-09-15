@@ -13,7 +13,7 @@ DTSTAMP:20240902T220000Z
 DTSTART:20240902T220000Z
 DTEND:20240903T000000Z
 SUMMARY:Korea DPR U20 – Argentina U20 6:2
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205397.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20240906T010000Z
 DTSTART:20240906T010000Z
 DTEND:20240906T030000Z
 SUMMARY:Netherlands U20 – Argentina U20 3:3
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 2. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205411.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20240908T200000Z
 DTSTART:20240908T200000Z
 DTEND:20240908T220000Z
 SUMMARY:Argentina U20 – Costa Rica U20 1:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 3. Spieltag
 LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205421.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20240912T213000Z
 DTSTART:20240912T213000Z
 DTEND:20240912T233000Z
 SUMMARY:Germany U20 – Argentina U20 5:1
-DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+DESCRIPTION:U20-WM · Achtelfinale
 LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1304033.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20260207T210000Z
 DTSTART:20260207T210000Z
 DTEND:20260207T230000Z
 SUMMARY:Ecuador U20 – Argentina U20 1:2
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516487.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20260209T210000Z
 DTSTART:20260209T210000Z
 DTEND:20260209T230000Z
 SUMMARY:Argentina U20 – Peru U20 4:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516490.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20260211T210000Z
 DTSTART:20260211T210000Z
 DTEND:20260211T230000Z
 SUMMARY:Argentina U20 – Bolivia U20 4:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516494.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20260213T210000Z
 DTSTART:20260213T210000Z
 DTEND:20260213T230000Z
 SUMMARY:Brazil U20 – Argentina U20 1:2
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516498.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20260216T230000Z
 DTSTART:20260216T230000Z
 DTEND:20260217T010000Z
 SUMMARY:Argentina U20 – Venezuela U20 2:2
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522838.ht
  ml
@@ -112,7 +112,7 @@ DTSTAMP:20260220T010000Z
 DTSTART:20260220T010000Z
 DTEND:20260220T030000Z
 SUMMARY:Argentina U20 – Ecuador U20 0:1
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522841.ht
  ml
@@ -123,7 +123,7 @@ DTSTAMP:20260222T230000Z
 DTSTART:20260222T230000Z
 DTEND:20260223T010000Z
 SUMMARY:Brazil U20 – Argentina U20 4:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522844.ht
  ml
@@ -134,7 +134,7 @@ DTSTAMP:20260226T010000Z
 DTSTART:20260226T010000Z
 DTEND:20260226T030000Z
 SUMMARY:Argentina U20 – Paraguay U20 4:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522847.ht
  ml
@@ -145,7 +145,7 @@ DTSTAMP:20260228T210000Z
 DTSTART:20260228T210000Z
 DTEND:20260228T230000Z
 SUMMARY:Colombia U20 – Argentina U20 0:3
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522851.ht
  ml
@@ -156,7 +156,8 @@ DTSTAMP:20260414T130000Z
 DTSTART:20260414T130000Z
 DTEND:20260414T150000Z
 SUMMARY:Argentina U20 – USA U19 0:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540800.ht
  ml
 END:VEVENT
@@ -166,7 +167,8 @@ DTSTAMP:20260417T130000Z
 DTSTART:20260417T130000Z
 DTEND:20260417T150000Z
 SUMMARY:Argentina U20 – USA U19 1:3
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540808.ht
  ml
 END:VEVENT

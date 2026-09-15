@@ -13,8 +13,7 @@ DTSTAMP:20240405T180000Z
 DTSTART:20240405T180000Z
 DTEND:20240405T200000Z
 SUMMARY:Nordirland – Malta 0:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Windsor Park\, Belfast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193156.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T163000Z
 DTSTART:20240409T163000Z
 DTEND:20240409T183000Z
 SUMMARY:Malta – Portugal 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:MFA Centenary Stadium\, Ta'Qali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193164.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T173000Z
 DTSTART:20240531T173000Z
 DTEND:20240531T193000Z
 SUMMARY:Malta – Bosnia-Herzegovina 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:MFA Centenary Stadium\, Ta'Qali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193171.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T140000Z
 DTSTART:20240604T140000Z
 DTEND:20240604T160000Z
 SUMMARY:Bosnia-Herzegovina – Malta 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193182.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T173000Z
 DTSTART:20240712T173000Z
 DTEND:20240712T193000Z
 SUMMARY:Malta – Nordirland 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:MFA Centenary Stadium\, Ta'Qali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193188.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Portugal – Malta 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Estádio Dr. Magalhães Pessoa\, Leiria
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193195.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T170000Z
 DTSTART:20250221T170000Z
 DTEND:20250221T190000Z
 SUMMARY:Cyprus – Malta 2:1
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:AEK Arena\, Larnaca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315855.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250225T183000Z
 DTSTART:20250225T183000Z
 DTEND:20250225T203000Z
 SUMMARY:Malta – Andorra 1:0
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315865.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250404T150000Z
 DTSTART:20250404T150000Z
 DTEND:20250404T170000Z
 SUMMARY:Georgia – Malta 2:3
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315874.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250408T170000Z
 DTSTART:20250408T170000Z
 DTEND:20250408T190000Z
 SUMMARY:Malta – Georgia 2:1
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315883.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20250530T170000Z
 DTSTART:20250530T170000Z
 DTEND:20250530T190000Z
 SUMMARY:Malta – Cyprus 1:0
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:Ta'Qali National Stadium\, Ta'Qali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315892.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Andorra – Malta 0:0
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:Nou Estadi Encamp\, Encamp
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315900.ht
  ml
@@ -151,8 +145,7 @@ DTSTAMP:20260303T140000Z
 DTSTART:20260303T140000Z
 DTEND:20260303T160000Z
 SUMMARY:Turkey – Malta 3:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Pendik Stadyumu\, Istanbul
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523822.ht
  ml
@@ -163,8 +156,7 @@ DTSTAMP:20260307T180000Z
 DTSTART:20260307T180000Z
 DTEND:20260307T200000Z
 SUMMARY:Malta – Schweiz 1:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523846.ht
  ml
@@ -175,8 +167,7 @@ DTSTAMP:20260414T180000Z
 DTSTART:20260414T180000Z
 DTEND:20260414T200000Z
 SUMMARY:Nordirland – Malta 4:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Mourneview Park\, Lurgan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523872.ht
  ml
@@ -187,8 +178,7 @@ DTSTAMP:20260418T170000Z
 DTSTART:20260418T170000Z
 DTEND:20260418T190000Z
 SUMMARY:Malta – Nordirland 2:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523897.ht
  ml
@@ -199,8 +189,7 @@ DTSTAMP:20260605T173000Z
 DTSTART:20260605T173000Z
 DTEND:20260605T193000Z
 SUMMARY:Schweiz – Malta 6:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:AIL Arena\, Lugano
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523921.ht
  ml
@@ -211,8 +200,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Malta – Turkey 0:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523947.ht
  ml

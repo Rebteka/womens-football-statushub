@@ -13,7 +13,7 @@ DTSTAMP:20260117T121500Z
 DTSTART:20260117T121500Z
 DTEND:20260117T141500Z
 SUMMARY:Sunderland – London City Lionesses 0:1
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501241.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20260223T193000Z
 DTSTART:20260223T193000Z
 DTEND:20260223T213000Z
 SUMMARY:London City Lionesses – Tottenham Hotspur 2:2
-DESCRIPTION:FA Women's Cup · Round 5
+DESCRIPTION:FA Cup · Round 5
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514958.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20260923T183000Z
 DTSTART:20260923T183000Z
 DTEND:20260923T203000Z
 SUMMARY:Leicester City FC – London City Lionesses
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:King Power Stadium\, Leicester
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612638.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20260930T183000Z
 DTSTART:20260930T183000Z
 DTEND:20260930T203000Z
 SUMMARY:Ipswich Town – London City Lionesses
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612645.ht
  ml
 END:VEVENT
@@ -122,7 +122,7 @@ DTSTAMP:20261021T180000Z
 DTSTART:20261021T180000Z
 DTEND:20261021T200000Z
 SUMMARY:West Ham – London City Lionesses
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Chigwell Construction Stadium\, Essex
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612658.ht
  ml
@@ -144,7 +144,7 @@ DTSTAMP:20261028T190000Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:London City Lionesses – Crystal Palace
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612661.ht
  ml
@@ -188,7 +188,7 @@ DTSTAMP:20261118T190000Z
 DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 SUMMARY:London City Lionesses – Brighton
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612679.ht
  ml
@@ -221,7 +221,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:London City Lionesses – Bristol City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612696.ht
  ml

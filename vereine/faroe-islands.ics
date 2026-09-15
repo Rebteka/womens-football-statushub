@@ -13,8 +13,7 @@ DTSTAMP:20240405T170000Z
 DTSTART:20240405T170000Z
 DTEND:20240405T190000Z
 SUMMARY:Greece – Faroe Islands 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193206.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T143000Z
 DTSTART:20240409T143000Z
 DTEND:20240409T163000Z
 SUMMARY:Montenegro – Faroe Islands 5:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Stadion Pod Goricom\, Podgorica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193209.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T154500Z
 DTSTART:20240531T154500Z
 DTEND:20240531T174500Z
 SUMMARY:Faroe Islands – Andorra 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193225.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T154500Z
 DTSTART:20240604T154500Z
 DTEND:20240604T174500Z
 SUMMARY:Faroe Islands – Greece 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193234.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T154500Z
 DTSTART:20240712T154500Z
 DTEND:20240712T174500Z
 SUMMARY:Faroe Islands – Montenegro 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193240.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Andorra – Faroe Islands 0:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:Estadi Nacional\, Andorra la Vella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193249.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T180000Z
 DTSTART:20250221T180000Z
 DTEND:20250221T200000Z
 SUMMARY:Slowakei – Faroe Islands 3:0
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:City Arena Trnava\, Trnava
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315854.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250225T180000Z
 DTSTART:20250225T180000Z
 DTEND:20250225T200000Z
 SUMMARY:Gibraltar – Faroe Islands 0:1
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:Europa point stadium\, Gibraltar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315862.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250404T160000Z
 DTSTART:20250404T160000Z
 DTEND:20250404T180000Z
 SUMMARY:Faroe Islands – Moldova 2:0
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315871.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250408T160000Z
 DTSTART:20250408T160000Z
 DTEND:20250408T180000Z
 SUMMARY:Faroe Islands – Gibraltar 5:0
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315880.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20250530T170000Z
 DTSTART:20250530T170000Z
 DTEND:20250530T190000Z
 SUMMARY:Moldova – Faroe Islands 1:1
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:Stadionul Zimbru
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315889.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Faroe Islands – Slowakei 1:2
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315898.ht
  ml
@@ -151,7 +145,8 @@ DTSTAMP:20260302T120000Z
 DTSTART:20260302T120000Z
 DTEND:20260302T140000Z
 SUMMARY:Cyprus – Faroe Islands 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526962.ht
  ml
 END:VEVENT
@@ -161,8 +156,7 @@ DTSTAMP:20260307T183000Z
 DTSTART:20260307T183000Z
 DTEND:20260307T203000Z
 SUMMARY:Greece – Faroe Islands 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523837.ht
  ml
@@ -173,8 +167,7 @@ DTSTAMP:20260414T160000Z
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 SUMMARY:Faroe Islands – Greece 2:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523862.ht
  ml
 END:VEVENT
@@ -184,8 +177,7 @@ DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Faroe Islands – Georgia 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523887.ht
  ml
 END:VEVENT
@@ -195,8 +187,7 @@ DTSTAMP:20260605T133000Z
 DTSTART:20260605T133000Z
 DTEND:20260605T153000Z
 SUMMARY:Georgia – Faroe Islands 2:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:David Petriashvili Stadium\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523912.ht
  ml
@@ -207,7 +198,8 @@ DTSTAMP:20261009T100000Z
 DTSTART:20261009T100000Z
 DTEND:20261009T120000Z
 SUMMARY:Andorra – Faroe Islands
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638582.ht
  ml
 END:VEVENT
@@ -217,7 +209,8 @@ DTSTAMP:20261012T150000Z
 DTSTART:20261012T150000Z
 DTEND:20261012T170000Z
 SUMMARY:Andorra – Faroe Islands
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638585.ht
  ml
 END:VEVENT

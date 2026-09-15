@@ -13,7 +13,7 @@ DTSTAMP:20250806T080000Z
 DTSTART:20250806T080000Z
 DTEND:20250806T100000Z
 SUMMARY:Korea DPR U20 – Saudi Arabia U20 15:0
-DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
 LOCATION:Changlimithang Stadium\, Thimphu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1424260.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20250808T080000Z
 DTSTART:20250808T080000Z
 DTEND:20250808T100000Z
 SUMMARY:Saudi Arabia U20 – Nepal U20 0:1
-DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
 LOCATION:Changlimithang Stadium\, Thimphu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1424269.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20250810T120000Z
 DTSTART:20250810T120000Z
 DTEND:20250810T140000Z
 SUMMARY:Bhutan U20 – Saudi Arabia U20 1:2
-DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
 LOCATION:Changlimithang Stadium\, Thimphu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1424283.ht
  ml
@@ -46,7 +46,8 @@ DTSTAMP:20260412T150000Z
 DTSTART:20260412T150000Z
 DTEND:20260412T170000Z
 SUMMARY:Saudi Arabia U20 – Botswana 0:3
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540591.ht
  ml
 END:VEVENT
@@ -56,7 +57,8 @@ DTSTAMP:20260603T180000Z
 DTSTART:20260603T180000Z
 DTEND:20260603T200000Z
 SUMMARY:Malta U19 – Saudi Arabia U20 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548464.ht
  ml
 END:VEVENT
@@ -66,7 +68,8 @@ DTSTAMP:20260606T130000Z
 DTSTART:20260606T130000Z
 DTEND:20260606T150000Z
 SUMMARY:Malta U19 – Saudi Arabia U20 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548475.ht
  ml
 END:VEVENT

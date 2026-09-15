@@ -13,7 +13,7 @@ DTSTAMP:20230721T050000Z
 DTSTART:20230721T050000Z
 DTEND:20230721T070000Z
 SUMMARY:Philippines – Schweiz 0:2
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:Forsyth Barr Stadium\, Dunedin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013555.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230725T080000Z
 DTSTART:20230725T080000Z
 DTEND:20230725T100000Z
 SUMMARY:Schweiz – Norwegen 0:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:FMG Stadium Waikato\, Hamilton
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013569.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230730T070000Z
 DTSTART:20230730T070000Z
 DTEND:20230730T090000Z
 SUMMARY:Schweiz – New Zealand 0:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Forsyth Barr Stadium\, Dunedin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013584.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20230805T050000Z
 DTSTART:20230805T050000Z
 DTEND:20230805T070000Z
 SUMMARY:Schweiz – Spanien 1:5
-DESCRIPTION:World Cup - Women · Achtelfinale
+DESCRIPTION:Frauen-WM · Achtelfinale
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1102768.ht
  ml
@@ -57,8 +57,7 @@ DTSTAMP:20240405T170000Z
 DTSTART:20240405T170000Z
 DTEND:20240405T190000Z
 SUMMARY:Schweiz – Turkey 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193155.ht
  ml
@@ -69,8 +68,7 @@ DTSTAMP:20240409T120000Z
 DTSTART:20240409T120000Z
 DTEND:20240409T140000Z
 SUMMARY:Azerbaijan – Schweiz 0:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:Liv Bona Dea Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193159.ht
  ml
@@ -81,8 +79,7 @@ DTSTAMP:20240531T180000Z
 DTSTART:20240531T180000Z
 DTEND:20240531T200000Z
 SUMMARY:Schweiz – Hungary 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:Tissot Arena\, Biel/Bienne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193167.ht
  ml
@@ -93,8 +90,7 @@ DTSTAMP:20240604T153000Z
 DTSTART:20240604T153000Z
 DTEND:20240604T173000Z
 SUMMARY:Hungary – Schweiz 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:Hidegkuti Nándor Stadion\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193175.ht
  ml
@@ -105,8 +101,7 @@ DTSTAMP:20240712T173000Z
 DTSTART:20240712T173000Z
 DTEND:20240712T193000Z
 SUMMARY:Turkey – Schweiz 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:Yıldız Entegre Kocaeli Stadyumu\, Kocaeli
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193184.ht
  ml
@@ -117,8 +112,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Schweiz – Azerbaijan 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Stade Olympique de la Pontaise\, Lausanne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193191.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20250221T180000Z
 DTSTART:20250221T180000Z
 DTEND:20250221T200000Z
 SUMMARY:Schweiz – Island 0:0
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Letzigrund Stadion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315760.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20250225T170000Z
 DTSTART:20250225T170000Z
 DTEND:20250225T190000Z
 SUMMARY:Norwegen – Schweiz 2:1
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Lyse Arena\, Stavanger
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315768.ht
  ml
@@ -151,7 +145,7 @@ DTSTAMP:20250404T180000Z
 DTSTART:20250404T180000Z
 DTEND:20250404T200000Z
 SUMMARY:Schweiz – Frankreich 0:2
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Kybunpark\, St. Gallen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315776.ht
  ml
@@ -162,7 +156,7 @@ DTSTAMP:20250408T164500Z
 DTSTART:20250408T164500Z
 DTEND:20250408T184500Z
 SUMMARY:Island – Schweiz 3:3
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Throttarvollur
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315783.ht
  ml
@@ -173,7 +167,7 @@ DTSTAMP:20250530T191000Z
 DTSTART:20250530T191000Z
 DTEND:20250530T211000Z
 SUMMARY:Frankreich – Schweiz 4:0
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Stade Marcel Picot\, Nancy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315791.ht
  ml
@@ -184,7 +178,7 @@ DTSTAMP:20250603T180000Z
 DTSTART:20250603T180000Z
 DTEND:20250603T200000Z
 SUMMARY:Schweiz – Norwegen 0:1
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:Stade de Tourbillon\, Sion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315800.ht
  ml
@@ -195,7 +189,7 @@ DTSTAMP:20250702T190000Z
 DTSTART:20250702T190000Z
 DTEND:20250702T210000Z
 SUMMARY:Schweiz – Norwegen 1:2
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367625.ht
  ml
@@ -206,7 +200,7 @@ DTSTAMP:20250706T190000Z
 DTSTART:20250706T190000Z
 DTEND:20250706T210000Z
 SUMMARY:Schweiz – Island 2:0
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:Stadion Wankdorf\, Bern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367633.ht
  ml
@@ -217,7 +211,7 @@ DTSTAMP:20250710T190000Z
 DTSTART:20250710T190000Z
 DTEND:20250710T210000Z
 SUMMARY:Finnland – Schweiz 1:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:Stade de Genève\, Lancy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367640.ht
  ml
@@ -228,7 +222,7 @@ DTSTAMP:20250718T190000Z
 DTSTART:20250718T190000Z
 DTEND:20250718T210000Z
 SUMMARY:Spanien – Schweiz 2:0
-DESCRIPTION:UEFA Championship - Women · Viertelfinale
+DESCRIPTION:Frauen-EM · Viertelfinale
 LOCATION:Stadion Wankdorf\, Bern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1401204.ht
  ml
@@ -239,8 +233,7 @@ DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z
 DTEND:20260303T200000Z
 SUMMARY:Schweiz – Nordirland 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Stade de la Tuiliere\, Lausanne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523821.ht
  ml
@@ -251,8 +244,7 @@ DTSTAMP:20260307T180000Z
 DTSTART:20260307T180000Z
 DTEND:20260307T200000Z
 SUMMARY:Malta – Schweiz 1:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523846.ht
  ml
@@ -263,8 +255,7 @@ DTSTAMP:20260414T170000Z
 DTSTART:20260414T170000Z
 DTEND:20260414T190000Z
 SUMMARY:Schweiz – Turkey 3:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Letzigrund Stadion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523871.ht
  ml
@@ -275,8 +266,7 @@ DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Turkey – Schweiz 1:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Sinop Sehir Stadyumu\, Sinop
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523896.ht
  ml
@@ -287,8 +277,7 @@ DTSTAMP:20260605T173000Z
 DTSTART:20260605T173000Z
 DTEND:20260605T193000Z
 SUMMARY:Schweiz – Malta 6:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:AIL Arena\, Lugano
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523921.ht
  ml
@@ -299,8 +288,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Nordirland – Schweiz 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Mourneview Park\, Lurgan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523946.ht
  ml
@@ -311,7 +299,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Israel – Schweiz
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557250.ht
  ml
 END:VEVENT
@@ -321,7 +309,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Schweiz – Israel
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557271.ht
  ml
 END:VEVENT

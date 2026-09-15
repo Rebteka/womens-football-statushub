@@ -13,7 +13,7 @@ DTSTAMP:20260502T113000Z
 DTSTART:20260502T113000Z
 DTEND:20260502T133000Z
 SUMMARY:North Korea U17 – Chinese Taipei U17 10:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543547.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260505T113000Z
 DTSTART:20260505T113000Z
 DTEND:20260505T133000Z
 SUMMARY:Philippines U17 – North Korea U17 0:8
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543539.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20260508T113000Z
 DTSTART:20260508T113000Z
 DTEND:20260508T133000Z
 SUMMARY:North Korea U17 – South Korea U17 3:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543542.ht
  ml
 END:VEVENT
@@ -43,7 +43,7 @@ DTSTAMP:20260511T113000Z
 DTSTART:20260511T113000Z
 DTEND:20260511T133000Z
 SUMMARY:North Korea U17 – Thailand U17 6:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Viertelfinale
+DESCRIPTION:AFC U17 Asien-Cup · Viertelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544656.ht
  ml
 END:VEVENT
@@ -53,7 +53,7 @@ DTSTAMP:20260514T113000Z
 DTSTART:20260514T113000Z
 DTEND:20260514T133000Z
 SUMMARY:China PR U17 – North Korea U17 2:4
-DESCRIPTION:AFC U17 Asian Cup - Women · Halbfinale
+DESCRIPTION:AFC U17 Asien-Cup · Halbfinale
 LOCATION:Suzhou Sports Centre\, Suzhou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544862.ht
  ml
@@ -64,7 +64,7 @@ DTSTAMP:20260517T113000Z
 DTSTART:20260517T113000Z
 DTEND:20260517T133000Z
 SUMMARY:North Korea U17 – Japan U17 5:1
-DESCRIPTION:AFC U17 Asian Cup - Women · Finale
+DESCRIPTION:AFC U17 Asien-Cup · Finale
 LOCATION:Suzhou Sports Centre\, Suzhou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1545170.ht
  ml
@@ -75,7 +75,7 @@ DTSTAMP:20261017T140000Z
 DTSTART:20261017T140000Z
 DTEND:20261017T160000Z
 SUMMARY:North Korea U17 – Puerto Rico W U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546122.ht
  ml
 END:VEVENT
@@ -85,7 +85,7 @@ DTSTAMP:20261020T140000Z
 DTSTART:20261020T140000Z
 DTEND:20261020T160000Z
 SUMMARY:North Korea U17 – Poland U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546131.ht
  ml
 END:VEVENT
@@ -95,7 +95,7 @@ DTSTAMP:20261023T140000Z
 DTSTART:20261023T140000Z
 DTEND:20261023T160000Z
 SUMMARY:Nigeria U17 – North Korea U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1586117.ht
  ml
 END:VEVENT

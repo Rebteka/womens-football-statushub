@@ -13,8 +13,7 @@ DTSTAMP:20240405T143000Z
 DTSTART:20240405T143000Z
 DTEND:20240405T163000Z
 SUMMARY:Latvia – North Macedonia 3:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:LNK Sporta Parks\, Riga
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193203.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T130000Z
 DTSTART:20240409T130000Z
 DTEND:20240409T150000Z
 SUMMARY:North Macedonia – Slovenia 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193208.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T150000Z
 DTSTART:20240531T150000Z
 DTEND:20240531T170000Z
 SUMMARY:North Macedonia – Moldova 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193220.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T160000Z
 DTSTART:20240604T160000Z
 DTEND:20240604T180000Z
 SUMMARY:Moldova – North Macedonia 2:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 LOCATION:Stadionul Zimbru\, Chişinău
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193228.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T170000Z
 DTSTART:20240712T170000Z
 DTEND:20240712T190000Z
 SUMMARY:North Macedonia – Latvia 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193237.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Slovenia – North Macedonia 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:Športni Park Aluminij\, Kidričevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193246.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T130000Z
 DTSTART:20250221T130000Z
 DTEND:20250221T150000Z
 SUMMARY:North Macedonia – Kosovo 0:4
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315861.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250404T130000Z
 DTSTART:20250404T130000Z
 DTEND:20250404T150000Z
 SUMMARY:North Macedonia – Latvia 1:2
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315879.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250408T120000Z
 DTSTART:20250408T120000Z
 DTEND:20250408T140000Z
 SUMMARY:Kosovo – North Macedonia 3:0
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315888.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250530T160000Z
 DTSTART:20250530T160000Z
 DTEND:20250530T180000Z
 SUMMARY:Latvia – North Macedonia 1:1
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:LNK Sporta Parks\, Riga
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315897.ht
  ml
@@ -129,8 +123,7 @@ DTSTAMP:20260303T110000Z
 DTSTART:20260303T110000Z
 DTEND:20260303T130000Z
 SUMMARY:Azerbaijan – North Macedonia 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Dalga Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523832.ht
  ml
@@ -141,8 +134,7 @@ DTSTAMP:20260307T140000Z
 DTSTART:20260307T140000Z
 DTEND:20260307T160000Z
 SUMMARY:North Macedonia – Andorra 3:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Stadion Petar Milosevski\, Bitola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523857.ht
  ml
@@ -153,8 +145,7 @@ DTSTAMP:20260414T140000Z
 DTSTART:20260414T140000Z
 DTEND:20260414T160000Z
 SUMMARY:North Macedonia – Hungary 0:5
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Stadion Petar Milosevski\, Bitola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523881.ht
  ml
@@ -165,8 +156,7 @@ DTSTAMP:20260418T130000Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Hungary – North Macedonia 7:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Pancho Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523906.ht
  ml
@@ -177,8 +167,7 @@ DTSTAMP:20260605T173000Z
 DTSTART:20260605T173000Z
 DTEND:20260605T193000Z
 SUMMARY:Andorra – North Macedonia 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Estadi Nacional\, Andorra la Vella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523932.ht
  ml
@@ -189,8 +178,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:North Macedonia – Azerbaijan 1:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Stadion Petar Milosevski\, Bitola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523957.ht
  ml

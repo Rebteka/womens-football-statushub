@@ -13,8 +13,7 @@ DTSTAMP:20230403T000000Z
 DTSTART:20230403T000000Z
 DTEND:20230403T020000Z
 SUMMARY:Nepal – Palestine
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007657.ht
  ml
 STATUS:CANCELLED
@@ -25,8 +24,7 @@ DTSTAMP:20230405T000000Z
 DTSTART:20230405T000000Z
 DTEND:20230405T020000Z
 SUMMARY:Nepal – Afghanistan
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007668.ht
  ml
 STATUS:CANCELLED
@@ -37,8 +35,7 @@ DTSTAMP:20230405T121500Z
 DTSTART:20230405T121500Z
 DTEND:20230405T141500Z
 SUMMARY:Nepal – Vietnam 1:5
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 1. Spieltag
 LOCATION:Dashrath Rangasala\, Kathmandu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1017017.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20230408T121500Z
 DTSTART:20230408T121500Z
 DTEND:20230408T141500Z
 SUMMARY:Vietnam – Nepal 2:0
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 2. Spieltag
 LOCATION:Dashrath Rangasala\, Kathmandu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007680.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20250629T123000Z
 DTSTART:20250629T123000Z
 DTEND:20250629T143000Z
 SUMMARY:Nepal – Laos 9:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372390.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20250702T123000Z
 DTSTART:20250702T123000Z
 DTEND:20250702T143000Z
 SUMMARY:Sri Lanka – Nepal 0:8
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372405.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20250705T153000Z
 DTSTART:20250705T153000Z
 DTEND:20250705T173000Z
 SUMMARY:Uzbekistan – Nepal 3:3
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372421.ht
  ml
@@ -97,7 +90,8 @@ DTSTAMP:20260412T090000Z
 DTSTART:20260412T090000Z
 DTEND:20260412T110000Z
 SUMMARY:Nepal – Congo DR
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526983.ht
  ml
 STATUS:CANCELLED

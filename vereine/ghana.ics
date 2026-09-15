@@ -13,7 +13,7 @@ DTSTAMP:20230714T000000Z
 DTSTART:20230714T000000Z
 DTEND:20230714T020000Z
 SUMMARY:Guinea – Ghana 0:3
-DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 1st Round
 LOCATION:Stade Général Lansana Conté\, Conakry
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140654.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230718T000000Z
 DTSTART:20230718T000000Z
 DTEND:20230718T020000Z
 SUMMARY:Ghana – Guinea 4:0
-DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 1st Round
 LOCATION:Ohene Djan Sports Stadium\, Accra
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140655.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20231027T160000Z
 DTSTART:20231027T160000Z
 DTEND:20231027T180000Z
 SUMMARY:Benin – Ghana 0:3
-DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 2nd Round
 LOCATION:Stade de l'Amitié\, Cotonou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140638.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20231031T153000Z
 DTSTART:20231031T153000Z
 DTEND:20231031T173000Z
 SUMMARY:Ghana – Benin 2:0
-DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 2nd Round
 LOCATION:Ohene Djan Sports Stadium\, Accra
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140639.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20240223T170000Z
 DTSTART:20240223T170000Z
 DTEND:20240223T190000Z
 SUMMARY:Ghana – Zambia 0:1
-DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 3rd Round
 LOCATION:Ohene Djan Sports Stadium\, Accra
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140986.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20240228T160000Z
 DTSTART:20240228T160000Z
 DTEND:20240228T180000Z
 SUMMARY:Zambia – Ghana 3:3
-DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 3rd Round
 LOCATION:Levy Mwanawasa Stadium\, Ndola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140987.ht
  ml
@@ -79,7 +79,8 @@ DTSTAMP:20260228T120000Z
 DTSTART:20260228T120000Z
 DTEND:20260228T140000Z
 SUMMARY:Ghana – Hong Kong 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526957.ht
  ml
 END:VEVENT
@@ -89,7 +90,8 @@ DTSTAMP:20260303T120000Z
 DTSTART:20260303T120000Z
 DTEND:20260303T140000Z
 SUMMARY:Ghana – Russland 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526967.ht
  ml
 END:VEVENT
@@ -99,7 +101,8 @@ DTSTAMP:20260306T170000Z
 DTSTART:20260306T170000Z
 DTEND:20260306T190000Z
 SUMMARY:Ghana – Tanzania
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526975.ht
  ml
 STATUS:CANCELLED
@@ -110,7 +113,8 @@ DTSTAMP:20260417T173000Z
 DTSTART:20260417T173000Z
 DTEND:20260417T193000Z
 SUMMARY:Morocco – Ghana
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540264.ht
  ml
 STATUS:CANCELLED
@@ -121,7 +125,8 @@ DTSTAMP:20260606T120000Z
 DTSTART:20260606T120000Z
 DTEND:20260606T140000Z
 SUMMARY:Malawi – Ghana
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546835.ht
  ml
 STATUS:CANCELLED
@@ -132,7 +137,8 @@ DTSTAMP:20260714T170000Z
 DTSTART:20260714T170000Z
 DTEND:20260714T190000Z
 SUMMARY:Ivory Coast – Ghana 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1595468.ht
  ml
 END:VEVENT
@@ -142,7 +148,8 @@ DTSTAMP:20260720T170000Z
 DTSTART:20260720T170000Z
 DTEND:20260720T190000Z
 SUMMARY:Ghana – Tanzania 0:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1604184.ht
  ml
 END:VEVENT
@@ -152,7 +159,8 @@ DTSTAMP:20260723T180000Z
 DTSTART:20260723T180000Z
 DTEND:20260723T200000Z
 SUMMARY:Malawi – Ghana 0:4
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1604191.ht
  ml
 END:VEVENT
@@ -162,7 +170,7 @@ DTSTAMP:20260729T170000Z
 DTSTART:20260729T170000Z
 DTEND:20260729T190000Z
 SUMMARY:Ghana – Cape Verde 2:0
-DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
 LOCATION:Moulay Rachid Stadium\, Casablanca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1600204.ht
  ml
@@ -173,7 +181,7 @@ DTSTAMP:20260802T170000Z
 DTSTART:20260802T170000Z
 DTEND:20260802T190000Z
 SUMMARY:Ghana – Cameroon 0:1
-DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
 LOCATION:Moulay Rachid Stadium\, Casablanca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1600212.ht
  ml
@@ -184,7 +192,7 @@ DTSTAMP:20260806T200000Z
 DTSTART:20260806T200000Z
 DTEND:20260806T220000Z
 SUMMARY:Mali – Ghana 1:1
-DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
 LOCATION:Moulay Rachid Stadium\, Casablanca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1600221.ht
  ml
@@ -195,7 +203,7 @@ DTSTAMP:20260809T200000Z
 DTSTART:20260809T200000Z
 DTEND:20260809T220000Z
 SUMMARY:Malawi – Ghana 2:1
-DESCRIPTION:Africa Cup of Nations - Women · Viertelfinale
+DESCRIPTION:Afrika-Cup (WAFCON) · Viertelfinale
 LOCATION:Al Medina Stadium\, Rabat
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612528.ht
  ml
@@ -206,7 +214,7 @@ DTSTAMP:20260813T170000Z
 DTSTART:20260813T170000Z
 DTEND:20260813T190000Z
 SUMMARY:Ivory Coast – Ghana 1:2
-DESCRIPTION:Africa Cup of Nations - Women · Finale
+DESCRIPTION:Afrika-Cup (WAFCON) · Finale
 LOCATION:Stade Larbi Zaouli\, Casablanca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1619532.ht
  ml
@@ -217,8 +225,8 @@ DTSTAMP:20261128T140000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Ghana – Ecuador
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Aufstiegsrunde · 1. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
+  1. Spieltag · Anstosszeit noch offen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638242.ht
  ml
 END:VEVENT
@@ -228,8 +236,8 @@ DTSTAMP:20261201T140000Z
 DTSTART:20261201T140000Z
 DTEND:20261201T160000Z
 SUMMARY:Uzbekistan – Ghana
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Aufstiegsrunde · 2. Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
+  2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638246.ht
  ml
 END:VEVENT
@@ -239,8 +247,8 @@ DTSTAMP:20261205T140000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Papua New Guinea – Ghana
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Aufstiegsrunde · 3. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
+  3. Spieltag · Anstosszeit noch offen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638248.ht
  ml
 END:VEVENT

@@ -13,7 +13,7 @@ DTSTAMP:20251221T133000Z
 DTSTART:20251221T133000Z
 DTEND:20251221T153000Z
 SUMMARY:Cesena – Juventus 1:7
-DESCRIPTION:Coppa Italia Women · Achtelfinale
+DESCRIPTION:Coppa Italia · Achtelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1480946.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260122T170000Z
 DTSTART:20260122T170000Z
 DTEND:20260122T190000Z
 SUMMARY:Napoli – Juventus 1:2
-DESCRIPTION:Coppa Italia Women · Viertelfinale
+DESCRIPTION:Coppa Italia · Viertelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514288.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20260129T193000Z
 DTSTART:20260129T193000Z
 DTEND:20260129T213000Z
 SUMMARY:Juventus – Napoli 2:1
-DESCRIPTION:Coppa Italia Women · Viertelfinale
+DESCRIPTION:Coppa Italia · Viertelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514292.ht
  ml
 END:VEVENT
@@ -43,7 +43,7 @@ DTSTAMP:20260311T170000Z
 DTSTART:20260311T170000Z
 DTEND:20260311T190000Z
 SUMMARY:Fiorentina – Juventus 0:2
-DESCRIPTION:Coppa Italia Women · Halbfinale
+DESCRIPTION:Coppa Italia · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1538184.ht
  ml
 END:VEVENT
@@ -53,7 +53,7 @@ DTSTAMP:20260329T160000Z
 DTSTART:20260329T160000Z
 DTEND:20260329T180000Z
 SUMMARY:Juventus – Fiorentina 2:1
-DESCRIPTION:Coppa Italia Women · Halbfinale
+DESCRIPTION:Coppa Italia · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1538187.ht
  ml
 END:VEVENT
@@ -63,7 +63,7 @@ DTSTAMP:20260524T160000Z
 DTSTART:20260524T160000Z
 DTEND:20260524T180000Z
 SUMMARY:Juventus – Roma 0:1
-DESCRIPTION:Coppa Italia Women · Finale
+DESCRIPTION:Coppa Italia · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542084.ht
  ml
 END:VEVENT
@@ -97,7 +97,7 @@ DTSTAMP:20260821T160000Z
 DTSTART:20260821T160000Z
 DTEND:20260821T180000Z
 SUMMARY:Como 1907 – Juventus 0:2
-DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582312.ht
  ml
@@ -119,7 +119,7 @@ DTSTAMP:20260829T160000Z
 DTSTART:20260829T160000Z
 DTEND:20260829T180000Z
 SUMMARY:Juventus – Como 1:0
-DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
 LOCATION:Stadio Vittorio Pozzo\, Biella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582321.ht
  ml
@@ -141,7 +141,7 @@ DTSTAMP:20260906T103000Z
 DTSTART:20260906T103000Z
 DTEND:20260906T123000Z
 SUMMARY:Juventus – AC Milan 1:0
-DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
 LOCATION:Stadio Vittorio Pozzo\, Biella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582326.ht
  ml
@@ -152,7 +152,7 @@ DTSTAMP:20260912T183000Z
 DTSTART:20260912T183000Z
 DTEND:20260912T203000Z
 SUMMARY:Juventus – Inter Mailand 1:0
-DESCRIPTION:Serie A Cup Women · Halbfinale
+DESCRIPTION:Serie A Cup · Halbfinale
 LOCATION:Stadio Vittorio Pozzo\, Biella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638664.ht
  ml
@@ -163,7 +163,7 @@ DTSTAMP:20260919T160000Z
 DTSTART:20260919T160000Z
 DTEND:20260919T180000Z
 SUMMARY:Roma – Juventus
-DESCRIPTION:Serie A Cup Women · Finale
+DESCRIPTION:Serie A Cup · Finale
 LOCATION:Stadio dei Pini\, Viareggio
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639485.ht
  ml

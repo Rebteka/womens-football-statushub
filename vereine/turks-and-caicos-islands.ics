@@ -13,8 +13,7 @@ DTSTAMP:20230922T000000Z
 DTSTART:20230922T000000Z
 DTEND:20230922T020000Z
 SUMMARY:Bonaire – Turks and Caicos Islands 0:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 1. Spieltag
 LOCATION:Stadion Antonio Trenidat\, Rincon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140543.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230925T000000Z
 DTSTART:20230925T000000Z
 DTEND:20230925T020000Z
 SUMMARY:Turks and Caicos Islands – Aruba 0:5
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 2. Spieltag
 LOCATION:TCIFA National Stadium\, Providenciales
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140546.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20231026T200000Z
 DTSTART:20231026T200000Z
 DTEND:20231026T220000Z
 SUMMARY:Turks and Caicos Islands – Belize 0:6
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 3. Spieltag
 LOCATION:TCIFA National Stadium\, Providenciales
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140552.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20231031T013000Z
 DTSTART:20231031T013000Z
 DTEND:20231031T033000Z
 SUMMARY:Belize – Turks and Caicos Islands 3:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 4. Spieltag
 LOCATION:FFB Field\, Belmopán
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140561.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20231130T190000Z
 DTSTART:20231130T190000Z
 DTEND:20231130T210000Z
 SUMMARY:Aruba – Turks and Caicos Islands 8:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 5. Spieltag
 LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140564.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20231204T210000Z
 DTSTART:20231204T210000Z
 DTEND:20231204T230000Z
 SUMMARY:Turks and Caicos Islands – Bonaire 0:2
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 6. Spieltag
 LOCATION:TCIFA National Stadium\, Providenciales
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140571.ht
  ml
@@ -85,7 +79,8 @@ DTSTAMP:20260409T160000Z
 DTSTART:20260409T160000Z
 DTEND:20260409T180000Z
 SUMMARY:Pakistan – Turks and Caicos Islands 8:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526979.ht
  ml
@@ -96,7 +91,8 @@ DTSTAMP:20260412T193000Z
 DTSTART:20260412T193000Z
 DTEND:20260412T213000Z
 SUMMARY:Turks and Caicos Islands – Ivory Coast 1:15
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526985.ht
  ml
@@ -107,7 +103,8 @@ DTSTAMP:20260416T160000Z
 DTSTART:20260416T160000Z
 DTEND:20260416T180000Z
 SUMMARY:Turks and Caicos Islands – Mauritania 0:6
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526988.ht
  ml

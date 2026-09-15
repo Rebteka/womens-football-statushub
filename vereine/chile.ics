@@ -13,7 +13,7 @@ DTSTAMP:20250712T210000Z
 DTSTART:20250712T210000Z
 DTEND:20250712T230000Z
 SUMMARY:Peru – Chile 0:3
-DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+DESCRIPTION:Copa América Femenina · 1st Round · 1. Spieltag
 LOCATION:Estadio Banco Guayaquil\, Quito
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1327491.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20250719T000000Z
 DTSTART:20250719T000000Z
 DTEND:20250719T020000Z
 SUMMARY:Argentina – Chile 2:1
-DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+DESCRIPTION:Copa América Femenina · 1st Round · 1. Spieltag
 LOCATION:Estadio Banco Guayaquil\, Quito
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1327498.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20250722T000000Z
 DTSTART:20250722T000000Z
 DTEND:20250722T020000Z
 SUMMARY:Chile – Ecuador 2:1
-DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+DESCRIPTION:Copa América Femenina · 1st Round · 2. Spieltag
 LOCATION:Estadio Banco Guayaquil\, Quito
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1327502.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20250725T000000Z
 DTSTART:20250725T000000Z
 DTEND:20250725T020000Z
 SUMMARY:Chile – Uruguay 0:3
-DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+DESCRIPTION:Copa América Femenina · 1st Round · 2. Spieltag
 LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1327507.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20250728T210000Z
 DTSTART:20250728T210000Z
 DTEND:20250728T230000Z
 SUMMARY:Chile – Paraguay 0:1
-DESCRIPTION:Copa America Femenina · 5th Place Finale
+DESCRIPTION:Copa América Femenina · 5th Place Finale
 LOCATION:Estadio Banco Guayaquil\, Quito
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1414159.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20251024T210000Z
 DTSTART:20251024T210000Z
 DTEND:20251024T230000Z
 SUMMARY:Venezuela – Chile 0:0
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483014.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20251028T210000Z
 DTSTART:20251028T210000Z
 DTEND:20251028T230000Z
 SUMMARY:Chile – Bolivia 5:0
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 2. Spieltag
 LOCATION:Estadio El Teniente\, Rancagua
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483017.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20251128T210000Z
 DTSTART:20251128T210000Z
 DTEND:20251128T230000Z
 SUMMARY:Peru – Chile 3:1
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 3. Spieltag
 LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483024.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20251202T230000Z
 DTSTART:20251202T230000Z
 DTEND:20251203T010000Z
 SUMMARY:Chile – Paraguay 1:0
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 4. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 4. Spieltag
 LOCATION:Estadio El Teniente\, Rancagua
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483026.ht
  ml
@@ -112,7 +112,8 @@ DTSTAMP:20260128T030000Z
 DTSTART:20260128T030000Z
 DTEND:20260128T050000Z
 SUMMARY:USA – Chile 5:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Harder Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1503002.ht
  ml
@@ -123,7 +124,8 @@ DTSTAMP:20260304T220000Z
 DTSTART:20260304T220000Z
 DTEND:20260305T000000Z
 SUMMARY:Paraguay – Chile 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526973.ht
  ml
@@ -134,7 +136,8 @@ DTSTAMP:20260307T220000Z
 DTSTART:20260307T220000Z
 DTEND:20260308T000000Z
 SUMMARY:Paraguay – Chile 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526978.ht
  ml
@@ -145,7 +148,7 @@ DTSTAMP:20260411T000000Z
 DTSTART:20260411T000000Z
 DTEND:20260411T020000Z
 SUMMARY:Chile – Argentina 0:1
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 5. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483029.ht
  ml
 END:VEVENT
@@ -155,7 +158,7 @@ DTSTAMP:20260415T010000Z
 DTSTART:20260415T010000Z
 DTEND:20260415T030000Z
 SUMMARY:Kolumbien – Chile 2:0
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 6. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483034.ht
  ml
 END:VEVENT
@@ -165,7 +168,7 @@ DTSTAMP:20260418T210000Z
 DTSTART:20260418T210000Z
 DTEND:20260418T230000Z
 SUMMARY:Uruguay – Chile 1:3
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 7. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 7. Spieltag
 LOCATION:Estadio Centenario\, Montevideo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483039.ht
  ml
@@ -176,7 +179,7 @@ DTSTAMP:20260605T230000Z
 DTSTART:20260605T230000Z
 DTEND:20260606T010000Z
 SUMMARY:Chile – Ecuador 1:2
-DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 8. Spieltag
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483043.ht
  ml
 END:VEVENT

@@ -1,0 +1,395 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CONMEBOL U17 2025
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1366989@anstoss
+DTSTAMP:20250430T213000Z
+DTSTART:20250430T213000Z
+DTEND:20250430T233000Z
+SUMMARY:Venezuela U17 – Chile U17 2:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366990@anstoss
+DTSTAMP:20250501T000000Z
+DTSTART:20250501T000000Z
+DTEND:20250501T020000Z
+SUMMARY:Colombia U17 – Argentina U17 2:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366991@anstoss
+DTSTAMP:20250501T213000Z
+DTSTART:20250501T213000Z
+DTEND:20250501T233000Z
+SUMMARY:Bolivia U17 – Uruguay U17 0:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366992@anstoss
+DTSTAMP:20250502T000000Z
+DTSTART:20250502T000000Z
+DTEND:20250502T020000Z
+SUMMARY:Brazil U17 – Peru U17 2:0
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366993@anstoss
+DTSTAMP:20250502T213000Z
+DTSTART:20250502T213000Z
+DTEND:20250502T233000Z
+SUMMARY:Argentina U17 – Paraguay U17 0:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366994@anstoss
+DTSTAMP:20250503T000000Z
+DTSTART:20250503T000000Z
+DTEND:20250503T020000Z
+SUMMARY:Venezuela U17 – Colombia U17 0:3
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366994.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366995@anstoss
+DTSTAMP:20250503T213000Z
+DTSTART:20250503T213000Z
+DTEND:20250503T233000Z
+SUMMARY:Peru U17 – Ecuador U17 1:3
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366996@anstoss
+DTSTAMP:20250504T000000Z
+DTSTART:20250504T000000Z
+DTEND:20250504T020000Z
+SUMMARY:Bolivia U17 – Brazil U17 0:5
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366997@anstoss
+DTSTAMP:20250504T213000Z
+DTSTART:20250504T213000Z
+DTEND:20250504T233000Z
+SUMMARY:Paraguay U17 – Chile U17 2:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366997.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366998@anstoss
+DTSTAMP:20250505T000000Z
+DTSTART:20250505T000000Z
+DTEND:20250505T020000Z
+SUMMARY:Argentina U17 – Venezuela U17 0:0
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366999@anstoss
+DTSTAMP:20250505T213000Z
+DTSTART:20250505T213000Z
+DTEND:20250505T233000Z
+SUMMARY:Peru U17 – Bolivia U17 3:1
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367000@anstoss
+DTSTAMP:20250506T000000Z
+DTSTART:20250506T000000Z
+DTEND:20250506T020000Z
+SUMMARY:Ecuador U17 – Uruguay U17 2:0
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367001@anstoss
+DTSTAMP:20250506T213000Z
+DTSTART:20250506T213000Z
+DTEND:20250506T233000Z
+SUMMARY:Paraguay U17 – Venezuela U17 1:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367002@anstoss
+DTSTAMP:20250507T000000Z
+DTSTART:20250507T000000Z
+DTEND:20250507T020000Z
+SUMMARY:Chile U17 – Colombia U17 1:0
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367003@anstoss
+DTSTAMP:20250507T213000Z
+DTSTART:20250507T213000Z
+DTEND:20250507T233000Z
+SUMMARY:Ecuador U17 – Bolivia U17 8:0
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367003.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367004@anstoss
+DTSTAMP:20250508T000000Z
+DTSTART:20250508T000000Z
+DTEND:20250508T020000Z
+SUMMARY:Uruguay U17 – Brazil U17 0:1
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367007@anstoss
+DTSTAMP:20250509T213000Z
+DTSTART:20250509T213000Z
+DTEND:20250509T233000Z
+SUMMARY:Uruguay U17 – Peru U17 1:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367008@anstoss
+DTSTAMP:20250509T213000Z
+DTSTART:20250509T213000Z
+DTEND:20250509T233000Z
+SUMMARY:Brazil U17 – Ecuador U17 5:1
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367006@anstoss
+DTSTAMP:20250510T000000Z
+DTSTART:20250510T000000Z
+DTEND:20250510T020000Z
+SUMMARY:Chile U17 – Argentina U17 1:2
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367005@anstoss
+DTSTAMP:20250510T000000Z
+DTSTART:20250510T000000Z
+DTEND:20250510T020000Z
+SUMMARY:Colombia U17 – Paraguay U17 1:1
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375082@anstoss
+DTSTAMP:20250512T200000Z
+DTSTART:20250512T200000Z
+DTEND:20250512T220000Z
+SUMMARY:Chile U17 – Ecuador U17 0:2
+DESCRIPTION:CONMEBOL U17 · Finale Round · 1. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375082.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375083@anstoss
+DTSTAMP:20250512T220000Z
+DTSTART:20250512T220000Z
+DTEND:20250513T000000Z
+SUMMARY:Brazil U17 – Paraguay U17 1:1
+DESCRIPTION:CONMEBOL U17 · Finale Round · 1. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375083.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375084@anstoss
+DTSTAMP:20250513T003000Z
+DTSTART:20250513T003000Z
+DTEND:20250513T023000Z
+SUMMARY:Colombia U17 – Peru U17 3:0
+DESCRIPTION:CONMEBOL U17 · Finale Round · 1. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375084.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375085@anstoss
+DTSTAMP:20250515T200000Z
+DTSTART:20250515T200000Z
+DTEND:20250515T220000Z
+SUMMARY:Paraguay U17 – Chile U17 1:1
+DESCRIPTION:CONMEBOL U17 · Finale Round · 2. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375085.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375086@anstoss
+DTSTAMP:20250515T223000Z
+DTSTART:20250515T223000Z
+DTEND:20250516T003000Z
+SUMMARY:Colombia U17 – Ecuador U17 0:0
+DESCRIPTION:CONMEBOL U17 · Finale Round · 2. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375086.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375087@anstoss
+DTSTAMP:20250516T003000Z
+DTSTART:20250516T003000Z
+DTEND:20250516T023000Z
+SUMMARY:Brazil U17 – Peru U17 4:0
+DESCRIPTION:CONMEBOL U17 · Finale Round · 2. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375087.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375088@anstoss
+DTSTAMP:20250518T200000Z
+DTSTART:20250518T200000Z
+DTEND:20250518T220000Z
+SUMMARY:Paraguay U17 – Peru U17 7:1
+DESCRIPTION:CONMEBOL U17 · Finale Round · 3. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375088.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375089@anstoss
+DTSTAMP:20250518T220000Z
+DTSTART:20250518T220000Z
+DTEND:20250519T000000Z
+SUMMARY:Chile U17 – Colombia U17 0:1
+DESCRIPTION:CONMEBOL U17 · Finale Round · 3. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375090@anstoss
+DTSTAMP:20250519T003000Z
+DTSTART:20250519T003000Z
+DTEND:20250519T023000Z
+SUMMARY:Ecuador U17 – Brazil U17 0:0
+DESCRIPTION:CONMEBOL U17 · Finale Round · 3. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375090.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375091@anstoss
+DTSTAMP:20250521T200000Z
+DTSTART:20250521T200000Z
+DTEND:20250521T220000Z
+SUMMARY:Peru U17 – Ecuador U17 1:4
+DESCRIPTION:CONMEBOL U17 · Finale Round · 4. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375091.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375092@anstoss
+DTSTAMP:20250521T223000Z
+DTSTART:20250521T223000Z
+DTEND:20250522T003000Z
+SUMMARY:Brazil U17 – Chile U17 2:2
+DESCRIPTION:CONMEBOL U17 · Finale Round · 4. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375092.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375093@anstoss
+DTSTAMP:20250522T003000Z
+DTSTART:20250522T003000Z
+DTEND:20250522T023000Z
+SUMMARY:Paraguay U17 – Colombia U17 1:0
+DESCRIPTION:CONMEBOL U17 · Finale Round · 4. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375093.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375094@anstoss
+DTSTAMP:20250524T203000Z
+DTSTART:20250524T203000Z
+DTEND:20250524T223000Z
+SUMMARY:Colombia U17 – Brazil U17 0:1
+DESCRIPTION:CONMEBOL U17 · Finale Round · 5. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375094.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375096@anstoss
+DTSTAMP:20250524T203000Z
+DTSTART:20250524T203000Z
+DTEND:20250524T223000Z
+SUMMARY:Peru U17 – Chile U17 0:3
+DESCRIPTION:CONMEBOL U17 · Finale Round · 5. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375096.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375095@anstoss
+DTSTAMP:20250524T230000Z
+DTSTART:20250524T230000Z
+DTEND:20250525T010000Z
+SUMMARY:Ecuador U17 – Paraguay U17 0:1
+DESCRIPTION:CONMEBOL U17 · Finale Round · 5. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375095.ht
+ ml
+END:VEVENT
+END:VCALENDAR

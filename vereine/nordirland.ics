@@ -13,8 +13,7 @@ DTSTAMP:20240405T180000Z
 DTSTART:20240405T180000Z
 DTEND:20240405T200000Z
 SUMMARY:Nordirland – Malta 0:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Windsor Park\, Belfast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193156.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T133000Z
 DTSTART:20240409T133000Z
 DTEND:20240409T153000Z
 SUMMARY:Bosnia-Herzegovina – Nordirland 1:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193161.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T194500Z
 DTSTART:20240531T194500Z
 DTEND:20240531T214500Z
 SUMMARY:Portugal – Nordirland 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:Estádio Dr. Magalhães Pessoa\, Leiria
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193174.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T180000Z
 DTSTART:20240604T180000Z
 DTEND:20240604T200000Z
 SUMMARY:Nordirland – Portugal 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:Mourneview Park\, Lurgan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193179.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T173000Z
 DTSTART:20240712T173000Z
 DTEND:20240712T193000Z
 SUMMARY:Malta – Nordirland 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:MFA Centenary Stadium\, Ta'Qali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193188.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Nordirland – Bosnia-Herzegovina 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Windsor Park\, Belfast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193196.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T170000Z
 DTSTART:20241025T170000Z
 DTEND:20241025T190000Z
 SUMMARY:Croatia – Nordirland 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Stadion Anđelko Herjavec\, Varaždin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252903.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T190000Z
 DTSTART:20241029T190000Z
 DTEND:20241029T210000Z
 SUMMARY:Nordirland – Croatia 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Windsor Park\, Belfast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252904.ht
  ml
@@ -109,8 +101,7 @@ DTSTAMP:20241129T190000Z
 DTSTART:20241129T190000Z
 DTEND:20241129T210000Z
 SUMMARY:Nordirland – Norwegen 0:4
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Inver Park\, Larne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314227.ht
  ml
@@ -121,8 +112,7 @@ DTSTAMP:20241203T170000Z
 DTSTART:20241203T170000Z
 DTEND:20241203T190000Z
 SUMMARY:Norwegen – Nordirland 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Ullevaal Stadion\, Oslo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314228.ht
  ml
@@ -133,7 +123,7 @@ DTSTAMP:20250221T194500Z
 DTSTART:20250221T194500Z
 DTEND:20250221T214500Z
 SUMMARY:Polen – Nordirland 2:0
-DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 1. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315806.ht
  ml
@@ -144,7 +134,7 @@ DTSTAMP:20250225T190000Z
 DTSTART:20250225T190000Z
 DTEND:20250225T210000Z
 SUMMARY:Nordirland – Bosnia-Herzegovina 3:2
-DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 2. Spieltag
 LOCATION:Inver Park\, Larne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315813.ht
  ml
@@ -155,7 +145,7 @@ DTSTAMP:20250404T160000Z
 DTSTART:20250404T160000Z
 DTEND:20250404T180000Z
 SUMMARY:Rumänien – Nordirland 1:1
-DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 3. Spieltag
 LOCATION:Stadionul Arcul de Triumf\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315822.ht
  ml
@@ -166,7 +156,7 @@ DTSTAMP:20250408T180000Z
 DTSTART:20250408T180000Z
 DTEND:20250408T200000Z
 SUMMARY:Nordirland – Rumänien 1:0
-DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 4. Spieltag
 LOCATION:Windsor Park\, Belfast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315830.ht
  ml
@@ -177,7 +167,7 @@ DTSTAMP:20250530T180000Z
 DTSTART:20250530T180000Z
 DTEND:20250530T200000Z
 SUMMARY:Nordirland – Polen 0:4
-DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 5. Spieltag
 LOCATION:Seaview\, Belfast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315837.ht
  ml
@@ -188,7 +178,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Bosnia-Herzegovina – Nordirland 1:1
-DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 6. Spieltag
 LOCATION:FF BH Football Training Centre\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315845.ht
  ml
@@ -199,7 +189,7 @@ DTSTAMP:20251024T180000Z
 DTSTART:20251024T180000Z
 DTEND:20251024T200000Z
 SUMMARY:Nordirland – Island 0:2
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Ballymena Showgrounds\, Ballymena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478113.ht
  ml
@@ -210,7 +200,7 @@ DTSTAMP:20251029T170000Z
 DTSTART:20251029T170000Z
 DTEND:20251029T190000Z
 SUMMARY:Island – Nordirland 3:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478121.ht
  ml
 END:VEVENT
@@ -220,8 +210,7 @@ DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z
 DTEND:20260303T200000Z
 SUMMARY:Schweiz – Nordirland 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Stade de la Tuiliere\, Lausanne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523821.ht
  ml
@@ -232,8 +221,7 @@ DTSTAMP:20260307T190000Z
 DTSTART:20260307T190000Z
 DTEND:20260307T210000Z
 SUMMARY:Nordirland – Turkey 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Mourneview Park\, Lurgan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523847.ht
  ml
@@ -244,8 +232,7 @@ DTSTAMP:20260414T180000Z
 DTSTART:20260414T180000Z
 DTEND:20260414T200000Z
 SUMMARY:Nordirland – Malta 4:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Mourneview Park\, Lurgan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523872.ht
  ml
@@ -256,8 +243,7 @@ DTSTAMP:20260418T170000Z
 DTSTART:20260418T170000Z
 DTEND:20260418T190000Z
 SUMMARY:Malta – Nordirland 2:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523897.ht
  ml
@@ -268,8 +254,7 @@ DTSTAMP:20260605T170000Z
 DTSTART:20260605T170000Z
 DTEND:20260605T190000Z
 SUMMARY:Turkey – Nordirland 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Pendik Stadyumu\, Istanbul
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523922.ht
  ml
@@ -280,8 +265,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Nordirland – Schweiz 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Mourneview Park\, Lurgan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523946.ht
  ml
@@ -292,7 +276,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Nordirland – Portugal
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557254.ht
  ml
 END:VEVENT
@@ -302,7 +286,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Portugal – Nordirland
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557266.ht
  ml
 END:VEVENT

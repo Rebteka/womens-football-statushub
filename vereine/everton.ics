@@ -13,7 +13,7 @@ DTSTAMP:20260115T193000Z
 DTSTART:20260115T193000Z
 DTEND:20260115T213000Z
 SUMMARY:West Bromwich Albion – Everton 0:5
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501239.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260222T163000Z
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
 SUMMARY:Liverpool – Everton 2:1
-DESCRIPTION:FA Women's Cup · Round 5
+DESCRIPTION:FA Cup · Round 5
 LOCATION:St Helens Stadium\, St Helens
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514957.ht
  ml
@@ -67,7 +67,7 @@ DTSTAMP:20260923T180000Z
 DTSTART:20260923T180000Z
 DTEND:20260923T200000Z
 SUMMARY:Everton – Birmingham City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Walton Hall Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612633.ht
  ml
@@ -111,7 +111,7 @@ DTSTAMP:20261021T180000Z
 DTSTART:20261021T180000Z
 DTEND:20261021T200000Z
 SUMMARY:Everton – Newcastle United
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Walton Hall Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612655.ht
  ml
@@ -133,7 +133,7 @@ DTSTAMP:20261028T190000Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Sheffield United – Everton
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Bramall Lane\, Sheffield
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612663.ht
  ml
@@ -166,7 +166,7 @@ DTSTAMP:20261111T190000Z
 DTSTART:20261111T190000Z
 DTEND:20261111T210000Z
 SUMMARY:Everton – Durham
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Walton Hall Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612674.ht
  ml
@@ -188,7 +188,7 @@ DTSTAMP:20261118T190000Z
 DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 SUMMARY:Manchester United – Everton
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Leigh Sports Village\, Leigh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612680.ht
  ml
@@ -221,7 +221,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Sunderland – Everton
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612699.ht
  ml

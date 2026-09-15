@@ -13,8 +13,7 @@ DTSTAMP:20230408T113000Z
 DTSTART:20230408T113000Z
 DTEND:20230408T133000Z
 SUMMARY:Indonesia – Lebanon 0:5
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 2. Spieltag
 LOCATION:Fouad Shehab Stadium\, Jounie
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007674.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230411T113000Z
 DTSTART:20230411T113000Z
 DTEND:20230411T133000Z
 SUMMARY:Chinese Taipei – Indonesia 4:0
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 3. Spieltag
 LOCATION:Fouad Shehab Stadium\, Jounie
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007686.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20250629T130000Z
 DTSTART:20250629T130000Z
 DTEND:20250629T150000Z
 SUMMARY:Indonesia – Kyrgyz Republic 1:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:Indomilk Arena\, Tangerang
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372386.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20250702T130000Z
 DTSTART:20250702T130000Z
 DTEND:20250702T150000Z
 SUMMARY:Pakistan – Indonesia 2:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:Indomilk Arena\, Tangerang
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372401.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20250705T130000Z
 DTSTART:20250705T130000Z
 DTEND:20250705T150000Z
 SUMMARY:Chinese Taipei – Indonesia 2:1
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:Indomilk Arena\, Tangerang
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372417.ht
  ml
@@ -73,7 +68,8 @@ DTSTAMP:20260411T120000Z
 DTSTART:20260411T120000Z
 DTEND:20260411T140000Z
 SUMMARY:Hong Kong – Indonesia
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539386.ht
  ml
 STATUS:CANCELLED
@@ -84,7 +80,8 @@ DTSTAMP:20260412T090000Z
 DTSTART:20260412T090000Z
 DTEND:20260412T110000Z
 SUMMARY:Indonesia – Congo DR 1:7
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540255.ht
  ml
 END:VEVENT
@@ -94,7 +91,8 @@ DTSTAMP:20260415T090000Z
 DTSTART:20260415T090000Z
 DTEND:20260415T110000Z
 SUMMARY:Indonesia – New Caledonia 4:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540593.ht
  ml
 END:VEVENT
@@ -104,7 +102,8 @@ DTSTAMP:20260603T120000Z
 DTSTART:20260603T120000Z
 DTEND:20260603T140000Z
 SUMMARY:Indonesia – Singapore 0:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546554.ht
  ml
 END:VEVENT
@@ -114,7 +113,8 @@ DTSTAMP:20260609T083000Z
 DTSTART:20260609T083000Z
 DTEND:20260609T103000Z
 SUMMARY:Indonesia – Cambodia 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1545736.ht
  ml
 END:VEVENT
@@ -124,7 +124,7 @@ DTSTAMP:20260710T084500Z
 DTSTART:20260710T084500Z
 DTEND:20260710T104500Z
 SUMMARY:Timor-Leste – Indonesia 0:2
-DESCRIPTION:Asean Championship Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:ASEAN-Meisterschaft · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1589173.ht
  ml
 END:VEVENT
@@ -134,7 +134,7 @@ DTSTAMP:20260716T084500Z
 DTSTART:20260716T084500Z
 DTEND:20260716T104500Z
 SUMMARY:Indonesia – Cambodia 1:1
-DESCRIPTION:Asean Championship Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:ASEAN-Meisterschaft · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1589178.ht
  ml
 END:VEVENT
@@ -144,7 +144,7 @@ DTSTAMP:20260719T124500Z
 DTSTART:20260719T124500Z
 DTEND:20260719T144500Z
 SUMMARY:Singapore – Indonesia 0:2
-DESCRIPTION:Asean Championship Women · Semi-final
+DESCRIPTION:ASEAN-Meisterschaft · Semi-final
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1595461.ht
  ml
 END:VEVENT
@@ -154,7 +154,7 @@ DTSTAMP:20260722T124500Z
 DTSTART:20260722T124500Z
 DTEND:20260722T144500Z
 SUMMARY:Laos – Indonesia 0:5
-DESCRIPTION:Asean Championship Women · Finale
+DESCRIPTION:ASEAN-Meisterschaft · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1605351.ht
  ml
 END:VEVENT
@@ -164,7 +164,8 @@ DTSTAMP:20261010T150000Z
 DTSTART:20261010T150000Z
 DTEND:20261010T170000Z
 SUMMARY:Indonesia – Armenia
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638735.ht
  ml
 END:VEVENT

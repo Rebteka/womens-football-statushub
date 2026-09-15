@@ -13,7 +13,7 @@ DTSTAMP:20240901T230000Z
 DTSTART:20240901T230000Z
 DTEND:20240902T010000Z
 SUMMARY:Nigeria U20 – Korea Republic U20 1:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205395.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20240905T010000Z
 DTSTART:20240905T010000Z
 DTEND:20240905T030000Z
 SUMMARY:Korea Republic U20 – Venezuela U20 0:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 2. Spieltag
 LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205407.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20240907T200000Z
 DTSTART:20240907T200000Z
 DTEND:20240907T220000Z
 SUMMARY:Korea Republic U20 – Germany U20 1:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 3. Spieltag
 LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205416.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20240912T010000Z
 DTSTART:20240912T010000Z
 DTEND:20240912T030000Z
 SUMMARY:Colombia U20 – Korea Republic U20 1:0
-DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+DESCRIPTION:U20-WM · Achtelfinale
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1304032.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20250806T090000Z
 DTSTART:20250806T090000Z
 DTEND:20250806T110000Z
 SUMMARY:Korea Republic U20 – Timor-Leste U20 9:0
-DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
 LOCATION:Lao National Stadium KM16\, Vientiane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1426547.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20250808T123000Z
 DTSTART:20250808T123000Z
 DTEND:20250808T143000Z
 SUMMARY:Laos U20 – Korea Republic U20 0:1
-DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
 LOCATION:Lao National Stadium KM16\, Vientiane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1424274.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20250810T090000Z
 DTSTART:20250810T090000Z
 DTEND:20250810T110000Z
 SUMMARY:Korea Republic U20 – Bangladesh U20 6:1
-DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
 LOCATION:Lao National Stadium KM16\, Vientiane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1424281.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20260402T090000Z
 DTSTART:20260402T090000Z
 DTEND:20260402T110000Z
 SUMMARY:Korea Republic U20 – Uzbekistan U20 2:0
-DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 1. Spieltag
 LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540458.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20260405T090000Z
 DTSTART:20260405T090000Z
 DTEND:20260405T110000Z
 SUMMARY:Jordan U20 – Korea Republic U20 1:2
-DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 2. Spieltag
 LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540464.ht
  ml
@@ -112,7 +112,7 @@ DTSTAMP:20260408T130000Z
 DTSTART:20260408T130000Z
 DTEND:20260408T150000Z
 SUMMARY:Korea DPR U20 – Korea Republic U20 5:0
-DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 3. Spieltag
 LOCATION:BG Stadium\, Pathum Thani
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540473.ht
  ml
@@ -123,7 +123,7 @@ DTSTAMP:20260412T130000Z
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
 SUMMARY:Thailand U20 – Korea Republic U20 1:2
-DESCRIPTION:AFC U20 Asian Cup - Women · Viertelfinale
+DESCRIPTION:AFC U20 Asien-Cup · Viertelfinale
 LOCATION:Thammasat Stadium\, Rangsit
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540455.ht
  ml
@@ -134,7 +134,7 @@ DTSTAMP:20260415T090000Z
 DTSTART:20260415T090000Z
 DTEND:20260415T110000Z
 SUMMARY:Korea DPR U20 – Korea Republic U20 3:0
-DESCRIPTION:AFC U20 Asian Cup - Women · Halbfinale
+DESCRIPTION:AFC U20 Asien-Cup · Halbfinale
 LOCATION:Thammasat Stadium\, Rangsit
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540474.ht
  ml
@@ -145,7 +145,8 @@ DTSTAMP:20260606T100000Z
 DTSTART:20260606T100000Z
 DTEND:20260606T120000Z
 SUMMARY:Brazil U20 – Korea Republic U20 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548472.ht
  ml
 END:VEVENT
@@ -155,7 +156,8 @@ DTSTAMP:20260609T100000Z
 DTSTART:20260609T100000Z
 DTEND:20260609T120000Z
 SUMMARY:Korea Republic U20 – Finland U23 1:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548485.ht
  ml
 END:VEVENT

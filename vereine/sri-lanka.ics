@@ -13,8 +13,7 @@ DTSTAMP:20230403T000000Z
 DTSTART:20230403T000000Z
 DTEND:20230403T020000Z
 SUMMARY:Thailand – Sri Lanka
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007658.ht
  ml
 STATUS:CANCELLED
@@ -25,8 +24,7 @@ DTSTAMP:20230405T000000Z
 DTSTART:20230405T000000Z
 DTEND:20230405T020000Z
 SUMMARY:Sri Lanka – Mongolia
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007670.ht
  ml
 STATUS:CANCELLED
@@ -37,8 +35,7 @@ DTSTAMP:20230408T000000Z
 DTSTART:20230408T000000Z
 DTEND:20230408T020000Z
 SUMMARY:Singapore – Sri Lanka
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007683.ht
  ml
 STATUS:CANCELLED
@@ -49,8 +46,7 @@ DTSTAMP:20250629T153000Z
 DTSTART:20250629T153000Z
 DTEND:20250629T173000Z
 SUMMARY:Uzbekistan – Sri Lanka 10:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372389.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20250702T123000Z
 DTSTART:20250702T123000Z
 DTEND:20250702T143000Z
 SUMMARY:Sri Lanka – Nepal 0:8
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372405.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20250705T123000Z
 DTSTART:20250705T123000Z
 DTEND:20250705T143000Z
 SUMMARY:Laos – Sri Lanka 2:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372422.ht
  ml
@@ -85,7 +79,8 @@ DTSTAMP:20260607T120000Z
 DTSTART:20260607T120000Z
 DTEND:20260607T140000Z
 SUMMARY:Saudi-Arabien – Sri Lanka 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548465.ht
  ml
 END:VEVENT

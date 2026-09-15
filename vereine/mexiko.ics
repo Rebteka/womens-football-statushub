@@ -13,8 +13,7 @@ DTSTAMP:20230923T000000Z
 DTSTART:20230923T000000Z
 DTEND:20230923T020000Z
 SUMMARY:Mexiko – Puerto Rico 2:1
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League A · 1. Spieltag
 LOCATION:Estadio Azteca\, D.F.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140523.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230927T000000Z
 DTSTART:20230927T000000Z
 DTEND:20230927T020000Z
 SUMMARY:Mexiko – Trinidad and Tobago 6:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League A · 2. Spieltag
 LOCATION:Estadio Hidalgo\, Pachuca de Soto
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140526.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20231202T000000Z
 DTSTART:20231202T000000Z
 DTEND:20231202T020000Z
 SUMMARY:Puerto Rico – Mexiko 0:3
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 4. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League A · 4. Spieltag
 LOCATION:Estadio Juán Rámon Loubriel\, Bayamón
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140532.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20231205T230000Z
 DTSTART:20231205T230000Z
 DTEND:20231206T010000Z
 SUMMARY:Trinidad and Tobago – Mexiko 0:1
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 3. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League A · 3. Spieltag
 LOCATION:Hasely Crawford Stadium\, Port of Spain
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140528.ht
  ml
@@ -61,7 +57,7 @@ DTSTAMP:20240221T003000Z
 DTSTART:20240221T003000Z
 DTEND:20240221T023000Z
 SUMMARY:Mexiko – Argentina 0:0
-DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
 LOCATION:Dignity Health Sports Park\, Carson\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1159528.ht
  ml
@@ -72,7 +68,7 @@ DTSTAMP:20240224T003000Z
 DTSTART:20240224T003000Z
 DTEND:20240224T023000Z
 SUMMARY:Dominican Republic – Mexiko 0:8
-DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
 LOCATION:Dignity Health Sports Park\, Carson\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1174964.ht
  ml
@@ -83,7 +79,7 @@ DTSTAMP:20240227T031500Z
 DTSTART:20240227T031500Z
 DTEND:20240227T051500Z
 SUMMARY:USA – Mexiko 0:2
-DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
 LOCATION:Dignity Health Sports Park\, Carson\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1159534.ht
  ml
@@ -94,7 +90,7 @@ DTSTAMP:20240303T220000Z
 DTSTART:20240303T220000Z
 DTEND:20240304T000000Z
 SUMMARY:Mexiko – Paraguay 3:2
-DESCRIPTION:CONCACAF Gold Cup - Women · Viertelfinale
+DESCRIPTION:CONCACAF W Gold Cup · Viertelfinale
 LOCATION:BMO Stadium\, Los Angeles\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1178662.ht
  ml
@@ -105,7 +101,7 @@ DTSTAMP:20240307T000000Z
 DTSTART:20240307T000000Z
 DTEND:20240307T020000Z
 SUMMARY:Brasilien – Mexiko 3:0
-DESCRIPTION:CONCACAF Gold Cup - Women · Halbfinale
+DESCRIPTION:CONCACAF W Gold Cup · Halbfinale
 LOCATION:Snapdragon Stadium\, San Diego\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1180890.ht
  ml
@@ -116,7 +112,7 @@ DTSTAMP:20251129T230000Z
 DTSTART:20251129T230000Z
 DTEND:20251130T010000Z
 SUMMARY:Barbados – Mexiko 0:14
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Arnos Vale Stadium\, Kingstown
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488276.ht
  ml
@@ -127,7 +123,7 @@ DTSTAMP:20260302T190000Z
 DTSTART:20260302T190000Z
 DTEND:20260302T210000Z
 SUMMARY:St. Lucia – Mexiko 0:7
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Daren Sammy Cricket Ground\, Gros Islet
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488294.ht
  ml
@@ -138,7 +134,8 @@ DTSTAMP:20260307T230000Z
 DTSTART:20260307T230000Z
 DTEND:20260308T010000Z
 SUMMARY:Mexiko – Brasilien 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Estadio Ciudad de los Deportes\, Mexico City
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1520293.ht
  ml
@@ -149,7 +146,7 @@ DTSTAMP:20260411T010000Z
 DTSTART:20260411T010000Z
 DTEND:20260411T030000Z
 SUMMARY:Mexiko – US Virgin Islands 9:0
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Estadio Carlos Vega Villalba\, Zacatecas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488308.ht
  ml
@@ -160,7 +157,7 @@ DTSTAMP:20260419T000000Z
 DTSTART:20260419T000000Z
 DTEND:20260419T020000Z
 SUMMARY:Mexiko – Puerto Rico 6:0
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488323.ht
  ml
 END:VEVENT
@@ -170,7 +167,8 @@ DTSTAMP:20260606T091500Z
 DTSTART:20260606T091500Z
 DTEND:20260606T111500Z
 SUMMARY:Australien – Mexiko 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:McDonald Jones Stadium\, Newcastle
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544316.ht
  ml
@@ -181,7 +179,8 @@ DTSTAMP:20260609T090000Z
 DTSTART:20260609T090000Z
 DTEND:20260609T110000Z
 SUMMARY:Australien – Mexiko 3:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:CommBank Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544317.ht
  ml
@@ -192,7 +191,8 @@ DTSTAMP:20261009T200000Z
 DTSTART:20261009T200000Z
 DTEND:20261009T220000Z
 SUMMARY:Jamaica – Mexiko
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638583.ht
  ml
 END:VEVENT
@@ -202,7 +202,8 @@ DTSTAMP:20261013T200000Z
 DTSTART:20261013T200000Z
 DTEND:20261013T220000Z
 SUMMARY:Jamaica – Mexiko
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638586.ht
  ml
 END:VEVENT
@@ -212,7 +213,7 @@ DTSTAMP:20261128T210000Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Mexiko – Haiti
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Viertelfinale
+DESCRIPTION:WM-Qualifikation CONCACAF · Viertelfinale
 LOCATION:Texas Health Mansfield Stadium\, Mansfield
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1550713.ht
  ml

@@ -13,8 +13,7 @@ DTSTAMP:20230405T120000Z
 DTSTART:20230405T120000Z
 DTEND:20230405T140000Z
 SUMMARY:Uzbekistan – Bhutan 9:0
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 1. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007652.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230408T100000Z
 DTSTART:20230408T100000Z
 DTEND:20230408T120000Z
 SUMMARY:Bhutan – Jordan 2:1
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 2. Spieltag
 LOCATION:Paxtakor Markaziy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007664.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20230411T100000Z
 DTSTART:20230411T100000Z
 DTEND:20230411T120000Z
 SUMMARY:Timor-Leste – Bhutan 1:3
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 3. Spieltag
 LOCATION:Paxtakor Markaziy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007677.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20250707T130000Z
 DTSTART:20250707T130000Z
 DTEND:20250707T150000Z
 SUMMARY:Bhutan – Singapore 3:2
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372380.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20250710T160000Z
 DTSTART:20250710T160000Z
 DTEND:20250710T180000Z
 SUMMARY:Bhutan – Lebanon 2:1
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372396.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20250713T130000Z
 DTSTART:20250713T130000Z
 DTEND:20250713T150000Z
 SUMMARY:Iran – Bhutan 7:1
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372411.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20250716T160000Z
 DTSTART:20250716T160000Z
 DTEND:20250716T180000Z
 SUMMARY:Jordan – Bhutan 3:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 4. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 4. Spieltag
 LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372427.ht
  ml
@@ -97,7 +90,8 @@ DTSTAMP:20260407T120000Z
 DTSTART:20260407T120000Z
 DTEND:20260407T140000Z
 SUMMARY:Bhutan – Macau 7:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539383.ht
  ml
 END:VEVENT

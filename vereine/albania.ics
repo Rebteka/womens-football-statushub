@@ -13,8 +13,7 @@ DTSTAMP:20240405T173000Z
 DTSTART:20240405T173000Z
 DTEND:20240405T193000Z
 SUMMARY:Luxembourg – Albania 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:Stade Émile Mayrisch\, Esch-sur-Alzette
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193207.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T180000Z
 DTSTART:20240409T180000Z
 DTEND:20240409T200000Z
 SUMMARY:Albania – Estonia 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Air Albania Stadium\, Tirana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193216.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T150000Z
 DTSTART:20240531T150000Z
 DTEND:20240531T170000Z
 SUMMARY:Estonia – Albania 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 LOCATION:A. Le Coq Arena\, Tallinn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193224.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T160000Z
 DTSTART:20240604T160000Z
 DTEND:20240604T180000Z
 SUMMARY:Albania – Luxembourg 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 LOCATION:Elbasan Arena\, Elbasan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193233.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20241025T140000Z
 DTSTART:20241025T140000Z
 DTEND:20241025T160000Z
 SUMMARY:Albania – Norwegen 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Stadiumi Loro Boriçi\, Shkodër
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252899.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20241029T180000Z
 DTSTART:20241029T180000Z
 DTEND:20241029T200000Z
 SUMMARY:Norwegen – Albania 9:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Ullevaal Stadion\, Oslo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252900.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T170000Z
 DTSTART:20250221T170000Z
 DTEND:20250221T190000Z
 SUMMARY:Albania – Ukraine 1:2
-DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 1. Spieltag
 LOCATION:Arena Kombetare\, Tirana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315811.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250225T163000Z
 DTSTART:20250225T163000Z
 DTEND:20250225T183000Z
 SUMMARY:Tschechien – Albania 5:1
-DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 2. Spieltag
 LOCATION:Strelecky ostrov\, Ceske Budejovice
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315819.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250404T140000Z
 DTSTART:20250404T140000Z
 DTEND:20250404T160000Z
 SUMMARY:Albania – Croatia 4:0
-DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 3. Spieltag
 LOCATION:Loro Borici Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315827.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250408T140000Z
 DTSTART:20250408T140000Z
 DTEND:20250408T160000Z
 SUMMARY:Croatia – Albania 1:2
-DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 4. Spieltag
 LOCATION:SC Rudes\, Zagreb
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315835.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20250530T170000Z
 DTSTART:20250530T170000Z
 DTEND:20250530T190000Z
 SUMMARY:Ukraine – Albania 2:1
-DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 5. Spieltag
 LOCATION:Gradski stadion Varazdin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315844.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Albania – Tschechien 1:2
-DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 6. Spieltag
 LOCATION:Loro Borici Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315851.ht
  ml
@@ -151,7 +145,7 @@ DTSTAMP:20251024T160000Z
 DTSTART:20251024T160000Z
 DTEND:20251024T180000Z
 SUMMARY:Cyprus – Albania 3:2
-DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+DESCRIPTION:UEFA Nations League · Playoffs B/C
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478116.ht
  ml
 END:VEVENT
@@ -161,7 +155,7 @@ DTSTAMP:20251028T170000Z
 DTSTART:20251028T170000Z
 DTEND:20251028T190000Z
 SUMMARY:Albania – Cyprus 3:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+DESCRIPTION:UEFA Nations League · Playoffs B/C
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478124.ht
  ml
 END:VEVENT
@@ -171,8 +165,7 @@ DTSTAMP:20260303T130000Z
 DTSTART:20260303T130000Z
 DTEND:20260303T150000Z
 SUMMARY:Montenegro – Albania 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Stadion Gradski
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523811.ht
  ml
@@ -183,8 +176,7 @@ DTSTAMP:20260307T170000Z
 DTSTART:20260307T170000Z
 DTEND:20260307T190000Z
 SUMMARY:Albania – Tschechien 1:5
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Loro Borici Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523836.ht
  ml
@@ -195,8 +187,7 @@ DTSTAMP:20260414T181500Z
 DTSTART:20260414T181500Z
 DTEND:20260414T201500Z
 SUMMARY:Wales – Albania 4:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Racecourse Ground\, Wrexham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523860.ht
  ml
@@ -207,8 +198,7 @@ DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Albania – Wales 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Elbasan Arena\, Elbasani
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523885.ht
  ml
@@ -219,8 +209,7 @@ DTSTAMP:20260605T153000Z
 DTSTART:20260605T153000Z
 DTEND:20260605T173000Z
 SUMMARY:Tschechien – Albania 1:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Stadium Viktoria Zizkov\, Prague
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523911.ht
  ml
@@ -231,8 +220,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Albania – Montenegro 5:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Loro Borici Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523936.ht
  ml
@@ -243,7 +231,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Albania – Wales
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557242.ht
  ml
 END:VEVENT
@@ -253,7 +241,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Wales – Albania
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557273.ht
  ml
 END:VEVENT

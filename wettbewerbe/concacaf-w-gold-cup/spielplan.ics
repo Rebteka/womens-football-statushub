@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CONCACAF W Gold Cup 2024
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1159528@anstoss
+DTSTAMP:20240221T003000Z
+DTSTART:20240221T003000Z
+DTEND:20240221T023000Z
+SUMMARY:Mexiko – Argentina 0:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159528.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174961@anstoss
+DTSTAMP:20240221T031500Z
+DTSTART:20240221T031500Z
+DTEND:20240221T051500Z
+SUMMARY:USA – Dominican Republic 5:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159529@anstoss
+DTSTAMP:20240222T003000Z
+DTSTART:20240222T003000Z
+DTEND:20240222T023000Z
+SUMMARY:Panama – Kolumbien 0:6
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159529.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174962@anstoss
+DTSTAMP:20240222T031500Z
+DTSTART:20240222T031500Z
+DTEND:20240222T051500Z
+SUMMARY:Brasilien – Puerto Rico 1:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159530@anstoss
+DTSTAMP:20240222T231500Z
+DTSTART:20240222T231500Z
+DTEND:20240223T011500Z
+SUMMARY:Costa Rica – Paraguay 0:1
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174963@anstoss
+DTSTAMP:20240223T020000Z
+DTSTART:20240223T020000Z
+DTEND:20240223T040000Z
+SUMMARY:Kanada – El Salvador 6:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174964@anstoss
+DTSTAMP:20240224T003000Z
+DTSTART:20240224T003000Z
+DTEND:20240224T023000Z
+SUMMARY:Dominican Republic – Mexiko 0:8
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159531@anstoss
+DTSTAMP:20240224T031500Z
+DTSTART:20240224T031500Z
+DTEND:20240224T051500Z
+SUMMARY:Argentina – USA 0:4
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159531.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174965@anstoss
+DTSTAMP:20240225T003000Z
+DTSTART:20240225T003000Z
+DTEND:20240225T023000Z
+SUMMARY:Puerto Rico – Panama 2:1
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159532@anstoss
+DTSTAMP:20240225T031500Z
+DTSTART:20240225T031500Z
+DTEND:20240225T051500Z
+SUMMARY:Kolumbien – Brasilien 0:1
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159533@anstoss
+DTSTAMP:20240225T220000Z
+DTSTART:20240225T220000Z
+DTEND:20240226T000000Z
+SUMMARY:Paraguay – Kanada 0:4
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174966@anstoss
+DTSTAMP:20240226T010000Z
+DTSTART:20240226T010000Z
+DTEND:20240226T030000Z
+SUMMARY:El Salvador – Costa Rica 0:2
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174967@anstoss
+DTSTAMP:20240227T000000Z
+DTSTART:20240227T000000Z
+DTEND:20240227T020000Z
+SUMMARY:Argentina – Dominican Republic 3:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159534@anstoss
+DTSTAMP:20240227T031500Z
+DTSTART:20240227T031500Z
+DTEND:20240227T051500Z
+SUMMARY:USA – Mexiko 0:2
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159534.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174968@anstoss
+DTSTAMP:20240228T000000Z
+DTSTART:20240228T000000Z
+DTEND:20240228T020000Z
+SUMMARY:Kolumbien – Puerto Rico 2:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159535@anstoss
+DTSTAMP:20240228T031500Z
+DTSTART:20240228T031500Z
+DTEND:20240228T051500Z
+SUMMARY:Brasilien – Panama 5:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159535.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159536@anstoss
+DTSTAMP:20240228T230000Z
+DTSTART:20240228T230000Z
+DTEND:20240229T010000Z
+SUMMARY:Kanada – Costa Rica 3:0
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174969@anstoss
+DTSTAMP:20240229T020000Z
+DTSTART:20240229T020000Z
+DTEND:20240229T040000Z
+SUMMARY:Paraguay – El Salvador 3:2
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178660@anstoss
+DTSTAMP:20240303T000000Z
+DTSTART:20240303T000000Z
+DTEND:20240303T020000Z
+SUMMARY:Kanada – Costa Rica 1:0
+DESCRIPTION:CONCACAF W Gold Cup · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178661@anstoss
+DTSTAMP:20240303T031500Z
+DTSTART:20240303T031500Z
+DTEND:20240303T051500Z
+SUMMARY:Brasilien – Argentina 5:1
+DESCRIPTION:CONCACAF W Gold Cup · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178662@anstoss
+DTSTAMP:20240303T220000Z
+DTSTART:20240303T220000Z
+DTEND:20240304T000000Z
+SUMMARY:Mexiko – Paraguay 3:2
+DESCRIPTION:CONCACAF W Gold Cup · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178663@anstoss
+DTSTAMP:20240304T011500Z
+DTSTART:20240304T011500Z
+DTEND:20240304T031500Z
+SUMMARY:USA – Kolumbien 3:0
+DESCRIPTION:CONCACAF W Gold Cup · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1180890@anstoss
+DTSTAMP:20240307T000000Z
+DTSTART:20240307T000000Z
+DTEND:20240307T020000Z
+SUMMARY:Brasilien – Mexiko 3:0
+DESCRIPTION:CONCACAF W Gold Cup · Halbfinale
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1180890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1180891@anstoss
+DTSTAMP:20240307T031500Z
+DTSTART:20240307T031500Z
+DTEND:20240307T051500Z
+SUMMARY:Kanada – USA 2:2
+DESCRIPTION:CONCACAF W Gold Cup · Halbfinale
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1180891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1182549@anstoss
+DTSTAMP:20240311T001500Z
+DTSTART:20240311T001500Z
+DTEND:20240311T021500Z
+SUMMARY:USA – Brasilien 1:0
+DESCRIPTION:CONCACAF W Gold Cup · Finale
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1182549.ht
+ ml
+END:VEVENT
+END:VCALENDAR

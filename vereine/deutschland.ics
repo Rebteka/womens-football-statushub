@@ -13,7 +13,7 @@ DTSTAMP:20230724T083000Z
 DTSTART:20230724T083000Z
 DTEND:20230724T103000Z
 SUMMARY:Deutschland – Morocco 6:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:AAMI Park\, Melbourne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013565.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230730T093000Z
 DTSTART:20230730T093000Z
 DTEND:20230730T113000Z
 SUMMARY:Deutschland – Kolumbien 1:2
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Allianz Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013583.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230803T100000Z
 DTSTART:20230803T100000Z
 DTEND:20230803T120000Z
 SUMMARY:Südkorea – Deutschland 1:1
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Suncorp Stadium\, Brisbane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013598.ht
  ml
@@ -46,8 +46,7 @@ DTSTAMP:20240405T183000Z
 DTSTART:20240405T183000Z
 DTEND:20240405T203000Z
 SUMMARY:Österreich – Deutschland 2:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Raiffeisen Arena\, Linz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193107.ht
  ml
@@ -58,8 +57,7 @@ DTSTAMP:20240409T161000Z
 DTSTART:20240409T161000Z
 DTEND:20240409T181000Z
 SUMMARY:Deutschland – Island 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Neuer Tivoli\, Aachen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193113.ht
  ml
@@ -70,8 +68,7 @@ DTSTAMP:20240531T183000Z
 DTSTART:20240531T183000Z
 DTEND:20240531T203000Z
 SUMMARY:Deutschland – Polen 4:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:Ostseestadion\, Rostock
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193120.ht
  ml
@@ -82,8 +79,7 @@ DTSTAMP:20240604T160000Z
 DTSTART:20240604T160000Z
 DTEND:20240604T180000Z
 SUMMARY:Polen – Deutschland 1:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Stadion Miejski\, Gdynia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193133.ht
  ml
@@ -94,8 +90,7 @@ DTSTAMP:20240712T161500Z
 DTSTART:20240712T161500Z
 DTEND:20240712T181500Z
 SUMMARY:Island – Deutschland 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:Laugardalsvöllur\, Reykjavík
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193141.ht
  ml
@@ -106,8 +101,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Deutschland – Österreich 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:Heinz von Heiden-Arena\, Hannover
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193149.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20240725T170000Z
 DTSTART:20240725T170000Z
 DTEND:20240725T190000Z
 SUMMARY:Deutschland – Australien 3:0
-DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
 LOCATION:Orange Vélodrome\, Marseille
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187465.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T210000Z
 SUMMARY:USA – Deutschland 4:1
-DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
 LOCATION:Orange Vélodrome\, Marseille
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187470.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20240731T170000Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Zambia – Deutschland 1:4
-DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
 LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1194362.ht
  ml
@@ -151,7 +145,7 @@ DTSTAMP:20240803T170000Z
 DTSTART:20240803T170000Z
 DTEND:20240803T190000Z
 SUMMARY:Kanada – Deutschland 0:0
-DESCRIPTION:Olympics Women · Viertelfinale
+DESCRIPTION:Olympische Spiele · Viertelfinale
 LOCATION:Orange Vélodrome\, Marseille
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1274763.ht
  ml
@@ -162,7 +156,7 @@ DTSTAMP:20240806T160000Z
 DTSTART:20240806T160000Z
 DTEND:20240806T180000Z
 SUMMARY:USA – Deutschland 1:0
-DESCRIPTION:Olympics Women · Halbfinale
+DESCRIPTION:Olympische Spiele · Halbfinale
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1279532.ht
  ml
@@ -173,7 +167,7 @@ DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
 DTEND:20240809T150000Z
 SUMMARY:Spanien – Deutschland 0:1
-DESCRIPTION:Olympics Women · Spiel um Platz 3
+DESCRIPTION:Olympische Spiele · Spiel um Platz 3
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1283390.ht
  ml
@@ -184,7 +178,7 @@ DTSTAMP:20250221T194500Z
 DTSTART:20250221T194500Z
 DTEND:20250221T214500Z
 SUMMARY:Niederlande – Deutschland 2:2
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Rat Verlegh Stadion\, Breda
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315758.ht
  ml
@@ -195,7 +189,7 @@ DTSTAMP:20250225T171500Z
 DTSTART:20250225T171500Z
 DTEND:20250225T191500Z
 SUMMARY:Deutschland – Österreich 4:1
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Max-Morlock-Stadion\, Nuremberg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315765.ht
  ml
@@ -206,7 +200,7 @@ DTSTAMP:20250404T183500Z
 DTSTART:20250404T183500Z
 DTEND:20250404T203500Z
 SUMMARY:Schottland – Deutschland 0:4
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Tannadice Park\, Dundee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315774.ht
  ml
@@ -217,7 +211,7 @@ DTSTAMP:20250408T154500Z
 DTSTART:20250408T154500Z
 DTEND:20250408T174500Z
 SUMMARY:Deutschland – Schottland 6:1
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Volkswagen Arena\, Wolfsburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315782.ht
  ml
@@ -228,7 +222,7 @@ DTSTAMP:20250530T183000Z
 DTSTART:20250530T183000Z
 DTEND:20250530T203000Z
 SUMMARY:Deutschland – Niederlande 4:0
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Weserstadion\, Bremen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315789.ht
  ml
@@ -239,7 +233,7 @@ DTSTAMP:20250603T183000Z
 DTSTART:20250603T183000Z
 DTEND:20250603T203000Z
 SUMMARY:Österreich – Deutschland 0:6
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:Generali Arena\, Vienna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315797.ht
  ml
@@ -250,7 +244,7 @@ DTSTAMP:20250704T190000Z
 DTSTART:20250704T190000Z
 DTEND:20250704T210000Z
 SUMMARY:Deutschland – Polen 2:0
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:kybunpark\, St. Gallen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367629.ht
  ml
@@ -261,7 +255,7 @@ DTSTAMP:20250708T160000Z
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
 SUMMARY:Deutschland – Dänemark 2:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367636.ht
  ml
@@ -272,7 +266,7 @@ DTSTAMP:20250712T190000Z
 DTSTART:20250712T190000Z
 DTEND:20250712T210000Z
 SUMMARY:Schweden – Deutschland 4:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367644.ht
  ml
@@ -283,7 +277,7 @@ DTSTAMP:20250719T190000Z
 DTSTART:20250719T190000Z
 DTEND:20250719T210000Z
 SUMMARY:Frankreich – Deutschland 1:1
-DESCRIPTION:UEFA Championship - Women · Viertelfinale
+DESCRIPTION:Frauen-EM · Viertelfinale
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1401205.ht
  ml
@@ -294,7 +288,7 @@ DTSTAMP:20250723T190000Z
 DTSTART:20250723T190000Z
 DTEND:20250723T210000Z
 SUMMARY:Deutschland – Spanien 0:1
-DESCRIPTION:UEFA Championship - Women · Halbfinale
+DESCRIPTION:Frauen-EM · Halbfinale
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1410142.ht
  ml
@@ -305,7 +299,7 @@ DTSTAMP:20251024T154500Z
 DTSTART:20251024T154500Z
 DTEND:20251024T174500Z
 SUMMARY:Deutschland – Frankreich 1:0
-DESCRIPTION:UEFA Nations League - Women · Halbfinale
+DESCRIPTION:UEFA Nations League · Halbfinale
 LOCATION:Merkur Spiel-Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478109.ht
  ml
@@ -316,7 +310,7 @@ DTSTAMP:20251028T201000Z
 DTSTART:20251028T201000Z
 DTEND:20251028T221000Z
 SUMMARY:Frankreich – Deutschland 2:2
-DESCRIPTION:UEFA Nations League - Women · Halbfinale
+DESCRIPTION:UEFA Nations League · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478118.ht
  ml
 END:VEVENT
@@ -326,7 +320,7 @@ DTSTAMP:20251128T193000Z
 DTSTART:20251128T193000Z
 DTEND:20251128T213000Z
 SUMMARY:Deutschland – Spanien 0:0
-DESCRIPTION:UEFA Nations League - Women · Finale
+DESCRIPTION:UEFA Nations League · Finale
 LOCATION:Fritz Walter Stadion\, Kaiserslautern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1484738.ht
  ml
@@ -337,7 +331,7 @@ DTSTAMP:20251202T173000Z
 DTSTART:20251202T173000Z
 DTEND:20251202T193000Z
 SUMMARY:Spanien – Deutschland 3:0
-DESCRIPTION:UEFA Nations League - Women · Finale
+DESCRIPTION:UEFA Nations League · Finale
 LOCATION:Metropolitano Stadium\, Madrid
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1484739.ht
  ml
@@ -348,8 +342,7 @@ DTSTAMP:20260303T164500Z
 DTSTART:20260303T164500Z
 DTEND:20260303T184500Z
 SUMMARY:Deutschland – Slovenia 5:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Rudolf-Harbig-Stadion\, Dresden
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523813.ht
  ml
@@ -360,8 +353,7 @@ DTSTAMP:20260307T170000Z
 DTSTART:20260307T170000Z
 DTEND:20260307T190000Z
 SUMMARY:Norwegen – Deutschland 0:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Lyse Arena\, Stavanger
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523838.ht
  ml
@@ -372,8 +364,7 @@ DTSTAMP:20260414T161500Z
 DTSTART:20260414T161500Z
 DTEND:20260414T181500Z
 SUMMARY:Deutschland – Österreich 5:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Max-Morlock-Stadion\, Nuremberg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523863.ht
  ml
@@ -384,8 +375,7 @@ DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Österreich – Deutschland 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Josko Arena\, Ried
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523888.ht
  ml
@@ -396,8 +386,7 @@ DTSTAMP:20260605T183500Z
 DTSTART:20260605T183500Z
 DTEND:20260605T203500Z
 SUMMARY:Deutschland – Norwegen 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:RheinEnergieStadion\, Cologne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523913.ht
  ml
@@ -408,8 +397,7 @@ DTSTAMP:20260609T160000Z
 DTSTART:20260609T160000Z
 DTEND:20260609T180000Z
 SUMMARY:Slovenia – Deutschland 0:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Stadion Stozice\, Ljubljana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523938.ht
  ml
@@ -420,7 +408,8 @@ DTSTAMP:20261009T183000Z
 DTSTART:20261009T183000Z
 DTEND:20261009T203000Z
 SUMMARY:Deutschland – Australien
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628973.ht
  ml
 END:VEVENT
@@ -430,7 +419,8 @@ DTSTAMP:20261013T154500Z
 DTSTART:20261013T154500Z
 DTEND:20261013T174500Z
 SUMMARY:Deutschland – Japan
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628978.ht
  ml
 END:VEVENT

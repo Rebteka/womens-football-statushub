@@ -13,7 +13,8 @@ DTSTAMP:20260411T110000Z
 DTSTART:20260411T110000Z
 DTEND:20260411T130000Z
 SUMMARY:Australien – Malawi 5:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Nyayo National Stadium\, Nairobi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1538881.ht
  ml
@@ -24,7 +25,8 @@ DTSTAMP:20260415T110000Z
 DTSTART:20260415T110000Z
 DTEND:20260415T130000Z
 SUMMARY:India – Malawi 3:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Nyayo National Stadium\, Nairobi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540594.ht
  ml
@@ -35,7 +37,8 @@ DTSTAMP:20260603T130000Z
 DTSTART:20260603T130000Z
 DTEND:20260603T150000Z
 SUMMARY:Tanzania – Malawi 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546832.ht
  ml
 END:VEVENT
@@ -45,7 +48,8 @@ DTSTAMP:20260606T120000Z
 DTSTART:20260606T120000Z
 DTEND:20260606T140000Z
 SUMMARY:Malawi – Ghana
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546835.ht
  ml
 STATUS:CANCELLED
@@ -56,7 +60,8 @@ DTSTAMP:20260606T130000Z
 DTSTART:20260606T130000Z
 DTEND:20260606T150000Z
 SUMMARY:Tanzania – Malawi 0:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548474.ht
  ml
 END:VEVENT
@@ -66,7 +71,8 @@ DTSTAMP:20260716T190000Z
 DTSTART:20260716T190000Z
 DTEND:20260716T210000Z
 SUMMARY:Morocco – Malawi 2:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1595469.ht
  ml
 END:VEVENT
@@ -76,7 +82,8 @@ DTSTAMP:20260723T180000Z
 DTSTART:20260723T180000Z
 DTEND:20260723T200000Z
 SUMMARY:Malawi – Ghana 0:4
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1604191.ht
  ml
 END:VEVENT
@@ -86,7 +93,7 @@ DTSTAMP:20260728T200000Z
 DTSTART:20260728T200000Z
 DTEND:20260728T220000Z
 SUMMARY:Nigeria – Malawi 2:3
-DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
 LOCATION:Stade Larbi Zaouli\, Casablanca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1600203.ht
  ml
@@ -97,7 +104,7 @@ DTSTAMP:20260801T170000Z
 DTSTART:20260801T170000Z
 DTEND:20260801T190000Z
 SUMMARY:Egypt – Malawi 1:3
-DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
 LOCATION:Stade Larbi Zaouli\, Casablanca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1600210.ht
  ml
@@ -108,7 +115,7 @@ DTSTAMP:20260805T200000Z
 DTSTART:20260805T200000Z
 DTEND:20260805T220000Z
 SUMMARY:Malawi – Zambia 1:2
-DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1600219.ht
  ml
 END:VEVENT
@@ -118,7 +125,7 @@ DTSTAMP:20260809T200000Z
 DTSTART:20260809T200000Z
 DTEND:20260809T220000Z
 SUMMARY:Malawi – Ghana 2:1
-DESCRIPTION:Africa Cup of Nations - Women · Viertelfinale
+DESCRIPTION:Afrika-Cup (WAFCON) · Viertelfinale
 LOCATION:Al Medina Stadium\, Rabat
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612528.ht
  ml
@@ -129,7 +136,7 @@ DTSTAMP:20260812T170000Z
 DTSTART:20260812T170000Z
 DTEND:20260812T190000Z
 SUMMARY:Algeria – Malawi 1:3
-DESCRIPTION:Africa Cup of Nations - Women · Halbfinale
+DESCRIPTION:Afrika-Cup (WAFCON) · Halbfinale
 LOCATION:Stade Mustapha Tchaker\, Bulida
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1619530.ht
  ml
@@ -140,7 +147,7 @@ DTSTAMP:20260816T190000Z
 DTSTART:20260816T190000Z
 DTEND:20260816T210000Z
 SUMMARY:Cameroon – Malawi 3:0
-DESCRIPTION:Africa Cup of Nations - Women · Finale
+DESCRIPTION:Afrika-Cup (WAFCON) · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623382.ht
  ml
 END:VEVENT

@@ -13,7 +13,7 @@ DTSTAMP:20250221T130000Z
 DTSTART:20250221T130000Z
 DTEND:20250221T150000Z
 SUMMARY:Moldova – Gibraltar 1:0
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:Nisporeni stadium\, Nisporeni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315853.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20250225T180000Z
 DTSTART:20250225T180000Z
 DTEND:20250225T200000Z
 SUMMARY:Gibraltar – Faroe Islands 0:1
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:Europa point stadium\, Gibraltar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315862.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20250404T170000Z
 DTSTART:20250404T170000Z
 DTEND:20250404T190000Z
 SUMMARY:Gibraltar – Slowakei 0:8
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:Europa point stadium\, Gibraltar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315872.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20250408T160000Z
 DTSTART:20250408T160000Z
 DTEND:20250408T180000Z
 SUMMARY:Faroe Islands – Gibraltar 5:0
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315880.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20250530T150000Z
 DTSTART:20250530T150000Z
 DTEND:20250530T170000Z
 SUMMARY:Slowakei – Gibraltar 11:0
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:Futbal Tatran Arena\, Prešov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315890.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Gibraltar – Moldova 0:4
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:Europa point stadium\, Gibraltar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315899.ht
  ml
@@ -79,8 +79,7 @@ DTSTAMP:20260303T160000Z
 DTSTART:20260303T160000Z
 DTEND:20260303T180000Z
 SUMMARY:Kosovo – Gibraltar 6:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523830.ht
  ml
@@ -91,8 +90,7 @@ DTSTAMP:20260307T180000Z
 DTSTART:20260307T180000Z
 DTEND:20260307T200000Z
 SUMMARY:Gibraltar – Bulgaria 0:5
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Europa point stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523855.ht
  ml
@@ -103,8 +101,7 @@ DTSTAMP:20260414T170000Z
 DTSTART:20260414T170000Z
 DTEND:20260414T190000Z
 SUMMARY:Gibraltar – Croatia 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Europa point stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523879.ht
  ml
@@ -115,8 +112,7 @@ DTSTAMP:20260418T143000Z
 DTSTART:20260418T143000Z
 DTEND:20260418T163000Z
 SUMMARY:Croatia – Gibraltar 9:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Gradski Stadion\, Sinj
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523904.ht
  ml
@@ -127,8 +123,7 @@ DTSTAMP:20260605T150000Z
 DTSTART:20260605T150000Z
 DTEND:20260605T170000Z
 SUMMARY:Bulgaria – Gibraltar 3:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Stadion Aleksandar Shalamanov\, Sofia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523930.ht
  ml
@@ -139,8 +134,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Gibraltar – Kosovo 0:8
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Europa point stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523955.ht
  ml
@@ -151,7 +145,8 @@ DTSTAMP:20261007T120000Z
 DTSTART:20261007T120000Z
 DTEND:20261007T140000Z
 SUMMARY:Liechtenstein – Gibraltar
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638581.ht
  ml
 END:VEVENT
@@ -161,7 +156,8 @@ DTSTAMP:20261010T150000Z
 DTSTART:20261010T150000Z
 DTEND:20261010T170000Z
 SUMMARY:Liechtenstein – Gibraltar
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628975.ht
  ml
 END:VEVENT

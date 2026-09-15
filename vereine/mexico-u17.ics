@@ -13,7 +13,8 @@ DTSTAMP:20260209T153000Z
 DTSTART:20260209T153000Z
 DTEND:20260209T173000Z
 SUMMARY:Mexico U17 – England U17 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1521029.ht
  ml
 END:VEVENT
@@ -23,7 +24,8 @@ DTSTAMP:20260212T100000Z
 DTSTART:20260212T100000Z
 DTEND:20260212T120000Z
 SUMMARY:Mexico U17 – Poland U17 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1521479.ht
  ml
 END:VEVENT
@@ -33,7 +35,8 @@ DTSTAMP:20260214T100000Z
 DTSTART:20260214T100000Z
 DTEND:20260214T120000Z
 SUMMARY:Wales U17 – Mexico U17
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522484.ht
  ml
 STATUS:CANCELLED
@@ -44,7 +47,7 @@ DTSTAMP:20260317T160000Z
 DTSTART:20260317T160000Z
 DTEND:20260317T180000Z
 SUMMARY:Mexico U17 – Jamaica W U17 9:0
-DESCRIPTION:CONCACAF Women U17
+DESCRIPTION:CONCACAF U17
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533906.ht
  ml
 END:VEVENT
@@ -54,7 +57,7 @@ DTSTAMP:20260319T183000Z
 DTSTART:20260319T183000Z
 DTEND:20260319T203000Z
 SUMMARY:Panama W U17 – Mexico U17 1:6
-DESCRIPTION:CONCACAF Women U17
+DESCRIPTION:CONCACAF U17
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535009.ht
  ml
 END:VEVENT
@@ -64,7 +67,7 @@ DTSTAMP:20260322T210600Z
 DTSTART:20260322T210600Z
 DTEND:20260322T230600Z
 SUMMARY:Mexico U17 – Costa Rica W U17 2:0
-DESCRIPTION:CONCACAF Women U17
+DESCRIPTION:CONCACAF U17
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535827.ht
  ml
 END:VEVENT
@@ -74,7 +77,8 @@ DTSTAMP:20260813T210000Z
 DTSTART:20260813T210000Z
 DTEND:20260813T230000Z
 SUMMARY:United States W U17 – Mexico U17 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628968.ht
  ml
 END:VEVENT
@@ -84,7 +88,8 @@ DTSTAMP:20260816T210000Z
 DTSTART:20260816T210000Z
 DTEND:20260816T230000Z
 SUMMARY:Canada W U17 – Mexico U17 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628970.ht
  ml
 END:VEVENT
@@ -94,7 +99,7 @@ DTSTAMP:20261019T140000Z
 DTSTART:20261019T140000Z
 DTEND:20261019T160000Z
 SUMMARY:Spain U17 – Mexico U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546123.ht
  ml
 END:VEVENT
@@ -104,7 +109,7 @@ DTSTAMP:20261022T170000Z
 DTSTART:20261022T170000Z
 DTEND:20261022T190000Z
 SUMMARY:Chile U17 – Mexico U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546127.ht
  ml
 END:VEVENT
@@ -114,7 +119,7 @@ DTSTAMP:20261025T140000Z
 DTSTART:20261025T140000Z
 DTEND:20261025T160000Z
 SUMMARY:Mexico U17 – Australia U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546137.ht
  ml
 END:VEVENT

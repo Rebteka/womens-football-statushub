@@ -13,8 +13,7 @@ DTSTAMP:20240405T154500Z
 DTSTART:20240405T154500Z
 DTEND:20240405T174500Z
 SUMMARY:Hungary – Azerbaijan 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Szent Gellért Fórum\, Szeged
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193153.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T120000Z
 DTSTART:20240409T120000Z
 DTEND:20240409T140000Z
 SUMMARY:Azerbaijan – Schweiz 0:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:Liv Bona Dea Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193159.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T170000Z
 DTSTART:20240531T170000Z
 DTEND:20240531T190000Z
 SUMMARY:Turkey – Azerbaijan 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:13 Şubat Şehir Stadyumu\, Erzincan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193168.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T150000Z
 DTSTART:20240604T150000Z
 DTEND:20240604T170000Z
 SUMMARY:Azerbaijan – Turkey 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:Liv Bona Dea Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193176.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T160000Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Azerbaijan – Hungary 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:Liv Bona Dea Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193183.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Schweiz – Azerbaijan 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Stade Olympique de la Pontaise\, Lausanne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193191.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T120000Z
 DTSTART:20241025T120000Z
 DTEND:20241025T140000Z
 SUMMARY:Azerbaijan – Portugal 1:4
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Liv Bona Dea Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252907.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T194500Z
 DTSTART:20241029T194500Z
 DTEND:20241029T214500Z
 SUMMARY:Portugal – Azerbaijan 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Estádio Do Vizela\, Caldas de Vizela
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252908.ht
  ml
@@ -109,7 +101,7 @@ DTSTAMP:20250221T130000Z
 DTSTART:20250221T130000Z
 DTEND:20250221T150000Z
 SUMMARY:Azerbaijan – Montenegro 0:0
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:Dalga Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315859.ht
  ml
@@ -120,7 +112,7 @@ DTSTAMP:20250404T153000Z
 DTSTART:20250404T153000Z
 DTEND:20250404T173000Z
 SUMMARY:Lithuania – Azerbaijan 0:2
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:FK Žalgiris namų stadionas\, Vilnius
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315877.ht
  ml
@@ -131,7 +123,7 @@ DTSTAMP:20250408T160000Z
 DTSTART:20250408T160000Z
 DTEND:20250408T180000Z
 SUMMARY:Montenegro – Azerbaijan 1:1
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Stadion Gradski
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315886.ht
  ml
@@ -142,7 +134,7 @@ DTSTAMP:20250530T140000Z
 DTSTART:20250530T140000Z
 DTEND:20250530T160000Z
 SUMMARY:Azerbaijan – Lithuania 0:5
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:ASCO Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315895.ht
  ml
@@ -153,8 +145,7 @@ DTSTAMP:20260303T110000Z
 DTSTART:20260303T110000Z
 DTEND:20260303T130000Z
 SUMMARY:Azerbaijan – North Macedonia 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Dalga Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523832.ht
  ml
@@ -165,8 +156,7 @@ DTSTAMP:20260307T133000Z
 DTSTART:20260307T133000Z
 DTEND:20260307T153000Z
 SUMMARY:Hungary – Azerbaijan 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Pancho Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523856.ht
  ml
@@ -177,8 +167,7 @@ DTSTAMP:20260414T170000Z
 DTSTART:20260414T170000Z
 DTEND:20260414T190000Z
 SUMMARY:Andorra – Azerbaijan 1:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Estadi Nacional\, Andorra la Vella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523882.ht
  ml
@@ -189,8 +178,7 @@ DTSTAMP:20260418T130000Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Azerbaijan – Andorra 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Bank Respublika Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523907.ht
  ml
@@ -201,8 +189,7 @@ DTSTAMP:20260605T140000Z
 DTSTART:20260605T140000Z
 DTEND:20260605T160000Z
 SUMMARY:Azerbaijan – Hungary 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Mehdi Huseynzade Stadium\, Sumqayit
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523931.ht
  ml
@@ -213,8 +200,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:North Macedonia – Azerbaijan 1:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Stadion Petar Milosevski\, Bitola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523957.ht
  ml

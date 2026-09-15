@@ -13,7 +13,7 @@ DTSTAMP:20251214T130000Z
 DTSTART:20251214T130000Z
 DTEND:20251214T150000Z
 SUMMARY:AFC Portchester – Ipswich Town 0:5
-DESCRIPTION:FA Women's Cup · 3rd Round
+DESCRIPTION:FA Cup · 3rd Round
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1491499.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260118T130000Z
 DTSTART:20260118T130000Z
 DTEND:20260118T150000Z
 SUMMARY:Ipswich Town – Sheffield United 1:2
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501250.ht
  ml
 END:VEVENT
@@ -75,7 +75,7 @@ DTSTAMP:20260930T183000Z
 DTSTART:20260930T183000Z
 DTEND:20260930T203000Z
 SUMMARY:Ipswich Town – London City Lionesses
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612645.ht
  ml
 END:VEVENT
@@ -96,7 +96,7 @@ DTSTAMP:20261018T130000Z
 DTSTART:20261018T130000Z
 DTEND:20261018T150000Z
 SUMMARY:Wolverhampton – Ipswich Town
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:New Bucks Head\, Telford
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612651.ht
  ml
@@ -117,7 +117,7 @@ DTSTAMP:20261031T150000Z
 DTSTART:20261031T150000Z
 DTEND:20261031T170000Z
 SUMMARY:Watford – Ipswich Town
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Grosvenor Vale\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612667.ht
  ml
@@ -138,7 +138,7 @@ DTSTAMP:20261111T193000Z
 DTSTART:20261111T193000Z
 DTEND:20261111T213000Z
 SUMMARY:Charlton Athletic – Ipswich Town
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:The Valley\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612677.ht
  ml
@@ -160,7 +160,7 @@ DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Ipswich Town – Southampton
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612684.ht
  ml
 END:VEVENT
@@ -170,7 +170,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Ipswich Town – Tottenham Hotspur
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612694.ht
  ml
 END:VEVENT

@@ -13,7 +13,7 @@ DTSTAMP:20230720T070000Z
 DTSTART:20230720T070000Z
 DTEND:20230720T090000Z
 SUMMARY:New Zealand – Norwegen 1:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013552.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230725T053000Z
 DTSTART:20230725T053000Z
 DTEND:20230725T073000Z
 SUMMARY:New Zealand – Philippines 0:1
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Sky Stadium\, Wellington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013568.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230730T070000Z
 DTSTART:20230730T070000Z
 DTEND:20230730T090000Z
 SUMMARY:Schweiz – New Zealand 0:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Forsyth Barr Stadium\, Dunedin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013584.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20240725T150000Z
 DTSTART:20240725T150000Z
 DTEND:20240725T170000Z
 SUMMARY:Kanada – New Zealand 2:1
-DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
 LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187464.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20240728T150000Z
 DTSTART:20240728T150000Z
 DTEND:20240728T170000Z
 SUMMARY:New Zealand – Kolumbien 0:2
-DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187468.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
 SUMMARY:New Zealand – Frankreich 1:2
-DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187473.ht
  ml
@@ -79,8 +79,8 @@ DTSTAMP:20260227T020000Z
 DTSTART:20260227T020000Z
 DTEND:20260227T040000Z
 SUMMARY:New Zealand – Samoa 8:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Zweite Phase · 1. Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Zweite Phase · 1
+ . Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526399.ht
  ml
 END:VEVENT
@@ -90,8 +90,8 @@ DTSTAMP:20260302T060000Z
 DTSTART:20260302T060000Z
 DTEND:20260302T080000Z
 SUMMARY:New Zealand – Solomon Islands 8:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Zweite Phase · 2. Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Zweite Phase · 2
+ . Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526395.ht
  ml
 END:VEVENT
@@ -101,8 +101,8 @@ DTSTAMP:20260305T020000Z
 DTSTART:20260305T020000Z
 DTEND:20260305T040000Z
 SUMMARY:American Samoa – New Zealand 0:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Zweite Phase · 3. Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Zweite Phase · 3
+ . Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526397.ht
  ml
 END:VEVENT
@@ -112,7 +112,7 @@ DTSTAMP:20260411T041000Z
 DTSTART:20260411T041000Z
 DTEND:20260411T061000Z
 SUMMARY:New Zealand – Fiji 5:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 LOCATION:Waikato Stadium\, Hamilton
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530894.ht
  ml
@@ -123,7 +123,7 @@ DTSTAMP:20260415T071000Z
 DTSTART:20260415T071000Z
 DTEND:20260415T091000Z
 SUMMARY:New Zealand – Papua New Guinea 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Finale
+DESCRIPTION:WM-Qualifikation Europa · Finale
 LOCATION:North Harbour Stadium\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540446.ht
  ml
@@ -134,7 +134,8 @@ DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:New Zealand – Haiti 1:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544818.ht
  ml
 END:VEVENT
@@ -144,7 +145,8 @@ DTSTAMP:20260609T160000Z
 DTSTART:20260609T160000Z
 DTEND:20260609T180000Z
 SUMMARY:New Zealand – Morocco 0:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544819.ht
  ml
 END:VEVENT
@@ -154,7 +156,8 @@ DTSTAMP:20261010T210000Z
 DTSTART:20261010T210000Z
 DTEND:20261010T230000Z
 SUMMARY:Panama – New Zealand
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638584.ht
  ml
 END:VEVENT
@@ -164,7 +167,8 @@ DTSTAMP:20261014T003000Z
 DTSTART:20261014T003000Z
 DTEND:20261014T023000Z
 SUMMARY:Panama – New Zealand
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638587.ht
  ml
 END:VEVENT

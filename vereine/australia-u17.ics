@@ -13,7 +13,7 @@ DTSTAMP:20260502T113000Z
 DTSTART:20260502T113000Z
 DTEND:20260502T133000Z
 SUMMARY:Australia U17 – India U17 2:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543546.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260505T073000Z
 DTSTART:20260505T073000Z
 DTEND:20260505T093000Z
 SUMMARY:Lebanon U17 – Australia U17 1:1
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543550.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20260508T073000Z
 DTSTART:20260508T073000Z
 DTEND:20260508T093000Z
 SUMMARY:Japan U17 – Australia U17 5:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543541.ht
  ml
 END:VEVENT
@@ -43,7 +43,7 @@ DTSTAMP:20260511T070000Z
 DTSTART:20260511T070000Z
 DTEND:20260511T090000Z
 SUMMARY:Vietnam U17 – Australia U17 0:2
-DESCRIPTION:AFC U17 Asian Cup - Women · Viertelfinale
+DESCRIPTION:AFC U17 Asien-Cup · Viertelfinale
 LOCATION:Suzhou Sports Centre\, Suzhou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544654.ht
  ml
@@ -54,7 +54,7 @@ DTSTAMP:20260514T070000Z
 DTSTART:20260514T070000Z
 DTEND:20260514T090000Z
 SUMMARY:Japan U17 – Australia U17 4:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Halbfinale
+DESCRIPTION:AFC U17 Asien-Cup · Halbfinale
 LOCATION:Suzhou Sports Centre\, Suzhou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544861.ht
  ml
@@ -65,7 +65,7 @@ DTSTAMP:20261019T170000Z
 DTSTART:20261019T170000Z
 DTEND:20261019T190000Z
 SUMMARY:Australia U17 – Chile U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546117.ht
  ml
 END:VEVENT
@@ -75,7 +75,7 @@ DTSTAMP:20261022T140000Z
 DTSTART:20261022T140000Z
 DTEND:20261022T160000Z
 SUMMARY:Spain U17 – Australia U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546132.ht
  ml
 END:VEVENT
@@ -85,7 +85,7 @@ DTSTAMP:20261025T140000Z
 DTSTART:20261025T140000Z
 DTEND:20261025T160000Z
 SUMMARY:Mexico U17 – Australia U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546137.ht
  ml
 END:VEVENT

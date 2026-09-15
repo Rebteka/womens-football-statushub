@@ -13,8 +13,7 @@ DTSTAMP:20240405T150000Z
 DTSTART:20240405T150000Z
 DTEND:20240405T170000Z
 SUMMARY:Ukraine – Kosovo 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Mardan Stadyumu\, Antalya
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193152.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T120000Z
 DTSTART:20240409T120000Z
 DTEND:20240409T140000Z
 SUMMARY:Kosovo – Wales 0:6
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193160.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T150000Z
 DTSTART:20240531T150000Z
 DTEND:20240531T170000Z
 SUMMARY:Kosovo – Croatia 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193173.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T180000Z
 DTSTART:20240604T180000Z
 DTEND:20240604T200000Z
 SUMMARY:Croatia – Kosovo 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:Stadion Branko Čavlović-Čavlek\, Karlovac
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193181.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T160000Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Kosovo – Ukraine 0:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193190.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Wales – Kosovo 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Parc y Scarlets\, Llanelli
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193197.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T130000Z
 DTSTART:20250221T130000Z
 DTEND:20250221T150000Z
 SUMMARY:North Macedonia – Kosovo 0:4
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315861.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250225T130000Z
 DTSTART:20250225T130000Z
 DTEND:20250225T150000Z
 SUMMARY:Kosovo – Latvia 0:1
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315870.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250408T120000Z
 DTSTART:20250408T120000Z
 DTEND:20250408T140000Z
 SUMMARY:Kosovo – North Macedonia 3:0
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315888.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Latvia – Kosovo 2:2
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:LNK Sporta Parks\, Riga
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315906.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20251024T150000Z
 DTSTART:20251024T150000Z
 DTEND:20251024T170000Z
 SUMMARY:Kosovo – Turkey 0:4
-DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+DESCRIPTION:UEFA Nations League · Playoffs B/C
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478115.ht
  ml
 END:VEVENT
@@ -139,7 +133,7 @@ DTSTAMP:20251028T170000Z
 DTSTART:20251028T170000Z
 DTEND:20251028T190000Z
 SUMMARY:Turkey – Kosovo 3:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+DESCRIPTION:UEFA Nations League · Playoffs B/C
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478123.ht
  ml
 END:VEVENT
@@ -149,8 +143,7 @@ DTSTAMP:20260303T160000Z
 DTSTART:20260303T160000Z
 DTEND:20260303T180000Z
 SUMMARY:Kosovo – Gibraltar 6:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523830.ht
  ml
@@ -161,8 +154,7 @@ DTSTAMP:20260307T160000Z
 DTSTART:20260307T160000Z
 DTEND:20260307T180000Z
 SUMMARY:Croatia – Kosovo 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Stadion Branko Cavlovic-Cavlek\, Karlovac
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523854.ht
  ml
@@ -173,8 +165,7 @@ DTSTAMP:20260414T140000Z
 DTSTART:20260414T140000Z
 DTEND:20260414T160000Z
 SUMMARY:Bulgaria – Kosovo 1:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Stadion Aleksandar Shalamanov\, Sofia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523880.ht
  ml
@@ -185,8 +176,7 @@ DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Kosovo – Bulgaria 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523905.ht
  ml
@@ -197,8 +187,7 @@ DTSTAMP:20260605T170000Z
 DTSTART:20260605T170000Z
 DTEND:20260605T190000Z
 SUMMARY:Kosovo – Croatia 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Stadiumi Fadil Vokrri\, Pristina
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523929.ht
  ml
@@ -209,8 +198,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Gibraltar – Kosovo 0:8
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Europa point stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523955.ht
  ml
@@ -221,7 +209,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Kosovo – Österreich
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557252.ht
  ml
 END:VEVENT
@@ -231,7 +219,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Österreich – Kosovo
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557258.ht
  ml
 END:VEVENT

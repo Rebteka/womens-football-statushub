@@ -13,7 +13,8 @@ DTSTAMP:20260209T133000Z
 DTSTART:20260209T133000Z
 DTEND:20260209T153000Z
 SUMMARY:Scotland U17 – Morocco U17 1:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1521028.ht
  ml
 END:VEVENT
@@ -23,7 +24,8 @@ DTSTAMP:20260212T193000Z
 DTSTART:20260212T193000Z
 DTEND:20260212T213000Z
 SUMMARY:United States W U17 – Morocco U17 5:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1521482.ht
  ml
 END:VEVENT
@@ -33,7 +35,8 @@ DTSTAMP:20260214T153000Z
 DTSTART:20260214T153000Z
 DTEND:20260214T173000Z
 SUMMARY:Morocco U17 – Norway U17
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522486.ht
  ml
 STATUS:CANCELLED
@@ -44,7 +47,8 @@ DTSTAMP:20260408T133000Z
 DTSTART:20260408T133000Z
 DTEND:20260408T153000Z
 SUMMARY:Uzbekistan U18 – Morocco U17 0:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539729.ht
  ml
 END:VEVENT
@@ -54,7 +58,8 @@ DTSTAMP:20260414T083000Z
 DTSTART:20260414T083000Z
 DTEND:20260414T103000Z
 SUMMARY:Turkey U18 – Morocco U17 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539735.ht
  ml
 END:VEVENT
@@ -64,7 +69,7 @@ DTSTAMP:20261017T170000Z
 DTSTART:20261017T170000Z
 DTEND:20261017T190000Z
 SUMMARY:Morocco U17 – New Zealand U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546121.ht
  ml
 END:VEVENT
@@ -74,7 +79,7 @@ DTSTAMP:20261020T170000Z
 DTSTART:20261020T170000Z
 DTEND:20261020T190000Z
 SUMMARY:Morocco U17 – Germany U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546130.ht
  ml
 END:VEVENT
@@ -84,7 +89,7 @@ DTSTAMP:20261023T170000Z
 DTSTART:20261023T170000Z
 DTEND:20261023T190000Z
 SUMMARY:Argentina U17 – Morocco U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546133.ht
  ml
 END:VEVENT

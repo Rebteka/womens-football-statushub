@@ -13,7 +13,7 @@ DTSTAMP:20251214T140000Z
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
 SUMMARY:Birmingham City – Sporting Khalsa 6:0
-DESCRIPTION:FA Women's Cup · 3rd Round
+DESCRIPTION:FA Cup · 3rd Round
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488457.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260118T140000Z
 DTSTART:20260118T140000Z
 DTEND:20260118T160000Z
 SUMMARY:Hull City – Birmingham City 2:6
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 LOCATION:MKM Stadium\, Hull
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501248.ht
  ml
@@ -34,7 +34,7 @@ DTSTAMP:20260221T171500Z
 DTSTART:20260221T171500Z
 DTEND:20260221T191500Z
 SUMMARY:Birmingham City – Chatham Town 8:0
-DESCRIPTION:FA Women's Cup · Round 5
+DESCRIPTION:FA Cup · Round 5
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514951.ht
  ml
 END:VEVENT
@@ -44,7 +44,7 @@ DTSTAMP:20260406T160000Z
 DTSTART:20260406T160000Z
 DTEND:20260406T180000Z
 SUMMARY:Birmingham City – Manchester City 0:1
-DESCRIPTION:FA Women's Cup · Viertelfinale
+DESCRIPTION:FA Cup · Viertelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526403.ht
  ml
 END:VEVENT
@@ -87,7 +87,7 @@ DTSTAMP:20260923T180000Z
 DTSTART:20260923T180000Z
 DTEND:20260923T200000Z
 SUMMARY:Everton – Birmingham City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Walton Hall Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612633.ht
  ml
@@ -109,7 +109,7 @@ DTSTAMP:20260930T180000Z
 DTSTART:20260930T180000Z
 DTEND:20260930T200000Z
 SUMMARY:Birmingham City – Liverpool
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612640.ht
  ml
 END:VEVENT
@@ -141,7 +141,7 @@ DTSTAMP:20261021T180000Z
 DTSTART:20261021T180000Z
 DTEND:20261021T200000Z
 SUMMARY:Durham – Birmingham City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Maiden Castle\, Durham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612654.ht
  ml
@@ -163,7 +163,7 @@ DTSTAMP:20261028T193000Z
 DTSTART:20261028T193000Z
 DTEND:20261028T213000Z
 SUMMARY:Aston Villa – Birmingham City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Bescot Stadium\, Walsall
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612664.ht
  ml
@@ -196,7 +196,7 @@ DTSTAMP:20261111T190000Z
 DTSTART:20261111T190000Z
 DTEND:20261111T210000Z
 SUMMARY:Birmingham City – Sunderland
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612673.ht
  ml
 END:VEVENT
@@ -239,7 +239,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Birmingham City – Nottingham Forest
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612691.ht
  ml
 END:VEVENT

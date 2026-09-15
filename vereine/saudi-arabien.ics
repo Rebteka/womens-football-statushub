@@ -13,8 +13,7 @@ DTSTAMP:20250629T090000Z
 DTSTART:20250629T090000Z
 DTEND:20250629T110000Z
 SUMMARY:Philippines – Saudi-Arabien 3:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:Olympic Stadium\, Phnom Penh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372391.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20250702T090000Z
 DTSTART:20250702T090000Z
 DTEND:20250702T110000Z
 SUMMARY:Saudi-Arabien – Hong Kong 0:1
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:Olympic Stadium\, Phnom Penh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372407.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20250705T120000Z
 DTSTART:20250705T120000Z
 DTEND:20250705T140000Z
 SUMMARY:Cambodia – Saudi-Arabien 2:1
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:Olympic Stadium\, Phnom Penh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372424.ht
  ml
@@ -49,7 +46,8 @@ DTSTAMP:20260226T180000Z
 DTSTART:20260226T180000Z
 DTEND:20260226T200000Z
 SUMMARY:Bahrain – Saudi-Arabien 0:3
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1529300.ht
  ml
 END:VEVENT
@@ -59,7 +57,8 @@ DTSTAMP:20260302T190000Z
 DTSTART:20260302T190000Z
 DTEND:20260302T210000Z
 SUMMARY:Saudi-Arabien – Kyrgyz Republic 2:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1529308.ht
  ml
 END:VEVENT
@@ -69,7 +68,8 @@ DTSTAMP:20260306T190000Z
 DTSTART:20260306T190000Z
 DTEND:20260306T210000Z
 SUMMARY:Saudi-Arabien – Kyrgyz Republic 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1529318.ht
  ml
 END:VEVENT
@@ -79,7 +79,8 @@ DTSTAMP:20260410T160000Z
 DTSTART:20260410T160000Z
 DTEND:20260410T180000Z
 SUMMARY:Saudi-Arabien – Botswana 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540254.ht
  ml
 END:VEVENT
@@ -89,7 +90,8 @@ DTSTAMP:20260414T160000Z
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 SUMMARY:Saudi-Arabien – Egypt 1:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540592.ht
  ml
 END:VEVENT
@@ -99,7 +101,8 @@ DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Saudi-Arabien – Egypt 0:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540598.ht
  ml
 END:VEVENT
@@ -109,7 +112,8 @@ DTSTAMP:20260607T120000Z
 DTSTART:20260607T120000Z
 DTEND:20260607T140000Z
 SUMMARY:Saudi-Arabien – Sri Lanka 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548465.ht
  ml
 END:VEVENT
@@ -119,7 +123,8 @@ DTSTAMP:20260610T120000Z
 DTSTART:20260610T120000Z
 DTEND:20260610T140000Z
 SUMMARY:Saudi-Arabien – Laos 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548488.ht
  ml
 END:VEVENT
@@ -129,7 +134,8 @@ DTSTAMP:20260613T120000Z
 DTSTART:20260613T120000Z
 DTEND:20260613T140000Z
 SUMMARY:Saudi-Arabien – Laos 5:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548489.ht
  ml
 END:VEVENT

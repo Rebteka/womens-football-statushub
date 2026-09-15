@@ -13,7 +13,7 @@ DTSTAMP:20250502T000000Z
 DTSTART:20250502T000000Z
 DTEND:20250502T020000Z
 SUMMARY:Brazil U17 – Peru U17 2:0
-DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 1. Spieltag
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Francisco Rivera Escobar\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1366992.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20250504T000000Z
 DTSTART:20250504T000000Z
 DTEND:20250504T020000Z
 SUMMARY:Bolivia U17 – Brazil U17 0:5
-DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 2. Spieltag
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 2. Spieltag
 LOCATION:Estadio Francisco Rivera Escobar\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1366996.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20250508T000000Z
 DTSTART:20250508T000000Z
 DTEND:20250508T020000Z
 SUMMARY:Uruguay U17 – Brazil U17 0:1
-DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 4. Spieltag
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 4. Spieltag
 LOCATION:Estadio Francisco Rivera Escobar\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367004.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20250509T213000Z
 DTSTART:20250509T213000Z
 DTEND:20250509T233000Z
 SUMMARY:Brazil U17 – Ecuador U17 5:1
-DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 5. Spieltag
+DESCRIPTION:CONMEBOL U17 · Gruppenphase · 5. Spieltag
 LOCATION:Estadio Francisco Rivera Escobar\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367008.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20250512T220000Z
 DTSTART:20250512T220000Z
 DTEND:20250513T000000Z
 SUMMARY:Brazil U17 – Paraguay U17 1:1
-DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 1. Spieltag
+DESCRIPTION:CONMEBOL U17 · Finale Round · 1. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1375083.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20250516T003000Z
 DTSTART:20250516T003000Z
 DTEND:20250516T023000Z
 SUMMARY:Brazil U17 – Peru U17 4:0
-DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 2. Spieltag
+DESCRIPTION:CONMEBOL U17 · Finale Round · 2. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1375087.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20250519T003000Z
 DTSTART:20250519T003000Z
 DTEND:20250519T023000Z
 SUMMARY:Ecuador U17 – Brazil U17 0:0
-DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 3. Spieltag
+DESCRIPTION:CONMEBOL U17 · Finale Round · 3. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1375090.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20250521T223000Z
 DTSTART:20250521T223000Z
 DTEND:20250522T003000Z
 SUMMARY:Brazil U17 – Chile U17 2:2
-DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 4. Spieltag
+DESCRIPTION:CONMEBOL U17 · Finale Round · 4. Spieltag
 LOCATION:Estadio Francisco Rivera Escobar\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1375092.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20250524T203000Z
 DTSTART:20250524T203000Z
 DTEND:20250524T223000Z
 SUMMARY:Colombia U17 – Brazil U17 0:1
-DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 5. Spieltag
+DESCRIPTION:CONMEBOL U17 · Finale Round · 5. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1375094.ht
  ml
@@ -112,7 +112,7 @@ DTSTAMP:20261018T140000Z
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
 SUMMARY:Canada W U17 – Brazil U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546118.ht
  ml
 END:VEVENT
@@ -122,7 +122,7 @@ DTSTAMP:20261021T170000Z
 DTSTART:20261021T170000Z
 DTEND:20261021T190000Z
 SUMMARY:Ghana U17 – Brazil U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1586116.ht
  ml
 END:VEVENT
@@ -132,7 +132,7 @@ DTSTAMP:20261024T140000Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Brazil U17 – Norway U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546134.ht
  ml
 END:VEVENT

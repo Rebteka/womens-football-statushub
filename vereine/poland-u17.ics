@@ -13,7 +13,8 @@ DTSTAMP:20260209T100000Z
 DTSTART:20260209T100000Z
 DTEND:20260209T120000Z
 SUMMARY:Poland U17 – Norway U17 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1521027.ht
  ml
 END:VEVENT
@@ -23,7 +24,8 @@ DTSTAMP:20260212T100000Z
 DTSTART:20260212T100000Z
 DTEND:20260212T120000Z
 SUMMARY:Mexico U17 – Poland U17 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1521479.ht
  ml
 END:VEVENT
@@ -33,7 +35,8 @@ DTSTAMP:20260214T133000Z
 DTSTART:20260214T133000Z
 DTEND:20260214T153000Z
 SUMMARY:Scotland U17 – Poland U17
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522485.ht
  ml
 END:VEVENT
@@ -43,7 +46,7 @@ DTSTAMP:20260505T140000Z
 DTSTART:20260505T140000Z
 DTEND:20260505T160000Z
 SUMMARY:France U17 – Poland U17 5:0
-DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:U17-EM · Gruppenphase · 1. Spieltag
 LOCATION:The Showgrounds\, Coleraine
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543319.ht
  ml
@@ -54,7 +57,7 @@ DTSTAMP:20260508T170000Z
 DTSTART:20260508T170000Z
 DTEND:20260508T190000Z
 SUMMARY:Finland U17 – Poland U17 0:1
-DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:U17-EM · Gruppenphase · 2. Spieltag
 LOCATION:Inver Park\, Larne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543324.ht
  ml
@@ -65,7 +68,7 @@ DTSTAMP:20260511T140000Z
 DTSTART:20260511T140000Z
 DTEND:20260511T160000Z
 SUMMARY:Poland U17 – Spain U17 1:4
-DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:U17-EM · Gruppenphase · 3. Spieltag
 LOCATION:Inver Park\, Larne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543328.ht
  ml
@@ -76,7 +79,7 @@ DTSTAMP:20260514T150000Z
 DTSTART:20260514T150000Z
 DTEND:20260514T170000Z
 SUMMARY:England U17 – Poland U17 0:2
-DESCRIPTION:UEFA U17 Championship - Women · Finale
+DESCRIPTION:U17-EM · Finale
 LOCATION:Inver Park\, Larne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544864.ht
  ml
@@ -87,7 +90,8 @@ DTSTAMP:20260912T130000Z
 DTSTART:20260912T130000Z
 DTEND:20260912T150000Z
 SUMMARY:Austria U17 – Poland U17 3:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1637474.ht
  ml
 END:VEVENT
@@ -97,7 +101,8 @@ DTSTAMP:20260915T090000Z
 DTSTART:20260915T090000Z
 DTEND:20260915T110000Z
 SUMMARY:Austria U17 – Poland U17 2:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1637476.ht
  ml
 END:VEVENT
@@ -107,7 +112,7 @@ DTSTAMP:20261017T170000Z
 DTSTART:20261017T170000Z
 DTEND:20261017T190000Z
 SUMMARY:Poland U17 – Nigeria U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1586113.ht
  ml
 END:VEVENT
@@ -117,7 +122,7 @@ DTSTAMP:20261020T140000Z
 DTSTART:20261020T140000Z
 DTEND:20261020T160000Z
 SUMMARY:North Korea U17 – Poland U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546131.ht
  ml
 END:VEVENT
@@ -127,7 +132,7 @@ DTSTAMP:20261023T140000Z
 DTSTART:20261023T140000Z
 DTEND:20261023T160000Z
 SUMMARY:Puerto Rico W U17 – Poland U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546139.ht
  ml
 END:VEVENT

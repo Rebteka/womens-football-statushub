@@ -13,8 +13,7 @@ DTSTAMP:20240409T180000Z
 DTSTART:20240409T180000Z
 DTEND:20240409T200000Z
 SUMMARY:Albania – Estonia 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Air Albania Stadium\, Tirana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193216.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240531T150000Z
 DTSTART:20240531T150000Z
 DTEND:20240531T170000Z
 SUMMARY:Estonia – Albania 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 LOCATION:A. Le Coq Arena\, Tallinn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193224.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240712T173000Z
 DTSTART:20240712T173000Z
 DTEND:20240712T193000Z
 SUMMARY:Luxembourg – Estonia 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Stade Émile Mayrisch\, Esch-sur-Alzette
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193243.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Estonia – Luxembourg 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:Tamme staadion\, Tartu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193252.ht
  ml
@@ -61,7 +57,7 @@ DTSTAMP:20250225T133000Z
 DTSTART:20250225T133000Z
 DTEND:20250225T153000Z
 SUMMARY:Israel – Estonia 3:1
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:Alcufer Stadion\, Győr
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315869.ht
  ml
@@ -72,7 +68,7 @@ DTSTAMP:20250404T160000Z
 DTSTART:20250404T160000Z
 DTEND:20250404T180000Z
 SUMMARY:Estonia – Bulgaria 0:0
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:A. Le Coq Arena\, Tallinn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315878.ht
  ml
@@ -83,7 +79,7 @@ DTSTAMP:20250530T150000Z
 DTSTART:20250530T150000Z
 DTEND:20250530T170000Z
 SUMMARY:Estonia – Israel 0:3
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:Kadrioru Staadion\, Tallinn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315896.ht
  ml
@@ -94,7 +90,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Bulgaria – Estonia 0:1
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:Stadion Aleksandar Shalamanov\, Sofia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315905.ht
  ml
@@ -105,8 +101,7 @@ DTSTAMP:20260303T120000Z
 DTSTART:20260303T120000Z
 DTEND:20260303T140000Z
 SUMMARY:Bosnia-Herzegovina – Estonia 3:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:FF BH Football Training Centre\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523827.ht
  ml
@@ -117,8 +112,7 @@ DTSTAMP:20260307T150000Z
 DTSTART:20260307T150000Z
 DTEND:20260307T170000Z
 SUMMARY:Lithuania – Estonia 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Raudondvario stadionas\, Raudondvario
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523853.ht
  ml
@@ -129,7 +123,8 @@ DTSTAMP:20260410T103000Z
 DTSTART:20260410T103000Z
 DTEND:20260410T123000Z
 SUMMARY:Czech Republic U23 – Estonia 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1537380.ht
  ml
 END:VEVENT
@@ -139,8 +134,7 @@ DTSTAMP:20260414T150000Z
 DTSTART:20260414T150000Z
 DTEND:20260414T170000Z
 SUMMARY:Estonia – Liechtenstein 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:A. Le Coq Arena\, Tallinn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523878.ht
  ml
@@ -151,8 +145,7 @@ DTSTAMP:20260418T140000Z
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
 SUMMARY:Estonia – Lithuania 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:A. Le Coq Arena\, Tallinn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523902.ht
  ml
@@ -163,8 +156,7 @@ DTSTAMP:20260605T170000Z
 DTSTART:20260605T170000Z
 DTEND:20260605T190000Z
 SUMMARY:Liechtenstein – Estonia 0:5
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Rheinpark Stadion\, Vaduz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523928.ht
  ml
@@ -175,8 +167,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Estonia – Bosnia-Herzegovina 1:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Parnu Rannastaadion\, Parnu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523952.ht
  ml

@@ -13,8 +13,7 @@ DTSTAMP:20240405T164500Z
 DTSTART:20240405T164500Z
 DTEND:20240405T184500Z
 SUMMARY:Island – Polen 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Kópavogsvöllur\, Kópavogur
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193106.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T160000Z
 DTSTART:20240409T160000Z
 DTEND:20240409T180000Z
 SUMMARY:Polen – Österreich 1:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Stadion Miejski\, Gdynia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193112.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T183000Z
 DTSTART:20240531T183000Z
 DTEND:20240531T203000Z
 SUMMARY:Deutschland – Polen 4:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:Ostseestadion\, Rostock
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193120.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T160000Z
 DTSTART:20240604T160000Z
 DTEND:20240604T180000Z
 SUMMARY:Polen – Deutschland 1:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Stadion Miejski\, Gdynia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193133.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T160000Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Österreich – Polen 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:CASHPOINT Arena\, Altach
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193140.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Polen – Island 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:ArcelorMittal Park\, Sosnowiec
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193150.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T160000Z
 DTSTART:20241025T160000Z
 DTEND:20241025T180000Z
 SUMMARY:Rumänien – Polen 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Stadionul Arcul de Triumf\, București
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252885.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T170000Z
 DTSTART:20241029T170000Z
 DTEND:20241029T190000Z
 SUMMARY:Polen – Rumänien 4:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Polsat Plus Arena Gdańsk\, Gdańsk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252886.ht
  ml
@@ -109,8 +101,7 @@ DTSTAMP:20241129T170000Z
 DTSTART:20241129T170000Z
 DTEND:20241129T190000Z
 SUMMARY:Polen – Österreich 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Polsat Plus Arena Gdańsk\, Gdańsk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314225.ht
  ml
@@ -121,8 +112,7 @@ DTSTAMP:20241203T171500Z
 DTSTART:20241203T171500Z
 DTEND:20241203T191500Z
 SUMMARY:Österreich – Polen 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Generali Arena\, Wien
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314226.ht
  ml
@@ -133,7 +123,7 @@ DTSTAMP:20250221T194500Z
 DTSTART:20250221T194500Z
 DTEND:20250221T214500Z
 SUMMARY:Polen – Nordirland 2:0
-DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 1. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315806.ht
  ml
@@ -144,7 +134,7 @@ DTSTAMP:20250225T160000Z
 DTSTART:20250225T160000Z
 DTEND:20250225T180000Z
 SUMMARY:Rumänien – Polen 0:1
-DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 2. Spieltag
 LOCATION:Stadionul Arcul de Triumf\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315814.ht
  ml
@@ -155,7 +145,7 @@ DTSTAMP:20250404T160000Z
 DTSTART:20250404T160000Z
 DTEND:20250404T180000Z
 SUMMARY:Polen – Bosnia-Herzegovina 5:1
-DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 3. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315821.ht
  ml
@@ -166,7 +156,7 @@ DTSTAMP:20250408T133000Z
 DTSTART:20250408T133000Z
 DTEND:20250408T153000Z
 SUMMARY:Bosnia-Herzegovina – Polen 1:1
-DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 4. Spieltag
 LOCATION:FF BH Football Training Centre\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315829.ht
  ml
@@ -177,7 +167,7 @@ DTSTAMP:20250530T180000Z
 DTSTART:20250530T180000Z
 DTEND:20250530T200000Z
 SUMMARY:Nordirland – Polen 0:4
-DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 5. Spieltag
 LOCATION:Seaview\, Belfast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315837.ht
  ml
@@ -188,7 +178,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Polen – Rumänien 3:0
-DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 6. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315846.ht
  ml
@@ -199,7 +189,7 @@ DTSTAMP:20250704T190000Z
 DTSTART:20250704T190000Z
 DTEND:20250704T210000Z
 SUMMARY:Deutschland – Polen 2:0
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:kybunpark\, St. Gallen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367629.ht
  ml
@@ -210,7 +200,7 @@ DTSTAMP:20250708T190000Z
 DTSTART:20250708T190000Z
 DTEND:20250708T210000Z
 SUMMARY:Polen – Schweden 0:3
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:swissporarena\, Luzern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367637.ht
  ml
@@ -221,7 +211,7 @@ DTSTAMP:20250712T190000Z
 DTSTART:20250712T190000Z
 DTEND:20250712T210000Z
 SUMMARY:Polen – Dänemark 3:2
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:swissporarena\, Luzern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367645.ht
  ml
@@ -232,8 +222,7 @@ DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z
 DTEND:20260303T190000Z
 SUMMARY:Polen – Niederlande 2:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523820.ht
  ml
@@ -244,8 +233,7 @@ DTSTAMP:20260307T201000Z
 DTSTART:20260307T201000Z
 DTEND:20260307T221000Z
 SUMMARY:Frankreich – Polen 4:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523844.ht
  ml
 END:VEVENT
@@ -255,8 +243,7 @@ DTSTAMP:20260414T160000Z
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 SUMMARY:Polen – Republic of Ireland 2:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523870.ht
  ml
@@ -267,8 +254,7 @@ DTSTAMP:20260418T140000Z
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
 SUMMARY:Republic of Ireland – Polen 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Aviva Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523895.ht
  ml
@@ -279,8 +265,7 @@ DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Polen – Frankreich 0:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523919.ht
  ml
@@ -291,8 +276,7 @@ DTSTAMP:20260609T190000Z
 DTSTART:20260609T190000Z
 DTEND:20260609T210000Z
 SUMMARY:Niederlande – Polen 3:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Asito Stadium\, Almelo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523945.ht
  ml
@@ -303,7 +287,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Belgien – Polen
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557244.ht
  ml
 END:VEVENT
@@ -313,7 +297,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Polen – Belgien
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557265.ht
  ml
 END:VEVENT

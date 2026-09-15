@@ -13,8 +13,7 @@ DTSTAMP:20240405T140000Z
 DTSTART:20240405T140000Z
 DTEND:20240405T160000Z
 SUMMARY:Cyprus – Belarus 0:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193201.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T160000Z
 DTSTART:20240409T160000Z
 DTEND:20240409T180000Z
 SUMMARY:Belarus – Georgia 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193214.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T150000Z
 DTSTART:20240531T150000Z
 DTEND:20240531T170000Z
 SUMMARY:Lithuania – Belarus
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193217.ht
  ml
 STATUS:CANCELLED
@@ -49,8 +46,7 @@ DTSTAMP:20240604T150000Z
 DTSTART:20240604T150000Z
 DTEND:20240604T170000Z
 SUMMARY:Belarus – Lithuania
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193226.ht
  ml
 STATUS:CANCELLED
@@ -61,8 +57,7 @@ DTSTAMP:20240712T160000Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Georgia – Belarus 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Mikheil Meskhi 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193236.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Belarus – Cyprus 5:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:Mikheil Meskhi 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193244.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T183000Z
 DTSTART:20241025T183000Z
 DTEND:20241025T203000Z
 SUMMARY:Belarus – Tschechien 1:8
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:ŠRC Velika Gorica\, Velika Gorica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252897.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T140000Z
 DTSTART:20241029T140000Z
 DTEND:20241029T160000Z
 SUMMARY:Tschechien – Belarus 0:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:ŠRC Velika Gorica\, Velika Gorica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252898.ht
  ml
@@ -109,7 +101,7 @@ DTSTAMP:20250221T190000Z
 DTSTART:20250221T190000Z
 DTEND:20250221T210000Z
 SUMMARY:Belarus – Hungary 0:2
-DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 1. Spieltag
 LOCATION:Lagator Stadium\, Loznica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315809.ht
  ml
@@ -120,7 +112,7 @@ DTSTAMP:20250225T170000Z
 DTSTART:20250225T170000Z
 DTEND:20250225T190000Z
 SUMMARY:Serbia – Belarus 0:0
-DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 2. Spieltag
 LOCATION:Sports Center of FA of Serbia\, Stara Pazova
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315818.ht
  ml
@@ -131,7 +123,7 @@ DTSTAMP:20250404T150000Z
 DTSTART:20250404T150000Z
 DTEND:20250404T170000Z
 SUMMARY:Finnland – Belarus 0:0
-DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 3. Spieltag
 LOCATION:Stadio Silvio Piola\, Novara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315825.ht
  ml
@@ -142,7 +134,7 @@ DTSTAMP:20250408T190000Z
 DTSTART:20250408T190000Z
 DTEND:20250408T210000Z
 SUMMARY:Belarus – Serbia 0:3
-DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 4. Spieltag
 LOCATION:Stadio Silvio Piola\, Novara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315833.ht
  ml
@@ -153,7 +145,7 @@ DTSTAMP:20250530T180000Z
 DTSTART:20250530T180000Z
 DTEND:20250530T200000Z
 SUMMARY:Belarus – Finnland 0:3
-DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 5. Spieltag
 LOCATION:Szent Gellert Forum\, Szeged
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315841.ht
  ml
@@ -164,7 +156,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Hungary – Belarus 0:0
-DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 6. Spieltag
 LOCATION:Szent Gellert Forum\, Szeged
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315850.ht
  ml
@@ -175,8 +167,7 @@ DTSTAMP:20260307T090000Z
 DTSTART:20260307T090000Z
 DTEND:20260307T110000Z
 SUMMARY:Kazakhstan – Belarus 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Astana Arena\, Astana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523859.ht
  ml
@@ -187,8 +178,7 @@ DTSTAMP:20260414T120000Z
 DTSTART:20260414T120000Z
 DTEND:20260414T140000Z
 SUMMARY:Armenia – Belarus 0:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Vazgen Sargsyan Republican Stadium\, Yerevan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523884.ht
  ml
@@ -199,8 +189,7 @@ DTSTAMP:20260418T120000Z
 DTSTART:20260418T120000Z
 DTEND:20260418T140000Z
 SUMMARY:Belarus – Kazakhstan 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Tengiz Burjanadze Stadium\, Gori
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523909.ht
  ml
@@ -211,8 +200,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Belarus – Armenia 6:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Tengiz Burjanadze Stadium\, Gori
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523959.ht
  ml
@@ -223,7 +211,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Belarus – Italien
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557243.ht
  ml
 END:VEVENT
@@ -233,7 +221,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Italien – Belarus
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557262.ht
  ml
 END:VEVENT

@@ -13,7 +13,7 @@ DTSTAMP:20251213T121500Z
 DTSTART:20251213T121500Z
 DTEND:20251213T141500Z
 SUMMARY:Wolverhampton – Nottingham Forest 1:2
-DESCRIPTION:FA Women's Cup · 3rd Round
+DESCRIPTION:FA Cup · 3rd Round
 LOCATION:New Bucks Head\, Telford
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488455.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20260118T130000Z
 DTSTART:20260118T130000Z
 DTEND:20260118T150000Z
 SUMMARY:Brighton – Nottingham Forest 2:0
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 LOCATION:The Broadfield Stadium\, Crawley
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501247.ht
  ml
@@ -67,7 +67,7 @@ DTSTAMP:20260923T180000Z
 DTSTART:20260923T180000Z
 DTEND:20260923T200000Z
 SUMMARY:Nottingham Forest – Aston Villa
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:City Ground\, Nottingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612636.ht
  ml
@@ -99,7 +99,7 @@ DTSTAMP:20261018T120000Z
 DTSTART:20261018T120000Z
 DTEND:20261018T140000Z
 SUMMARY:Sheffield United – Nottingham Forest
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Bramall Lane\, Sheffield
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612650.ht
  ml
@@ -121,7 +121,7 @@ DTSTAMP:20261101T140000Z
 DTSTART:20261101T140000Z
 DTEND:20261101T160000Z
 SUMMARY:Nottingham Forest – Burnley
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:City Ground\, Nottingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612669.ht
  ml
@@ -154,7 +154,7 @@ DTSTAMP:20261118T190000Z
 DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 SUMMARY:Nottingham Forest – Liverpool
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:City Ground\, Nottingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612681.ht
  ml
@@ -165,7 +165,7 @@ DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Newcastle United – Nottingham Forest
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Gateshead International Stadium\, Gateshead
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612685.ht
  ml
@@ -176,7 +176,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Birmingham City – Nottingham Forest
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612691.ht
  ml
 END:VEVENT

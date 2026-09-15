@@ -13,7 +13,7 @@ DTSTAMP:20260308T140000Z
 DTSTART:20260308T140000Z
 DTEND:20260308T160000Z
 SUMMARY:Athlone WFC – Shelbourne 1:0
-DESCRIPTION:Women's President's Cup · Finale
+DESCRIPTION:President's Cup (Irland) · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530046.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260404T140000Z
 DTSTART:20260404T140000Z
 DTEND:20260404T160000Z
 SUMMARY:Waterford – Shelbourne 2:4
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539602.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20260509T150000Z
 DTSTART:20260509T150000Z
 DTEND:20260509T170000Z
 SUMMARY:Shelbourne – Bohemians WFC 2:1
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539607.ht
  ml
 END:VEVENT
@@ -43,7 +43,7 @@ DTSTAMP:20260530T160000Z
 DTSTART:20260530T160000Z
 DTEND:20260530T180000Z
 SUMMARY:Glentoran BU – Shelbourne 1:6
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542079.ht
  ml
 END:VEVENT
@@ -53,7 +53,7 @@ DTSTAMP:20260613T150000Z
 DTSTART:20260613T150000Z
 DTEND:20260613T170000Z
 SUMMARY:Shelbourne – Cliftonville 3:1
-DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+DESCRIPTION:All-Island Cup · Quarter-Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1553409.ht
  ml
 END:VEVENT
@@ -63,7 +63,7 @@ DTSTAMP:20260627T120000Z
 DTSTART:20260627T120000Z
 DTEND:20260627T140000Z
 SUMMARY:Shelbourne – Bohemians WFC 4:0
-DESCRIPTION:All-Island Cup - Women · Halbfinale
+DESCRIPTION:All-Island Cup · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1564787.ht
  ml
 END:VEVENT
@@ -73,7 +73,7 @@ DTSTAMP:20260718T183500Z
 DTSTART:20260718T183500Z
 DTEND:20260718T203500Z
 SUMMARY:Shelbourne – Galway United 2:0
-DESCRIPTION:All-Island Cup - Women · Finale
+DESCRIPTION:All-Island Cup · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1592165.ht
  ml
 END:VEVENT

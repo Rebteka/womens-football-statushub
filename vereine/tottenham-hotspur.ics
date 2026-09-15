@@ -13,7 +13,7 @@ DTSTAMP:20260118T120000Z
 DTSTART:20260118T120000Z
 DTEND:20260118T140000Z
 SUMMARY:Tottenham Hotspur – Leicester City FC 3:0
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 LOCATION:Brisbane Road\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501246.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20260223T193000Z
 DTSTART:20260223T193000Z
 DTEND:20260223T213000Z
 SUMMARY:London City Lionesses – Tottenham Hotspur 2:2
-DESCRIPTION:FA Women's Cup · Round 5
+DESCRIPTION:FA Cup · Round 5
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514958.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20260406T123000Z
 DTSTART:20260406T123000Z
 DTEND:20260406T143000Z
 SUMMARY:Chelsea – Tottenham Hotspur 2:1
-DESCRIPTION:FA Women's Cup · Viertelfinale
+DESCRIPTION:FA Cup · Viertelfinale
 LOCATION:Kingsmeadow\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526405.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20260923T180000Z
 DTSTART:20260923T180000Z
 DTEND:20260923T200000Z
 SUMMARY:Tottenham Hotspur – West Ham
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Brisbane Road\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612637.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20260930T184500Z
 DTSTART:20260930T184500Z
 DTEND:20260930T204500Z
 SUMMARY:Brighton – Tottenham Hotspur
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:The Broadfield Stadium\, Crawley
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612646.ht
  ml
@@ -145,7 +145,7 @@ DTSTAMP:20261028T190000Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Bristol City – Tottenham Hotspur
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612660.ht
  ml
@@ -178,7 +178,7 @@ DTSTAMP:20261111T190000Z
 DTSTART:20261111T190000Z
 DTEND:20261111T210000Z
 SUMMARY:Tottenham Hotspur – Crystal Palace
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Brisbane Road\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612676.ht
  ml
@@ -200,7 +200,7 @@ DTSTAMP:20261118T190000Z
 DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 SUMMARY:Tottenham Hotspur – Leicester City FC
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Brisbane Road\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612682.ht
  ml
@@ -233,7 +233,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Ipswich Town – Tottenham Hotspur
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612694.ht
  ml
 END:VEVENT

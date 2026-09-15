@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Serie A Cup 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1582312@anstoss
+DTSTAMP:20260821T160000Z
+DTSTART:20260821T160000Z
+DTEND:20260821T180000Z
+SUMMARY:Como 1907 – Juventus 0:2
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582315@anstoss
+DTSTAMP:20260821T183000Z
+DTSTART:20260821T183000Z
+DTEND:20260821T203000Z
+SUMMARY:Parma – Inter Mailand 0:1
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582316@anstoss
+DTSTAMP:20260822T160000Z
+DTSTART:20260822T160000Z
+DTEND:20260822T180000Z
+SUMMARY:Ternana – Roma 0:2
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582311@anstoss
+DTSTAMP:20260822T183000Z
+DTSTART:20260822T183000Z
+DTEND:20260822T203000Z
+SUMMARY:AC Milan – Como 1:1
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582313@anstoss
+DTSTAMP:20260823T160000Z
+DTSTART:20260823T160000Z
+DTEND:20260823T180000Z
+SUMMARY:Fiorentina – Sassuolo 1:2
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582314@anstoss
+DTSTAMP:20260823T183000Z
+DTSTART:20260823T183000Z
+DTEND:20260823T203000Z
+SUMMARY:Lazio – Napoli 4:2
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582321@anstoss
+DTSTAMP:20260829T160000Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:Juventus – Como 1:0
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582317@anstoss
+DTSTAMP:20260829T183000Z
+DTSTART:20260829T183000Z
+DTEND:20260829T203000Z
+SUMMARY:AC Milan – Como 1907 2:1
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582318@anstoss
+DTSTAMP:20260830T160000Z
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+SUMMARY:Roma – Sassuolo 0:1
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582320@anstoss
+DTSTAMP:20260830T160000Z
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+SUMMARY:Inter Mailand – Napoli 6:0
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582322@anstoss
+DTSTAMP:20260830T160000Z
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+SUMMARY:Lazio – Parma 2:0
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582319@anstoss
+DTSTAMP:20260830T183000Z
+DTSTART:20260830T183000Z
+DTEND:20260830T203000Z
+SUMMARY:Fiorentina – Ternana 3:1
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582328@anstoss
+DTSTAMP:20260905T153000Z
+DTSTART:20260905T153000Z
+DTEND:20260905T173000Z
+SUMMARY:Sassuolo – Ternana 2:0
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582323@anstoss
+DTSTAMP:20260905T153000Z
+DTSTART:20260905T153000Z
+DTEND:20260905T173000Z
+SUMMARY:Roma – Fiorentina 3:0
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582326@anstoss
+DTSTAMP:20260906T103000Z
+DTSTART:20260906T103000Z
+DTEND:20260906T123000Z
+SUMMARY:Juventus – AC Milan 1:0
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582324@anstoss
+DTSTAMP:20260906T103000Z
+DTSTART:20260906T103000Z
+DTEND:20260906T123000Z
+SUMMARY:Como – Como 1907 2:1
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582325@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Inter Mailand – Lazio 3:1
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582327@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Napoli – Parma 1:0
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638664@anstoss
+DTSTAMP:20260912T183000Z
+DTSTART:20260912T183000Z
+DTEND:20260912T203000Z
+SUMMARY:Juventus – Inter Mailand 1:0
+DESCRIPTION:Serie A Cup · Halbfinale
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638664.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638665@anstoss
+DTSTAMP:20260913T100000Z
+DTSTART:20260913T100000Z
+DTEND:20260913T120000Z
+SUMMARY:Sassuolo – Roma 1:7
+DESCRIPTION:Serie A Cup · Halbfinale
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639485@anstoss
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:Roma – Juventus
+DESCRIPTION:Serie A Cup · Finale
+LOCATION:Stadio dei Pini\, Viareggio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639485.ht
+ ml
+END:VEVENT
+END:VCALENDAR

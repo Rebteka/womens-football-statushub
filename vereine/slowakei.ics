@@ -13,8 +13,7 @@ DTSTAMP:20240405T130000Z
 DTSTART:20240405T130000Z
 DTEND:20240405T150000Z
 SUMMARY:Slowakei – Israel 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Národné tréningové centrum SFZ\, Senec
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193151.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T183500Z
 DTSTART:20240409T183500Z
 DTEND:20240409T203500Z
 SUMMARY:Schottland – Slowakei 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193166.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T160000Z
 DTSTART:20240531T160000Z
 DTEND:20240531T180000Z
 SUMMARY:Serbia – Slowakei 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:Stadion na Banovom brdu\, Beograd
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193170.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T160000Z
 DTSTART:20240604T160000Z
 DTEND:20240604T180000Z
 SUMMARY:Slowakei – Serbia 0:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:CITY ARENA – Štadión Antona Malatinského\, Trnava
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193177.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T170000Z
 DTSTART:20240712T170000Z
 DTEND:20240712T190000Z
 SUMMARY:Slowakei – Schottland 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:Štadión pod Zoborom\, Nitra
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193186.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Israel – Slowakei 2:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Árok utcai pálya\, Budaörs
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193194.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T153000Z
 DTSTART:20241025T153000Z
 DTEND:20241025T173000Z
 SUMMARY:Slowakei – Wales 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Futbalový štadion NTC Poprad\, Poprad
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252911.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T191500Z
 DTSTART:20241029T191500Z
 DTEND:20241029T211500Z
 SUMMARY:Wales – Slowakei 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Cardiff City Stadium\, Caerdydd
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252912.ht
  ml
@@ -109,7 +101,7 @@ DTSTAMP:20250221T180000Z
 DTSTART:20250221T180000Z
 DTEND:20250221T200000Z
 SUMMARY:Slowakei – Faroe Islands 3:0
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:City Arena Trnava\, Trnava
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315854.ht
  ml
@@ -120,7 +112,7 @@ DTSTAMP:20250225T163000Z
 DTSTART:20250225T163000Z
 DTEND:20250225T183000Z
 SUMMARY:Slowakei – Moldova 1:0
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:City Arena Trnava\, Trnava
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315863.ht
  ml
@@ -131,7 +123,7 @@ DTSTAMP:20250404T170000Z
 DTSTART:20250404T170000Z
 DTEND:20250404T190000Z
 SUMMARY:Gibraltar – Slowakei 0:8
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:Europa point stadium\, Gibraltar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315872.ht
  ml
@@ -142,7 +134,7 @@ DTSTAMP:20250408T140000Z
 DTSTART:20250408T140000Z
 DTEND:20250408T160000Z
 SUMMARY:Moldova – Slowakei 0:2
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Stadionul Zimbru
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315881.ht
  ml
@@ -153,7 +145,7 @@ DTSTAMP:20250530T150000Z
 DTSTART:20250530T150000Z
 DTEND:20250530T170000Z
 SUMMARY:Slowakei – Gibraltar 11:0
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:Futbal Tatran Arena\, Prešov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315890.ht
  ml
@@ -164,7 +156,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Faroe Islands – Slowakei 1:2
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315898.ht
  ml
@@ -175,8 +167,7 @@ DTSTAMP:20260303T150000Z
 DTSTART:20260303T150000Z
 DTEND:20260303T170000Z
 SUMMARY:Slowakei – Latvia 3:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:NTC Poprad\, Poprad
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523824.ht
  ml
@@ -187,8 +178,7 @@ DTSTAMP:20260307T160000Z
 DTSTART:20260307T160000Z
 DTEND:20260307T180000Z
 SUMMARY:Portugal – Slowakei 4:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523848.ht
  ml
 END:VEVENT
@@ -198,8 +188,7 @@ DTSTAMP:20260414T153000Z
 DTSTART:20260414T153000Z
 DTEND:20260414T173000Z
 SUMMARY:Finnland – Slowakei 4:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Bolt Arena\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523874.ht
  ml
@@ -210,8 +199,7 @@ DTSTAMP:20260418T140000Z
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
 SUMMARY:Slowakei – Portugal 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523898.ht
  ml
 END:VEVENT
@@ -221,8 +209,7 @@ DTSTAMP:20260605T140000Z
 DTSTART:20260605T140000Z
 DTEND:20260605T160000Z
 SUMMARY:Slowakei – Finnland 0:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523924.ht
  ml
 END:VEVENT
@@ -232,8 +219,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Latvia – Slowakei 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Daugavas stadions\, Riga
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523949.ht
  ml
@@ -244,7 +230,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Slowakei – Ukraine
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557256.ht
  ml
 END:VEVENT
@@ -254,7 +240,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Ukraine – Slowakei
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557272.ht
  ml
 END:VEVENT

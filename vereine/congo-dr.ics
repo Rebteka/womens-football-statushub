@@ -13,7 +13,7 @@ DTSTAMP:20230710T000000Z
 DTSTART:20230710T000000Z
 DTEND:20230710T020000Z
 SUMMARY:Mozambique – Congo DR (verlegt)
-DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 1st Round
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140650.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20230718T000000Z
 DTSTART:20230718T000000Z
 DTEND:20230718T020000Z
 SUMMARY:Congo DR – Mozambique (verlegt)
-DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 1st Round
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140651.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20231025T000000Z
 DTSTART:20231025T000000Z
 DTEND:20231025T020000Z
 SUMMARY:Congo DR – South Africa 1:1
-DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 2nd Round
 LOCATION:Stade des Martyrs de la Pentecôte\, Kinshasa
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140648.ht
  ml
@@ -44,7 +44,7 @@ DTSTAMP:20231030T140000Z
 DTSTART:20231030T140000Z
 DTEND:20231030T160000Z
 SUMMARY:South Africa – Congo DR 2:0
-DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+DESCRIPTION:Olympia-Qualifikation Afrika · 2nd Round
 LOCATION:Orlando Stadium\, Johannesburg\, GA
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140649.ht
  ml
@@ -55,7 +55,8 @@ DTSTAMP:20260412T090000Z
 DTSTART:20260412T090000Z
 DTEND:20260412T110000Z
 SUMMARY:Nepal – Congo DR
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526983.ht
  ml
 STATUS:CANCELLED
@@ -66,7 +67,8 @@ DTSTAMP:20260412T090000Z
 DTSTART:20260412T090000Z
 DTEND:20260412T110000Z
 SUMMARY:Indonesia – Congo DR 1:7
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540255.ht
  ml
 END:VEVENT
@@ -76,7 +78,8 @@ DTSTAMP:20260415T133000Z
 DTSTART:20260415T133000Z
 DTEND:20260415T153000Z
 SUMMARY:Thailand – Congo DR 2:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540595.ht
  ml
 END:VEVENT

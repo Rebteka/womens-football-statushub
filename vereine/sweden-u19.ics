@@ -13,7 +13,8 @@ DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z
 DTEND:20260303T190000Z
 SUMMARY:Germany U19 – Sweden U19 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526376.ht
  ml
 END:VEVENT
@@ -23,7 +24,8 @@ DTSTAMP:20260306T130000Z
 DTSTART:20260306T130000Z
 DTEND:20260306T150000Z
 SUMMARY:Denmark U19 – Sweden U19 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526384.ht
  ml
 END:VEVENT
@@ -33,7 +35,7 @@ DTSTAMP:20260627T180000Z
 DTSTART:20260627T180000Z
 DTEND:20260627T200000Z
 SUMMARY:Sweden U19 – Poland U19 1:0
-DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+DESCRIPTION:U19-EM · Gruppenphase
 LOCATION:Stadion Grbavica\, Sarajevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561058.ht
  ml
@@ -44,7 +46,7 @@ DTSTAMP:20260630T150000Z
 DTSTART:20260630T150000Z
 DTEND:20260630T170000Z
 SUMMARY:Bosnia-Herzegovina U19 – Sweden U19 0:5
-DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+DESCRIPTION:U19-EM · Gruppenphase
 LOCATION:Bilino Polje\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561061.ht
  ml
@@ -55,7 +57,7 @@ DTSTAMP:20260703T150000Z
 DTSTART:20260703T150000Z
 DTEND:20260703T170000Z
 SUMMARY:Germany U19 – Sweden U19 2:0
-DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+DESCRIPTION:U19-EM · Gruppenphase
 LOCATION:FF BH Football Training Centre\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561065.ht
  ml
@@ -66,7 +68,7 @@ DTSTAMP:20260707T140000Z
 DTSTART:20260707T140000Z
 DTEND:20260707T160000Z
 SUMMARY:Spain U19 – Sweden U19 3:0
-DESCRIPTION:UEFA U19 Championship - Women · Halbfinale
+DESCRIPTION:U19-EM · Halbfinale
 LOCATION:FF BH Football Training Centre\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1578548.ht
  ml

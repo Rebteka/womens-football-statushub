@@ -13,8 +13,7 @@ DTSTAMP:20240405T154500Z
 DTSTART:20240405T154500Z
 DTEND:20240405T174500Z
 SUMMARY:Hungary – Azerbaijan 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 1. Spieltag
 LOCATION:Szent Gellért Fórum\, Szeged
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193153.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T170000Z
 DTSTART:20240409T170000Z
 DTEND:20240409T190000Z
 SUMMARY:Turkey – Hungary 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 2. Spieltag
 LOCATION:Siltaş Yapı Pendik Stadyumu\, İstanbul
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193165.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T180000Z
 DTSTART:20240531T180000Z
 DTEND:20240531T200000Z
 SUMMARY:Schweiz – Hungary 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 3. Spieltag
 LOCATION:Tissot Arena\, Biel/Bienne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193167.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T153000Z
 DTSTART:20240604T153000Z
 DTEND:20240604T173000Z
 SUMMARY:Hungary – Schweiz 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 4. Spieltag
 LOCATION:Hidegkuti Nándor Stadion\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193175.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T160000Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Azerbaijan – Hungary 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 5. Spieltag
 LOCATION:Liv Bona Dea Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193183.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Hungary – Turkey 1:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League B · 6. Spieltag
 LOCATION:Alcufer Stadion\, Győr
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193192.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T161500Z
 DTSTART:20241025T161500Z
 DTEND:20241025T181500Z
 SUMMARY:Hungary – Schottland 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Bozsik Aréna\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252909.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T193500Z
 DTSTART:20241029T193500Z
 DTEND:20241029T213500Z
 SUMMARY:Schottland – Hungary 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Easter Road Stadium\, Edinburgh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252910.ht
  ml
@@ -109,7 +101,7 @@ DTSTAMP:20250221T190000Z
 DTSTART:20250221T190000Z
 DTEND:20250221T210000Z
 SUMMARY:Belarus – Hungary 0:2
-DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 1. Spieltag
 LOCATION:Lagator Stadium\, Loznica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315809.ht
  ml
@@ -120,7 +112,7 @@ DTSTAMP:20250225T170000Z
 DTSTART:20250225T170000Z
 DTEND:20250225T190000Z
 SUMMARY:Hungary – Finnland 0:1
-DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 2. Spieltag
 LOCATION:Hidegkuti Nándor Stadion\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315817.ht
  ml
@@ -131,7 +123,7 @@ DTSTAMP:20250404T180000Z
 DTSTART:20250404T180000Z
 DTEND:20250404T200000Z
 SUMMARY:Hungary – Serbia 0:1
-DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 3. Spieltag
 LOCATION:Alcufer Stadion\, Gyor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315826.ht
  ml
@@ -142,7 +134,7 @@ DTSTAMP:20250408T153000Z
 DTSTART:20250408T153000Z
 DTEND:20250408T173000Z
 SUMMARY:Finnland – Hungary 3:0
-DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 4. Spieltag
 LOCATION:Tammelan Stadion\, Tampere
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315834.ht
  ml
@@ -153,7 +145,7 @@ DTSTAMP:20250530T170000Z
 DTSTART:20250530T170000Z
 DTEND:20250530T190000Z
 SUMMARY:Serbia – Hungary 1:0
-DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 5. Spieltag
 LOCATION:Sports Center of FA of Serbia\, Stara Pazova
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315842.ht
  ml
@@ -164,7 +156,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Hungary – Belarus 0:0
-DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 6. Spieltag
 LOCATION:Szent Gellert Forum\, Szeged
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315850.ht
  ml
@@ -175,8 +167,7 @@ DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z
 DTEND:20260303T200000Z
 SUMMARY:Andorra – Hungary 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Estadi Nacional\, Andorra la Vella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523831.ht
  ml
@@ -187,8 +178,7 @@ DTSTAMP:20260307T133000Z
 DTSTART:20260307T133000Z
 DTEND:20260307T153000Z
 SUMMARY:Hungary – Azerbaijan 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Pancho Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523856.ht
  ml
@@ -199,8 +189,7 @@ DTSTAMP:20260414T140000Z
 DTSTART:20260414T140000Z
 DTEND:20260414T160000Z
 SUMMARY:North Macedonia – Hungary 0:5
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Stadion Petar Milosevski\, Bitola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523881.ht
  ml
@@ -211,8 +200,7 @@ DTSTAMP:20260418T130000Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Hungary – North Macedonia 7:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Pancho Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523906.ht
  ml
@@ -223,8 +211,7 @@ DTSTAMP:20260605T140000Z
 DTSTART:20260605T140000Z
 DTEND:20260605T160000Z
 SUMMARY:Azerbaijan – Hungary 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Mehdi Huseynzade Stadium\, Sumqayit
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523931.ht
  ml
@@ -235,8 +222,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Hungary – Andorra 6:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Illovszky Rudolf Stadion\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523956.ht
  ml
@@ -247,7 +233,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Hungary – Niederlande
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557249.ht
  ml
 END:VEVENT
@@ -257,7 +243,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Niederlande – Hungary
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557263.ht
  ml
 END:VEVENT

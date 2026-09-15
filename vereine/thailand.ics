@@ -13,8 +13,7 @@ DTSTAMP:20230401T100000Z
 DTSTART:20230401T100000Z
 DTEND:20230401T120000Z
 SUMMARY:Singapore – Thailand 0:6
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 1. Spieltag
 LOCATION:Chonburi UTA Stadium\, Chonburi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007671.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230403T000000Z
 DTSTART:20230403T000000Z
 DTEND:20230403T020000Z
 SUMMARY:Thailand – Sri Lanka
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007658.ht
  ml
 STATUS:CANCELLED
@@ -37,8 +35,7 @@ DTSTAMP:20230407T100000Z
 DTSTART:20230407T100000Z
 DTEND:20230407T120000Z
 SUMMARY:Thailand – Mongolia 6:0
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 3. Spieltag
 LOCATION:Chonburi UTA Stadium\, Chonburi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007682.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20231026T073000Z
 DTSTART:20231026T073000Z
 DTEND:20231026T093000Z
 SUMMARY:Südkorea – Thailand 10:1
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 1. Spieltag
 LOCATION:Xiamen Egret Stadium\, Xiamen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1027918.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20231029T113500Z
 DTSTART:20231029T113500Z
 DTEND:20231029T133500Z
 SUMMARY:Thailand – China 0:3
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 2. Spieltag
 LOCATION:Xiamen Egret Stadium\, Xiamen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1034483.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20231101T073000Z
 DTSTART:20231101T073000Z
 DTEND:20231101T093000Z
 SUMMARY:Thailand – Korea DPR 0:7
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 3. Spieltag
 LOCATION:Xiamen Egret Stadium\, Xiamen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1034489.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20250626T123000Z
 DTSTART:20250626T123000Z
 DTEND:20250626T143000Z
 SUMMARY:Timor-Leste – Thailand 0:4
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:700th Anniversary Stadium\, Chiang Mai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372397.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20250629T123000Z
 DTSTART:20250629T123000Z
 DTEND:20250629T143000Z
 SUMMARY:Thailand – Iraq 7:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:700th Anniversary Stadium\, Chiang Mai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372413.ht
  ml
@@ -109,8 +101,7 @@ DTSTAMP:20250702T123000Z
 DTSTART:20250702T123000Z
 DTEND:20250702T143000Z
 SUMMARY:Mongolia – Thailand 0:11
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 4. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 4. Spieltag
 LOCATION:700th Anniversary Stadium\, Chiang Mai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372430.ht
  ml
@@ -121,8 +112,7 @@ DTSTAMP:20250705T123000Z
 DTSTART:20250705T123000Z
 DTEND:20250705T143000Z
 SUMMARY:Thailand – India 1:2
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 5. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 5. Spieltag
 LOCATION:700th Anniversary Stadium\, Chiang Mai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372434.ht
  ml
@@ -133,7 +123,8 @@ DTSTAMP:20260412T133000Z
 DTSTART:20260412T133000Z
 DTEND:20260412T153000Z
 SUMMARY:Thailand – New Caledonia 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1537379.ht
  ml
 END:VEVENT
@@ -143,7 +134,8 @@ DTSTAMP:20260415T133000Z
 DTSTART:20260415T133000Z
 DTEND:20260415T153000Z
 SUMMARY:Thailand – Congo DR 2:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540595.ht
  ml
 END:VEVENT
@@ -153,7 +145,8 @@ DTSTAMP:20260606T103000Z
 DTSTART:20260606T103000Z
 DTEND:20260606T123000Z
 SUMMARY:Thailand – Uzbekistan 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546834.ht
  ml
 END:VEVENT
@@ -163,7 +156,8 @@ DTSTAMP:20260609T103000Z
 DTSTART:20260609T103000Z
 DTEND:20260609T123000Z
 SUMMARY:Myanmar – Thailand 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546836.ht
  ml
 END:VEVENT

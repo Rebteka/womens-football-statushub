@@ -13,7 +13,7 @@ DTSTAMP:20230722T010000Z
 DTSTART:20230722T010000Z
 DTEND:20230722T030000Z
 SUMMARY:USA – Vietnam 3:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013557.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230727T010000Z
 DTSTART:20230727T010000Z
 DTEND:20230727T030000Z
 SUMMARY:USA – Niederlande 1:1
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Sky Stadium\, Wellington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013573.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230801T070000Z
 DTSTART:20230801T070000Z
 DTEND:20230801T090000Z
 SUMMARY:Portugal – USA 0:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Eden Park\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013590.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20230806T090000Z
 DTSTART:20230806T090000Z
 DTEND:20230806T110000Z
 SUMMARY:Schweden – USA 0:0
-DESCRIPTION:World Cup - Women · Achtelfinale
+DESCRIPTION:Frauen-WM · Achtelfinale
 LOCATION:Melbourne Rectangular Stadium\, Melbourne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1104376.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20240221T031500Z
 DTSTART:20240221T031500Z
 DTEND:20240221T051500Z
 SUMMARY:USA – Dominican Republic 5:0
-DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 1. Spieltag
 LOCATION:Dignity Health Sports Park\, Carson\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1174961.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20240224T031500Z
 DTSTART:20240224T031500Z
 DTEND:20240224T051500Z
 SUMMARY:Argentina – USA 0:4
-DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 2. Spieltag
 LOCATION:Dignity Health Sports Park\, Carson\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1159531.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20240227T031500Z
 DTSTART:20240227T031500Z
 DTEND:20240227T051500Z
 SUMMARY:USA – Mexiko 0:2
-DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:CONCACAF W Gold Cup · Gruppenphase · 3. Spieltag
 LOCATION:Dignity Health Sports Park\, Carson\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1159534.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20240304T011500Z
 DTSTART:20240304T011500Z
 DTEND:20240304T031500Z
 SUMMARY:USA – Kolumbien 3:0
-DESCRIPTION:CONCACAF Gold Cup - Women · Viertelfinale
+DESCRIPTION:CONCACAF W Gold Cup · Viertelfinale
 LOCATION:BMO Stadium\, Los Angeles\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1178663.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20240307T031500Z
 DTSTART:20240307T031500Z
 DTEND:20240307T051500Z
 SUMMARY:Kanada – USA 2:2
-DESCRIPTION:CONCACAF Gold Cup - Women · Halbfinale
+DESCRIPTION:CONCACAF W Gold Cup · Halbfinale
 LOCATION:Snapdragon Stadium\, San Diego\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1180891.ht
  ml
@@ -112,7 +112,7 @@ DTSTAMP:20240311T001500Z
 DTSTART:20240311T001500Z
 DTEND:20240311T021500Z
 SUMMARY:USA – Brasilien 1:0
-DESCRIPTION:CONCACAF Gold Cup - Women · Finale
+DESCRIPTION:CONCACAF W Gold Cup · Finale
 LOCATION:Snapdragon Stadium\, San Diego\, California
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1182549.ht
  ml
@@ -123,7 +123,7 @@ DTSTAMP:20240725T190000Z
 DTSTART:20240725T190000Z
 DTEND:20240725T210000Z
 SUMMARY:USA – Zambia 3:0
-DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
 LOCATION:Allianz Riviera\, Nice
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1194358.ht
  ml
@@ -134,7 +134,7 @@ DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T210000Z
 SUMMARY:USA – Deutschland 4:1
-DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
 LOCATION:Orange Vélodrome\, Marseille
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187470.ht
  ml
@@ -145,7 +145,7 @@ DTSTAMP:20240731T170000Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Australien – USA 1:2
-DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
 LOCATION:Orange Vélodrome\, Marseille
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187472.ht
  ml
@@ -156,7 +156,7 @@ DTSTAMP:20240803T130000Z
 DTSTART:20240803T130000Z
 DTEND:20240803T150000Z
 SUMMARY:USA – Japan 1:0
-DESCRIPTION:Olympics Women · Viertelfinale
+DESCRIPTION:Olympische Spiele · Viertelfinale
 LOCATION:Parc des Princes\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1274761.ht
  ml
@@ -167,7 +167,7 @@ DTSTAMP:20240806T160000Z
 DTSTART:20240806T160000Z
 DTEND:20240806T180000Z
 SUMMARY:USA – Deutschland 1:0
-DESCRIPTION:Olympics Women · Halbfinale
+DESCRIPTION:Olympische Spiele · Halbfinale
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1279532.ht
  ml
@@ -178,7 +178,7 @@ DTSTAMP:20240810T150000Z
 DTSTART:20240810T150000Z
 DTEND:20240810T170000Z
 SUMMARY:Brasilien – USA 0:1
-DESCRIPTION:Olympics Women · Finale
+DESCRIPTION:Olympische Spiele · Finale
 LOCATION:Parc des Princes\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1283391.ht
  ml
@@ -189,7 +189,8 @@ DTSTAMP:20260124T223000Z
 DTSTART:20260124T223000Z
 DTEND:20260125T003000Z
 SUMMARY:USA – Paraguay 6:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Dignity Health Sports Park
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1503001.ht
  ml
@@ -200,7 +201,8 @@ DTSTAMP:20260128T030000Z
 DTSTART:20260128T030000Z
 DTEND:20260128T050000Z
 SUMMARY:USA – Chile 5:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Harder Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1503002.ht
  ml
@@ -211,7 +213,8 @@ DTSTAMP:20260411T213000Z
 DTSTART:20260411T213000Z
 DTEND:20260411T233000Z
 SUMMARY:USA – Japan 2:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:PayPal Park
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514113.ht
  ml
@@ -222,7 +225,8 @@ DTSTAMP:20260415T020000Z
 DTSTART:20260415T020000Z
 DTEND:20260415T040000Z
 SUMMARY:USA – Japan 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Lumen Field
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514114.ht
  ml
@@ -233,7 +237,8 @@ DTSTAMP:20260418T010000Z
 DTSTART:20260418T010000Z
 DTEND:20260418T030000Z
 SUMMARY:USA – Japan 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514115.ht
  ml
 END:VEVENT
@@ -243,7 +248,8 @@ DTSTAMP:20260606T213000Z
 DTSTART:20260606T213000Z
 DTEND:20260606T233000Z
 SUMMARY:Brasilien – USA 2:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 LOCATION:Neo Quimica Arena\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
  ml
@@ -254,7 +260,8 @@ DTSTAMP:20260610T003000Z
 DTSTART:20260610T003000Z
 DTEND:20260610T023000Z
 SUMMARY:Brasilien – USA 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
  ml
 END:VEVENT
@@ -264,7 +271,8 @@ DTSTAMP:20261010T183000Z
 DTSTART:20261010T183000Z
 DTEND:20261010T203000Z
 SUMMARY:USA – Spanien
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
  ml
 END:VEVENT
@@ -274,7 +282,8 @@ DTSTAMP:20261013T230000Z
 DTSTART:20261013T230000Z
 DTEND:20261014T010000Z
 SUMMARY:USA – Spanien
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1604195.ht
  ml
 END:VEVENT
@@ -284,7 +293,7 @@ DTSTAMP:20261127T210000Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:USA – El Salvador
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Viertelfinale
+DESCRIPTION:WM-Qualifikation CONCACAF · Viertelfinale
 LOCATION:Texas Health Mansfield Stadium\, Mansfield
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1550711.ht
  ml

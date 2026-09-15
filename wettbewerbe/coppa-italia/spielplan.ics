@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coppa Italia 2025/26
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1480954@anstoss
+DTSTAMP:20250831T130000Z
+DTSTART:20250831T130000Z
+DTEND:20250831T150000Z
+SUMMARY:Trastevere – Vicenza Calcio Femminile 2:2
+DESCRIPTION:Coppa Italia · Preliminary Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480955@anstoss
+DTSTAMP:20250831T150000Z
+DTSTART:20250831T150000Z
+DTEND:20250831T170000Z
+SUMMARY:Venezia – Frosinone 1:0
+DESCRIPTION:Coppa Italia · Preliminary Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480956@anstoss
+DTSTAMP:20250920T123000Z
+DTSTART:20250920T123000Z
+DTEND:20250920T143000Z
+SUMMARY:Venezia – Napoli 1:5
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480945@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Trastevere – Ternana 0:3
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1471083@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Brescia – Cesena 1:2
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1471083.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1471087@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Verona – Genoa 0:4
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1471087.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1471086@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:San Marino – Parma 0:4
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1471086.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1471082@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Arezzo – Lumezzane 0:1
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1471082.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1471084@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Freedom – Bologna 3:4
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1471084.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1471085@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Res Roma – Como 1907 2:3
+DESCRIPTION:Coppa Italia · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1471085.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480950@anstoss
+DTSTAMP:20251220T113000Z
+DTSTART:20251220T113000Z
+DTEND:20251220T133000Z
+SUMMARY:Napoli – Sassuolo 3:1
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480953@anstoss
+DTSTAMP:20251220T113000Z
+DTSTART:20251220T113000Z
+DTEND:20251220T133000Z
+SUMMARY:Ternana – Como 2:1
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480947@anstoss
+DTSTAMP:20251221T123000Z
+DTSTART:20251221T123000Z
+DTEND:20251221T143000Z
+SUMMARY:Lumezzane – Roma 1:4
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480952@anstoss
+DTSTAMP:20251221T133000Z
+DTSTART:20251221T133000Z
+DTEND:20251221T153000Z
+SUMMARY:Parma – Lazio 0:1
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480951@anstoss
+DTSTAMP:20251221T133000Z
+DTSTART:20251221T133000Z
+DTEND:20251221T153000Z
+SUMMARY:Bologna – Fiorentina 1:1
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480946@anstoss
+DTSTAMP:20251221T133000Z
+DTSTART:20251221T133000Z
+DTEND:20251221T153000Z
+SUMMARY:Cesena – Juventus 1:7
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480946.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480948@anstoss
+DTSTAMP:20251221T133000Z
+DTSTART:20251221T133000Z
+DTEND:20251221T153000Z
+SUMMARY:Genoa – AC Milan 2:3
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480948.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480949@anstoss
+DTSTAMP:20251221T133000Z
+DTSTART:20251221T133000Z
+DTEND:20251221T153000Z
+SUMMARY:Como 1907 – Inter Mailand 1:2
+DESCRIPTION:Coppa Italia · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514285@anstoss
+DTSTAMP:20260120T170000Z
+DTSTART:20260120T170000Z
+DTEND:20260120T190000Z
+SUMMARY:AC Milan – Fiorentina 1:1
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514286@anstoss
+DTSTAMP:20260121T170000Z
+DTSTART:20260121T170000Z
+DTEND:20260121T190000Z
+SUMMARY:Ternana – Inter Mailand 0:2
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514287@anstoss
+DTSTAMP:20260121T193000Z
+DTSTART:20260121T193000Z
+DTEND:20260121T213000Z
+SUMMARY:Lazio – Roma 0:0
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514288@anstoss
+DTSTAMP:20260122T170000Z
+DTSTART:20260122T170000Z
+DTEND:20260122T190000Z
+SUMMARY:Napoli – Juventus 1:2
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514289@anstoss
+DTSTAMP:20260128T170000Z
+DTSTART:20260128T170000Z
+DTEND:20260128T190000Z
+SUMMARY:Roma – Lazio 3:0
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514290@anstoss
+DTSTAMP:20260128T170000Z
+DTSTART:20260128T170000Z
+DTEND:20260128T190000Z
+SUMMARY:Inter Mailand – Ternana 4:0
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514291@anstoss
+DTSTAMP:20260129T170000Z
+DTSTART:20260129T170000Z
+DTEND:20260129T190000Z
+SUMMARY:Fiorentina – AC Milan 1:0
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514292@anstoss
+DTSTAMP:20260129T193000Z
+DTSTART:20260129T193000Z
+DTEND:20260129T213000Z
+SUMMARY:Juventus – Napoli 2:1
+DESCRIPTION:Coppa Italia · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538184@anstoss
+DTSTAMP:20260311T170000Z
+DTSTART:20260311T170000Z
+DTEND:20260311T190000Z
+SUMMARY:Fiorentina – Juventus 0:2
+DESCRIPTION:Coppa Italia · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538185@anstoss
+DTSTAMP:20260312T170000Z
+DTSTART:20260312T170000Z
+DTEND:20260312T190000Z
+SUMMARY:Roma – Inter Mailand 1:1
+DESCRIPTION:Coppa Italia · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538185.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538186@anstoss
+DTSTAMP:20260329T130000Z
+DTSTART:20260329T130000Z
+DTEND:20260329T150000Z
+SUMMARY:Inter Mailand – Roma 1:2
+DESCRIPTION:Coppa Italia · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538187@anstoss
+DTSTAMP:20260329T160000Z
+DTSTART:20260329T160000Z
+DTEND:20260329T180000Z
+SUMMARY:Juventus – Fiorentina 2:1
+DESCRIPTION:Coppa Italia · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542084@anstoss
+DTSTAMP:20260524T160000Z
+DTSTART:20260524T160000Z
+DTEND:20260524T180000Z
+SUMMARY:Juventus – Roma 0:1
+DESCRIPTION:Coppa Italia · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542084.ht
+ ml
+END:VEVENT
+END:VCALENDAR

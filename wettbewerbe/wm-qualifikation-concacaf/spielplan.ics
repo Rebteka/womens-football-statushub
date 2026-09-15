@@ -1,0 +1,663 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WM-Qualifikation CONCACAF 2025/26
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1488271@anstoss
+DTSTAMP:20251127T200000Z
+DTSTART:20251127T200000Z
+DTEND:20251127T220000Z
+SUMMARY:US Virgin Islands – St. Lucia 3:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Bethlehem Soccer Stadium\, Upper Bethlehem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488271.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488270@anstoss
+DTSTAMP:20251127T200000Z
+DTSTART:20251127T200000Z
+DTEND:20251127T220000Z
+SUMMARY:Antigua and Barbuda – Nicaragua 0:4
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Sir Vivian Richards Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488272@anstoss
+DTSTAMP:20251128T000000Z
+DTSTART:20251128T000000Z
+DTEND:20251128T020000Z
+SUMMARY:Cayman Islands – Bermuda 0:4
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Truman Bodden Stadium\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488273@anstoss
+DTSTAMP:20251128T193000Z
+DTSTART:20251128T193000Z
+DTEND:20251128T213000Z
+SUMMARY:Anguilla – Suriname 1:3
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488274@anstoss
+DTSTAMP:20251129T000000Z
+DTSTART:20251129T000000Z
+DTEND:20251129T020000Z
+SUMMARY:Aruba – St. Kitts and Nevis 2:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Complejo Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488274.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488275@anstoss
+DTSTAMP:20251129T190000Z
+DTSTART:20251129T190000Z
+DTEND:20251129T210000Z
+SUMMARY:Dominica – Jamaica 0:18
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Daren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488275.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488276@anstoss
+DTSTAMP:20251129T230000Z
+DTSTART:20251129T230000Z
+DTEND:20251130T010000Z
+SUMMARY:Barbados – Mexiko 0:14
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Arnos Vale Stadium\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488277@anstoss
+DTSTAMP:20251129T233000Z
+DTSTART:20251129T233000Z
+DTEND:20251130T013000Z
+SUMMARY:Grenada – Costa Rica 1:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Kirani James Athletic Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488277.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488278@anstoss
+DTSTAMP:20251201T000000Z
+DTSTART:20251201T000000Z
+DTEND:20251201T020000Z
+SUMMARY:Curaçao – Panama 1:6
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488278.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488279@anstoss
+DTSTAMP:20251201T010000Z
+DTSTART:20251201T010000Z
+DTEND:20251201T030000Z
+SUMMARY:Belize – Haiti 0:9
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:FFB Field\, Belmopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488279.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488280@anstoss
+DTSTAMP:20251201T200000Z
+DTSTART:20251201T200000Z
+DTEND:20251201T220000Z
+SUMMARY:Barbados – Trinidad and Tobago 0:5
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:BFA Technical Centre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488281@anstoss
+DTSTAMP:20251201T233000Z
+DTSTART:20251201T233000Z
+DTEND:20251202T013000Z
+SUMMARY:Puerto Rico – St. Lucia 7:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488282@anstoss
+DTSTAMP:20251202T000000Z
+DTSTART:20251202T000000Z
+DTEND:20251202T020000Z
+SUMMARY:Guyana – Nicaragua 1:3
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Synthetic Track and Field Facility\, Leonora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488283@anstoss
+DTSTAMP:20251202T010000Z
+DTSTART:20251202T010000Z
+DTEND:20251202T030000Z
+SUMMARY:Guatemala – Bermuda 4:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Cementos Progreso\, Guatemala City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488283.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488284@anstoss
+DTSTAMP:20251202T200000Z
+DTSTART:20251202T200000Z
+DTEND:20251202T220000Z
+SUMMARY:Cuba – St. Kitts and Nevis 2:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Antonio Maceo Stadium\, Santiago de Cuba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488284.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488285@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Dominican Republic – Suriname 2:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Complejo Deportivo Moca 85\, Moca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488286@anstoss
+DTSTAMP:20251203T013000Z
+DTSTART:20251203T013000Z
+DTEND:20251203T033000Z
+SUMMARY:El Salvador – Honduras 3:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Jorge Gonzalez\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488288@anstoss
+DTSTAMP:20260228T000000Z
+DTSTART:20260228T000000Z
+DTEND:20260228T020000Z
+SUMMARY:Puerto Rico – Barbados 10:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488287@anstoss
+DTSTAMP:20260228T000000Z
+DTSTART:20260228T000000Z
+DTEND:20260228T020000Z
+SUMMARY:Guyana – Dominica 3:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Cementos Progreso\, Guatemala City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488289@anstoss
+DTSTAMP:20260228T230000Z
+DTSTART:20260228T230000Z
+DTEND:20260301T010000Z
+SUMMARY:Dominican Republic – Belize 6:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Cibao FC\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488290@anstoss
+DTSTAMP:20260301T010000Z
+DTSTART:20260301T010000Z
+DTEND:20260301T030000Z
+SUMMARY:Guatemala – Grenada 6:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Cementos Progreso\, Guatemala City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488291@anstoss
+DTSTAMP:20260301T200000Z
+DTSTART:20260301T200000Z
+DTEND:20260301T220000Z
+SUMMARY:Cuba – Curaçao 3:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Antonio Maceo Stadium\, Santiago de Cuba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488292@anstoss
+DTSTAMP:20260301T233000Z
+DTSTART:20260301T233000Z
+DTEND:20260302T013000Z
+SUMMARY:El Salvador – Barbados 13:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Las Delicias\, Santa Tecla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488294@anstoss
+DTSTAMP:20260302T190000Z
+DTSTART:20260302T190000Z
+DTEND:20260302T210000Z
+SUMMARY:St. Lucia – Mexiko 0:7
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Daren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488294.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488293@anstoss
+DTSTAMP:20260303T000000Z
+DTSTART:20260303T000000Z
+DTEND:20260303T020000Z
+SUMMARY:Nicaragua – Jamaica 2:3
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Nacional de Futbol\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488296@anstoss
+DTSTAMP:20260303T220000Z
+DTSTART:20260303T220000Z
+DTEND:20260304T000000Z
+SUMMARY:Suriname – Haiti 0:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488295@anstoss
+DTSTAMP:20260303T230000Z
+DTSTART:20260303T230000Z
+DTEND:20260304T010000Z
+SUMMARY:Bermuda – Costa Rica 0:8
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Bermuda National Stadium\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488298@anstoss
+DTSTAMP:20260304T230000Z
+DTSTART:20260304T230000Z
+DTEND:20260305T010000Z
+SUMMARY:St. Kitts and Nevis – Panama 0:3
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:SKNFA technical centre\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488297@anstoss
+DTSTAMP:20260305T010000Z
+DTSTART:20260305T010000Z
+DTEND:20260305T030000Z
+SUMMARY:Honduras – Trinidad and Tobago 2:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Nacional Jose de la Paz Herrera Ucles\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488300@anstoss
+DTSTAMP:20260305T193000Z
+DTSTART:20260305T193000Z
+DTEND:20260305T213000Z
+SUMMARY:US Virgin Islands – Puerto Rico 0:9
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Bethlehem Soccer Stadium\, Upper Bethlehem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488299@anstoss
+DTSTAMP:20260305T220000Z
+DTSTART:20260305T220000Z
+DTEND:20260306T000000Z
+SUMMARY:Antigua and Barbuda – Guyana 0:4
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Sir Vivian Richards Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488301@anstoss
+DTSTAMP:20260306T190000Z
+DTSTART:20260306T190000Z
+DTEND:20260306T210000Z
+SUMMARY:Anguilla – Dominican Republic 0:8
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488302@anstoss
+DTSTAMP:20260307T000000Z
+DTSTART:20260307T000000Z
+DTEND:20260307T020000Z
+SUMMARY:Cayman Islands – Guatemala 0:13
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Truman Bodden Stadium\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488303@anstoss
+DTSTAMP:20260308T000000Z
+DTSTART:20260308T000000Z
+DTEND:20260308T020000Z
+SUMMARY:Aruba – Cuba 0:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Complejo Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488305@anstoss
+DTSTAMP:20260410T000000Z
+DTSTART:20260410T000000Z
+DTEND:20260410T020000Z
+SUMMARY:Panama – Aruba 3:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Universitario F.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488304@anstoss
+DTSTAMP:20260410T000000Z
+DTSTART:20260410T000000Z
+DTEND:20260410T020000Z
+SUMMARY:Haiti – Anguilla 5:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Stade Roger Zami\, Le Gosier
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488306@anstoss
+DTSTAMP:20260411T000000Z
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+SUMMARY:Costa Rica – Cayman Islands 21:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488307@anstoss
+DTSTAMP:20260411T000000Z
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+SUMMARY:Jamaica – Antigua and Barbuda 4:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488308@anstoss
+DTSTAMP:20260411T010000Z
+DTSTART:20260411T010000Z
+DTEND:20260411T030000Z
+SUMMARY:Mexiko – US Virgin Islands 9:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Carlos Vega Villalba\, Zacatecas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488310@anstoss
+DTSTAMP:20260414T000000Z
+DTSTART:20260414T000000Z
+DTEND:20260414T020000Z
+SUMMARY:Curaçao – Aruba 1:6
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488309@anstoss
+DTSTAMP:20260414T010000Z
+DTSTART:20260414T010000Z
+DTEND:20260414T030000Z
+SUMMARY:Belize – Anguilla 2:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:FFB Field\, Belmopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488311@anstoss
+DTSTAMP:20260414T190000Z
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+SUMMARY:Dominica – Antigua and Barbuda 1:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Daren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488313@anstoss
+DTSTAMP:20260414T210000Z
+DTSTART:20260414T210000Z
+DTEND:20260414T230000Z
+SUMMARY:Barbados – US Virgin Islands 1:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Arnos Vale Stadium\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488312@anstoss
+DTSTAMP:20260414T213000Z
+DTSTART:20260414T213000Z
+DTEND:20260414T233000Z
+SUMMARY:Grenada – Cayman Islands 3:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Kirani James Athletic Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488318@anstoss
+DTSTAMP:20260417T210000Z
+DTSTART:20260417T210000Z
+DTEND:20260417T230000Z
+SUMMARY:Suriname – Belize 0:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488319@anstoss
+DTSTAMP:20260417T220000Z
+DTSTART:20260417T220000Z
+DTEND:20260418T000000Z
+SUMMARY:Trinidad and Tobago – El Salvador 0:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488317@anstoss
+DTSTAMP:20260417T230000Z
+DTSTART:20260417T230000Z
+DTEND:20260418T010000Z
+SUMMARY:St. Kitts and Nevis – Curaçao 1:2
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:SKNFA technical centre\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488316@anstoss
+DTSTAMP:20260418T000000Z
+DTSTART:20260418T000000Z
+DTEND:20260418T020000Z
+SUMMARY:Panama – Cuba 3:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Universitario F.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488314@anstoss
+DTSTAMP:20260418T000000Z
+DTSTART:20260418T000000Z
+DTEND:20260418T020000Z
+SUMMARY:Haiti – Dominican Republic 1:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Stade Roger Zami\, Le Gosier
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488315@anstoss
+DTSTAMP:20260418T010000Z
+DTSTART:20260418T010000Z
+DTEND:20260418T030000Z
+SUMMARY:Honduras – Barbados 4:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Nacional Jose de la Paz Herrera Ucles\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488325@anstoss
+DTSTAMP:20260418T190000Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:St. Lucia – Barbados 0:1
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Daren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488320@anstoss
+DTSTAMP:20260418T220000Z
+DTSTART:20260418T220000Z
+DTEND:20260419T000000Z
+SUMMARY:Bermuda – Grenada 5:3
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488321@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Costa Rica – Guatemala 3:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Nacional de Costa Rica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488323@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Mexiko – Puerto Rico 6:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488322@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Jamaica – Guyana 2:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488324@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Nicaragua – Dominica 14:0
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
+LOCATION:Estadio Nacional de Futbol\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550711@anstoss
+DTSTAMP:20261127T210000Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:USA – El Salvador
+DESCRIPTION:WM-Qualifikation CONCACAF · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550711.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550710@anstoss
+DTSTAMP:20261127T210000Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Jamaica – Costa Rica
+DESCRIPTION:WM-Qualifikation CONCACAF · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550710.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550712@anstoss
+DTSTAMP:20261128T210000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Kanada – Panama
+DESCRIPTION:WM-Qualifikation CONCACAF · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550713@anstoss
+DTSTAMP:20261128T210000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Mexiko – Haiti
+DESCRIPTION:WM-Qualifikation CONCACAF · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550713.ht
+ ml
+END:VEVENT
+END:VCALENDAR

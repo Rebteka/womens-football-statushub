@@ -224,7 +224,7 @@ DTSTAMP:20260909T173000Z
 DTSTART:20260909T173000Z
 DTEND:20260909T193000Z
 SUMMARY:Hammarby – Gamla Upsala 5:0
-DESCRIPTION:Svenska Cupen - Women · Round 2
+DESCRIPTION:Svenska Cupen · Round 2
 LOCATION:Hammarby IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638737.ht
  ml
@@ -257,7 +257,7 @@ DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
 SUMMARY:Hammarby – Rangers
-DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638402.ht
  ml
 END:VEVENT
@@ -267,7 +267,7 @@ DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
 SUMMARY:Gamla Upsala – Hammarby (verlegt)
-DESCRIPTION:Svenska Cupen - Women · Round 2
+DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636786.ht
  ml
 END:VEVENT
@@ -288,7 +288,7 @@ DTSTAMP:20260930T160000Z
 DTSTART:20260930T160000Z
 DTEND:20260930T180000Z
 SUMMARY:Rangers – Hammarby
-DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638421.ht
  ml
 END:VEVENT

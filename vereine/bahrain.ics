@@ -13,8 +13,7 @@ DTSTAMP:20250629T123000Z
 DTSTART:20250629T123000Z
 DTEND:20250629T143000Z
 SUMMARY:Bahrain – Bangladesh 0:7
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:Thuwunna Stadium\, Yangon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372384.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20250702T123000Z
 DTSTART:20250702T123000Z
 DTEND:20250702T143000Z
 SUMMARY:Turkmenistan – Bahrain 2:2
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:Thuwunna Stadium\, Yangon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372399.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20250705T093000Z
 DTSTART:20250705T093000Z
 DTEND:20250705T113000Z
 SUMMARY:Myanmar – Bahrain 6:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:Thuwunna Stadium\, Yangon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372415.ht
  ml
@@ -49,7 +46,8 @@ DTSTAMP:20260226T180000Z
 DTSTART:20260226T180000Z
 DTEND:20260226T200000Z
 SUMMARY:Bahrain – Saudi-Arabien 0:3
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1529300.ht
  ml
 END:VEVENT
@@ -59,7 +57,8 @@ DTSTAMP:20260604T160000Z
 DTSTART:20260604T160000Z
 DTEND:20260604T180000Z
 SUMMARY:Bahrain – Kyrgyz Republic 0:5
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1550870.ht
  ml
 END:VEVENT
@@ -69,7 +68,8 @@ DTSTAMP:20260607T160000Z
 DTSTART:20260607T160000Z
 DTEND:20260607T180000Z
 SUMMARY:Bahrain – Kyrgyz Republic 0:4
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1550867.ht
  ml
 END:VEVENT

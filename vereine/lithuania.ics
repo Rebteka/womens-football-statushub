@@ -13,8 +13,7 @@ DTSTAMP:20240405T150000Z
 DTSTART:20240405T150000Z
 DTEND:20240405T170000Z
 SUMMARY:Georgia – Lithuania 2:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:Mikheil Meskhi 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193205.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T163000Z
 DTSTART:20240409T163000Z
 DTEND:20240409T183000Z
 SUMMARY:Lithuania – Cyprus 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Vilniaus LFF stadionas\, Vilnius
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193213.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T150000Z
 DTSTART:20240531T150000Z
 DTEND:20240531T170000Z
 SUMMARY:Lithuania – Belarus
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193217.ht
  ml
 STATUS:CANCELLED
@@ -49,8 +46,7 @@ DTSTAMP:20240604T150000Z
 DTSTART:20240604T150000Z
 DTEND:20240604T170000Z
 SUMMARY:Belarus – Lithuania
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193226.ht
  ml
 STATUS:CANCELLED
@@ -61,8 +57,7 @@ DTSTAMP:20240712T170000Z
 DTSTART:20240712T170000Z
 DTEND:20240712T190000Z
 SUMMARY:Cyprus – Lithuania 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193235.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Lithuania – Georgia 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:LSC Sporto kompleksas Druskininkai\, Druskininkai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193245.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250225T130000Z
 DTSTART:20250225T130000Z
 DTEND:20250225T150000Z
 SUMMARY:Montenegro – Lithuania 3:1
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:Trening kamp FSCG\, Podgorica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315868.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250404T153000Z
 DTSTART:20250404T153000Z
 DTEND:20250404T173000Z
 SUMMARY:Lithuania – Azerbaijan 0:2
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:FK Žalgiris namų stadionas\, Vilnius
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315877.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250530T140000Z
 DTSTART:20250530T140000Z
 DTEND:20250530T160000Z
 SUMMARY:Azerbaijan – Lithuania 0:5
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:ASCO Arena\, Baku
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315895.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Lithuania – Montenegro 0:1
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:LSC sporto kompleksas Druskininkai\, Druskininkai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315904.ht
  ml
@@ -129,8 +123,7 @@ DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z
 DTEND:20260303T200000Z
 SUMMARY:Liechtenstein – Lithuania 1:6
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Rheinpark Stadion\, Vaduz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523828.ht
  ml
@@ -141,8 +134,7 @@ DTSTAMP:20260307T150000Z
 DTSTART:20260307T150000Z
 DTEND:20260307T170000Z
 SUMMARY:Lithuania – Estonia 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Raudondvario stadionas\, Raudondvario
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523853.ht
  ml
@@ -153,8 +145,7 @@ DTSTAMP:20260414T150000Z
 DTSTART:20260414T150000Z
 DTEND:20260414T170000Z
 SUMMARY:Lithuania – Bosnia-Herzegovina 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:LSC sporto kompleksas Druskininkai\, Druskininkai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523877.ht
  ml
@@ -165,8 +156,7 @@ DTSTAMP:20260418T140000Z
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
 SUMMARY:Estonia – Lithuania 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:A. Le Coq Arena\, Tallinn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523902.ht
  ml
@@ -177,8 +167,7 @@ DTSTAMP:20260605T150000Z
 DTSTART:20260605T150000Z
 DTEND:20260605T170000Z
 SUMMARY:Bosnia-Herzegovina – Lithuania 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:FF BH Football Training Centre\, Zenica
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523927.ht
  ml
@@ -189,8 +178,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Lithuania – Liechtenstein 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:LSC sporto kompleksas Druskininkai\, Druskininkai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523953.ht
  ml
@@ -201,7 +189,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Lithuania – Schweden
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557253.ht
  ml
 END:VEVENT
@@ -211,7 +199,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Schweden – Lithuania
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557270.ht
  ml
 END:VEVENT

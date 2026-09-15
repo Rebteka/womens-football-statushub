@@ -13,8 +13,7 @@ DTSTAMP:20240405T183000Z
 DTSTART:20240405T183000Z
 DTEND:20240405T203000Z
 SUMMARY:Österreich – Deutschland 2:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Raiffeisen Arena\, Linz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193107.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T160000Z
 DTSTART:20240409T160000Z
 DTEND:20240409T180000Z
 SUMMARY:Polen – Österreich 1:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Stadion Miejski\, Gdynia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193112.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T160000Z
 DTSTART:20240531T160000Z
 DTEND:20240531T180000Z
 SUMMARY:Österreich – Island 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:Innviertel Arena\, Ried Im Innkreis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193121.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T193000Z
 DTSTART:20240604T193000Z
 DTEND:20240604T213000Z
 SUMMARY:Island – Österreich 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Laugardalsvöllur\, Reykjavík
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193132.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T160000Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Österreich – Polen 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:CASHPOINT Arena\, Altach
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193140.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Deutschland – Österreich 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:Heinz von Heiden-Arena\, Hannover
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193149.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T160000Z
 DTSTART:20241025T160000Z
 DTEND:20241025T180000Z
 SUMMARY:Slovenia – Österreich 0:3
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:ŠRC Bonifika\, Koper
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252893.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T170000Z
 DTSTART:20241029T170000Z
 DTEND:20241029T190000Z
 SUMMARY:Österreich – Slovenia 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Innviertel Arena\, Ried Im Innkreis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252894.ht
  ml
@@ -109,8 +101,7 @@ DTSTAMP:20241129T170000Z
 DTSTART:20241129T170000Z
 DTEND:20241129T190000Z
 SUMMARY:Polen – Österreich 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Polsat Plus Arena Gdańsk\, Gdańsk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314225.ht
  ml
@@ -121,8 +112,7 @@ DTSTAMP:20241203T171500Z
 DTSTART:20241203T171500Z
 DTEND:20241203T191500Z
 SUMMARY:Österreich – Polen 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Generali Arena\, Wien
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314226.ht
  ml
@@ -133,7 +123,7 @@ DTSTAMP:20250221T170000Z
 DTSTART:20250221T170000Z
 DTEND:20250221T190000Z
 SUMMARY:Österreich – Schottland 1:0
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Josko Arena\, Ried
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315757.ht
  ml
@@ -144,7 +134,7 @@ DTSTAMP:20250225T171500Z
 DTSTART:20250225T171500Z
 DTEND:20250225T191500Z
 SUMMARY:Deutschland – Österreich 4:1
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Max-Morlock-Stadion\, Nuremberg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315765.ht
  ml
@@ -155,7 +145,7 @@ DTSTAMP:20250404T180000Z
 DTSTART:20250404T180000Z
 DTEND:20250404T200000Z
 SUMMARY:Niederlande – Österreich 3:1
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Asito Stadium\, Almelo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315773.ht
  ml
@@ -166,7 +156,7 @@ DTSTAMP:20250408T161500Z
 DTSTART:20250408T161500Z
 DTEND:20250408T181500Z
 SUMMARY:Österreich – Niederlande 1:3
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Cashpoint-Arena\, Altach
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315781.ht
  ml
@@ -177,7 +167,7 @@ DTSTAMP:20250530T183500Z
 DTSTART:20250530T183500Z
 DTEND:20250530T203500Z
 SUMMARY:Schottland – Österreich 0:1
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315790.ht
  ml
@@ -188,7 +178,7 @@ DTSTAMP:20250603T183000Z
 DTSTART:20250603T183000Z
 DTEND:20250603T203000Z
 SUMMARY:Österreich – Deutschland 0:6
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:Generali Arena\, Vienna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315797.ht
  ml
@@ -199,7 +189,7 @@ DTSTAMP:20251024T153000Z
 DTSTART:20251024T153000Z
 DTEND:20251024T173000Z
 SUMMARY:Tschechien – Österreich 1:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Mestsky stadion Miroslava Valenty\, Uherske Hradiste
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478114.ht
  ml
@@ -210,7 +200,7 @@ DTSTAMP:20251028T170000Z
 DTSTART:20251028T170000Z
 DTEND:20251028T190000Z
 SUMMARY:Österreich – Tschechien 2:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Generali Arena\, Vienna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478122.ht
  ml
@@ -221,8 +211,7 @@ DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z
 DTEND:20260303T190000Z
 SUMMARY:Österreich – Norwegen 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523814.ht
  ml
 END:VEVENT
@@ -232,8 +221,7 @@ DTSTAMP:20260307T160000Z
 DTSTART:20260307T160000Z
 DTEND:20260307T180000Z
 SUMMARY:Slovenia – Österreich 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Bonifika\, Koper
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523839.ht
  ml
@@ -244,8 +232,7 @@ DTSTAMP:20260414T161500Z
 DTSTART:20260414T161500Z
 DTEND:20260414T181500Z
 SUMMARY:Deutschland – Österreich 5:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Max-Morlock-Stadion\, Nuremberg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523863.ht
  ml
@@ -256,8 +243,7 @@ DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Österreich – Deutschland 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Josko Arena\, Ried
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523888.ht
  ml
@@ -268,8 +254,7 @@ DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Österreich – Slovenia 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Sportclub-Platz\, Vienna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523914.ht
  ml
@@ -280,8 +265,7 @@ DTSTAMP:20260609T160000Z
 DTSTART:20260609T160000Z
 DTEND:20260609T180000Z
 SUMMARY:Norwegen – Österreich 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Ullevaal Stadion\, Oslo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523939.ht
  ml
@@ -292,7 +276,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Kosovo – Österreich
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557252.ht
  ml
 END:VEVENT
@@ -302,7 +286,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Österreich – Kosovo
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557258.ht
  ml
 END:VEVENT

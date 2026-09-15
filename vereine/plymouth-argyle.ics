@@ -13,7 +13,7 @@ DTSTAMP:20251026T140000Z
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
 SUMMARY:Plymouth Argyle – Maidstone United FC 7:0
-DESCRIPTION:FA Women's Cup · 1st Round
+DESCRIPTION:FA Cup · 1st Round
 LOCATION:Manadon Sports Hub
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483406.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20251123T140000Z
 DTSTART:20251123T140000Z
 DTEND:20251123T160000Z
 SUMMARY:Plymouth Argyle – Gwalia United 2:0
-DESCRIPTION:FA Women's Cup · 2nd Round
+DESCRIPTION:FA Cup · 2nd Round
 LOCATION:Manadon Sports Hub
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1487290.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20251214T130000Z
 DTSTART:20251214T130000Z
 DTEND:20251214T150000Z
 SUMMARY:Oxford United – Plymouth Argyle 2:1
-DESCRIPTION:FA Women's Cup · 3rd Round
+DESCRIPTION:FA Cup · 3rd Round
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488460.ht
  ml
 END:VEVENT
@@ -45,7 +45,7 @@ DTSTAMP:20260111T140000Z
 DTSTART:20260111T140000Z
 DTEND:20260111T160000Z
 SUMMARY:Lewes – Plymouth Argyle 0:3
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514950.ht
  ml
 END:VEVENT

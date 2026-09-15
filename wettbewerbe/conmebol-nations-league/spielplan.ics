@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CONMEBOL Nations League 2025/26
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1483013@anstoss
+DTSTAMP:20251024T210000Z
+DTSTART:20251024T210000Z
+DTEND:20251024T230000Z
+SUMMARY:Bolivia – Ecuador 0:4
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Municipal de El Alto\, El Alto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483014@anstoss
+DTSTAMP:20251024T210000Z
+DTSTART:20251024T210000Z
+DTEND:20251024T230000Z
+SUMMARY:Venezuela – Chile 0:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483015@anstoss
+DTSTAMP:20251024T230000Z
+DTSTART:20251024T230000Z
+DTEND:20251025T010000Z
+SUMMARY:Argentina – Paraguay 3:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Diego Armando Maradona\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483016@anstoss
+DTSTAMP:20251024T230000Z
+DTSTART:20251024T230000Z
+DTEND:20251025T010000Z
+SUMMARY:Kolumbien – Peru 4:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483017@anstoss
+DTSTAMP:20251028T210000Z
+DTSTART:20251028T210000Z
+DTEND:20251028T230000Z
+SUMMARY:Chile – Bolivia 5:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 2. Spieltag
+LOCATION:Estadio El Teniente\, Rancagua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483018@anstoss
+DTSTAMP:20251028T210000Z
+DTSTART:20251028T210000Z
+DTEND:20251028T230000Z
+SUMMARY:Uruguay – Argentina 2:2
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Centenario\, Montevideo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483019@anstoss
+DTSTAMP:20251028T230000Z
+DTSTART:20251028T230000Z
+DTEND:20251029T010000Z
+SUMMARY:Ecuador – Kolumbien 1:2
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483020@anstoss
+DTSTAMP:20251028T230000Z
+DTSTART:20251028T230000Z
+DTEND:20251029T010000Z
+SUMMARY:Paraguay – Venezuela 1:2
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Tigo La Huerta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483021@anstoss
+DTSTAMP:20251128T210000Z
+DTSTART:20251128T210000Z
+DTEND:20251128T230000Z
+SUMMARY:Bolivia – Kolumbien 1:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Municipal de El Alto\, El Alto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483021.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483024@anstoss
+DTSTAMP:20251128T210000Z
+DTSTART:20251128T210000Z
+DTEND:20251128T230000Z
+SUMMARY:Peru – Chile 3:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483022@anstoss
+DTSTAMP:20251128T230000Z
+DTSTART:20251128T230000Z
+DTEND:20251129T010000Z
+SUMMARY:Ecuador – Venezuela 0:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483023@anstoss
+DTSTAMP:20251128T230000Z
+DTSTART:20251128T230000Z
+DTEND:20251129T010000Z
+SUMMARY:Paraguay – Uruguay 1:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Tigo La Huerta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483027@anstoss
+DTSTAMP:20251202T210000Z
+DTSTART:20251202T210000Z
+DTEND:20251202T230000Z
+SUMMARY:Uruguay – Ecuador 0:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Alfredo Victor Viera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483025@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Argentina – Bolivia 8:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483026@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Chile – Paraguay 1:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 4. Spieltag
+LOCATION:Estadio El Teniente\, Rancagua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483028@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Venezuela – Peru 6:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483032@anstoss
+DTSTAMP:20260410T210000Z
+DTSTART:20260410T210000Z
+DTEND:20260410T230000Z
+SUMMARY:Peru – Uruguay 2:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483031@anstoss
+DTSTAMP:20260410T230000Z
+DTSTART:20260410T230000Z
+DTEND:20260411T010000Z
+SUMMARY:Paraguay – Ecuador 2:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Defensores del Chaco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483029@anstoss
+DTSTAMP:20260411T000000Z
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+SUMMARY:Chile – Argentina 0:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483030@anstoss
+DTSTAMP:20260411T010000Z
+DTSTART:20260411T010000Z
+DTEND:20260411T030000Z
+SUMMARY:Kolumbien – Venezuela 2:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483033@anstoss
+DTSTAMP:20260414T210000Z
+DTSTART:20260414T210000Z
+DTEND:20260414T230000Z
+SUMMARY:Bolivia – Uruguay 1:2
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 6. Spieltag
+LOCATION:Estadio Municipal de El Alto\, El Alto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483035@anstoss
+DTSTAMP:20260414T210000Z
+DTSTART:20260414T210000Z
+DTEND:20260414T230000Z
+SUMMARY:Peru – Paraguay 1:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 6. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483036@anstoss
+DTSTAMP:20260414T230000Z
+DTSTART:20260414T230000Z
+DTEND:20260415T010000Z
+SUMMARY:Venezuela – Argentina 1:2
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 6. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483034@anstoss
+DTSTAMP:20260415T010000Z
+DTSTART:20260415T010000Z
+DTEND:20260415T030000Z
+SUMMARY:Kolumbien – Chile 2:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483038@anstoss
+DTSTAMP:20260418T210000Z
+DTSTART:20260418T210000Z
+DTEND:20260418T230000Z
+SUMMARY:Ecuador – Peru 1:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483039@anstoss
+DTSTAMP:20260418T210000Z
+DTSTART:20260418T210000Z
+DTEND:20260418T230000Z
+SUMMARY:Uruguay – Chile 1:3
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 7. Spieltag
+LOCATION:Estadio Centenario\, Montevideo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483037@anstoss
+DTSTAMP:20260418T230000Z
+DTSTART:20260418T230000Z
+DTEND:20260419T010000Z
+SUMMARY:Argentina – Kolumbien 0:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483037.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483040@anstoss
+DTSTAMP:20260418T230000Z
+DTSTART:20260418T230000Z
+DTEND:20260419T010000Z
+SUMMARY:Venezuela – Bolivia 8:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 7. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483040.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483041@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Argentina – Peru 1:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 8. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483042@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Bolivia – Paraguay 0:8
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483042.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483043@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Chile – Ecuador 1:2
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483044@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Kolumbien – Uruguay 1:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483045@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Ecuador – Argentina 0:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483045.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483046@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Paraguay – Kolumbien 3:4
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Defensores del Chaco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483047@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Peru – Bolivia 4:0
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Miguel Grau\, Callao
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483048@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Uruguay – Venezuela 1:1
+DESCRIPTION:CONMEBOL Nations League · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Centenario\, Montevideo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483048.ht
+ ml
+END:VEVENT
+END:VCALENDAR

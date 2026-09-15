@@ -13,7 +13,7 @@ DTSTAMP:20230722T093000Z
 DTSTART:20230722T093000Z
 DTEND:20230722T113000Z
 SUMMARY:England – Haiti 1:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:Suncorp Stadium\, Brisbane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013559.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230728T083000Z
 DTSTART:20230728T083000Z
 DTEND:20230728T103000Z
 SUMMARY:England – Dänemark 1:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Allianz Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013577.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230801T110000Z
 DTSTART:20230801T110000Z
 DTEND:20230801T130000Z
 SUMMARY:China – England 1:6
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Coopers Stadium\, Adelaide
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013592.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20230807T073000Z
 DTSTART:20230807T073000Z
 DTEND:20230807T093000Z
 SUMMARY:England – Nigeria 0:0
-DESCRIPTION:World Cup - Women · Achtelfinale
+DESCRIPTION:Frauen-WM · Achtelfinale
 LOCATION:Brisbane Stadium\, Brisbane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1102838.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20230812T103000Z
 DTSTART:20230812T103000Z
 DTEND:20230812T123000Z
 SUMMARY:England – Kolumbien 2:1
-DESCRIPTION:World Cup - Women · Viertelfinale
+DESCRIPTION:Frauen-WM · Viertelfinale
 LOCATION:Stadium Australia\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1113789.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20230816T100000Z
 DTSTART:20230816T100000Z
 DTEND:20230816T120000Z
 SUMMARY:Australien – England 1:3
-DESCRIPTION:World Cup - Women · Halbfinale
+DESCRIPTION:Frauen-WM · Halbfinale
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1117328.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20230820T100000Z
 DTSTART:20230820T100000Z
 DTEND:20230820T120000Z
 SUMMARY:Spanien – England 1:0
-DESCRIPTION:World Cup - Women · Finale
+DESCRIPTION:Frauen-WM · Finale
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1119623.ht
  ml
@@ -90,8 +90,7 @@ DTSTAMP:20240405T190000Z
 DTSTART:20240405T190000Z
 DTEND:20240405T210000Z
 SUMMARY:England – Schweden 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Wembley Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193109.ht
  ml
@@ -102,8 +101,7 @@ DTSTAMP:20240409T183000Z
 DTSTART:20240409T183000Z
 DTEND:20240409T203000Z
 SUMMARY:Republic of Ireland – England 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Aviva Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193117.ht
  ml
@@ -114,8 +112,7 @@ DTSTAMP:20240531T190000Z
 DTSTART:20240531T190000Z
 DTEND:20240531T210000Z
 SUMMARY:England – Frankreich 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:St. James' Park\, Newcastle upon Tyne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193126.ht
  ml
@@ -126,8 +123,7 @@ DTSTAMP:20240604T190000Z
 DTSTART:20240604T190000Z
 DTEND:20240604T210000Z
 SUMMARY:Frankreich – England 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193134.ht
  ml
@@ -138,8 +134,7 @@ DTSTAMP:20240712T190000Z
 DTSTART:20240712T190000Z
 DTEND:20240712T210000Z
 SUMMARY:England – Republic of Ireland 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:Carrow Road\, Norwich\, Norfolk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193142.ht
  ml
@@ -150,8 +145,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Schweden – England 0:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:Gamla Ullevi\, Göteborg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193147.ht
  ml
@@ -162,7 +156,7 @@ DTSTAMP:20250221T194500Z
 DTSTART:20250221T194500Z
 DTEND:20250221T214500Z
 SUMMARY:Portugal – England 1:1
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Estádio Municipal de Portimão\, Portimão
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315761.ht
  ml
@@ -173,7 +167,7 @@ DTSTAMP:20250226T200000Z
 DTSTART:20250226T200000Z
 DTEND:20250226T220000Z
 SUMMARY:England – Spanien 1:0
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Wembley Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315772.ht
  ml
@@ -184,7 +178,7 @@ DTSTAMP:20250404T190000Z
 DTSTART:20250404T190000Z
 DTEND:20250404T210000Z
 SUMMARY:England – Belgien 5:0
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315777.ht
  ml
@@ -195,7 +189,7 @@ DTSTAMP:20250408T183000Z
 DTSTART:20250408T183000Z
 DTEND:20250408T203000Z
 SUMMARY:Belgien – England 3:2
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Den Dreef\, Heverlee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315785.ht
  ml
@@ -206,7 +200,7 @@ DTSTAMP:20250530T184500Z
 DTSTART:20250530T184500Z
 DTEND:20250530T204500Z
 SUMMARY:England – Portugal 6:0
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Wembley Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315794.ht
  ml
@@ -217,7 +211,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Spanien – England 2:1
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:RCDE Stadium\, Cornella de Llobregat
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315802.ht
  ml
@@ -228,7 +222,7 @@ DTSTAMP:20250705T190000Z
 DTSTART:20250705T190000Z
 DTEND:20250705T210000Z
 SUMMARY:Frankreich – England 2:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367631.ht
  ml
@@ -239,7 +233,7 @@ DTSTAMP:20250709T160000Z
 DTSTART:20250709T160000Z
 DTEND:20250709T180000Z
 SUMMARY:England – Niederlande 4:0
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367638.ht
  ml
@@ -250,7 +244,7 @@ DTSTAMP:20250713T190000Z
 DTSTART:20250713T190000Z
 DTEND:20250713T210000Z
 SUMMARY:England – Wales 6:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:kybunpark\, St. Gallen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367647.ht
  ml
@@ -261,7 +255,7 @@ DTSTAMP:20250717T190000Z
 DTSTART:20250717T190000Z
 DTEND:20250717T210000Z
 SUMMARY:Schweden – England 2:2
-DESCRIPTION:UEFA Championship - Women · Viertelfinale
+DESCRIPTION:Frauen-EM · Viertelfinale
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1401203.ht
  ml
@@ -272,7 +266,7 @@ DTSTAMP:20250722T190000Z
 DTSTART:20250722T190000Z
 DTEND:20250722T210000Z
 SUMMARY:England – Italien 2:1
-DESCRIPTION:UEFA Championship - Women · Halbfinale
+DESCRIPTION:Frauen-EM · Halbfinale
 LOCATION:Stade de Genève\, Lancy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1410000.ht
  ml
@@ -283,7 +277,7 @@ DTSTAMP:20250727T160000Z
 DTSTART:20250727T160000Z
 DTEND:20250727T180000Z
 SUMMARY:England – Spanien 1:1
-DESCRIPTION:UEFA Championship - Women · Finale
+DESCRIPTION:Frauen-EM · Finale
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1413345.ht
  ml
@@ -294,8 +288,7 @@ DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z
 DTEND:20260303T190000Z
 SUMMARY:Ukraine – England 1:6
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Mardan Antalyaspor\, Antalya
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523816.ht
  ml
@@ -306,8 +299,7 @@ DTSTAMP:20260307T123000Z
 DTSTART:20260307T123000Z
 DTEND:20260307T143000Z
 SUMMARY:England – Island 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:City Ground\, Nottingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523841.ht
  ml
@@ -318,8 +310,7 @@ DTSTAMP:20260414T180000Z
 DTSTART:20260414T180000Z
 DTEND:20260414T200000Z
 SUMMARY:England – Spanien 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Wembley Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523865.ht
  ml
@@ -330,8 +321,7 @@ DTSTAMP:20260418T163000Z
 DTSTART:20260418T163000Z
 DTEND:20260418T183000Z
 SUMMARY:Island – England 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523891.ht
  ml
 END:VEVENT
@@ -341,8 +331,7 @@ DTSTAMP:20260605T190000Z
 DTSTART:20260605T190000Z
 DTEND:20260605T210000Z
 SUMMARY:Spanien – England 4:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Estadi Mallorca Son Moix\, Palma de Mallorca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523915.ht
  ml
@@ -353,8 +342,7 @@ DTSTAMP:20260609T190000Z
 DTSTART:20260609T190000Z
 DTEND:20260609T210000Z
 SUMMARY:England – Ukraine 3:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Hill Dickinson Stadium\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523941.ht
  ml
@@ -365,7 +353,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Greece – England
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557248.ht
  ml
 END:VEVENT
@@ -375,7 +363,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:England – Greece
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557259.ht
  ml
 END:VEVENT

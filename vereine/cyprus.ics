@@ -13,8 +13,7 @@ DTSTAMP:20240405T140000Z
 DTSTART:20240405T140000Z
 DTEND:20240405T160000Z
 SUMMARY:Cyprus – Belarus 0:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193201.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T163000Z
 DTSTART:20240409T163000Z
 DTEND:20240409T183000Z
 SUMMARY:Lithuania – Cyprus 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Vilniaus LFF stadionas\, Vilnius
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193213.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T160000Z
 DTSTART:20240531T160000Z
 DTEND:20240531T180000Z
 SUMMARY:Cyprus – Georgia 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193218.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T160000Z
 DTSTART:20240604T160000Z
 DTEND:20240604T180000Z
 SUMMARY:Georgia – Cyprus 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 LOCATION:Mikheil Meskhi 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193227.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T170000Z
 DTSTART:20240712T170000Z
 DTEND:20240712T190000Z
 SUMMARY:Cyprus – Lithuania 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193235.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Belarus – Cyprus 5:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:Mikheil Meskhi 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193244.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T170000Z
 DTSTART:20250221T170000Z
 DTEND:20250221T190000Z
 SUMMARY:Cyprus – Malta 2:1
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:AEK Arena\, Larnaca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315855.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250225T170000Z
 DTSTART:20250225T170000Z
 DTEND:20250225T190000Z
 SUMMARY:Cyprus – Georgia 2:1
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:AEK Arena\, Larnaca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315864.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250404T160000Z
 DTSTART:20250404T160000Z
 DTEND:20250404T180000Z
 SUMMARY:Cyprus – Andorra 2:2
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:AEK Arena\, Larnaca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315873.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250408T180000Z
 DTSTART:20250408T180000Z
 DTEND:20250408T200000Z
 SUMMARY:Andorra – Cyprus 2:1
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Estadi Nacional\, Andorra la Vella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315882.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20250530T170000Z
 DTSTART:20250530T170000Z
 DTEND:20250530T190000Z
 SUMMARY:Malta – Cyprus 1:0
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:Ta'Qali National Stadium\, Ta'Qali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315892.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Georgia – Cyprus 1:2
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315901.ht
  ml
@@ -151,7 +145,7 @@ DTSTAMP:20251024T160000Z
 DTSTART:20251024T160000Z
 DTEND:20251024T180000Z
 SUMMARY:Cyprus – Albania 3:2
-DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+DESCRIPTION:UEFA Nations League · Playoffs B/C
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478116.ht
  ml
 END:VEVENT
@@ -161,7 +155,7 @@ DTSTAMP:20251028T170000Z
 DTSTART:20251028T170000Z
 DTEND:20251028T190000Z
 SUMMARY:Albania – Cyprus 3:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+DESCRIPTION:UEFA Nations League · Playoffs B/C
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478124.ht
  ml
 END:VEVENT
@@ -171,7 +165,8 @@ DTSTAMP:20260302T120000Z
 DTSTART:20260302T120000Z
 DTEND:20260302T140000Z
 SUMMARY:Cyprus – Faroe Islands 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526962.ht
  ml
 END:VEVENT
@@ -181,8 +176,7 @@ DTSTAMP:20260307T120000Z
 DTSTART:20260307T120000Z
 DTEND:20260307T140000Z
 SUMMARY:Cyprus – Rumänien 0:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Ethnikos Achnas\, Achna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523858.ht
  ml
@@ -193,8 +187,7 @@ DTSTAMP:20260414T140000Z
 DTSTART:20260414T140000Z
 DTEND:20260414T160000Z
 SUMMARY:Moldova – Cyprus 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Nisporeni stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523883.ht
  ml
@@ -205,8 +198,7 @@ DTSTAMP:20260418T130000Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Rumänien – Cyprus 3:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Stadionul Arcul de Triumf\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523908.ht
  ml
@@ -217,8 +209,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Cyprus – Moldova 0:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Antonis Papadopoulos Stadium\, Larnaca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523958.ht
  ml

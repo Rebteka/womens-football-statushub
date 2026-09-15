@@ -1,0 +1,807 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AFC U20 Asien-Cup 2025/26
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424259@anstoss
+DTSTAMP:20250806T073000Z
+DTSTART:20250806T073000Z
+DTEND:20250806T093000Z
+SUMMARY:Lebanon U20 – Cambodia U20 1:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424260@anstoss
+DTSTAMP:20250806T080000Z
+DTSTART:20250806T080000Z
+DTEND:20250806T100000Z
+SUMMARY:Korea DPR U20 – Saudi Arabia U20 15:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424288@anstoss
+DTSTAMP:20250806T084500Z
+DTSTART:20250806T084500Z
+DTEND:20250806T104500Z
+SUMMARY:Japan U20 – Guam U20 5:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426547@anstoss
+DTSTAMP:20250806T090000Z
+DTSTART:20250806T090000Z
+DTEND:20250806T110000Z
+SUMMARY:Korea Republic U20 – Timor-Leste U20 9:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424289@anstoss
+DTSTAMP:20250806T090000Z
+DTSTART:20250806T090000Z
+DTEND:20250806T110000Z
+SUMMARY:Kyrgyzstan – Hong Kong U20 1:2
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424261@anstoss
+DTSTAMP:20250806T093000Z
+DTSTART:20250806T093000Z
+DTEND:20250806T113000Z
+SUMMARY:Myanmar U20 – Turkmenistan U20 6:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424261.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426548@anstoss
+DTSTAMP:20250806T113500Z
+DTSTART:20250806T113500Z
+DTEND:20250806T133500Z
+SUMMARY:China PR U20 – Syria U20 6:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426548.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424290@anstoss
+DTSTAMP:20250806T120000Z
+DTSTART:20250806T120000Z
+DTEND:20250806T140000Z
+SUMMARY:Vietnam U20 – Singapore U20 5:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424263@anstoss
+DTSTAMP:20250806T120000Z
+DTSTART:20250806T120000Z
+DTEND:20250806T140000Z
+SUMMARY:Nepal U20 – Bhutan U20 1:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424291@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:India U20 – Indonesia U20 0:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424264@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:Bangladesh U20 – Laos U20 3:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424292@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:Jordan U20 – N. Mariana 6:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424265@anstoss
+DTSTAMP:20250806T124500Z
+DTSTART:20250806T124500Z
+DTEND:20250806T144500Z
+SUMMARY:Iran U20 – Malaysia U20 3:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424265.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424266@anstoss
+DTSTAMP:20250806T140000Z
+DTSTART:20250806T140000Z
+DTEND:20250806T160000Z
+SUMMARY:Chinese Taipei U20 – Palestine U20 4:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424266.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426550@anstoss
+DTSTAMP:20250806T153000Z
+DTSTART:20250806T153000Z
+DTEND:20250806T173000Z
+SUMMARY:Uzbekistan U20 – Bahrain U20 8:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426550.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424267@anstoss
+DTSTAMP:20250806T170000Z
+DTSTART:20250806T170000Z
+DTEND:20250806T190000Z
+SUMMARY:Australia U20 – Tajikistan U20 14:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 1. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424267.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426551@anstoss
+DTSTAMP:20250808T073000Z
+DTSTART:20250808T073000Z
+DTEND:20250808T093000Z
+SUMMARY:Syria U20 – Lebanon U20 1:2
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426551.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424269@anstoss
+DTSTAMP:20250808T080000Z
+DTSTART:20250808T080000Z
+DTEND:20250808T100000Z
+SUMMARY:Saudi Arabia U20 – Nepal U20 0:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424269.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424293@anstoss
+DTSTAMP:20250808T084500Z
+DTSTART:20250808T084500Z
+DTEND:20250808T104500Z
+SUMMARY:Guam U20 – Iran U20 0:2
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424294@anstoss
+DTSTAMP:20250808T090000Z
+DTSTART:20250808T090000Z
+DTEND:20250808T110000Z
+SUMMARY:Singapore U20 – Kyrgyzstan 0:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424294.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426553@anstoss
+DTSTAMP:20250808T090000Z
+DTSTART:20250808T090000Z
+DTEND:20250808T110000Z
+SUMMARY:Timor-Leste U20 – Bangladesh U20 0:8
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424270@anstoss
+DTSTAMP:20250808T093000Z
+DTSTART:20250808T093000Z
+DTEND:20250808T113000Z
+SUMMARY:Indonesia U20 – Myanmar U20 2:2
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424271@anstoss
+DTSTAMP:20250808T113500Z
+DTSTART:20250808T113500Z
+DTEND:20250808T133500Z
+SUMMARY:Cambodia U20 – China PR U20 0:7
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424271.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424273@anstoss
+DTSTAMP:20250808T120000Z
+DTSTART:20250808T120000Z
+DTEND:20250808T140000Z
+SUMMARY:Bhutan U20 – Korea DPR U20 0:10
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 4. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424272@anstoss
+DTSTAMP:20250808T120000Z
+DTSTART:20250808T120000Z
+DTEND:20250808T140000Z
+SUMMARY:Hong Kong U20 – Vietnam U20 0:6
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426555@anstoss
+DTSTAMP:20250808T123000Z
+DTSTART:20250808T123000Z
+DTEND:20250808T143000Z
+SUMMARY:Bahrain U20 – Jordan U20 0:6
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424274@anstoss
+DTSTAMP:20250808T123000Z
+DTSTART:20250808T123000Z
+DTEND:20250808T143000Z
+SUMMARY:Laos U20 – Korea Republic U20 0:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424274.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424295@anstoss
+DTSTAMP:20250808T123000Z
+DTSTART:20250808T123000Z
+DTEND:20250808T143000Z
+SUMMARY:Turkmenistan U20 – India U20 0:7
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424275@anstoss
+DTSTAMP:20250808T124500Z
+DTSTART:20250808T124500Z
+DTEND:20250808T144500Z
+SUMMARY:Malaysia U20 – Japan U20 0:16
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424275.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424276@anstoss
+DTSTAMP:20250808T140000Z
+DTSTART:20250808T140000Z
+DTEND:20250808T160000Z
+SUMMARY:Palestine U20 – Australia U20 0:3
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424296@anstoss
+DTSTAMP:20250808T153000Z
+DTSTART:20250808T153000Z
+DTEND:20250808T173000Z
+SUMMARY:N. Mariana – Uzbekistan U20 0:8
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424277@anstoss
+DTSTAMP:20250808T170000Z
+DTSTART:20250808T170000Z
+DTEND:20250808T190000Z
+SUMMARY:Tajikistan U20 – Chinese Taipei U20 0:3
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 2. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424277.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426556@anstoss
+DTSTAMP:20250810T073000Z
+DTSTART:20250810T073000Z
+DTEND:20250810T093000Z
+SUMMARY:Cambodia U20 – Syria U20 0:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426556.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1427250@anstoss
+DTSTAMP:20250810T080000Z
+DTSTART:20250810T080000Z
+DTEND:20250810T100000Z
+SUMMARY:Korea DPR U20 – Nepal U20 11:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1427250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424280@anstoss
+DTSTAMP:20250810T084500Z
+DTSTART:20250810T084500Z
+DTEND:20250810T104500Z
+SUMMARY:Japan U20 – Iran U20 11:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424281@anstoss
+DTSTAMP:20250810T090000Z
+DTSTART:20250810T090000Z
+DTEND:20250810T110000Z
+SUMMARY:Korea Republic U20 – Bangladesh U20 6:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424297@anstoss
+DTSTAMP:20250810T090000Z
+DTSTART:20250810T090000Z
+DTEND:20250810T110000Z
+SUMMARY:Hong Kong U20 – Singapore U20 3:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424298@anstoss
+DTSTAMP:20250810T093000Z
+DTSTART:20250810T093000Z
+DTEND:20250810T113000Z
+SUMMARY:Myanmar U20 – India U20 0:1
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424282@anstoss
+DTSTAMP:20250810T113500Z
+DTSTART:20250810T113500Z
+DTEND:20250810T133500Z
+SUMMARY:China PR U20 – Lebanon U20 8:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424299@anstoss
+DTSTAMP:20250810T120000Z
+DTSTART:20250810T120000Z
+DTEND:20250810T140000Z
+SUMMARY:Vietnam U20 – Kyrgyzstan 3:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424283@anstoss
+DTSTAMP:20250810T120000Z
+DTSTART:20250810T120000Z
+DTEND:20250810T140000Z
+SUMMARY:Bhutan U20 – Saudi Arabia U20 1:2
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424283.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426559@anstoss
+DTSTAMP:20250810T123000Z
+DTSTART:20250810T123000Z
+DTEND:20250810T143000Z
+SUMMARY:N. Mariana – Bahrain U20 3:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426559.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424284@anstoss
+DTSTAMP:20250810T123000Z
+DTSTART:20250810T123000Z
+DTEND:20250810T143000Z
+SUMMARY:Indonesia U20 – Turkmenistan U20 4:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424284.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426558@anstoss
+DTSTAMP:20250810T123000Z
+DTSTART:20250810T123000Z
+DTEND:20250810T143000Z
+SUMMARY:Laos U20 – Timor-Leste U20 2:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424300@anstoss
+DTSTAMP:20250810T124500Z
+DTSTART:20250810T124500Z
+DTEND:20250810T144500Z
+SUMMARY:Malaysia U20 – Guam U20 2:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424285@anstoss
+DTSTAMP:20250810T140000Z
+DTSTART:20250810T140000Z
+DTEND:20250810T160000Z
+SUMMARY:Australia U20 – Chinese Taipei U20 3:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424286@anstoss
+DTSTAMP:20250810T153000Z
+DTSTART:20250810T153000Z
+DTEND:20250810T173000Z
+SUMMARY:Uzbekistan U20 – Jordan U20 3:3
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424287@anstoss
+DTSTAMP:20250810T170000Z
+DTSTART:20250810T170000Z
+DTEND:20250810T190000Z
+SUMMARY:Palestine U20 – Tajikistan U20 2:0
+DESCRIPTION:AFC U20 Asien-Cup · 1st Round · 3. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540456@anstoss
+DTSTAMP:20260401T090000Z
+DTSTART:20260401T090000Z
+DTEND:20260401T110000Z
+SUMMARY:China PR U20 – Vietnam U20 3:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540457@anstoss
+DTSTAMP:20260401T130000Z
+DTSTART:20260401T130000Z
+DTEND:20260401T150000Z
+SUMMARY:Thailand U20 – Bangladesh U20 3:2
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540459@anstoss
+DTSTAMP:20260402T090000Z
+DTSTART:20260402T090000Z
+DTEND:20260402T110000Z
+SUMMARY:Australia U20 – Chinese Taipei U20 5:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540458@anstoss
+DTSTAMP:20260402T090000Z
+DTSTART:20260402T090000Z
+DTEND:20260402T110000Z
+SUMMARY:Korea Republic U20 – Uzbekistan U20 2:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540461@anstoss
+DTSTAMP:20260402T130000Z
+DTSTART:20260402T130000Z
+DTEND:20260402T150000Z
+SUMMARY:Japan U20 – India U20 6:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540460@anstoss
+DTSTAMP:20260402T130000Z
+DTSTART:20260402T130000Z
+DTEND:20260402T150000Z
+SUMMARY:Korea DPR U20 – Jordan U20 8:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540462@anstoss
+DTSTAMP:20260404T090000Z
+DTSTART:20260404T090000Z
+DTEND:20260404T110000Z
+SUMMARY:Bangladesh U20 – China PR U20 0:2
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540463@anstoss
+DTSTAMP:20260404T130000Z
+DTSTART:20260404T130000Z
+DTEND:20260404T150000Z
+SUMMARY:Vietnam U20 – Thailand U20 1:4
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540465@anstoss
+DTSTAMP:20260405T090000Z
+DTSTART:20260405T090000Z
+DTEND:20260405T110000Z
+SUMMARY:India U20 – Australia U20 0:5
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540464@anstoss
+DTSTAMP:20260405T090000Z
+DTSTART:20260405T090000Z
+DTEND:20260405T110000Z
+SUMMARY:Jordan U20 – Korea Republic U20 1:2
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540467@anstoss
+DTSTAMP:20260405T130000Z
+DTSTART:20260405T130000Z
+DTEND:20260405T150000Z
+SUMMARY:Chinese Taipei U20 – Japan U20 0:2
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540466@anstoss
+DTSTAMP:20260405T130000Z
+DTSTART:20260405T130000Z
+DTEND:20260405T150000Z
+SUMMARY:Uzbekistan U20 – Korea DPR U20 0:6
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540468@anstoss
+DTSTAMP:20260407T130000Z
+DTSTART:20260407T130000Z
+DTEND:20260407T150000Z
+SUMMARY:Vietnam U20 – Bangladesh U20 1:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540469@anstoss
+DTSTAMP:20260407T130000Z
+DTSTART:20260407T130000Z
+DTEND:20260407T150000Z
+SUMMARY:Thailand U20 – China PR U20 0:1
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540470@anstoss
+DTSTAMP:20260408T090000Z
+DTSTART:20260408T090000Z
+DTEND:20260408T110000Z
+SUMMARY:Japan U20 – Australia U20 5:2
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540471@anstoss
+DTSTAMP:20260408T090000Z
+DTSTART:20260408T090000Z
+DTEND:20260408T110000Z
+SUMMARY:Chinese Taipei U20 – India U20 1:3
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540473@anstoss
+DTSTAMP:20260408T130000Z
+DTSTART:20260408T130000Z
+DTEND:20260408T150000Z
+SUMMARY:Korea DPR U20 – Korea Republic U20 5:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540472@anstoss
+DTSTAMP:20260408T130000Z
+DTSTART:20260408T130000Z
+DTEND:20260408T150000Z
+SUMMARY:Uzbekistan U20 – Jordan U20 4:0
+DESCRIPTION:AFC U20 Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540452@anstoss
+DTSTAMP:20260411T090000Z
+DTSTART:20260411T090000Z
+DTEND:20260411T110000Z
+SUMMARY:Japan U20 – Vietnam U20 4:0
+DESCRIPTION:AFC U20 Asien-Cup · Viertelfinale
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540452.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540453@anstoss
+DTSTAMP:20260411T130000Z
+DTSTART:20260411T130000Z
+DTEND:20260411T150000Z
+SUMMARY:China PR U20 – Uzbekistan U20 2:1
+DESCRIPTION:AFC U20 Asien-Cup · Viertelfinale
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540454@anstoss
+DTSTAMP:20260412T090000Z
+DTSTART:20260412T090000Z
+DTEND:20260412T110000Z
+SUMMARY:Korea DPR U20 – Australia U20 3:0
+DESCRIPTION:AFC U20 Asien-Cup · Viertelfinale
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540454.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540455@anstoss
+DTSTAMP:20260412T130000Z
+DTSTART:20260412T130000Z
+DTEND:20260412T150000Z
+SUMMARY:Thailand U20 – Korea Republic U20 1:2
+DESCRIPTION:AFC U20 Asien-Cup · Viertelfinale
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540474@anstoss
+DTSTAMP:20260415T090000Z
+DTSTART:20260415T090000Z
+DTEND:20260415T110000Z
+SUMMARY:Korea DPR U20 – Korea Republic U20 3:0
+DESCRIPTION:AFC U20 Asien-Cup · Halbfinale
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540475@anstoss
+DTSTAMP:20260415T130000Z
+DTSTART:20260415T130000Z
+DTEND:20260415T150000Z
+SUMMARY:China PR U20 – Japan U20 0:2
+DESCRIPTION:AFC U20 Asien-Cup · Halbfinale
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540811@anstoss
+DTSTAMP:20260418T110000Z
+DTSTART:20260418T110000Z
+DTEND:20260418T130000Z
+SUMMARY:Japan U20 – Korea DPR U20 1:0
+DESCRIPTION:AFC U20 Asien-Cup · Finale
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540811.ht
+ ml
+END:VEVENT
+END:VCALENDAR

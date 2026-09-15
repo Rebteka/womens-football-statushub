@@ -13,7 +13,7 @@ DTSTAMP:20240831T230000Z
 DTSTART:20240831T230000Z
 DTEND:20240901T010000Z
 SUMMARY:Brazil U20 – Fiji U20 9:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Atanasio Girardot\, Medellín
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205391.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20240903T220000Z
 DTSTART:20240903T220000Z
 DTEND:20240904T000000Z
 SUMMARY:France U20 – Brazil U20 0:3
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 2. Spieltag
 LOCATION:Estadio Atanasio Girardot\, Medellín
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205401.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20240907T010000Z
 DTSTART:20240907T010000Z
 DTEND:20240907T030000Z
 SUMMARY:Canada U20 – Brazil U20 0:2
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 3. Spieltag
 LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205413.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20240911T213000Z
 DTSTART:20240911T213000Z
 DTEND:20240911T233000Z
 SUMMARY:Brazil U20 – Cameroon U20 3:1
-DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+DESCRIPTION:U20-WM · Achtelfinale
 LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1304029.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20240915T193000Z
 DTSTART:20240915T193000Z
 DTEND:20240915T213000Z
 SUMMARY:Brazil U20 – Korea DPR U20 0:1
-DESCRIPTION:World Cup - U20 - Women · Viertelfinale
+DESCRIPTION:U20-WM · Viertelfinale
 LOCATION:Estadio Atanasio Girardot\, Medellín
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1305615.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20260205T210000Z
 DTSTART:20260205T210000Z
 DTEND:20260205T230000Z
 SUMMARY:Brazil U20 – Ecuador U20 3:2
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516483.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20260207T210000Z
 DTSTART:20260207T210000Z
 DTEND:20260207T230000Z
 SUMMARY:Bolivia U20 – Brazil U20 0:5
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516486.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20260211T210000Z
 DTSTART:20260211T210000Z
 DTEND:20260211T230000Z
 SUMMARY:Peru U20 – Brazil U20 0:6
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516495.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20260213T210000Z
 DTSTART:20260213T210000Z
 DTEND:20260213T230000Z
 SUMMARY:Brazil U20 – Argentina U20 1:2
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516498.ht
  ml
@@ -112,7 +112,7 @@ DTSTAMP:20260216T210000Z
 DTSTART:20260216T210000Z
 DTEND:20260216T230000Z
 SUMMARY:Paraguay U20 – Brazil U20 1:3
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522840.ht
  ml
@@ -123,7 +123,7 @@ DTSTAMP:20260219T230000Z
 DTSTART:20260219T230000Z
 DTEND:20260220T010000Z
 SUMMARY:Colombia U20 – Brazil U20 0:1
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522842.ht
  ml
@@ -134,7 +134,7 @@ DTSTAMP:20260222T230000Z
 DTSTART:20260222T230000Z
 DTEND:20260223T010000Z
 SUMMARY:Brazil U20 – Argentina U20 4:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522844.ht
  ml
@@ -145,7 +145,7 @@ DTSTAMP:20260225T210000Z
 DTSTART:20260225T210000Z
 DTEND:20260225T230000Z
 SUMMARY:Ecuador U20 – Brazil U20 1:1
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522848.ht
  ml
@@ -156,7 +156,7 @@ DTSTAMP:20260228T233000Z
 DTSTART:20260228T233000Z
 DTEND:20260301T013000Z
 SUMMARY:Brazil U20 – Venezuela U20 2:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522850.ht
  ml
@@ -167,7 +167,8 @@ DTSTAMP:20260411T233000Z
 DTSTART:20260411T233000Z
 DTEND:20260412T013000Z
 SUMMARY:United States U20 – Brazil U20 2:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540801.ht
  ml
 END:VEVENT
@@ -177,7 +178,8 @@ DTSTAMP:20260415T193000Z
 DTSTART:20260415T193000Z
 DTEND:20260415T213000Z
 SUMMARY:United States U20 – Brazil U20 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540597.ht
  ml
 END:VEVENT
@@ -187,7 +189,8 @@ DTSTAMP:20260603T100000Z
 DTSTART:20260603T100000Z
 DTEND:20260603T120000Z
 SUMMARY:Finland U23 – Brazil U20 4:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548460.ht
  ml
 END:VEVENT
@@ -197,7 +200,8 @@ DTSTAMP:20260606T100000Z
 DTSTART:20260606T100000Z
 DTEND:20260606T120000Z
 SUMMARY:Brazil U20 – Korea Republic U20 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548472.ht
  ml
 END:VEVENT

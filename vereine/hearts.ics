@@ -13,7 +13,7 @@ DTSTAMP:20240107T000000Z
 DTSTART:20240107T000000Z
 DTEND:20240107T020000Z
 SUMMARY:Hearts – Edinburgh Caledonia 9:0
-DESCRIPTION:SWF Scottish Cup · 3rd Round
+DESCRIPTION:Scottish Cup · 3rd Round
 LOCATION:Oriam National Performance Centre\, Edinburgh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188766.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20240204T000000Z
 DTSTART:20240204T000000Z
 DTEND:20240204T020000Z
 SUMMARY:East Fife – Hearts 0:10
-DESCRIPTION:SWF Scottish Cup · 4th Round
+DESCRIPTION:Scottish Cup · 4th Round
 LOCATION:MGM Timber Bayview Stadium\, Methil
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188750.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20240310T000000Z
 DTSTART:20240310T000000Z
 DTEND:20240310T020000Z
 SUMMARY:Partick Thistle – Hearts 0:1
-DESCRIPTION:SWF Scottish Cup · Viertelfinale
+DESCRIPTION:Scottish Cup · Viertelfinale
 LOCATION:Petershill Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188745.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20240427T000000Z
 DTSTART:20240427T000000Z
 DTEND:20240427T020000Z
 SUMMARY:Spartans – Hearts
-DESCRIPTION:SWF Scottish Cup · Halbfinale
+DESCRIPTION:Scottish Cup · Halbfinale
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188748.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
 SUMMARY:Hearts – Real Sociedad
-DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638403.ht
  ml
 END:VEVENT
@@ -111,7 +111,7 @@ DTSTAMP:20260930T160000Z
 DTSTART:20260930T160000Z
 DTEND:20260930T180000Z
 SUMMARY:Real Sociedad – Hearts
-DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638422.ht
  ml
 END:VEVENT

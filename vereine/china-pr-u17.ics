@@ -13,7 +13,7 @@ DTSTAMP:20260501T113000Z
 DTSTART:20260501T113000Z
 DTEND:20260501T133000Z
 SUMMARY:China PR U17 – Myanmar U17 6:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
 LOCATION:Suzhou Sports Centre\, Suzhou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543544.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20260504T113000Z
 DTSTART:20260504T113000Z
 DTEND:20260504T133000Z
 SUMMARY:Vietnam U17 – China PR U17 0:3
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543549.ht
  ml
 END:VEVENT
@@ -34,7 +34,7 @@ DTSTAMP:20260507T113000Z
 DTSTART:20260507T113000Z
 DTEND:20260507T133000Z
 SUMMARY:China PR U17 – Thailand U17 6:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1543540.ht
  ml
 END:VEVENT
@@ -44,7 +44,7 @@ DTSTAMP:20260511T113000Z
 DTSTART:20260511T113000Z
 DTEND:20260511T133000Z
 SUMMARY:China PR U17 – India U17 3:0
-DESCRIPTION:AFC U17 Asian Cup - Women · Viertelfinale
+DESCRIPTION:AFC U17 Asien-Cup · Viertelfinale
 LOCATION:Suzhou Sports Centre\, Suzhou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544655.ht
  ml
@@ -55,7 +55,7 @@ DTSTAMP:20260514T113000Z
 DTSTART:20260514T113000Z
 DTEND:20260514T133000Z
 SUMMARY:China PR U17 – North Korea U17 2:4
-DESCRIPTION:AFC U17 Asian Cup - Women · Halbfinale
+DESCRIPTION:AFC U17 Asien-Cup · Halbfinale
 LOCATION:Suzhou Sports Centre\, Suzhou
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544862.ht
  ml
@@ -66,7 +66,7 @@ DTSTAMP:20261019T140000Z
 DTSTART:20261019T140000Z
 DTEND:20261019T160000Z
 SUMMARY:Kenya U17 – China PR U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1588912.ht
  ml
 END:VEVENT
@@ -76,7 +76,7 @@ DTSTAMP:20261022T140000Z
 DTSTART:20261022T140000Z
 DTEND:20261022T160000Z
 SUMMARY:China PR U17 – Samoa U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546128.ht
  ml
 END:VEVENT
@@ -86,7 +86,7 @@ DTSTAMP:20261025T170000Z
 DTSTART:20261025T170000Z
 DTEND:20261025T190000Z
 SUMMARY:China PR U17 – United States W U17
-DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+DESCRIPTION:U17-WM · World Cup Women U17 · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546136.ht
  ml
 END:VEVENT

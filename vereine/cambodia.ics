@@ -13,8 +13,7 @@ DTSTAMP:20250629T120000Z
 DTSTART:20250629T120000Z
 DTEND:20250629T140000Z
 SUMMARY:Hong Kong – Cambodia 1:1
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:Olympic Stadium\, Phnom Penh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372392.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20250702T120000Z
 DTSTART:20250702T120000Z
 DTEND:20250702T140000Z
 SUMMARY:Cambodia – Philippines 0:6
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:Olympic Stadium\, Phnom Penh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372408.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20250705T120000Z
 DTSTART:20250705T120000Z
 DTEND:20250705T140000Z
 SUMMARY:Cambodia – Saudi-Arabien 2:1
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:Olympic Stadium\, Phnom Penh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372424.ht
  ml
@@ -49,7 +46,8 @@ DTSTAMP:20260606T110000Z
 DTSTART:20260606T110000Z
 DTEND:20260606T130000Z
 SUMMARY:Singapore – Cambodia 0:5
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1545741.ht
  ml
 END:VEVENT
@@ -59,7 +57,8 @@ DTSTAMP:20260609T083000Z
 DTSTART:20260609T083000Z
 DTEND:20260609T103000Z
 SUMMARY:Indonesia – Cambodia 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1545736.ht
  ml
 END:VEVENT
@@ -69,7 +68,7 @@ DTSTAMP:20260713T084500Z
 DTSTART:20260713T084500Z
 DTEND:20260713T104500Z
 SUMMARY:Cambodia – Timor-Leste 3:1
-DESCRIPTION:Asean Championship Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:ASEAN-Meisterschaft · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1589175.ht
  ml
 END:VEVENT
@@ -79,7 +78,7 @@ DTSTAMP:20260716T084500Z
 DTSTART:20260716T084500Z
 DTEND:20260716T104500Z
 SUMMARY:Indonesia – Cambodia 1:1
-DESCRIPTION:Asean Championship Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:ASEAN-Meisterschaft · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1589178.ht
  ml
 END:VEVENT
@@ -89,7 +88,7 @@ DTSTAMP:20260719T084500Z
 DTSTART:20260719T084500Z
 DTEND:20260719T104500Z
 SUMMARY:Cambodia – Laos 0:1
-DESCRIPTION:Asean Championship Women · Semi-final
+DESCRIPTION:ASEAN-Meisterschaft · Semi-final
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1605336.ht
  ml
 END:VEVENT
@@ -99,7 +98,7 @@ DTSTAMP:20260722T084500Z
 DTSTART:20260722T084500Z
 DTEND:20260722T104500Z
 SUMMARY:Cambodia – Singapore 1:1
-DESCRIPTION:Asean Championship Women · 3rd place Finale
+DESCRIPTION:ASEAN-Meisterschaft · 3rd place Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1605349.ht
  ml
 END:VEVENT

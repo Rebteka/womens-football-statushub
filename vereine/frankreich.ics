@@ -13,7 +13,7 @@ DTSTAMP:20230723T100000Z
 DTSTART:20230723T100000Z
 DTEND:20230723T120000Z
 SUMMARY:Frankreich – Jamaica 0:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:Allianz Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013563.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230729T100000Z
 DTSTART:20230729T100000Z
 DTEND:20230729T120000Z
 SUMMARY:Frankreich – Brasilien 2:1
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Suncorp Stadium\, Brisbane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013580.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230802T100000Z
 DTSTART:20230802T100000Z
 DTEND:20230802T120000Z
 SUMMARY:Panama – Frankreich 3:6
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Allianz Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013596.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20230808T110000Z
 DTSTART:20230808T110000Z
 DTEND:20230808T130000Z
 SUMMARY:Frankreich – Morocco 4:0
-DESCRIPTION:World Cup - Women · Achtelfinale
+DESCRIPTION:Frauen-WM · Achtelfinale
 LOCATION:Hindmarsh Stadium\, Adelaide
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1106510.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20230812T070000Z
 DTSTART:20230812T070000Z
 DTEND:20230812T090000Z
 SUMMARY:Australien – Frankreich 0:0
-DESCRIPTION:World Cup - Women · Viertelfinale
+DESCRIPTION:Frauen-WM · Viertelfinale
 LOCATION:Brisbane Stadium\, Brisbane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1113788.ht
  ml
@@ -68,8 +68,7 @@ DTSTAMP:20240405T191000Z
 DTSTART:20240405T191000Z
 DTEND:20240405T211000Z
 SUMMARY:Frankreich – Republic of Ireland 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Stade Saint-Symphorien\, Longeville-lès-Metz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193110.ht
  ml
@@ -80,8 +79,7 @@ DTSTAMP:20240409T170000Z
 DTSTART:20240409T170000Z
 DTEND:20240409T190000Z
 SUMMARY:Schweden – Frankreich 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Gamla Ullevi\, Göteborg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193116.ht
  ml
@@ -92,8 +90,7 @@ DTSTAMP:20240531T190000Z
 DTSTART:20240531T190000Z
 DTEND:20240531T210000Z
 SUMMARY:England – Frankreich 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:St. James' Park\, Newcastle upon Tyne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193126.ht
  ml
@@ -104,8 +101,7 @@ DTSTAMP:20240604T190000Z
 DTSTART:20240604T190000Z
 DTEND:20240604T210000Z
 SUMMARY:Frankreich – England 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193134.ht
  ml
@@ -116,8 +112,7 @@ DTSTAMP:20240712T191000Z
 DTSTART:20240712T191000Z
 DTEND:20240712T211000Z
 SUMMARY:Frankreich – Schweden 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:Stade Gaston-Gérard\, Dijon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193139.ht
  ml
@@ -128,8 +123,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Republic of Ireland – Frankreich 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:SuperValu Páirc Uí Chaoimh\, Cork
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193148.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20240725T190000Z
 DTSTART:20240725T190000Z
 DTEND:20240725T210000Z
 SUMMARY:Frankreich – Kolumbien 3:2
-DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 1. Spieltag
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187466.ht
  ml
@@ -151,7 +145,7 @@ DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T210000Z
 SUMMARY:Frankreich – Kanada 1:2
-DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 2. Spieltag
 LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187469.ht
  ml
@@ -162,7 +156,7 @@ DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
 SUMMARY:New Zealand – Frankreich 1:2
-DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Olympische Spiele · Gruppenphase · 3. Spieltag
 LOCATION:Groupama Stadium\, Décines-Charpieu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1187473.ht
  ml
@@ -173,7 +167,7 @@ DTSTAMP:20240803T190000Z
 DTSTART:20240803T190000Z
 DTEND:20240803T210000Z
 SUMMARY:Frankreich – Brasilien 0:1
-DESCRIPTION:Olympics Women · Viertelfinale
+DESCRIPTION:Olympische Spiele · Viertelfinale
 LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1274764.ht
  ml
@@ -184,7 +178,7 @@ DTSTAMP:20250221T201000Z
 DTSTART:20250221T201000Z
 DTEND:20250221T221000Z
 SUMMARY:Frankreich – Norwegen 1:0
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Stadium de Toulouse\, Toulouse
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315759.ht
  ml
@@ -195,7 +189,7 @@ DTSTAMP:20250225T201000Z
 DTSTART:20250225T201000Z
 DTEND:20250225T221000Z
 SUMMARY:Frankreich – Island 3:2
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Stade Marie-Marvingt\, Le Mans
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315767.ht
  ml
@@ -206,7 +200,7 @@ DTSTAMP:20250404T180000Z
 DTSTART:20250404T180000Z
 DTEND:20250404T200000Z
 SUMMARY:Schweiz – Frankreich 0:2
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Kybunpark\, St. Gallen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315776.ht
  ml
@@ -217,7 +211,7 @@ DTSTAMP:20250408T170000Z
 DTSTART:20250408T170000Z
 DTEND:20250408T190000Z
 SUMMARY:Norwegen – Frankreich 0:2
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Ullevaal Stadion\, Oslo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315784.ht
  ml
@@ -228,7 +222,7 @@ DTSTAMP:20250530T191000Z
 DTSTART:20250530T191000Z
 DTEND:20250530T211000Z
 SUMMARY:Frankreich – Schweiz 4:0
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Stade Marcel Picot\, Nancy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315791.ht
  ml
@@ -239,7 +233,7 @@ DTSTAMP:20250603T180000Z
 DTSTART:20250603T180000Z
 DTEND:20250603T200000Z
 SUMMARY:Island – Frankreich 0:2
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:Laugardalsvöllur\, Reykjavík
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315799.ht
  ml
@@ -250,7 +244,7 @@ DTSTAMP:20250705T190000Z
 DTSTART:20250705T190000Z
 DTEND:20250705T210000Z
 SUMMARY:Frankreich – England 2:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:Stadion Letzigrund\, Zürich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367631.ht
  ml
@@ -261,7 +255,7 @@ DTSTAMP:20250709T190000Z
 DTSTART:20250709T190000Z
 DTEND:20250709T210000Z
 SUMMARY:Frankreich – Wales 4:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:kybunpark\, St. Gallen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367639.ht
  ml
@@ -272,7 +266,7 @@ DTSTAMP:20250713T190000Z
 DTSTART:20250713T190000Z
 DTEND:20250713T210000Z
 SUMMARY:Niederlande – Frankreich 2:5
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367646.ht
  ml
@@ -283,7 +277,7 @@ DTSTAMP:20250719T190000Z
 DTSTART:20250719T190000Z
 DTEND:20250719T210000Z
 SUMMARY:Frankreich – Deutschland 1:1
-DESCRIPTION:UEFA Championship - Women · Viertelfinale
+DESCRIPTION:Frauen-EM · Viertelfinale
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1401205.ht
  ml
@@ -294,7 +288,7 @@ DTSTAMP:20251024T154500Z
 DTSTART:20251024T154500Z
 DTEND:20251024T174500Z
 SUMMARY:Deutschland – Frankreich 1:0
-DESCRIPTION:UEFA Nations League - Women · Halbfinale
+DESCRIPTION:UEFA Nations League · Halbfinale
 LOCATION:Merkur Spiel-Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478109.ht
  ml
@@ -305,7 +299,7 @@ DTSTAMP:20251028T201000Z
 DTSTART:20251028T201000Z
 DTEND:20251028T221000Z
 SUMMARY:Frankreich – Deutschland 2:2
-DESCRIPTION:UEFA Nations League - Women · Halbfinale
+DESCRIPTION:UEFA Nations League · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478118.ht
  ml
 END:VEVENT
@@ -315,7 +309,7 @@ DTSTAMP:20251128T201000Z
 DTSTART:20251128T201000Z
 DTEND:20251128T221000Z
 SUMMARY:Frankreich – Schweden 2:1
-DESCRIPTION:UEFA Nations League - Women · 3rd place
+DESCRIPTION:UEFA Nations League · 3rd place
 LOCATION:Stade Auguste-Delaune\, Reims
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1484740.ht
  ml
@@ -326,7 +320,7 @@ DTSTAMP:20251202T180000Z
 DTSTART:20251202T180000Z
 DTEND:20251202T200000Z
 SUMMARY:Schweden – Frankreich 2:2
-DESCRIPTION:UEFA Nations League - Women · 3rd place
+DESCRIPTION:UEFA Nations League · 3rd place
 LOCATION:3Arena\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1484741.ht
  ml
@@ -337,8 +331,7 @@ DTSTAMP:20260303T193000Z
 DTSTART:20260303T193000Z
 DTEND:20260303T213000Z
 SUMMARY:Republic of Ireland – Frankreich 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Tallaght Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523819.ht
  ml
@@ -349,8 +342,7 @@ DTSTAMP:20260307T201000Z
 DTSTART:20260307T201000Z
 DTEND:20260307T221000Z
 SUMMARY:Frankreich – Polen 4:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523844.ht
  ml
 END:VEVENT
@@ -360,8 +352,7 @@ DTSTAMP:20260414T184500Z
 DTSTART:20260414T184500Z
 DTEND:20260414T204500Z
 SUMMARY:Niederlande – Frankreich 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Rat Verlegh Stadion\, Breda
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523869.ht
  ml
@@ -372,8 +363,7 @@ DTSTAMP:20260418T191000Z
 DTSTART:20260418T191000Z
 DTEND:20260418T211000Z
 SUMMARY:Frankreich – Niederlande 1:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523894.ht
  ml
 END:VEVENT
@@ -383,8 +373,7 @@ DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Polen – Frankreich 0:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523919.ht
  ml
@@ -395,8 +384,7 @@ DTSTAMP:20260609T190000Z
 DTSTART:20260609T190000Z
 DTEND:20260609T210000Z
 SUMMARY:Frankreich – Republic of Ireland 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Stade des Alpes\, Grenoble
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523944.ht
  ml
@@ -407,7 +395,8 @@ DTSTAMP:20261010T190000Z
 DTSTART:20261010T190000Z
 DTEND:20261010T210000Z
 SUMMARY:Frankreich – Latvia
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628976.ht
  ml
 END:VEVENT

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AFC U17 Asien-Cup 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543543@anstoss
+DTSTAMP:20260501T073000Z
+DTSTART:20260501T073000Z
+DTEND:20260501T093000Z
+SUMMARY:Thailand U17 – Vietnam U17 2:2
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543544@anstoss
+DTSTAMP:20260501T113000Z
+DTSTART:20260501T113000Z
+DTEND:20260501T133000Z
+SUMMARY:China PR U17 – Myanmar U17 6:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543538@anstoss
+DTSTAMP:20260502T073000Z
+DTSTART:20260502T073000Z
+DTEND:20260502T093000Z
+SUMMARY:South Korea U17 – Philippines U17 5:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543538.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543545@anstoss
+DTSTAMP:20260502T073000Z
+DTSTART:20260502T073000Z
+DTEND:20260502T093000Z
+SUMMARY:Japan U17 – Lebanon U17 13:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543546@anstoss
+DTSTAMP:20260502T113000Z
+DTSTART:20260502T113000Z
+DTEND:20260502T133000Z
+SUMMARY:Australia U17 – India U17 2:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543546.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543547@anstoss
+DTSTAMP:20260502T113000Z
+DTSTART:20260502T113000Z
+DTEND:20260502T133000Z
+SUMMARY:North Korea U17 – Chinese Taipei U17 10:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543548@anstoss
+DTSTAMP:20260504T073000Z
+DTSTART:20260504T073000Z
+DTEND:20260504T093000Z
+SUMMARY:Myanmar U17 – Thailand U17 0:1
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543548.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543549@anstoss
+DTSTAMP:20260504T113000Z
+DTSTART:20260504T113000Z
+DTEND:20260504T133000Z
+SUMMARY:Vietnam U17 – China PR U17 0:3
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543549.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543550@anstoss
+DTSTAMP:20260505T073000Z
+DTSTART:20260505T073000Z
+DTEND:20260505T093000Z
+SUMMARY:Lebanon U17 – Australia U17 1:1
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543550.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543551@anstoss
+DTSTAMP:20260505T073000Z
+DTSTART:20260505T073000Z
+DTEND:20260505T093000Z
+SUMMARY:Chinese Taipei U17 – South Korea U17 0:4
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543551.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543539@anstoss
+DTSTAMP:20260505T113000Z
+DTSTART:20260505T113000Z
+DTEND:20260505T133000Z
+SUMMARY:Philippines U17 – North Korea U17 0:8
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543552@anstoss
+DTSTAMP:20260505T113000Z
+DTSTART:20260505T113000Z
+DTEND:20260505T133000Z
+SUMMARY:India U17 – Japan U17 0:3
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543552.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543540@anstoss
+DTSTAMP:20260507T113000Z
+DTSTART:20260507T113000Z
+DTEND:20260507T133000Z
+SUMMARY:China PR U17 – Thailand U17 6:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543540.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543553@anstoss
+DTSTAMP:20260507T113000Z
+DTSTART:20260507T113000Z
+DTEND:20260507T133000Z
+SUMMARY:Vietnam U17 – Myanmar U17 2:1
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543541@anstoss
+DTSTAMP:20260508T073000Z
+DTSTART:20260508T073000Z
+DTEND:20260508T093000Z
+SUMMARY:Japan U17 – Australia U17 5:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543541.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543554@anstoss
+DTSTAMP:20260508T073000Z
+DTSTART:20260508T073000Z
+DTEND:20260508T093000Z
+SUMMARY:India U17 – Lebanon U17 4:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543554.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543542@anstoss
+DTSTAMP:20260508T113000Z
+DTSTART:20260508T113000Z
+DTEND:20260508T133000Z
+SUMMARY:North Korea U17 – South Korea U17 3:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543542.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543555@anstoss
+DTSTAMP:20260508T113000Z
+DTSTART:20260508T113000Z
+DTEND:20260508T133000Z
+SUMMARY:Philippines U17 – Chinese Taipei U17 0:0
+DESCRIPTION:AFC U17 Asien-Cup · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544653@anstoss
+DTSTAMP:20260511T070000Z
+DTSTART:20260511T070000Z
+DTEND:20260511T090000Z
+SUMMARY:Japan U17 – South Korea U17 1:0
+DESCRIPTION:AFC U17 Asien-Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544654@anstoss
+DTSTAMP:20260511T070000Z
+DTSTART:20260511T070000Z
+DTEND:20260511T090000Z
+SUMMARY:Vietnam U17 – Australia U17 0:2
+DESCRIPTION:AFC U17 Asien-Cup · Viertelfinale
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544655@anstoss
+DTSTAMP:20260511T113000Z
+DTSTART:20260511T113000Z
+DTEND:20260511T133000Z
+SUMMARY:China PR U17 – India U17 3:0
+DESCRIPTION:AFC U17 Asien-Cup · Viertelfinale
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544655.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544656@anstoss
+DTSTAMP:20260511T113000Z
+DTSTART:20260511T113000Z
+DTEND:20260511T133000Z
+SUMMARY:North Korea U17 – Thailand U17 6:0
+DESCRIPTION:AFC U17 Asien-Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544656.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544861@anstoss
+DTSTAMP:20260514T070000Z
+DTSTART:20260514T070000Z
+DTEND:20260514T090000Z
+SUMMARY:Japan U17 – Australia U17 4:0
+DESCRIPTION:AFC U17 Asien-Cup · Halbfinale
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544862@anstoss
+DTSTAMP:20260514T113000Z
+DTSTART:20260514T113000Z
+DTEND:20260514T133000Z
+SUMMARY:China PR U17 – North Korea U17 2:4
+DESCRIPTION:AFC U17 Asien-Cup · Halbfinale
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544862.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545170@anstoss
+DTSTAMP:20260517T113000Z
+DTSTART:20260517T113000Z
+DTEND:20260517T133000Z
+SUMMARY:North Korea U17 – Japan U17 5:1
+DESCRIPTION:AFC U17 Asien-Cup · Finale
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545170.ht
+ ml
+END:VEVENT
+END:VCALENDAR

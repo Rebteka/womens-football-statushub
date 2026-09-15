@@ -13,8 +13,7 @@ DTSTAMP:20240405T143000Z
 DTSTART:20240405T143000Z
 DTEND:20240405T163000Z
 SUMMARY:Slovenia – Moldova 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:Športni Park Šiška\, Ljubljana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193202.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T150000Z
 DTSTART:20240409T150000Z
 DTEND:20240409T170000Z
 SUMMARY:Moldova – Latvia 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Stadionul Zimbru\, Chişinău
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193210.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T150000Z
 DTSTART:20240531T150000Z
 DTEND:20240531T170000Z
 SUMMARY:North Macedonia – Moldova 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193220.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T160000Z
 DTSTART:20240604T160000Z
 DTEND:20240604T180000Z
 SUMMARY:Moldova – North Macedonia 2:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 LOCATION:Stadionul Zimbru\, Chişinău
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193228.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T170000Z
 DTSTART:20240712T170000Z
 DTEND:20240712T190000Z
 SUMMARY:Moldova – Slovenia 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Stadionul Zimbru\, Chişinău
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193238.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Latvia – Moldova 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:Daugavas Stadionā\, Riga
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193247.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T130000Z
 DTSTART:20250221T130000Z
 DTEND:20250221T150000Z
 SUMMARY:Moldova – Gibraltar 1:0
-DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 1. Spieltag
 LOCATION:Nisporeni stadium\, Nisporeni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315853.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250225T163000Z
 DTSTART:20250225T163000Z
 DTEND:20250225T183000Z
 SUMMARY:Slowakei – Moldova 1:0
-DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 2. Spieltag
 LOCATION:City Arena Trnava\, Trnava
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315863.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250404T160000Z
 DTSTART:20250404T160000Z
 DTEND:20250404T180000Z
 SUMMARY:Faroe Islands – Moldova 2:0
-DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 3. Spieltag
 LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315871.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250408T140000Z
 DTSTART:20250408T140000Z
 DTEND:20250408T160000Z
 SUMMARY:Moldova – Slowakei 0:2
-DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 4. Spieltag
 LOCATION:Stadionul Zimbru
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315881.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20250530T170000Z
 DTSTART:20250530T170000Z
 DTEND:20250530T190000Z
 SUMMARY:Moldova – Faroe Islands 1:1
-DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 5. Spieltag
 LOCATION:Stadionul Zimbru
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315889.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Gibraltar – Moldova 0:4
-DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League C · 6. Spieltag
 LOCATION:Europa point stadium\, Gibraltar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315899.ht
  ml
@@ -151,8 +145,7 @@ DTSTAMP:20260303T160000Z
 DTSTART:20260303T160000Z
 DTEND:20260303T180000Z
 SUMMARY:Rumänien – Moldova 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Stadionul Arcul de Triumf\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523833.ht
  ml
@@ -163,8 +156,7 @@ DTSTAMP:20260414T140000Z
 DTSTART:20260414T140000Z
 DTEND:20260414T160000Z
 SUMMARY:Moldova – Cyprus 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Nisporeni stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523883.ht
  ml
@@ -175,7 +167,8 @@ DTSTAMP:20260418T130000Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Greece – Moldova 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539391.ht
  ml
 END:VEVENT
@@ -185,8 +178,7 @@ DTSTAMP:20260605T150000Z
 DTSTART:20260605T150000Z
 DTEND:20260605T170000Z
 SUMMARY:Moldova – Rumänien 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Nisporeni stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523933.ht
  ml
@@ -197,8 +189,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Cyprus – Moldova 0:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Antonis Papadopoulos Stadium\, Larnaca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523958.ht
  ml

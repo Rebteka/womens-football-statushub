@@ -13,7 +13,8 @@ DTSTAMP:20260123T230000Z
 DTSTART:20260123T230000Z
 DTEND:20260124T010000Z
 SUMMARY:Uruguay U20 – Ecuador U20 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1512642.ht
  ml
 END:VEVENT
@@ -23,7 +24,8 @@ DTSTAMP:20260125T123000Z
 DTSTART:20260125T123000Z
 DTEND:20260125T143000Z
 SUMMARY:Uruguay U20 – Ecuador U20 1:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1512639.ht
  ml
 END:VEVENT
@@ -33,7 +35,7 @@ DTSTAMP:20260204T210000Z
 DTSTART:20260204T210000Z
 DTEND:20260204T230000Z
 SUMMARY:Uruguay U20 – Venezuela U20 0:2
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516481.ht
  ml
@@ -44,7 +46,7 @@ DTSTAMP:20260206T210000Z
 DTSTART:20260206T210000Z
 DTEND:20260206T230000Z
 SUMMARY:Uruguay U20 – Paraguay U20 0:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516485.ht
  ml
@@ -55,7 +57,7 @@ DTSTAMP:20260208T210000Z
 DTSTART:20260208T210000Z
 DTEND:20260208T230000Z
 SUMMARY:Chile U20 – Uruguay U20 0:1
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516488.ht
  ml
@@ -66,7 +68,7 @@ DTSTAMP:20260210T210000Z
 DTSTART:20260210T210000Z
 DTEND:20260210T230000Z
 SUMMARY:Colombia U20 – Uruguay U20 2:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516492.ht
  ml
@@ -77,7 +79,8 @@ DTSTAMP:20260908T150000Z
 DTSTART:20260908T150000Z
 DTEND:20260908T170000Z
 SUMMARY:Chile U20 – Uruguay U20 3:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1637471.ht
  ml
 END:VEVENT
@@ -87,7 +90,8 @@ DTSTAMP:20260910T130000Z
 DTSTART:20260910T130000Z
 DTEND:20260910T150000Z
 SUMMARY:Chile U20 – Uruguay U20 2:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1637472.ht
  ml
 END:VEVENT

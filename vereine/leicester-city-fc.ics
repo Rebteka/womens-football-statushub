@@ -13,7 +13,7 @@ DTSTAMP:20260118T120000Z
 DTSTART:20260118T120000Z
 DTEND:20260118T140000Z
 SUMMARY:Tottenham Hotspur – Leicester City FC 3:0
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 LOCATION:Brisbane Road\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501246.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20260923T183000Z
 DTSTART:20260923T183000Z
 DTEND:20260923T203000Z
 SUMMARY:Leicester City FC – London City Lionesses
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:King Power Stadium\, Leicester
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612638.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20261017T140000Z
 DTSTART:20261017T140000Z
 DTEND:20261017T160000Z
 SUMMARY:Watford – Leicester City FC
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Grosvenor Vale\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612647.ht
  ml
@@ -112,7 +112,7 @@ DTSTAMP:20261101T140000Z
 DTSTART:20261101T140000Z
 DTEND:20261101T160000Z
 SUMMARY:Southampton – Leicester City FC
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612670.ht
  ml
 END:VEVENT
@@ -144,7 +144,7 @@ DTSTAMP:20261118T190000Z
 DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 SUMMARY:Tottenham Hotspur – Leicester City FC
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Brisbane Road\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612682.ht
  ml
@@ -155,7 +155,7 @@ DTSTAMP:20261122T150000Z
 DTSTART:20261122T150000Z
 DTEND:20261122T170000Z
 SUMMARY:Leicester City FC – Wolverhampton
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:King Power Stadium\, Leicester
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612689.ht
  ml
@@ -166,7 +166,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Leicester City FC – Charlton Athletic
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:King Power Stadium\, Leicester
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612695.ht
  ml

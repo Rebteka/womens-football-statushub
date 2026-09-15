@@ -13,8 +13,7 @@ DTSTAMP:20230922T000000Z
 DTSTART:20230922T000000Z
 DTEND:20230922T020000Z
 SUMMARY:Belize – Aruba 2:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 1. Spieltag
 LOCATION:FFB Field\, Belmopán
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140541.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230926T000000Z
 DTSTART:20230926T000000Z
 DTEND:20230926T020000Z
 SUMMARY:Belize – Bonaire 3:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 2. Spieltag
 LOCATION:FFB Field\, Belmopán
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140549.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20231026T200000Z
 DTSTART:20231026T200000Z
 DTEND:20231026T220000Z
 SUMMARY:Turks and Caicos Islands – Belize 0:6
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 3. Spieltag
 LOCATION:TCIFA National Stadium\, Providenciales
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140552.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20231031T013000Z
 DTSTART:20231031T013000Z
 DTEND:20231031T033000Z
 SUMMARY:Belize – Turks and Caicos Islands 3:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 4. Spieltag
 LOCATION:FFB Field\, Belmopán
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140561.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20231201T000000Z
 DTSTART:20231201T000000Z
 DTEND:20231201T020000Z
 SUMMARY:Bonaire – Belize 1:5
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 5. Spieltag
 LOCATION:Stadion Antonio Trenidat\, Rincon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140565.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20231204T190000Z
 DTSTART:20231204T190000Z
 DTEND:20231204T210000Z
 SUMMARY:Aruba – Belize 0:1
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 6. Spieltag
 LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140570.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20251201T010000Z
 DTSTART:20251201T010000Z
 DTEND:20251201T030000Z
 SUMMARY:Belize – Haiti 0:9
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:FFB Field\, Belmopan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488279.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20260228T230000Z
 DTSTART:20260228T230000Z
 DTEND:20260301T010000Z
 SUMMARY:Dominican Republic – Belize 6:1
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Estadio Cibao FC\, Santiago
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488289.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20260414T010000Z
 DTSTART:20260414T010000Z
 DTEND:20260414T030000Z
 SUMMARY:Belize – Anguilla 2:0
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:FFB Field\, Belmopan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488309.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20260417T210000Z
 DTSTART:20260417T210000Z
 DTEND:20260417T230000Z
 SUMMARY:Suriname – Belize 0:2
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Franklin Essed Stadion\, Paramaribo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488318.ht
  ml
@@ -129,7 +123,8 @@ DTSTAMP:20260604T220000Z
 DTSTART:20260604T220000Z
 DTEND:20260605T000000Z
 SUMMARY:Bermuda – Belize 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546555.ht
  ml
 END:VEVENT
@@ -139,7 +134,8 @@ DTSTAMP:20260607T220000Z
 DTSTART:20260607T220000Z
 DTEND:20260608T000000Z
 SUMMARY:Bermuda – Belize 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546558.ht
  ml
 END:VEVENT

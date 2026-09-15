@@ -13,8 +13,7 @@ DTSTAMP:20240405T164500Z
 DTSTART:20240405T164500Z
 DTEND:20240405T184500Z
 SUMMARY:Island – Polen 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Kópavogsvöllur\, Kópavogur
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193106.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T161000Z
 DTSTART:20240409T161000Z
 DTEND:20240409T181000Z
 SUMMARY:Deutschland – Island 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Neuer Tivoli\, Aachen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193113.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T160000Z
 DTSTART:20240531T160000Z
 DTEND:20240531T180000Z
 SUMMARY:Österreich – Island 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:Innviertel Arena\, Ried Im Innkreis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193121.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T193000Z
 DTSTART:20240604T193000Z
 DTEND:20240604T213000Z
 SUMMARY:Island – Österreich 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Laugardalsvöllur\, Reykjavík
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193132.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T161500Z
 DTSTART:20240712T161500Z
 DTEND:20240712T181500Z
 SUMMARY:Island – Deutschland 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:Laugardalsvöllur\, Reykjavík
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193141.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Polen – Island 0:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:ArcelorMittal Park\, Sosnowiec
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193150.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20250221T180000Z
 DTSTART:20250221T180000Z
 DTEND:20250221T200000Z
 SUMMARY:Schweiz – Island 0:0
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Letzigrund Stadion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315760.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20250225T201000Z
 DTSTART:20250225T201000Z
 DTEND:20250225T221000Z
 SUMMARY:Frankreich – Island 3:2
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Stade Marie-Marvingt\, Le Mans
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315767.ht
  ml
@@ -107,7 +101,7 @@ DTSTAMP:20250404T164500Z
 DTSTART:20250404T164500Z
 DTEND:20250404T184500Z
 SUMMARY:Island – Norwegen 0:0
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Throttarvollur
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315775.ht
  ml
@@ -118,7 +112,7 @@ DTSTAMP:20250408T164500Z
 DTSTART:20250408T164500Z
 DTEND:20250408T184500Z
 SUMMARY:Island – Schweiz 3:3
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:Throttarvollur
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315783.ht
  ml
@@ -129,7 +123,7 @@ DTSTAMP:20250530T180000Z
 DTSTART:20250530T180000Z
 DTEND:20250530T200000Z
 SUMMARY:Norwegen – Island 1:1
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Lerkendal Stadion\, Trondheim
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315792.ht
  ml
@@ -140,7 +134,7 @@ DTSTAMP:20250603T180000Z
 DTSTART:20250603T180000Z
 DTEND:20250603T200000Z
 SUMMARY:Island – Frankreich 0:2
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:Laugardalsvöllur\, Reykjavík
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315799.ht
  ml
@@ -151,7 +145,7 @@ DTSTAMP:20250702T160000Z
 DTSTART:20250702T160000Z
 DTEND:20250702T180000Z
 SUMMARY:Island – Finnland 0:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:Stockhorn Arena\, Thun
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367624.ht
  ml
@@ -162,7 +156,7 @@ DTSTAMP:20250706T190000Z
 DTSTART:20250706T190000Z
 DTEND:20250706T210000Z
 SUMMARY:Schweiz – Island 2:0
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:Stadion Wankdorf\, Bern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367633.ht
  ml
@@ -173,7 +167,7 @@ DTSTAMP:20250710T190000Z
 DTSTART:20250710T190000Z
 DTEND:20250710T210000Z
 SUMMARY:Norwegen – Island 4:3
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:Stockhorn Arena\, Thun
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367641.ht
  ml
@@ -184,7 +178,7 @@ DTSTAMP:20251024T180000Z
 DTSTART:20251024T180000Z
 DTEND:20251024T200000Z
 SUMMARY:Nordirland – Island 0:2
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Ballymena Showgrounds\, Ballymena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478113.ht
  ml
@@ -195,7 +189,7 @@ DTSTAMP:20251029T170000Z
 DTSTART:20251029T170000Z
 DTEND:20251029T190000Z
 SUMMARY:Island – Nordirland 3:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478121.ht
  ml
 END:VEVENT
@@ -205,8 +199,7 @@ DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z
 DTEND:20260303T200000Z
 SUMMARY:Spanien – Island 3:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Municipal de Castalia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523815.ht
  ml
@@ -217,8 +210,7 @@ DTSTAMP:20260307T123000Z
 DTSTART:20260307T123000Z
 DTEND:20260307T143000Z
 SUMMARY:England – Island 2:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:City Ground\, Nottingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523841.ht
  ml
@@ -229,8 +221,7 @@ DTSTAMP:20260414T183000Z
 DTSTART:20260414T183000Z
 DTEND:20260414T203000Z
 SUMMARY:Island – Ukraine 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523866.ht
  ml
 END:VEVENT
@@ -240,8 +231,7 @@ DTSTAMP:20260418T163000Z
 DTSTART:20260418T163000Z
 DTEND:20260418T183000Z
 SUMMARY:Island – England 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523891.ht
  ml
 END:VEVENT
@@ -251,8 +241,7 @@ DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Ukraine – Island 0:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Stadion Miejski przy Solskiego 1 w Mielcu\, Mielec
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523916.ht
  ml
@@ -263,8 +252,7 @@ DTSTAMP:20260609T190000Z
 DTSTART:20260609T190000Z
 DTEND:20260609T210000Z
 SUMMARY:Island – Spanien 1:6
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523940.ht
  ml
 END:VEVENT
@@ -274,7 +262,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Croatia – Island
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557245.ht
  ml
 END:VEVENT
@@ -284,7 +272,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Island – Croatia
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557260.ht
  ml
 END:VEVENT

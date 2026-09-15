@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Asien-Cup 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1516360@anstoss
+DTSTAMP:20260301T090000Z
+DTSTART:20260301T090000Z
+DTEND:20260301T110000Z
+SUMMARY:Australien – Philippines 1:0
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516361@anstoss
+DTSTAMP:20260302T090000Z
+DTSTART:20260302T090000Z
+DTEND:20260302T110000Z
+SUMMARY:Südkorea – Iran 3:0
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516362@anstoss
+DTSTAMP:20260303T020000Z
+DTSTART:20260303T020000Z
+DTEND:20260303T040000Z
+SUMMARY:Korea DPR – Uzbekistan 3:0
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516363@anstoss
+DTSTAMP:20260303T080000Z
+DTSTART:20260303T080000Z
+DTEND:20260303T100000Z
+SUMMARY:China – Bangladesh 2:0
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516364@anstoss
+DTSTAMP:20260304T050000Z
+DTSTART:20260304T050000Z
+DTEND:20260304T070000Z
+SUMMARY:Japan – Chinese Taipei 2:0
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516365@anstoss
+DTSTAMP:20260304T110000Z
+DTSTART:20260304T110000Z
+DTEND:20260304T130000Z
+SUMMARY:Vietnam – India 2:1
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516366@anstoss
+DTSTAMP:20260305T030000Z
+DTSTART:20260305T030000Z
+DTEND:20260305T050000Z
+SUMMARY:Philippines – Südkorea 0:3
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516367@anstoss
+DTSTAMP:20260305T090000Z
+DTSTART:20260305T090000Z
+DTEND:20260305T110000Z
+SUMMARY:Iran – Australien 0:4
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516368@anstoss
+DTSTAMP:20260306T020000Z
+DTSTART:20260306T020000Z
+DTEND:20260306T040000Z
+SUMMARY:Bangladesh – Korea DPR 0:5
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516369@anstoss
+DTSTAMP:20260306T080000Z
+DTSTART:20260306T080000Z
+DTEND:20260306T100000Z
+SUMMARY:Uzbekistan – China 0:3
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516370@anstoss
+DTSTAMP:20260307T050000Z
+DTSTART:20260307T050000Z
+DTEND:20260307T070000Z
+SUMMARY:Chinese Taipei – Vietnam 1:0
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516371@anstoss
+DTSTAMP:20260307T110000Z
+DTSTART:20260307T110000Z
+DTEND:20260307T130000Z
+SUMMARY:India – Japan 0:11
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516372@anstoss
+DTSTAMP:20260308T090000Z
+DTSTART:20260308T090000Z
+DTEND:20260308T110000Z
+SUMMARY:Australien – Südkorea 3:3
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516373@anstoss
+DTSTAMP:20260308T090000Z
+DTSTART:20260308T090000Z
+DTEND:20260308T110000Z
+SUMMARY:Iran – Philippines 0:2
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516374@anstoss
+DTSTAMP:20260309T090000Z
+DTSTART:20260309T090000Z
+DTEND:20260309T110000Z
+SUMMARY:Bangladesh – Uzbekistan 0:4
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516375@anstoss
+DTSTAMP:20260309T090000Z
+DTSTART:20260309T090000Z
+DTEND:20260309T110000Z
+SUMMARY:Korea DPR – China 1:2
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516376@anstoss
+DTSTAMP:20260310T090000Z
+DTSTART:20260310T090000Z
+DTEND:20260310T110000Z
+SUMMARY:Japan – Vietnam 4:0
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516377@anstoss
+DTSTAMP:20260310T090000Z
+DTSTART:20260310T090000Z
+DTEND:20260310T110000Z
+SUMMARY:India – Chinese Taipei 1:3
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531616@anstoss
+DTSTAMP:20260313T100000Z
+DTSTART:20260313T100000Z
+DTEND:20260313T120000Z
+SUMMARY:Australien – Korea DPR 2:1
+DESCRIPTION:Asien-Cup · Viertelfinale
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531617@anstoss
+DTSTAMP:20260314T050000Z
+DTSTART:20260314T050000Z
+DTEND:20260314T070000Z
+SUMMARY:China – Chinese Taipei 2:0
+DESCRIPTION:Asien-Cup · Viertelfinale
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531617.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531618@anstoss
+DTSTAMP:20260314T090000Z
+DTSTART:20260314T090000Z
+DTEND:20260314T110000Z
+SUMMARY:Südkorea – Uzbekistan 6:0
+DESCRIPTION:Asien-Cup · Viertelfinale
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531618.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531619@anstoss
+DTSTAMP:20260315T050000Z
+DTSTART:20260315T050000Z
+DTEND:20260315T070000Z
+SUMMARY:Japan – Philippines 7:0
+DESCRIPTION:Asien-Cup · Viertelfinale
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531619.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533880@anstoss
+DTSTAMP:20260317T100000Z
+DTSTART:20260317T100000Z
+DTEND:20260317T120000Z
+SUMMARY:China – Australien 1:2
+DESCRIPTION:Asien-Cup · Halbfinale
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533880.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533904@anstoss
+DTSTAMP:20260318T090000Z
+DTSTART:20260318T090000Z
+DTEND:20260318T110000Z
+SUMMARY:Südkorea – Japan 1:4
+DESCRIPTION:Asien-Cup · Halbfinale
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533905@anstoss
+DTSTAMP:20260319T030000Z
+DTSTART:20260319T030000Z
+DTEND:20260319T050000Z
+SUMMARY:Uzbekistan – Philippines 0:2
+DESCRIPTION:Asien-Cup · Playoffs
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533881@anstoss
+DTSTAMP:20260319T090000Z
+DTSTART:20260319T090000Z
+DTEND:20260319T110000Z
+SUMMARY:Chinese Taipei – Korea DPR 0:4
+DESCRIPTION:Asien-Cup · Playoffs
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534913@anstoss
+DTSTAMP:20260321T090000Z
+DTSTART:20260321T090000Z
+DTEND:20260321T110000Z
+SUMMARY:Japan – Australien 1:0
+DESCRIPTION:Asien-Cup · Finale
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534913.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -13,7 +13,7 @@ DTSTAMP:20260405T140000Z
 DTSTART:20260405T140000Z
 DTEND:20260405T160000Z
 SUMMARY:Linfield – Shamrock Rovers 1:2
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539598.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20260509T170000Z
 DTSTART:20260509T170000Z
 DTEND:20260509T190000Z
 SUMMARY:Wexford Youths – Linfield 1:1
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1539610.ht
  ml
 END:VEVENT
@@ -64,7 +64,7 @@ DTSTAMP:20260530T140000Z
 DTSTART:20260530T140000Z
 DTEND:20260530T160000Z
 SUMMARY:Linfield – Sligo Rovers 5:0
-DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:All-Island Cup · Gruppenphase · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542073.ht
  ml
 END:VEVENT
@@ -74,7 +74,7 @@ DTSTAMP:20260613T160000Z
 DTSTART:20260613T160000Z
 DTEND:20260613T180000Z
 SUMMARY:Galway United – Linfield 3:2
-DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+DESCRIPTION:All-Island Cup · Quarter-Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1553410.ht
  ml
 END:VEVENT

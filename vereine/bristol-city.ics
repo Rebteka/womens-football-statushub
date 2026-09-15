@@ -13,7 +13,7 @@ DTSTAMP:20251214T150000Z
 DTSTART:20251214T150000Z
 DTEND:20251214T170000Z
 SUMMARY:Bristol City – Portsmouth 2:0
-DESCRIPTION:FA Women's Cup · 3rd Round
+DESCRIPTION:FA Cup · 3rd Round
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488454.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20260118T130000Z
 DTSTART:20260118T130000Z
 DTEND:20260118T150000Z
 SUMMARY:Southampton – Bristol City 1:2
-DESCRIPTION:FA Women's Cup · Round 4
+DESCRIPTION:FA Cup · Round 4
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501249.ht
  ml
 END:VEVENT
@@ -34,7 +34,7 @@ DTSTAMP:20260222T130000Z
 DTSTART:20260222T130000Z
 DTEND:20260222T150000Z
 SUMMARY:Arsenal – Bristol City 3:0
-DESCRIPTION:FA Women's Cup · Round 5
+DESCRIPTION:FA Cup · Round 5
 LOCATION:Emirates Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514953.ht
  ml
@@ -100,7 +100,7 @@ DTSTAMP:20261018T140000Z
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
 SUMMARY:Bristol City – Southampton
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612652.ht
  ml
@@ -111,7 +111,7 @@ DTSTAMP:20261021T183000Z
 DTSTART:20261021T183000Z
 DTEND:20261021T203000Z
 SUMMARY:Charlton Athletic – Bristol City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:The Valley\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612659.ht
  ml
@@ -133,7 +133,7 @@ DTSTAMP:20261028T190000Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Bristol City – Tottenham Hotspur
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612660.ht
  ml
@@ -144,7 +144,7 @@ DTSTAMP:20261101T140000Z
 DTSTART:20261101T140000Z
 DTEND:20261101T160000Z
 SUMMARY:Wolverhampton – Bristol City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:New Bucks Head\, Telford
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612672.ht
  ml
@@ -176,7 +176,7 @@ DTSTAMP:20261122T150000Z
 DTSTART:20261122T150000Z
 DTEND:20261122T170000Z
 SUMMARY:Bristol City – Watford
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612688.ht
  ml
@@ -187,7 +187,7 @@ DTSTAMP:20261216T190000Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:London City Lionesses – Bristol City
-DESCRIPTION:WSL Cup · Gruppenphase
+DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612696.ht
  ml

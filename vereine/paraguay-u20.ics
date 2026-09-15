@@ -13,7 +13,7 @@ DTSTAMP:20240901T230000Z
 DTSTART:20240901T230000Z
 DTEND:20240902T010000Z
 SUMMARY:Paraguay U20 – Morocco U20 2:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205394.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20240904T220000Z
 DTSTART:20240904T220000Z
 DTEND:20240905T000000Z
 SUMMARY:Spain U20 – Paraguay U20 2:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 2. Spieltag
 LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205404.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20240907T230000Z
 DTSTART:20240907T230000Z
 DTEND:20240908T010000Z
 SUMMARY:United States U20 – Paraguay U20 7:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 3. Spieltag
 LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205419.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20260204T210000Z
 DTSTART:20260204T210000Z
 DTEND:20260204T230000Z
 SUMMARY:Paraguay U20 – Chile U20 4:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516480.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20260206T210000Z
 DTSTART:20260206T210000Z
 DTEND:20260206T230000Z
 SUMMARY:Uruguay U20 – Paraguay U20 0:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516485.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20260210T210000Z
 DTSTART:20260210T210000Z
 DTEND:20260210T230000Z
 SUMMARY:Venezuela U20 – Paraguay U20 2:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516493.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20260212T210000Z
 DTSTART:20260212T210000Z
 DTEND:20260212T230000Z
 SUMMARY:Paraguay U20 – Colombia U20 0:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Luis Alfonso Giagni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516496.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20260216T210000Z
 DTSTART:20260216T210000Z
 DTEND:20260216T230000Z
 SUMMARY:Paraguay U20 – Brazil U20 1:3
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522840.ht
  ml
@@ -101,7 +101,7 @@ DTSTAMP:20260219T210000Z
 DTSTART:20260219T210000Z
 DTEND:20260219T230000Z
 SUMMARY:Venezuela U20 – Paraguay U20 0:2
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522843.ht
  ml
@@ -112,7 +112,7 @@ DTSTAMP:20260223T010000Z
 DTSTART:20260223T010000Z
 DTEND:20260223T030000Z
 SUMMARY:Paraguay U20 – Colombia U20 1:1
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522845.ht
  ml
@@ -123,7 +123,7 @@ DTSTAMP:20260226T010000Z
 DTSTART:20260226T010000Z
 DTEND:20260226T030000Z
 SUMMARY:Argentina U20 – Paraguay U20 4:0
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522847.ht
  ml
@@ -134,7 +134,7 @@ DTSTAMP:20260228T210000Z
 DTSTART:20260228T210000Z
 DTEND:20260228T230000Z
 SUMMARY:Ecuador U20 – Paraguay U20 5:1
-DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+DESCRIPTION:CONMEBOL U20 · Gruppenphase
 LOCATION:Estadio Carfem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1522852.ht
  ml

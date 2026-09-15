@@ -13,8 +13,7 @@ DTSTAMP:20230923T000000Z
 DTSTART:20230923T000000Z
 DTEND:20230923T020000Z
 SUMMARY:Bermuda – Dominican Republic 2:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League B · 1. Spieltag
 LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
  Parish
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140579.ht
@@ -26,8 +25,7 @@ DTSTAMP:20230926T000000Z
 DTSTART:20230926T000000Z
 DTEND:20230926T020000Z
 SUMMARY:Barbados – Bermuda 0:4
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League B · 2. Spieltag
 LOCATION:Arnos Vale Ground\, Kingstown
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140585.ht
  ml
@@ -38,8 +36,7 @@ DTSTAMP:20231027T230000Z
 DTSTART:20231027T230000Z
 DTEND:20231028T010000Z
 SUMMARY:Barbados – Bermuda 1:1
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League B · 3. Spieltag
 LOCATION:Wildey Turf\, Bridgetown
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140592.ht
  ml
@@ -50,8 +47,7 @@ DTSTAMP:20231031T223000Z
 DTSTART:20231031T223000Z
 DTEND:20231101T003000Z
 SUMMARY:Bermuda – Barbados 4:2
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League B · 4. Spieltag
 LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
  Parish
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140597.ht
@@ -63,8 +59,7 @@ DTSTAMP:20231201T233000Z
 DTSTART:20231201T233000Z
 DTEND:20231202T013000Z
 SUMMARY:Bermuda – Barbados
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League B · 5. Spieltag
 LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
  Parish
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140603.ht
@@ -77,8 +72,7 @@ DTSTAMP:20231205T220000Z
 DTSTART:20231205T220000Z
 DTEND:20231206T000000Z
 SUMMARY:Dominican Republic – Bermuda 2:0
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League B · 6. Spieltag
 LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140609.ht
  ml
@@ -89,7 +83,7 @@ DTSTAMP:20251128T000000Z
 DTSTART:20251128T000000Z
 DTEND:20251128T020000Z
 SUMMARY:Cayman Islands – Bermuda 0:4
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Truman Bodden Stadium\, George Town
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488272.ht
  ml
@@ -100,7 +94,7 @@ DTSTAMP:20251202T010000Z
 DTSTART:20251202T010000Z
 DTEND:20251202T030000Z
 SUMMARY:Guatemala – Bermuda 4:1
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Estadio Cementos Progreso\, Guatemala City
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488283.ht
  ml
@@ -111,7 +105,7 @@ DTSTAMP:20260303T230000Z
 DTSTART:20260303T230000Z
 DTEND:20260304T010000Z
 SUMMARY:Bermuda – Costa Rica 0:8
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Bermuda National Stadium\, Hamilton
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488295.ht
  ml
@@ -122,7 +116,7 @@ DTSTAMP:20260418T220000Z
 DTSTART:20260418T220000Z
 DTEND:20260419T000000Z
 SUMMARY:Bermuda – Grenada 5:3
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488320.ht
  ml
 END:VEVENT
@@ -132,7 +126,8 @@ DTSTAMP:20260604T220000Z
 DTSTART:20260604T220000Z
 DTEND:20260605T000000Z
 SUMMARY:Bermuda – Belize 4:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546555.ht
  ml
 END:VEVENT
@@ -142,7 +137,8 @@ DTSTAMP:20260607T220000Z
 DTSTART:20260607T220000Z
 DTEND:20260608T000000Z
 SUMMARY:Bermuda – Belize 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546558.ht
  ml
 END:VEVENT

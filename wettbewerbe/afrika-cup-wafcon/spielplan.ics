@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Afrika-Cup (WAFCON) 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1600198@anstoss
+DTSTAMP:20260726T170000Z
+DTSTART:20260726T170000Z
+DTEND:20260726T190000Z
+SUMMARY:Algeria – Senegal 2:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+LOCATION:Stade Olympique de Rabat\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600198.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600199@anstoss
+DTSTAMP:20260726T200000Z
+DTSTART:20260726T200000Z
+DTEND:20260726T220000Z
+SUMMARY:Morocco – Kenya 4:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600200@anstoss
+DTSTAMP:20260727T170000Z
+DTSTART:20260727T170000Z
+DTEND:20260727T190000Z
+SUMMARY:South Africa – Tanzania 1:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600200.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600201@anstoss
+DTSTAMP:20260727T200000Z
+DTSTART:20260727T200000Z
+DTEND:20260727T220000Z
+SUMMARY:Ivory Coast – Burkina Faso 4:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600201.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600202@anstoss
+DTSTAMP:20260728T170000Z
+DTSTART:20260728T170000Z
+DTEND:20260728T190000Z
+SUMMARY:Zambia – Egypt 6:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600203@anstoss
+DTSTAMP:20260728T200000Z
+DTSTART:20260728T200000Z
+DTEND:20260728T220000Z
+SUMMARY:Nigeria – Malawi 2:3
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600204@anstoss
+DTSTAMP:20260729T170000Z
+DTSTART:20260729T170000Z
+DTEND:20260729T190000Z
+SUMMARY:Ghana – Cape Verde 2:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600205@anstoss
+DTSTAMP:20260729T200000Z
+DTSTART:20260729T200000Z
+DTEND:20260729T220000Z
+SUMMARY:Cameroon – Mali 2:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600206@anstoss
+DTSTAMP:20260730T170000Z
+DTSTART:20260730T170000Z
+DTEND:20260730T190000Z
+SUMMARY:Senegal – Kenya 1:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+LOCATION:Stade Prince Moulay Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600207@anstoss
+DTSTAMP:20260730T200000Z
+DTSTART:20260730T200000Z
+DTEND:20260730T220000Z
+SUMMARY:Morocco – Algeria 1:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600208@anstoss
+DTSTAMP:20260731T170000Z
+DTSTART:20260731T170000Z
+DTEND:20260731T190000Z
+SUMMARY:South Africa – Ivory Coast 2:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600208.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600209@anstoss
+DTSTAMP:20260731T200000Z
+DTSTART:20260731T200000Z
+DTEND:20260731T220000Z
+SUMMARY:Burkina Faso – Tanzania 2:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600210@anstoss
+DTSTAMP:20260801T170000Z
+DTSTART:20260801T170000Z
+DTEND:20260801T190000Z
+SUMMARY:Egypt – Malawi 1:3
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600210.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600211@anstoss
+DTSTAMP:20260801T200000Z
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+SUMMARY:Nigeria – Zambia 1:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600211.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600212@anstoss
+DTSTAMP:20260802T170000Z
+DTSTART:20260802T170000Z
+DTEND:20260802T190000Z
+SUMMARY:Ghana – Cameroon 0:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600212.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600213@anstoss
+DTSTAMP:20260802T200000Z
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+SUMMARY:Mali – Cape Verde 3:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600213.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600214@anstoss
+DTSTAMP:20260803T200000Z
+DTSTART:20260803T200000Z
+DTEND:20260803T220000Z
+SUMMARY:Kenya – Algeria 0:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600214.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600215@anstoss
+DTSTAMP:20260803T200000Z
+DTSTART:20260803T200000Z
+DTEND:20260803T220000Z
+SUMMARY:Senegal – Morocco 0:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+LOCATION:Stade Prince Moulay Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600215.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600216@anstoss
+DTSTAMP:20260804T200000Z
+DTSTART:20260804T200000Z
+DTEND:20260804T220000Z
+SUMMARY:Burkina Faso – South Africa 0:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600216.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600217@anstoss
+DTSTAMP:20260804T200000Z
+DTSTART:20260804T200000Z
+DTEND:20260804T220000Z
+SUMMARY:Tanzania – Ivory Coast 1:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+LOCATION:Stade Prince Moulay Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600217.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600218@anstoss
+DTSTAMP:20260805T200000Z
+DTSTART:20260805T200000Z
+DTEND:20260805T220000Z
+SUMMARY:Egypt – Nigeria 2:6
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600218.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600219@anstoss
+DTSTAMP:20260805T200000Z
+DTSTART:20260805T200000Z
+DTEND:20260805T220000Z
+SUMMARY:Malawi – Zambia 1:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600219.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600221@anstoss
+DTSTAMP:20260806T200000Z
+DTSTART:20260806T200000Z
+DTEND:20260806T220000Z
+SUMMARY:Mali – Ghana 1:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600220@anstoss
+DTSTAMP:20260806T200000Z
+DTSTART:20260806T200000Z
+DTEND:20260806T220000Z
+SUMMARY:Cape Verde – Cameroon 1:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Gruppenphase · 3. Spieltag
+LOCATION:Larbi Zaouli Stadium\, Bouake
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600220.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611360@anstoss
+DTSTAMP:20260808T170000Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:Ivory Coast – Algeria 1:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Viertelfinale
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611361@anstoss
+DTSTAMP:20260808T200000Z
+DTSTART:20260808T200000Z
+DTEND:20260808T220000Z
+SUMMARY:Morocco – South Africa 2:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Viertelfinale
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611928@anstoss
+DTSTAMP:20260809T170000Z
+DTSTART:20260809T170000Z
+DTEND:20260809T190000Z
+SUMMARY:Cameroon – Nigeria 1:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Viertelfinale
+LOCATION:Stade Ahmadou Ahidjo\, Yaounde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612528@anstoss
+DTSTAMP:20260809T200000Z
+DTSTART:20260809T200000Z
+DTEND:20260809T220000Z
+SUMMARY:Malawi – Ghana 2:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Viertelfinale
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612528.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619530@anstoss
+DTSTAMP:20260812T170000Z
+DTSTART:20260812T170000Z
+DTEND:20260812T190000Z
+SUMMARY:Algeria – Malawi 1:3
+DESCRIPTION:Afrika-Cup (WAFCON) · Halbfinale
+LOCATION:Stade Mustapha Tchaker\, Bulida
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619531@anstoss
+DTSTAMP:20260812T200000Z
+DTSTART:20260812T200000Z
+DTEND:20260812T220000Z
+SUMMARY:Morocco – Cameroon 0:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Halbfinale
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619531.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619532@anstoss
+DTSTAMP:20260813T170000Z
+DTSTART:20260813T170000Z
+DTEND:20260813T190000Z
+SUMMARY:Ivory Coast – Ghana 1:2
+DESCRIPTION:Afrika-Cup (WAFCON) · Finale
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619533@anstoss
+DTSTAMP:20260813T200000Z
+DTSTART:20260813T200000Z
+DTEND:20260813T220000Z
+SUMMARY:South Africa – Nigeria 2:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Finale
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623381@anstoss
+DTSTAMP:20260815T170000Z
+DTSTART:20260815T170000Z
+DTEND:20260815T190000Z
+SUMMARY:Morocco – Algeria 1:1
+DESCRIPTION:Afrika-Cup (WAFCON) · Spiel um Platz 3
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623382@anstoss
+DTSTAMP:20260816T190000Z
+DTSTART:20260816T190000Z
+DTEND:20260816T210000Z
+SUMMARY:Cameroon – Malawi 3:0
+DESCRIPTION:Afrika-Cup (WAFCON) · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623382.ht
+ ml
+END:VEVENT
+END:VCALENDAR

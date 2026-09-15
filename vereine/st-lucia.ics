@@ -13,8 +13,7 @@ DTSTAMP:20230923T000000Z
 DTSTART:20230923T000000Z
 DTEND:20230923T020000Z
 SUMMARY:St. Lucia – Cuba 1:2
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 1. Spieltag
 LOCATION:Darren Sammy Cricket Ground\, Gros Islet
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140544.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230926T000000Z
 DTSTART:20230926T000000Z
 DTEND:20230926T020000Z
 SUMMARY:Guadeloupe – St. Lucia 1:5
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 2. Spieltag
 LOCATION:Stade Valette\, Saint-Anne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140550.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20231027T000000Z
 DTSTART:20231027T000000Z
 DTEND:20231027T020000Z
 SUMMARY:Sint Maarten – St. Lucia
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140554.ht
  ml
 STATUS:CANCELLED
@@ -49,8 +46,7 @@ DTSTAMP:20231031T000000Z
 DTSTART:20231031T000000Z
 DTEND:20231031T020000Z
 SUMMARY:St. Lucia – Sint Maarten
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 4. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140559.ht
  ml
 STATUS:CANCELLED
@@ -61,8 +57,7 @@ DTSTAMP:20231201T200000Z
 DTSTART:20231201T200000Z
 DTEND:20231201T220000Z
 SUMMARY:St. Lucia – Guadeloupe 5:1
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 5. Spieltag
 LOCATION:Darren Sammy Cricket Ground\, Gros Islet
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140568.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20231205T200000Z
 DTSTART:20231205T200000Z
 DTEND:20231205T220000Z
 SUMMARY:Cuba – St. Lucia 4:1
-DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
- pieltag
+DESCRIPTION:CONCACAF W Gold Cup Qualifikation · League C · 6. Spieltag
 LOCATION:Estadio Antonio Maceo\, Santiago de Cuba
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1140574.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20251127T200000Z
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
 SUMMARY:US Virgin Islands – St. Lucia 3:1
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Bethlehem Soccer Stadium\, Upper Bethlehem
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488271.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20251201T233000Z
 DTSTART:20251201T233000Z
 DTEND:20251202T013000Z
 SUMMARY:Puerto Rico – St. Lucia 7:0
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488281.ht
  ml
 END:VEVENT
@@ -106,7 +100,7 @@ DTSTAMP:20260302T190000Z
 DTSTART:20260302T190000Z
 DTEND:20260302T210000Z
 SUMMARY:St. Lucia – Mexiko 0:7
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Daren Sammy Cricket Ground\, Gros Islet
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488294.ht
  ml
@@ -117,7 +111,7 @@ DTSTAMP:20260418T190000Z
 DTSTART:20260418T190000Z
 DTEND:20260418T210000Z
 SUMMARY:St. Lucia – Barbados 0:1
-DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+DESCRIPTION:WM-Qualifikation CONCACAF · Gruppenphase
 LOCATION:Daren Sammy Cricket Ground\, Gros Islet
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488325.ht
  ml

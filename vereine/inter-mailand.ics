@@ -13,7 +13,7 @@ DTSTAMP:20251221T133000Z
 DTSTART:20251221T133000Z
 DTEND:20251221T153000Z
 SUMMARY:Como 1907 – Inter Mailand 1:2
-DESCRIPTION:Coppa Italia Women · Achtelfinale
+DESCRIPTION:Coppa Italia · Achtelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1480949.ht
  ml
 END:VEVENT
@@ -23,7 +23,7 @@ DTSTAMP:20260121T170000Z
 DTSTART:20260121T170000Z
 DTEND:20260121T190000Z
 SUMMARY:Ternana – Inter Mailand 0:2
-DESCRIPTION:Coppa Italia Women · Viertelfinale
+DESCRIPTION:Coppa Italia · Viertelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514286.ht
  ml
 END:VEVENT
@@ -33,7 +33,7 @@ DTSTAMP:20260128T170000Z
 DTSTART:20260128T170000Z
 DTEND:20260128T190000Z
 SUMMARY:Inter Mailand – Ternana 4:0
-DESCRIPTION:Coppa Italia Women · Viertelfinale
+DESCRIPTION:Coppa Italia · Viertelfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514290.ht
  ml
 END:VEVENT
@@ -43,7 +43,7 @@ DTSTAMP:20260312T170000Z
 DTSTART:20260312T170000Z
 DTEND:20260312T190000Z
 SUMMARY:Roma – Inter Mailand 1:1
-DESCRIPTION:Coppa Italia Women · Halbfinale
+DESCRIPTION:Coppa Italia · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1538185.ht
  ml
 END:VEVENT
@@ -53,7 +53,7 @@ DTSTAMP:20260329T130000Z
 DTSTART:20260329T130000Z
 DTEND:20260329T150000Z
 SUMMARY:Inter Mailand – Roma 1:2
-DESCRIPTION:Coppa Italia Women · Halbfinale
+DESCRIPTION:Coppa Italia · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1538186.ht
  ml
 END:VEVENT
@@ -63,7 +63,7 @@ DTSTAMP:20260821T183000Z
 DTSTART:20260821T183000Z
 DTEND:20260821T203000Z
 SUMMARY:Parma – Inter Mailand 0:1
-DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Serie A Cup · Gruppenphase · 1. Spieltag
 LOCATION:Stadio Ennio Tardini\, Parma
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582315.ht
  ml
@@ -85,7 +85,7 @@ DTSTAMP:20260830T160000Z
 DTSTART:20260830T160000Z
 DTEND:20260830T180000Z
 SUMMARY:Inter Mailand – Napoli 6:0
-DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Serie A Cup · Gruppenphase · 2. Spieltag
 LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582320.ht
  ml
@@ -107,7 +107,7 @@ DTSTAMP:20260906T130000Z
 DTSTART:20260906T130000Z
 DTEND:20260906T150000Z
 SUMMARY:Inter Mailand – Lazio 3:1
-DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Serie A Cup · Gruppenphase · 3. Spieltag
 LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582325.ht
  ml
@@ -118,7 +118,7 @@ DTSTAMP:20260912T183000Z
 DTSTART:20260912T183000Z
 DTEND:20260912T203000Z
 SUMMARY:Juventus – Inter Mailand 1:0
-DESCRIPTION:Serie A Cup Women · Halbfinale
+DESCRIPTION:Serie A Cup · Halbfinale
 LOCATION:Stadio Vittorio Pozzo\, Biella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638664.ht
  ml

@@ -13,7 +13,7 @@ DTSTAMP:20240107T000000Z
 DTSTART:20240107T000000Z
 DTEND:20240107T020000Z
 SUMMARY:Inverness CT – Rangers 0:12
-DESCRIPTION:SWF Scottish Cup · 3rd Round
+DESCRIPTION:Scottish Cup · 3rd Round
 LOCATION:Tulloch Caledonian Stadium\, Inverness
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188759.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20240204T000000Z
 DTSTART:20240204T000000Z
 DTEND:20240204T020000Z
 SUMMARY:Rangers – Dundee United 9:0
-DESCRIPTION:SWF Scottish Cup · 4th Round
+DESCRIPTION:Scottish Cup · 4th Round
 LOCATION:Broadwood Stadium\, Cumbernauld
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188755.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20240310T000000Z
 DTSTART:20240310T000000Z
 DTEND:20240310T020000Z
 SUMMARY:Hibernian – Rangers 2:6
-DESCRIPTION:SWF Scottish Cup · Viertelfinale
+DESCRIPTION:Scottish Cup · Viertelfinale
 LOCATION:Meadowbank Stadium\, Edinburgh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188743.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20240427T111500Z
 DTSTART:20240427T111500Z
 DTEND:20240427T131500Z
 SUMMARY:Rangers – Celtic 2:0
-DESCRIPTION:SWF Scottish Cup · Halbfinale
+DESCRIPTION:Scottish Cup · Halbfinale
 LOCATION:Hampden Park\, Glasgow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1188747.ht
  ml
@@ -121,7 +121,7 @@ DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
 SUMMARY:Hammarby – Rangers
-DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638402.ht
  ml
 END:VEVENT
@@ -131,7 +131,7 @@ DTSTAMP:20260930T160000Z
 DTSTART:20260930T160000Z
 DTEND:20260930T180000Z
 SUMMARY:Rangers – Hammarby
-DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638421.ht
  ml
 END:VEVENT

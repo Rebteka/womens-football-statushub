@@ -13,7 +13,7 @@ DTSTAMP:20230720T100000Z
 DTSTART:20230720T100000Z
 DTEND:20230720T120000Z
 SUMMARY:Australien – Republic of Ireland 1:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013553.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230726T120000Z
 DTSTART:20230726T120000Z
 DTEND:20230726T140000Z
 SUMMARY:Kanada – Republic of Ireland 2:1
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:HBF Park\, Perth
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013572.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230731T100000Z
 DTSTART:20230731T100000Z
 DTEND:20230731T120000Z
 SUMMARY:Republic of Ireland – Nigeria 0:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:Suncorp Stadium\, Brisbane
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013589.ht
  ml
@@ -46,8 +46,7 @@ DTSTAMP:20240405T191000Z
 DTSTART:20240405T191000Z
 DTEND:20240405T211000Z
 SUMMARY:Frankreich – Republic of Ireland 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Stade Saint-Symphorien\, Longeville-lès-Metz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193110.ht
  ml
@@ -58,8 +57,7 @@ DTSTAMP:20240409T183000Z
 DTSTART:20240409T183000Z
 DTEND:20240409T203000Z
 SUMMARY:Republic of Ireland – England 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Aviva Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193117.ht
  ml
@@ -70,8 +68,7 @@ DTSTAMP:20240531T183000Z
 DTSTART:20240531T183000Z
 DTEND:20240531T203000Z
 SUMMARY:Republic of Ireland – Schweden 0:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:Aviva Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193124.ht
  ml
@@ -82,8 +79,7 @@ DTSTAMP:20240604T163000Z
 DTSTART:20240604T163000Z
 DTEND:20240604T183000Z
 SUMMARY:Schweden – Republic of Ireland 1:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Friends Arena\, Solna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193131.ht
  ml
@@ -94,8 +90,7 @@ DTSTAMP:20240712T190000Z
 DTSTART:20240712T190000Z
 DTEND:20240712T210000Z
 SUMMARY:England – Republic of Ireland 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:Carrow Road\, Norwich\, Norfolk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193142.ht
  ml
@@ -106,8 +101,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Republic of Ireland – Frankreich 3:1
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:SuperValu Páirc Uí Chaoimh\, Cork
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193148.ht
  ml
@@ -118,8 +112,7 @@ DTSTAMP:20241025T160000Z
 DTSTART:20241025T160000Z
 DTEND:20241025T180000Z
 SUMMARY:Georgia – Republic of Ireland 0:6
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Mikheil Meskhi 2\, Tbilisi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252891.ht
  ml
@@ -130,8 +123,7 @@ DTSTAMP:20241029T193000Z
 DTSTART:20241029T193000Z
 DTEND:20241029T213000Z
 SUMMARY:Republic of Ireland – Georgia 3:0
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Tallaght Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252892.ht
  ml
@@ -142,8 +134,7 @@ DTSTAMP:20241129T191500Z
 DTSTART:20241129T191500Z
 DTEND:20241129T211500Z
 SUMMARY:Wales – Republic of Ireland 1:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Cardiff City Stadium\, Caerdydd
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314231.ht
  ml
@@ -154,8 +145,7 @@ DTSTAMP:20241203T193000Z
 DTSTART:20241203T193000Z
 DTEND:20241203T213000Z
 SUMMARY:Republic of Ireland – Wales 1:2
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 2nd Round
 LOCATION:Aviva Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1314232.ht
  ml
@@ -166,7 +156,7 @@ DTSTAMP:20250221T193000Z
 DTSTART:20250221T193000Z
 DTEND:20250221T213000Z
 SUMMARY:Republic of Ireland – Turkey 1:0
-DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 1. Spieltag
 LOCATION:Tallaght Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315808.ht
  ml
@@ -177,7 +167,7 @@ DTSTAMP:20250225T170000Z
 DTSTART:20250225T170000Z
 DTEND:20250225T190000Z
 SUMMARY:Slovenia – Republic of Ireland 4:0
-DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 2. Spieltag
 LOCATION:Bonifika\, Koper
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315815.ht
  ml
@@ -188,7 +178,7 @@ DTSTAMP:20250404T140000Z
 DTSTART:20250404T140000Z
 DTEND:20250404T160000Z
 SUMMARY:Greece – Republic of Ireland 0:4
-DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 3. Spieltag
 LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315823.ht
  ml
@@ -199,7 +189,7 @@ DTSTAMP:20250408T183000Z
 DTSTART:20250408T183000Z
 DTEND:20250408T203000Z
 SUMMARY:Republic of Ireland – Greece 2:1
-DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 4. Spieltag
 LOCATION:Tallaght Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315831.ht
  ml
@@ -210,7 +200,7 @@ DTSTAMP:20250530T170000Z
 DTSTART:20250530T170000Z
 DTEND:20250530T190000Z
 SUMMARY:Turkey – Republic of Ireland 1:2
-DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 5. Spieltag
 LOCATION:Esenler Stadium\, Istanbul
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315840.ht
  ml
@@ -221,7 +211,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Republic of Ireland – Slovenia 1:0
-DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 6. Spieltag
 LOCATION:Pairc Ui Chaoimh\, Cork
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315848.ht
  ml
@@ -232,7 +222,7 @@ DTSTAMP:20251024T180000Z
 DTSTART:20251024T180000Z
 DTEND:20251024T200000Z
 SUMMARY:Republic of Ireland – Belgien 4:2
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Aviva Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478112.ht
  ml
@@ -243,7 +233,7 @@ DTSTAMP:20251028T193000Z
 DTSTART:20251028T193000Z
 DTEND:20251028T213000Z
 SUMMARY:Belgien – Republic of Ireland 2:1
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Den Dreef\, Heverlee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478120.ht
  ml
@@ -254,8 +244,7 @@ DTSTAMP:20260303T193000Z
 DTSTART:20260303T193000Z
 DTEND:20260303T213000Z
 SUMMARY:Republic of Ireland – Frankreich 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Tallaght Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523819.ht
  ml
@@ -266,8 +255,7 @@ DTSTAMP:20260307T194500Z
 DTSTART:20260307T194500Z
 DTEND:20260307T214500Z
 SUMMARY:Niederlande – Republic of Ireland 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Stadion Galgenwaard\, Utrecht
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523845.ht
  ml
@@ -278,8 +266,7 @@ DTSTAMP:20260414T160000Z
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 SUMMARY:Polen – Republic of Ireland 2:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Polsat Plus Arena\, Gdansk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523870.ht
  ml
@@ -290,8 +277,7 @@ DTSTAMP:20260418T140000Z
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
 SUMMARY:Republic of Ireland – Polen 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Aviva Stadium\, Dublin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523895.ht
  ml
@@ -302,8 +288,7 @@ DTSTAMP:20260605T183000Z
 DTSTART:20260605T183000Z
 DTEND:20260605T203000Z
 SUMMARY:Republic of Ireland – Niederlande 3:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Pairc Ui Chaoimh\, Cork
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523920.ht
  ml
@@ -314,8 +299,7 @@ DTSTAMP:20260609T190000Z
 DTSTART:20260609T190000Z
 DTEND:20260609T210000Z
 SUMMARY:Frankreich – Republic of Ireland 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Stade des Alpes\, Grenoble
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523944.ht
  ml
@@ -326,7 +310,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Kazakhstan – Republic of Ireland
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557251.ht
  ml
 END:VEVENT
@@ -336,7 +320,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Republic of Ireland – Kazakhstan
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557261.ht
  ml
 END:VEVENT

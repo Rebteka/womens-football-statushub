@@ -13,7 +13,7 @@ DTSTAMP:20230722T120000Z
 DTSTART:20230722T120000Z
 DTEND:20230722T140000Z
 SUMMARY:Dänemark – China 1:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 1. Spieltag
 LOCATION:HBF Park\, Perth
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013560.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20230728T083000Z
 DTSTART:20230728T083000Z
 DTEND:20230728T103000Z
 SUMMARY:England – Dänemark 1:0
-DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 2. Spieltag
 LOCATION:Allianz Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013577.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20230801T110000Z
 DTSTART:20230801T110000Z
 DTEND:20230801T130000Z
 SUMMARY:Haiti – Dänemark 0:2
-DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-WM · Gruppenphase · 3. Spieltag
 LOCATION:HBF Park\, Perth
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1013593.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20230807T103000Z
 DTSTART:20230807T103000Z
 DTEND:20230807T123000Z
 SUMMARY:Australien – Dänemark 2:0
-DESCRIPTION:World Cup - Women · Achtelfinale
+DESCRIPTION:Frauen-WM · Achtelfinale
 LOCATION:Stadium Australia\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1102839.ht
  ml
@@ -57,8 +57,7 @@ DTSTAMP:20240405T160000Z
 DTSTART:20240405T160000Z
 DTEND:20240405T180000Z
 SUMMARY:Tschechien – Dänemark 1:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 1. Spieltag
 LOCATION:Městský fotbalový stadion Miroslava Valenty\, Uherské Hradi
  ště
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193104.ht
@@ -70,8 +69,7 @@ DTSTAMP:20240409T160000Z
 DTSTART:20240409T160000Z
 DTEND:20240409T180000Z
 SUMMARY:Dänemark – Belgien 4:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 2. Spieltag
 LOCATION:Energi Viborg Arena\, Viborg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193111.ht
  ml
@@ -82,8 +80,7 @@ DTSTAMP:20240531T170000Z
 DTSTART:20240531T170000Z
 DTEND:20240531T190000Z
 SUMMARY:Dänemark – Spanien 0:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 3. Spieltag
 LOCATION:Vejle Stadion\, Vejle
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193123.ht
  ml
@@ -94,8 +91,7 @@ DTSTAMP:20240604T193000Z
 DTSTART:20240604T193000Z
 DTEND:20240604T213000Z
 SUMMARY:Spanien – Dänemark 3:2
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 4. Spieltag
 LOCATION:Estadio Heliodoro Rodríguez Lopéz\, Tenerife
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193129.ht
  ml
@@ -106,8 +102,7 @@ DTSTAMP:20240712T180000Z
 DTSTART:20240712T180000Z
 DTEND:20240712T200000Z
 SUMMARY:Belgien – Dänemark 0:3
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 5. Spieltag
 LOCATION:Daio Wasabi Stayen Stadium\, St.-Trond
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193137.ht
  ml
@@ -118,8 +113,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Dänemark – Tschechien 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League A · 6. Spieltag
 LOCATION:Vejle Stadion\, Vejle
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193146.ht
  ml
@@ -130,7 +124,7 @@ DTSTAMP:20250221T181500Z
 DTSTART:20250221T181500Z
 DTEND:20250221T201500Z
 SUMMARY:Dänemark – Schweden 1:2
-DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 1. Spieltag
 LOCATION:Odense Isstadion\, Odense
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315763.ht
  ml
@@ -141,7 +135,7 @@ DTSTAMP:20250225T171500Z
 DTSTART:20250225T171500Z
 DTEND:20250225T191500Z
 SUMMARY:Italien – Dänemark 1:3
-DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 2. Spieltag
 LOCATION:Stadio Alberto Picco\, La Spezia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315769.ht
  ml
@@ -152,7 +146,7 @@ DTSTAMP:20250404T181500Z
 DTSTART:20250404T181500Z
 DTEND:20250404T201500Z
 SUMMARY:Wales – Dänemark 1:2
-DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 3. Spieltag
 LOCATION:Cardiff City Stadium\, Cardiff
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315780.ht
  ml
@@ -163,7 +157,7 @@ DTSTAMP:20250408T160000Z
 DTSTART:20250408T160000Z
 DTEND:20250408T180000Z
 SUMMARY:Dänemark – Italien 0:3
-DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 4. Spieltag
 LOCATION:MCH Arena\, Herning
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315787.ht
  ml
@@ -174,7 +168,7 @@ DTSTAMP:20250530T171500Z
 DTSTART:20250530T171500Z
 DTEND:20250530T191500Z
 SUMMARY:Dänemark – Wales 1:0
-DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 5. Spieltag
 LOCATION:Odense Isstadion\, Odense
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315795.ht
  ml
@@ -185,7 +179,7 @@ DTSTAMP:20250603T173000Z
 DTSTART:20250603T173000Z
 DTEND:20250603T193000Z
 SUMMARY:Schweden – Dänemark 6:1
-DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League A · 6. Spieltag
 LOCATION:Strawberry Arena\, Solna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315803.ht
  ml
@@ -196,7 +190,7 @@ DTSTAMP:20250704T160000Z
 DTSTART:20250704T160000Z
 DTEND:20250704T180000Z
 SUMMARY:Dänemark – Schweden 0:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 1. Spieltag
 LOCATION:Stade de Genève\, Lancy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367628.ht
  ml
@@ -207,7 +201,7 @@ DTSTAMP:20250708T160000Z
 DTSTART:20250708T160000Z
 DTEND:20250708T180000Z
 SUMMARY:Deutschland – Dänemark 2:1
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 2. Spieltag
 LOCATION:St. Jakob-Park\, Basel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367636.ht
  ml
@@ -218,7 +212,7 @@ DTSTAMP:20250712T190000Z
 DTSTART:20250712T190000Z
 DTEND:20250712T210000Z
 SUMMARY:Polen – Dänemark 3:2
-DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Frauen-EM · Gruppenphase · 3. Spieltag
 LOCATION:swissporarena\, Luzern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367645.ht
  ml
@@ -229,7 +223,7 @@ DTSTAMP:20251024T160000Z
 DTSTART:20251024T160000Z
 DTEND:20251024T180000Z
 SUMMARY:Finnland – Dänemark 1:6
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Tammelan Stadion\, Tampere
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478111.ht
  ml
@@ -240,7 +234,7 @@ DTSTAMP:20251028T170000Z
 DTSTART:20251028T170000Z
 DTEND:20251028T190000Z
 SUMMARY:Dänemark – Finnland 2:0
-DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+DESCRIPTION:UEFA Nations League · Playoffs A/B
 LOCATION:Parken Stadium\, Copenhagen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1478119.ht
  ml
@@ -251,8 +245,7 @@ DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z
 DTEND:20260303T190000Z
 SUMMARY:Dänemark – Serbia 3:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Nordstern Arena Horsens\, Horsens
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523818.ht
  ml
@@ -263,8 +256,7 @@ DTSTAMP:20260307T171500Z
 DTSTART:20260307T171500Z
 DTEND:20260307T191500Z
 SUMMARY:Italien – Dänemark 1:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Stadio Romeo Menti\, Vicenza
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523842.ht
  ml
@@ -275,8 +267,7 @@ DTSTAMP:20260414T170000Z
 DTSTART:20260414T170000Z
 DTEND:20260414T190000Z
 SUMMARY:Schweden – Dänemark 1:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Gamla Ullevi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523868.ht
  ml
@@ -287,8 +278,7 @@ DTSTAMP:20260418T130000Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Dänemark – Italien 0:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Parken Stadium\, Copenhagen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523892.ht
  ml
@@ -299,8 +289,7 @@ DTSTAMP:20260605T171500Z
 DTSTART:20260605T171500Z
 DTEND:20260605T191500Z
 SUMMARY:Dänemark – Schweden 2:1
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Nature Energy Park\, Odense
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523918.ht
  ml
@@ -311,8 +300,7 @@ DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
 SUMMARY:Serbia – Dänemark 1:4
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Sports Center of FA of Serbia\, Stara Pazova
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523943.ht
  ml
@@ -323,7 +311,8 @@ DTSTAMP:20261009T230000Z
 DTSTART:20261009T230000Z
 DTEND:20261010T010000Z
 SUMMARY:Kanada – Dänemark
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628974.ht
  ml
 END:VEVENT
@@ -333,7 +322,8 @@ DTSTAMP:20261012T193000Z
 DTSTART:20261012T193000Z
 DTEND:20261012T213000Z
 SUMMARY:Kanada – Dänemark
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628977.ht
  ml
 END:VEVENT

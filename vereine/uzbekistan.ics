@@ -13,8 +13,7 @@ DTSTAMP:20230405T120000Z
 DTSTART:20230405T120000Z
 DTEND:20230405T140000Z
 SUMMARY:Uzbekistan – Bhutan 9:0
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 1. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007652.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20230408T120000Z
 DTSTART:20230408T120000Z
 DTEND:20230408T140000Z
 SUMMARY:Timor-Leste – Uzbekistan 0:3
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 2. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007665.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20230411T120000Z
 DTSTART:20230411T120000Z
 DTEND:20230411T140000Z
 SUMMARY:Uzbekistan – Jordan 7:0
-DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 1st Round · 3. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1007676.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20231026T120000Z
 DTSTART:20231026T120000Z
 DTEND:20231026T140000Z
 SUMMARY:Vietnam – Uzbekistan 0:1
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 1. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1027920.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20231029T120000Z
 DTSTART:20231029T120000Z
 DTEND:20231029T140000Z
 SUMMARY:Uzbekistan – Japan 0:2
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 2. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1034485.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20231101T120000Z
 DTSTART:20231101T120000Z
 DTEND:20231101T140000Z
 SUMMARY:Uzbekistan – India 3:0
-DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
- ag
+DESCRIPTION:Olympia-Qualifikation Asien · 2nd Round · 3. Spieltag
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1034491.ht
  ml
@@ -85,7 +79,7 @@ DTSTAMP:20240224T090000Z
 DTSTART:20240224T090000Z
 DTEND:20240224T110000Z
 SUMMARY:Uzbekistan – Australien 0:3
-DESCRIPTION:Olympics Women - Qualification Asia · Finale
+DESCRIPTION:Olympia-Qualifikation Asien · Finale
 LOCATION:Milliy Stadion\, Tashkent
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1178542.ht
  ml
@@ -96,7 +90,7 @@ DTSTAMP:20240228T090000Z
 DTSTART:20240228T090000Z
 DTEND:20240228T110000Z
 SUMMARY:Australien – Uzbekistan 10:0
-DESCRIPTION:Olympics Women - Qualification Asia · Finale
+DESCRIPTION:Olympia-Qualifikation Asien · Finale
 LOCATION:Marvel Stadium\, Melbourne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1178543.ht
  ml
@@ -107,8 +101,7 @@ DTSTAMP:20250629T153000Z
 DTSTART:20250629T153000Z
 DTEND:20250629T173000Z
 SUMMARY:Uzbekistan – Sri Lanka 10:0
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 1. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372389.ht
  ml
@@ -119,8 +112,7 @@ DTSTAMP:20250702T153000Z
 DTSTART:20250702T153000Z
 DTEND:20250702T173000Z
 SUMMARY:Laos – Uzbekistan 0:7
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 2. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372406.ht
  ml
@@ -131,8 +123,7 @@ DTSTAMP:20250705T153000Z
 DTSTART:20250705T153000Z
 DTEND:20250705T173000Z
 SUMMARY:Uzbekistan – Nepal 3:3
-DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
- eltag
+DESCRIPTION:Asien-Cup-Qualifikation · Qualifying Round · 3. Spieltag
 LOCATION:Milliy Stadion\, Toshkent (Tashkent)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1372421.ht
  ml
@@ -143,7 +134,8 @@ DTSTAMP:20260127T090000Z
 DTSTART:20260127T090000Z
 DTEND:20260127T110000Z
 SUMMARY:Vietnam – Uzbekistan 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514935.ht
  ml
 END:VEVENT
@@ -153,7 +145,8 @@ DTSTAMP:20260130T083000Z
 DTSTART:20260130T083000Z
 DTEND:20260130T103000Z
 SUMMARY:Vietnam – Uzbekistan 2:6
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514936.ht
  ml
 END:VEVENT
@@ -163,7 +156,7 @@ DTSTAMP:20260303T020000Z
 DTSTART:20260303T020000Z
 DTEND:20260303T040000Z
 SUMMARY:Korea DPR – Uzbekistan 3:0
-DESCRIPTION:Asian Cup Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:Asien-Cup · Gruppenphase · 1. Spieltag
 LOCATION:CommBank Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516362.ht
  ml
@@ -174,7 +167,7 @@ DTSTAMP:20260306T080000Z
 DTSTART:20260306T080000Z
 DTEND:20260306T100000Z
 SUMMARY:Uzbekistan – China 0:3
-DESCRIPTION:Asian Cup Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:Asien-Cup · Gruppenphase · 2. Spieltag
 LOCATION:CommBank Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516369.ht
  ml
@@ -185,7 +178,7 @@ DTSTAMP:20260309T090000Z
 DTSTART:20260309T090000Z
 DTEND:20260309T110000Z
 SUMMARY:Bangladesh – Uzbekistan 0:4
-DESCRIPTION:Asian Cup Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:Asien-Cup · Gruppenphase · 3. Spieltag
 LOCATION:HBF Park\, Perth
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1516374.ht
  ml
@@ -196,7 +189,7 @@ DTSTAMP:20260314T090000Z
 DTSTART:20260314T090000Z
 DTEND:20260314T110000Z
 SUMMARY:Südkorea – Uzbekistan 6:0
-DESCRIPTION:Asian Cup Women · Viertelfinale
+DESCRIPTION:Asien-Cup · Viertelfinale
 LOCATION:Accor Stadium\, Sydney
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1531618.ht
  ml
@@ -207,7 +200,7 @@ DTSTAMP:20260319T030000Z
 DTSTART:20260319T030000Z
 DTEND:20260319T050000Z
 SUMMARY:Uzbekistan – Philippines 0:2
-DESCRIPTION:Asian Cup Women · Playoffs
+DESCRIPTION:Asien-Cup · Playoffs
 LOCATION:Cbus Super Stadium\, Gold Coast
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533905.ht
  ml
@@ -218,7 +211,8 @@ DTSTAMP:20260603T103000Z
 DTSTART:20260603T103000Z
 DTEND:20260603T123000Z
 SUMMARY:Myanmar – Uzbekistan 0:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546831.ht
  ml
 END:VEVENT
@@ -228,7 +222,8 @@ DTSTAMP:20260606T103000Z
 DTSTART:20260606T103000Z
 DTEND:20260606T123000Z
 SUMMARY:Thailand – Uzbekistan 1:0
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1546834.ht
  ml
 END:VEVENT
@@ -238,8 +233,8 @@ DTSTAMP:20261128T140000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Uzbekistan – Papua New Guinea
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Aufstiegsrunde · 1. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
+  1. Spieltag · Anstosszeit noch offen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638243.ht
  ml
 END:VEVENT
@@ -249,8 +244,8 @@ DTSTAMP:20261201T140000Z
 DTSTART:20261201T140000Z
 DTEND:20261201T160000Z
 SUMMARY:Uzbekistan – Ghana
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Aufstiegsrunde · 2. Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
+  2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638246.ht
  ml
 END:VEVENT
@@ -260,8 +255,8 @@ DTSTAMP:20261205T140000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:South Africa – Uzbekistan
-DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Aufstiegsrunde · 3. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
+  3. Spieltag · Anstosszeit noch offen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638249.ht
  ml
 END:VEVENT

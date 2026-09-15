@@ -13,7 +13,7 @@ DTSTAMP:20240831T200000Z
 DTSTART:20240831T200000Z
 DTEND:20240831T220000Z
 SUMMARY:Cameroon U20 – Mexico U20 2:2
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205388.ht
  ml
@@ -24,7 +24,7 @@ DTSTAMP:20240903T220000Z
 DTSTART:20240903T220000Z
 DTEND:20240904T000000Z
 SUMMARY:Mexico U20 – Australia U20 2:0
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 2. Spieltag
 LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205400.ht
  ml
@@ -35,7 +35,7 @@ DTSTAMP:20240906T220000Z
 DTSTART:20240906T220000Z
 DTEND:20240907T000000Z
 SUMMARY:Mexico U20 – Colombia U20 0:1
-DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+DESCRIPTION:U20-WM · Gruppenphase · 3. Spieltag
 LOCATION:Estadio Atanasio Girardot\, Medellín
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205414.ht
  ml
@@ -46,7 +46,7 @@ DTSTAMP:20240912T010000Z
 DTSTART:20240912T010000Z
 DTEND:20240912T030000Z
 SUMMARY:Mexico U20 – United States U20 2:3
-DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+DESCRIPTION:U20-WM · Achtelfinale
 LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1304031.ht
  ml
@@ -57,7 +57,7 @@ DTSTAMP:20250529T200000Z
 DTSTART:20250529T200000Z
 DTEND:20250529T220000Z
 SUMMARY:Mexico U20 – Nicaragua U20 6:0
-DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 1. Spieltag
+DESCRIPTION:CONCACAF U20 · Gruppenphase · 1. Spieltag
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367133.ht
  ml
@@ -68,7 +68,7 @@ DTSTAMP:20250531T200000Z
 DTSTART:20250531T200000Z
 DTEND:20250531T220000Z
 SUMMARY:Panama W U20 – Mexico U20 0:4
-DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 2. Spieltag
+DESCRIPTION:CONCACAF U20 · Gruppenphase · 2. Spieltag
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367137.ht
  ml
@@ -79,7 +79,7 @@ DTSTAMP:20250602T200000Z
 DTSTART:20250602T200000Z
 DTEND:20250602T220000Z
 SUMMARY:Mexico U20 – Canada U20 4:2
-DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 3. Spieltag
+DESCRIPTION:CONCACAF U20 · Gruppenphase · 3. Spieltag
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1367141.ht
  ml
@@ -90,7 +90,7 @@ DTSTAMP:20250608T173000Z
 DTSTART:20250608T173000Z
 DTEND:20250608T193000Z
 SUMMARY:Mexico U20 – Canada U20 2:3
-DESCRIPTION:CONCACAF Women U20 · Play Offs
+DESCRIPTION:CONCACAF U20 · Play Offs
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1377700.ht
  ml
 END:VEVENT
@@ -100,7 +100,8 @@ DTSTAMP:20260228T140000Z
 DTSTART:20260228T140000Z
 DTEND:20260228T160000Z
 SUMMARY:Mexico U20 – Netherlands U19 1:3
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526365.ht
  ml
 END:VEVENT
@@ -110,7 +111,8 @@ DTSTAMP:20260303T110000Z
 DTSTART:20260303T110000Z
 DTEND:20260303T130000Z
 SUMMARY:Spain U20 – Mexico U20 5:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526372.ht
  ml
 END:VEVENT
@@ -120,7 +122,8 @@ DTSTAMP:20260306T110000Z
 DTSTART:20260306T110000Z
 DTEND:20260306T130000Z
 SUMMARY:England U20 – Mexico U20 4:1
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526382.ht
  ml
 END:VEVENT
@@ -130,7 +133,8 @@ DTSTAMP:20260606T103000Z
 DTSTART:20260606T103000Z
 DTEND:20260606T123000Z
 SUMMARY:Czech Republic U19 – Mexico U20 0:2
-DESCRIPTION:Friendlies Women · Friendly International Women
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1550863.ht
  ml
 END:VEVENT

@@ -13,8 +13,7 @@ DTSTAMP:20240405T143000Z
 DTSTART:20240405T143000Z
 DTEND:20240405T163000Z
 SUMMARY:Slovenia – Moldova 2:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 1. Spieltag
 LOCATION:Športni Park Šiška\, Ljubljana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193202.ht
  ml
@@ -25,8 +24,7 @@ DTSTAMP:20240409T130000Z
 DTSTART:20240409T130000Z
 DTEND:20240409T150000Z
 SUMMARY:North Macedonia – Slovenia 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 2. Spieltag
 LOCATION:Trening centar Petar Miloševski\, Skopje
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193208.ht
  ml
@@ -37,8 +35,7 @@ DTSTAMP:20240531T160000Z
 DTSTART:20240531T160000Z
 DTEND:20240531T180000Z
 SUMMARY:Slovenia – Latvia 6:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 3. Spieltag
 LOCATION:Mestni Štadion Fazanerija\, Murska Sobota
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193219.ht
  ml
@@ -49,8 +46,7 @@ DTSTAMP:20240604T150000Z
 DTSTART:20240604T150000Z
 DTEND:20240604T170000Z
 SUMMARY:Latvia – Slovenia 0:4
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 4. Spieltag
 LOCATION:Slokas Stadionā\, Jūrmala
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193229.ht
  ml
@@ -61,8 +57,7 @@ DTSTAMP:20240712T170000Z
 DTSTART:20240712T170000Z
 DTEND:20240712T190000Z
 SUMMARY:Moldova – Slovenia 0:5
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 5. Spieltag
 LOCATION:Stadionul Zimbru\, Chişinău
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193238.ht
  ml
@@ -73,8 +68,7 @@ DTSTAMP:20240716T170000Z
 DTSTART:20240716T170000Z
 DTEND:20240716T190000Z
 SUMMARY:Slovenia – North Macedonia 4:0
-DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
- pieltag
+DESCRIPTION:EM-Qualifikation · League C · 6. Spieltag
 LOCATION:Športni Park Aluminij\, Kidričevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1193246.ht
  ml
@@ -85,8 +79,7 @@ DTSTAMP:20241025T160000Z
 DTSTART:20241025T160000Z
 DTEND:20241025T180000Z
 SUMMARY:Slovenia – Österreich 0:3
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:ŠRC Bonifika\, Koper
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252893.ht
  ml
@@ -97,8 +90,7 @@ DTSTAMP:20241029T170000Z
 DTSTART:20241029T170000Z
 DTEND:20241029T190000Z
 SUMMARY:Österreich – Slovenia 2:1
-DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
- Round
+DESCRIPTION:EM-Qualifikation · Playoffs · 1st Round
 LOCATION:Innviertel Arena\, Ried Im Innkreis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1252894.ht
  ml
@@ -109,7 +101,7 @@ DTSTAMP:20250221T143000Z
 DTSTART:20250221T143000Z
 DTEND:20250221T163000Z
 SUMMARY:Greece – Slovenia 1:2
-DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 1. Spieltag
 LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315807.ht
  ml
@@ -120,7 +112,7 @@ DTSTAMP:20250225T170000Z
 DTSTART:20250225T170000Z
 DTEND:20250225T190000Z
 SUMMARY:Slovenia – Republic of Ireland 4:0
-DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 2. Spieltag
 LOCATION:Bonifika\, Koper
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315815.ht
  ml
@@ -131,7 +123,7 @@ DTSTAMP:20250404T143000Z
 DTSTART:20250404T143000Z
 DTEND:20250404T163000Z
 SUMMARY:Slovenia – Turkey 3:0
-DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 3. Spieltag
 LOCATION:Športni Park Šiška\, Ljubljana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315824.ht
  ml
@@ -142,7 +134,7 @@ DTSTAMP:20250408T160000Z
 DTSTART:20250408T160000Z
 DTEND:20250408T180000Z
 SUMMARY:Turkey – Slovenia 0:1
-DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 4. Spieltag
 LOCATION:BG Group 4 Eylül Stadyumu\, Sivas
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315832.ht
  ml
@@ -153,7 +145,7 @@ DTSTAMP:20250530T160000Z
 DTSTART:20250530T160000Z
 DTEND:20250530T180000Z
 SUMMARY:Slovenia – Greece 2:0
-DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 5. Spieltag
 LOCATION:Športni Park Šiška\, Ljubljana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315839.ht
  ml
@@ -164,7 +156,7 @@ DTSTAMP:20250603T170000Z
 DTSTART:20250603T170000Z
 DTEND:20250603T190000Z
 SUMMARY:Republic of Ireland – Slovenia 1:0
-DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+DESCRIPTION:UEFA Nations League · League B · 6. Spieltag
 LOCATION:Pairc Ui Chaoimh\, Cork
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1315848.ht
  ml
@@ -175,8 +167,7 @@ DTSTAMP:20260303T164500Z
 DTSTART:20260303T164500Z
 DTEND:20260303T184500Z
 SUMMARY:Deutschland – Slovenia 5:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 1. Spieltag
 LOCATION:Rudolf-Harbig-Stadion\, Dresden
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523813.ht
  ml
@@ -187,8 +178,7 @@ DTSTAMP:20260307T160000Z
 DTSTART:20260307T160000Z
 DTEND:20260307T180000Z
 SUMMARY:Slovenia – Österreich 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 2. Spieltag
 LOCATION:Bonifika\, Koper
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523839.ht
  ml
@@ -199,8 +189,7 @@ DTSTAMP:20260414T160000Z
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 SUMMARY:Norwegen – Slovenia 5:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 3. Spieltag
 LOCATION:Ullevaal Stadion\, Oslo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523864.ht
  ml
@@ -211,8 +200,7 @@ DTSTAMP:20260418T150000Z
 DTSTART:20260418T150000Z
 DTEND:20260418T170000Z
 SUMMARY:Slovenia – Norwegen 2:3
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 4. Spieltag
 LOCATION:Mestni stadion Ptuj\, Ptuj
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523889.ht
  ml
@@ -223,8 +211,7 @@ DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Österreich – Slovenia 1:0
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 5. Spieltag
 LOCATION:Sportclub-Platz\, Vienna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523914.ht
  ml
@@ -235,8 +222,7 @@ DTSTAMP:20260609T160000Z
 DTSTART:20260609T160000Z
 DTEND:20260609T180000Z
 SUMMARY:Slovenia – Deutschland 0:2
-DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
- . Spieltag
+DESCRIPTION:WM-Qualifikation Europa · Gruppenphase · 6. Spieltag
 LOCATION:Stadion Stozice\, Ljubljana
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523938.ht
  ml
@@ -247,7 +233,7 @@ DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
 SUMMARY:Turkey – Slovenia
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557257.ht
  ml
 END:VEVENT
@@ -257,7 +243,7 @@ DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
 SUMMARY:Slovenia – Turkey
-DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557269.ht
  ml
 END:VEVENT
