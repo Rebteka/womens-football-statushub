@@ -50,7 +50,6 @@ body {
   line-height: 1.5;
   color: var(--ink);
   background: var(--bg);
-  padding-bottom: calc(4.25rem + env(safe-area-inset-bottom));
 }
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -68,33 +67,24 @@ h3 { font-size: 1.02rem; }
 .more { margin: .75rem 0 0; font-weight: 600; }
 .more a { color: var(--brand); }
 
-/* Topbar */
+/* Topbar: Marke + Navigation, klebt oben; auf schmalen Screens zweizeilig mit scrollbarer Pill-Reihe */
 .topbar { position: sticky; top: 0; z-index: 20; background: var(--card); border-bottom: 1px solid var(--line); }
-.topbar-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 3.5rem; }
+.topbar-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .25rem 1rem; padding: .5rem 0; }
 .brand { display: flex; align-items: center; gap: .55rem; font-weight: 800; font-size: 1.2rem; letter-spacing: -.01em; }
 .brand small { display: none; font-weight: 500; color: var(--ink-3); font-size: .8rem; margin-left: .35rem; }
 .brand-mark { width: 1.35rem; height: 1.35rem; border-radius: 50%; background: radial-gradient(circle at 35% 35%, #fff 0 18%, var(--brand) 20% 100%); box-shadow: inset 0 0 0 2px var(--brand-ink); }
 .brand:hover { text-decoration: none; }
 
-/* Navigation (Top auf Desktop, Bottom-Tabs auf Mobil) */
-.nav { display: flex; gap: .25rem; }
-.nav-item { display: flex; align-items: center; gap: .4rem; padding: .5rem .8rem; border-radius: 999px; font-weight: 600; color: var(--ink-2); background: none; border: 0; font: inherit; cursor: pointer; }
-.nav-item svg { width: 1.2rem; height: 1.2rem; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.nav { display: flex; gap: .25rem; flex: 1 0 100%; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; padding-bottom: .15rem; }
+.nav::-webkit-scrollbar { display: none; }
+.nav-item { flex: 0 0 auto; display: flex; align-items: center; gap: .4rem; padding: .45rem .8rem; border-radius: 999px; font-weight: 600; font-size: .92rem; color: var(--ink-2); background: none; border: 0; font: inherit; cursor: pointer; white-space: nowrap; }
+.nav-item svg { width: 1.15rem; height: 1.15rem; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
 .nav-item.is-active { color: var(--brand); background: var(--brand-soft); }
 .nav-item:hover { text-decoration: none; color: var(--brand); }
-.nav-top { display: none; }
-.nav-bottom {
-  position: fixed; inset: auto 0 0 0; z-index: 20;
-  justify-content: space-around; padding: .35rem .5rem calc(.35rem + env(safe-area-inset-bottom));
-  background: var(--card); border-top: 1px solid var(--line);
-}
-.nav-bottom .nav-item { flex-direction: column; gap: .15rem; padding: .3rem .5rem; font-size: .68rem; border-radius: 10px; }
-.nav-bottom .nav-item svg { width: 1.4rem; height: 1.4rem; }
 @media (min-width: 820px) {
-  body { padding-bottom: 2rem; }
+  .topbar-inner { flex-wrap: nowrap; min-height: 3.5rem; }
   .brand small { display: inline; }
-  .nav-top { display: flex; }
-  .nav-bottom { display: none; }
+  .nav { flex: 0 1 auto; overflow: visible; padding-bottom: 0; }
 }
 
 /* Hero */
