@@ -1,7 +1,7 @@
 # 1. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 14.09.2026, 14:24 Uhr
+**Stand:** 15.09.2026, 02:40 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -11,13 +11,13 @@
 | Pl. | Team | Sp | S | U | N | Tore | Pkt |
 |-----|------|----|---|---|---|------|-----|
 | 1 | VfL Wolfsburg W | 4 | 4 | 0 | 0 | 15:5 | **12** |
-| 2 | Eintracht Frankfurt W | 4 | 3 | 1 | 0 | 8:3 | **10** |
-| 3 | Bayern Munich W | 3 | 3 | 0 | 0 | 10:2 | **9** |
+| 2 | Bayern Munich W | 4 | 4 | 0 | 0 | 13:4 | **12** |
+| 3 | Eintracht Frankfurt W | 4 | 3 | 1 | 0 | 8:3 | **10** |
 | 4 | FC Koln W | 4 | 3 | 0 | 1 | 8:2 | **9** |
 | 5 | Werder Bremen W | 4 | 3 | 0 | 1 | 7:4 | **9** |
 | 6 | SC Freiburg W | 4 | 2 | 1 | 1 | 6:5 | **7** |
 | 7 | Stuttgart W | 4 | 2 | 1 | 1 | 7:7 | **7** |
-| 8 | Bayer Leverkusen W | 3 | 2 | 0 | 1 | 5:3 | **6** |
+| 8 | Bayer Leverkusen W | 4 | 2 | 0 | 2 | 7:6 | **6** |
 | 9 | RB Leipzig W | 4 | 1 | 1 | 2 | 3:6 | **4** |
 | 10 | Hamburger SV W | 4 | 0 | 2 | 2 | 3:5 | **2** |
 | 11 | [Nürnberg W](nürnberg_w_26_27.md) | 4 | 0 | 2 | 2 | 7:14 | **2** |
