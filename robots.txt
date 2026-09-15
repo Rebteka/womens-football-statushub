@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rebteka.github.io/womens-football-statushub/sitemap.xml
