@@ -105,6 +105,20 @@
   /* ---------- Favoriten-Verein ---------- */
   var favBtn = document.querySelector("[data-fav]");
   var fav = localStorage.getItem(LS_FAV);
+  var LS_AUTOSTART = "anstoss.autostart";
+
+  // Direkteinstieg: Wer von aussen (Lesezeichen, Homescreen) auf die Startseite kommt und es eingeschaltet hat,
+  // landet direkt bei seinem Verein. Navigation innerhalb der Seite ist davon nie betroffen.
+  var favSlot = document.querySelector("[data-fav-slot]");
+  if (favSlot && fav && localStorage.getItem(LS_AUTOSTART) === "1" && !location.hash) {
+    var ref = document.referrer;
+    var external = !ref || (function () { try { return new URL(ref).origin !== location.origin; } catch (e) { return true; } })();
+    if (external) {
+      fetch(base + "/assets/clubs.json").then(function (r) { return r.json(); }).then(function (clubs) {
+        if (clubs[fav]) location.replace(clubs[fav].url);
+      }).catch(function () {});
+    }
+  }
   if (favBtn) {
     var mine = favBtn.dataset.fav === fav;
     favBtn.setAttribute("aria-pressed", String(mine));
@@ -117,7 +131,19 @@
       }
     });
   }
-  var favSlot = document.querySelector("[data-fav-slot]");
+  var autoBox = document.querySelector("[data-autostart]");
+  if (autoBox && favBtn) {
+    function syncAuto() {
+      var mineNow = localStorage.getItem(LS_FAV) === favBtn.dataset.fav;
+      autoBox.hidden = !mineNow;
+      autoBox.querySelector("input").checked = localStorage.getItem(LS_AUTOSTART) === "1";
+    }
+    syncAuto();
+    favBtn.addEventListener("click", syncAuto);
+    autoBox.querySelector("input").addEventListener("change", function (ev) {
+      if (ev.target.checked) localStorage.setItem(LS_AUTOSTART, "1"); else localStorage.removeItem(LS_AUTOSTART);
+    });
+  }
   if (favSlot && fav) {
     fetch(base + "/assets/clubs.json").then(function (r) { return r.json(); }).then(function (clubs) {
       var c = clubs[fav];

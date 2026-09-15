@@ -136,6 +136,8 @@ h3 { font-size: 1.02rem; }
 .pill-live { background: var(--live); color: #fff; animation: pulse 1.6s infinite; }
 .pill-finished { background: var(--brand-soft); color: var(--brand-ink); }
 .pill-postponed, .pill-cancelled { background: var(--zone-bottom); color: var(--loss); }
+.pill-moved { background: #fff3cd; color: #7a5a00; text-transform: none; letter-spacing: 0; }
+@media (prefers-color-scheme: dark) { .pill-moved { background: #3d3410; color: #f1d27a; } }
 .live-dot { display: inline-block; width: .6rem; height: .6rem; border-radius: 50%; background: var(--live); margin-right: .4rem; animation: pulse 1.6s infinite; }
 .live-dot.is-stale { background: var(--ink-3); animation: none; }
 .pill-stale { background: var(--line); color: var(--ink-2); text-transform: none; letter-spacing: 0; }
@@ -254,6 +256,19 @@ h3 { font-size: 1.02rem; }
 .search-results .logo { width: 24px; height: 24px; }
 .search-results small { color: var(--ink-3); margin-left: auto; text-align: right; }
 .search-results .kind { font-size: .65rem; text-transform: uppercase; letter-spacing: .05em; padding: .1rem .4rem; border-radius: 6px; background: var(--line); color: var(--ink-2); }
+
+/* Spielverlauf */
+.events { list-style: none; margin: 0; padding: 0; display: grid; gap: .2rem; }
+.ev { display: grid; grid-template-columns: 3rem 1.6rem 1fr; align-items: center; gap: .4rem; padding: .35rem .6rem; border-radius: 8px; background: var(--card); border: 1px solid var(--line); }
+.ev-away { grid-template-columns: 1fr 1.6rem 3rem; text-align: right; }
+.ev-away .ev-min { order: 3; }
+.ev-away .ev-icon { order: 2; }
+.ev-away .ev-who { order: 1; }
+.ev-min { color: var(--ink-3); font-variant-numeric: tabular-nums; font-weight: 700; }
+.ev-who { font-weight: 600; display: grid; }
+.ev-who small { color: var(--ink-3); font-weight: 500; }
+.autostart { display: flex; gap: .5rem; align-items: center; margin: -.25rem 0 1rem; font-size: .9rem; color: var(--ink-2); }
+.autostart[hidden] { display: none; }
 
 /* Kalender-Abo */
 .cal-box { display: grid; gap: .3rem; margin: 1rem 0; padding: .85rem 1rem; border-radius: var(--radius); background: var(--brand-soft); border: 1px solid color-mix(in srgb, var(--brand) 25%, transparent); }

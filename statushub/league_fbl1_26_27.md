@@ -1,7 +1,7 @@
 # 1. Frauen-Bundesliga
 
 **Saison:** 2026-2027
-**Stand:** 15.09.2026, 21:24 Uhr
+**Stand:** 01.09.2026, 00:03 Uhr
 **Quelle:** API-SPORTS
 
 ---
@@ -10,20 +10,20 @@
 
 | Pl. | Team | Sp | S | U | N | Tore | Pkt |
 |-----|------|----|---|---|---|------|-----|
-| 1 | VfL Wolfsburg W | 4 | 4 | 0 | 0 | 15:5 | **12** |
-| 2 | Bayern Munich W | 4 | 4 | 0 | 0 | 13:4 | **12** |
-| 3 | Eintracht Frankfurt W | 4 | 3 | 1 | 0 | 8:3 | **10** |
-| 4 | FC Koln W | 4 | 3 | 0 | 1 | 8:2 | **9** |
-| 5 | Werder Bremen W | 4 | 3 | 0 | 1 | 7:4 | **9** |
-| 6 | SC Freiburg W | 4 | 2 | 1 | 1 | 6:5 | **7** |
-| 7 | Stuttgart W | 4 | 2 | 1 | 1 | 7:7 | **7** |
-| 8 | Bayer Leverkusen W | 4 | 2 | 0 | 2 | 7:6 | **6** |
-| 9 | RB Leipzig W | 4 | 1 | 1 | 2 | 3:6 | **4** |
-| 10 | Hamburger SV W | 4 | 0 | 2 | 2 | 3:5 | **2** |
-| 11 | [Nürnberg W](nürnberg_w_26_27.md) | 4 | 0 | 2 | 2 | 7:14 | **2** |
-| 12 | 1899 Hoffenheim W | 4 | 0 | 0 | 4 | 4:9 | **0** |
-| 13 | Union Berlin W | 4 | 0 | 0 | 4 | 1:9 | **0** |
-| 14 | Mainz 05 W | 4 | 0 | 0 | 4 | 1:11 | **0** |
+| 1 | Bayern Munich W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 2 | SC Freiburg W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 3 | VfL Wolfsburg W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 4 | Hamburger SV W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 5 | FC Koln W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 6 | Bayer Leverkusen W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 7 | [Nürnberg W](nürnberg_w_26_27.md) | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 8 | Werder Bremen W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 9 | Union Berlin W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 10 | 1899 Hoffenheim W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 11 | Mainz 05 W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 12 | Eintracht Frankfurt W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 13 | RB Leipzig W | 0 | 0 | 0 | 0 | 0:0 | **0** |
+| 14 | Stuttgart W | 0 | 0 | 0 | 0 | 0:0 | **0** |
 
 ---
 
