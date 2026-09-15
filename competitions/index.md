@@ -5,7 +5,7 @@ title: Wettbewerbs-Katalog
 
 # Wettbewerbs-Katalog
 
-Datenstand: 2026-09-15T00:37:30Z
+Datenstand: 2026-09-15T12:19:59Z
 
 Zweck: Diese Seite zeigt, welche Frauenwettbewerbe API-SPORTS grundsaetzlich kennt und welche davon schon fuer den Statushub freigegeben sind.
 Sie ist kein aktueller Spiel- oder Tabellenstand. Aktuelle Spiele, Turnierstatus und Liga-Tabellen stehen im Statushub.
@@ -14,7 +14,7 @@ Der Datenstand gilt fuer den API-SPORTS-Abfragezeitpunkt oben; er ist kein histo
 Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Europa, UEFA/FIFA und danach Kontinente.
 
 - Bestaetigt: 10
-- Kandidaten: 79
+- Kandidaten: 80
 
 ## Wettbewerbe nach Prioritaet
 
@@ -48,7 +48,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <li><strong>Úrvalsdeild Women</strong> · Kandidat (Iceland/IS, ID <code>671</code>, League) · Slug <code>urvalsdeild-women-671</code> · API-Saison 2025 (2025-04-15 bis 2025-10-18)</li>
 <li><strong>Women&#x27;s President&#x27;s Cup</strong> · Kandidat (Ireland/IE, ID <code>1175</code>, Cup) · Slug <code>women-s-president-s-cup-1175</code> · API-Saison 2026 (2026-03-08 bis 2026-03-08)</li>
 <li><strong>Coppa Italia Women</strong> · Kandidat (Italy/IT, ID <code>1171</code>, Cup) · Slug <code>coppa-italia-women-1171</code> · API-Saison 2025 (2025-08-31 bis 2026-05-24)</li>
-<li><strong>Serie A Cup Women</strong> · Kandidat (Italy/IT, ID <code>1198</code>, Cup) · Slug <code>serie-a-cup-women-1198</code> · API-Saison 2026 (2026-08-21 bis 2026-09-13)</li>
+<li><strong>Serie A Cup Women</strong> · Kandidat (Italy/IT, ID <code>1198</code>, Cup) · Slug <code>serie-a-cup-women-1198</code> · API-Saison 2026 (2026-08-21 bis 2026-09-19)</li>
 <li><strong>Serie A Women</strong> · Kandidat (Italy/IT, ID <code>139</code>, League) · Slug <code>serie-a-women-139</code> · API-Saison 2026 (2026-09-26 bis 2027-05-15)</li>
 <li><strong>Eredivisie Women</strong> · Kandidat (Netherlands/NL, ID <code>91</code>, League) · Slug <code>eredivisie-women-91</code> · API-Saison 2026 (2026-08-16 bis 2027-02-21)</li>
 <li><strong>Super Cup Women</strong> · Kandidat (Netherlands/NL, ID <code>1190</code>, Cup) · Slug <code>super-cup-women-1190</code> · API-Saison 2025 (2026-07-31 bis 2026-07-31)</li>
@@ -75,7 +75,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <summary>UEFA-Wettbewerbe · 7 Wettbewerbe</summary>
 
 <ul>
-<li><strong>UEFA Champions League Women</strong> · freigegeben (World, ID <code>525</code>, Cup) · Slug <code>uefa-champions-league-women-525</code> · API-Saison 2026 (2026-07-22 bis 2026-09-22) · Allowlist: <code>ucl_women</code></li>
+<li><strong>UEFA Champions League Women</strong> · freigegeben (World, ID <code>525</code>, Cup) · Slug <code>uefa-champions-league-women-525</code> · API-Saison 2026 (2026-07-22 bis 2026-12-16) · Allowlist: <code>ucl_women</code></li>
 <li><strong>UEFA Championship - Women</strong> · freigegeben (World, ID <code>743</code>, Cup) · Slug <code>uefa-championship-women-743</code> · API-Saison 2025 (2025-07-02 bis 2025-07-27) · Allowlist: <code>euro_women</code></li>
 <li><strong>UEFA Nations League - Women</strong> · freigegeben (World, ID <code>1040</code>, Cup) · Slug <code>uefa-nations-league-women-1040</code> · API-Saison 2025 (2025-02-21 bis 2025-12-02) · Allowlist: <code>unl_women</code></li>
 <li><strong>UEFA U17 Championship - Women</strong> · freigegeben (World, ID <code>1102</code>, Cup) · Slug <code>uefa-u17-championship-women-1102</code> · API-Saison 2026 (2026-05-04 bis 2026-05-17) · Allowlist: <code>u17</code></li>
@@ -127,7 +127,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 </details>
 
 <details>
-<summary>AFC/OFC-Wettbewerbe · 8 Wettbewerbe</summary>
+<summary>AFC/OFC-Wettbewerbe · 9 Wettbewerbe</summary>
 
 <ul>
 <li><strong>AFC U17 Asian Cup - Women</strong> · Kandidat (World, ID <code>1101</code>, Cup) · Slug <code>afc-u17-asian-cup-women-1101</code> · API-Saison 2025 (2026-05-01 bis 2026-05-17)</li>
@@ -136,6 +136,7 @@ Die Reihenfolge ist fuer eine deutsche Statusseite priorisiert: Deutschland, Eur
 <li><strong>Asean Championship Women</strong> · Kandidat (World, ID <code>1189</code>, Cup) · Slug <code>asean-championship-women-1189</code> · API-Saison 2026 (2026-07-10 bis 2026-07-16)</li>
 <li><strong>Asian Cup Women</strong> · Kandidat (World, ID <code>897</code>, Cup) · Slug <code>asian-cup-women-897</code> · API-Saison 2026 (2026-03-01 bis 2026-03-21)</li>
 <li><strong>Asian Cup Women - Qualification</strong> · Kandidat (World, ID <code>894</code>, Cup) · Slug <code>asian-cup-women-qualification-894</code> · API-Saison 2026 (2025-06-23 bis 2025-07-19)</li>
+<li><strong>Asian Games Women</strong> · Kandidat (World, ID <code>1245</code>, Cup) · Slug <code>asian-games-women-1245</code> · API-Saison 2026 (2026-09-14 bis 2026-09-21)</li>
 <li><strong>EAFF E-1 Football Championship - Women</strong> · Kandidat (World, ID <code>1188</code>, Cup) · Slug <code>eaff-e-1-football-championship-women-1188</code> · API-Saison 2025 (2023-11-30 bis 2025-07-16)</li>
 <li><strong>Olympics Women - Qualification Asia</strong> · Kandidat (World, ID <code>882</code>, Cup) · Slug <code>olympics-women-qualification-asia-882</code> · API-Saison 2024 (2023-04-01 bis 2024-02-28)</li>
 </ul>
