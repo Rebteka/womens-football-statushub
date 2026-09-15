@@ -192,8 +192,8 @@
   document.querySelectorAll("[data-filter]").forEach(function (input) {
     var items = document.querySelectorAll(input.dataset.filter);
     input.addEventListener("input", function () {
-      var q = input.value.trim().toLowerCase();
-      items.forEach(function (el) { el.classList.toggle("is-hidden", q && el.dataset.club.indexOf(q) === -1); });
+      var q = norm(input.value.trim());
+      items.forEach(function (el) { el.classList.toggle("is-hidden", q && norm(el.dataset.club || el.textContent).indexOf(q) === -1); });
       // Liga-Ueberschriften ohne sichtbare Treffer mit ausblenden
       document.querySelectorAll(".comp-group-title").forEach(function (h) {
         var grid = h.nextElementSibling;
@@ -211,6 +211,31 @@
   var input = document.querySelector("[data-search-input]");
   var results = document.querySelector("[data-search-results]");
   var index = null, active = -1;
+
+  /* ---------- Spieltag inline umschalten (Wettbewerbsseite) ---------- */
+  var roundsBox = document.querySelector("[data-rounds]");
+  if (roundsBox) {
+    function showRound(n, scroll) {
+      var target = roundsBox.querySelector('.round-pane[data-round="' + n + '"]');
+      if (!target) return false;
+      roundsBox.querySelectorAll(".round-pane").forEach(function (p) { p.hidden = p !== target; });
+      document.querySelectorAll(".round-pill").forEach(function (p) { p.classList.toggle("is-current", p.dataset.roundGo === String(n)); });
+      history.replaceState(null, "", "#spieltag-" + n);
+      if (scroll) roundsBox.scrollIntoView({ block: "start" });
+      return true;
+    }
+    document.addEventListener("click", function (ev) {
+      var a = ev.target.closest("[data-round-go]");
+      if (a && showRound(a.dataset.roundGo, !roundsBox.contains(a))) ev.preventDefault();
+    });
+    var m0 = location.hash.match(/^#spieltag-(\d+)$/);
+    if (m0) showRound(m0[1], true);
+  }
+
+  /* ---------- Sticky Filter unter der Kopfzeile ---------- */
+  var topbar = document.querySelector(".topbar");
+  function setTopbarH() { document.documentElement.style.setProperty("--topbar-h", topbar.offsetHeight + "px"); }
+  if (topbar) { setTopbarH(); window.addEventListener("resize", setTopbarH); }
 
   function norm(s) { return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); }
   function openSearch() {
