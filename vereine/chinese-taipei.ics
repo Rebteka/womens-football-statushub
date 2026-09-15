@@ -21,11 +21,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638244@anstoss
 DTSTAMP:20261201T140000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+DTSTART:20261201T140000Z
+DTEND:20261201T160000Z
 SUMMARY:Papua New Guinea – Chinese Taipei
 DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
- Aufstiegsrunde · 2. Spieltag · Anstosszeit noch offen
+ Aufstiegsrunde · 2. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638244.ht
  ml
 END:VEVENT

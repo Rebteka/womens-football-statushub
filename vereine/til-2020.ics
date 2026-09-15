@@ -220,10 +220,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1535732@anstoss
 DTSTAMP:20261025T120000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
 SUMMARY:Frigg Oslo FK – TIL 2020
-DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Division Women · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535732.ht
  ml
 END:VEVENT

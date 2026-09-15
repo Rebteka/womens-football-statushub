@@ -638,20 +638,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610898@anstoss
 DTSTAMP:20270327T150000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T150000Z
+DTEND:20270327T170000Z
 SUMMARY:Sporting Braga – Racing Power
-DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610898.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610776@anstoss
 DTSTAMP:20270327T150000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T150000Z
+DTEND:20270327T170000Z
 SUMMARY:SL Benfica – Marítimo
-DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 13. Spieltag
 LOCATION:Caixa Futebol Campus\, Seixal
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610776.ht
  ml
@@ -659,10 +659,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610777@anstoss
 DTSTAMP:20270327T150000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T150000Z
+DTEND:20270327T170000Z
 SUMMARY:Torreense – Sporting CP
-DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 13. Spieltag
 LOCATION:Estadio Manuel Marques\, Torres Vedras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610777.ht
  ml
@@ -670,10 +670,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610778@anstoss
 DTSTAMP:20270327T150000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T150000Z
+DTEND:20270327T170000Z
 SUMMARY:Valadares Gaia – Vitoria Guimaraes
-DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 13. Spieltag
 LOCATION:Estadio Dr. Jorge Sampaio\, Porto
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610778.ht
  ml
@@ -681,10 +681,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610804@anstoss
 DTSTAMP:20270327T150000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T150000Z
+DTEND:20270327T170000Z
 SUMMARY:Porto – Rio Ave
-DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610804.ht
  ml
 END:VEVENT

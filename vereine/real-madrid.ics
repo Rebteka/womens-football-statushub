@@ -231,11 +231,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638290@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Roma – Real Madrid
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Stadio Tre Fontane\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638290.ht
  ml

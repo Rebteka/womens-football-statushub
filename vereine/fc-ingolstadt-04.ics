@@ -123,11 +123,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607037@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:FC Ingolstadt 04 – SC Sand
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607037.ht
  ml
 END:VEVENT
@@ -154,22 +153,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607055@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:TSG Hoffenheim II – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607055.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607063@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:1. FFC Turbine Potsdam – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607063.ht
  ml
 END:VEVENT
@@ -186,22 +183,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607074@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:FC Carl Zeiss Jena – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607074.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607081@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:FC Ingolstadt 04 – Hertha BSC
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607081.ht
  ml
 END:VEVENT
@@ -218,11 +213,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607092@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:FC Ingolstadt 04 – SGS Essen
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607092.ht
  ml
 END:VEVENT
@@ -279,22 +273,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607125@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:SG 99 Andernach – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607125.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607134@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:FC Ingolstadt 04 – TSG Hoffenheim II
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607134.ht
  ml
 END:VEVENT

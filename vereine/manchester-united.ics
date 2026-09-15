@@ -287,11 +287,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607839@anstoss
 DTSTAMP:20270522T130000Z
-DTSTART;VALUE=DATE:20270522
-DTEND;VALUE=DATE:20270523
+DTSTART:20270522T130000Z
+DTEND:20270522T150000Z
 SUMMARY:Brighton – Manchester United
-DESCRIPTION:Women's Super League · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Super League · 26. Spieltag
 LOCATION:The Broadfield Stadium\, Crawley
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607839.ht
  ml

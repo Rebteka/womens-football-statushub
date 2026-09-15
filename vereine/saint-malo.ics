@@ -207,10 +207,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581031@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Saint-Malo – Paris Saint Germain
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581031.ht
  ml
 END:VEVENT
@@ -227,10 +227,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581035@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Paris FC – Saint-Malo
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Stade Charlety\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581035.ht
  ml

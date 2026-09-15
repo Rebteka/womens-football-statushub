@@ -208,11 +208,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530007@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Rubin Kazan – Yenisey
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Ak Bars Arena\, Kazan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530007.ht
  ml
@@ -232,11 +231,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530020@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Rubin Kazan – Spartak Moskva
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Ak Bars Arena\, Kazan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530020.ht
  ml

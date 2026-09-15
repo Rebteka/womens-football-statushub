@@ -269,10 +269,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582171@anstoss
 DTSTAMP:20261209T130000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTART:20261209T130000Z
+DTEND:20261209T150000Z
 SUMMARY:Køge – FC Copenhagen
-DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582171.ht
  ml
 END:VEVENT
@@ -289,11 +289,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638314@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Køge – SL Benfica
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638314.ht
  ml
 END:VEVENT

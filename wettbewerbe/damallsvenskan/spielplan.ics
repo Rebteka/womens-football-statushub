@@ -1935,10 +1935,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495607@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Eskilstuna United – Djurgården
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Tunavallen\, Eskilstuna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495607.ht
  ml
@@ -1946,10 +1946,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495613@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Uppsala – Växjö
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Studenternas IP\, Uppsala
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495613.ht
  ml
@@ -1957,10 +1957,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495609@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Hammarby – Kristianstad
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Hammarby IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495609.ht
  ml
@@ -1968,10 +1968,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495610@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Brommapojkarna – Rosengård
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Grimsta IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495610.ht
  ml
@@ -1979,10 +1979,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495612@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Norrköping – AIK
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Norrkopings Idrottspark
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495612.ht
  ml
@@ -1990,10 +1990,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495608@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Häcken – Piteå
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Nordic Wellness Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495608.ht
  ml
@@ -2001,10 +2001,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495611@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Malmö FF – Vittsjö
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Eleda Stadion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495611.ht
  ml

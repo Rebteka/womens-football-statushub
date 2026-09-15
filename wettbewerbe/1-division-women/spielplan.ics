@@ -1270,60 +1270,60 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1535670@anstoss
 DTSTAMP:20261025T120000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
 SUMMARY:Kolbotn – Arna-Bjørnar
-DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Division Women · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535670.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1535671@anstoss
 DTSTAMP:20261025T120000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
 SUMMARY:Åsane – Bryne
-DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Division Women · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535671.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1535731@anstoss
 DTSTAMP:20261025T120000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
 SUMMARY:Odd – Klepp
-DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Division Women · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535731.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1535730@anstoss
 DTSTAMP:20261025T120000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
 SUMMARY:Viking FK – Grei
-DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Division Women · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535730.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1535672@anstoss
 DTSTAMP:20261025T120000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
 SUMMARY:Start – Fyllingsdalen
-DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Division Women · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535672.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1535732@anstoss
 DTSTAMP:20261025T120000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
 SUMMARY:Frigg Oslo FK – TIL 2020
-DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Division Women · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535732.ht
  ml
 END:VEVENT

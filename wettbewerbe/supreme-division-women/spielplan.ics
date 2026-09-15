@@ -1264,11 +1264,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530004@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Chertanovo – CSKA Moskva
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Chertanovo Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530004.ht
  ml
@@ -1276,11 +1275,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530008@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Ryazan – Spartak Moskva
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530008.ht
  ml
@@ -1288,11 +1286,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530009@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Zenit – Dinamo Moskva
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530009.ht
  ml
@@ -1300,11 +1297,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530006@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Rostov – Zvezda Perm
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530006.ht
  ml
@@ -1312,11 +1308,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530007@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Rubin Kazan – Yenisey
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Ak Bars Arena\, Kazan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530007.ht
  ml
@@ -1324,11 +1319,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530005@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Krylya Sovetov – Lokomotiv Moskva
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Metallurg Stadium\, Samara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530005.ht
  ml
@@ -1408,11 +1402,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530016@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:CSKA Moskva – Ryazan
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Stadion Novye Chimki\, Khimki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530016.ht
  ml
@@ -1420,11 +1413,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530019@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Lokomotiv Moskva – Dinamo Moskva
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Sapsan Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530019.ht
  ml
@@ -1432,11 +1424,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530017@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Yenisey – Zvezda Perm
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Football Arena Yenisei\, Krasnoyarsk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530017.ht
  ml
@@ -1444,11 +1435,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530021@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Zenit – Chertanovo
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530021.ht
  ml
@@ -1456,11 +1446,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530018@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Krasnodar – Krylya Sovetov
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Malaya Arena\, Krasnodar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530018.ht
  ml
@@ -1468,11 +1457,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530020@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Rubin Kazan – Spartak Moskva
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Ak Bars Arena\, Kazan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530020.ht
  ml

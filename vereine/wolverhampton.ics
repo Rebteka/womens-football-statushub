@@ -241,11 +241,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609502@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Wolverhampton – Ipswich Town
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 LOCATION:New Bucks Head\, Telford
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609502.ht
  ml

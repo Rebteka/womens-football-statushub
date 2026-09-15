@@ -660,77 +660,70 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607035@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:Borussia Mönchengladbach – TSG Hoffenheim II
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607035.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607040@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:SGS Essen – VfL Bochum
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607040.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607039@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:1. FFC Turbine Potsdam – SV Meppen
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607039.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607038@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:FC Carl Zeiss Jena – FC Viktoria Berlin
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607038.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607037@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:FC Ingolstadt 04 – SC Sand
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607037.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607146@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:Eintracht Frankfurt II – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607146.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607036@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:Hertha BSC – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607036.ht
  ml
 END:VEVENT
@@ -877,154 +870,140 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607057@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:SC Sand – Eintracht Frankfurt II
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607057.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607056@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:SV Meppen – VfL Bochum
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607056.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607053@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:SG 99 Andernach – Borussia Mönchengladbach
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607053.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607058@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:FC Viktoria Berlin – 1. FFC Turbine Potsdam
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607058.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607055@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:TSG Hoffenheim II – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607055.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607054@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:Hertha BSC – FC Carl Zeiss Jena
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607054.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607149@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:1. FC Köln II – SGS Essen
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607149.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607150@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:SC Sand – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607150.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607063@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:1. FFC Turbine Potsdam – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607063.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607062@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:SV Meppen – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607062.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607061@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:FC Carl Zeiss Jena – Borussia Mönchengladbach
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607061.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607064@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:FC Viktoria Berlin – TSG Hoffenheim II
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607064.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607059@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:Eintracht Frankfurt II – SGS Essen
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607059.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607060@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:Hertha BSC – VfL Bochum
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607060.ht
  ml
 END:VEVENT
@@ -1101,154 +1080,140 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607075@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:SC Sand – Borussia Mönchengladbach
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607075.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607076@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:SGS Essen – TSG Hoffenheim II
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607076.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607152@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:SV Meppen – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607152.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607074@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:FC Carl Zeiss Jena – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607074.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607071@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:SG 99 Andernach – FC Viktoria Berlin
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607071.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607072@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:Eintracht Frankfurt II – VfL Bochum
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607072.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607073@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:Hertha BSC – 1. FFC Turbine Potsdam
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607073.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607077@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:Borussia Mönchengladbach – SGS Essen
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607077.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607082@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:1. FFC Turbine Potsdam – FC Carl Zeiss Jena
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607082.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607078@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:VfL Bochum – SC Sand
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607078.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607081@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:FC Ingolstadt 04 – Hertha BSC
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607081.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607153@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:FC Viktoria Berlin – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607153.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607079@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:Eintracht Frankfurt II – SV Meppen
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607079.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607080@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:TSG Hoffenheim II – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607080.ht
  ml
 END:VEVENT
@@ -1325,77 +1290,70 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607155@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:1. FFC Turbine Potsdam – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607155.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607093@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:SV Meppen – Hertha BSC
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607093.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607089@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:VfL Bochum – Borussia Mönchengladbach
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607089.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607092@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:FC Ingolstadt 04 – SGS Essen
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607092.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607094@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:FC Viktoria Berlin – SC Sand
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607094.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607090@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:Eintracht Frankfurt II – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607090.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607091@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:TSG Hoffenheim II – FC Carl Zeiss Jena
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607091.ht
  ml
 END:VEVENT
@@ -1752,154 +1710,140 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607129@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:SC Sand – 1. FFC Turbine Potsdam
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607129.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607128@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:SV Meppen – Borussia Mönchengladbach
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607128.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607125@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:SG 99 Andernach – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607125.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607130@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:FC Viktoria Berlin – Eintracht Frankfurt II
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607130.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607127@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:TSG Hoffenheim II – VfL Bochum
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607127.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607126@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:Hertha BSC – SGS Essen
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607126.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607161@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:1. FC Köln II – FC Carl Zeiss Jena
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607161.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607131@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:Borussia Mönchengladbach – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607131.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607162@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:SGS Essen – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607162.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607136@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:1. FFC Turbine Potsdam – FC Viktoria Berlin
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607136.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607135@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:FC Carl Zeiss Jena – Hertha BSC
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607135.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607132@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:VfL Bochum – SV Meppen
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607132.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607134@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:FC Ingolstadt 04 – TSG Hoffenheim II
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607134.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607133@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:Eintracht Frankfurt II – SC Sand
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607133.ht
  ml
 END:VEVENT

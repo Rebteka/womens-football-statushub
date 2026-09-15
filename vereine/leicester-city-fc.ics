@@ -242,11 +242,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609500@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Southampton – Leicester City FC
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609500.ht
  ml
 END:VEVENT

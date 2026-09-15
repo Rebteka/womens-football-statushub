@@ -102,11 +102,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607146@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:Eintracht Frankfurt II – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607146.ht
  ml
 END:VEVENT
@@ -133,22 +132,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607149@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:1. FC Köln II – SGS Essen
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607149.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607150@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:SC Sand – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607150.ht
  ml
 END:VEVENT
@@ -165,22 +162,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607152@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:SV Meppen – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607152.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607153@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:FC Viktoria Berlin – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607153.ht
  ml
 END:VEVENT
@@ -197,11 +192,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607155@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:1. FFC Turbine Potsdam – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607155.ht
  ml
 END:VEVENT
@@ -258,22 +252,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607161@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:1. FC Köln II – FC Carl Zeiss Jena
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607161.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607162@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:SGS Essen – 1. FC Köln II
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607162.ht
  ml
 END:VEVENT

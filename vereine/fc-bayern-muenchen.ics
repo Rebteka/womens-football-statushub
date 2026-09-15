@@ -218,11 +218,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638298@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:FC Bayern München – Barcelona
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:FC Bayern Campus\, Munich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638298.ht
  ml

@@ -1388,11 +1388,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609501@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Sunderland – Watford
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609501.ht
  ml
@@ -1400,11 +1399,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609497@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Durham – Burnley
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 LOCATION:Maiden Castle\, Durham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609497.ht
  ml
@@ -1412,11 +1410,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609499@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Sheffield United – Nottingham Forest
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 LOCATION:Bramall Lane\, Sheffield
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609499.ht
  ml
@@ -1424,11 +1421,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609502@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Wolverhampton – Ipswich Town
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 LOCATION:New Bucks Head\, Telford
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609502.ht
  ml
@@ -1436,22 +1432,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609500@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Southampton – Leicester City FC
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609500.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1609498@anstoss
 DTSTAMP:20270508T130000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T130000Z
+DTEND:20270508T150000Z
 SUMMARY:Newcastle United – Bristol City
-DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Women's Championship · 22. Spieltag
 LOCATION:Gateshead International Stadium\, Gateshead
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609498.ht
  ml

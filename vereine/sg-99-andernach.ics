@@ -123,11 +123,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607036@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:Hertha BSC – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607036.ht
  ml
 END:VEVENT
@@ -154,22 +153,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607053@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:SG 99 Andernach – Borussia Mönchengladbach
-DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607053.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607062@anstoss
 DTSTAMP:20261213T130000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
 SUMMARY:SV Meppen – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607062.ht
  ml
 END:VEVENT
@@ -186,22 +183,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607071@anstoss
 DTSTAMP:20270131T130000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
 SUMMARY:SG 99 Andernach – FC Viktoria Berlin
-DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607071.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607080@anstoss
 DTSTAMP:20270207T130000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
 SUMMARY:TSG Hoffenheim II – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607080.ht
  ml
 END:VEVENT
@@ -218,11 +213,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607090@anstoss
 DTSTAMP:20270221T130000Z
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
+DTSTART:20270221T130000Z
+DTEND:20270221T150000Z
 SUMMARY:Eintracht Frankfurt II – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607090.ht
  ml
 END:VEVENT
@@ -279,22 +273,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607125@anstoss
 DTSTAMP:20270502T120000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
 SUMMARY:SG 99 Andernach – FC Ingolstadt 04
-DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607125.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1607131@anstoss
 DTSTAMP:20270509T120000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
 SUMMARY:Borussia Mönchengladbach – SG 99 Andernach
-DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607131.ht
  ml
 END:VEVENT

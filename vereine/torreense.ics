@@ -162,10 +162,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610777@anstoss
 DTSTAMP:20270327T150000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T150000Z
+DTEND:20270327T170000Z
 SUMMARY:Torreense – Sporting CP
-DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 13. Spieltag
 LOCATION:Estadio Manuel Marques\, Torres Vedras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610777.ht
  ml

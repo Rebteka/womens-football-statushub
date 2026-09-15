@@ -260,30 +260,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1533787@anstoss
 DTSTAMP:20261007T100000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
+DTSTART:20261007T100000Z
+DTEND:20261007T120000Z
 SUMMARY:Gumi Sportstoto – Incheon Red Angels
-DESCRIPTION:WK-League · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WK-League · 26. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533787.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1533790@anstoss
 DTSTAMP:20261028T100000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
+DTSTART:20261028T100000Z
+DTEND:20261028T120000Z
 SUMMARY:Hwacheon KSPO – Gumi Sportstoto
-DESCRIPTION:WK-League · 27. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WK-League · 27. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533790.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1533793@anstoss
 DTSTAMP:20261031T050000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T050000Z
+DTEND:20261031T070000Z
 SUMMARY:Changnyeong – Gumi Sportstoto
-DESCRIPTION:WK-League · 28. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WK-League · 28. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533793.ht
  ml
 END:VEVENT

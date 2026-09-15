@@ -206,10 +206,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580992@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Strasbourg – Montpellier
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 LOCATION:Stade de la Meinau\, Strasbourg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580992.ht
  ml
@@ -227,10 +227,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580998@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Lyon – Montpellier
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580998.ht
  ml

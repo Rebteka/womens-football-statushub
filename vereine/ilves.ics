@@ -257,11 +257,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612489@anstoss
 DTSTAMP:20261024T140000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
 SUMMARY:HJK – Ilves
-DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag ·
-  Anstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612489.ht
  ml
 END:VEVENT

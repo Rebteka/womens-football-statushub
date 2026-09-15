@@ -285,10 +285,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495608@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Häcken – Piteå
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Nordic Wellness Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495608.ht
  ml

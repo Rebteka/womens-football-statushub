@@ -205,11 +205,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638329@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Paris Saint Germain – Juventus
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Paris Saint-Germain Training Center\, Poissy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638329.ht
  ml
@@ -304,10 +303,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581031@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Saint-Malo – Paris Saint Germain
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581031.ht
  ml
 END:VEVENT
@@ -325,10 +324,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580997@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Le Havre – Paris Saint Germain
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580997.ht
  ml
 END:VEVENT

@@ -132,22 +132,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1619387@anstoss
 DTSTAMP:20270506T174500Z
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270507
+DTSTART:20270506T174500Z
+DTEND:20270506T194500Z
 SUMMARY:Neom SC – Al Ittihad
-DESCRIPTION:Premier League Women · 13. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Premier League Women · 13. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1619387.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1619388@anstoss
 DTSTAMP:20270512T174500Z
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270513
+DTSTART:20270512T174500Z
+DTEND:20270512T194500Z
 SUMMARY:Al Hilal – Neom SC
-DESCRIPTION:Premier League Women · 14. Spieltag · Anstosszeit noch offe
- n
+DESCRIPTION:Premier League Women · 14. Spieltag
 LOCATION:Kingdom Arena\, Riyadh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1619388.ht
  ml

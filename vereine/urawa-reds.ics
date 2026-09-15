@@ -219,10 +219,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561044@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Urawa Reds – Parceiro Nagano
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:Urawa Komaba Stadium\, Saitama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561044.ht
  ml
@@ -230,10 +230,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561046@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:INAC Kobe Leonessa – Urawa Reds
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Noevir Stadium\, Kobe
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561046.ht
  ml

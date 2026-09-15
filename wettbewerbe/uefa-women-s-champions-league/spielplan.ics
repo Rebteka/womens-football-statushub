@@ -1441,11 +1441,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638329@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Paris Saint Germain – Juventus
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Paris Saint-Germain Training Center\, Poissy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638329.ht
  ml
@@ -1453,11 +1452,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638323@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Lyon – Häcken
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638323.ht
  ml
@@ -1465,22 +1463,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638316@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:OH Leuven – Chelsea
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638316.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638320@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Manchester City – Austria Wien
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Academy Stadium\, Manchester
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638320.ht
  ml
@@ -1488,11 +1484,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638298@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:FC Bayern München – Barcelona
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:FC Bayern Campus\, Munich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638298.ht
  ml
@@ -1500,11 +1495,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638290@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Roma – Real Madrid
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Stadio Tre Fontane\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638290.ht
  ml
@@ -1512,11 +1506,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638307@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Inter Mailand – Arsenal
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638307.ht
  ml
@@ -1524,22 +1517,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638314@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Køge – SL Benfica
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638314.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638336@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Servette Chênois – Paris FC
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Stade de la Fontenette\, Carouge
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638336.ht
  ml

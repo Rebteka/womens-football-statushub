@@ -1168,66 +1168,60 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612515@anstoss
 DTSTAMP:20261024T120000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
 SUMMARY:Honka – JyPK
-DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
- nstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612515.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612488@anstoss
 DTSTAMP:20261024T120000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
 SUMMARY:VIFK – PK-35 Vantaa
-DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
- nstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612488.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612514@anstoss
 DTSTAMP:20261024T120000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
 SUMMARY:EBK – HJS Akatemia
-DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
- nstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612514.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612489@anstoss
 DTSTAMP:20261024T140000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
 SUMMARY:HJK – Ilves
-DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag ·
-  Anstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612489.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612491@anstoss
 DTSTAMP:20261024T140000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
 SUMMARY:KuPS – Åland United
-DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag ·
-  Anstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612491.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612490@anstoss
 DTSTAMP:20261024T140000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
 SUMMARY:HPS – IF Gnistan
-DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag ·
-  Anstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612490.ht
  ml
 END:VEVENT

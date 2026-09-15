@@ -101,11 +101,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612514@anstoss
 DTSTAMP:20261024T120000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
 SUMMARY:EBK – HJS Akatemia
-DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
- nstosszeit noch offen
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612514.ht
  ml
 END:VEVENT

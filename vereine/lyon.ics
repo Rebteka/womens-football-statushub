@@ -184,11 +184,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638323@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Lyon – Häcken
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638323.ht
  ml
@@ -282,10 +281,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1585128@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Lyon – Lens
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1585128.ht
  ml
@@ -303,10 +302,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580998@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Lyon – Montpellier
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580998.ht
  ml

@@ -205,10 +205,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580990@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:FC Fleury 91 – Marseille
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 LOCATION:Terrain Walter Felder\, Fleury Merogis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580990.ht
  ml
@@ -226,10 +226,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1585130@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Lens – Marseille
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Degouve-Brabant Stadium\, Arras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1585130.ht
  ml

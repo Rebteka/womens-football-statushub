@@ -197,11 +197,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530005@anstoss
 DTSTAMP:20260919T100000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
 SUMMARY:Krylya Sovetov – Lokomotiv Moskva
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Metallurg Stadium\, Samara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530005.ht
  ml
@@ -221,11 +220,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530019@anstoss
 DTSTAMP:20261018T100000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Lokomotiv Moskva – Dinamo Moskva
-DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 22. Spieltag
 LOCATION:Sapsan Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530019.ht
  ml

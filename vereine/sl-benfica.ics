@@ -128,11 +128,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638314@anstoss
 DTSTAMP:20261216T200000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
 SUMMARY:Køge – SL Benfica
-DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
- Anstosszeit noch offen
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638314.ht
  ml
 END:VEVENT
@@ -203,10 +202,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610776@anstoss
 DTSTAMP:20270327T150000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T150000Z
+DTEND:20270327T170000Z
 SUMMARY:SL Benfica – Marítimo
-DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 13. Spieltag
 LOCATION:Caixa Futebol Campus\, Seixal
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610776.ht
  ml

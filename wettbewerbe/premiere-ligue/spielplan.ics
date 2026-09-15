@@ -1218,10 +1218,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1585128@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Lyon – Lens
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1585128.ht
  ml
@@ -1229,10 +1229,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580991@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Paris FC – Le Havre
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 LOCATION:Stade Charlety\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580991.ht
  ml
@@ -1240,10 +1240,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580990@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:FC Fleury 91 – Marseille
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 LOCATION:Terrain Walter Felder\, Fleury Merogis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580990.ht
  ml
@@ -1251,10 +1251,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580992@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Strasbourg – Montpellier
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 LOCATION:Stade de la Meinau\, Strasbourg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580992.ht
  ml
@@ -1262,20 +1262,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581031@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Saint-Malo – Paris Saint Germain
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581031.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581032@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Toulouse – Nantes
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581032.ht
  ml
 END:VEVENT
@@ -1345,10 +1345,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580998@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Lyon – Montpellier
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580998.ht
  ml
@@ -1356,10 +1356,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581035@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Paris FC – Saint-Malo
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Stade Charlety\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581035.ht
  ml
@@ -1367,10 +1367,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580996@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:FC Fleury 91 – Nantes
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Terrain Walter Felder\, Fleury Merogis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580996.ht
  ml
@@ -1378,20 +1378,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580997@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Le Havre – Paris Saint Germain
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580997.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1585130@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Lens – Marseille
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Degouve-Brabant Stadium\, Arras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1585130.ht
  ml
@@ -1399,10 +1399,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581036@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:Toulouse – Strasbourg
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581036.ht
  ml
 END:VEVENT

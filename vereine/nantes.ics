@@ -215,10 +215,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581032@anstoss
 DTSTAMP:20270407T150000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T150000Z
+DTEND:20270407T170000Z
 SUMMARY:Toulouse – Nantes
-DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581032.ht
  ml
 END:VEVENT
@@ -236,10 +236,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580996@anstoss
 DTSTAMP:20270504T150000Z
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T150000Z
+DTEND:20270504T170000Z
 SUMMARY:FC Fleury 91 – Nantes
-DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 22. Spieltag
 LOCATION:Terrain Walter Felder\, Fleury Merogis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580996.ht
  ml

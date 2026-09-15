@@ -124,10 +124,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1627669@anstoss
 DTSTAMP:20270220T130000Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
+DTSTART:20270220T130000Z
+DTEND:20270220T150000Z
 SUMMARY:Prague Raptors – Slovácko
-DESCRIPTION:1. Liga Women · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1. Liga Women · 12. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1627669.ht
  ml
 END:VEVENT

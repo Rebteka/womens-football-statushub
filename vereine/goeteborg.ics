@@ -274,10 +274,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1501529@anstoss
 DTSTAMP:20261114T120000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T120000Z
+DTEND:20261114T140000Z
 SUMMARY:Göteborg – Umeå
-DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Elitettan · 26. Spieltag
 LOCATION:Gamla Ullevi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501529.ht
  ml

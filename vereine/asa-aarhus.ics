@@ -170,10 +170,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582170@anstoss
 DTSTAMP:20261209T130000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTART:20261209T130000Z
+DTEND:20261209T150000Z
 SUMMARY:Fortuna Hjørring – ASA Aarhus
-DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 17. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582170.ht
  ml
 END:VEVENT

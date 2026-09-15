@@ -1264,10 +1264,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561042@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Nojima Stella – Sanfrecce Hiroshima
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:Sagamihara Gion Stadium\, Sagamihara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561042.ht
  ml
@@ -1275,10 +1275,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561043@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Omiya Ardija Ventus – Tokyo Verdy Beleza
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:NACK5 Stadium Omiya\, Saitama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561043.ht
  ml
@@ -1286,10 +1286,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561044@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Urawa Reds – Parceiro Nagano
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:Urawa Komaba Stadium\, Saitama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561044.ht
  ml
@@ -1297,10 +1297,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561039@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Albirex Niigata – INAC Kobe Leonessa
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:Denka Big Swan Stadium\, Niigata
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561039.ht
  ml
@@ -1308,10 +1308,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561041@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Vegalta Sendai – Elfen Saitama
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:Yurtec Stadium Sendai\, Sendai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561041.ht
  ml
@@ -1319,10 +1319,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561040@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Cerezo Osaka – JEF United
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:Yodoko Sakura Stadium\, Osaka
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561040.ht
  ml
@@ -1330,10 +1330,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561050@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:Elfen Saitama – Cerezo Osaka
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Kumagaya Athletic Stadium\, Saitama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561050.ht
  ml
@@ -1341,10 +1341,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561046@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:INAC Kobe Leonessa – Urawa Reds
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Noevir Stadium\, Kobe
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561046.ht
  ml
@@ -1352,10 +1352,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561048@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:Nojima Stella – JEF United
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Sagamihara Gion Stadium\, Sagamihara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561048.ht
  ml
@@ -1363,10 +1363,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561045@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:Tokyo Verdy Beleza – Sanfrecce Hiroshima
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Ajinomoto Stadium\, Tokyo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561045.ht
  ml
@@ -1374,10 +1374,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561049@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:Parceiro Nagano – Albirex Niigata
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Nagano U Stadium\, Nagano
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561049.ht
  ml
@@ -1385,10 +1385,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561047@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:Vegalta Sendai – Omiya Ardija Ventus
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Yurtec Stadium Sendai\, Sendai
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561047.ht
  ml

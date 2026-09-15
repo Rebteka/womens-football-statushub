@@ -285,10 +285,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495609@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Hammarby – Kristianstad
-DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Damallsvenskan · 26. Spieltag
 LOCATION:Hammarby IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495609.ht
  ml

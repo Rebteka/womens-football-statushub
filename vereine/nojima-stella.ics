@@ -219,10 +219,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561042@anstoss
 DTSTAMP:20270429T090000Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270430
+DTSTART:20270429T090000Z
+DTEND:20270429T110000Z
 SUMMARY:Nojima Stella – Sanfrecce Hiroshima
-DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 20. Spieltag
 LOCATION:Sagamihara Gion Stadium\, Sagamihara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561042.ht
  ml
@@ -230,10 +230,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1561048@anstoss
 DTSTAMP:20270509T090000Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T090000Z
+DTEND:20270509T110000Z
 SUMMARY:Nojima Stella – JEF United
-DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+DESCRIPTION:WE League · 21. Spieltag
 LOCATION:Sagamihara Gion Stadium\, Sagamihara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1561048.ht
  ml
