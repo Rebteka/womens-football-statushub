@@ -1,0 +1,745 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Olympics Women - Qualification Asia 2023/24
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1007671@anstoss
+DTSTAMP:20230401T100000Z
+DTSTART:20230401T100000Z
+DTEND:20230401T120000Z
+SUMMARY:Singapore – Thailand 0:6
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Chonburi UTA Stadium\, Chonburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007671.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007658@anstoss
+DTSTAMP:20230403T000000Z
+DTSTART:20230403T000000Z
+DTEND:20230403T020000Z
+SUMMARY:Thailand – Sri Lanka
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007658.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007657@anstoss
+DTSTAMP:20230403T000000Z
+DTSTART:20230403T000000Z
+DTEND:20230403T020000Z
+SUMMARY:Nepal – Palestine
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007657.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007656@anstoss
+DTSTAMP:20230403T000000Z
+DTSTART:20230403T000000Z
+DTEND:20230403T020000Z
+SUMMARY:Afghanistan – Vietnam
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007656.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007659@anstoss
+DTSTAMP:20230404T100000Z
+DTSTART:20230404T100000Z
+DTEND:20230404T120000Z
+SUMMARY:Mongolia – Singapore 2:2
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Chonburi UTA Stadium\, Chonburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007663@anstoss
+DTSTAMP:20230404T140000Z
+DTSTART:20230404T140000Z
+DTEND:20230404T160000Z
+SUMMARY:Turkmenistan – India
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Stadion im. Dolena Omurzakova\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007663.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1019131@anstoss
+DTSTAMP:20230404T140000Z
+DTSTART:20230404T140000Z
+DTEND:20230404T160000Z
+SUMMARY:Kyrgyz Republic – India 0:5
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Stadion im. Dolena Omurzakova\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1019131.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007668@anstoss
+DTSTAMP:20230405T000000Z
+DTSTART:20230405T000000Z
+DTEND:20230405T020000Z
+SUMMARY:Nepal – Afghanistan
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007668.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007669@anstoss
+DTSTAMP:20230405T000000Z
+DTSTART:20230405T000000Z
+DTEND:20230405T020000Z
+SUMMARY:Palestine – Vietnam
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007669.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007670@anstoss
+DTSTAMP:20230405T000000Z
+DTSTART:20230405T000000Z
+DTEND:20230405T020000Z
+SUMMARY:Sri Lanka – Mongolia
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007670.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007655@anstoss
+DTSTAMP:20230405T090000Z
+DTSTART:20230405T090000Z
+DTEND:20230405T110000Z
+SUMMARY:Iran – Bangladesh
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007655.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1020713@anstoss
+DTSTAMP:20230405T093000Z
+DTSTART:20230405T093000Z
+DTEND:20230405T113000Z
+SUMMARY:Iran – Myanmar 1:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1020713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007653@anstoss
+DTSTAMP:20230405T100000Z
+DTSTART:20230405T100000Z
+DTEND:20230405T120000Z
+SUMMARY:Jordan – Timor-Leste 3:1
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Paxtakor Markaziy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007660@anstoss
+DTSTAMP:20230405T110000Z
+DTSTART:20230405T110000Z
+DTEND:20230405T130000Z
+SUMMARY:Philippines – Pakistan 4:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007662@anstoss
+DTSTAMP:20230405T113000Z
+DTSTART:20230405T113000Z
+DTEND:20230405T133000Z
+SUMMARY:Lebanon – Chinese Taipei 1:5
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Fouad Shehab Stadium\, Jounie
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007654@anstoss
+DTSTAMP:20230405T120000Z
+DTSTART:20230405T120000Z
+DTEND:20230405T140000Z
+SUMMARY:Myanmar – Maldives
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007654.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007652@anstoss
+DTSTAMP:20230405T120000Z
+DTSTART:20230405T120000Z
+DTEND:20230405T140000Z
+SUMMARY:Uzbekistan – Bhutan 9:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1017017@anstoss
+DTSTAMP:20230405T121500Z
+DTSTART:20230405T121500Z
+DTEND:20230405T141500Z
+SUMMARY:Nepal – Vietnam 1:5
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Dashrath Rangasala\, Kathmandu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1017017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007661@anstoss
+DTSTAMP:20230405T140000Z
+DTSTART:20230405T140000Z
+DTEND:20230405T160000Z
+SUMMARY:Hong Kong – Tajikistan 3:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007682@anstoss
+DTSTAMP:20230407T100000Z
+DTSTART:20230407T100000Z
+DTEND:20230407T120000Z
+SUMMARY:Thailand – Mongolia 6:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Chonburi UTA Stadium\, Chonburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007682.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007675@anstoss
+DTSTAMP:20230407T140000Z
+DTSTART:20230407T140000Z
+DTEND:20230407T160000Z
+SUMMARY:Kyrgyz Republic – Turkmenistan
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Stadion im. Dolena Omurzakova\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007675.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007687@anstoss
+DTSTAMP:20230407T140000Z
+DTSTART:20230407T140000Z
+DTEND:20230407T160000Z
+SUMMARY:India – Kyrgyz Republic 4:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Stadion im. Dolena Omurzakova\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007687.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007681@anstoss
+DTSTAMP:20230408T000000Z
+DTSTART:20230408T000000Z
+DTEND:20230408T020000Z
+SUMMARY:Palestine – Afghanistan
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007681.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007683@anstoss
+DTSTAMP:20230408T000000Z
+DTSTART:20230408T000000Z
+DTEND:20230408T020000Z
+SUMMARY:Singapore – Sri Lanka
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007683.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007666@anstoss
+DTSTAMP:20230408T090000Z
+DTSTART:20230408T090000Z
+DTEND:20230408T110000Z
+SUMMARY:Maldives – Iran
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007666.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007678@anstoss
+DTSTAMP:20230408T093000Z
+DTSTART:20230408T093000Z
+DTEND:20230408T113000Z
+SUMMARY:Myanmar – Iran 1:1
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007678.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007664@anstoss
+DTSTAMP:20230408T100000Z
+DTSTART:20230408T100000Z
+DTEND:20230408T120000Z
+SUMMARY:Bhutan – Jordan 2:1
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Paxtakor Markaziy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007664.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007672@anstoss
+DTSTAMP:20230408T110000Z
+DTSTART:20230408T110000Z
+DTEND:20230408T130000Z
+SUMMARY:Pakistan – Hong Kong 0:2
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007672.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007674@anstoss
+DTSTAMP:20230408T113000Z
+DTSTART:20230408T113000Z
+DTEND:20230408T133000Z
+SUMMARY:Indonesia – Lebanon 0:5
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Fouad Shehab Stadium\, Jounie
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007674.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007667@anstoss
+DTSTAMP:20230408T120000Z
+DTSTART:20230408T120000Z
+DTEND:20230408T140000Z
+SUMMARY:Bangladesh – Myanmar
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007667.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007665@anstoss
+DTSTAMP:20230408T120000Z
+DTSTART:20230408T120000Z
+DTEND:20230408T140000Z
+SUMMARY:Timor-Leste – Uzbekistan 0:3
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007680@anstoss
+DTSTAMP:20230408T121500Z
+DTSTART:20230408T121500Z
+DTEND:20230408T141500Z
+SUMMARY:Vietnam – Nepal 2:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Dashrath Rangasala\, Kathmandu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007680.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007673@anstoss
+DTSTAMP:20230408T140000Z
+DTSTART:20230408T140000Z
+DTEND:20230408T160000Z
+SUMMARY:Tajikistan – Philippines 0:8
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007673.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007679@anstoss
+DTSTAMP:20230411T090000Z
+DTSTART:20230411T090000Z
+DTEND:20230411T110000Z
+SUMMARY:Bangladesh – Maldives
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007679.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007677@anstoss
+DTSTAMP:20230411T100000Z
+DTSTART:20230411T100000Z
+DTEND:20230411T120000Z
+SUMMARY:Timor-Leste – Bhutan 1:3
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Paxtakor Markaziy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007677.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007684@anstoss
+DTSTAMP:20230411T110000Z
+DTSTART:20230411T110000Z
+DTEND:20230411T130000Z
+SUMMARY:Philippines – Hong Kong 4:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007684.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007686@anstoss
+DTSTAMP:20230411T113000Z
+DTSTART:20230411T113000Z
+DTEND:20230411T133000Z
+SUMMARY:Chinese Taipei – Indonesia 4:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Fouad Shehab Stadium\, Jounie
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007676@anstoss
+DTSTAMP:20230411T120000Z
+DTSTART:20230411T120000Z
+DTEND:20230411T140000Z
+SUMMARY:Uzbekistan – Jordan 7:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007676.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007685@anstoss
+DTSTAMP:20230411T140000Z
+DTSTART:20230411T140000Z
+DTEND:20230411T160000Z
+SUMMARY:Tajikistan – Pakistan 0:1
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007685.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027918@anstoss
+DTSTAMP:20231026T073000Z
+DTSTART:20231026T073000Z
+DTEND:20231026T093000Z
+SUMMARY:Südkorea – Thailand 10:1
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027916@anstoss
+DTSTAMP:20231026T080000Z
+DTSTART:20231026T080000Z
+DTEND:20231026T100000Z
+SUMMARY:Chinese Taipei – Philippines 1:4
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027919@anstoss
+DTSTAMP:20231026T100000Z
+DTSTART:20231026T100000Z
+DTEND:20231026T120000Z
+SUMMARY:Japan – India 7:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:Stadion Lokomotiv\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027919.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027915@anstoss
+DTSTAMP:20231026T110000Z
+DTSTART:20231026T110000Z
+DTEND:20231026T130000Z
+SUMMARY:Australien – Iran 2:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027917@anstoss
+DTSTAMP:20231026T113500Z
+DTSTART:20231026T113500Z
+DTEND:20231026T133500Z
+SUMMARY:China – Korea DPR 1:2
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027920@anstoss
+DTSTAMP:20231026T120000Z
+DTSTART:20231026T120000Z
+DTEND:20231026T140000Z
+SUMMARY:Vietnam – Uzbekistan 0:1
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027920.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034481@anstoss
+DTSTAMP:20231029T071000Z
+DTSTART:20231029T071000Z
+DTEND:20231029T091000Z
+SUMMARY:Philippines – Australien 0:8
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034482@anstoss
+DTSTAMP:20231029T073000Z
+DTSTART:20231029T073000Z
+DTEND:20231029T093000Z
+SUMMARY:Korea DPR – Südkorea 0:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034484@anstoss
+DTSTAMP:20231029T100000Z
+DTSTART:20231029T100000Z
+DTEND:20231029T120000Z
+SUMMARY:India – Vietnam 1:3
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Stadion Lokomotiv\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034480@anstoss
+DTSTAMP:20231029T101000Z
+DTSTART:20231029T101000Z
+DTEND:20231029T121000Z
+SUMMARY:Iran – Chinese Taipei 0:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034483@anstoss
+DTSTAMP:20231029T113500Z
+DTSTART:20231029T113500Z
+DTEND:20231029T133500Z
+SUMMARY:Thailand – China 0:3
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034485@anstoss
+DTSTAMP:20231029T120000Z
+DTSTART:20231029T120000Z
+DTEND:20231029T140000Z
+SUMMARY:Uzbekistan – Japan 0:2
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034489@anstoss
+DTSTAMP:20231101T073000Z
+DTSTART:20231101T073000Z
+DTEND:20231101T093000Z
+SUMMARY:Thailand – Korea DPR 0:7
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034487@anstoss
+DTSTAMP:20231101T075000Z
+DTSTART:20231101T075000Z
+DTEND:20231101T095000Z
+SUMMARY:Philippines – Iran 1:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034490@anstoss
+DTSTAMP:20231101T100000Z
+DTSTART:20231101T100000Z
+DTEND:20231101T120000Z
+SUMMARY:Japan – Vietnam 2:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:Stadion Lokomotiv\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034486@anstoss
+DTSTAMP:20231101T110000Z
+DTSTART:20231101T110000Z
+DTEND:20231101T130000Z
+SUMMARY:Australien – Chinese Taipei 3:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034488@anstoss
+DTSTAMP:20231101T113500Z
+DTSTART:20231101T113500Z
+DTEND:20231101T133500Z
+SUMMARY:China – Südkorea 1:1
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034491@anstoss
+DTSTAMP:20231101T120000Z
+DTSTART:20231101T120000Z
+DTEND:20231101T140000Z
+SUMMARY:Uzbekistan – India 3:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178542@anstoss
+DTSTAMP:20240224T090000Z
+DTSTART:20240224T090000Z
+DTEND:20240224T110000Z
+SUMMARY:Uzbekistan – Australien 0:3
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178542.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178544@anstoss
+DTSTAMP:20240224T130400Z
+DTSTART:20240224T130400Z
+DTEND:20240224T150400Z
+SUMMARY:Korea DPR – Japan 0:0
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Prince Abdullah al-Faisal Stadium\, Jeddah
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178543@anstoss
+DTSTAMP:20240228T090000Z
+DTSTART:20240228T090000Z
+DTEND:20240228T110000Z
+SUMMARY:Australien – Uzbekistan 10:0
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Marvel Stadium\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178545@anstoss
+DTSTAMP:20240228T093400Z
+DTSTART:20240228T093400Z
+DTEND:20240228T113400Z
+SUMMARY:Japan – Korea DPR 2:1
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Japan National Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178545.ht
+ ml
+END:VEVENT
+END:VCALENDAR

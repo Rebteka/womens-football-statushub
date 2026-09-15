@@ -217,6 +217,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495559.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1636793@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Örebro SK – Eskilstuna United
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636793.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495566@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z

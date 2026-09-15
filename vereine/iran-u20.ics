@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Iran U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424265@anstoss
+DTSTAMP:20250806T124500Z
+DTSTART:20250806T124500Z
+DTEND:20250806T144500Z
+SUMMARY:Iran U20 – Malaysia U20 3:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424265.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424293@anstoss
+DTSTAMP:20250808T084500Z
+DTSTART:20250808T084500Z
+DTEND:20250808T104500Z
+SUMMARY:Guam U20 – Iran U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424280@anstoss
+DTSTAMP:20250810T084500Z
+DTSTART:20250810T084500Z
+DTEND:20250810T104500Z
+SUMMARY:Japan U20 – Iran U20 11:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604186@anstoss
+DTSTAMP:20260721T164500Z
+DTSTART:20260721T164500Z
+DTEND:20260721T184500Z
+SUMMARY:Tajikistan U20 – Iran U20 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604188@anstoss
+DTSTAMP:20260723T130000Z
+DTSTART:20260723T130000Z
+DTEND:20260723T150000Z
+SUMMARY:Iran U20 – Uzbekistan U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604188.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604192@anstoss
+DTSTAMP:20260725T130000Z
+DTSTART:20260725T130000Z
+DTEND:20260725T150000Z
+SUMMARY:Kyrgyzstan – Iran U20 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604192.ht
+ ml
+END:VEVENT
+END:VCALENDAR

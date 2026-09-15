@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chile U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1516480@anstoss
+DTSTAMP:20260204T210000Z
+DTSTART:20260204T210000Z
+DTEND:20260204T230000Z
+SUMMARY:Paraguay U20 – Chile U20 4:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516484@anstoss
+DTSTAMP:20260206T210000Z
+DTSTART:20260206T210000Z
+DTEND:20260206T230000Z
+SUMMARY:Chile U20 – Colombia U20 0:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516488@anstoss
+DTSTAMP:20260208T210000Z
+DTSTART:20260208T210000Z
+DTEND:20260208T230000Z
+SUMMARY:Chile U20 – Uruguay U20 0:1
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516497@anstoss
+DTSTAMP:20260212T210000Z
+DTSTART:20260212T210000Z
+DTEND:20260212T230000Z
+SUMMARY:Venezuela U20 – Chile U20 0:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637471@anstoss
+DTSTAMP:20260908T150000Z
+DTSTART:20260908T150000Z
+DTEND:20260908T170000Z
+SUMMARY:Chile U20 – Uruguay U20 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637472@anstoss
+DTSTAMP:20260910T130000Z
+DTSTART:20260910T130000Z
+DTEND:20260910T150000Z
+SUMMARY:Chile U20 – Uruguay U20 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637472.ht
+ ml
+END:VEVENT
+END:VCALENDAR

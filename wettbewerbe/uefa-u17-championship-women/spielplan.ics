@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UEFA U17 Championship - Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543317@anstoss
+DTSTAMP:20260504T140000Z
+DTSTART:20260504T140000Z
+DTEND:20260504T160000Z
+SUMMARY:Northern Ireland U17 – England U17 0:2
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543318@anstoss
+DTSTAMP:20260504T170000Z
+DTSTART:20260504T170000Z
+DTEND:20260504T190000Z
+SUMMARY:Norway U17 – Germany U17 1:3
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543319@anstoss
+DTSTAMP:20260505T140000Z
+DTSTART:20260505T140000Z
+DTEND:20260505T160000Z
+SUMMARY:France U17 – Poland U17 5:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543320@anstoss
+DTSTAMP:20260505T170000Z
+DTSTART:20260505T170000Z
+DTEND:20260505T190000Z
+SUMMARY:Spain U17 – Finland U17 4:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543321@anstoss
+DTSTAMP:20260507T140000Z
+DTSTART:20260507T140000Z
+DTEND:20260507T160000Z
+SUMMARY:Germany U17 – England U17 1:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543322@anstoss
+DTSTAMP:20260507T170000Z
+DTSTART:20260507T170000Z
+DTEND:20260507T190000Z
+SUMMARY:Northern Ireland U17 – Norway U17 0:3
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543323@anstoss
+DTSTAMP:20260508T140000Z
+DTSTART:20260508T140000Z
+DTEND:20260508T160000Z
+SUMMARY:France U17 – Spain U17 1:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543324@anstoss
+DTSTAMP:20260508T170000Z
+DTSTART:20260508T170000Z
+DTEND:20260508T190000Z
+SUMMARY:Finland U17 – Poland U17 0:1
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543325@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:England U17 – Norway U17 1:1
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543326@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:Germany U17 – Northern Ireland U17 0:1
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543328@anstoss
+DTSTAMP:20260511T140000Z
+DTSTART:20260511T140000Z
+DTEND:20260511T160000Z
+SUMMARY:Poland U17 – Spain U17 1:4
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543327@anstoss
+DTSTAMP:20260511T140000Z
+DTSTART:20260511T140000Z
+DTEND:20260511T160000Z
+SUMMARY:Finland U17 – France U17 1:4
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544820@anstoss
+DTSTAMP:20260514T130000Z
+DTSTART:20260514T130000Z
+DTEND:20260514T150000Z
+SUMMARY:France U17 – Norway U17 1:1
+DESCRIPTION:UEFA U17 Championship - Women · Halbfinale
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544864@anstoss
+DTSTAMP:20260514T150000Z
+DTSTART:20260514T150000Z
+DTEND:20260514T170000Z
+SUMMARY:England U17 – Poland U17 0:2
+DESCRIPTION:UEFA U17 Championship - Women · Finale
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544863@anstoss
+DTSTAMP:20260514T170000Z
+DTSTART:20260514T170000Z
+DTEND:20260514T190000Z
+SUMMARY:Germany U17 – Spain U17 0:0
+DESCRIPTION:UEFA U17 Championship - Women · Halbfinale
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545171@anstoss
+DTSTAMP:20260517T170000Z
+DTSTART:20260517T170000Z
+DTEND:20260517T190000Z
+SUMMARY:Germany U17 – France U17 1:0
+DESCRIPTION:UEFA U17 Championship - Women · Finale
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545171.ht
+ ml
+END:VEVENT
+END:VCALENDAR

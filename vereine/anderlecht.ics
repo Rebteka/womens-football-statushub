@@ -8,6 +8,29 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1626955@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Anderlecht – Feyenoord 2:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626970@anstoss
+DTSTAMP:20260902T170000Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Feyenoord – Anderlecht 3:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Sportcomplex Varkenoord 1\, Rotterdam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1557286@anstoss
 DTSTAMP:20260905T170000Z
 DTSTART:20260905T170000Z

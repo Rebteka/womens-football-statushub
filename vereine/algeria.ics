@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Algeria
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1528259@anstoss
+DTSTAMP:20260228T184500Z
+DTSTART:20260228T184500Z
+DTEND:20260228T204500Z
+SUMMARY:Egypt – Algeria 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1528260@anstoss
+DTSTAMP:20260302T193000Z
+DTSTART:20260302T193000Z
+DTEND:20260302T213000Z
+SUMMARY:Egypt – Algeria 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539390@anstoss
+DTSTAMP:20260414T130000Z
+DTSTART:20260414T130000Z
+DTEND:20260414T150000Z
+SUMMARY:South Africa – Algeria 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540809@anstoss
+DTSTAMP:20260417T130000Z
+DTSTART:20260417T130000Z
+DTEND:20260417T150000Z
+SUMMARY:South Africa – Algeria 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540809.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586121@anstoss
+DTSTAMP:20260719T170000Z
+DTSTART:20260719T170000Z
+DTEND:20260719T190000Z
+SUMMARY:Algeria – Zambia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586122@anstoss
+DTSTAMP:20260722T170000Z
+DTSTART:20260722T170000Z
+DTEND:20260722T190000Z
+SUMMARY:Algeria – Zambia 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600198@anstoss
+DTSTAMP:20260726T170000Z
+DTSTART:20260726T170000Z
+DTEND:20260726T190000Z
+SUMMARY:Algeria – Senegal 2:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade Olympique de Rabat\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600198.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600207@anstoss
+DTSTAMP:20260730T200000Z
+DTSTART:20260730T200000Z
+DTEND:20260730T220000Z
+SUMMARY:Morocco – Algeria 1:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600214@anstoss
+DTSTAMP:20260803T200000Z
+DTSTART:20260803T200000Z
+DTEND:20260803T220000Z
+SUMMARY:Kenya – Algeria 0:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600214.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611360@anstoss
+DTSTAMP:20260808T170000Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:Ivory Coast – Algeria 1:2
+DESCRIPTION:Africa Cup of Nations - Women · Viertelfinale
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619530@anstoss
+DTSTAMP:20260812T170000Z
+DTSTART:20260812T170000Z
+DTEND:20260812T190000Z
+SUMMARY:Algeria – Malawi 1:3
+DESCRIPTION:Africa Cup of Nations - Women · Halbfinale
+LOCATION:Stade Mustapha Tchaker\, Bulida
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623381@anstoss
+DTSTAMP:20260815T170000Z
+DTSTART:20260815T170000Z
+DTEND:20260815T190000Z
+SUMMARY:Morocco – Algeria 1:1
+DESCRIPTION:Africa Cup of Nations - Women · Spiel um Platz 3
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623381.ht
+ ml
+END:VEVENT
+END:VCALENDAR

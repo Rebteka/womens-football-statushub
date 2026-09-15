@@ -109,6 +109,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1575071.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638396@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Ajax – Aktobe
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1575076@anstoss
 DTSTAMP:20260926T143000Z
 DTSTART:20260926T143000Z
@@ -117,6 +127,16 @@ SUMMARY:Ajax – ADO Den Haag
 DESCRIPTION:Eredivisie Women · 6. Spieltag
 LOCATION:Sportcomplex De Toekomst\, Ouder-Amstel
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1575076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638412@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Aktobe – Ajax
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638412.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

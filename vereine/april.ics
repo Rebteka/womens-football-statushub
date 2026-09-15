@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:April
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578023@anstoss
+DTSTAMP:20260817T090000Z
+DTSTART:20260817T090000Z
+DTEND:20260817T110000Z
+SUMMARY:April – Kharaatsai 13:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578046@anstoss
+DTSTAMP:20260820T090000Z
+DTSTART:20260820T090000Z
+DTEND:20260820T110000Z
+SUMMARY:S'Amuser – April 0:12
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578050@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:BGC Asian Scholars – April 1:4
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578050.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638222@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Hwacheon KSPO – April
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638226@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:April – Hồ Chí Minh City
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638226.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638232@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:East Bengal – April
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638232.ht
+ ml
+END:VEVENT
+END:VCALENDAR

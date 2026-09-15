@@ -8,6 +8,122 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193199@anstoss
+DTSTAMP:20240405T110000Z
+DTSTART:20240405T110000Z
+DTEND:20240405T130000Z
+SUMMARY:Kazakhstan – Bulgaria 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stadïon Akademïï T.S.Segïzbaeva\, Almaty
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193211@anstoss
+DTSTAMP:20240409T150000Z
+DTSTART:20240409T150000Z
+DTEND:20240409T170000Z
+SUMMARY:Bulgaria – Armenia 2:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193211.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193222@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Rumänien – Bulgaria 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Stadionul Arcul de Triumf\, București
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193232@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Bulgaria – Rumänien 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193232.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193242@anstoss
+DTSTAMP:20240712T154500Z
+DTSTART:20240712T154500Z
+DTEND:20240712T174500Z
+SUMMARY:Armenia – Bulgaria 1:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Vazgen Sargsyan anvan Hanrapetakan Marzadasht\, Yerevan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193242.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193251@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Bulgaria – Kazakhstan 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193251.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315860@anstoss
+DTSTAMP:20250221T123000Z
+DTSTART:20250221T123000Z
+DTEND:20250221T143000Z
+SUMMARY:Bulgaria – Israel 1:3
+DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315860.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315878@anstoss
+DTSTAMP:20250404T160000Z
+DTSTART:20250404T160000Z
+DTEND:20250404T180000Z
+SUMMARY:Estonia – Bulgaria 0:0
+DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+LOCATION:A. Le Coq Arena\, Tallinn
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315878.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315887@anstoss
+DTSTAMP:20250408T110000Z
+DTSTART:20250408T110000Z
+DTEND:20250408T130000Z
+SUMMARY:Israel – Bulgaria 3:3
+DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+LOCATION:Árok utcai pálya\, Budaörs
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315887.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315905@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Bulgaria – Estonia 0:1
+DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523829@anstoss
 DTSTAMP:20260303T100000Z
 DTSTART:20260303T100000Z

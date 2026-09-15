@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:France U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1521031@anstoss
+DTSTAMP:20260218T120000Z
+DTSTART:20260218T120000Z
+DTEND:20260218T140000Z
+SUMMARY:France U17 – Netherlands U17 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543319@anstoss
+DTSTAMP:20260505T140000Z
+DTSTART:20260505T140000Z
+DTEND:20260505T160000Z
+SUMMARY:France U17 – Poland U17 5:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543323@anstoss
+DTSTAMP:20260508T140000Z
+DTSTART:20260508T140000Z
+DTEND:20260508T160000Z
+SUMMARY:France U17 – Spain U17 1:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543327@anstoss
+DTSTAMP:20260511T140000Z
+DTSTART:20260511T140000Z
+DTEND:20260511T160000Z
+SUMMARY:Finland U17 – France U17 1:4
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544820@anstoss
+DTSTAMP:20260514T130000Z
+DTSTART:20260514T130000Z
+DTEND:20260514T150000Z
+SUMMARY:France U17 – Norway U17 1:1
+DESCRIPTION:UEFA U17 Championship - Women · Halbfinale
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545171@anstoss
+DTSTAMP:20260517T170000Z
+DTSTART:20260517T170000Z
+DTEND:20260517T190000Z
+SUMMARY:Germany U17 – France U17 1:0
+DESCRIPTION:UEFA U17 Championship - Women · Finale
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545171.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546119@anstoss
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:France U17 – Venezuela U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546129@anstoss
+DTSTAMP:20261021T140000Z
+DTSTART:20261021T140000Z
+DTEND:20261021T160000Z
+SUMMARY:Japan U17 – France U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546129.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588915@anstoss
+DTSTAMP:20261024T170000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+SUMMARY:Zambia U17 – France U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588915.ht
+ ml
+END:VEVENT
+END:VCALENDAR

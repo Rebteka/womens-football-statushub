@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Botswana
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140634@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Tanzania – Botswana 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Azam Complex Stadium\, Mbagala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140634.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140635@anstoss
+DTSTAMP:20231031T160000Z
+DTSTART:20231031T160000Z
+DTEND:20231031T180000Z
+SUMMARY:Botswana – Tanzania 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Botswana National Stadium\, Gaborone
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540254@anstoss
+DTSTAMP:20260410T160000Z
+DTSTART:20260410T160000Z
+DTEND:20260410T180000Z
+SUMMARY:Saudi-Arabien – Botswana 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540591@anstoss
+DTSTAMP:20260412T150000Z
+DTSTART:20260412T150000Z
+DTEND:20260412T170000Z
+SUMMARY:Saudi Arabia U20 – Botswana 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540591.ht
+ ml
+END:VEVENT
+END:VCALENDAR

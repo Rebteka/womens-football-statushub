@@ -8,6 +8,144 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193156@anstoss
+DTSTAMP:20240405T180000Z
+DTSTART:20240405T180000Z
+DTEND:20240405T200000Z
+SUMMARY:Nordirland – Malta 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193164@anstoss
+DTSTAMP:20240409T163000Z
+DTSTART:20240409T163000Z
+DTEND:20240409T183000Z
+SUMMARY:Malta – Portugal 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:MFA Centenary Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193164.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193171@anstoss
+DTSTAMP:20240531T173000Z
+DTSTART:20240531T173000Z
+DTEND:20240531T193000Z
+SUMMARY:Malta – Bosnia-Herzegovina 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:MFA Centenary Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193171.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193182@anstoss
+DTSTAMP:20240604T140000Z
+DTSTART:20240604T140000Z
+DTEND:20240604T160000Z
+SUMMARY:Bosnia-Herzegovina – Malta 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193182.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193188@anstoss
+DTSTAMP:20240712T173000Z
+DTSTART:20240712T173000Z
+DTEND:20240712T193000Z
+SUMMARY:Malta – Nordirland 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:MFA Centenary Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193188.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193195@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Portugal – Malta 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Estádio Dr. Magalhães Pessoa\, Leiria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193195.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315855@anstoss
+DTSTAMP:20250221T170000Z
+DTSTART:20250221T170000Z
+DTEND:20250221T190000Z
+SUMMARY:Cyprus – Malta 2:1
+DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+LOCATION:AEK Arena\, Larnaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315855.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315865@anstoss
+DTSTAMP:20250225T183000Z
+DTSTART:20250225T183000Z
+DTEND:20250225T203000Z
+SUMMARY:Malta – Andorra 1:0
+DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315874@anstoss
+DTSTAMP:20250404T150000Z
+DTSTART:20250404T150000Z
+DTEND:20250404T170000Z
+SUMMARY:Georgia – Malta 2:3
+DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315883@anstoss
+DTSTAMP:20250408T170000Z
+DTSTART:20250408T170000Z
+DTEND:20250408T190000Z
+SUMMARY:Malta – Georgia 2:1
+DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315883.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315892@anstoss
+DTSTAMP:20250530T170000Z
+DTSTART:20250530T170000Z
+DTEND:20250530T190000Z
+SUMMARY:Malta – Cyprus 1:0
+DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+LOCATION:Ta'Qali National Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315900@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Andorra – Malta 0:0
+DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+LOCATION:Nou Estadi Encamp\, Encamp
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523822@anstoss
 DTSTAMP:20260303T140000Z
 DTSTART:20260303T140000Z

@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canada U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205389@anstoss
+DTSTAMP:20240831T200000Z
+DTSTART:20240831T200000Z
+DTEND:20240831T220000Z
+SUMMARY:France U20 – Canada U20 3:3
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Atanasio Girardot\, Medellín
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205403@anstoss
+DTSTAMP:20240904T010000Z
+DTSTART:20240904T010000Z
+DTEND:20240904T030000Z
+SUMMARY:Fiji U20 – Canada U20 0:9
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Atanasio Girardot\, Medellín
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205413@anstoss
+DTSTAMP:20240907T010000Z
+DTSTART:20240907T010000Z
+DTEND:20240907T030000Z
+SUMMARY:Canada U20 – Brazil U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1304030@anstoss
+DTSTAMP:20240911T213000Z
+DTSTART:20240911T213000Z
+DTEND:20240911T233000Z
+SUMMARY:Spain U20 – Canada U20 2:1
+DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1304030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367132@anstoss
+DTSTAMP:20250529T170000Z
+DTSTART:20250529T170000Z
+DTEND:20250529T190000Z
+SUMMARY:Canada U20 – Panama W U20 7:1
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367136@anstoss
+DTSTAMP:20250531T170000Z
+DTSTART:20250531T170000Z
+DTEND:20250531T190000Z
+SUMMARY:Nicaragua U20 – Canada U20 1:4
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367141@anstoss
+DTSTAMP:20250602T200000Z
+DTSTART:20250602T200000Z
+DTEND:20250602T220000Z
+SUMMARY:Mexico U20 – Canada U20 4:2
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1377700@anstoss
+DTSTAMP:20250608T173000Z
+DTSTART:20250608T173000Z
+DTEND:20250608T193000Z
+SUMMARY:Mexico U20 – Canada U20 2:3
+DESCRIPTION:CONCACAF Women U20 · Play Offs
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1377700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539734@anstoss
+DTSTAMP:20260413T210000Z
+DTSTART:20260413T210000Z
+DTEND:20260413T230000Z
+SUMMARY:Costa Rica U20 – Canada U20 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539736@anstoss
+DTSTAMP:20260416T210000Z
+DTSTART:20260416T210000Z
+DTEND:20260416T230000Z
+SUMMARY:Costa Rica U20 – Canada U20 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539736.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548462@anstoss
+DTSTAMP:20260603T160000Z
+DTSTART:20260603T160000Z
+DTEND:20260603T180000Z
+SUMMARY:England U20 – Canada U20 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550864@anstoss
+DTSTAMP:20260606T160000Z
+DTSTART:20260606T160000Z
+DTEND:20260606T180000Z
+SUMMARY:Canada U20 – Japan U20 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Enrique Roca\, Murcia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550864.ht
+ ml
+END:VEVENT
+END:VCALENDAR

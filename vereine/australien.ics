@@ -1,0 +1,308 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Australien
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013553@anstoss
+DTSTAMP:20230720T100000Z
+DTSTART:20230720T100000Z
+DTEND:20230720T120000Z
+SUMMARY:Australien – Republic of Ireland 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013575@anstoss
+DTSTAMP:20230727T100000Z
+DTSTART:20230727T100000Z
+DTEND:20230727T120000Z
+SUMMARY:Australien – Nigeria 2:3
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Suncorp Stadium\, Brisbane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013575.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013588@anstoss
+DTSTAMP:20230731T100000Z
+DTSTART:20230731T100000Z
+DTEND:20230731T120000Z
+SUMMARY:Kanada – Australien 0:4
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:AAMI Park\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013588.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1102839@anstoss
+DTSTAMP:20230807T103000Z
+DTSTART:20230807T103000Z
+DTEND:20230807T123000Z
+SUMMARY:Australien – Dänemark 2:0
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Stadium Australia\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1102839.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1113788@anstoss
+DTSTAMP:20230812T070000Z
+DTSTART:20230812T070000Z
+DTEND:20230812T090000Z
+SUMMARY:Australien – Frankreich 0:0
+DESCRIPTION:World Cup - Women · Viertelfinale
+LOCATION:Brisbane Stadium\, Brisbane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1113788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1117328@anstoss
+DTSTAMP:20230816T100000Z
+DTSTART:20230816T100000Z
+DTEND:20230816T120000Z
+SUMMARY:Australien – England 1:3
+DESCRIPTION:World Cup - Women · Halbfinale
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1117328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1119622@anstoss
+DTSTAMP:20230819T080000Z
+DTSTART:20230819T080000Z
+DTEND:20230819T100000Z
+SUMMARY:Schweden – Australien 2:0
+DESCRIPTION:World Cup - Women · Spiel um Platz 3
+LOCATION:Suncorp Stadium\, Brisbane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1119622.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027915@anstoss
+DTSTAMP:20231026T110000Z
+DTSTART:20231026T110000Z
+DTEND:20231026T130000Z
+SUMMARY:Australien – Iran 2:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034481@anstoss
+DTSTAMP:20231029T071000Z
+DTSTART:20231029T071000Z
+DTEND:20231029T091000Z
+SUMMARY:Philippines – Australien 0:8
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034486@anstoss
+DTSTAMP:20231101T110000Z
+DTSTART:20231101T110000Z
+DTEND:20231101T130000Z
+SUMMARY:Australien – Chinese Taipei 3:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178542@anstoss
+DTSTAMP:20240224T090000Z
+DTSTART:20240224T090000Z
+DTEND:20240224T110000Z
+SUMMARY:Uzbekistan – Australien 0:3
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Milliy Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178542.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178543@anstoss
+DTSTAMP:20240228T090000Z
+DTSTART:20240228T090000Z
+DTEND:20240228T110000Z
+SUMMARY:Australien – Uzbekistan 10:0
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Marvel Stadium\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187465@anstoss
+DTSTAMP:20240725T170000Z
+DTSTART:20240725T170000Z
+DTEND:20240725T190000Z
+SUMMARY:Deutschland – Australien 3:0
+DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194360@anstoss
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T190000Z
+SUMMARY:Australien – Zambia 6:5
+DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187472@anstoss
+DTSTAMP:20240731T170000Z
+DTSTART:20240731T170000Z
+DTEND:20240731T190000Z
+SUMMARY:Australien – USA 1:2
+DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516360@anstoss
+DTSTAMP:20260301T090000Z
+DTSTART:20260301T090000Z
+DTEND:20260301T110000Z
+SUMMARY:Australien – Philippines 1:0
+DESCRIPTION:Asian Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516367@anstoss
+DTSTAMP:20260305T090000Z
+DTSTART:20260305T090000Z
+DTEND:20260305T110000Z
+SUMMARY:Iran – Australien 0:4
+DESCRIPTION:Asian Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516372@anstoss
+DTSTAMP:20260308T090000Z
+DTSTART:20260308T090000Z
+DTEND:20260308T110000Z
+SUMMARY:Australien – Südkorea 3:3
+DESCRIPTION:Asian Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531616@anstoss
+DTSTAMP:20260313T100000Z
+DTSTART:20260313T100000Z
+DTEND:20260313T120000Z
+SUMMARY:Australien – Korea DPR 2:1
+DESCRIPTION:Asian Cup Women · Viertelfinale
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533880@anstoss
+DTSTAMP:20260317T100000Z
+DTSTART:20260317T100000Z
+DTEND:20260317T120000Z
+SUMMARY:China – Australien 1:2
+DESCRIPTION:Asian Cup Women · Halbfinale
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533880.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534913@anstoss
+DTSTAMP:20260321T090000Z
+DTSTART:20260321T090000Z
+DTEND:20260321T110000Z
+SUMMARY:Japan – Australien 1:0
+DESCRIPTION:Asian Cup Women · Finale
+LOCATION:Accor Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538881@anstoss
+DTSTAMP:20260411T110000Z
+DTSTART:20260411T110000Z
+DTEND:20260411T130000Z
+SUMMARY:Australien – Malawi 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540596@anstoss
+DTSTAMP:20260415T143000Z
+DTSTART:20260415T143000Z
+DTEND:20260415T163000Z
+SUMMARY:Kenya – Australien 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544316@anstoss
+DTSTAMP:20260606T091500Z
+DTSTART:20260606T091500Z
+DTEND:20260606T111500Z
+SUMMARY:Australien – Mexiko 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:McDonald Jones Stadium\, Newcastle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544317@anstoss
+DTSTAMP:20260609T090000Z
+DTSTART:20260609T090000Z
+DTEND:20260609T110000Z
+SUMMARY:Australien – Mexiko 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628973@anstoss
+DTSTAMP:20261009T183000Z
+DTSTART:20261009T183000Z
+DTEND:20261009T203000Z
+SUMMARY:Deutschland – Australien
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638588@anstoss
+DTSTAMP:20261128T083500Z
+DTSTART:20261128T083500Z
+DTEND:20261128T103500Z
+SUMMARY:Australien – Kolumbien
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638588.ht
+ ml
+END:VEVENT
+END:VCALENDAR

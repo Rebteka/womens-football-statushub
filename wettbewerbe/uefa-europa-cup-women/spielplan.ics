@@ -1,0 +1,607 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UEFA Europa Cup - Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1626954@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:Mitrovica – Metalist 1925 0:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadiumi Zahir Pajaziti\, Podujeve
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626950@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:SFK 2000 – Slovan Liberec 2:3
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626949@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:Apollon Limassol – FH 0:2
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626956@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:SeaSters Odesa – Rosenborg 1:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626971@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:Radomlje – Vålerenga 0:2
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626951@anstoss
+DTSTAMP:20260826T153000Z
+DTSTART:20260826T153000Z
+DTEND:20260826T173000Z
+SUMMARY:Hajduk Split – Fortuna Hjørring 0:2
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadion Poljud\, Split
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626955@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Anderlecht – Feyenoord 2:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626958@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Sturm Graz – Gintra-Universitetas 2:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626952@anstoss
+DTSTAMP:20260826T173000Z
+DTSTART:20260826T173000Z
+DTEND:20260826T193000Z
+SUMMARY:Breidablik – Csikszereda MC 8:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626959@anstoss
+DTSTAMP:20260826T180000Z
+DTSTART:20260826T180000Z
+DTEND:20260826T200000Z
+SUMMARY:Spartak Subotica – Brøndby 0:5
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626957@anstoss
+DTSTAMP:20260826T190000Z
+DTSTART:20260826T190000Z
+DTEND:20260826T210000Z
+SUMMARY:Torreense – Kolos Kovalivka 6:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626953@anstoss
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:Minsk – Agram 0:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Wittmann Antal park\, Minsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626964@anstoss
+DTSTAMP:20260901T110000Z
+DTSTART:20260901T110000Z
+DTEND:20260901T130000Z
+SUMMARY:Metalist 1925 – Mitrovica 5:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:FFM - Teren na Fudbalska Federacija na Makedonija\, Kharkiv
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626966@anstoss
+DTSTAMP:20260902T090000Z
+DTSTART:20260902T090000Z
+DTEND:20260902T110000Z
+SUMMARY:Gintra-Universitetas – Sturm Graz 3:5
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Siauliai central stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626960@anstoss
+DTSTAMP:20260902T143000Z
+DTSTART:20260902T143000Z
+DTEND:20260902T163000Z
+SUMMARY:Agram – Minsk 0:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626961@anstoss
+DTSTAMP:20260902T150000Z
+DTSTART:20260902T150000Z
+DTEND:20260902T170000Z
+SUMMARY:Slovan Liberec – SFK 2000 1:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadion U Nisy\, Liberec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626968@anstoss
+DTSTAMP:20260902T150000Z
+DTSTART:20260902T150000Z
+DTEND:20260902T170000Z
+SUMMARY:Kolos Kovalivka – Torreense 1:3
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Kolos Stadium\, Kovalivka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626962@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Brøndby – Spartak Subotica 4:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626965@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Fortuna Hjørring – Hajduk Split 1:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626967@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:FH – Apollon Limassol 0:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Kaplakriki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626969@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Rosenborg – SeaSters Odesa 3:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626963@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Csikszereda MC – Breidablik 0:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadionul Municipal\, Miercurea Ciuc
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626972@anstoss
+DTSTAMP:20260902T164500Z
+DTSTART:20260902T164500Z
+DTEND:20260902T184500Z
+SUMMARY:Vålerenga – Radomlje 7:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626970@anstoss
+DTSTAMP:20260902T170000Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Feyenoord – Anderlecht 3:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Sportcomplex Varkenoord 1\, Rotterdam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638408@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:PSV/Eindhoven – Fortuna Hjørring
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638396@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Ajax – Aktobe
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638410@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:St. Pölten – Malmö FF
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638398@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Brøndby – Sporting CP
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638406@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Minsk – Fenerbahce
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638397@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Breidablik – Czarni Sosnowiec
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638407@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:PAOK – Spartak Myjava
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638409@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Sparta Praha – Farul Constanţa
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638404@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:HJK – SK Brann
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638399@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Eintracht Frankfurt – FH
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638405@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Slovan Liberec – Rosenborg
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638402@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Hammarby – Rangers
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638401@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Feyenoord – Vålerenga
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638403@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Hearts – Real Sociedad
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638400@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Metalist 1925 – Torreense
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638411@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:VfL Wolfsburg – Sturm Graz
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638422@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Real Sociedad – Hearts
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638425@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Sturm Graz – VfL Wolfsburg
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638417@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Fortuna Hjørring – PSV/Eindhoven
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638418@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:FH – Eintracht Frankfurt
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638427@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Vålerenga – Feyenoord
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638427.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638423@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Rosenborg – Slovan Liberec
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638420@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Spartak Myjava – PAOK
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638414@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Czarni Sosnowiec – Breidablik
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638413@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:SK Brann – HJK
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638421@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Rangers – Hammarby
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638424@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Sporting CP – Brøndby
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638426@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Torreense – Metalist 1925
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638419@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Malmö FF – St. Pölten
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638415@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Farul Constanţa – Sparta Praha
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638412@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Aktobe – Ajax
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638416@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Fenerbahce – Minsk
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638416.ht
+ ml
+END:VEVENT
+END:VCALENDAR

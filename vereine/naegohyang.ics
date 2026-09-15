@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Naegohyang
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1638225@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Naegohyang – Ayeyawady
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638228@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Bam Khatoon – Naegohyang
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638235@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Naegohyang – INAC Kobe Leonessa
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638235.ht
+ ml
+END:VEVENT
+END:VCALENDAR

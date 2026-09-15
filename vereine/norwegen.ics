@@ -8,6 +8,280 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1013552@anstoss
+DTSTAMP:20230720T070000Z
+DTSTART:20230720T070000Z
+DTEND:20230720T090000Z
+SUMMARY:New Zealand – Norwegen 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013552.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013569@anstoss
+DTSTAMP:20230725T080000Z
+DTSTART:20230725T080000Z
+DTEND:20230725T100000Z
+SUMMARY:Schweiz – Norwegen 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:FMG Stadium Waikato\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013569.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013585@anstoss
+DTSTAMP:20230730T070000Z
+DTSTART:20230730T070000Z
+DTEND:20230730T090000Z
+SUMMARY:Norwegen – Philippines 6:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013585.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1102769@anstoss
+DTSTAMP:20230805T080000Z
+DTSTART:20230805T080000Z
+DTEND:20230805T100000Z
+SUMMARY:Japan – Norwegen 3:1
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Wellington Regional Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1102769.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193103@anstoss
+DTSTAMP:20240405T160000Z
+DTSTART:20240405T160000Z
+DTEND:20240405T180000Z
+SUMMARY:Norwegen – Finnland 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193103.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193118@anstoss
+DTSTAMP:20240409T184500Z
+DTSTART:20240409T184500Z
+DTEND:20240409T204500Z
+SUMMARY:Niederlande – Norwegen 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Rat Verlegh Stadion\, Breda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193122@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Norwegen – Italien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193127@anstoss
+DTSTAMP:20240604T161500Z
+DTSTART:20240604T161500Z
+DTEND:20240604T181500Z
+SUMMARY:Italien – Norwegen 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Stadio Paolo Mazza\, Ferrara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193136@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Finnland – Norwegen 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Veritas Stadion\, Åbo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193143@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Norwegen – Niederlande 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252899@anstoss
+DTSTAMP:20241025T140000Z
+DTSTART:20241025T140000Z
+DTEND:20241025T160000Z
+SUMMARY:Albania – Norwegen 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadiumi Loro Boriçi\, Shkodër
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252900@anstoss
+DTSTAMP:20241029T180000Z
+DTSTART:20241029T180000Z
+DTEND:20241029T200000Z
+SUMMARY:Norwegen – Albania 9:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314227@anstoss
+DTSTAMP:20241129T190000Z
+DTSTART:20241129T190000Z
+DTEND:20241129T210000Z
+SUMMARY:Nordirland – Norwegen 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314228@anstoss
+DTSTAMP:20241203T170000Z
+DTSTART:20241203T170000Z
+DTEND:20241203T190000Z
+SUMMARY:Norwegen – Nordirland 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315759@anstoss
+DTSTAMP:20250221T201000Z
+DTSTART:20250221T201000Z
+DTEND:20250221T221000Z
+SUMMARY:Frankreich – Norwegen 1:0
+DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315759.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315768@anstoss
+DTSTAMP:20250225T170000Z
+DTSTART:20250225T170000Z
+DTEND:20250225T190000Z
+SUMMARY:Norwegen – Schweiz 2:1
+DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+LOCATION:Lyse Arena\, Stavanger
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315775@anstoss
+DTSTAMP:20250404T164500Z
+DTSTART:20250404T164500Z
+DTEND:20250404T184500Z
+SUMMARY:Island – Norwegen 0:0
+DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+LOCATION:Throttarvollur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315775.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315784@anstoss
+DTSTAMP:20250408T170000Z
+DTSTART:20250408T170000Z
+DTEND:20250408T190000Z
+SUMMARY:Norwegen – Frankreich 0:2
+DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315784.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315792@anstoss
+DTSTAMP:20250530T180000Z
+DTSTART:20250530T180000Z
+DTEND:20250530T200000Z
+SUMMARY:Norwegen – Island 1:1
+DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+LOCATION:Lerkendal Stadion\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315792.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315800@anstoss
+DTSTAMP:20250603T180000Z
+DTSTART:20250603T180000Z
+DTEND:20250603T200000Z
+SUMMARY:Schweiz – Norwegen 0:1
+DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315800.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367625@anstoss
+DTSTAMP:20250702T190000Z
+DTSTART:20250702T190000Z
+DTEND:20250702T210000Z
+SUMMARY:Schweiz – Norwegen 1:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367625.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367632@anstoss
+DTSTAMP:20250706T160000Z
+DTSTART:20250706T160000Z
+DTEND:20250706T180000Z
+SUMMARY:Norwegen – Finnland 2:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367641@anstoss
+DTSTAMP:20250710T190000Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+SUMMARY:Norwegen – Island 4:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stockhorn Arena\, Thun
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401202@anstoss
+DTSTAMP:20250716T190000Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+SUMMARY:Norwegen – Italien 1:2
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523814@anstoss
 DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z

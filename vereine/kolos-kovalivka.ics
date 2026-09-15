@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kolos Kovalivka
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1626957@anstoss
+DTSTAMP:20260826T190000Z
+DTSTART:20260826T190000Z
+DTEND:20260826T210000Z
+SUMMARY:Torreense – Kolos Kovalivka 6:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626968@anstoss
+DTSTAMP:20260902T150000Z
+DTSTART:20260902T150000Z
+DTEND:20260902T170000Z
+SUMMARY:Kolos Kovalivka – Torreense 1:3
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Kolos Stadium\, Kovalivka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626968.ht
+ ml
+END:VEVENT
+END:VCALENDAR

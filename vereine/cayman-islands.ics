@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cayman Islands
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140540@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Anguilla – Cayman Islands 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140540.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140547@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Cayman Islands – Anguilla 2:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:Truman Bodden Sports Complex\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140553@anstoss
+DTSTAMP:20231026T203000Z
+DTSTART:20231026T203000Z
+DTEND:20231026T223000Z
+SUMMARY:Cayman Islands – Curaçao 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Truman Bodden Sports Complex\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140572@anstoss
+DTSTAMP:20231205T000000Z
+DTSTART:20231205T000000Z
+DTEND:20231205T020000Z
+SUMMARY:Curaçao – Cayman Islands 6:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:Football Federation Training Ground\, Willemstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140572.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488272@anstoss
+DTSTAMP:20251128T000000Z
+DTSTART:20251128T000000Z
+DTEND:20251128T020000Z
+SUMMARY:Cayman Islands – Bermuda 0:4
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Truman Bodden Stadium\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488302@anstoss
+DTSTAMP:20260307T000000Z
+DTSTART:20260307T000000Z
+DTEND:20260307T020000Z
+SUMMARY:Cayman Islands – Guatemala 0:13
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Truman Bodden Stadium\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488306@anstoss
+DTSTAMP:20260411T000000Z
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+SUMMARY:Costa Rica – Cayman Islands 21:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488312@anstoss
+DTSTAMP:20260414T213000Z
+DTSTART:20260414T213000Z
+DTEND:20260414T233000Z
+SUMMARY:Grenada – Cayman Islands 3:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Kirani James Athletic Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488312.ht
+ ml
+END:VEVENT
+END:VCALENDAR

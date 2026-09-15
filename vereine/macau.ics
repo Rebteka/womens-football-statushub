@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Macau
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1399958@anstoss
+DTSTAMP:20231130T020000Z
+DTSTART:20231130T020000Z
+DTEND:20231130T040000Z
+SUMMARY:Macau – Chinese Taipei 0:16
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 1. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399962@anstoss
+DTSTAMP:20231202T050000Z
+DTSTART:20231202T050000Z
+DTEND:20231202T070000Z
+SUMMARY:Guam – Macau 6:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 2. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 1\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399955@anstoss
+DTSTAMP:20231206T050000Z
+DTSTART:20231206T050000Z
+DTEND:20231206T070000Z
+SUMMARY:Northern Mariana Islands – Macau 4:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Playoffs
+LOCATION:Suoka Sports Training Base Pitch 1\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539383@anstoss
+DTSTAMP:20260407T120000Z
+DTSTART:20260407T120000Z
+DTEND:20260407T140000Z
+SUMMARY:Bhutan – Macau 7:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539383.ht
+ ml
+END:VEVENT
+END:VCALENDAR

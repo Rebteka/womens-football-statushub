@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chile U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1366989@anstoss
+DTSTAMP:20250430T213000Z
+DTSTART:20250430T213000Z
+DTEND:20250430T233000Z
+SUMMARY:Venezuela U17 – Chile U17 2:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366997@anstoss
+DTSTAMP:20250504T213000Z
+DTSTART:20250504T213000Z
+DTEND:20250504T233000Z
+SUMMARY:Paraguay U17 – Chile U17 2:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366997.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367002@anstoss
+DTSTAMP:20250507T000000Z
+DTSTART:20250507T000000Z
+DTEND:20250507T020000Z
+SUMMARY:Chile U17 – Colombia U17 1:0
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367006@anstoss
+DTSTAMP:20250510T000000Z
+DTSTART:20250510T000000Z
+DTEND:20250510T020000Z
+SUMMARY:Chile U17 – Argentina U17 1:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375082@anstoss
+DTSTAMP:20250512T200000Z
+DTSTART:20250512T200000Z
+DTEND:20250512T220000Z
+SUMMARY:Chile U17 – Ecuador U17 0:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 1. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375082.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375085@anstoss
+DTSTAMP:20250515T200000Z
+DTSTART:20250515T200000Z
+DTEND:20250515T220000Z
+SUMMARY:Paraguay U17 – Chile U17 1:1
+DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 2. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375085.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375089@anstoss
+DTSTAMP:20250518T220000Z
+DTSTART:20250518T220000Z
+DTEND:20250519T000000Z
+SUMMARY:Chile U17 – Colombia U17 0:1
+DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 3. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375092@anstoss
+DTSTAMP:20250521T223000Z
+DTSTART:20250521T223000Z
+DTEND:20250522T003000Z
+SUMMARY:Brazil U17 – Chile U17 2:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 4. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375092.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1375096@anstoss
+DTSTAMP:20250524T203000Z
+DTSTART:20250524T203000Z
+DTEND:20250524T223000Z
+SUMMARY:Peru U17 – Chile U17 0:3
+DESCRIPTION:CONMEBOL - U17 Femenino · Finale Round · 5. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1375096.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628969@anstoss
+DTSTAMP:20260814T000000Z
+DTSTART:20260814T000000Z
+DTEND:20260814T020000Z
+SUMMARY:Chile U17 – Canada W U17 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628971@anstoss
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T000000Z
+DTEND:20260817T020000Z
+SUMMARY:United States W U17 – Chile U17 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546117@anstoss
+DTSTAMP:20261019T170000Z
+DTSTART:20261019T170000Z
+DTEND:20261019T190000Z
+SUMMARY:Australia U17 – Chile U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546127@anstoss
+DTSTAMP:20261022T170000Z
+DTSTART:20261022T170000Z
+DTEND:20261022T190000Z
+SUMMARY:Chile U17 – Mexico U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546135@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Chile U17 – Spain U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546135.ht
+ ml
+END:VEVENT
+END:VCALENDAR

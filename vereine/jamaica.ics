@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jamaica
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013563@anstoss
+DTSTAMP:20230723T100000Z
+DTSTART:20230723T100000Z
+DTEND:20230723T120000Z
+SUMMARY:Frankreich – Jamaica 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Allianz Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013563.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013581@anstoss
+DTSTAMP:20230729T123000Z
+DTSTART:20230729T123000Z
+DTEND:20230729T143000Z
+SUMMARY:Panama – Jamaica 0:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013597@anstoss
+DTSTAMP:20230802T100000Z
+DTSTART:20230802T100000Z
+DTEND:20230802T120000Z
+SUMMARY:Jamaica – Brasilien 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:AAMI Park\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1106509@anstoss
+DTSTAMP:20230808T080000Z
+DTSTART:20230808T080000Z
+DTEND:20230808T100000Z
+SUMMARY:Kolumbien – Jamaica 1:0
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Melbourne Rectangular Stadium\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1106509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140527@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Panama – Jamaica 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 3. S
+ pieltag
+LOCATION:Estadio Universitario F.C.\, Penonomé
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140527.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140530@anstoss
+DTSTAMP:20231029T220000Z
+DTSTART:20231029T220000Z
+DTEND:20231030T000000Z
+SUMMARY:Jamaica – Guatemala 2:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 4. S
+ pieltag
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140534@anstoss
+DTSTAMP:20231130T000000Z
+DTSTART:20231130T000000Z
+DTEND:20231130T020000Z
+SUMMARY:Jamaica – Panama 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140534.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140537@anstoss
+DTSTAMP:20231204T000000Z
+DTSTART:20231204T000000Z
+DTEND:20231204T020000Z
+SUMMARY:Guatemala – Jamaica 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:Estadio Nacional Mateo Flores\, Ciudad de Guatemala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140537.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488275@anstoss
+DTSTAMP:20251129T190000Z
+DTSTART:20251129T190000Z
+DTEND:20251129T210000Z
+SUMMARY:Dominica – Jamaica 0:18
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Daren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488275.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488293@anstoss
+DTSTAMP:20260303T000000Z
+DTSTART:20260303T000000Z
+DTEND:20260303T020000Z
+SUMMARY:Nicaragua – Jamaica 2:3
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional de Futbol\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488307@anstoss
+DTSTAMP:20260411T000000Z
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+SUMMARY:Jamaica – Antigua and Barbuda 4:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488322@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Jamaica – Guyana 2:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545445@anstoss
+DTSTAMP:20260606T010000Z
+DTSTART:20260606T010000Z
+DTEND:20260606T030000Z
+SUMMARY:Panama – Jamaica 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545446@anstoss
+DTSTAMP:20260609T010000Z
+DTSTART:20260609T010000Z
+DTEND:20260609T030000Z
+SUMMARY:Panama – Jamaica 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638583@anstoss
+DTSTAMP:20261009T200000Z
+DTSTART:20261009T200000Z
+DTEND:20261009T220000Z
+SUMMARY:Jamaica – Mexiko
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638586@anstoss
+DTSTAMP:20261013T200000Z
+DTSTART:20261013T200000Z
+DTEND:20261013T220000Z
+SUMMARY:Jamaica – Mexiko
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550710@anstoss
+DTSTAMP:20261127T210000Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Jamaica – Costa Rica
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550710.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barbados
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140580@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:Barbados – St. Vincent / Grenadines 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140580.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140585@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Barbados – Bermuda 0:4
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Arnos Vale Ground\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140585.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140586@anstoss
+DTSTAMP:20230927T000000Z
+DTSTART:20230927T000000Z
+DTEND:20230927T020000Z
+SUMMARY:Dominican Republic – Barbados 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140591@anstoss
+DTSTAMP:20231027T190000Z
+DTSTART:20231027T190000Z
+DTEND:20231027T210000Z
+SUMMARY:Barbados – Dominican Republic 0:8
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Arnos Vale Ground\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140592@anstoss
+DTSTAMP:20231027T230000Z
+DTSTART:20231027T230000Z
+DTEND:20231028T010000Z
+SUMMARY:Barbados – Bermuda 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140592.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140597@anstoss
+DTSTAMP:20231031T223000Z
+DTSTART:20231031T223000Z
+DTEND:20231101T003000Z
+SUMMARY:Bermuda – Barbados 4:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
+ Parish
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140598@anstoss
+DTSTAMP:20231031T230000Z
+DTSTART:20231031T230000Z
+DTEND:20231101T010000Z
+SUMMARY:Dominican Republic – Barbados 4:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140604@anstoss
+DTSTAMP:20231201T230000Z
+DTSTART:20231201T230000Z
+DTEND:20231202T010000Z
+SUMMARY:Barbados – Dominican Republic 1:7
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140603@anstoss
+DTSTAMP:20231201T233000Z
+DTSTART:20231201T233000Z
+DTEND:20231202T013000Z
+SUMMARY:Bermuda – Barbados
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
+ Parish
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140603.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140610@anstoss
+DTSTAMP:20231205T200000Z
+DTSTART:20231205T200000Z
+DTEND:20231205T220000Z
+SUMMARY:St. Vincent / Grenadines – Barbados 4:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140610.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488276@anstoss
+DTSTAMP:20251129T230000Z
+DTSTART:20251129T230000Z
+DTEND:20251130T010000Z
+SUMMARY:Barbados – Mexiko 0:14
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Arnos Vale Stadium\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488280@anstoss
+DTSTAMP:20251201T200000Z
+DTSTART:20251201T200000Z
+DTEND:20251201T220000Z
+SUMMARY:Barbados – Trinidad and Tobago 0:5
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:BFA Technical Centre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488288@anstoss
+DTSTAMP:20260228T000000Z
+DTSTART:20260228T000000Z
+DTEND:20260228T020000Z
+SUMMARY:Puerto Rico – Barbados 10:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488292@anstoss
+DTSTAMP:20260301T233000Z
+DTSTART:20260301T233000Z
+DTEND:20260302T013000Z
+SUMMARY:El Salvador – Barbados 13:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Las Delicias\, Santa Tecla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488313@anstoss
+DTSTAMP:20260414T210000Z
+DTSTART:20260414T210000Z
+DTEND:20260414T230000Z
+SUMMARY:Barbados – US Virgin Islands 1:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Arnos Vale Stadium\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488315@anstoss
+DTSTAMP:20260418T010000Z
+DTSTART:20260418T010000Z
+DTEND:20260418T030000Z
+SUMMARY:Honduras – Barbados 4:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional Jose de la Paz Herrera Ucles\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488325@anstoss
+DTSTAMP:20260418T190000Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:St. Lucia – Barbados 0:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Daren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488325.ht
+ ml
+END:VEVENT
+END:VCALENDAR

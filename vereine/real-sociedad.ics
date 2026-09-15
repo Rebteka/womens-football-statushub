@@ -74,6 +74,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573586.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638403@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Hearts – Real Sociedad
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1573597@anstoss
 DTSTAMP:20260926T100000Z
 DTSTART:20260926T100000Z
@@ -82,6 +92,16 @@ SUMMARY:Real Sociedad – Real Madrid
 DESCRIPTION:Liga F · 5. Spieltag
 LOCATION:Instalaciones de Zubieta\, Lasarte-Oria
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638422@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Real Sociedad – Hearts
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638422.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -203,6 +223,17 @@ SUMMARY:Real Sociedad – Granada
 DESCRIPTION:Liga F · 16. Spieltag · Anstosszeit noch offen
 LOCATION:Instalaciones de Zubieta\, Lasarte-Oria
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612701@anstoss
+DTSTAMP:20270120T180000Z
+DTSTART:20270120T180000Z
+DTEND:20270120T200000Z
+SUMMARY:Barcelona – Real Sociedad
+DESCRIPTION:Supercopa Femenina · Halbfinale
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612701.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

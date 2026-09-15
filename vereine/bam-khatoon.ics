@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bam Khatoon
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578025@anstoss
+DTSTAMP:20260817T150000Z
+DTSTART:20260817T150000Z
+DTEND:20260817T170000Z
+SUMMARY:Bam Khatoon – CSKA Pomir Dushanbe 3:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578035@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Al Nassr – Bam Khatoon 1:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578048@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Bam Khatoon – Etihad Club 3:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638223@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:INAC Kobe Leonessa – Bam Khatoon
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638228@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Bam Khatoon – Naegohyang
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638231@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Bam Khatoon – Ayeyawady
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638231.ht
+ ml
+END:VEVENT
+END:VCALENDAR

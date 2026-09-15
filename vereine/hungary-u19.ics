@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hungary U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526959@anstoss
+DTSTAMP:20260228T150000Z
+DTSTART:20260228T150000Z
+DTEND:20260228T170000Z
+SUMMARY:Sweden U18 – Hungary U19 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1528262@anstoss
+DTSTAMP:20260306T100000Z
+DTSTART:20260306T100000Z
+DTEND:20260306T120000Z
+SUMMARY:Hungary U19 – USA U18 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550858@anstoss
+DTSTAMP:20260605T110000Z
+DTSTART:20260605T110000Z
+DTEND:20260605T130000Z
+SUMMARY:Ukraine U19 – Hungary U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550858.ht
+ ml
+END:VEVENT
+END:VCALENDAR

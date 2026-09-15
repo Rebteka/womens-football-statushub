@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trinidad and Tobago
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140526@anstoss
+DTSTAMP:20230927T000000Z
+DTSTART:20230927T000000Z
+DTEND:20230927T020000Z
+SUMMARY:Mexiko – Trinidad and Tobago 6:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
+ pieltag
+LOCATION:Estadio Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140536@anstoss
+DTSTAMP:20231027T230000Z
+DTSTART:20231027T230000Z
+DTEND:20231028T010000Z
+SUMMARY:Trinidad and Tobago – Puerto Rico 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140533@anstoss
+DTSTAMP:20231031T230000Z
+DTSTART:20231031T230000Z
+DTEND:20231101T010000Z
+SUMMARY:Puerto Rico – Trinidad and Tobago 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Estadio Juán Rámon Loubriel\, Bayamón
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140528@anstoss
+DTSTAMP:20231205T230000Z
+DTSTART:20231205T230000Z
+DTEND:20231206T010000Z
+SUMMARY:Trinidad and Tobago – Mexiko 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 3. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140528.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488280@anstoss
+DTSTAMP:20251201T200000Z
+DTSTART:20251201T200000Z
+DTEND:20251201T220000Z
+SUMMARY:Barbados – Trinidad and Tobago 0:5
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:BFA Technical Centre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488297@anstoss
+DTSTAMP:20260305T010000Z
+DTSTART:20260305T010000Z
+DTEND:20260305T030000Z
+SUMMARY:Honduras – Trinidad and Tobago 2:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional Jose de la Paz Herrera Ucles\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488319@anstoss
+DTSTAMP:20260417T220000Z
+DTSTART:20260417T220000Z
+DTEND:20260418T000000Z
+SUMMARY:Trinidad and Tobago – El Salvador 0:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488319.ht
+ ml
+END:VEVENT
+END:VCALENDAR

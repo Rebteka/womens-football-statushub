@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stirling University
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188765@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Westdyke – Stirling University 1:2
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Lawsondale Playing Fields\, Westhill\, Aberdeenshire
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188752@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Montrose – Stirling University 5:0
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Links Park\, Montrose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188752.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485686@anstoss
+DTSTAMP:20250907T130000Z
+DTSTART:20250907T130000Z
+DTEND:20250907T150000Z
+SUMMARY:Stirling University – St. Johnstone 2:5
+DESCRIPTION:SWPL Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485686.ht
+ ml
+END:VEVENT
+END:VCALENDAR

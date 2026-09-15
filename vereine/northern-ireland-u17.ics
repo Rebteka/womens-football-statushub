@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Northern Ireland U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543317@anstoss
+DTSTAMP:20260504T140000Z
+DTSTART:20260504T140000Z
+DTEND:20260504T160000Z
+SUMMARY:Northern Ireland U17 – England U17 0:2
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543322@anstoss
+DTSTAMP:20260507T170000Z
+DTSTART:20260507T170000Z
+DTEND:20260507T190000Z
+SUMMARY:Northern Ireland U17 – Norway U17 0:3
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543326@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:Germany U17 – Northern Ireland U17 0:1
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543326.ht
+ ml
+END:VEVENT
+END:VCALENDAR

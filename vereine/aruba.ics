@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aruba
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140541@anstoss
+DTSTAMP:20230922T000000Z
+DTSTART:20230922T000000Z
+DTEND:20230922T020000Z
+SUMMARY:Belize – Aruba 2:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:FFB Field\, Belmopán
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140541.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140546@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Turks and Caicos Islands – Aruba 0:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:TCIFA National Stadium\, Providenciales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140546.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140555@anstoss
+DTSTAMP:20231027T000000Z
+DTSTART:20231027T000000Z
+DTEND:20231027T020000Z
+SUMMARY:Bonaire – Aruba 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Stadion Antonio Trenidat\, Rincon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140558@anstoss
+DTSTAMP:20231030T190000Z
+DTSTART:20231030T190000Z
+DTEND:20231030T210000Z
+SUMMARY:Aruba – Bonaire 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140564@anstoss
+DTSTAMP:20231130T190000Z
+DTSTART:20231130T190000Z
+DTEND:20231130T210000Z
+SUMMARY:Aruba – Turks and Caicos Islands 8:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140564.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140570@anstoss
+DTSTAMP:20231204T190000Z
+DTSTART:20231204T190000Z
+DTEND:20231204T210000Z
+SUMMARY:Aruba – Belize 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140570.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488274@anstoss
+DTSTAMP:20251129T000000Z
+DTSTART:20251129T000000Z
+DTEND:20251129T020000Z
+SUMMARY:Aruba – St. Kitts and Nevis 2:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Complejo Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488274.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488303@anstoss
+DTSTAMP:20260308T000000Z
+DTSTART:20260308T000000Z
+DTEND:20260308T020000Z
+SUMMARY:Aruba – Cuba 0:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Complejo Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488305@anstoss
+DTSTAMP:20260410T000000Z
+DTSTART:20260410T000000Z
+DTEND:20260410T020000Z
+SUMMARY:Panama – Aruba 3:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Universitario F.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488310@anstoss
+DTSTAMP:20260414T000000Z
+DTSTART:20260414T000000Z
+DTEND:20260414T020000Z
+SUMMARY:Curaçao – Aruba 1:6
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488310.ht
+ ml
+END:VEVENT
+END:VCALENDAR

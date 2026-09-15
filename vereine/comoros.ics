@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Comoros
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1540259@anstoss
+DTSTAMP:20260414T150000Z
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+SUMMARY:Benin – Comoros 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540261@anstoss
+DTSTAMP:20260416T130000Z
+DTSTART:20260416T130000Z
+DTEND:20260416T150000Z
+SUMMARY:Tunisia – Comoros 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540261.ht
+ ml
+END:VEVENT
+END:VCALENDAR

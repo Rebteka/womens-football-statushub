@@ -8,6 +8,168 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193205@anstoss
+DTSTAMP:20240405T150000Z
+DTSTART:20240405T150000Z
+DTEND:20240405T170000Z
+SUMMARY:Georgia – Lithuania 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193214@anstoss
+DTSTAMP:20240409T160000Z
+DTSTART:20240409T160000Z
+DTEND:20240409T180000Z
+SUMMARY:Belarus – Georgia 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193214.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193218@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Cyprus – Georgia 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193218.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193227@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Georgia – Cyprus 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193236@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Georgia – Belarus 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193236.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193245@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Lithuania – Georgia 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:LSC Sporto kompleksas Druskininkai\, Druskininkai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252891@anstoss
+DTSTAMP:20241025T160000Z
+DTSTART:20241025T160000Z
+DTEND:20241025T180000Z
+SUMMARY:Georgia – Republic of Ireland 0:6
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252892@anstoss
+DTSTAMP:20241029T193000Z
+DTSTART:20241029T193000Z
+DTEND:20241029T213000Z
+SUMMARY:Republic of Ireland – Georgia 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Tallaght Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315856@anstoss
+DTSTAMP:20250221T150000Z
+DTSTART:20250221T150000Z
+DTEND:20250221T170000Z
+SUMMARY:Georgia – Andorra 2:1
+DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315856.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315864@anstoss
+DTSTAMP:20250225T170000Z
+DTSTART:20250225T170000Z
+DTEND:20250225T190000Z
+SUMMARY:Cyprus – Georgia 2:1
+DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+LOCATION:AEK Arena\, Larnaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315874@anstoss
+DTSTAMP:20250404T150000Z
+DTSTART:20250404T150000Z
+DTEND:20250404T170000Z
+SUMMARY:Georgia – Malta 2:3
+DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315883@anstoss
+DTSTAMP:20250408T170000Z
+DTSTART:20250408T170000Z
+DTEND:20250408T190000Z
+SUMMARY:Malta – Georgia 2:1
+DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315883.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315891@anstoss
+DTSTAMP:20250530T170000Z
+DTSTART:20250530T170000Z
+DTEND:20250530T190000Z
+SUMMARY:Andorra – Georgia 1:2
+DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+LOCATION:Nou Estadi Encamp\, Encamp
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315901@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Georgia – Cyprus 1:2
+DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523812@anstoss
 DTSTAMP:20260303T163000Z
 DTSTART:20260303T163000Z

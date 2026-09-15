@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Puerto Rico W U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1367135@anstoss
+DTSTAMP:20250530T200000Z
+DTSTART:20250530T200000Z
+DTEND:20250530T220000Z
+SUMMARY:Costa Rica U20 – Puerto Rico W U20 0:0
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367138@anstoss
+DTSTAMP:20250601T170000Z
+DTSTART:20250601T170000Z
+DTEND:20250601T190000Z
+SUMMARY:Puerto Rico W U20 – United States U20 1:3
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367142@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Puerto Rico W U20 – Guyana U20 7:0
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367142.ht
+ ml
+END:VEVENT
+END:VCALENDAR

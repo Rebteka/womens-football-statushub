@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Peamount United
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539604@anstoss
+DTSTAMP:20260404T160000Z
+DTSTART:20260404T160000Z
+DTEND:20260404T180000Z
+SUMMARY:Galway United – Peamount United 4:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539609@anstoss
+DTSTAMP:20260509T160000Z
+DTSTART:20260509T160000Z
+DTEND:20260509T180000Z
+SUMMARY:Peamount United – DLR Waves 5:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542076@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Peamount United – Lisburn Rangers 6:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553407@anstoss
+DTSTAMP:20260613T140000Z
+DTSTART:20260613T140000Z
+DTEND:20260613T160000Z
+SUMMARY:Shamrock Rovers – Peamount United 0:1
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1564788@anstoss
+DTSTAMP:20260627T160000Z
+DTSTART:20260627T160000Z
+DTEND:20260627T180000Z
+SUMMARY:Galway United – Peamount United 1:1
+DESCRIPTION:All-Island Cup - Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1564788.ht
+ ml
+END:VEVENT
+END:VCALENDAR

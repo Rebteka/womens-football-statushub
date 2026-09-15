@@ -31,4 +31,24 @@ LOCATION:Den Dreef\, Heverlee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612445.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638406@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Minsk – Fenerbahce
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638416@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Fenerbahce – Minsk
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638416.ht
+ ml
+END:VEVENT
 END:VCALENDAR

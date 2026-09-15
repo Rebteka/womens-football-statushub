@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thailand U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529305@anstoss
+DTSTAMP:20260228T190000Z
+DTSTART:20260228T190000Z
+DTEND:20260228T210000Z
+SUMMARY:Jordan U20 – Thailand U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529310@anstoss
+DTSTAMP:20260303T130000Z
+DTSTART:20260303T130000Z
+DTEND:20260303T150000Z
+SUMMARY:Morocco U20 – Thailand U20 4:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529315@anstoss
+DTSTAMP:20260306T120000Z
+DTSTART:20260306T120000Z
+DTEND:20260306T140000Z
+SUMMARY:Russia U19 – Thailand U20 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540457@anstoss
+DTSTAMP:20260401T130000Z
+DTSTART:20260401T130000Z
+DTEND:20260401T150000Z
+SUMMARY:Thailand U20 – Bangladesh U20 3:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540463@anstoss
+DTSTAMP:20260404T130000Z
+DTSTART:20260404T130000Z
+DTEND:20260404T150000Z
+SUMMARY:Vietnam U20 – Thailand U20 1:4
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540469@anstoss
+DTSTAMP:20260407T130000Z
+DTSTART:20260407T130000Z
+DTEND:20260407T150000Z
+SUMMARY:Thailand U20 – China PR U20 0:1
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540455@anstoss
+DTSTAMP:20260412T130000Z
+DTSTART:20260412T130000Z
+DTEND:20260412T150000Z
+SUMMARY:Thailand U20 – Korea Republic U20 1:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Viertelfinale
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540455.ht
+ ml
+END:VEVENT
+END:VCALENDAR

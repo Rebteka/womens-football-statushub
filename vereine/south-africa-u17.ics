@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:South Africa U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1537382@anstoss
+DTSTAMP:20260327T223000Z
+DTSTART:20260327T223000Z
+DTEND:20260328T003000Z
+SUMMARY:South Africa U17 – Argentina U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537381@anstoss
+DTSTAMP:20260329T183000Z
+DTSTART:20260329T183000Z
+DTEND:20260329T203000Z
+SUMMARY:South Africa U17 – Argentina U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537381.ht
+ ml
+END:VEVENT
+END:VCALENDAR

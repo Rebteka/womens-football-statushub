@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tanzania
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140640@anstoss
+DTSTAMP:20230710T000000Z
+DTSTART:20230710T000000Z
+DTEND:20230710T020000Z
+SUMMARY:Congo – Tanzania (verlegt)
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade Alphonse Massamba-Débat\, Brazzaville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140641@anstoss
+DTSTAMP:20230718T000000Z
+DTSTART:20230718T000000Z
+DTEND:20230718T020000Z
+SUMMARY:Tanzania – Congo (verlegt)
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Benjamin Mkapa National Stadium\, Dar-es-Salaam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140634@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Tanzania – Botswana 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Azam Complex Stadium\, Mbagala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140634.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140635@anstoss
+DTSTAMP:20231031T160000Z
+DTSTART:20231031T160000Z
+DTEND:20231031T180000Z
+SUMMARY:Botswana – Tanzania 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Botswana National Stadium\, Gaborone
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140990@anstoss
+DTSTAMP:20240223T130000Z
+DTSTART:20240223T130000Z
+DTEND:20240223T150000Z
+SUMMARY:Tanzania – South Africa 0:3
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Azam Complex Stadium\, Mbagala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140991@anstoss
+DTSTAMP:20240227T150000Z
+DTSTART:20240227T150000Z
+DTEND:20240227T170000Z
+SUMMARY:South Africa – Tanzania 1:0
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Mbombela Stadium\, Nelspruit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526961@anstoss
+DTSTAMP:20260228T170000Z
+DTSTART:20260228T170000Z
+DTEND:20260228T190000Z
+SUMMARY:Russland – Tanzania 4:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526969@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Hong Kong – Tanzania
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526969.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526975@anstoss
+DTSTAMP:20260306T170000Z
+DTSTART:20260306T170000Z
+DTEND:20260306T190000Z
+SUMMARY:Ghana – Tanzania
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526975.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540258@anstoss
+DTSTAMP:20260413T200000Z
+DTSTART:20260413T200000Z
+DTEND:20260413T220000Z
+SUMMARY:Morocco – Tanzania 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540258.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546832@anstoss
+DTSTAMP:20260603T130000Z
+DTSTART:20260603T130000Z
+DTEND:20260603T150000Z
+SUMMARY:Tanzania – Malawi 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546832.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548474@anstoss
+DTSTAMP:20260606T130000Z
+DTSTART:20260606T130000Z
+DTEND:20260606T150000Z
+SUMMARY:Tanzania – Malawi 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604184@anstoss
+DTSTAMP:20260720T170000Z
+DTSTART:20260720T170000Z
+DTEND:20260720T190000Z
+SUMMARY:Ghana – Tanzania 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604190@anstoss
+DTSTAMP:20260723T170000Z
+DTSTART:20260723T170000Z
+DTEND:20260723T190000Z
+SUMMARY:Nigeria – Tanzania 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600200@anstoss
+DTSTAMP:20260727T170000Z
+DTSTART:20260727T170000Z
+DTEND:20260727T190000Z
+SUMMARY:South Africa – Tanzania 1:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600200.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600209@anstoss
+DTSTAMP:20260731T200000Z
+DTSTART:20260731T200000Z
+DTEND:20260731T220000Z
+SUMMARY:Burkina Faso – Tanzania 2:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600217@anstoss
+DTSTAMP:20260804T200000Z
+DTSTART:20260804T200000Z
+DTEND:20260804T220000Z
+SUMMARY:Tanzania – Ivory Coast 1:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade Prince Moulay Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600217.ht
+ ml
+END:VEVENT
+END:VCALENDAR

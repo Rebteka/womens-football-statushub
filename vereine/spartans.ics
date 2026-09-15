@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spartans
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188767@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Glasgow – Spartans 1:6
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Alliance Park\, Motherwell
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188767.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188753@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Spartans – Aberdeen 2:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Ainslie Park Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188744@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Livingston – Spartans 0:5
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188748@anstoss
+DTSTAMP:20240427T000000Z
+DTSTART:20240427T000000Z
+DTEND:20240427T020000Z
+SUMMARY:Spartans – Hearts
+DESCRIPTION:SWF Scottish Cup · Halbfinale
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188748.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485693@anstoss
+DTSTAMP:20251005T130000Z
+DTSTART:20251005T130000Z
+DTEND:20251005T150000Z
+SUMMARY:Spartans – Celtic 1:3
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485693.ht
+ ml
+END:VEVENT
+END:VCALENDAR

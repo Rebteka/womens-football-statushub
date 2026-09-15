@@ -8,6 +8,122 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193203@anstoss
+DTSTAMP:20240405T143000Z
+DTSTART:20240405T143000Z
+DTEND:20240405T163000Z
+SUMMARY:Latvia – North Macedonia 3:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:LNK Sporta Parks\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193210@anstoss
+DTSTAMP:20240409T150000Z
+DTSTART:20240409T150000Z
+DTEND:20240409T170000Z
+SUMMARY:Moldova – Latvia 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadionul Zimbru\, Chişinău
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193210.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193219@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Slovenia – Latvia 6:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Mestni Štadion Fazanerija\, Murska Sobota
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193219.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193229@anstoss
+DTSTAMP:20240604T150000Z
+DTSTART:20240604T150000Z
+DTEND:20240604T170000Z
+SUMMARY:Latvia – Slovenia 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Slokas Stadionā\, Jūrmala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193229.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193237@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:North Macedonia – Latvia 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193237.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193247@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Latvia – Moldova 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Daugavas Stadionā\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315870@anstoss
+DTSTAMP:20250225T130000Z
+DTSTART:20250225T130000Z
+DTEND:20250225T150000Z
+SUMMARY:Kosovo – Latvia 0:1
+DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315879@anstoss
+DTSTAMP:20250404T130000Z
+DTSTART:20250404T130000Z
+DTEND:20250404T150000Z
+SUMMARY:North Macedonia – Latvia 1:2
+DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315879.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315897@anstoss
+DTSTAMP:20250530T160000Z
+DTSTART:20250530T160000Z
+DTEND:20250530T180000Z
+SUMMARY:Latvia – North Macedonia 1:1
+DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+LOCATION:LNK Sporta Parks\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315906@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Latvia – Kosovo 2:2
+DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+LOCATION:LNK Sporta Parks\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523824@anstoss
 DTSTAMP:20260303T150000Z
 DTSTART:20260303T150000Z
@@ -77,6 +193,16 @@ DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
  . Spieltag
 LOCATION:Daugavas stadions\, Riga
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628976@anstoss
+DTSTAMP:20261010T190000Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:Frankreich – Latvia
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628976.ht
  ml
 END:VEVENT
 END:VCALENDAR

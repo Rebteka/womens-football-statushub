@@ -8,6 +8,69 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1480952@anstoss
+DTSTAMP:20251221T133000Z
+DTSTART:20251221T133000Z
+DTEND:20251221T153000Z
+SUMMARY:Parma – Lazio 0:1
+DESCRIPTION:Coppa Italia Women · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514287@anstoss
+DTSTAMP:20260121T193000Z
+DTSTART:20260121T193000Z
+DTEND:20260121T213000Z
+SUMMARY:Lazio – Roma 0:0
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514289@anstoss
+DTSTAMP:20260128T170000Z
+DTSTART:20260128T170000Z
+DTEND:20260128T190000Z
+SUMMARY:Roma – Lazio 3:0
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582314@anstoss
+DTSTAMP:20260823T183000Z
+DTSTART:20260823T183000Z
+DTEND:20260823T203000Z
+SUMMARY:Lazio – Napoli 4:2
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582322@anstoss
+DTSTAMP:20260830T160000Z
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+SUMMARY:Lazio – Parma 2:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582325@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Inter Mailand – Lazio 3:1
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1601251@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z

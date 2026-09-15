@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boca Juniors
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1479287@anstoss
+DTSTAMP:20251002T190000Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Boca Juniors – Alianza Lima 0:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479292@anstoss
+DTSTAMP:20251005T190000Z
+DTSTART:20251005T190000Z
+DTEND:20251005T210000Z
+SUMMARY:Boca Juniors – ADIFFEM 2:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479296@anstoss
+DTSTAMP:20251008T190000Z
+DTSTART:20251008T190000Z
+DTEND:20251008T210000Z
+SUMMARY:Ferroviaria – Boca Juniors 0:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 3. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481227@anstoss
+DTSTAMP:20251011T190000Z
+DTSTART:20251011T190000Z
+DTEND:20251011T210000Z
+SUMMARY:Corinthians – Boca Juniors 4:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Viertelfinale
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481227.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canada W U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1533910@anstoss
+DTSTAMP:20260317T210000Z
+DTSTART:20260317T210000Z
+DTEND:20260317T230000Z
+SUMMARY:Canada W U17 – Nicaragua W U17 5:0
+DESCRIPTION:CONCACAF Women U17
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535007@anstoss
+DTSTAMP:20260319T160000Z
+DTSTART:20260319T160000Z
+DTEND:20260319T180000Z
+SUMMARY:Dominican Republic W U17 – Canada W U17 0:7
+DESCRIPTION:CONCACAF Women U17
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535825@anstoss
+DTSTAMP:20260322T183600Z
+DTSTART:20260322T183600Z
+DTEND:20260322T203600Z
+SUMMARY:Canada W U17 – El Salvador W U17 5:0
+DESCRIPTION:CONCACAF Women U17
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535825.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628969@anstoss
+DTSTAMP:20260814T000000Z
+DTSTART:20260814T000000Z
+DTEND:20260814T020000Z
+SUMMARY:Chile U17 – Canada W U17 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628970@anstoss
+DTSTAMP:20260816T210000Z
+DTSTART:20260816T210000Z
+DTEND:20260816T230000Z
+SUMMARY:Canada W U17 – Mexico U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628972@anstoss
+DTSTAMP:20260819T210000Z
+DTSTART:20260819T210000Z
+DTEND:20260819T230000Z
+SUMMARY:United States W U17 – Canada W U17 4:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546118@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Canada W U17 – Brazil U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546126@anstoss
+DTSTAMP:20261021T140000Z
+DTSTART:20261021T140000Z
+DTEND:20261021T160000Z
+SUMMARY:Canada W U17 – Norway U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586118@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Ghana U17 – Canada W U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586118.ht
+ ml
+END:VEVENT
+END:VCALENDAR

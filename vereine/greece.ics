@@ -8,6 +8,168 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193206@anstoss
+DTSTAMP:20240405T170000Z
+DTSTART:20240405T170000Z
+DTEND:20240405T190000Z
+SUMMARY:Greece – Faroe Islands 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193215@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Andorra – Greece 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193215.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193221@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:Greece – Montenegro 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193234@anstoss
+DTSTAMP:20240604T154500Z
+DTSTART:20240604T154500Z
+DTEND:20240604T174500Z
+SUMMARY:Faroe Islands – Greece 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193234.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193239@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Greece – Andorra 6:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193239.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193248@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Montenegro – Greece 2:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Trening kamp FSCG Stari Aerodrom\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252887@anstoss
+DTSTAMP:20241025T160000Z
+DTSTART:20241025T160000Z
+DTEND:20241025T180000Z
+SUMMARY:Greece – Belgien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252887.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252888@anstoss
+DTSTAMP:20241029T191500Z
+DTSTART:20241029T191500Z
+DTEND:20241029T211500Z
+SUMMARY:Belgien – Greece 5:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315807@anstoss
+DTSTAMP:20250221T143000Z
+DTSTART:20250221T143000Z
+DTEND:20250221T163000Z
+SUMMARY:Greece – Slovenia 1:2
+DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315807.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315816@anstoss
+DTSTAMP:20250225T153000Z
+DTSTART:20250225T153000Z
+DTEND:20250225T173000Z
+SUMMARY:Turkey – Greece 1:0
+DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+LOCATION:Esenler Stadium\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315816.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315823@anstoss
+DTSTAMP:20250404T140000Z
+DTSTART:20250404T140000Z
+DTEND:20250404T160000Z
+SUMMARY:Greece – Republic of Ireland 0:4
+DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315823.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315831@anstoss
+DTSTAMP:20250408T183000Z
+DTSTART:20250408T183000Z
+DTEND:20250408T203000Z
+SUMMARY:Republic of Ireland – Greece 2:1
+DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+LOCATION:Tallaght Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315831.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315839@anstoss
+DTSTAMP:20250530T160000Z
+DTSTART:20250530T160000Z
+DTEND:20250530T180000Z
+SUMMARY:Slovenia – Greece 2:0
+DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+LOCATION:Športni Park Šiška\, Ljubljana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315839.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315847@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Greece – Turkey 0:1
+DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315847.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523812@anstoss
 DTSTAMP:20260303T163000Z
 DTSTART:20260303T163000Z
@@ -40,6 +202,16 @@ SUMMARY:Faroe Islands – Greece 2:3
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
  . Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523862.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539391@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Greece – Moldova 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539391.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

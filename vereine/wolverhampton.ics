@@ -8,6 +8,39 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1483347@anstoss
+DTSTAMP:20251026T140000Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Wolverhampton – Rugby Borough 2:1
+DESCRIPTION:FA Women's Cup · 1st Round
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1487270@anstoss
+DTSTAMP:20251121T193000Z
+DTSTART:20251121T193000Z
+DTEND:20251121T213000Z
+SUMMARY:Wolverhampton – Stoke City 2:0
+DESCRIPTION:FA Women's Cup · 2nd Round
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1487270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488455@anstoss
+DTSTAMP:20251213T121500Z
+DTSTART:20251213T121500Z
+DTEND:20251213T141500Z
+SUMMARY:Wolverhampton – Nottingham Forest 1:2
+DESCRIPTION:FA Women's Cup · 3rd Round
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609374@anstoss
 DTSTAMP:20260906T130000Z
 DTSTART:20260906T130000Z
@@ -62,6 +95,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1609400.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612651@anstoss
+DTSTAMP:20261018T130000Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Wolverhampton – Ipswich Town
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609402@anstoss
 DTSTAMP:20261025T140000Z
 DTSTART:20261025T140000Z
@@ -70,6 +114,28 @@ SUMMARY:Bristol City – Wolverhampton
 DESCRIPTION:Women's Championship · 6. Spieltag
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612666@anstoss
+DTSTAMP:20261028T193000Z
+DTSTART:20261028T193000Z
+DTEND:20261028T213000Z
+SUMMARY:Wolverhampton – Brighton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612666.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612672@anstoss
+DTSTAMP:20261101T140000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Wolverhampton – Bristol City
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612672.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -92,6 +158,39 @@ SUMMARY:Wolverhampton – Durham
 DESCRIPTION:Women's Championship · 8. Spieltag
 LOCATION:New Bucks Head\, Telford
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612683@anstoss
+DTSTAMP:20261118T190000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:West Ham – Wolverhampton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612683.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612689@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
+SUMMARY:Leicester City FC – Wolverhampton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612689.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612693@anstoss
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:Crystal Palace – Wolverhampton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:VBS Community Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612693.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

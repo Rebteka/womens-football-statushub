@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Italy U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526375@anstoss
+DTSTAMP:20260303T143000Z
+DTSTART:20260303T143000Z
+DTEND:20260303T163000Z
+SUMMARY:France U19 – Italy U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525764@anstoss
+DTSTAMP:20260304T133000Z
+DTSTART:20260304T133000Z
+DTEND:20260304T153000Z
+SUMMARY:Italy U19 – Poland U19 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526385@anstoss
+DTSTAMP:20260306T153000Z
+DTSTART:20260306T153000Z
+DTEND:20260306T173000Z
+SUMMARY:Italy U19 – Germany U19 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525765@anstoss
+DTSTAMP:20260307T100000Z
+DTSTART:20260307T100000Z
+DTEND:20260307T120000Z
+SUMMARY:Italy U19 – Poland U19 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525765.ht
+ ml
+END:VEVENT
+END:VCALENDAR

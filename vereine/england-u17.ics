@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:England U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1521029@anstoss
+DTSTAMP:20260209T153000Z
+DTSTART:20260209T153000Z
+DTEND:20260209T173000Z
+SUMMARY:Mexico U17 – England U17 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521481@anstoss
+DTSTAMP:20260212T153000Z
+DTSTART:20260212T153000Z
+DTEND:20260212T173000Z
+SUMMARY:England U17 – Norway U17 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522487@anstoss
+DTSTAMP:20260214T160000Z
+DTSTART:20260214T160000Z
+DTEND:20260214T180000Z
+SUMMARY:United States W U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522487.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543317@anstoss
+DTSTAMP:20260504T140000Z
+DTSTART:20260504T140000Z
+DTEND:20260504T160000Z
+SUMMARY:Northern Ireland U17 – England U17 0:2
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543321@anstoss
+DTSTAMP:20260507T140000Z
+DTSTART:20260507T140000Z
+DTEND:20260507T160000Z
+SUMMARY:Germany U17 – England U17 1:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543325@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:England U17 – Norway U17 1:1
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544864@anstoss
+DTSTAMP:20260514T150000Z
+DTSTART:20260514T150000Z
+DTEND:20260514T170000Z
+SUMMARY:England U17 – Poland U17 0:2
+DESCRIPTION:UEFA U17 Championship - Women · Finale
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637473@anstoss
+DTSTAMP:20260910T153000Z
+DTSTART:20260910T153000Z
+DTEND:20260910T173000Z
+SUMMARY:Finland U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637475@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Finland U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637475.ht
+ ml
+END:VEVENT
+END:VCALENDAR

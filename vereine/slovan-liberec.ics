@@ -30,6 +30,29 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1627630.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1626950@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:SFK 2000 – Slovan Liberec 2:3
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626961@anstoss
+DTSTAMP:20260902T150000Z
+DTSTART:20260902T150000Z
+DTEND:20260902T170000Z
+SUMMARY:Slovan Liberec – SFK 2000 1:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadion U Nisy\, Liberec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1627638@anstoss
 DTSTAMP:20260906T130000Z
 DTSTART:20260906T130000Z
@@ -61,6 +84,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1627646.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638405@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Slovan Liberec – Rosenborg
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1627648@anstoss
 DTSTAMP:20260926T090000Z
 DTSTART:20260926T090000Z
@@ -68,6 +101,16 @@ DTEND:20260926T110000Z
 SUMMARY:Baník Ostrava – Slovan Liberec
 DESCRIPTION:1. Liga Women · 7. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1627648.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638423@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Rosenborg – Slovan Liberec
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638423.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

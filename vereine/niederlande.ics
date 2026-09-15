@@ -8,6 +8,232 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1013562@anstoss
+DTSTAMP:20230723T073000Z
+DTSTART:20230723T073000Z
+DTEND:20230723T093000Z
+SUMMARY:Niederlande – Portugal 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Forsyth Barr Stadium\, Dunedin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013562.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013573@anstoss
+DTSTAMP:20230727T010000Z
+DTSTART:20230727T010000Z
+DTEND:20230727T030000Z
+SUMMARY:USA – Niederlande 1:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013573.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013591@anstoss
+DTSTAMP:20230801T070000Z
+DTSTART:20230801T070000Z
+DTEND:20230801T090000Z
+SUMMARY:Vietnam – Niederlande 0:7
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Forsyth Barr Stadium\, Dunedin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1104375@anstoss
+DTSTAMP:20230806T020000Z
+DTSTART:20230806T020000Z
+DTEND:20230806T040000Z
+SUMMARY:Niederlande – South Africa 2:0
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Sydney Football Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1104375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1108402@anstoss
+DTSTAMP:20230811T010000Z
+DTSTART:20230811T010000Z
+DTEND:20230811T030000Z
+SUMMARY:Spanien – Niederlande 2:1
+DESCRIPTION:World Cup - Women · Viertelfinale
+LOCATION:Wellington Regional Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1108402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193105@anstoss
+DTSTAMP:20240405T161500Z
+DTSTART:20240405T161500Z
+DTEND:20240405T181500Z
+SUMMARY:Italien – Niederlande 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Stadio San Vito-Luigi Marulla\, Cosenza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193105.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193118@anstoss
+DTSTAMP:20240409T184500Z
+DTSTART:20240409T184500Z
+DTEND:20240409T204500Z
+SUMMARY:Niederlande – Norwegen 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Rat Verlegh Stadion\, Breda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193125@anstoss
+DTSTAMP:20240531T184500Z
+DTSTART:20240531T184500Z
+DTEND:20240531T204500Z
+SUMMARY:Niederlande – Finnland 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Sparta-Stadion Het Kasteel\, Rotterdam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193128@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Finnland – Niederlande 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193135@anstoss
+DTSTAMP:20240712T184500Z
+DTSTART:20240712T184500Z
+DTEND:20240712T204500Z
+SUMMARY:Niederlande – Italien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Fortuna Sittard Stadion\, Sittard
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193143@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Norwegen – Niederlande 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315758@anstoss
+DTSTAMP:20250221T194500Z
+DTSTART:20250221T194500Z
+DTEND:20250221T214500Z
+SUMMARY:Niederlande – Deutschland 2:2
+DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+LOCATION:Rat Verlegh Stadion\, Breda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315766@anstoss
+DTSTAMP:20250225T193000Z
+DTSTART:20250225T193000Z
+DTEND:20250225T213000Z
+SUMMARY:Schottland – Niederlande 1:2
+DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315766.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315773@anstoss
+DTSTAMP:20250404T180000Z
+DTSTART:20250404T180000Z
+DTEND:20250404T200000Z
+SUMMARY:Niederlande – Österreich 3:1
+DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+LOCATION:Asito Stadium\, Almelo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315773.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315781@anstoss
+DTSTAMP:20250408T161500Z
+DTSTART:20250408T161500Z
+DTEND:20250408T181500Z
+SUMMARY:Österreich – Niederlande 1:3
+DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+LOCATION:Cashpoint-Arena\, Altach
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315781.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315789@anstoss
+DTSTAMP:20250530T183000Z
+DTSTART:20250530T183000Z
+DTEND:20250530T203000Z
+SUMMARY:Deutschland – Niederlande 4:0
+DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+LOCATION:Weserstadion\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315798@anstoss
+DTSTAMP:20250603T183000Z
+DTSTART:20250603T183000Z
+DTEND:20250603T203000Z
+SUMMARY:Niederlande – Schottland 1:1
+DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+LOCATION:Koning Willem II Stadion\, Tilburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315798.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367630@anstoss
+DTSTAMP:20250705T160000Z
+DTSTART:20250705T160000Z
+DTEND:20250705T180000Z
+SUMMARY:Wales – Niederlande 0:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:swissporarena\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367638@anstoss
+DTSTAMP:20250709T160000Z
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+SUMMARY:England – Niederlande 4:0
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367646@anstoss
+DTSTAMP:20250713T190000Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+SUMMARY:Niederlande – Frankreich 2:5
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523820@anstoss
 DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maldives
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1007654@anstoss
+DTSTAMP:20230405T120000Z
+DTSTART:20230405T120000Z
+DTEND:20230405T140000Z
+SUMMARY:Myanmar – Maldives
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007654.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007666@anstoss
+DTSTAMP:20230408T090000Z
+DTSTART:20230408T090000Z
+DTEND:20230408T110000Z
+SUMMARY:Maldives – Iran
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007666.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007679@anstoss
+DTSTAMP:20230411T090000Z
+DTSTART:20230411T090000Z
+DTEND:20230411T110000Z
+SUMMARY:Bangladesh – Maldives
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007679.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372387@anstoss
+DTSTAMP:20250629T120000Z
+DTSTART:20250629T120000Z
+DTEND:20250629T140000Z
+SUMMARY:Vietnam – Maldives 7:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372403@anstoss
+DTSTAMP:20250702T090000Z
+DTSTART:20250702T090000Z
+DTEND:20250702T110000Z
+SUMMARY:Maldives – Guam 0:3
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372420@anstoss
+DTSTAMP:20250705T090000Z
+DTSTART:20250705T090000Z
+DTEND:20250705T110000Z
+SUMMARY:UAE – Maldives 5:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372420.ht
+ ml
+END:VEVENT
+END:VCALENDAR

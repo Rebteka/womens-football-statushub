@@ -107,6 +107,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1529946.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1553780@anstoss
+DTSTAMP:20260613T103000Z
+DTSTART:20260613T103000Z
+DTEND:20260613T123000Z
+SUMMARY:Spartak Moskva – CSKA Moskva 1:0
+DESCRIPTION:Super Cup Women · Finale
+LOCATION:Lukoil Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1529953@anstoss
 DTSTAMP:20260620T110000Z
 DTSTART:20260620T110000Z

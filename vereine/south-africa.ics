@@ -8,6 +8,213 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1013561@anstoss
+DTSTAMP:20230723T050000Z
+DTSTART:20230723T050000Z
+DTEND:20230723T070000Z
+SUMMARY:Schweden – South Africa 2:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013561.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013576@anstoss
+DTSTAMP:20230728T000000Z
+DTSTART:20230728T000000Z
+DTEND:20230728T020000Z
+SUMMARY:Argentina – South Africa 2:2
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Forsyth Barr Stadium\, Dunedin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013576.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013595@anstoss
+DTSTAMP:20230802T070000Z
+DTSTART:20230802T070000Z
+DTEND:20230802T090000Z
+SUMMARY:South Africa – Italien 3:2
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1104375@anstoss
+DTSTAMP:20230806T020000Z
+DTSTART:20230806T020000Z
+DTEND:20230806T040000Z
+SUMMARY:Niederlande – South Africa 2:0
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Sydney Football Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1104375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140648@anstoss
+DTSTAMP:20231025T000000Z
+DTSTART:20231025T000000Z
+DTEND:20231025T020000Z
+SUMMARY:Congo DR – South Africa 1:1
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Stade des Martyrs de la Pentecôte\, Kinshasa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140648.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140649@anstoss
+DTSTAMP:20231030T140000Z
+DTSTART:20231030T140000Z
+DTEND:20231030T160000Z
+SUMMARY:South Africa – Congo DR 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Orlando Stadium\, Johannesburg\, GA
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140649.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140990@anstoss
+DTSTAMP:20240223T130000Z
+DTSTART:20240223T130000Z
+DTEND:20240223T150000Z
+SUMMARY:Tanzania – South Africa 0:3
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Azam Complex Stadium\, Mbagala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140991@anstoss
+DTSTAMP:20240227T150000Z
+DTSTART:20240227T150000Z
+DTEND:20240227T170000Z
+SUMMARY:South Africa – Tanzania 1:0
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Mbombela Stadium\, Nelspruit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178197@anstoss
+DTSTAMP:20240405T150000Z
+DTSTART:20240405T150000Z
+DTEND:20240405T170000Z
+SUMMARY:Nigeria – South Africa 1:0
+DESCRIPTION:Olympics Women - Qualification CAF · 4th Round
+LOCATION:MKO Abiola Stadium\, Abeokuta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178198@anstoss
+DTSTAMP:20240409T173000Z
+DTSTART:20240409T173000Z
+DTEND:20240409T193000Z
+SUMMARY:South Africa – Nigeria 0:0
+DESCRIPTION:Olympics Women - Qualification CAF · 4th Round
+LOCATION:Loftus Versfeld Stadium\, Tshwane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178198.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539390@anstoss
+DTSTAMP:20260414T130000Z
+DTSTART:20260414T130000Z
+DTEND:20260414T150000Z
+SUMMARY:South Africa – Algeria 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540809@anstoss
+DTSTAMP:20260417T130000Z
+DTSTART:20260417T130000Z
+DTEND:20260417T150000Z
+SUMMARY:South Africa – Algeria 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540809.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539392@anstoss
+DTSTAMP:20260606T065000Z
+DTSTART:20260606T065000Z
+DTEND:20260606T085000Z
+SUMMARY:Japan – South Africa 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Yanmar Stadium Nagai\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542896@anstoss
+DTSTAMP:20260609T063000Z
+DTSTART:20260609T063000Z
+DTEND:20260609T083000Z
+SUMMARY:Japan – South Africa 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:J-GREEN Sakai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600200@anstoss
+DTSTAMP:20260727T170000Z
+DTSTART:20260727T170000Z
+DTEND:20260727T190000Z
+SUMMARY:South Africa – Tanzania 1:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600200.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600208@anstoss
+DTSTAMP:20260731T170000Z
+DTSTART:20260731T170000Z
+DTEND:20260731T190000Z
+SUMMARY:South Africa – Ivory Coast 2:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600208.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600216@anstoss
+DTSTAMP:20260804T200000Z
+DTSTART:20260804T200000Z
+DTEND:20260804T220000Z
+SUMMARY:Burkina Faso – South Africa 0:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600216.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611361@anstoss
+DTSTAMP:20260808T200000Z
+DTSTART:20260808T200000Z
+DTEND:20260808T220000Z
+SUMMARY:Morocco – South Africa 2:1
+DESCRIPTION:Africa Cup of Nations - Women · Viertelfinale
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619533@anstoss
+DTSTAMP:20260813T200000Z
+DTSTART:20260813T200000Z
+DTEND:20260813T220000Z
+SUMMARY:South Africa – Nigeria 2:1
+DESCRIPTION:Africa Cup of Nations - Women · Finale
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1638241@anstoss
 DTSTAMP:20261128T140000Z
 DTSTART;VALUE=DATE:20261128

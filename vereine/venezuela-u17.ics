@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Venezuela U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1366989@anstoss
+DTSTAMP:20250430T213000Z
+DTSTART:20250430T213000Z
+DTEND:20250430T233000Z
+SUMMARY:Venezuela U17 – Chile U17 2:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366994@anstoss
+DTSTAMP:20250503T000000Z
+DTSTART:20250503T000000Z
+DTEND:20250503T020000Z
+SUMMARY:Venezuela U17 – Colombia U17 0:3
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366994.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366998@anstoss
+DTSTAMP:20250505T000000Z
+DTSTART:20250505T000000Z
+DTEND:20250505T020000Z
+SUMMARY:Argentina U17 – Venezuela U17 0:0
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367001@anstoss
+DTSTAMP:20250506T213000Z
+DTSTART:20250506T213000Z
+DTEND:20250506T233000Z
+SUMMARY:Paraguay U17 – Venezuela U17 1:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546119@anstoss
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:France U17 – Venezuela U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588913@anstoss
+DTSTAMP:20261021T170000Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Venezuela U17 – Zambia U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546140@anstoss
+DTSTAMP:20261024T170000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+SUMMARY:Venezuela U17 – Japan U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546140.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UAE
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1372388@anstoss
+DTSTAMP:20250629T090000Z
+DTSTART:20250629T090000Z
+DTEND:20250629T110000Z
+SUMMARY:Guam – UAE 0:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372404@anstoss
+DTSTAMP:20250702T120000Z
+DTSTART:20250702T120000Z
+DTEND:20250702T140000Z
+SUMMARY:UAE – Vietnam 0:6
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372420@anstoss
+DTSTAMP:20250705T090000Z
+DTSTART:20250705T090000Z
+DTEND:20250705T110000Z
+SUMMARY:UAE – Maldives 5:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529314@anstoss
+DTSTAMP:20260305T160000Z
+DTSTART:20260305T160000Z
+DTEND:20260305T180000Z
+SUMMARY:UAE – Tajikistan 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529314.ht
+ ml
+END:VEVENT
+END:VCALENDAR

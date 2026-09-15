@@ -381,7 +381,7 @@ UID:fixture-1523826@anstoss
 DTSTAMP:20260303T183000Z
 DTSTART:20260303T183000Z
 DTEND:20260303T203000Z
-SUMMARY:Luxembourg – Scotland 0:5
+SUMMARY:Luxembourg – Schottland 0:5
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
  . Spieltag
 LOCATION:Stade Emile Mayrisch\, Esch-sur-Alzette
@@ -662,7 +662,7 @@ UID:fixture-1523851@anstoss
 DTSTAMP:20260307T170000Z
 DTSTART:20260307T170000Z
 DTEND:20260307T190000Z
-SUMMARY:Scotland – Luxembourg 7:0
+SUMMARY:Schottland – Luxembourg 7:0
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
  . Spieltag
 LOCATION:Hampden Park\, Glasgow
@@ -1062,7 +1062,7 @@ UID:fixture-1523875@anstoss
 DTSTAMP:20260414T183000Z
 DTSTART:20260414T183000Z
 DTEND:20260414T203000Z
-SUMMARY:Scotland – Belgien 1:1
+SUMMARY:Schottland – Belgien 1:1
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
  . Spieltag
 LOCATION:Easter Road\, Edinburgh
@@ -1368,7 +1368,7 @@ UID:fixture-1523900@anstoss
 DTSTAMP:20260418T183000Z
 DTSTART:20260418T183000Z
 DTEND:20260418T203000Z
-SUMMARY:Belgien – Scotland 0:0
+SUMMARY:Belgien – Schottland 0:0
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
  . Spieltag
 LOCATION:Den Dreef\, Heverlee
@@ -1534,7 +1534,7 @@ UID:fixture-1523926@anstoss
 DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
-SUMMARY:Scotland – Israel 6:0
+SUMMARY:Schottland – Israel 6:0
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
  . Spieltag
 LOCATION:Bozsik Arena\, Budapest
@@ -1833,7 +1833,7 @@ UID:fixture-1523951@anstoss
 DTSTAMP:20260609T170000Z
 DTSTART:20260609T170000Z
 DTEND:20260609T190000Z
-SUMMARY:Israel – Scotland 1:5
+SUMMARY:Israel – Schottland 1:5
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
  . Spieltag
 LOCATION:Bozsik Arena\, Budapest
@@ -2028,7 +2028,7 @@ UID:fixture-1557246@anstoss
 DTSTAMP:20261009T130000Z
 DTSTART:20261009T130000Z
 DTEND:20261009T150000Z
-SUMMARY:Tschechien – Scotland
+SUMMARY:Tschechien – Schottland
 DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557246.ht
  ml
@@ -2238,7 +2238,7 @@ UID:fixture-1557267@anstoss
 DTSTAMP:20261013T130000Z
 DTSTART:20261013T130000Z
 DTEND:20261013T150000Z
-SUMMARY:Scotland – Tschechien
+SUMMARY:Schottland – Tschechien
 DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557267.ht
  ml

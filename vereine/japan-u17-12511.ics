@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Japan U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1512637@anstoss
+DTSTAMP:20260121T150000Z
+DTSTART:20260121T150000Z
+DTEND:20260121T170000Z
+SUMMARY:Czech Republic U17 – Japan U17 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512640@anstoss
+DTSTAMP:20260124T110000Z
+DTSTART:20260124T110000Z
+DTEND:20260124T130000Z
+SUMMARY:Switzerland U17 – Japan U17 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512644@anstoss
+DTSTAMP:20260127T150000Z
+DTSTART:20260127T150000Z
+DTEND:20260127T170000Z
+SUMMARY:Portugal U17 – Japan U17 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583657@anstoss
+DTSTAMP:20260703T080000Z
+DTSTART:20260703T080000Z
+DTEND:20260703T100000Z
+SUMMARY:Japan U17 – United States W U17 5:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583658@anstoss
+DTSTAMP:20260706T080000Z
+DTSTART:20260706T080000Z
+DTEND:20260706T100000Z
+SUMMARY:Japan U17 – United States W U17 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583658.ht
+ ml
+END:VEVENT
+END:VCALENDAR

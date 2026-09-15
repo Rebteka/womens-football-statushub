@@ -8,6 +8,121 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1480947@anstoss
+DTSTAMP:20251221T123000Z
+DTSTART:20251221T123000Z
+DTEND:20251221T143000Z
+SUMMARY:Lumezzane – Roma 1:4
+DESCRIPTION:Coppa Italia Women · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514287@anstoss
+DTSTAMP:20260121T193000Z
+DTSTART:20260121T193000Z
+DTEND:20260121T213000Z
+SUMMARY:Lazio – Roma 0:0
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514289@anstoss
+DTSTAMP:20260128T170000Z
+DTSTART:20260128T170000Z
+DTEND:20260128T190000Z
+SUMMARY:Roma – Lazio 3:0
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538185@anstoss
+DTSTAMP:20260312T170000Z
+DTSTART:20260312T170000Z
+DTEND:20260312T190000Z
+SUMMARY:Roma – Inter Mailand 1:1
+DESCRIPTION:Coppa Italia Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538185.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538186@anstoss
+DTSTAMP:20260329T130000Z
+DTSTART:20260329T130000Z
+DTEND:20260329T150000Z
+SUMMARY:Inter Mailand – Roma 1:2
+DESCRIPTION:Coppa Italia Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542084@anstoss
+DTSTAMP:20260524T160000Z
+DTSTART:20260524T160000Z
+DTEND:20260524T180000Z
+SUMMARY:Juventus – Roma 0:1
+DESCRIPTION:Coppa Italia Women · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542084.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582316@anstoss
+DTSTAMP:20260822T160000Z
+DTSTART:20260822T160000Z
+DTEND:20260822T180000Z
+SUMMARY:Ternana – Roma 0:2
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582318@anstoss
+DTSTAMP:20260830T160000Z
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+SUMMARY:Roma – Sassuolo 0:1
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582323@anstoss
+DTSTAMP:20260905T153000Z
+DTSTART:20260905T153000Z
+DTEND:20260905T173000Z
+SUMMARY:Roma – Fiorentina 3:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638665@anstoss
+DTSTAMP:20260913T100000Z
+DTSTART:20260913T100000Z
+DTEND:20260913T120000Z
+SUMMARY:Sassuolo – Roma 1:7
+DESCRIPTION:Serie A Cup Women · Halbfinale
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639485@anstoss
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:Roma – Juventus
+DESCRIPTION:Serie A Cup Women · Finale
+LOCATION:Stadio dei Pini\, Viareggio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1638317@anstoss
 DTSTAMP:20260923T164500Z
 DTSTART:20260923T164500Z

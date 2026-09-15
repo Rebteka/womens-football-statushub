@@ -8,6 +8,16 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1539599@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:DLR Waves – Lisburn Rangers 1:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1535371@anstoss
 DTSTAMP:20260501T184500Z
 DTSTART:20260501T184500Z
@@ -15,6 +25,16 @@ DTEND:20260501T204500Z
 SUMMARY:Glentoran BU – Lisburn Rangers 5:0
 DESCRIPTION:Premiership Women · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539612@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:Lisburn Rangers – Galway United 1:4
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539612.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -35,6 +55,16 @@ DTEND:20260522T204500Z
 SUMMARY:Lisburn Rangers – Crusaders 1:3
 DESCRIPTION:Premiership Women · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542076@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Peamount United – Lisburn Rangers 6:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542076.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

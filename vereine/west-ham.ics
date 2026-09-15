@@ -8,6 +8,28 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1501240@anstoss
+DTSTAMP:20260116T193000Z
+DTSTART:20260116T193000Z
+DTEND:20260116T213000Z
+SUMMARY:Newcastle United – West Ham 0:3
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501240.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514952@anstoss
+DTSTAMP:20260222T120000Z
+DTSTART:20260222T120000Z
+DTEND:20260222T140000Z
+SUMMARY:West Ham – Brighton 1:2
+DESCRIPTION:FA Women's Cup · Round 5
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607666@anstoss
 DTSTAMP:20260906T110000Z
 DTSTART:20260906T110000Z
@@ -41,6 +63,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607683.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612637@anstoss
+DTSTAMP:20260923T180000Z
+DTSTART:20260923T180000Z
+DTEND:20260923T200000Z
+SUMMARY:Tottenham Hotspur – West Ham
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Brisbane Road\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607686@anstoss
 DTSTAMP:20260927T120000Z
 DTSTART:20260927T120000Z
@@ -49,6 +82,17 @@ SUMMARY:Manchester United – West Ham
 DESCRIPTION:Women's Super League · 4. Spieltag
 LOCATION:Leigh Sports Village\, Leigh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612643@anstoss
+DTSTAMP:20260930T180000Z
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
+SUMMARY:West Ham – Southampton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612643.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -74,6 +118,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607702.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612658@anstoss
+DTSTAMP:20261021T180000Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:West Ham – London City Lionesses
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607707@anstoss
 DTSTAMP:20261024T161500Z
 DTSTART:20261024T161500Z
@@ -82,6 +137,17 @@ SUMMARY:Brighton – West Ham
 DESCRIPTION:Women's Super League · 7. Spieltag
 LOCATION:The Broadfield Stadium\, Crawley
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607707.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612665@anstoss
+DTSTAMP:20261028T193000Z
+DTSTART:20261028T193000Z
+DTEND:20261028T213000Z
+SUMMARY:Charlton Athletic – West Ham
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:The Valley\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612665.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -118,6 +184,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607731.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612683@anstoss
+DTSTAMP:20261118T190000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:West Ham – Wolverhampton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612683.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607733@anstoss
 DTSTAMP:20261122T123000Z
 DTSTART:20261122T123000Z
@@ -137,6 +214,17 @@ SUMMARY:West Ham – Aston Villa
 DESCRIPTION:Women's Super League · 12. Spieltag
 LOCATION:Chigwell Construction Stadium\, Essex
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612700@anstoss
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:Watford – West Ham
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612700.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Vincent / Grenadines
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140580@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:Barbados – St. Vincent / Grenadines 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140580.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140610@anstoss
+DTSTAMP:20231205T200000Z
+DTSTART:20231205T200000Z
+DTEND:20231205T220000Z
+SUMMARY:St. Vincent / Grenadines – Barbados 4:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140610.ht
+ ml
+END:VEVENT
+END:VCALENDAR

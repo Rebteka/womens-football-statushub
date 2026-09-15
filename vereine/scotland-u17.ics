@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Scotland U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1521028@anstoss
+DTSTAMP:20260209T133000Z
+DTSTART:20260209T133000Z
+DTEND:20260209T153000Z
+SUMMARY:Scotland U17 – Morocco U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521480@anstoss
+DTSTAMP:20260212T133000Z
+DTSTART:20260212T133000Z
+DTEND:20260212T153000Z
+SUMMARY:Wales U17 – Scotland U17 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522485@anstoss
+DTSTAMP:20260214T133000Z
+DTSTART:20260214T133000Z
+DTEND:20260214T153000Z
+SUMMARY:Scotland U17 – Poland U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522485.ht
+ ml
+END:VEVENT
+END:VCALENDAR

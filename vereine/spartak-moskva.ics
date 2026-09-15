@@ -8,6 +8,16 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1515174@anstoss
+DTSTAMP:20260130T140000Z
+DTSTART:20260130T140000Z
+DTEND:20260130T160000Z
+SUMMARY:India – Spartak Moskva 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1529892@anstoss
 DTSTAMP:20260314T070000Z
 DTSTART:20260314T070000Z
@@ -104,6 +114,17 @@ SUMMARY:Spartak Moskva – Krylya Sovetov 1:0
 DESCRIPTION:Supreme Division Women · 10. Spieltag
 LOCATION:Cherenkov Academy Stadium\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1529948.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553780@anstoss
+DTSTAMP:20260613T103000Z
+DTSTART:20260613T103000Z
+DTEND:20260613T123000Z
+SUMMARY:Spartak Moskva – CSKA Moskva 1:0
+DESCRIPTION:Super Cup Women · Finale
+LOCATION:Lukoil Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553780.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mauritania
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526980@anstoss
+DTSTAMP:20260409T193000Z
+DTSTART:20260409T193000Z
+DTEND:20260409T213000Z
+SUMMARY:Ivory Coast – Mauritania 8:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526980.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526984@anstoss
+DTSTAMP:20260412T160000Z
+DTSTART:20260412T160000Z
+DTEND:20260412T180000Z
+SUMMARY:Pakistan – Mauritania 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526984.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526988@anstoss
+DTSTAMP:20260416T160000Z
+DTSTART:20260416T160000Z
+DTEND:20260416T180000Z
+SUMMARY:Turks and Caicos Islands – Mauritania 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526988.ht
+ ml
+END:VEVENT
+END:VCALENDAR

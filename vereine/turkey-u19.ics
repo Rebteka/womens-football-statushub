@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Turkey U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529304@anstoss
+DTSTAMP:20260228T120000Z
+DTSTART:20260228T120000Z
+DTEND:20260228T140000Z
+SUMMARY:Turkey U19 – Morocco U20 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529309@anstoss
+DTSTAMP:20260303T120000Z
+DTSTART:20260303T120000Z
+DTEND:20260303T140000Z
+SUMMARY:Turkey U19 – Uzbekistan U20 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529309.ht
+ ml
+END:VEVENT
+END:VCALENDAR

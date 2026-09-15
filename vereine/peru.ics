@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Peru
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1327491@anstoss
+DTSTAMP:20250712T210000Z
+DTSTART:20250712T210000Z
+DTEND:20250712T230000Z
+SUMMARY:Peru – Chile 0:3
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327494@anstoss
+DTSTAMP:20250716T000000Z
+DTSTART:20250716T000000Z
+DTEND:20250716T020000Z
+SUMMARY:Peru – Ecuador 1:3
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327499@anstoss
+DTSTAMP:20250718T210000Z
+DTSTART:20250718T210000Z
+DTEND:20250718T230000Z
+SUMMARY:Uruguay – Peru 1:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327503@anstoss
+DTSTAMP:20250721T210000Z
+DTSTART:20250721T210000Z
+DTEND:20250721T230000Z
+SUMMARY:Argentina – Peru 1:0
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483016@anstoss
+DTSTAMP:20251024T230000Z
+DTSTART:20251024T230000Z
+DTEND:20251025T010000Z
+SUMMARY:Kolumbien – Peru 4:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483024@anstoss
+DTSTAMP:20251128T210000Z
+DTSTART:20251128T210000Z
+DTEND:20251128T230000Z
+SUMMARY:Peru – Chile 3:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483028@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Venezuela – Peru 6:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526972@anstoss
+DTSTAMP:20260304T203000Z
+DTSTART:20260304T203000Z
+DTEND:20260304T223000Z
+SUMMARY:Peru – El Salvador 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526977@anstoss
+DTSTAMP:20260307T203000Z
+DTSTART:20260307T203000Z
+DTEND:20260307T223000Z
+SUMMARY:Peru – El Salvador 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483032@anstoss
+DTSTAMP:20260410T210000Z
+DTSTART:20260410T210000Z
+DTEND:20260410T230000Z
+SUMMARY:Peru – Uruguay 2:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483035@anstoss
+DTSTAMP:20260414T210000Z
+DTSTART:20260414T210000Z
+DTEND:20260414T230000Z
+SUMMARY:Peru – Paraguay 1:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 6. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483038@anstoss
+DTSTAMP:20260418T210000Z
+DTSTART:20260418T210000Z
+DTEND:20260418T230000Z
+SUMMARY:Ecuador – Peru 1:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483041@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Argentina – Peru 1:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 8. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483047@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Peru – Bolivia 4:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Miguel Grau\, Callao
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638734@anstoss
+DTSTAMP:20261009T200000Z
+DTSTART:20261009T200000Z
+DTEND:20261009T220000Z
+SUMMARY:Peru – Philippines
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638736@anstoss
+DTSTAMP:20261013T190000Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Peru – Philippines
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638736.ht
+ ml
+END:VEVENT
+END:VCALENDAR

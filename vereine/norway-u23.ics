@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Norway U23
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501820@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Norway U23 – Germany U23 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539733@anstoss
+DTSTAMP:20260413T170000Z
+DTSTART:20260413T170000Z
+DTEND:20260413T190000Z
+SUMMARY:Norway U23 – Sweden U23 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539733.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540807@anstoss
+DTSTAMP:20260417T110000Z
+DTSTART:20260417T110000Z
+DTEND:20260417T130000Z
+SUMMARY:Netherlands U23 – Norway U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540807.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548463@anstoss
+DTSTAMP:20260603T163000Z
+DTSTART:20260603T163000Z
+DTEND:20260603T183000Z
+SUMMARY:Sweden U23 – Norway U23 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548470@anstoss
+DTSTAMP:20260605T130000Z
+DTSTART:20260605T130000Z
+DTEND:20260605T150000Z
+SUMMARY:Norway U23 – Mexico U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548470.ht
+ ml
+END:VEVENT
+END:VCALENDAR

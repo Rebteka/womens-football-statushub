@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Northern Mariana Islands
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1399959@anstoss
+DTSTAMP:20231130T050000Z
+DTSTART:20231130T050000Z
+DTEND:20231130T070000Z
+SUMMARY:Mongolia – Northern Mariana Islands 3:4
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 1. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 1\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399961@anstoss
+DTSTAMP:20231202T020000Z
+DTSTART:20231202T020000Z
+DTEND:20231202T040000Z
+SUMMARY:Northern Mariana Islands – Hong Kong 1:6
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 2. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399964@anstoss
+DTSTAMP:20231204T020000Z
+DTSTART:20231204T020000Z
+DTEND:20231204T040000Z
+SUMMARY:Northern Mariana Islands – Korea DPR 0:17
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 3. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399955@anstoss
+DTSTAMP:20231206T050000Z
+DTSTART:20231206T050000Z
+DTEND:20231206T070000Z
+SUMMARY:Northern Mariana Islands – Macau 4:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Playoffs
+LOCATION:Suoka Sports Training Base Pitch 1\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399955.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -255,4 +255,47 @@ DESCRIPTION:Úrvalsdeild Women · Championship Round · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1544355.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626949@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:Apollon Limassol – FH 0:2
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626967@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:FH – Apollon Limassol 0:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Kaplakriki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638399@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Eintracht Frankfurt – FH
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638418@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:FH – Eintracht Frankfurt
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638418.ht
+ ml
+END:VEVENT
 END:VCALENDAR

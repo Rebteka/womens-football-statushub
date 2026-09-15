@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sabah
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578033@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:Sabah – Rovers FC 13:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578043@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Rajshahi – Sabah 1:2
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578051@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:East Bengal – Sabah 2:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578051.ht
+ ml
+END:VEVENT
+END:VCALENDAR

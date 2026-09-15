@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chatham Town
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1483353@anstoss
+DTSTAMP:20251026T140000Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:AFC Wimbledon – Chatham Town 3:3
+DESCRIPTION:FA Women's Cup · 1st Round
+LOCATION:The Cherry Red Records Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1487287@anstoss
+DTSTAMP:20251123T140000Z
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+SUMMARY:Exeter City – Chatham Town 2:2
+DESCRIPTION:FA Women's Cup · 2nd Round
+LOCATION:St James Park\, Exeter
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1487287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488465@anstoss
+DTSTAMP:20251214T143000Z
+DTSTART:20251214T143000Z
+DTEND:20251214T163000Z
+SUMMARY:Sutton United – Chatham Town 0:3
+DESCRIPTION:FA Women's Cup · 3rd Round
+LOCATION:VBS Community Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501253@anstoss
+DTSTAMP:20260118T130000Z
+DTSTART:20260118T130000Z
+DTEND:20260118T150000Z
+SUMMARY:Chatham Town – York City LFC 3:0
+DESCRIPTION:FA Women's Cup · Round 4
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501253.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514951@anstoss
+DTSTAMP:20260221T171500Z
+DTSTART:20260221T171500Z
+DTEND:20260221T191500Z
+SUMMARY:Birmingham City – Chatham Town 8:0
+DESCRIPTION:FA Women's Cup · Round 5
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514951.ht
+ ml
+END:VEVENT
+END:VCALENDAR

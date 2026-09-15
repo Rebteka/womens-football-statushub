@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dominican Republic
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140579@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:Bermuda – Dominican Republic 2:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
+ Parish
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140579.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140586@anstoss
+DTSTAMP:20230927T000000Z
+DTSTART:20230927T000000Z
+DTEND:20230927T020000Z
+SUMMARY:Dominican Republic – Barbados 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140591@anstoss
+DTSTAMP:20231027T190000Z
+DTSTART:20231027T190000Z
+DTEND:20231027T210000Z
+SUMMARY:Barbados – Dominican Republic 0:8
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Arnos Vale Ground\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140598@anstoss
+DTSTAMP:20231031T230000Z
+DTSTART:20231031T230000Z
+DTEND:20231101T010000Z
+SUMMARY:Dominican Republic – Barbados 4:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140604@anstoss
+DTSTAMP:20231201T230000Z
+DTSTART:20231201T230000Z
+DTEND:20231202T010000Z
+SUMMARY:Barbados – Dominican Republic 1:7
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140609@anstoss
+DTSTAMP:20231205T220000Z
+DTSTART:20231205T220000Z
+DTEND:20231206T000000Z
+SUMMARY:Dominican Republic – Bermuda 2:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1146254@anstoss
+DTSTAMP:20240217T210000Z
+DTSTART:20240217T210000Z
+DTEND:20240217T230000Z
+SUMMARY:Guyana – Dominican Republic 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · Playoffs
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1146254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174961@anstoss
+DTSTAMP:20240221T031500Z
+DTSTART:20240221T031500Z
+DTEND:20240221T051500Z
+SUMMARY:USA – Dominican Republic 5:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174964@anstoss
+DTSTAMP:20240224T003000Z
+DTSTART:20240224T003000Z
+DTEND:20240224T023000Z
+SUMMARY:Dominican Republic – Mexiko 0:8
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174967@anstoss
+DTSTAMP:20240227T000000Z
+DTSTART:20240227T000000Z
+DTEND:20240227T020000Z
+SUMMARY:Argentina – Dominican Republic 3:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488285@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Dominican Republic – Suriname 2:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Complejo Deportivo Moca 85\, Moca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488289@anstoss
+DTSTAMP:20260228T230000Z
+DTSTART:20260228T230000Z
+DTEND:20260301T010000Z
+SUMMARY:Dominican Republic – Belize 6:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Cibao FC\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488301@anstoss
+DTSTAMP:20260306T190000Z
+DTSTART:20260306T190000Z
+DTEND:20260306T210000Z
+SUMMARY:Anguilla – Dominican Republic 0:8
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488314@anstoss
+DTSTAMP:20260418T000000Z
+DTSTART:20260418T000000Z
+DTEND:20260418T020000Z
+SUMMARY:Haiti – Dominican Republic 1:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Stade Roger Zami\, Le Gosier
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610868@anstoss
+DTSTAMP:20260722T200000Z
+DTSTART:20260722T200000Z
+DTEND:20260722T220000Z
+SUMMARY:Dominican Republic – Mexico U23 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610868.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Iceland U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1548476@anstoss
+DTSTAMP:20260606T130000Z
+DTSTART:20260606T130000Z
+DTEND:20260606T150000Z
+SUMMARY:Norway U18 – Iceland U19 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548482@anstoss
+DTSTAMP:20260608T163000Z
+DTSTART:20260608T163000Z
+DTEND:20260608T183000Z
+SUMMARY:Sweden U18 – Iceland U19 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561060@anstoss
+DTSTAMP:20260628T150000Z
+DTSTART:20260628T150000Z
+DTEND:20260628T170000Z
+SUMMARY:Austria U19 – Iceland U19 3:0
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+LOCATION:Bilino Polje\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561060.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561064@anstoss
+DTSTAMP:20260701T150000Z
+DTSTART:20260701T150000Z
+DTEND:20260701T170000Z
+SUMMARY:Spain U19 – Iceland U19 4:0
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561064.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561067@anstoss
+DTSTAMP:20260704T150000Z
+DTSTART:20260704T150000Z
+DTEND:20260704T170000Z
+SUMMARY:Iceland U19 – Switzerland U19 3:4
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561067.ht
+ ml
+END:VEVENT
+END:VCALENDAR

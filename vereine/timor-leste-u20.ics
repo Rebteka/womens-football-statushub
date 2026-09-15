@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Timor-Leste U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1426547@anstoss
+DTSTAMP:20250806T090000Z
+DTSTART:20250806T090000Z
+DTEND:20250806T110000Z
+SUMMARY:Korea Republic U20 – Timor-Leste U20 9:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426553@anstoss
+DTSTAMP:20250808T090000Z
+DTSTART:20250808T090000Z
+DTEND:20250808T110000Z
+SUMMARY:Timor-Leste U20 – Bangladesh U20 0:8
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426558@anstoss
+DTSTAMP:20250810T123000Z
+DTSTART:20250810T123000Z
+DTEND:20250810T143000Z
+SUMMARY:Laos U20 – Timor-Leste U20 2:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426558.ht
+ ml
+END:VEVENT
+END:VCALENDAR

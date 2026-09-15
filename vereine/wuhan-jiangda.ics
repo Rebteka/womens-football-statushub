@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wuhan Jiangda
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1514362@anstoss
+DTSTAMP:20251008T080000Z
+DTSTART:20251008T080000Z
+DTEND:20251008T100000Z
+SUMMARY:Wuhan Jiangda – Auckland United 1:0
+DESCRIPTION:FIFA Women Champions Cup · Achtelfinale
+LOCATION:Wuhan Sports Centre\, Wuhan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514363@anstoss
+DTSTAMP:20251214T180000Z
+DTSTART:20251214T180000Z
+DTEND:20251214T200000Z
+SUMMARY:FAR Rabat – Wuhan Jiangda 2:1
+DESCRIPTION:FIFA Women Champions Cup · Viertelfinale
+LOCATION:Stade municipal de Berrechid\, Berrechid
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514363.ht
+ ml
+END:VEVENT
+END:VCALENDAR

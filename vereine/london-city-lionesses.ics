@@ -8,6 +8,28 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1501241@anstoss
+DTSTAMP:20260117T121500Z
+DTSTART:20260117T121500Z
+DTEND:20260117T141500Z
+SUMMARY:Sunderland – London City Lionesses 0:1
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501241.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514958@anstoss
+DTSTAMP:20260223T193000Z
+DTSTART:20260223T193000Z
+DTEND:20260223T213000Z
+SUMMARY:London City Lionesses – Tottenham Hotspur 2:2
+DESCRIPTION:FA Women's Cup · Round 5
+LOCATION:Hayes Lane\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607663@anstoss
 DTSTAMP:20260904T180000Z
 DTSTART:20260904T180000Z
@@ -41,6 +63,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607678.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612638@anstoss
+DTSTAMP:20260923T183000Z
+DTSTART:20260923T183000Z
+DTEND:20260923T203000Z
+SUMMARY:Leicester City FC – London City Lionesses
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607685@anstoss
 DTSTAMP:20260926T160000Z
 DTSTART:20260926T160000Z
@@ -49,6 +82,16 @@ SUMMARY:London City Lionesses – Brighton
 DESCRIPTION:Women's Super League · 4. Spieltag
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607685.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612645@anstoss
+DTSTAMP:20260930T183000Z
+DTSTART:20260930T183000Z
+DTEND:20260930T203000Z
+SUMMARY:Ipswich Town – London City Lionesses
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612645.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -74,6 +117,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607703.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612658@anstoss
+DTSTAMP:20261021T180000Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:West Ham – London City Lionesses
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607710@anstoss
 DTSTAMP:20261025T140000Z
 DTSTART:20261025T140000Z
@@ -82,6 +136,17 @@ SUMMARY:Liverpool – London City Lionesses
 DESCRIPTION:Women's Super League · 7. Spieltag
 LOCATION:St Helens Stadium\, St Helens
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607710.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612661@anstoss
+DTSTAMP:20261028T190000Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:London City Lionesses – Crystal Palace
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Hayes Lane\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612661.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -118,6 +183,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607727.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612679@anstoss
+DTSTAMP:20261118T190000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:London City Lionesses – Brighton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Hayes Lane\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612679.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607738@anstoss
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -137,6 +213,17 @@ SUMMARY:Chelsea – London City Lionesses
 DESCRIPTION:Women's Super League · 12. Spieltag
 LOCATION:Stamford Bridge\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607743.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612696@anstoss
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:London City Lionesses – Bristol City
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Hayes Lane\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612696.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

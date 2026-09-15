@@ -8,6 +8,16 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1539600@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:Treaty Utd – Cliftonville 3:2
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539600.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1535370@anstoss
 DTSTAMP:20260501T190000Z
 DTSTART:20260501T190000Z
@@ -15,6 +25,16 @@ DTEND:20260501T210000Z
 SUMMARY:Cliftonville – Lisburn Ladies 5:0
 DESCRIPTION:Premiership Women · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539611@anstoss
+DTSTAMP:20260510T130000Z
+DTSTART:20260510T130000Z
+DTEND:20260510T150000Z
+SUMMARY:Cliftonville – Athlone WFC 0:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539611.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -35,6 +55,26 @@ DTEND:20260522T210000Z
 SUMMARY:Cliftonville – Linfield 3:2
 DESCRIPTION:Premiership Women · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542077@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Cliftonville – Cork City 3:3
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542077.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553409@anstoss
+DTSTAMP:20260613T150000Z
+DTSTART:20260613T150000Z
+DTEND:20260613T170000Z
+SUMMARY:Shelbourne – Cliftonville 3:1
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553409.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

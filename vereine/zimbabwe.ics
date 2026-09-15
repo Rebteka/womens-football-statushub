@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zimbabwe
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1548473@anstoss
+DTSTAMP:20260606T103000Z
+DTSTART:20260606T103000Z
+DTEND:20260606T123000Z
+SUMMARY:Zimbabwe – Lesotho 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545737@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Kenya – Zimbabwe
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545737.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545743@anstoss
+DTSTAMP:20260609T120000Z
+DTSTART:20260609T120000Z
+DTEND:20260609T140000Z
+SUMMARY:Zimbabwe – Burkina Faso
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545743.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550876@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Zambia – Zimbabwe 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550876.ht
+ ml
+END:VEVENT
+END:VCALENDAR

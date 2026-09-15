@@ -248,6 +248,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573681.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612701@anstoss
+DTSTAMP:20270120T180000Z
+DTSTART:20270120T180000Z
+DTEND:20270120T200000Z
+SUMMARY:Barcelona – Real Sociedad
+DESCRIPTION:Supercopa Femenina · Halbfinale
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612701.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1573689@anstoss
 DTSTAMP:20270124T160000Z
 DTSTART;VALUE=DATE:20270124

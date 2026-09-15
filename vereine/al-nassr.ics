@@ -8,6 +8,39 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1578029@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:Etihad Club – Al Nassr 2:2
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578035@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Al Nassr – Bam Khatoon 1:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578047@anstoss
+DTSTAMP:20260823T150000Z
+DTSTART:20260823T150000Z
+DTEND:20260823T170000Z
+SUMMARY:Al Nassr – CSKA Pomir Dushanbe 12:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1619336@anstoss
 DTSTAMP:20260910T173000Z
 DTSTART:20260910T173000Z

@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hull City
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1483351@anstoss
+DTSTAMP:20251026T140000Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Halifax – Hull City 1:4
+DESCRIPTION:FA Women's Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1487288@anstoss
+DTSTAMP:20251123T140000Z
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+SUMMARY:Stourbridge – Hull City 1:7
+DESCRIPTION:FA Women's Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1487288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488463@anstoss
+DTSTAMP:20251214T140000Z
+DTSTART:20251214T140000Z
+DTEND:20251214T160000Z
+SUMMARY:Mancunian Unity – Hull City 1:2
+DESCRIPTION:FA Women's Cup · 3rd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501248@anstoss
+DTSTAMP:20260118T140000Z
+DTSTART:20260118T140000Z
+DTEND:20260118T160000Z
+SUMMARY:Hull City – Birmingham City 2:6
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:MKM Stadium\, Hull
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501248.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rajshahi
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578028@anstoss
+DTSTAMP:20260817T080000Z
+DTSTART:20260817T080000Z
+DTEND:20260817T100000Z
+SUMMARY:East Bengal – Rajshahi 4:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578043@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Rajshahi – Sabah 1:2
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578058@anstoss
+DTSTAMP:20260823T080000Z
+DTSTART:20260823T080000Z
+DTEND:20260823T100000Z
+SUMMARY:Rovers FC – Rajshahi 0:8
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578058.ht
+ ml
+END:VEVENT
+END:VCALENDAR

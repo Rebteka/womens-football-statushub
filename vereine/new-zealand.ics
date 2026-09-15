@@ -8,6 +8,72 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1013552@anstoss
+DTSTAMP:20230720T070000Z
+DTSTART:20230720T070000Z
+DTEND:20230720T090000Z
+SUMMARY:New Zealand – Norwegen 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013552.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013568@anstoss
+DTSTAMP:20230725T053000Z
+DTSTART:20230725T053000Z
+DTEND:20230725T073000Z
+SUMMARY:New Zealand – Philippines 0:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013568.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013584@anstoss
+DTSTAMP:20230730T070000Z
+DTSTART:20230730T070000Z
+DTEND:20230730T090000Z
+SUMMARY:Schweiz – New Zealand 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Forsyth Barr Stadium\, Dunedin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187464@anstoss
+DTSTAMP:20240725T150000Z
+DTSTART:20240725T150000Z
+DTEND:20240725T170000Z
+SUMMARY:Kanada – New Zealand 2:1
+DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187468@anstoss
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:New Zealand – Kolumbien 0:2
+DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187473@anstoss
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T210000Z
+SUMMARY:New Zealand – Frankreich 1:2
+DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1526399@anstoss
 DTSTAMP:20260227T020000Z
 DTSTART:20260227T020000Z
@@ -60,6 +126,46 @@ SUMMARY:New Zealand – Papua New Guinea 1:0
 DESCRIPTION:World Cup - Women - Qualification Europe · Finale
 LOCATION:North Harbour Stadium\, Auckland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544818@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:New Zealand – Haiti 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544818.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544819@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:New Zealand – Morocco 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544819.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638584@anstoss
+DTSTAMP:20261010T210000Z
+DTSTART:20261010T210000Z
+DTEND:20261010T230000Z
+SUMMARY:Panama – New Zealand
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638587@anstoss
+DTSTAMP:20261014T003000Z
+DTSTART:20261014T003000Z
+DTEND:20261014T023000Z
+SUMMARY:Panama – New Zealand
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638587.ht
  ml
 END:VEVENT
 END:VCALENDAR

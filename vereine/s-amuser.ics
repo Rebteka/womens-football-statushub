@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:S'Amuser
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578027@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:BGC Asian Scholars – S'Amuser 10:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578046@anstoss
+DTSTAMP:20260820T090000Z
+DTSTART:20260820T090000Z
+DTEND:20260820T110000Z
+SUMMARY:S'Amuser – April 0:12
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578055@anstoss
+DTSTAMP:20260823T090000Z
+DTSTART:20260823T090000Z
+DTEND:20260823T110000Z
+SUMMARY:Kharaatsai – S'Amuser 0:3
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578055.ht
+ ml
+END:VEVENT
+END:VCALENDAR

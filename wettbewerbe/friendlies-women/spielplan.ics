@@ -1,0 +1,3557 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Friendlies Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501819@anstoss
+DTSTAMP:20260111T140000Z
+DTSTART:20260111T140000Z
+DTEND:20260111T160000Z
+SUMMARY:Germany U17 – United States W U17 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501819.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503000@anstoss
+DTSTAMP:20260114T110000Z
+DTSTART:20260114T110000Z
+DTEND:20260114T130000Z
+SUMMARY:United States W U17 – Denmark U17 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1505935@anstoss
+DTSTAMP:20260118T110000Z
+DTSTART:20260118T110000Z
+DTEND:20260118T130000Z
+SUMMARY:Belgium U17 – Denmark U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1505935.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1509295@anstoss
+DTSTAMP:20260118T123000Z
+DTSTART:20260118T123000Z
+DTEND:20260118T143000Z
+SUMMARY:India – Metalist 1925 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1509295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1509296@anstoss
+DTSTAMP:20260121T120000Z
+DTSTART:20260121T120000Z
+DTEND:20260121T140000Z
+SUMMARY:India – Zürich
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1509296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512637@anstoss
+DTSTAMP:20260121T150000Z
+DTSTART:20260121T150000Z
+DTEND:20260121T170000Z
+SUMMARY:Czech Republic U17 – Japan U17 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512638@anstoss
+DTSTAMP:20260121T160000Z
+DTSTART:20260121T160000Z
+DTEND:20260121T180000Z
+SUMMARY:Portugal U17 – Switzerland U17 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512642@anstoss
+DTSTAMP:20260123T230000Z
+DTSTART:20260123T230000Z
+DTEND:20260124T010000Z
+SUMMARY:Uruguay U20 – Ecuador U20 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512640@anstoss
+DTSTAMP:20260124T110000Z
+DTSTART:20260124T110000Z
+DTEND:20260124T130000Z
+SUMMARY:Switzerland U17 – Japan U17 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1509297@anstoss
+DTSTAMP:20260124T120000Z
+DTSTART:20260124T120000Z
+DTEND:20260124T140000Z
+SUMMARY:India – Schlieren 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1509297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512641@anstoss
+DTSTAMP:20260124T150000Z
+DTSTART:20260124T150000Z
+DTEND:20260124T170000Z
+SUMMARY:Portugal U17 – Czech Republic U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503001@anstoss
+DTSTAMP:20260124T223000Z
+DTSTART:20260124T223000Z
+DTEND:20260125T003000Z
+SUMMARY:USA – Paraguay 6:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Dignity Health Sports Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512639@anstoss
+DTSTAMP:20260125T123000Z
+DTSTART:20260125T123000Z
+DTEND:20260125T143000Z
+SUMMARY:Uruguay U20 – Ecuador U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514935@anstoss
+DTSTAMP:20260127T090000Z
+DTSTART:20260127T090000Z
+DTEND:20260127T110000Z
+SUMMARY:Vietnam – Uzbekistan 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514935.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512643@anstoss
+DTSTAMP:20260127T120000Z
+DTSTART:20260127T120000Z
+DTEND:20260127T140000Z
+SUMMARY:Switzerland U17 – Czech Republic U17 1:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512644@anstoss
+DTSTAMP:20260127T150000Z
+DTSTART:20260127T150000Z
+DTEND:20260127T170000Z
+SUMMARY:Portugal U17 – Japan U17 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503002@anstoss
+DTSTAMP:20260128T030000Z
+DTSTART:20260128T030000Z
+DTEND:20260128T050000Z
+SUMMARY:USA – Chile 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Harder Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514936@anstoss
+DTSTAMP:20260130T083000Z
+DTSTART:20260130T083000Z
+DTEND:20260130T103000Z
+SUMMARY:Vietnam – Uzbekistan 2:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514936.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1515174@anstoss
+DTSTAMP:20260130T140000Z
+DTSTART:20260130T140000Z
+DTEND:20260130T160000Z
+SUMMARY:India – Spartak Moskva 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520288@anstoss
+DTSTAMP:20260131T061500Z
+DTSTART:20260131T061500Z
+DTEND:20260131T081500Z
+SUMMARY:Bangladesh U19 – Bhutan U19 12:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520289@anstoss
+DTSTAMP:20260131T091500Z
+DTSTART:20260131T091500Z
+DTEND:20260131T111500Z
+SUMMARY:Nepal U19 – India U17 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1517916@anstoss
+DTSTAMP:20260202T061500Z
+DTSTART:20260202T061500Z
+DTEND:20260202T081500Z
+SUMMARY:Bangladesh U19 – India U17 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1517917@anstoss
+DTSTAMP:20260202T091500Z
+DTSTART:20260202T091500Z
+DTEND:20260202T111500Z
+SUMMARY:Nepal U19 – Bhutan U19 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1515175@anstoss
+DTSTAMP:20260202T120000Z
+DTSTART:20260202T120000Z
+DTEND:20260202T140000Z
+SUMMARY:India – Hertha BSC 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515175.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1517918@anstoss
+DTSTAMP:20260204T061500Z
+DTSTART:20260204T061500Z
+DTEND:20260204T081500Z
+SUMMARY:Bhutan U19 – India U17 0:8
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1517919@anstoss
+DTSTAMP:20260204T091500Z
+DTSTART:20260204T091500Z
+DTEND:20260204T111500Z
+SUMMARY:Nepal U19 – Bangladesh U19 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517919.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1517960@anstoss
+DTSTAMP:20260204T100000Z
+DTSTART:20260204T100000Z
+DTEND:20260204T120000Z
+SUMMARY:Uzbekistan U20 – Azerbaijan U19 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1515176@anstoss
+DTSTAMP:20260204T120000Z
+DTSTART:20260204T120000Z
+DTEND:20260204T140000Z
+SUMMARY:India – Zvezda Perm 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520290@anstoss
+DTSTAMP:20260207T081500Z
+DTSTART:20260207T081500Z
+DTEND:20260207T101500Z
+SUMMARY:Bangladesh U19 – India U17 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1517961@anstoss
+DTSTAMP:20260207T100000Z
+DTSTART:20260207T100000Z
+DTEND:20260207T120000Z
+SUMMARY:Uzbekistan U20 – Azerbaijan U19 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1515177@anstoss
+DTSTAMP:20260207T130000Z
+DTSTART:20260207T130000Z
+DTEND:20260207T150000Z
+SUMMARY:India – Csikszereda MC 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515177.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521027@anstoss
+DTSTAMP:20260209T100000Z
+DTSTART:20260209T100000Z
+DTEND:20260209T120000Z
+SUMMARY:Poland U17 – Norway U17 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521028@anstoss
+DTSTAMP:20260209T133000Z
+DTSTART:20260209T133000Z
+DTEND:20260209T153000Z
+SUMMARY:Scotland U17 – Morocco U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521029@anstoss
+DTSTAMP:20260209T153000Z
+DTSTART:20260209T153000Z
+DTEND:20260209T173000Z
+SUMMARY:Mexico U17 – England U17 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521030@anstoss
+DTSTAMP:20260209T193000Z
+DTSTART:20260209T193000Z
+DTEND:20260209T213000Z
+SUMMARY:Wales U17 – United States W U17 0:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521478@anstoss
+DTSTAMP:20260210T110000Z
+DTSTART:20260210T110000Z
+DTEND:20260210T130000Z
+SUMMARY:China – Vietnam 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521479@anstoss
+DTSTAMP:20260212T100000Z
+DTSTART:20260212T100000Z
+DTEND:20260212T120000Z
+SUMMARY:Mexico U17 – Poland U17 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521480@anstoss
+DTSTAMP:20260212T133000Z
+DTSTART:20260212T133000Z
+DTEND:20260212T153000Z
+SUMMARY:Wales U17 – Scotland U17 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521481@anstoss
+DTSTAMP:20260212T153000Z
+DTSTART:20260212T153000Z
+DTEND:20260212T173000Z
+SUMMARY:England U17 – Norway U17 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521482@anstoss
+DTSTAMP:20260212T193000Z
+DTSTART:20260212T193000Z
+DTEND:20260212T213000Z
+SUMMARY:United States W U17 – Morocco U17 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521483@anstoss
+DTSTAMP:20260213T110000Z
+DTSTART:20260213T110000Z
+DTEND:20260213T130000Z
+SUMMARY:China – Vietnam 6:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522484@anstoss
+DTSTAMP:20260214T100000Z
+DTSTART:20260214T100000Z
+DTEND:20260214T120000Z
+SUMMARY:Wales U17 – Mexico U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522484.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522485@anstoss
+DTSTAMP:20260214T133000Z
+DTSTART:20260214T133000Z
+DTEND:20260214T153000Z
+SUMMARY:Scotland U17 – Poland U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522486@anstoss
+DTSTAMP:20260214T153000Z
+DTSTART:20260214T153000Z
+DTEND:20260214T173000Z
+SUMMARY:Morocco U17 – Norway U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522486.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522487@anstoss
+DTSTAMP:20260214T160000Z
+DTSTART:20260214T160000Z
+DTEND:20260214T180000Z
+SUMMARY:United States W U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522487.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525430@anstoss
+DTSTAMP:20260217T133000Z
+DTSTART:20260217T133000Z
+DTEND:20260217T153000Z
+SUMMARY:Italy U17 – Switzerland U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521031@anstoss
+DTSTAMP:20260218T120000Z
+DTSTART:20260218T120000Z
+DTEND:20260218T140000Z
+SUMMARY:France U17 – Netherlands U17 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538883@anstoss
+DTSTAMP:20260219T090000Z
+DTSTART:20260219T090000Z
+DTEND:20260219T110000Z
+SUMMARY:Perth RedStar – India 0:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538883.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525429@anstoss
+DTSTAMP:20260219T100000Z
+DTSTART:20260219T100000Z
+DTEND:20260219T120000Z
+SUMMARY:Italy U17 – Switzerland U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525429.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525766@anstoss
+DTSTAMP:20260221T010000Z
+DTSTART:20260221T010000Z
+DTEND:20260221T030000Z
+SUMMARY:Fiji – American Samoa 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525766.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538884@anstoss
+DTSTAMP:20260223T103000Z
+DTSTART:20260223T103000Z
+DTEND:20260223T123000Z
+SUMMARY:Perth Azzurri – India 2:7
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538884.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529300@anstoss
+DTSTAMP:20260226T180000Z
+DTSTART:20260226T180000Z
+DTEND:20260226T200000Z
+SUMMARY:Bahrain – Saudi-Arabien 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526362@anstoss
+DTSTAMP:20260227T120000Z
+DTSTART:20260227T120000Z
+DTEND:20260227T140000Z
+SUMMARY:USA U19 – Czech Republic U19 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526363@anstoss
+DTSTAMP:20260227T150000Z
+DTSTART:20260227T150000Z
+DTEND:20260227T170000Z
+SUMMARY:Portugal U19 – Wales U19 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529301@anstoss
+DTSTAMP:20260227T220000Z
+DTSTART:20260227T220000Z
+DTEND:20260228T000000Z
+SUMMARY:Morocco – Burkina Faso 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520291@anstoss
+DTSTAMP:20260228T010000Z
+DTSTART:20260228T010000Z
+DTEND:20260228T030000Z
+SUMMARY:Costa Rica – Brasilien 2:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529302@anstoss
+DTSTAMP:20260228T080000Z
+DTSTART:20260228T080000Z
+DTEND:20260228T100000Z
+SUMMARY:Russia U19 – Uzbekistan U20 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529303@anstoss
+DTSTAMP:20260228T100000Z
+DTSTART:20260228T100000Z
+DTEND:20260228T120000Z
+SUMMARY:Malta U19 – Romania U19 0:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526364@anstoss
+DTSTAMP:20260228T110000Z
+DTSTART:20260228T110000Z
+DTEND:20260228T130000Z
+SUMMARY:Spain U20 – England U20 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526957@anstoss
+DTSTAMP:20260228T120000Z
+DTSTART:20260228T120000Z
+DTEND:20260228T140000Z
+SUMMARY:Ghana – Hong Kong 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529304@anstoss
+DTSTAMP:20260228T120000Z
+DTSTART:20260228T120000Z
+DTEND:20260228T140000Z
+SUMMARY:Turkey U19 – Morocco U20 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526365@anstoss
+DTSTAMP:20260228T140000Z
+DTSTART:20260228T140000Z
+DTEND:20260228T160000Z
+SUMMARY:Mexico U20 – Netherlands U19 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526958@anstoss
+DTSTAMP:20260228T150000Z
+DTSTART:20260228T150000Z
+DTEND:20260228T170000Z
+SUMMARY:Cameroon – Nigeria 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526366@anstoss
+DTSTAMP:20260228T150000Z
+DTSTART:20260228T150000Z
+DTEND:20260228T170000Z
+SUMMARY:Belgium U19 – Scotland U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526959@anstoss
+DTSTAMP:20260228T150000Z
+DTSTART:20260228T150000Z
+DTEND:20260228T170000Z
+SUMMARY:Sweden U18 – Hungary U19 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526960@anstoss
+DTSTAMP:20260228T170000Z
+DTSTART:20260228T170000Z
+DTEND:20260228T190000Z
+SUMMARY:Ivory Coast – Benin 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526961@anstoss
+DTSTAMP:20260228T170000Z
+DTSTART:20260228T170000Z
+DTEND:20260228T190000Z
+SUMMARY:Russland – Tanzania 4:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1528259@anstoss
+DTSTAMP:20260228T184500Z
+DTSTART:20260228T184500Z
+DTEND:20260228T204500Z
+SUMMARY:Egypt – Algeria 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529305@anstoss
+DTSTAMP:20260228T190000Z
+DTSTART:20260228T190000Z
+DTEND:20260228T210000Z
+SUMMARY:Jordan U20 – Thailand U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526962@anstoss
+DTSTAMP:20260302T120000Z
+DTSTART:20260302T120000Z
+DTEND:20260302T140000Z
+SUMMARY:Cyprus – Faroe Islands 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526963@anstoss
+DTSTAMP:20260302T120000Z
+DTSTART:20260302T120000Z
+DTEND:20260302T140000Z
+SUMMARY:France U23 – England U23 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526367@anstoss
+DTSTAMP:20260302T120000Z
+DTSTART:20260302T120000Z
+DTEND:20260302T140000Z
+SUMMARY:Switzerland U19 – Republic of Ireland U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529306@anstoss
+DTSTAMP:20260302T130000Z
+DTSTART:20260302T130000Z
+DTEND:20260302T150000Z
+SUMMARY:Malta U19 – Romania U19 1:8
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526368@anstoss
+DTSTAMP:20260302T130000Z
+DTSTART:20260302T130000Z
+DTEND:20260302T150000Z
+SUMMARY:Wales U19 – USA U19 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526369@anstoss
+DTSTAMP:20260302T140000Z
+DTSTART:20260302T140000Z
+DTEND:20260302T160000Z
+SUMMARY:Austria U19 – Finland U19 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529307@anstoss
+DTSTAMP:20260302T150000Z
+DTSTART:20260302T150000Z
+DTEND:20260302T170000Z
+SUMMARY:Portugal U23 – Italy U23 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526965@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Kenya – Benin 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526370@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Portugal U19 – Czech Republic U19 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526964@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Belgium U23 – Sweden U23 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501820@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Norway U23 – Germany U23 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529308@anstoss
+DTSTAMP:20260302T190000Z
+DTSTART:20260302T190000Z
+DTEND:20260302T210000Z
+SUMMARY:Saudi-Arabien – Kyrgyz Republic 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526966@anstoss
+DTSTAMP:20260302T190000Z
+DTSTART:20260302T190000Z
+DTEND:20260302T210000Z
+SUMMARY:Scotland U23 – Netherlands U23 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1528260@anstoss
+DTSTAMP:20260302T193000Z
+DTSTART:20260302T193000Z
+DTEND:20260302T213000Z
+SUMMARY:Egypt – Algeria 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526371@anstoss
+DTSTAMP:20260303T100000Z
+DTSTART:20260303T100000Z
+DTEND:20260303T120000Z
+SUMMARY:Belgium U19 – Scotland U19 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526372@anstoss
+DTSTAMP:20260303T110000Z
+DTSTART:20260303T110000Z
+DTEND:20260303T130000Z
+SUMMARY:Spain U20 – Mexico U20 5:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526967@anstoss
+DTSTAMP:20260303T120000Z
+DTSTART:20260303T120000Z
+DTEND:20260303T140000Z
+SUMMARY:Ghana – Russland 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526373@anstoss
+DTSTAMP:20260303T120000Z
+DTSTART:20260303T120000Z
+DTEND:20260303T140000Z
+SUMMARY:Denmark U19 – Norway U19 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529309@anstoss
+DTSTAMP:20260303T120000Z
+DTSTART:20260303T120000Z
+DTEND:20260303T140000Z
+SUMMARY:Turkey U19 – Uzbekistan U20 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529310@anstoss
+DTSTAMP:20260303T130000Z
+DTSTART:20260303T130000Z
+DTEND:20260303T150000Z
+SUMMARY:Morocco U20 – Thailand U20 4:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526374@anstoss
+DTSTAMP:20260303T140000Z
+DTSTART:20260303T140000Z
+DTEND:20260303T160000Z
+SUMMARY:Netherlands U19 – England U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526375@anstoss
+DTSTAMP:20260303T143000Z
+DTSTART:20260303T143000Z
+DTEND:20260303T163000Z
+SUMMARY:France U19 – Italy U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526968@anstoss
+DTSTAMP:20260303T150000Z
+DTSTART:20260303T150000Z
+DTEND:20260303T170000Z
+SUMMARY:Cameroon – Nigeria 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1528261@anstoss
+DTSTAMP:20260303T150000Z
+DTSTART:20260303T150000Z
+DTEND:20260303T170000Z
+SUMMARY:USA U18 – Sweden U18 8:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528261.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526969@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Hong Kong – Tanzania
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526969.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526376@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Germany U19 – Sweden U19 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529311@anstoss
+DTSTAMP:20260303T190000Z
+DTSTART:20260303T190000Z
+DTEND:20260303T210000Z
+SUMMARY:Jordan U20 – Russia U19 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529312@anstoss
+DTSTAMP:20260303T220000Z
+DTSTART:20260303T220000Z
+DTEND:20260304T000000Z
+SUMMARY:Morocco – Burkina Faso 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533345@anstoss
+DTSTAMP:20260304T110000Z
+DTSTART:20260304T110000Z
+DTEND:20260304T130000Z
+SUMMARY:Serbia U19 – Greece U19 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525764@anstoss
+DTSTAMP:20260304T133000Z
+DTSTART:20260304T133000Z
+DTEND:20260304T153000Z
+SUMMARY:Italy U19 – Poland U19 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526970@anstoss
+DTSTAMP:20260304T190000Z
+DTSTART:20260304T190000Z
+DTEND:20260304T210000Z
+SUMMARY:Ivory Coast – Kenya 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526971@anstoss
+DTSTAMP:20260304T200000Z
+DTSTART:20260304T200000Z
+DTEND:20260304T220000Z
+SUMMARY:Ecuador – Uruguay 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526972@anstoss
+DTSTAMP:20260304T203000Z
+DTSTART:20260304T203000Z
+DTEND:20260304T223000Z
+SUMMARY:Peru – El Salvador 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520292@anstoss
+DTSTAMP:20260304T213000Z
+DTSTART:20260304T213000Z
+DTEND:20260304T233000Z
+SUMMARY:Brasilien – Venezuela 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526973@anstoss
+DTSTAMP:20260304T220000Z
+DTSTART:20260304T220000Z
+DTEND:20260305T000000Z
+SUMMARY:Paraguay – Chile 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526377@anstoss
+DTSTAMP:20260305T100000Z
+DTSTART:20260305T100000Z
+DTEND:20260305T120000Z
+SUMMARY:Austria U19 – Finland U19 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526378@anstoss
+DTSTAMP:20260305T120000Z
+DTSTART:20260305T120000Z
+DTEND:20260305T140000Z
+SUMMARY:Czech Republic U19 – Wales U19 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526379@anstoss
+DTSTAMP:20260305T130000Z
+DTSTART:20260305T130000Z
+DTEND:20260305T150000Z
+SUMMARY:Republic of Ireland U19 – Switzerland U19 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529313@anstoss
+DTSTAMP:20260305T150000Z
+DTSTART:20260305T150000Z
+DTEND:20260305T170000Z
+SUMMARY:Portugal U23 – Czech Republic U23 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529314@anstoss
+DTSTAMP:20260305T160000Z
+DTSTART:20260305T160000Z
+DTEND:20260305T180000Z
+SUMMARY:UAE – Tajikistan 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526974@anstoss
+DTSTAMP:20260306T070000Z
+DTSTART:20260306T070000Z
+DTEND:20260306T090000Z
+SUMMARY:Russland – Hong Kong
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526974.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526381@anstoss
+DTSTAMP:20260306T100000Z
+DTSTART:20260306T100000Z
+DTEND:20260306T120000Z
+SUMMARY:Spain U20 – Netherlands U19 6:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1528262@anstoss
+DTSTAMP:20260306T100000Z
+DTSTART:20260306T100000Z
+DTEND:20260306T120000Z
+SUMMARY:Hungary U19 – USA U18 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526383@anstoss
+DTSTAMP:20260306T110000Z
+DTSTART:20260306T110000Z
+DTEND:20260306T130000Z
+SUMMARY:France U19 – Norway U19 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526382@anstoss
+DTSTAMP:20260306T110000Z
+DTSTART:20260306T110000Z
+DTEND:20260306T130000Z
+SUMMARY:England U20 – Mexico U20 4:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529316@anstoss
+DTSTAMP:20260306T120000Z
+DTSTART:20260306T120000Z
+DTEND:20260306T140000Z
+SUMMARY:Uzbekistan U20 – Morocco U20 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529317@anstoss
+DTSTAMP:20260306T120000Z
+DTSTART:20260306T120000Z
+DTEND:20260306T140000Z
+SUMMARY:Romania U23 – Sweden U23 1:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529315@anstoss
+DTSTAMP:20260306T120000Z
+DTSTART:20260306T120000Z
+DTEND:20260306T140000Z
+SUMMARY:Russia U19 – Thailand U20 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526384@anstoss
+DTSTAMP:20260306T130000Z
+DTSTART:20260306T130000Z
+DTEND:20260306T150000Z
+SUMMARY:Denmark U19 – Sweden U19 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526380@anstoss
+DTSTAMP:20260306T150000Z
+DTSTART:20260306T150000Z
+DTEND:20260306T170000Z
+SUMMARY:Portugal U19 – USA U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526385@anstoss
+DTSTAMP:20260306T153000Z
+DTSTART:20260306T153000Z
+DTEND:20260306T173000Z
+SUMMARY:Italy U19 – Germany U19 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526975@anstoss
+DTSTAMP:20260306T170000Z
+DTSTART:20260306T170000Z
+DTEND:20260306T190000Z
+SUMMARY:Ghana – Tanzania
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526975.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501821@anstoss
+DTSTAMP:20260306T171500Z
+DTSTART:20260306T171500Z
+DTEND:20260306T191500Z
+SUMMARY:Germany U23 – Belgium U23 4:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501821.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529318@anstoss
+DTSTAMP:20260306T190000Z
+DTSTART:20260306T190000Z
+DTEND:20260306T210000Z
+SUMMARY:Saudi-Arabien – Kyrgyz Republic 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529319@anstoss
+DTSTAMP:20260306T190000Z
+DTSTART:20260306T190000Z
+DTEND:20260306T210000Z
+SUMMARY:England U23 – Netherlands U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525765@anstoss
+DTSTAMP:20260307T100000Z
+DTSTART:20260307T100000Z
+DTEND:20260307T120000Z
+SUMMARY:Italy U19 – Poland U19 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529320@anstoss
+DTSTAMP:20260307T100000Z
+DTSTART:20260307T100000Z
+DTEND:20260307T120000Z
+SUMMARY:Serbia U19 – Greece U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533346@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:América – Venezuela 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526976@anstoss
+DTSTAMP:20260307T171500Z
+DTSTART:20260307T171500Z
+DTEND:20260307T191500Z
+SUMMARY:Ecuador – Uruguay 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526977@anstoss
+DTSTAMP:20260307T203000Z
+DTSTART:20260307T203000Z
+DTEND:20260307T223000Z
+SUMMARY:Peru – El Salvador 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533347@anstoss
+DTSTAMP:20260307T220000Z
+DTSTART:20260307T220000Z
+DTEND:20260308T000000Z
+SUMMARY:Morocco – Cape Verde 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526978@anstoss
+DTSTAMP:20260307T220000Z
+DTSTART:20260307T220000Z
+DTEND:20260308T000000Z
+SUMMARY:Paraguay – Chile 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526978.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520293@anstoss
+DTSTAMP:20260307T230000Z
+DTSTART:20260307T230000Z
+DTEND:20260308T010000Z
+SUMMARY:Mexiko – Brasilien 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Ciudad de los Deportes\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537377@anstoss
+DTSTAMP:20260324T090000Z
+DTSTART:20260324T090000Z
+DTEND:20260324T110000Z
+SUMMARY:Vietnam U20 – Uzbekistan U20 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537383@anstoss
+DTSTAMP:20260327T090000Z
+DTSTART:20260327T090000Z
+DTEND:20260327T110000Z
+SUMMARY:Vietnam U20 – Uzbekistan U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538298@anstoss
+DTSTAMP:20260327T140000Z
+DTSTART:20260327T140000Z
+DTEND:20260327T160000Z
+SUMMARY:Jordan U20 – Bangladesh U20 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537382@anstoss
+DTSTAMP:20260327T223000Z
+DTSTART:20260327T223000Z
+DTEND:20260328T003000Z
+SUMMARY:South Africa U17 – Argentina U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537381@anstoss
+DTSTAMP:20260329T183000Z
+DTSTART:20260329T183000Z
+DTEND:20260329T203000Z
+SUMMARY:South Africa U17 – Argentina U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539383@anstoss
+DTSTAMP:20260407T120000Z
+DTSTART:20260407T120000Z
+DTEND:20260407T140000Z
+SUMMARY:Bhutan – Macau 7:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539729@anstoss
+DTSTAMP:20260408T133000Z
+DTSTART:20260408T133000Z
+DTEND:20260408T153000Z
+SUMMARY:Uzbekistan U18 – Morocco U17 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539729.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539384@anstoss
+DTSTAMP:20260409T140000Z
+DTSTART:20260409T140000Z
+DTEND:20260409T160000Z
+SUMMARY:Portugal U18 – Sweden U18 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526979@anstoss
+DTSTAMP:20260409T160000Z
+DTSTART:20260409T160000Z
+DTEND:20260409T180000Z
+SUMMARY:Pakistan – Turks and Caicos Islands 8:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526980@anstoss
+DTSTAMP:20260409T193000Z
+DTSTART:20260409T193000Z
+DTEND:20260409T213000Z
+SUMMARY:Ivory Coast – Mauritania 8:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526980.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537380@anstoss
+DTSTAMP:20260410T103000Z
+DTSTART:20260410T103000Z
+DTEND:20260410T123000Z
+SUMMARY:Czech Republic U23 – Estonia 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539385@anstoss
+DTSTAMP:20260410T140000Z
+DTSTART:20260410T140000Z
+DTEND:20260410T160000Z
+SUMMARY:Netherlands U23 – USA U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540254@anstoss
+DTSTAMP:20260410T160000Z
+DTSTART:20260410T160000Z
+DTEND:20260410T180000Z
+SUMMARY:Saudi-Arabien – Botswana 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539730@anstoss
+DTSTAMP:20260411T083000Z
+DTSTART:20260411T083000Z
+DTEND:20260411T103000Z
+SUMMARY:Turkey U18 – Uzbekistan U18 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539730.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538881@anstoss
+DTSTAMP:20260411T110000Z
+DTSTART:20260411T110000Z
+DTEND:20260411T130000Z
+SUMMARY:Australien – Malawi 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539386@anstoss
+DTSTAMP:20260411T120000Z
+DTSTART:20260411T120000Z
+DTEND:20260411T140000Z
+SUMMARY:Hong Kong – Indonesia
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539386.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538882@anstoss
+DTSTAMP:20260411T140000Z
+DTSTART:20260411T140000Z
+DTEND:20260411T160000Z
+SUMMARY:Kenya – India 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526981@anstoss
+DTSTAMP:20260411T190000Z
+DTSTART:20260411T190000Z
+DTEND:20260411T210000Z
+SUMMARY:Kanada – Zambia 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514113@anstoss
+DTSTAMP:20260411T213000Z
+DTSTART:20260411T213000Z
+DTEND:20260411T233000Z
+SUMMARY:USA – Japan 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:PayPal Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514113.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540801@anstoss
+DTSTAMP:20260411T233000Z
+DTSTART:20260411T233000Z
+DTEND:20260412T013000Z
+SUMMARY:United States U20 – Brazil U20 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540801.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526982@anstoss
+DTSTAMP:20260412T013000Z
+DTSTART:20260412T013000Z
+DTEND:20260412T033000Z
+SUMMARY:Brasilien – Südkorea 5:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526982.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526983@anstoss
+DTSTAMP:20260412T090000Z
+DTSTART:20260412T090000Z
+DTEND:20260412T110000Z
+SUMMARY:Nepal – Congo DR
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526983.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540255@anstoss
+DTSTAMP:20260412T090000Z
+DTSTART:20260412T090000Z
+DTEND:20260412T110000Z
+SUMMARY:Indonesia – Congo DR 1:7
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540255.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539731@anstoss
+DTSTAMP:20260412T110000Z
+DTSTART:20260412T110000Z
+DTEND:20260412T130000Z
+SUMMARY:France U23 – Scotland U23 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539731.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539387@anstoss
+DTSTAMP:20260412T110000Z
+DTSTART:20260412T110000Z
+DTEND:20260412T130000Z
+SUMMARY:Portugal U18 – Sweden U18 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540256@anstoss
+DTSTAMP:20260412T130000Z
+DTSTART:20260412T130000Z
+DTEND:20260412T150000Z
+SUMMARY:Tunisia – Benin 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537379@anstoss
+DTSTAMP:20260412T133000Z
+DTSTART:20260412T133000Z
+DTEND:20260412T153000Z
+SUMMARY:Thailand – New Caledonia 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540591@anstoss
+DTSTAMP:20260412T150000Z
+DTSTART:20260412T150000Z
+DTEND:20260412T170000Z
+SUMMARY:Saudi Arabia U20 – Botswana 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526984@anstoss
+DTSTAMP:20260412T160000Z
+DTSTART:20260412T160000Z
+DTEND:20260412T180000Z
+SUMMARY:Pakistan – Mauritania 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526984.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533348@anstoss
+DTSTAMP:20260412T170000Z
+DTSTART:20260412T170000Z
+DTEND:20260412T190000Z
+SUMMARY:Germany U23 – Belgium U23 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539732@anstoss
+DTSTAMP:20260412T170000Z
+DTSTART:20260412T170000Z
+DTEND:20260412T190000Z
+SUMMARY:Portugal U23 – Italy U23 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526985@anstoss
+DTSTAMP:20260412T193000Z
+DTSTART:20260412T193000Z
+DTEND:20260412T213000Z
+SUMMARY:Turks and Caicos Islands – Ivory Coast 1:15
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526985.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539388@anstoss
+DTSTAMP:20260413T110000Z
+DTSTART:20260413T110000Z
+DTEND:20260413T130000Z
+SUMMARY:Denmark U23 – USA U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539389@anstoss
+DTSTAMP:20260413T120000Z
+DTSTART:20260413T120000Z
+DTEND:20260413T140000Z
+SUMMARY:Singapore – Hong Kong
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539389.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537378@anstoss
+DTSTAMP:20260413T140000Z
+DTSTART:20260413T140000Z
+DTEND:20260413T160000Z
+SUMMARY:England U23 – Netherlands U23 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540257@anstoss
+DTSTAMP:20260413T170000Z
+DTSTART:20260413T170000Z
+DTEND:20260413T190000Z
+SUMMARY:Senegal – Burkina Faso 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540257.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539733@anstoss
+DTSTAMP:20260413T170000Z
+DTSTART:20260413T170000Z
+DTEND:20260413T190000Z
+SUMMARY:Norway U23 – Sweden U23 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539733.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540258@anstoss
+DTSTAMP:20260413T200000Z
+DTSTART:20260413T200000Z
+DTEND:20260413T220000Z
+SUMMARY:Morocco – Tanzania 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540258.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539734@anstoss
+DTSTAMP:20260413T210000Z
+DTSTART:20260413T210000Z
+DTEND:20260413T230000Z
+SUMMARY:Costa Rica U20 – Canada U20 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539735@anstoss
+DTSTAMP:20260414T083000Z
+DTSTART:20260414T083000Z
+DTEND:20260414T103000Z
+SUMMARY:Turkey U18 – Morocco U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540260@anstoss
+DTSTAMP:20260414T123000Z
+DTSTART:20260414T123000Z
+DTEND:20260414T143000Z
+SUMMARY:Russland – Russia U19 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539390@anstoss
+DTSTAMP:20260414T130000Z
+DTSTART:20260414T130000Z
+DTEND:20260414T150000Z
+SUMMARY:South Africa – Algeria 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540800@anstoss
+DTSTAMP:20260414T130000Z
+DTSTART:20260414T130000Z
+DTEND:20260414T150000Z
+SUMMARY:Argentina U20 – USA U19 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540800.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540259@anstoss
+DTSTAMP:20260414T150000Z
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+SUMMARY:Benin – Comoros 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540592@anstoss
+DTSTAMP:20260414T160000Z
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+SUMMARY:Saudi-Arabien – Egypt 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540592.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526986@anstoss
+DTSTAMP:20260414T190000Z
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+SUMMARY:Kanada – Südkorea 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526987@anstoss
+DTSTAMP:20260415T013000Z
+DTSTART:20260415T013000Z
+DTEND:20260415T033000Z
+SUMMARY:Brasilien – Zambia 6:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514114@anstoss
+DTSTAMP:20260415T020000Z
+DTSTART:20260415T020000Z
+DTEND:20260415T040000Z
+SUMMARY:USA – Japan 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540593@anstoss
+DTSTAMP:20260415T090000Z
+DTSTART:20260415T090000Z
+DTEND:20260415T110000Z
+SUMMARY:Indonesia – New Caledonia 4:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540593.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540594@anstoss
+DTSTAMP:20260415T110000Z
+DTSTART:20260415T110000Z
+DTEND:20260415T130000Z
+SUMMARY:India – Malawi 3:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540594.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540595@anstoss
+DTSTAMP:20260415T133000Z
+DTSTART:20260415T133000Z
+DTEND:20260415T153000Z
+SUMMARY:Thailand – Congo DR 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540596@anstoss
+DTSTAMP:20260415T143000Z
+DTSTART:20260415T143000Z
+DTEND:20260415T163000Z
+SUMMARY:Kenya – Australien 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540597@anstoss
+DTSTAMP:20260415T193000Z
+DTSTART:20260415T193000Z
+DTEND:20260415T213000Z
+SUMMARY:United States U20 – Brazil U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540802@anstoss
+DTSTAMP:20260416T110000Z
+DTSTART:20260416T110000Z
+DTEND:20260416T130000Z
+SUMMARY:Belgium U23 – Portugal U23 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540802.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540803@anstoss
+DTSTAMP:20260416T110000Z
+DTSTART:20260416T110000Z
+DTEND:20260416T130000Z
+SUMMARY:Denmark U23 – Scotland U23 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540803.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540261@anstoss
+DTSTAMP:20260416T130000Z
+DTSTART:20260416T130000Z
+DTEND:20260416T150000Z
+SUMMARY:Tunisia – Comoros 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540261.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540804@anstoss
+DTSTAMP:20260416T153000Z
+DTSTART:20260416T153000Z
+DTEND:20260416T173000Z
+SUMMARY:Germany U23 – Italy U23 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540804.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526988@anstoss
+DTSTAMP:20260416T160000Z
+DTSTART:20260416T160000Z
+DTEND:20260416T180000Z
+SUMMARY:Turks and Caicos Islands – Mauritania 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540263@anstoss
+DTSTAMP:20260416T170000Z
+DTSTART:20260416T170000Z
+DTEND:20260416T190000Z
+SUMMARY:Senegal – Burkina Faso 3:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540805@anstoss
+DTSTAMP:20260416T170000Z
+DTSTART:20260416T170000Z
+DTEND:20260416T190000Z
+SUMMARY:France U23 – USA U23 3:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540805.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526989@anstoss
+DTSTAMP:20260416T193000Z
+DTSTART:20260416T193000Z
+DTEND:20260416T213000Z
+SUMMARY:Ivory Coast – Pakistan 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Stade Olympique Alassane Ouattara\, Abidjan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539736@anstoss
+DTSTAMP:20260416T210000Z
+DTSTART:20260416T210000Z
+DTEND:20260416T230000Z
+SUMMARY:Costa Rica U20 – Canada U20 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539736.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540806@anstoss
+DTSTAMP:20260417T100000Z
+DTSTART:20260417T100000Z
+DTEND:20260417T120000Z
+SUMMARY:England U23 – Sweden U23 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540806.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540807@anstoss
+DTSTAMP:20260417T110000Z
+DTSTART:20260417T110000Z
+DTEND:20260417T130000Z
+SUMMARY:Netherlands U23 – Norway U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540807.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540262@anstoss
+DTSTAMP:20260417T123000Z
+DTSTART:20260417T123000Z
+DTEND:20260417T143000Z
+SUMMARY:Russland – Russia U19 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540809@anstoss
+DTSTAMP:20260417T130000Z
+DTSTART:20260417T130000Z
+DTEND:20260417T150000Z
+SUMMARY:South Africa – Algeria 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540809.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540808@anstoss
+DTSTAMP:20260417T130000Z
+DTSTART:20260417T130000Z
+DTEND:20260417T150000Z
+SUMMARY:Argentina U20 – USA U19 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540808.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540264@anstoss
+DTSTAMP:20260417T173000Z
+DTSTART:20260417T173000Z
+DTEND:20260417T193000Z
+SUMMARY:Morocco – Ghana
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540264.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540810@anstoss
+DTSTAMP:20260417T173000Z
+DTSTART:20260417T173000Z
+DTEND:20260417T193000Z
+SUMMARY:Morocco – Mali 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540810.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514115@anstoss
+DTSTAMP:20260418T010000Z
+DTSTART:20260418T010000Z
+DTEND:20260418T030000Z
+SUMMARY:USA – Japan 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539391@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Greece – Moldova 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540598@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Saudi-Arabien – Egypt 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526990@anstoss
+DTSTAMP:20260418T190000Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:Südkorea – Zambia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526991@anstoss
+DTSTAMP:20260419T013000Z
+DTSTART:20260419T013000Z
+DTEND:20260419T033000Z
+SUMMARY:Brasilien – Kanada 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548459@anstoss
+DTSTAMP:20260603T080000Z
+DTSTART:20260603T080000Z
+DTEND:20260603T100000Z
+SUMMARY:Hong Kong – Fiji 3:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548460@anstoss
+DTSTAMP:20260603T100000Z
+DTSTART:20260603T100000Z
+DTEND:20260603T120000Z
+SUMMARY:Finland U23 – Brazil U20 4:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546831@anstoss
+DTSTAMP:20260603T103000Z
+DTSTART:20260603T103000Z
+DTEND:20260603T123000Z
+SUMMARY:Myanmar – Uzbekistan 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546831.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545734@anstoss
+DTSTAMP:20260603T113500Z
+DTSTART:20260603T113500Z
+DTEND:20260603T133500Z
+SUMMARY:China – Russland 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546554@anstoss
+DTSTAMP:20260603T120000Z
+DTSTART:20260603T120000Z
+DTEND:20260603T140000Z
+SUMMARY:Indonesia – Singapore 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546554.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546832@anstoss
+DTSTAMP:20260603T130000Z
+DTSTART:20260603T130000Z
+DTEND:20260603T150000Z
+SUMMARY:Tanzania – Malawi 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546832.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548461@anstoss
+DTSTAMP:20260603T150000Z
+DTSTART:20260603T150000Z
+DTEND:20260603T170000Z
+SUMMARY:Jordan – Malaysia 4:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548462@anstoss
+DTSTAMP:20260603T160000Z
+DTSTART:20260603T160000Z
+DTEND:20260603T180000Z
+SUMMARY:England U20 – Canada U20 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548463@anstoss
+DTSTAMP:20260603T163000Z
+DTSTART:20260603T163000Z
+DTEND:20260603T183000Z
+SUMMARY:Sweden U23 – Norway U23 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548464@anstoss
+DTSTAMP:20260603T180000Z
+DTSTART:20260603T180000Z
+DTEND:20260603T200000Z
+SUMMARY:Malta U19 – Saudi Arabia U20 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550868@anstoss
+DTSTAMP:20260603T230000Z
+DTSTART:20260603T230000Z
+DTEND:20260604T010000Z
+SUMMARY:Cook Islands – Afghanistan 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550868.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548469@anstoss
+DTSTAMP:20260604T150000Z
+DTSTART:20260604T150000Z
+DTEND:20260604T170000Z
+SUMMARY:San Diego Wave – Philippines 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550869@anstoss
+DTSTAMP:20260604T153000Z
+DTSTART:20260604T153000Z
+DTEND:20260604T173000Z
+SUMMARY:Slovenia U19 – Bosnia & Herzegovina U19 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550869.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550870@anstoss
+DTSTAMP:20260604T160000Z
+DTSTART:20260604T160000Z
+DTEND:20260604T180000Z
+SUMMARY:Bahrain – Kyrgyz Republic 0:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548466@anstoss
+DTSTAMP:20260604T160000Z
+DTSTART:20260604T160000Z
+DTEND:20260604T180000Z
+SUMMARY:Burkina Faso – Mali 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533349@anstoss
+DTSTAMP:20260604T160000Z
+DTSTART:20260604T160000Z
+DTEND:20260604T180000Z
+SUMMARY:Germany U23 – Denmark U23 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548467@anstoss
+DTSTAMP:20260604T160000Z
+DTSTART:20260604T160000Z
+DTEND:20260604T180000Z
+SUMMARY:Portugal U18 – Finland U18 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548468@anstoss
+DTSTAMP:20260604T163000Z
+DTSTART:20260604T163000Z
+DTEND:20260604T183000Z
+SUMMARY:Sweden U18 – Norway U18 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546555@anstoss
+DTSTAMP:20260604T220000Z
+DTSTART:20260604T220000Z
+DTEND:20260605T000000Z
+SUMMARY:Bermuda – Belize 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550858@anstoss
+DTSTAMP:20260605T110000Z
+DTSTART:20260605T110000Z
+DTEND:20260605T130000Z
+SUMMARY:Ukraine U19 – Hungary U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550858.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550859@anstoss
+DTSTAMP:20260605T120000Z
+DTSTART:20260605T120000Z
+DTEND:20260605T140000Z
+SUMMARY:Germany U19 – USA U19 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550859.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548470@anstoss
+DTSTAMP:20260605T130000Z
+DTSTART:20260605T130000Z
+DTEND:20260605T150000Z
+SUMMARY:Norway U23 – Mexico U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548471@anstoss
+DTSTAMP:20260605T150000Z
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+SUMMARY:Nigeria – Senegal 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544818@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:New Zealand – Haiti 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544818.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550860@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:United States U20 – France U23 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550860.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546556@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Egypt – Tunisia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546556.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550861@anstoss
+DTSTAMP:20260605T180000Z
+DTSTART:20260605T180000Z
+DTEND:20260605T200000Z
+SUMMARY:Morocco – Benin 4:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546557@anstoss
+DTSTAMP:20260605T190000Z
+DTSTART:20260605T190000Z
+DTEND:20260605T210000Z
+SUMMARY:Ivory Coast – Cape Verde 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546557.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545445@anstoss
+DTSTAMP:20260606T010000Z
+DTSTART:20260606T010000Z
+DTEND:20260606T030000Z
+SUMMARY:Panama – Jamaica 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545735@anstoss
+DTSTAMP:20260606T020000Z
+DTSTART:20260606T020000Z
+DTEND:20260606T040000Z
+SUMMARY:El Salvador – Costa Rica 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Jorge Gonzalez\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539392@anstoss
+DTSTAMP:20260606T065000Z
+DTSTART:20260606T065000Z
+DTEND:20260606T085000Z
+SUMMARY:Japan – South Africa 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Yanmar Stadium Nagai\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544316@anstoss
+DTSTAMP:20260606T091500Z
+DTSTART:20260606T091500Z
+DTEND:20260606T111500Z
+SUMMARY:Australien – Mexiko 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:McDonald Jones Stadium\, Newcastle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546833@anstoss
+DTSTAMP:20260606T100000Z
+DTSTART:20260606T100000Z
+DTEND:20260606T120000Z
+SUMMARY:Hong Kong – Fiji 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546833.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548472@anstoss
+DTSTAMP:20260606T100000Z
+DTSTART:20260606T100000Z
+DTEND:20260606T120000Z
+SUMMARY:Brazil U20 – Korea Republic U20 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550862@anstoss
+DTSTAMP:20260606T100000Z
+DTSTART:20260606T100000Z
+DTEND:20260606T120000Z
+SUMMARY:Slovenia U19 – Bosnia & Herzegovina U19 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550862.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546834@anstoss
+DTSTAMP:20260606T103000Z
+DTSTART:20260606T103000Z
+DTEND:20260606T123000Z
+SUMMARY:Thailand – Uzbekistan 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546834.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548473@anstoss
+DTSTAMP:20260606T103000Z
+DTSTART:20260606T103000Z
+DTEND:20260606T123000Z
+SUMMARY:Zimbabwe – Lesotho 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550863@anstoss
+DTSTAMP:20260606T103000Z
+DTSTART:20260606T103000Z
+DTEND:20260606T123000Z
+SUMMARY:Czech Republic U19 – Mexico U20 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545741@anstoss
+DTSTAMP:20260606T110000Z
+DTSTART:20260606T110000Z
+DTEND:20260606T130000Z
+SUMMARY:Singapore – Cambodia 0:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545738@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Zambia – Burkina Faso
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545738.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545737@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Kenya – Zimbabwe
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545737.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546835@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Malawi – Ghana
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546835.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548474@anstoss
+DTSTAMP:20260606T130000Z
+DTSTART:20260606T130000Z
+DTEND:20260606T150000Z
+SUMMARY:Tanzania – Malawi 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548475@anstoss
+DTSTAMP:20260606T130000Z
+DTSTART:20260606T130000Z
+DTEND:20260606T150000Z
+SUMMARY:Malta U19 – Saudi Arabia U20 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548476@anstoss
+DTSTAMP:20260606T130000Z
+DTSTART:20260606T130000Z
+DTEND:20260606T150000Z
+SUMMARY:Norway U18 – Iceland U19 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548477@anstoss
+DTSTAMP:20260606T133000Z
+DTSTART:20260606T133000Z
+DTEND:20260606T153000Z
+SUMMARY:Zambia – Kenya 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548478@anstoss
+DTSTAMP:20260606T150000Z
+DTSTART:20260606T150000Z
+DTEND:20260606T170000Z
+SUMMARY:Malaysia – Palestine 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550864@anstoss
+DTSTAMP:20260606T160000Z
+DTSTART:20260606T160000Z
+DTEND:20260606T180000Z
+SUMMARY:Canada U20 – Japan U20 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Enrique Roca\, Murcia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550865@anstoss
+DTSTAMP:20260606T173000Z
+DTSTART:20260606T173000Z
+DTEND:20260606T193000Z
+SUMMARY:Wales U19 – Denmark U19 1:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542895@anstoss
+DTSTAMP:20260606T213000Z
+DTSTART:20260606T213000Z
+DTEND:20260606T233000Z
+SUMMARY:Brasilien – USA 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548479@anstoss
+DTSTAMP:20260607T100000Z
+DTSTART:20260607T100000Z
+DTEND:20260607T120000Z
+SUMMARY:Portugal U18 – Finland U18 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545739@anstoss
+DTSTAMP:20260607T110000Z
+DTSTART:20260607T110000Z
+DTEND:20260607T130000Z
+SUMMARY:China – Russland 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Tazi Lake Football Training Centre\, Wuhan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548465@anstoss
+DTSTAMP:20260607T120000Z
+DTSTART:20260607T120000Z
+DTEND:20260607T140000Z
+SUMMARY:Saudi-Arabien – Sri Lanka 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550866@anstoss
+DTSTAMP:20260607T143000Z
+DTSTART:20260607T143000Z
+DTEND:20260607T163000Z
+SUMMARY:USA U18 – Ukraine U19 7:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550866.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550867@anstoss
+DTSTAMP:20260607T160000Z
+DTSTART:20260607T160000Z
+DTEND:20260607T180000Z
+SUMMARY:Bahrain – Kyrgyz Republic 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550867.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548480@anstoss
+DTSTAMP:20260607T160000Z
+DTSTART:20260607T160000Z
+DTEND:20260607T180000Z
+SUMMARY:Burkina Faso – Mali 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546558@anstoss
+DTSTAMP:20260607T220000Z
+DTSTART:20260607T220000Z
+DTEND:20260608T000000Z
+SUMMARY:Bermuda – Belize 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583656@anstoss
+DTSTAMP:20260607T230000Z
+DTSTART:20260607T230000Z
+DTEND:20260608T010000Z
+SUMMARY:Cook Islands – Afghanistan 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583656.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550871@anstoss
+DTSTAMP:20260608T110000Z
+DTSTART:20260608T110000Z
+DTEND:20260608T130000Z
+SUMMARY:France U23 – United States U20 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548481@anstoss
+DTSTAMP:20260608T150000Z
+DTSTART:20260608T150000Z
+DTEND:20260608T170000Z
+SUMMARY:Nigeria – Senegal 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545740@anstoss
+DTSTAMP:20260608T160000Z
+DTSTART:20260608T160000Z
+DTEND:20260608T180000Z
+SUMMARY:Equatorial Guinea – Haiti 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545740.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550872@anstoss
+DTSTAMP:20260608T160000Z
+DTSTART:20260608T160000Z
+DTEND:20260608T180000Z
+SUMMARY:Egypt – Tunisia 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550872.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548482@anstoss
+DTSTAMP:20260608T163000Z
+DTSTART:20260608T163000Z
+DTEND:20260608T183000Z
+SUMMARY:Sweden U18 – Iceland U19 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548483@anstoss
+DTSTAMP:20260608T163000Z
+DTSTART:20260608T163000Z
+DTEND:20260608T183000Z
+SUMMARY:Sweden U23 – Mexico U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533350@anstoss
+DTSTAMP:20260608T181500Z
+DTSTART:20260608T181500Z
+DTEND:20260608T201500Z
+SUMMARY:Germany U23 – Denmark U23 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546559@anstoss
+DTSTAMP:20260608T190000Z
+DTSTART:20260608T190000Z
+DTEND:20260608T210000Z
+SUMMARY:Ivory Coast – Cape Verde 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546559.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545446@anstoss
+DTSTAMP:20260609T010000Z
+DTSTART:20260609T010000Z
+DTEND:20260609T030000Z
+SUMMARY:Panama – Jamaica 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542896@anstoss
+DTSTAMP:20260609T063000Z
+DTSTART:20260609T063000Z
+DTEND:20260609T083000Z
+SUMMARY:Japan – South Africa 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:J-GREEN Sakai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545736@anstoss
+DTSTAMP:20260609T083000Z
+DTSTART:20260609T083000Z
+DTEND:20260609T103000Z
+SUMMARY:Indonesia – Cambodia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545736.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544317@anstoss
+DTSTAMP:20260609T090000Z
+DTSTART:20260609T090000Z
+DTEND:20260609T110000Z
+SUMMARY:Australien – Mexiko 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548485@anstoss
+DTSTAMP:20260609T100000Z
+DTSTART:20260609T100000Z
+DTEND:20260609T120000Z
+SUMMARY:Korea Republic U20 – Finland U23 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550877@anstoss
+DTSTAMP:20260609T100000Z
+DTSTART:20260609T100000Z
+DTEND:20260609T120000Z
+SUMMARY:Morocco U23 – Benin 3:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550877.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548484@anstoss
+DTSTAMP:20260609T100000Z
+DTSTART:20260609T100000Z
+DTEND:20260609T120000Z
+SUMMARY:England U20 – Japan U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546836@anstoss
+DTSTAMP:20260609T103000Z
+DTSTART:20260609T103000Z
+DTEND:20260609T123000Z
+SUMMARY:Myanmar – Thailand 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546836.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545743@anstoss
+DTSTAMP:20260609T120000Z
+DTSTART:20260609T120000Z
+DTEND:20260609T140000Z
+SUMMARY:Zimbabwe – Burkina Faso
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545743.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545742@anstoss
+DTSTAMP:20260609T120000Z
+DTSTART:20260609T120000Z
+DTEND:20260609T140000Z
+SUMMARY:Zambia – Kenya
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545742.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550873@anstoss
+DTSTAMP:20260609T123000Z
+DTSTART:20260609T123000Z
+DTEND:20260609T143000Z
+SUMMARY:Ukraine U19 – USA U18 0:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550873.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550875@anstoss
+DTSTAMP:20260609T130000Z
+DTSTART:20260609T130000Z
+DTEND:20260609T150000Z
+SUMMARY:Lesotho – Kenya 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550875.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550874@anstoss
+DTSTAMP:20260609T130000Z
+DTSTART:20260609T130000Z
+DTEND:20260609T150000Z
+SUMMARY:Germany U19 – USA U19 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548486@anstoss
+DTSTAMP:20260609T150000Z
+DTSTART:20260609T150000Z
+DTEND:20260609T170000Z
+SUMMARY:Jordan – Palestine 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544819@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:New Zealand – Morocco 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544819.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550876@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Zambia – Zimbabwe 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545447@anstoss
+DTSTAMP:20260609T210000Z
+DTSTART:20260609T210000Z
+DTEND:20260609T230000Z
+SUMMARY:Guatemala – El Salvador 1:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548487@anstoss
+DTSTAMP:20260609T220000Z
+DTSTART:20260609T220000Z
+DTEND:20260610T000000Z
+SUMMARY:Albion San Diego – Philippines 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542897@anstoss
+DTSTAMP:20260610T003000Z
+DTSTART:20260610T003000Z
+DTEND:20260610T023000Z
+SUMMARY:Brasilien – USA 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546560@anstoss
+DTSTAMP:20260610T013000Z
+DTSTART:20260610T013000Z
+DTEND:20260610T033000Z
+SUMMARY:Costa Rica – Kanada 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548488@anstoss
+DTSTAMP:20260610T120000Z
+DTSTART:20260610T120000Z
+DTEND:20260610T140000Z
+SUMMARY:Saudi-Arabien – Laos 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548489@anstoss
+DTSTAMP:20260613T120000Z
+DTSTART:20260613T120000Z
+DTEND:20260613T140000Z
+SUMMARY:Saudi-Arabien – Laos 5:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583657@anstoss
+DTSTAMP:20260703T080000Z
+DTSTART:20260703T080000Z
+DTEND:20260703T100000Z
+SUMMARY:Japan U17 – United States W U17 5:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583658@anstoss
+DTSTAMP:20260706T080000Z
+DTSTART:20260706T080000Z
+DTEND:20260706T100000Z
+SUMMARY:Japan U17 – United States W U17 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583659@anstoss
+DTSTAMP:20260708T170000Z
+DTSTART:20260708T170000Z
+DTEND:20260708T190000Z
+SUMMARY:Egypt – Senegal 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583660@anstoss
+DTSTAMP:20260709T223000Z
+DTSTART:20260709T223000Z
+DTEND:20260710T003000Z
+SUMMARY:United States U20 – England U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586120@anstoss
+DTSTAMP:20260711T150000Z
+DTSTART:20260711T150000Z
+DTEND:20260711T170000Z
+SUMMARY:Cameroon – Benin 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583661@anstoss
+DTSTAMP:20260711T170000Z
+DTSTART:20260711T170000Z
+DTEND:20260711T190000Z
+SUMMARY:Egypt – Senegal 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583662@anstoss
+DTSTAMP:20260713T000000Z
+DTSTART:20260713T000000Z
+DTEND:20260713T020000Z
+SUMMARY:United States U20 – Colombia U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1595468@anstoss
+DTSTAMP:20260714T170000Z
+DTSTART:20260714T170000Z
+DTEND:20260714T190000Z
+SUMMARY:Ivory Coast – Ghana 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1595468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583663@anstoss
+DTSTAMP:20260715T150000Z
+DTSTART:20260715T150000Z
+DTEND:20260715T170000Z
+SUMMARY:England U20 – Colombia U20 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1595469@anstoss
+DTSTAMP:20260716T190000Z
+DTSTART:20260716T190000Z
+DTEND:20260716T210000Z
+SUMMARY:Morocco – Malawi 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1595469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586121@anstoss
+DTSTAMP:20260719T170000Z
+DTSTART:20260719T170000Z
+DTEND:20260719T190000Z
+SUMMARY:Algeria – Zambia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604184@anstoss
+DTSTAMP:20260720T170000Z
+DTSTART:20260720T170000Z
+DTEND:20260720T190000Z
+SUMMARY:Ghana – Tanzania 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604183@anstoss
+DTSTAMP:20260720T170000Z
+DTSTART:20260720T170000Z
+DTEND:20260720T190000Z
+SUMMARY:Mali – Ivory Coast 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604183.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604185@anstoss
+DTSTAMP:20260721T130000Z
+DTSTART:20260721T130000Z
+DTEND:20260721T150000Z
+SUMMARY:Uzbekistan U20 – Kyrgyzstan 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604185.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604186@anstoss
+DTSTAMP:20260721T164500Z
+DTSTART:20260721T164500Z
+DTEND:20260721T184500Z
+SUMMARY:Tajikistan U20 – Iran U20 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604187@anstoss
+DTSTAMP:20260721T190000Z
+DTSTART:20260721T190000Z
+DTEND:20260721T210000Z
+SUMMARY:Morocco – Cape Verde 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586122@anstoss
+DTSTAMP:20260722T170000Z
+DTSTART:20260722T170000Z
+DTEND:20260722T190000Z
+SUMMARY:Algeria – Zambia 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610868@anstoss
+DTSTAMP:20260722T200000Z
+DTSTART:20260722T200000Z
+DTEND:20260722T220000Z
+SUMMARY:Dominican Republic – Mexico U23 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610868.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604188@anstoss
+DTSTAMP:20260723T130000Z
+DTSTART:20260723T130000Z
+DTEND:20260723T150000Z
+SUMMARY:Iran U20 – Uzbekistan U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604188.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604189@anstoss
+DTSTAMP:20260723T164500Z
+DTSTART:20260723T164500Z
+DTEND:20260723T184500Z
+SUMMARY:Tajikistan U20 – Kyrgyzstan 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604189.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604190@anstoss
+DTSTAMP:20260723T170000Z
+DTSTART:20260723T170000Z
+DTEND:20260723T190000Z
+SUMMARY:Nigeria – Tanzania 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604191@anstoss
+DTSTAMP:20260723T180000Z
+DTSTART:20260723T180000Z
+DTEND:20260723T200000Z
+SUMMARY:Malawi – Ghana 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604192@anstoss
+DTSTAMP:20260725T130000Z
+DTSTART:20260725T130000Z
+DTEND:20260725T150000Z
+SUMMARY:Kyrgyzstan – Iran U20 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604192.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604193@anstoss
+DTSTAMP:20260725T164500Z
+DTSTART:20260725T164500Z
+DTEND:20260725T184500Z
+SUMMARY:Tajikistan U20 – Uzbekistan U20 0:7
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604193.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628968@anstoss
+DTSTAMP:20260813T210000Z
+DTSTART:20260813T210000Z
+DTEND:20260813T230000Z
+SUMMARY:United States W U17 – Mexico U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628969@anstoss
+DTSTAMP:20260814T000000Z
+DTSTART:20260814T000000Z
+DTEND:20260814T020000Z
+SUMMARY:Chile U17 – Canada W U17 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628970@anstoss
+DTSTAMP:20260816T210000Z
+DTSTART:20260816T210000Z
+DTEND:20260816T230000Z
+SUMMARY:Canada W U17 – Mexico U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628971@anstoss
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T000000Z
+DTEND:20260817T020000Z
+SUMMARY:United States W U17 – Chile U17 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628972@anstoss
+DTSTAMP:20260819T210000Z
+DTSTART:20260819T210000Z
+DTEND:20260819T230000Z
+SUMMARY:United States W U17 – Canada W U17 4:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637471@anstoss
+DTSTAMP:20260908T150000Z
+DTSTART:20260908T150000Z
+DTEND:20260908T170000Z
+SUMMARY:Chile U20 – Uruguay U20 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638732@anstoss
+DTSTAMP:20260909T100000Z
+DTSTART:20260909T100000Z
+DTEND:20260909T120000Z
+SUMMARY:China – Vietnam 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637472@anstoss
+DTSTAMP:20260910T130000Z
+DTSTART:20260910T130000Z
+DTEND:20260910T150000Z
+SUMMARY:Chile U20 – Uruguay U20 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637473@anstoss
+DTSTAMP:20260910T153000Z
+DTSTART:20260910T153000Z
+DTEND:20260910T173000Z
+SUMMARY:Finland U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637474@anstoss
+DTSTAMP:20260912T130000Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:Austria U17 – Poland U17 3:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637475@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Finland U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637476@anstoss
+DTSTAMP:20260915T090000Z
+DTSTART:20260915T090000Z
+DTEND:20260915T110000Z
+SUMMARY:Austria U17 – Poland U17 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638581@anstoss
+DTSTAMP:20261007T120000Z
+DTSTART:20261007T120000Z
+DTEND:20261007T140000Z
+SUMMARY:Liechtenstein – Gibraltar
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638733@anstoss
+DTSTAMP:20261007T150000Z
+DTSTART:20261007T150000Z
+DTEND:20261007T170000Z
+SUMMARY:Jordan – Armenia
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638733.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638582@anstoss
+DTSTAMP:20261009T100000Z
+DTSTART:20261009T100000Z
+DTEND:20261009T120000Z
+SUMMARY:Andorra – Faroe Islands
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638582.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628973@anstoss
+DTSTAMP:20261009T183000Z
+DTSTART:20261009T183000Z
+DTEND:20261009T203000Z
+SUMMARY:Deutschland – Australien
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638583@anstoss
+DTSTAMP:20261009T200000Z
+DTSTART:20261009T200000Z
+DTEND:20261009T220000Z
+SUMMARY:Jamaica – Mexiko
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638734@anstoss
+DTSTAMP:20261009T200000Z
+DTSTART:20261009T200000Z
+DTEND:20261009T220000Z
+SUMMARY:Peru – Philippines
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628974@anstoss
+DTSTAMP:20261009T230000Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:Kanada – Dänemark
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628974.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628975@anstoss
+DTSTAMP:20261010T150000Z
+DTSTART:20261010T150000Z
+DTEND:20261010T170000Z
+SUMMARY:Liechtenstein – Gibraltar
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628975.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638735@anstoss
+DTSTAMP:20261010T150000Z
+DTSTART:20261010T150000Z
+DTEND:20261010T170000Z
+SUMMARY:Indonesia – Armenia
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604194@anstoss
+DTSTAMP:20261010T183000Z
+DTSTART:20261010T183000Z
+DTEND:20261010T203000Z
+SUMMARY:USA – Spanien
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628976@anstoss
+DTSTAMP:20261010T190000Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:Frankreich – Latvia
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638584@anstoss
+DTSTAMP:20261010T210000Z
+DTSTART:20261010T210000Z
+DTEND:20261010T230000Z
+SUMMARY:Panama – New Zealand
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638585@anstoss
+DTSTAMP:20261012T150000Z
+DTSTART:20261012T150000Z
+DTEND:20261012T170000Z
+SUMMARY:Andorra – Faroe Islands
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638585.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628977@anstoss
+DTSTAMP:20261012T193000Z
+DTSTART:20261012T193000Z
+DTEND:20261012T213000Z
+SUMMARY:Kanada – Dänemark
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628978@anstoss
+DTSTAMP:20261013T154500Z
+DTSTART:20261013T154500Z
+DTEND:20261013T174500Z
+SUMMARY:Deutschland – Japan
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628978.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638736@anstoss
+DTSTAMP:20261013T190000Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Peru – Philippines
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638736.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638586@anstoss
+DTSTAMP:20261013T200000Z
+DTSTART:20261013T200000Z
+DTEND:20261013T220000Z
+SUMMARY:Jamaica – Mexiko
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604195@anstoss
+DTSTAMP:20261013T230000Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:USA – Spanien
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604195.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638587@anstoss
+DTSTAMP:20261014T003000Z
+DTSTART:20261014T003000Z
+DTEND:20261014T023000Z
+SUMMARY:Panama – New Zealand
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638588@anstoss
+DTSTAMP:20261128T083500Z
+DTSTART:20261128T083500Z
+DTEND:20261128T103500Z
+SUMMARY:Australien – Kolumbien
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638588.ht
+ ml
+END:VEVENT
+END:VCALENDAR

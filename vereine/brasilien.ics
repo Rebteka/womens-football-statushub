@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brasilien
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013566@anstoss
+DTSTAMP:20230724T110000Z
+DTSTART:20230724T110000Z
+DTEND:20230724T130000Z
+SUMMARY:Brasilien – Panama 4:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Coopers Stadium\, Adelaide
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013580@anstoss
+DTSTAMP:20230729T100000Z
+DTSTART:20230729T100000Z
+DTEND:20230729T120000Z
+SUMMARY:Frankreich – Brasilien 2:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Suncorp Stadium\, Brisbane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013580.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013597@anstoss
+DTSTAMP:20230802T100000Z
+DTSTART:20230802T100000Z
+DTEND:20230802T120000Z
+SUMMARY:Jamaica – Brasilien 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:AAMI Park\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174962@anstoss
+DTSTAMP:20240222T031500Z
+DTSTART:20240222T031500Z
+DTEND:20240222T051500Z
+SUMMARY:Brasilien – Puerto Rico 1:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159532@anstoss
+DTSTAMP:20240225T031500Z
+DTSTART:20240225T031500Z
+DTEND:20240225T051500Z
+SUMMARY:Kolumbien – Brasilien 0:1
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159535@anstoss
+DTSTAMP:20240228T031500Z
+DTSTART:20240228T031500Z
+DTEND:20240228T051500Z
+SUMMARY:Brasilien – Panama 5:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159535.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178661@anstoss
+DTSTAMP:20240303T031500Z
+DTSTART:20240303T031500Z
+DTEND:20240303T051500Z
+SUMMARY:Brasilien – Argentina 5:1
+DESCRIPTION:CONCACAF Gold Cup - Women · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1180890@anstoss
+DTSTAMP:20240307T000000Z
+DTSTART:20240307T000000Z
+DTEND:20240307T020000Z
+SUMMARY:Brasilien – Mexiko 3:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Halbfinale
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1180890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1182549@anstoss
+DTSTAMP:20240311T001500Z
+DTSTART:20240311T001500Z
+DTEND:20240311T021500Z
+SUMMARY:USA – Brasilien 1:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Finale
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1182549.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194357@anstoss
+DTSTAMP:20240725T170000Z
+DTSTART:20240725T170000Z
+DTEND:20240725T190000Z
+SUMMARY:Nigeria – Brasilien 0:1
+DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade Matmut-Atlantique\, Bordeaux
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187467@anstoss
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:Brasilien – Japan 1:2
+DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+LOCATION:Parc des Princes\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187471@anstoss
+DTSTAMP:20240731T150000Z
+DTSTART:20240731T150000Z
+DTEND:20240731T170000Z
+SUMMARY:Brasilien – Spanien 0:2
+DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade Matmut-Atlantique\, Bordeaux
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1274764@anstoss
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T210000Z
+SUMMARY:Frankreich – Brasilien 0:1
+DESCRIPTION:Olympics Women · Viertelfinale
+LOCATION:Stade de la Beaujoire - Louis Fonteneau\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1274764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1279533@anstoss
+DTSTAMP:20240806T190000Z
+DTSTART:20240806T190000Z
+DTEND:20240806T210000Z
+SUMMARY:Brasilien – Spanien 4:2
+DESCRIPTION:Olympics Women · Halbfinale
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1279533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1283391@anstoss
+DTSTAMP:20240810T150000Z
+DTSTART:20240810T150000Z
+DTEND:20240810T170000Z
+SUMMARY:Brasilien – USA 0:1
+DESCRIPTION:Olympics Women · Finale
+LOCATION:Parc des Princes\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1283391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327492@anstoss
+DTSTAMP:20250714T000000Z
+DTSTART:20250714T000000Z
+DTEND:20250714T020000Z
+SUMMARY:Brasilien – Venezuela 2:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327496@anstoss
+DTSTAMP:20250716T210000Z
+DTSTART:20250716T210000Z
+DTEND:20250716T230000Z
+SUMMARY:Bolivia – Brasilien 0:6
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327504@anstoss
+DTSTAMP:20250723T000000Z
+DTSTART:20250723T000000Z
+DTEND:20250723T020000Z
+SUMMARY:Paraguay – Brasilien 1:4
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327509@anstoss
+DTSTAMP:20250726T000000Z
+DTSTART:20250726T000000Z
+DTEND:20250726T020000Z
+SUMMARY:Brasilien – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1414161@anstoss
+DTSTAMP:20250730T000000Z
+DTSTART:20250730T000000Z
+DTEND:20250730T020000Z
+SUMMARY:Brasilien – Uruguay 5:1
+DESCRIPTION:Copa America Femenina · Halbfinale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1414161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1418168@anstoss
+DTSTAMP:20250802T210000Z
+DTSTART:20250802T210000Z
+DTEND:20250802T230000Z
+SUMMARY:Kolumbien – Brasilien 4:4
+DESCRIPTION:Copa America Femenina · Finale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1418168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520291@anstoss
+DTSTAMP:20260228T010000Z
+DTSTART:20260228T010000Z
+DTEND:20260228T030000Z
+SUMMARY:Costa Rica – Brasilien 2:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520292@anstoss
+DTSTAMP:20260304T213000Z
+DTSTART:20260304T213000Z
+DTEND:20260304T233000Z
+SUMMARY:Brasilien – Venezuela 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520293@anstoss
+DTSTAMP:20260307T230000Z
+DTSTART:20260307T230000Z
+DTEND:20260308T010000Z
+SUMMARY:Mexiko – Brasilien 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Ciudad de los Deportes\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526982@anstoss
+DTSTAMP:20260412T013000Z
+DTSTART:20260412T013000Z
+DTEND:20260412T033000Z
+SUMMARY:Brasilien – Südkorea 5:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526982.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526987@anstoss
+DTSTAMP:20260415T013000Z
+DTSTART:20260415T013000Z
+DTEND:20260415T033000Z
+SUMMARY:Brasilien – Zambia 6:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526991@anstoss
+DTSTAMP:20260419T013000Z
+DTSTART:20260419T013000Z
+DTEND:20260419T033000Z
+SUMMARY:Brasilien – Kanada 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542895@anstoss
+DTSTAMP:20260606T213000Z
+DTSTART:20260606T213000Z
+DTEND:20260606T233000Z
+SUMMARY:Brasilien – USA 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542897@anstoss
+DTSTAMP:20260610T003000Z
+DTSTART:20260610T003000Z
+DTEND:20260610T023000Z
+SUMMARY:Brasilien – USA 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
+ ml
+END:VEVENT
+END:VCALENDAR

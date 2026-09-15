@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Afghanistan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1007656@anstoss
+DTSTAMP:20230403T000000Z
+DTSTART:20230403T000000Z
+DTEND:20230403T020000Z
+SUMMARY:Afghanistan – Vietnam
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007656.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007668@anstoss
+DTSTAMP:20230405T000000Z
+DTSTART:20230405T000000Z
+DTEND:20230405T020000Z
+SUMMARY:Nepal – Afghanistan
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007668.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007681@anstoss
+DTSTAMP:20230408T000000Z
+DTSTART:20230408T000000Z
+DTEND:20230408T020000Z
+SUMMARY:Palestine – Afghanistan
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007681.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550868@anstoss
+DTSTAMP:20260603T230000Z
+DTSTART:20260603T230000Z
+DTEND:20260604T010000Z
+SUMMARY:Cook Islands – Afghanistan 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550868.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583656@anstoss
+DTSTAMP:20260607T230000Z
+DTSTART:20260607T230000Z
+DTEND:20260608T010000Z
+SUMMARY:Cook Islands – Afghanistan 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583656.ht
+ ml
+END:VEVENT
+END:VCALENDAR

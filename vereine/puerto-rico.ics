@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Puerto Rico
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140523@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:Mexiko – Puerto Rico 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
+ pieltag
+LOCATION:Estadio Azteca\, D.F.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140536@anstoss
+DTSTAMP:20231027T230000Z
+DTSTART:20231027T230000Z
+DTEND:20231028T010000Z
+SUMMARY:Trinidad and Tobago – Puerto Rico 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140533@anstoss
+DTSTAMP:20231031T230000Z
+DTSTART:20231031T230000Z
+DTEND:20231101T010000Z
+SUMMARY:Puerto Rico – Trinidad and Tobago 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Estadio Juán Rámon Loubriel\, Bayamón
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140532@anstoss
+DTSTAMP:20231202T000000Z
+DTSTART:20231202T000000Z
+DTEND:20231202T020000Z
+SUMMARY:Puerto Rico – Mexiko 0:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 4. S
+ pieltag
+LOCATION:Estadio Juán Rámon Loubriel\, Bayamón
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1146252@anstoss
+DTSTAMP:20240218T000000Z
+DTSTART:20240218T000000Z
+DTEND:20240218T020000Z
+SUMMARY:Haiti – Puerto Rico 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · Playoffs
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1146252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174962@anstoss
+DTSTAMP:20240222T031500Z
+DTSTART:20240222T031500Z
+DTEND:20240222T051500Z
+SUMMARY:Brasilien – Puerto Rico 1:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174965@anstoss
+DTSTAMP:20240225T003000Z
+DTSTART:20240225T003000Z
+DTEND:20240225T023000Z
+SUMMARY:Puerto Rico – Panama 2:1
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174968@anstoss
+DTSTAMP:20240228T000000Z
+DTSTART:20240228T000000Z
+DTEND:20240228T020000Z
+SUMMARY:Kolumbien – Puerto Rico 2:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488281@anstoss
+DTSTAMP:20251201T233000Z
+DTSTART:20251201T233000Z
+DTEND:20251202T013000Z
+SUMMARY:Puerto Rico – St. Lucia 7:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488288@anstoss
+DTSTAMP:20260228T000000Z
+DTSTART:20260228T000000Z
+DTEND:20260228T020000Z
+SUMMARY:Puerto Rico – Barbados 10:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488300@anstoss
+DTSTAMP:20260305T193000Z
+DTSTART:20260305T193000Z
+DTEND:20260305T213000Z
+SUMMARY:US Virgin Islands – Puerto Rico 0:9
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Bethlehem Soccer Stadium\, Upper Bethlehem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488323@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Mexiko – Puerto Rico 6:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488323.ht
+ ml
+END:VEVENT
+END:VCALENDAR

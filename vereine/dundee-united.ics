@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dundee United
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188762@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Dyce – Dundee United 0:5
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Ian Mair Park\, Aberdeen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188755@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Rangers – Dundee United 9:0
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188755.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485687@anstoss
+DTSTAMP:20250907T143000Z
+DTSTART:20250907T143000Z
+DTEND:20250907T163000Z
+SUMMARY:Dundee United – Kilmarnock 1:1
+DESCRIPTION:SWPL Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485687.ht
+ ml
+END:VEVENT
+END:VCALENDAR

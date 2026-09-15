@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Peru U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1516482@anstoss
+DTSTAMP:20260205T210000Z
+DTSTART:20260205T210000Z
+DTEND:20260205T230000Z
+SUMMARY:Bolivia U20 – Peru U20 0:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516490@anstoss
+DTSTAMP:20260209T210000Z
+DTSTART:20260209T210000Z
+DTEND:20260209T230000Z
+SUMMARY:Argentina U20 – Peru U20 4:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516495@anstoss
+DTSTAMP:20260211T210000Z
+DTSTART:20260211T210000Z
+DTEND:20260211T230000Z
+SUMMARY:Peru U20 – Brazil U20 0:6
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516499@anstoss
+DTSTAMP:20260213T210000Z
+DTSTART:20260213T210000Z
+DTEND:20260213T230000Z
+SUMMARY:Peru U20 – Ecuador U20 0:4
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516499.ht
+ ml
+END:VEVENT
+END:VCALENDAR

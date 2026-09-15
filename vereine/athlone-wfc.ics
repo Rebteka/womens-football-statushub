@@ -8,6 +8,46 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1530046@anstoss
+DTSTAMP:20260308T140000Z
+DTSTART:20260308T140000Z
+DTEND:20260308T160000Z
+SUMMARY:Athlone WFC – Shelbourne 1:0
+DESCRIPTION:Women's President's Cup · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539605@anstoss
+DTSTAMP:20260404T170000Z
+DTSTART:20260404T170000Z
+DTEND:20260404T190000Z
+SUMMARY:Athlone WFC – Cork City 2:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539605.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539611@anstoss
+DTSTAMP:20260510T130000Z
+DTSTART:20260510T130000Z
+DTEND:20260510T150000Z
+SUMMARY:Cliftonville – Athlone WFC 0:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542078@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Treaty Utd – Athlone WFC 3:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542078.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1558468@anstoss
 DTSTAMP:20260722T090000Z
 DTSTART:20260722T090000Z

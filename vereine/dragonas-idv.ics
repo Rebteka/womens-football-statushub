@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dragonas IDV
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1479286@anstoss
+DTSTAMP:20251002T190000Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Corinthians – Dragonas IDV 1:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 1. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479293@anstoss
+DTSTAMP:20251005T230000Z
+DTSTART:20251005T230000Z
+DTEND:20251006T010000Z
+SUMMARY:Dragonas IDV – Santa Fe 1:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479299@anstoss
+DTSTAMP:20251008T230000Z
+DTSTART:20251008T230000Z
+DTEND:20251009T010000Z
+SUMMARY:Dragonas IDV – Always Ready 5:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481228@anstoss
+DTSTAMP:20251011T230000Z
+DTSTART:20251011T230000Z
+DTEND:20251012T010000Z
+SUMMARY:Ferroviaria – Dragonas IDV 3:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Viertelfinale
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481228.ht
+ ml
+END:VEVENT
+END:VCALENDAR

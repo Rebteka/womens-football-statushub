@@ -139,6 +139,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501442.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1610918@anstoss
+DTSTAMP:20260812T164500Z
+DTSTART:20260812T164500Z
+DTEND:20260812T184500Z
+SUMMARY:Boo – Gamla Upsala 0:4
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1501444@anstoss
 DTSTAMP:20260816T120000Z
 DTSTART:20260816T120000Z
@@ -180,6 +190,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501467.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638737@anstoss
+DTSTAMP:20260909T173000Z
+DTSTART:20260909T173000Z
+DTEND:20260909T193000Z
+SUMMARY:Hammarby – Gamla Upsala 5:0
+DESCRIPTION:Svenska Cupen - Women · Round 2
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1501475@anstoss
 DTSTAMP:20260913T110000Z
 DTSTART:20260913T110000Z
@@ -197,6 +218,16 @@ DTEND:20260920T130000Z
 SUMMARY:Gamla Upsala – Alingsås
 DESCRIPTION:Elitettan · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636786@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Gamla Upsala – Hammarby (verlegt)
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636786.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

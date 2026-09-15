@@ -8,6 +8,38 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1488456@anstoss
+DTSTAMP:20251214T120000Z
+DTSTART:20251214T120000Z
+DTEND:20251214T140000Z
+SUMMARY:Durham – Sheffield United 0:1
+DESCRIPTION:FA Women's Cup · 3rd Round
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501250@anstoss
+DTSTAMP:20260118T130000Z
+DTSTART:20260118T130000Z
+DTEND:20260118T150000Z
+SUMMARY:Ipswich Town – Sheffield United 1:2
+DESCRIPTION:FA Women's Cup · Round 4
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514955@anstoss
+DTSTAMP:20260222T140000Z
+DTSTART:20260222T140000Z
+DTEND:20260222T160000Z
+SUMMARY:Manchester City – Sheffield United 4:0
+DESCRIPTION:FA Women's Cup · Round 5
+LOCATION:Academy Stadium\, Manchester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609375@anstoss
 DTSTAMP:20260906T130000Z
 DTSTART:20260906T130000Z
@@ -41,6 +73,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1609385.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612635@anstoss
+DTSTAMP:20260923T180000Z
+DTSTART:20260923T180000Z
+DTEND:20260923T200000Z
+SUMMARY:Manchester United – Sheffield United
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609392@anstoss
 DTSTAMP:20260927T130000Z
 DTSTART:20260927T130000Z
@@ -63,6 +106,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1609398.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612650@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Sheffield United – Nottingham Forest
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612650.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609403@anstoss
 DTSTAMP:20261025T140000Z
 DTSTART:20261025T140000Z
@@ -71,6 +125,28 @@ SUMMARY:Burnley – Sheffield United
 DESCRIPTION:Women's Championship · 6. Spieltag
 LOCATION:Lancashire County Ground\, Leyland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612663@anstoss
+DTSTAMP:20261028T190000Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Sheffield United – Everton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612671@anstoss
+DTSTAMP:20261101T140000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Sunderland – Sheffield United
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612671.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -92,6 +168,28 @@ SUMMARY:Sheffield United – Bristol City
 DESCRIPTION:Women's Championship · 8. Spieltag
 LOCATION:Bramall Lane\, Sheffield
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612686@anstoss
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Sheffield United – Durham
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612690@anstoss
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:Aston Villa – Sheffield United
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Bescot Stadium\, Walsall
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612690.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

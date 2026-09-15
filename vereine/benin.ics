@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Benin
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140656@anstoss
+DTSTAMP:20230714T000000Z
+DTSTART:20230714T000000Z
+DTEND:20230714T020000Z
+SUMMARY:Guinea-Bissau – Benin 2:2
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Estádio Nacional 24 de Setembro\, Bissau
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140656.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140657@anstoss
+DTSTAMP:20230718T000000Z
+DTSTART:20230718T000000Z
+DTEND:20230718T020000Z
+SUMMARY:Benin – Guinea-Bissau 3:2
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade de l'Amitié\, Cotonou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140638@anstoss
+DTSTAMP:20231027T160000Z
+DTSTART:20231027T160000Z
+DTEND:20231027T180000Z
+SUMMARY:Benin – Ghana 0:3
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Stade de l'Amitié\, Cotonou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140639@anstoss
+DTSTAMP:20231031T153000Z
+DTSTART:20231031T153000Z
+DTEND:20231031T173000Z
+SUMMARY:Ghana – Benin 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Ohene Djan Sports Stadium\, Accra
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526960@anstoss
+DTSTAMP:20260228T170000Z
+DTSTART:20260228T170000Z
+DTEND:20260228T190000Z
+SUMMARY:Ivory Coast – Benin 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526965@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Kenya – Benin 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540256@anstoss
+DTSTAMP:20260412T130000Z
+DTSTART:20260412T130000Z
+DTEND:20260412T150000Z
+SUMMARY:Tunisia – Benin 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540259@anstoss
+DTSTAMP:20260414T150000Z
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+SUMMARY:Benin – Comoros 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550861@anstoss
+DTSTAMP:20260605T180000Z
+DTSTART:20260605T180000Z
+DTEND:20260605T200000Z
+SUMMARY:Morocco – Benin 4:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550877@anstoss
+DTSTAMP:20260609T100000Z
+DTSTART:20260609T100000Z
+DTEND:20260609T120000Z
+SUMMARY:Morocco U23 – Benin 3:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550877.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586120@anstoss
+DTSTAMP:20260711T150000Z
+DTSTART:20260711T150000Z
+DTEND:20260711T170000Z
+SUMMARY:Cameroon – Benin 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586120.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -140,6 +140,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1508443.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1563057@anstoss
+DTSTAMP:20260627T001000Z
+DTSTART:20260627T001000Z
+DTEND:20260627T021000Z
+SUMMARY:NJ/NY Gotham FC – Kansas City 2:0
+DESCRIPTION:NWSL Women - Challenge Cup · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1563057.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1508450@anstoss
 DTSTAMP:20260704T013000Z
 DTSTART:20260704T013000Z

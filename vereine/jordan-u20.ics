@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jordan U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424292@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:Jordan U20 – N. Mariana 6:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426555@anstoss
+DTSTAMP:20250808T123000Z
+DTSTART:20250808T123000Z
+DTEND:20250808T143000Z
+SUMMARY:Bahrain U20 – Jordan U20 0:6
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424286@anstoss
+DTSTAMP:20250810T153000Z
+DTSTART:20250810T153000Z
+DTEND:20250810T173000Z
+SUMMARY:Uzbekistan U20 – Jordan U20 3:3
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529305@anstoss
+DTSTAMP:20260228T190000Z
+DTSTART:20260228T190000Z
+DTEND:20260228T210000Z
+SUMMARY:Jordan U20 – Thailand U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529311@anstoss
+DTSTAMP:20260303T190000Z
+DTSTART:20260303T190000Z
+DTEND:20260303T210000Z
+SUMMARY:Jordan U20 – Russia U19 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538298@anstoss
+DTSTAMP:20260327T140000Z
+DTSTART:20260327T140000Z
+DTEND:20260327T160000Z
+SUMMARY:Jordan U20 – Bangladesh U20 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540460@anstoss
+DTSTAMP:20260402T130000Z
+DTSTART:20260402T130000Z
+DTEND:20260402T150000Z
+SUMMARY:Korea DPR U20 – Jordan U20 8:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540464@anstoss
+DTSTAMP:20260405T090000Z
+DTSTART:20260405T090000Z
+DTEND:20260405T110000Z
+SUMMARY:Jordan U20 – Korea Republic U20 1:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540472@anstoss
+DTSTAMP:20260408T130000Z
+DTSTART:20260408T130000Z
+DTEND:20260408T150000Z
+SUMMARY:Uzbekistan U20 – Jordan U20 4:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540472.ht
+ ml
+END:VEVENT
+END:VCALENDAR

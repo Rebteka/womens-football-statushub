@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United States U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205392@anstoss
+DTSTAMP:20240901T200000Z
+DTSTART:20240901T200000Z
+DTEND:20240901T220000Z
+SUMMARY:Spain U20 – United States U20 1:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205406@anstoss
+DTSTAMP:20240905T010000Z
+DTSTART:20240905T010000Z
+DTEND:20240905T030000Z
+SUMMARY:Morocco U20 – United States U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205419@anstoss
+DTSTAMP:20240907T230000Z
+DTSTART:20240907T230000Z
+DTEND:20240908T010000Z
+SUMMARY:United States U20 – Paraguay U20 7:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1304031@anstoss
+DTSTAMP:20240912T010000Z
+DTSTART:20240912T010000Z
+DTEND:20240912T030000Z
+SUMMARY:Mexico U20 – United States U20 2:3
+DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1304031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1305617@anstoss
+DTSTAMP:20240916T010000Z
+DTSTART:20240916T010000Z
+DTEND:20240916T030000Z
+SUMMARY:United States U20 – Germany U20 2:2
+DESCRIPTION:World Cup - U20 - Women · Viertelfinale
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1305617.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1305917@anstoss
+DTSTAMP:20240918T213000Z
+DTSTART:20240918T213000Z
+DTEND:20240918T233000Z
+SUMMARY:United States U20 – Korea DPR U20 0:1
+DESCRIPTION:World Cup - U20 - Women · Halbfinale
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1305917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1307075@anstoss
+DTSTAMP:20240921T210000Z
+DTSTART:20240921T210000Z
+DTEND:20240921T230000Z
+SUMMARY:United States U20 – Netherlands U20 2:1
+DESCRIPTION:World Cup - U20 - Women · Spiel um Platz 3
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1307075.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367134@anstoss
+DTSTAMP:20250530T170000Z
+DTSTART:20250530T170000Z
+DTEND:20250530T190000Z
+SUMMARY:United States U20 – Guyana U20 8:0
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367134.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367138@anstoss
+DTSTAMP:20250601T170000Z
+DTSTART:20250601T170000Z
+DTEND:20250601T190000Z
+SUMMARY:Puerto Rico W U20 – United States U20 1:3
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367143@anstoss
+DTSTAMP:20250603T200000Z
+DTSTART:20250603T200000Z
+DTEND:20250603T220000Z
+SUMMARY:United States U20 – Costa Rica U20 4:0
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540801@anstoss
+DTSTAMP:20260411T233000Z
+DTSTART:20260411T233000Z
+DTEND:20260412T013000Z
+SUMMARY:United States U20 – Brazil U20 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540801.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540597@anstoss
+DTSTAMP:20260415T193000Z
+DTSTART:20260415T193000Z
+DTEND:20260415T213000Z
+SUMMARY:United States U20 – Brazil U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550860@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:United States U20 – France U23 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550860.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550871@anstoss
+DTSTAMP:20260608T110000Z
+DTSTART:20260608T110000Z
+DTEND:20260608T130000Z
+SUMMARY:France U23 – United States U20 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583660@anstoss
+DTSTAMP:20260709T223000Z
+DTSTART:20260709T223000Z
+DTEND:20260710T003000Z
+SUMMARY:United States U20 – England U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1583662@anstoss
+DTSTAMP:20260713T000000Z
+DTSTART:20260713T000000Z
+DTEND:20260713T020000Z
+SUMMARY:United States U20 – Colombia U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583662.ht
+ ml
+END:VEVENT
+END:VCALENDAR

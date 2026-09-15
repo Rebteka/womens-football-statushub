@@ -145,6 +145,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501436.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1610904@anstoss
+DTSTAMP:20260811T170000Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:Uddevalla – Göteborg 0:5
+DESCRIPTION:Svenska Cupen - Women · Round 1
+LOCATION:Kamratgarden\, Uddevalla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1501445@anstoss
 DTSTAMP:20260815T120000Z
 DTSTART:20260815T120000Z
@@ -184,6 +195,16 @@ SUMMARY:Göteborg – Husqvarna 2:1
 DESCRIPTION:Elitettan · 17. Spieltag
 LOCATION:Gamla Ullevi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636787@anstoss
+DTSTAMP:20260909T164500Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:Göteborg – Häcken 0:2
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636787.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

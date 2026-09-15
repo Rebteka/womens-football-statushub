@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bahamas
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140539@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Bahamas – Grenada 1:6
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:New Thomas A. Robinson National Stadium\, Nassau
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140545@anstoss
+DTSTAMP:20230924T000000Z
+DTSTART:20230924T000000Z
+DTEND:20230924T020000Z
+SUMMARY:Grenada – Bahamas 4:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:Kirani James National Stadium\, St. George's
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140557@anstoss
+DTSTAMP:20231029T230000Z
+DTSTART:20231029T230000Z
+DTEND:20231030T010000Z
+SUMMARY:US Virgin Islands – Bahamas 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Bethlehem Soccer Complex\, Christiansted
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140557.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140563@anstoss
+DTSTAMP:20231129T200000Z
+DTSTART:20231129T200000Z
+DTEND:20231129T220000Z
+SUMMARY:Bahamas – US Virgin Islands 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:The Roscow A.L. Davies Soccer Field - BFA National Centre\, Nass
+ au
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140563.ht
+ ml
+END:VEVENT
+END:VCALENDAR

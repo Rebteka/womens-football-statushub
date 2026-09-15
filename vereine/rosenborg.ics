@@ -162,6 +162,29 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495375.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1626956@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:SeaSters Odesa – Rosenborg 1:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626969@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Rosenborg – SeaSters Odesa 3:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495385@anstoss
 DTSTAMP:20260913T110000Z
 DTSTART:20260913T110000Z
@@ -184,6 +207,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495394.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638405@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Slovan Liberec – Rosenborg
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495400@anstoss
 DTSTAMP:20260926T150000Z
 DTSTART:20260926T150000Z
@@ -192,6 +225,16 @@ SUMMARY:Rosenborg – Fortuna Ålesund
 DESCRIPTION:Toppserien · 17. Spieltag
 LOCATION:Koteng Arena\, Trondheim
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638423@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Rosenborg – Slovan Liberec
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638423.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

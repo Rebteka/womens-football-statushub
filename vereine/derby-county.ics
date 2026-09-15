@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Derby County
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1483380@anstoss
+DTSTAMP:20251026T140000Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Coventry Sphinx – Derby County 0:6
+DESCRIPTION:FA Women's Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1487289@anstoss
+DTSTAMP:20251123T140000Z
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+SUMMARY:Derby County – Stockport County 4:1
+DESCRIPTION:FA Women's Cup · 2nd Round
+LOCATION:Don Amott Arena\, Derby
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1487289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488458@anstoss
+DTSTAMP:20251214T140000Z
+DTSTART:20251214T140000Z
+DTEND:20251214T160000Z
+SUMMARY:Derby County – Sunderland 1:5
+DESCRIPTION:FA Women's Cup · 3rd Round
+LOCATION:Don Amott Arena\, Derby
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488458.ht
+ ml
+END:VEVENT
+END:VCALENDAR

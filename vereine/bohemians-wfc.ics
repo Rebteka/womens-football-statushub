@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bohemians WFC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539601@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:Bohemians WFC – Glentoran BU 1:3
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539607@anstoss
+DTSTAMP:20260509T150000Z
+DTSTART:20260509T150000Z
+DTEND:20260509T170000Z
+SUMMARY:Shelbourne – Bohemians WFC 2:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542080@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Bohemians WFC – Waterford 5:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542080.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553408@anstoss
+DTSTAMP:20260613T140000Z
+DTSTART:20260613T140000Z
+DTEND:20260613T160000Z
+SUMMARY:Treaty Utd – Bohemians WFC 0:1
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1564787@anstoss
+DTSTAMP:20260627T120000Z
+DTSTART:20260627T120000Z
+DTEND:20260627T140000Z
+SUMMARY:Shelbourne – Bohemians WFC 4:0
+DESCRIPTION:All-Island Cup - Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1564787.ht
+ ml
+END:VEVENT
+END:VCALENDAR

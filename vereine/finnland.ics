@@ -8,6 +8,247 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193103@anstoss
+DTSTAMP:20240405T160000Z
+DTSTART:20240405T160000Z
+DTEND:20240405T180000Z
+SUMMARY:Norwegen – Finnland 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193103.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193114@anstoss
+DTSTAMP:20240409T161500Z
+DTSTART:20240409T161500Z
+DTEND:20240409T181500Z
+SUMMARY:Finnland – Italien 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193125@anstoss
+DTSTAMP:20240531T184500Z
+DTSTART:20240531T184500Z
+DTEND:20240531T204500Z
+SUMMARY:Niederlande – Finnland 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Sparta-Stadion Het Kasteel\, Rotterdam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193128@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Finnland – Niederlande 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193136@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Finnland – Norwegen 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Veritas Stadion\, Åbo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193144@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Italien – Finnland 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Stadio Marco Druso\, Bozen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252889@anstoss
+DTSTAMP:20241025T143000Z
+DTSTART:20241025T143000Z
+DTEND:20241025T163000Z
+SUMMARY:Montenegro – Finnland 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadion Pod Goricom\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252890@anstoss
+DTSTAMP:20241029T163000Z
+DTSTART:20241029T163000Z
+DTEND:20241029T183000Z
+SUMMARY:Finnland – Montenegro 5:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314221@anstoss
+DTSTAMP:20241129T193500Z
+DTSTART:20241129T193500Z
+DTEND:20241129T213500Z
+SUMMARY:Schottland – Finnland 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Easter Road Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314222@anstoss
+DTSTAMP:20241203T171500Z
+DTSTART:20241203T171500Z
+DTEND:20241203T191500Z
+SUMMARY:Finnland – Schottland 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315810@anstoss
+DTSTAMP:20250221T170000Z
+DTSTART:20250221T170000Z
+DTEND:20250221T190000Z
+SUMMARY:Serbia – Finnland 1:0
+DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+LOCATION:Sports Center of FA of Serbia\, Stara Pazova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315810.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315817@anstoss
+DTSTAMP:20250225T170000Z
+DTSTART:20250225T170000Z
+DTEND:20250225T190000Z
+SUMMARY:Hungary – Finnland 0:1
+DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+LOCATION:Hidegkuti Nándor Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315817.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315825@anstoss
+DTSTAMP:20250404T150000Z
+DTSTART:20250404T150000Z
+DTEND:20250404T170000Z
+SUMMARY:Finnland – Belarus 0:0
+DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+LOCATION:Stadio Silvio Piola\, Novara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315825.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315834@anstoss
+DTSTAMP:20250408T153000Z
+DTSTART:20250408T153000Z
+DTEND:20250408T173000Z
+SUMMARY:Finnland – Hungary 3:0
+DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315834.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315841@anstoss
+DTSTAMP:20250530T180000Z
+DTSTART:20250530T180000Z
+DTEND:20250530T200000Z
+SUMMARY:Belarus – Finnland 0:3
+DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+LOCATION:Szent Gellert Forum\, Szeged
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315841.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315849@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Finnland – Serbia 1:1
+DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+LOCATION:Helsinki Olympic Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315849.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367624@anstoss
+DTSTAMP:20250702T160000Z
+DTSTART:20250702T160000Z
+DTEND:20250702T180000Z
+SUMMARY:Island – Finnland 0:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stockhorn Arena\, Thun
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367632@anstoss
+DTSTAMP:20250706T160000Z
+DTSTART:20250706T160000Z
+DTEND:20250706T180000Z
+SUMMARY:Norwegen – Finnland 2:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367640@anstoss
+DTSTAMP:20250710T190000Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+SUMMARY:Finnland – Schweiz 1:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478111@anstoss
+DTSTAMP:20251024T160000Z
+DTSTART:20251024T160000Z
+DTEND:20251024T180000Z
+SUMMARY:Finnland – Dänemark 1:6
+DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478119@anstoss
+DTSTAMP:20251028T170000Z
+DTSTART:20251028T170000Z
+DTEND:20251028T190000Z
+SUMMARY:Dänemark – Finnland 2:0
+DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+LOCATION:Parken Stadium\, Copenhagen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523823@anstoss
 DTSTAMP:20260303T184500Z
 DTSTART:20260303T184500Z

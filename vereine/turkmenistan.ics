@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Turkmenistan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1007663@anstoss
+DTSTAMP:20230404T140000Z
+DTSTART:20230404T140000Z
+DTEND:20230404T160000Z
+SUMMARY:Turkmenistan – India
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Stadion im. Dolena Omurzakova\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007663.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007675@anstoss
+DTSTAMP:20230407T140000Z
+DTSTART:20230407T140000Z
+DTEND:20230407T160000Z
+SUMMARY:Kyrgyz Republic – Turkmenistan
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Stadion im. Dolena Omurzakova\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007675.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372383@anstoss
+DTSTAMP:20250629T093000Z
+DTSTART:20250629T093000Z
+DTEND:20250629T113000Z
+SUMMARY:Myanmar – Turkmenistan 8:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372399@anstoss
+DTSTAMP:20250702T123000Z
+DTSTART:20250702T123000Z
+DTEND:20250702T143000Z
+SUMMARY:Turkmenistan – Bahrain 2:2
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372416@anstoss
+DTSTAMP:20250705T123000Z
+DTSTART:20250705T123000Z
+DTEND:20250705T143000Z
+SUMMARY:Bangladesh – Turkmenistan 7:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372416.ht
+ ml
+END:VEVENT
+END:VCALENDAR

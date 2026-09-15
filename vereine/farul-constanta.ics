@@ -82,6 +82,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1623495.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638409@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Sparta Praha – Farul Constanţa
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1623500@anstoss
 DTSTAMP:20260927T100000Z
 DTSTART:20260927T100000Z
@@ -89,6 +99,16 @@ DTEND:20260927T120000Z
 SUMMARY:Farul Constanţa – Csikszereda MC
 DESCRIPTION:Liga 1 Feminin · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638415@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Farul Constanţa – Sparta Praha
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638415.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

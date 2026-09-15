@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sligo Rovers
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539603@anstoss
+DTSTAMP:20260404T160000Z
+DTSTART:20260404T160000Z
+DTEND:20260404T180000Z
+SUMMARY:Sligo Rovers – Wexford Youths 2:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539608@anstoss
+DTSTAMP:20260509T140000Z
+DTSTART:20260509T140000Z
+DTEND:20260509T160000Z
+SUMMARY:Shamrock Rovers – Sligo Rovers 3:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542073@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:Linfield – Sligo Rovers 5:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542073.ht
+ ml
+END:VEVENT
+END:VCALENDAR

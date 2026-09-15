@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tunisia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140628@anstoss
+DTSTAMP:20231025T000000Z
+DTSTART:20231025T000000Z
+DTEND:20231025T020000Z
+SUMMARY:Côte d'Ivoire – Tunisia (verlegt)
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140629@anstoss
+DTSTAMP:20231031T000000Z
+DTSTART:20231031T000000Z
+DTEND:20231031T020000Z
+SUMMARY:Tunisia – Côte d'Ivoire
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Stade de Soliman\, Sulayman
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140988@anstoss
+DTSTAMP:20240223T133000Z
+DTSTART:20240223T133000Z
+DTEND:20240223T153000Z
+SUMMARY:Tunisia – Morocco 1:2
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Stade de Soliman\, Sulayman
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140989@anstoss
+DTSTAMP:20240228T180000Z
+DTSTART:20240228T180000Z
+DTEND:20240228T200000Z
+SUMMARY:Morocco – Tunisia 4:1
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Stade Prince Moulay El Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540256@anstoss
+DTSTAMP:20260412T130000Z
+DTSTART:20260412T130000Z
+DTEND:20260412T150000Z
+SUMMARY:Tunisia – Benin 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540261@anstoss
+DTSTAMP:20260416T130000Z
+DTSTART:20260416T130000Z
+DTEND:20260416T150000Z
+SUMMARY:Tunisia – Comoros 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540261.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546556@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Egypt – Tunisia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546556.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550872@anstoss
+DTSTAMP:20260608T160000Z
+DTSTART:20260608T160000Z
+DTEND:20260608T180000Z
+SUMMARY:Egypt – Tunisia 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550872.ht
+ ml
+END:VEVENT
+END:VCALENDAR

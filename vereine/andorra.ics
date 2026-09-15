@@ -8,6 +8,144 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193204@anstoss
+DTSTAMP:20240405T143000Z
+DTSTART:20240405T143000Z
+DTEND:20240405T163000Z
+SUMMARY:Montenegro – Andorra 6:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stadion Pod Goricom\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193215@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Andorra – Greece 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193215.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193225@anstoss
+DTSTAMP:20240531T154500Z
+DTSTART:20240531T154500Z
+DTEND:20240531T174500Z
+SUMMARY:Faroe Islands – Andorra 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193230@anstoss
+DTSTAMP:20240604T170000Z
+DTSTART:20240604T170000Z
+DTEND:20240604T190000Z
+SUMMARY:Andorra – Montenegro 1:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193230.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193239@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Greece – Andorra 6:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193239.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193249@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Andorra – Faroe Islands 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315856@anstoss
+DTSTAMP:20250221T150000Z
+DTSTART:20250221T150000Z
+DTEND:20250221T170000Z
+SUMMARY:Georgia – Andorra 2:1
+DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315856.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315865@anstoss
+DTSTAMP:20250225T183000Z
+DTSTART:20250225T183000Z
+DTEND:20250225T203000Z
+SUMMARY:Malta – Andorra 1:0
+DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315873@anstoss
+DTSTAMP:20250404T160000Z
+DTSTART:20250404T160000Z
+DTEND:20250404T180000Z
+SUMMARY:Cyprus – Andorra 2:2
+DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+LOCATION:AEK Arena\, Larnaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315873.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315882@anstoss
+DTSTAMP:20250408T180000Z
+DTSTART:20250408T180000Z
+DTEND:20250408T200000Z
+SUMMARY:Andorra – Cyprus 2:1
+DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315891@anstoss
+DTSTAMP:20250530T170000Z
+DTSTART:20250530T170000Z
+DTEND:20250530T190000Z
+SUMMARY:Andorra – Georgia 1:2
+DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+LOCATION:Nou Estadi Encamp\, Encamp
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315900@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Andorra – Malta 0:0
+DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+LOCATION:Nou Estadi Encamp\, Encamp
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523831@anstoss
 DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z
@@ -77,6 +215,26 @@ DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
  . Spieltag
 LOCATION:Illovszky Rudolf Stadion\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638582@anstoss
+DTSTAMP:20261009T100000Z
+DTSTART:20261009T100000Z
+DTEND:20261009T120000Z
+SUMMARY:Andorra – Faroe Islands
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638582.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638585@anstoss
+DTSTAMP:20261012T150000Z
+DTSTART:20261012T150000Z
+DTEND:20261012T170000Z
+SUMMARY:Andorra – Faroe Islands
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638585.ht
  ml
 END:VEVENT
 END:VCALENDAR

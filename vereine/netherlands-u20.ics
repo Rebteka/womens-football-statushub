@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Netherlands U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205399@anstoss
+DTSTAMP:20240903T010000Z
+DTSTART:20240903T010000Z
+DTEND:20240903T030000Z
+SUMMARY:Costa Rica U20 – Netherlands U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205411@anstoss
+DTSTAMP:20240906T010000Z
+DTSTART:20240906T010000Z
+DTEND:20240906T030000Z
+SUMMARY:Netherlands U20 – Argentina U20 3:3
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205420@anstoss
+DTSTAMP:20240908T200000Z
+DTSTART:20240908T200000Z
+DTEND:20240908T220000Z
+SUMMARY:Netherlands U20 – Korea DPR U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1304036@anstoss
+DTSTAMP:20240913T010000Z
+DTSTART:20240913T010000Z
+DTEND:20240913T030000Z
+SUMMARY:France U20 – Netherlands U20 1:2
+DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+LOCATION:Estadio Atanasio Girardot\, Medellín
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1304036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1305821@anstoss
+DTSTAMP:20240915T213000Z
+DTSTART:20240915T213000Z
+DTEND:20240915T233000Z
+SUMMARY:Netherlands U20 – Colombia U20 2:2
+DESCRIPTION:World Cup - U20 - Women · Viertelfinale
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1305821.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1305918@anstoss
+DTSTAMP:20240919T010000Z
+DTSTART:20240919T010000Z
+DTEND:20240919T030000Z
+SUMMARY:Japan U20 – Netherlands U20 2:0
+DESCRIPTION:World Cup - U20 - Women · Halbfinale
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1305918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1307075@anstoss
+DTSTAMP:20240921T210000Z
+DTSTART:20240921T210000Z
+DTEND:20240921T230000Z
+SUMMARY:United States U20 – Netherlands U20 2:1
+DESCRIPTION:World Cup - U20 - Women · Spiel um Platz 3
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1307075.ht
+ ml
+END:VEVENT
+END:VCALENDAR

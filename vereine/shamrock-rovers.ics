@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shamrock Rovers
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539598@anstoss
+DTSTAMP:20260405T140000Z
+DTSTART:20260405T140000Z
+DTEND:20260405T160000Z
+SUMMARY:Linfield – Shamrock Rovers 1:2
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539608@anstoss
+DTSTAMP:20260509T140000Z
+DTSTART:20260509T140000Z
+DTEND:20260509T160000Z
+SUMMARY:Shamrock Rovers – Sligo Rovers 3:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542074@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:Shamrock Rovers – Wexford Youths 1:5
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542074.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553407@anstoss
+DTSTAMP:20260613T140000Z
+DTSTART:20260613T140000Z
+DTEND:20260613T160000Z
+SUMMARY:Shamrock Rovers – Peamount United 0:1
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553407.ht
+ ml
+END:VEVENT
+END:VCALENDAR

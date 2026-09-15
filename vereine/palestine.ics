@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Palestine
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1007657@anstoss
+DTSTAMP:20230403T000000Z
+DTSTART:20230403T000000Z
+DTEND:20230403T020000Z
+SUMMARY:Nepal – Palestine
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007657.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007669@anstoss
+DTSTAMP:20230405T000000Z
+DTSTART:20230405T000000Z
+DTEND:20230405T020000Z
+SUMMARY:Palestine – Vietnam
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007669.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007681@anstoss
+DTSTAMP:20230408T000000Z
+DTSTART:20230408T000000Z
+DTEND:20230408T020000Z
+SUMMARY:Palestine – Afghanistan
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007681.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372394@anstoss
+DTSTAMP:20250629T140000Z
+DTSTART:20250629T140000Z
+DTEND:20250629T160000Z
+SUMMARY:Malaysia – Palestine 1:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372410@anstoss
+DTSTAMP:20250702T140000Z
+DTSTART:20250702T140000Z
+DTEND:20250702T160000Z
+SUMMARY:Palestine – Korea DPR 0:10
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372426@anstoss
+DTSTAMP:20250705T170000Z
+DTSTART:20250705T170000Z
+DTEND:20250705T190000Z
+SUMMARY:Palestine – Tajikistan 3:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548478@anstoss
+DTSTAMP:20260606T150000Z
+DTSTART:20260606T150000Z
+DTEND:20260606T170000Z
+SUMMARY:Malaysia – Palestine 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548486@anstoss
+DTSTAMP:20260609T150000Z
+DTSTART:20260609T150000Z
+DTEND:20260609T170000Z
+SUMMARY:Jordan – Palestine 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548486.ht
+ ml
+END:VEVENT
+END:VCALENDAR

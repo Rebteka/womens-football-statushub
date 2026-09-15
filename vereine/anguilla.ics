@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anguilla
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140540@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Anguilla – Cayman Islands 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140540.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140547@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Cayman Islands – Anguilla 2:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:Truman Bodden Sports Complex\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140560@anstoss
+DTSTAMP:20231031T000000Z
+DTSTART:20231031T000000Z
+DTEND:20231031T020000Z
+SUMMARY:Curaçao – Anguilla 5:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Football Federation Training Ground\, Willemstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140566@anstoss
+DTSTAMP:20231130T200000Z
+DTSTART:20231130T200000Z
+DTEND:20231130T220000Z
+SUMMARY:Anguilla – Curaçao 1:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488273@anstoss
+DTSTAMP:20251128T193000Z
+DTSTART:20251128T193000Z
+DTEND:20251128T213000Z
+SUMMARY:Anguilla – Suriname 1:3
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488301@anstoss
+DTSTAMP:20260306T190000Z
+DTSTART:20260306T190000Z
+DTEND:20260306T210000Z
+SUMMARY:Anguilla – Dominican Republic 0:8
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488304@anstoss
+DTSTAMP:20260410T000000Z
+DTSTART:20260410T000000Z
+DTEND:20260410T020000Z
+SUMMARY:Haiti – Anguilla 5:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Stade Roger Zami\, Le Gosier
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488309@anstoss
+DTSTAMP:20260414T010000Z
+DTSTART:20260414T010000Z
+DTEND:20260414T030000Z
+SUMMARY:Belize – Anguilla 2:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:FFB Field\, Belmopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488309.ht
+ ml
+END:VEVENT
+END:VCALENDAR

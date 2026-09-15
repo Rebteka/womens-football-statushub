@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nasaf
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578032@anstoss
+DTSTAMP:20260817T150000Z
+DTSTART:20260817T150000Z
+DTEND:20260817T170000Z
+SUMMARY:Nasaf – Master 11:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578045@anstoss
+DTSTAMP:20260820T150000Z
+DTSTART:20260820T150000Z
+DTEND:20260820T170000Z
+SUMMARY:RTC – Nasaf 0:3
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578045.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578049@anstoss
+DTSTAMP:20260823T150000Z
+DTSTART:20260823T150000Z
+DTEND:20260823T170000Z
+SUMMARY:Banaat – Nasaf 0:7
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578049.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638224@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Melbourne City – Nasaf
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638237@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Nasaf – Beijing Beikong
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638237.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638234@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Kaya – Nasaf
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638234.ht
+ ml
+END:VEVENT
+END:VCALENDAR

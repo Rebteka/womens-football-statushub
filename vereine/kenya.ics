@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kenya
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526965@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Kenya – Benin 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526970@anstoss
+DTSTAMP:20260304T190000Z
+DTSTART:20260304T190000Z
+DTEND:20260304T210000Z
+SUMMARY:Ivory Coast – Kenya 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538882@anstoss
+DTSTAMP:20260411T140000Z
+DTSTART:20260411T140000Z
+DTEND:20260411T160000Z
+SUMMARY:Kenya – India 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540596@anstoss
+DTSTAMP:20260415T143000Z
+DTSTART:20260415T143000Z
+DTEND:20260415T163000Z
+SUMMARY:Kenya – Australien 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Nyayo National Stadium\, Nairobi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545737@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Kenya – Zimbabwe
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545737.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548477@anstoss
+DTSTAMP:20260606T133000Z
+DTSTART:20260606T133000Z
+DTEND:20260606T153000Z
+SUMMARY:Zambia – Kenya 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545742@anstoss
+DTSTAMP:20260609T120000Z
+DTSTART:20260609T120000Z
+DTEND:20260609T140000Z
+SUMMARY:Zambia – Kenya
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545742.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550875@anstoss
+DTSTAMP:20260609T130000Z
+DTSTART:20260609T130000Z
+DTEND:20260609T150000Z
+SUMMARY:Lesotho – Kenya 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550875.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600199@anstoss
+DTSTAMP:20260726T200000Z
+DTSTART:20260726T200000Z
+DTEND:20260726T220000Z
+SUMMARY:Morocco – Kenya 4:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600206@anstoss
+DTSTAMP:20260730T170000Z
+DTSTART:20260730T170000Z
+DTEND:20260730T190000Z
+SUMMARY:Senegal – Kenya 1:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade Prince Moulay Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600214@anstoss
+DTSTAMP:20260803T200000Z
+DTSTART:20260803T200000Z
+DTEND:20260803T220000Z
+SUMMARY:Kenya – Algeria 0:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600214.ht
+ ml
+END:VEVENT
+END:VCALENDAR

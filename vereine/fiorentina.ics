@@ -8,6 +8,89 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1480951@anstoss
+DTSTAMP:20251221T133000Z
+DTSTART:20251221T133000Z
+DTEND:20251221T153000Z
+SUMMARY:Bologna – Fiorentina 1:1
+DESCRIPTION:Coppa Italia Women · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514285@anstoss
+DTSTAMP:20260120T170000Z
+DTSTART:20260120T170000Z
+DTEND:20260120T190000Z
+SUMMARY:AC Milan – Fiorentina 1:1
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514291@anstoss
+DTSTAMP:20260129T170000Z
+DTSTART:20260129T170000Z
+DTEND:20260129T190000Z
+SUMMARY:Fiorentina – AC Milan 1:0
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538184@anstoss
+DTSTAMP:20260311T170000Z
+DTSTART:20260311T170000Z
+DTEND:20260311T190000Z
+SUMMARY:Fiorentina – Juventus 0:2
+DESCRIPTION:Coppa Italia Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538187@anstoss
+DTSTAMP:20260329T160000Z
+DTSTART:20260329T160000Z
+DTEND:20260329T180000Z
+SUMMARY:Juventus – Fiorentina 2:1
+DESCRIPTION:Coppa Italia Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582313@anstoss
+DTSTAMP:20260823T160000Z
+DTSTART:20260823T160000Z
+DTEND:20260823T180000Z
+SUMMARY:Fiorentina – Sassuolo 1:2
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582319@anstoss
+DTSTAMP:20260830T183000Z
+DTSTART:20260830T183000Z
+DTEND:20260830T203000Z
+SUMMARY:Fiorentina – Ternana 3:1
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582323@anstoss
+DTSTAMP:20260905T153000Z
+DTSTART:20260905T153000Z
+DTEND:20260905T173000Z
+SUMMARY:Roma – Fiorentina 3:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1601249@anstoss
 DTSTAMP:20260927T110000Z
 DTSTART:20260927T110000Z

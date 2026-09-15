@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Guam U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424288@anstoss
+DTSTAMP:20250806T084500Z
+DTSTART:20250806T084500Z
+DTEND:20250806T104500Z
+SUMMARY:Japan U20 – Guam U20 5:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424293@anstoss
+DTSTAMP:20250808T084500Z
+DTSTART:20250808T084500Z
+DTEND:20250808T104500Z
+SUMMARY:Guam U20 – Iran U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424300@anstoss
+DTSTAMP:20250810T124500Z
+DTSTART:20250810T124500Z
+DTEND:20250810T144500Z
+SUMMARY:Malaysia U20 – Guam U20 2:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424300.ht
+ ml
+END:VEVENT
+END:VCALENDAR

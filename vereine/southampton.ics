@@ -8,6 +8,26 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1488467@anstoss
+DTSTAMP:20251214T130000Z
+DTSTART:20251214T130000Z
+DTEND:20251214T150000Z
+SUMMARY:Southampton – Royston Town 10:0
+DESCRIPTION:FA Women's Cup · 3rd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501249@anstoss
+DTSTAMP:20260118T130000Z
+DTSTART:20260118T130000Z
+DTEND:20260118T150000Z
+SUMMARY:Southampton – Bristol City 1:2
+DESCRIPTION:FA Women's Cup · Round 4
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609372@anstoss
 DTSTAMP:20260906T110000Z
 DTSTART:20260906T110000Z
@@ -51,6 +71,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1609393.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612643@anstoss
+DTSTAMP:20260930T180000Z
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
+SUMMARY:West Ham – Southampton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609396@anstoss
 DTSTAMP:20261004T130000Z
 DTSTART:20261004T130000Z
@@ -62,6 +93,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1609396.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612652@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Bristol City – Southampton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612657@anstoss
+DTSTAMP:20261021T180000Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:Southampton – Crystal Palace
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1609406@anstoss
 DTSTAMP:20261025T150000Z
 DTSTART:20261025T150000Z
@@ -70,6 +122,16 @@ SUMMARY:Leicester City FC – Southampton
 DESCRIPTION:Women's Championship · 6. Spieltag
 LOCATION:King Power Stadium\, Leicester
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612670@anstoss
+DTSTAMP:20261101T140000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Southampton – Leicester City FC
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612670.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -91,6 +153,26 @@ SUMMARY:Burnley – Southampton
 DESCRIPTION:Women's Championship · 8. Spieltag
 LOCATION:Lancashire County Ground\, Leyland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1609414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612684@anstoss
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Ipswich Town – Southampton
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612684.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612698@anstoss
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:Southampton – Brighton
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612698.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

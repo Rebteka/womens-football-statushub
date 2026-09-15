@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Switzerland U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1512638@anstoss
+DTSTAMP:20260121T160000Z
+DTSTART:20260121T160000Z
+DTEND:20260121T180000Z
+SUMMARY:Portugal U17 – Switzerland U17 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512640@anstoss
+DTSTAMP:20260124T110000Z
+DTSTART:20260124T110000Z
+DTEND:20260124T130000Z
+SUMMARY:Switzerland U17 – Japan U17 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512643@anstoss
+DTSTAMP:20260127T120000Z
+DTSTART:20260127T120000Z
+DTEND:20260127T140000Z
+SUMMARY:Switzerland U17 – Czech Republic U17 1:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525430@anstoss
+DTSTAMP:20260217T133000Z
+DTSTART:20260217T133000Z
+DTEND:20260217T153000Z
+SUMMARY:Italy U17 – Switzerland U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525429@anstoss
+DTSTAMP:20260219T100000Z
+DTSTART:20260219T100000Z
+DTEND:20260219T120000Z
+SUMMARY:Italy U17 – Switzerland U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525429.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Venezuela
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1327492@anstoss
+DTSTAMP:20250714T000000Z
+DTSTART:20250714T000000Z
+DTEND:20250714T020000Z
+SUMMARY:Brasilien – Venezuela 2:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327497@anstoss
+DTSTAMP:20250717T000000Z
+DTSTART:20250717T000000Z
+DTEND:20250717T020000Z
+SUMMARY:Venezuela – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327501@anstoss
+DTSTAMP:20250719T210000Z
+DTSTART:20250719T210000Z
+DTEND:20250719T230000Z
+SUMMARY:Venezuela – Bolivia 7:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327508@anstoss
+DTSTAMP:20250726T000000Z
+DTSTART:20250726T000000Z
+DTEND:20250726T020000Z
+SUMMARY:Paraguay – Venezuela 2:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327508.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483014@anstoss
+DTSTAMP:20251024T210000Z
+DTSTART:20251024T210000Z
+DTEND:20251024T230000Z
+SUMMARY:Venezuela – Chile 0:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483020@anstoss
+DTSTAMP:20251028T230000Z
+DTSTART:20251028T230000Z
+DTEND:20251029T010000Z
+SUMMARY:Paraguay – Venezuela 1:2
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Tigo La Huerta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483022@anstoss
+DTSTAMP:20251128T230000Z
+DTSTART:20251128T230000Z
+DTEND:20251129T010000Z
+SUMMARY:Ecuador – Venezuela 0:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483028@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Venezuela – Peru 6:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520292@anstoss
+DTSTAMP:20260304T213000Z
+DTSTART:20260304T213000Z
+DTEND:20260304T233000Z
+SUMMARY:Brasilien – Venezuela 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533346@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:América – Venezuela 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483030@anstoss
+DTSTAMP:20260411T010000Z
+DTSTART:20260411T010000Z
+DTEND:20260411T030000Z
+SUMMARY:Kolumbien – Venezuela 2:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483036@anstoss
+DTSTAMP:20260414T230000Z
+DTSTART:20260414T230000Z
+DTEND:20260415T010000Z
+SUMMARY:Venezuela – Argentina 1:2
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 6. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483040@anstoss
+DTSTAMP:20260418T230000Z
+DTSTART:20260418T230000Z
+DTEND:20260419T010000Z
+SUMMARY:Venezuela – Bolivia 8:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 7. Spieltag
+LOCATION:Estadio Metropolitano de Cabudare\, Barquisimeto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483040.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483048@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Uruguay – Venezuela 1:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Centenario\, Montevideo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483048.ht
+ ml
+END:VEVENT
+END:VCALENDAR

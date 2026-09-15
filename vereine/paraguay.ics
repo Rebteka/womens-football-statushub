@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paraguay
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1159530@anstoss
+DTSTAMP:20240222T231500Z
+DTSTART:20240222T231500Z
+DTEND:20240223T011500Z
+SUMMARY:Costa Rica – Paraguay 0:1
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159533@anstoss
+DTSTAMP:20240225T220000Z
+DTSTART:20240225T220000Z
+DTEND:20240226T000000Z
+SUMMARY:Paraguay – Kanada 0:4
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174969@anstoss
+DTSTAMP:20240229T020000Z
+DTSTART:20240229T020000Z
+DTEND:20240229T040000Z
+SUMMARY:Paraguay – El Salvador 3:2
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178662@anstoss
+DTSTAMP:20240303T220000Z
+DTSTART:20240303T220000Z
+DTEND:20240304T000000Z
+SUMMARY:Mexiko – Paraguay 3:2
+DESCRIPTION:CONCACAF Gold Cup - Women · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327493@anstoss
+DTSTAMP:20250713T210000Z
+DTSTART:20250713T210000Z
+DTEND:20250713T230000Z
+SUMMARY:Bolivia – Paraguay 0:4
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327500@anstoss
+DTSTAMP:20250720T000000Z
+DTSTART:20250720T000000Z
+DTEND:20250720T020000Z
+SUMMARY:Kolumbien – Paraguay 4:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327504@anstoss
+DTSTAMP:20250723T000000Z
+DTSTART:20250723T000000Z
+DTEND:20250723T020000Z
+SUMMARY:Paraguay – Brasilien 1:4
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327508@anstoss
+DTSTAMP:20250726T000000Z
+DTSTART:20250726T000000Z
+DTEND:20250726T020000Z
+SUMMARY:Paraguay – Venezuela 2:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327508.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1414159@anstoss
+DTSTAMP:20250728T210000Z
+DTSTART:20250728T210000Z
+DTEND:20250728T230000Z
+SUMMARY:Chile – Paraguay 0:1
+DESCRIPTION:Copa America Femenina · 5th Place Finale
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1414159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483015@anstoss
+DTSTAMP:20251024T230000Z
+DTSTART:20251024T230000Z
+DTEND:20251025T010000Z
+SUMMARY:Argentina – Paraguay 3:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Diego Armando Maradona\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483020@anstoss
+DTSTAMP:20251028T230000Z
+DTSTART:20251028T230000Z
+DTEND:20251029T010000Z
+SUMMARY:Paraguay – Venezuela 1:2
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Tigo La Huerta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483023@anstoss
+DTSTAMP:20251128T230000Z
+DTSTART:20251128T230000Z
+DTEND:20251129T010000Z
+SUMMARY:Paraguay – Uruguay 1:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Tigo La Huerta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483026@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Chile – Paraguay 1:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 4. Spieltag
+LOCATION:Estadio El Teniente\, Rancagua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503001@anstoss
+DTSTAMP:20260124T223000Z
+DTSTART:20260124T223000Z
+DTEND:20260125T003000Z
+SUMMARY:USA – Paraguay 6:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Dignity Health Sports Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526973@anstoss
+DTSTAMP:20260304T220000Z
+DTSTART:20260304T220000Z
+DTEND:20260305T000000Z
+SUMMARY:Paraguay – Chile 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526978@anstoss
+DTSTAMP:20260307T220000Z
+DTSTART:20260307T220000Z
+DTEND:20260308T000000Z
+SUMMARY:Paraguay – Chile 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526978.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483031@anstoss
+DTSTAMP:20260410T230000Z
+DTSTART:20260410T230000Z
+DTEND:20260411T010000Z
+SUMMARY:Paraguay – Ecuador 2:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Defensores del Chaco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483035@anstoss
+DTSTAMP:20260414T210000Z
+DTSTART:20260414T210000Z
+DTEND:20260414T230000Z
+SUMMARY:Peru – Paraguay 1:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 6. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483042@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Bolivia – Paraguay 0:8
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483042.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483046@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Paraguay – Kolumbien 3:4
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Defensores del Chaco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483046.ht
+ ml
+END:VEVENT
+END:VCALENDAR

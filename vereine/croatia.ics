@@ -8,6 +8,168 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193157@anstoss
+DTSTAMP:20240405T181500Z
+DTSTART:20240405T181500Z
+DTEND:20240405T201500Z
+SUMMARY:Wales – Croatia 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:STōK Cae Ras\, Wrecsam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193157.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193163@anstoss
+DTSTAMP:20240409T140000Z
+DTSTART:20240409T140000Z
+DTEND:20240409T160000Z
+SUMMARY:Croatia – Ukraine 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Stadion Ivan Laljak-Ivić\, Zaprešić
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193163.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193173@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:Kosovo – Croatia 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193173.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193181@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Croatia – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Stadion Branko Čavlović-Čavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193181.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193189@anstoss
+DTSTAMP:20240712T181500Z
+DTSTART:20240712T181500Z
+DTEND:20240712T201500Z
+SUMMARY:Croatia – Wales 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadion Branko Čavlović-Čavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193189.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193198@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Ukraine – Croatia 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193198.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252903@anstoss
+DTSTAMP:20241025T170000Z
+DTSTART:20241025T170000Z
+DTEND:20241025T190000Z
+SUMMARY:Croatia – Nordirland 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadion Anđelko Herjavec\, Varaždin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252903.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252904@anstoss
+DTSTAMP:20241029T190000Z
+DTSTART:20241029T190000Z
+DTEND:20241029T210000Z
+SUMMARY:Nordirland – Croatia 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315812@anstoss
+DTSTAMP:20250221T180000Z
+DTSTART:20250221T180000Z
+DTEND:20250221T200000Z
+SUMMARY:Croatia – Tschechien 0:4
+DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+LOCATION:Stadion Aldo Drosina\, Pula
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315812.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315820@anstoss
+DTSTAMP:20250225T170000Z
+DTSTART:20250225T170000Z
+DTEND:20250225T190000Z
+SUMMARY:Ukraine – Croatia 2:1
+DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+LOCATION:Arena Kombetare\, Tirana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315827@anstoss
+DTSTAMP:20250404T140000Z
+DTSTART:20250404T140000Z
+DTEND:20250404T160000Z
+SUMMARY:Albania – Croatia 4:0
+DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+LOCATION:Loro Borici Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315827.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315835@anstoss
+DTSTAMP:20250408T140000Z
+DTSTART:20250408T140000Z
+DTEND:20250408T160000Z
+SUMMARY:Croatia – Albania 1:2
+DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+LOCATION:SC Rudes\, Zagreb
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315835.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315843@anstoss
+DTSTAMP:20250530T150000Z
+DTSTART:20250530T150000Z
+DTEND:20250530T170000Z
+SUMMARY:Tschechien – Croatia 5:0
+DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+LOCATION:Letni stadion na Zadnich Vinohradech\, Chomutov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315843.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315852@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Croatia – Ukraine 2:0
+DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+LOCATION:Stadion Branko Cavlovic-Cavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315852.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523829@anstoss
 DTSTAMP:20260303T100000Z
 DTSTART:20260303T100000Z

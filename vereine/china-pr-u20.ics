@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:China PR U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1426548@anstoss
+DTSTAMP:20250806T113500Z
+DTSTART:20250806T113500Z
+DTEND:20250806T133500Z
+SUMMARY:China PR U20 – Syria U20 6:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426548.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424271@anstoss
+DTSTAMP:20250808T113500Z
+DTSTART:20250808T113500Z
+DTEND:20250808T133500Z
+SUMMARY:Cambodia U20 – China PR U20 0:7
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424271.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424282@anstoss
+DTSTAMP:20250810T113500Z
+DTSTART:20250810T113500Z
+DTEND:20250810T133500Z
+SUMMARY:China PR U20 – Lebanon U20 8:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540456@anstoss
+DTSTAMP:20260401T090000Z
+DTSTART:20260401T090000Z
+DTEND:20260401T110000Z
+SUMMARY:China PR U20 – Vietnam U20 3:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540462@anstoss
+DTSTAMP:20260404T090000Z
+DTSTART:20260404T090000Z
+DTEND:20260404T110000Z
+SUMMARY:Bangladesh U20 – China PR U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540469@anstoss
+DTSTAMP:20260407T130000Z
+DTSTART:20260407T130000Z
+DTEND:20260407T150000Z
+SUMMARY:Thailand U20 – China PR U20 0:1
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540453@anstoss
+DTSTAMP:20260411T130000Z
+DTSTART:20260411T130000Z
+DTEND:20260411T150000Z
+SUMMARY:China PR U20 – Uzbekistan U20 2:1
+DESCRIPTION:AFC U20 Asian Cup - Women · Viertelfinale
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540475@anstoss
+DTSTAMP:20260415T130000Z
+DTSTART:20260415T130000Z
+DTEND:20260415T150000Z
+SUMMARY:China PR U20 – Japan U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Halbfinale
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540475.ht
+ ml
+END:VEVENT
+END:VCALENDAR

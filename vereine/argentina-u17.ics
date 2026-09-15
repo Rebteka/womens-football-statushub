@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Argentina U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1366990@anstoss
+DTSTAMP:20250501T000000Z
+DTSTART:20250501T000000Z
+DTEND:20250501T020000Z
+SUMMARY:Colombia U17 – Argentina U17 2:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366993@anstoss
+DTSTAMP:20250502T213000Z
+DTSTART:20250502T213000Z
+DTEND:20250502T233000Z
+SUMMARY:Argentina U17 – Paraguay U17 0:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366998@anstoss
+DTSTAMP:20250505T000000Z
+DTSTART:20250505T000000Z
+DTEND:20250505T020000Z
+SUMMARY:Argentina U17 – Venezuela U17 0:0
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367006@anstoss
+DTSTAMP:20250510T000000Z
+DTSTART:20250510T000000Z
+DTEND:20250510T020000Z
+SUMMARY:Chile U17 – Argentina U17 1:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537382@anstoss
+DTSTAMP:20260327T223000Z
+DTSTART:20260327T223000Z
+DTEND:20260328T003000Z
+SUMMARY:South Africa U17 – Argentina U17 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537381@anstoss
+DTSTAMP:20260329T183000Z
+DTSTART:20260329T183000Z
+DTEND:20260329T203000Z
+SUMMARY:South Africa U17 – Argentina U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546120@anstoss
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Germany U17 – Argentina U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546125@anstoss
+DTSTAMP:20261020T140000Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:Argentina U17 – New Zealand U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546133@anstoss
+DTSTAMP:20261023T170000Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:Argentina U17 – Morocco U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546133.ht
+ ml
+END:VEVENT
+END:VCALENDAR

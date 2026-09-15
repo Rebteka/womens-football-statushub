@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hibernian
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188769@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Hibernian – St. Johnstone 10:0
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Meadowbank Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188769.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188749@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Glasgow City – Hibernian 1:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188743@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Hibernian – Rangers 2:6
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Meadowbank Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188743.ht
+ ml
+END:VEVENT
+END:VCALENDAR

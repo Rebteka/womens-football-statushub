@@ -8,6 +8,28 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1501243@anstoss
+DTSTAMP:20260118T130000Z
+DTSTART:20260118T130000Z
+DTEND:20260118T150000Z
+SUMMARY:Manchester United – Burnley 5:0
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514954@anstoss
+DTSTAMP:20260222T133000Z
+DTSTART:20260222T133000Z
+DTEND:20260222T153000Z
+SUMMARY:Chelsea – Manchester United 2:1
+DESCRIPTION:FA Women's Cup · Round 5
+LOCATION:Kingsmeadow\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607663@anstoss
 DTSTAMP:20260904T180000Z
 DTSTART:20260904T180000Z
@@ -41,6 +63,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607680.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612635@anstoss
+DTSTAMP:20260923T180000Z
+DTSTART:20260923T180000Z
+DTEND:20260923T200000Z
+SUMMARY:Manchester United – Sheffield United
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607686@anstoss
 DTSTAMP:20260927T120000Z
 DTSTART:20260927T120000Z
@@ -49,6 +82,17 @@ SUMMARY:Manchester United – West Ham
 DESCRIPTION:Women's Super League · 4. Spieltag
 LOCATION:Leigh Sports Village\, Leigh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612642@anstoss
+DTSTAMP:20260930T180000Z
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
+SUMMARY:Durham – Manchester United
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612642.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -74,6 +118,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607700.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612656@anstoss
+DTSTAMP:20261021T180000Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:Liverpool – Manchester United
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:St Helens Stadium\, St Helens
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612656.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607705@anstoss
 DTSTAMP:20261025T180000Z
 DTSTART:20261025T180000Z
@@ -82,6 +137,17 @@ SUMMARY:Manchester United – Manchester City
 DESCRIPTION:Women's Super League · 7. Spieltag
 LOCATION:Leigh Sports Village\, Leigh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607705.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612662@anstoss
+DTSTAMP:20261028T190000Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Manchester United – Burnley
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612662.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -118,6 +184,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607728.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612680@anstoss
+DTSTAMP:20261118T190000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:Manchester United – Everton
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612680.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607734@anstoss
 DTSTAMP:20261122T140000Z
 DTSTART:20261122T140000Z
@@ -137,6 +214,17 @@ SUMMARY:Manchester United – Brighton
 DESCRIPTION:Women's Super League · 12. Spieltag
 LOCATION:Leigh Sports Village\, Leigh
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612697@anstoss
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:Newcastle United – Manchester United
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612697.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Netherlands U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526365@anstoss
+DTSTAMP:20260228T140000Z
+DTSTART:20260228T140000Z
+DTEND:20260228T160000Z
+SUMMARY:Mexico U20 – Netherlands U19 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526374@anstoss
+DTSTAMP:20260303T140000Z
+DTSTART:20260303T140000Z
+DTEND:20260303T160000Z
+SUMMARY:Netherlands U19 – England U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526381@anstoss
+DTSTAMP:20260306T100000Z
+DTSTART:20260306T100000Z
+DTEND:20260306T120000Z
+SUMMARY:Spain U20 – Netherlands U19 6:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526381.ht
+ ml
+END:VEVENT
+END:VCALENDAR

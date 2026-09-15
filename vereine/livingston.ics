@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Livingston
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188760@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Livingston – Airdrie
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188760.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188751@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Livingston – Gartcairn 2:2
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188744@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Livingston – Spartans 0:5
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485685@anstoss
+DTSTAMP:20250907T130000Z
+DTSTART:20250907T130000Z
+DTEND:20250907T150000Z
+SUMMARY:Livingston – East Fife 4:0
+DESCRIPTION:SWPL Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485685.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485688@anstoss
+DTSTAMP:20251005T120000Z
+DTSTART:20251005T120000Z
+DTEND:20251005T140000Z
+SUMMARY:Partick Thistle – Livingston 7:0
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485688.ht
+ ml
+END:VEVENT
+END:VCALENDAR

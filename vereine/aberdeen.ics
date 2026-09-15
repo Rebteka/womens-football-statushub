@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aberdeen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188758@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Boroughmuir Thistle – Aberdeen 1:3
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Meadowbank 3G\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188753@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Spartans – Aberdeen 2:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Ainslie Park Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485689@anstoss
+DTSTAMP:20251005T120000Z
+DTSTART:20251005T120000Z
+DTEND:20251005T140000Z
+SUMMARY:Aberdeen – Kilmarnock 3:1
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485689.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485697@anstoss
+DTSTAMP:20251109T130000Z
+DTSTART:20251109T130000Z
+DTEND:20251109T150000Z
+SUMMARY:Glasgow City – Aberdeen 2:0
+DESCRIPTION:SWPL Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485697.ht
+ ml
+END:VEVENT
+END:VCALENDAR

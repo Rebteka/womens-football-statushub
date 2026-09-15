@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Myanmar
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1020713@anstoss
+DTSTAMP:20230405T093000Z
+DTSTART:20230405T093000Z
+DTEND:20230405T113000Z
+SUMMARY:Iran – Myanmar 1:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1020713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007654@anstoss
+DTSTAMP:20230405T120000Z
+DTSTART:20230405T120000Z
+DTEND:20230405T140000Z
+SUMMARY:Myanmar – Maldives
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007654.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007678@anstoss
+DTSTAMP:20230408T093000Z
+DTSTART:20230408T093000Z
+DTEND:20230408T113000Z
+SUMMARY:Myanmar – Iran 1:1
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007678.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007667@anstoss
+DTSTAMP:20230408T120000Z
+DTSTART:20230408T120000Z
+DTEND:20230408T140000Z
+SUMMARY:Bangladesh – Myanmar
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007667.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372383@anstoss
+DTSTAMP:20250629T093000Z
+DTSTART:20250629T093000Z
+DTEND:20250629T113000Z
+SUMMARY:Myanmar – Turkmenistan 8:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372400@anstoss
+DTSTAMP:20250702T093000Z
+DTSTART:20250702T093000Z
+DTEND:20250702T113000Z
+SUMMARY:Bangladesh – Myanmar 2:1
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372415@anstoss
+DTSTAMP:20250705T093000Z
+DTSTART:20250705T093000Z
+DTEND:20250705T113000Z
+SUMMARY:Myanmar – Bahrain 6:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546831@anstoss
+DTSTAMP:20260603T103000Z
+DTSTART:20260603T103000Z
+DTEND:20260603T123000Z
+SUMMARY:Myanmar – Uzbekistan 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546831.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546836@anstoss
+DTSTAMP:20260609T103000Z
+DTSTART:20260609T103000Z
+DTEND:20260609T123000Z
+SUMMARY:Myanmar – Thailand 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546836.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -8,6 +8,168 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193158@anstoss
+DTSTAMP:20240405T194500Z
+DTSTART:20240405T194500Z
+DTEND:20240405T214500Z
+SUMMARY:Portugal – Bosnia-Herzegovina 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Estádio Dr. Magalhães Pessoa\, Leiria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193161@anstoss
+DTSTAMP:20240409T133000Z
+DTSTART:20240409T133000Z
+DTEND:20240409T153000Z
+SUMMARY:Bosnia-Herzegovina – Nordirland 1:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193171@anstoss
+DTSTAMP:20240531T173000Z
+DTSTART:20240531T173000Z
+DTEND:20240531T193000Z
+SUMMARY:Malta – Bosnia-Herzegovina 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:MFA Centenary Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193171.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193182@anstoss
+DTSTAMP:20240604T140000Z
+DTSTART:20240604T140000Z
+DTEND:20240604T160000Z
+SUMMARY:Bosnia-Herzegovina – Malta 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193182.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193187@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Bosnia-Herzegovina – Portugal 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadion Bilino Polje\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193196@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Nordirland – Bosnia-Herzegovina 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193196.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252905@anstoss
+DTSTAMP:20241025T120000Z
+DTSTART:20241025T120000Z
+DTEND:20241025T140000Z
+SUMMARY:Bosnia-Herzegovina – Serbia 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252906@anstoss
+DTSTAMP:20241029T180000Z
+DTSTART:20241029T180000Z
+DTEND:20241029T200000Z
+SUMMARY:Serbia – Bosnia-Herzegovina 4:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Sportski Centar Fudbalskog saveza Srbije\, Stara Pazova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315805@anstoss
+DTSTAMP:20250221T120000Z
+DTSTART:20250221T120000Z
+DTEND:20250221T140000Z
+SUMMARY:Bosnia-Herzegovina – Rumänien 4:0
+DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315805.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315813@anstoss
+DTSTAMP:20250225T190000Z
+DTSTART:20250225T190000Z
+DTEND:20250225T210000Z
+SUMMARY:Nordirland – Bosnia-Herzegovina 3:2
+DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315813.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315821@anstoss
+DTSTAMP:20250404T160000Z
+DTSTART:20250404T160000Z
+DTEND:20250404T180000Z
+SUMMARY:Polen – Bosnia-Herzegovina 5:1
+DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+LOCATION:Polsat Plus Arena\, Gdansk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315821.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315829@anstoss
+DTSTAMP:20250408T133000Z
+DTSTART:20250408T133000Z
+DTEND:20250408T153000Z
+SUMMARY:Bosnia-Herzegovina – Polen 1:1
+DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315829.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315838@anstoss
+DTSTAMP:20250530T150000Z
+DTSTART:20250530T150000Z
+DTEND:20250530T170000Z
+SUMMARY:Rumänien – Bosnia-Herzegovina 2:0
+DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+LOCATION:Central Stadium Hagi Academy\, Ovidiu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315838.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315845@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Bosnia-Herzegovina – Nordirland 1:1
+DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315845.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523827@anstoss
 DTSTAMP:20260303T120000Z
 DTSTART:20260303T120000Z

@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ayeyawady
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578024@anstoss
+DTSTAMP:20260817T093000Z
+DTSTART:20260817T093000Z
+DTEND:20260817T113000Z
+SUMMARY:Ayeyawady – Jurong 4:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578041@anstoss
+DTSTAMP:20260820T093000Z
+DTSTART:20260820T093000Z
+DTEND:20260820T113000Z
+SUMMARY:No Limits FC – Ayeyawady 0:8
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578052@anstoss
+DTSTAMP:20260823T093000Z
+DTSTART:20260823T093000Z
+DTEND:20260823T113000Z
+SUMMARY:Hang Yuan – Ayeyawady 0:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578052.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638225@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Naegohyang – Ayeyawady
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638227@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Ayeyawady – INAC Kobe Leonessa
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638231@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Bam Khatoon – Ayeyawady
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638231.ht
+ ml
+END:VEVENT
+END:VCALENDAR

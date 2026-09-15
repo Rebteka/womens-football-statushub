@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stockport County
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1483390@anstoss
+DTSTAMP:20251026T140000Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Stockport County – Tranmere Rovers 3:0
+DESCRIPTION:FA Women's Cup · 1st Round
+LOCATION:Edgeley Park\, Stockport
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1487289@anstoss
+DTSTAMP:20251123T140000Z
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+SUMMARY:Derby County – Stockport County 4:1
+DESCRIPTION:FA Women's Cup · 2nd Round
+LOCATION:Don Amott Arena\, Derby
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1487289.ht
+ ml
+END:VEVENT
+END:VCALENDAR

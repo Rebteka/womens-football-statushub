@@ -8,6 +8,210 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1140654@anstoss
+DTSTAMP:20230714T000000Z
+DTSTART:20230714T000000Z
+DTEND:20230714T020000Z
+SUMMARY:Guinea – Ghana 0:3
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade Général Lansana Conté\, Conakry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140655@anstoss
+DTSTAMP:20230718T000000Z
+DTSTART:20230718T000000Z
+DTEND:20230718T020000Z
+SUMMARY:Ghana – Guinea 4:0
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Ohene Djan Sports Stadium\, Accra
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140655.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140638@anstoss
+DTSTAMP:20231027T160000Z
+DTSTART:20231027T160000Z
+DTEND:20231027T180000Z
+SUMMARY:Benin – Ghana 0:3
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Stade de l'Amitié\, Cotonou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140639@anstoss
+DTSTAMP:20231031T153000Z
+DTSTART:20231031T153000Z
+DTEND:20231031T173000Z
+SUMMARY:Ghana – Benin 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Ohene Djan Sports Stadium\, Accra
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140986@anstoss
+DTSTAMP:20240223T170000Z
+DTSTART:20240223T170000Z
+DTEND:20240223T190000Z
+SUMMARY:Ghana – Zambia 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Ohene Djan Sports Stadium\, Accra
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140987@anstoss
+DTSTAMP:20240228T160000Z
+DTSTART:20240228T160000Z
+DTEND:20240228T180000Z
+SUMMARY:Zambia – Ghana 3:3
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Levy Mwanawasa Stadium\, Ndola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526957@anstoss
+DTSTAMP:20260228T120000Z
+DTSTART:20260228T120000Z
+DTEND:20260228T140000Z
+SUMMARY:Ghana – Hong Kong 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526967@anstoss
+DTSTAMP:20260303T120000Z
+DTSTART:20260303T120000Z
+DTEND:20260303T140000Z
+SUMMARY:Ghana – Russland 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526975@anstoss
+DTSTAMP:20260306T170000Z
+DTSTART:20260306T170000Z
+DTEND:20260306T190000Z
+SUMMARY:Ghana – Tanzania
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526975.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540264@anstoss
+DTSTAMP:20260417T173000Z
+DTSTART:20260417T173000Z
+DTEND:20260417T193000Z
+SUMMARY:Morocco – Ghana
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540264.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546835@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Malawi – Ghana
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546835.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1595468@anstoss
+DTSTAMP:20260714T170000Z
+DTSTART:20260714T170000Z
+DTEND:20260714T190000Z
+SUMMARY:Ivory Coast – Ghana 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1595468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604184@anstoss
+DTSTAMP:20260720T170000Z
+DTSTART:20260720T170000Z
+DTEND:20260720T190000Z
+SUMMARY:Ghana – Tanzania 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604191@anstoss
+DTSTAMP:20260723T180000Z
+DTSTART:20260723T180000Z
+DTEND:20260723T200000Z
+SUMMARY:Malawi – Ghana 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600204@anstoss
+DTSTAMP:20260729T170000Z
+DTSTART:20260729T170000Z
+DTEND:20260729T190000Z
+SUMMARY:Ghana – Cape Verde 2:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600212@anstoss
+DTSTAMP:20260802T170000Z
+DTSTART:20260802T170000Z
+DTEND:20260802T190000Z
+SUMMARY:Ghana – Cameroon 0:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600212.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600221@anstoss
+DTSTAMP:20260806T200000Z
+DTSTART:20260806T200000Z
+DTEND:20260806T220000Z
+SUMMARY:Mali – Ghana 1:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612528@anstoss
+DTSTAMP:20260809T200000Z
+DTSTART:20260809T200000Z
+DTEND:20260809T220000Z
+SUMMARY:Malawi – Ghana 2:1
+DESCRIPTION:Africa Cup of Nations - Women · Viertelfinale
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612528.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619532@anstoss
+DTSTAMP:20260813T170000Z
+DTSTART:20260813T170000Z
+DTEND:20260813T190000Z
+SUMMARY:Ivory Coast – Ghana 1:2
+DESCRIPTION:Africa Cup of Nations - Women · Finale
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1638242@anstoss
 DTSTAMP:20261128T140000Z
 DTSTART;VALUE=DATE:20261128

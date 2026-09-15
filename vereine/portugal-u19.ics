@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portugal U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526363@anstoss
+DTSTAMP:20260227T150000Z
+DTSTART:20260227T150000Z
+DTEND:20260227T170000Z
+SUMMARY:Portugal U19 – Wales U19 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526370@anstoss
+DTSTAMP:20260302T170000Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
+SUMMARY:Portugal U19 – Czech Republic U19 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526380@anstoss
+DTSTAMP:20260306T150000Z
+DTSTART:20260306T150000Z
+DTEND:20260306T170000Z
+SUMMARY:Portugal U19 – USA U19 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526380.ht
+ ml
+END:VEVENT
+END:VCALENDAR

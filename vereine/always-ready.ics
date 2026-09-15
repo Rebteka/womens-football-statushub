@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Always Ready
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1479288@anstoss
+DTSTAMP:20251002T230000Z
+DTSTART:20251002T230000Z
+DTEND:20251003T010000Z
+SUMMARY:Always Ready – Santa Fe 0:7
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479291@anstoss
+DTSTAMP:20251005T190000Z
+DTSTART:20251005T190000Z
+DTEND:20251005T210000Z
+SUMMARY:Corinthians – Always Ready 11:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 2. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479299@anstoss
+DTSTAMP:20251008T230000Z
+DTSTART:20251008T230000Z
+DTEND:20251009T010000Z
+SUMMARY:Dragonas IDV – Always Ready 5:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479299.ht
+ ml
+END:VEVENT
+END:VCALENDAR

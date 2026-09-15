@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Norway U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1521027@anstoss
+DTSTAMP:20260209T100000Z
+DTSTART:20260209T100000Z
+DTEND:20260209T120000Z
+SUMMARY:Poland U17 – Norway U17 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521481@anstoss
+DTSTAMP:20260212T153000Z
+DTSTART:20260212T153000Z
+DTEND:20260212T173000Z
+SUMMARY:England U17 – Norway U17 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522486@anstoss
+DTSTAMP:20260214T153000Z
+DTSTART:20260214T153000Z
+DTEND:20260214T173000Z
+SUMMARY:Morocco U17 – Norway U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522486.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543318@anstoss
+DTSTAMP:20260504T170000Z
+DTSTART:20260504T170000Z
+DTEND:20260504T190000Z
+SUMMARY:Norway U17 – Germany U17 1:3
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543322@anstoss
+DTSTAMP:20260507T170000Z
+DTSTART:20260507T170000Z
+DTEND:20260507T190000Z
+SUMMARY:Northern Ireland U17 – Norway U17 0:3
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543325@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:England U17 – Norway U17 1:1
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544820@anstoss
+DTSTAMP:20260514T130000Z
+DTSTART:20260514T130000Z
+DTEND:20260514T150000Z
+SUMMARY:France U17 – Norway U17 1:1
+DESCRIPTION:UEFA U17 Championship - Women · Halbfinale
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586114@anstoss
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:Norway U17 – Ghana U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546126@anstoss
+DTSTAMP:20261021T140000Z
+DTSTART:20261021T140000Z
+DTEND:20261021T160000Z
+SUMMARY:Canada W U17 – Norway U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546134@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Brazil U17 – Norway U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546134.ht
+ ml
+END:VEVENT
+END:VCALENDAR

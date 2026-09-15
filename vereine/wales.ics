@@ -8,6 +8,225 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193157@anstoss
+DTSTAMP:20240405T181500Z
+DTSTART:20240405T181500Z
+DTEND:20240405T201500Z
+SUMMARY:Wales – Croatia 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:STōK Cae Ras\, Wrecsam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193157.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193160@anstoss
+DTSTAMP:20240409T120000Z
+DTSTART:20240409T120000Z
+DTEND:20240409T140000Z
+SUMMARY:Kosovo – Wales 0:6
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193172@anstoss
+DTSTAMP:20240531T181500Z
+DTSTART:20240531T181500Z
+DTEND:20240531T201500Z
+SUMMARY:Wales – Ukraine 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193180@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Ukraine – Wales 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Stadion Respect Energy\, Grodzisk Wielkopolski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193180.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193189@anstoss
+DTSTAMP:20240712T181500Z
+DTSTART:20240712T181500Z
+DTEND:20240712T201500Z
+SUMMARY:Croatia – Wales 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadion Branko Čavlović-Čavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193189.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193197@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Wales – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252911@anstoss
+DTSTAMP:20241025T153000Z
+DTSTART:20241025T153000Z
+DTEND:20241025T173000Z
+SUMMARY:Slowakei – Wales 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Futbalový štadion NTC Poprad\, Poprad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252912@anstoss
+DTSTAMP:20241029T191500Z
+DTSTART:20241029T191500Z
+DTEND:20241029T211500Z
+SUMMARY:Wales – Slowakei 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Cardiff City Stadium\, Caerdydd
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314231@anstoss
+DTSTAMP:20241129T191500Z
+DTSTART:20241129T191500Z
+DTEND:20241129T211500Z
+SUMMARY:Wales – Republic of Ireland 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Cardiff City Stadium\, Caerdydd
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314231.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314232@anstoss
+DTSTAMP:20241203T193000Z
+DTSTART:20241203T193000Z
+DTEND:20241203T213000Z
+SUMMARY:Republic of Ireland – Wales 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314232.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315764@anstoss
+DTSTAMP:20250221T171500Z
+DTSTART:20250221T171500Z
+DTEND:20250221T191500Z
+SUMMARY:Italien – Wales 1:0
+DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+LOCATION:Brianteo\, Monza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315770@anstoss
+DTSTAMP:20250225T191500Z
+DTSTART:20250225T191500Z
+DTEND:20250225T211500Z
+SUMMARY:Wales – Schweden 1:1
+DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315780@anstoss
+DTSTAMP:20250404T181500Z
+DTSTART:20250404T181500Z
+DTEND:20250404T201500Z
+SUMMARY:Wales – Dänemark 1:2
+DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+LOCATION:Cardiff City Stadium\, Cardiff
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315788@anstoss
+DTSTAMP:20250408T170000Z
+DTSTART:20250408T170000Z
+DTEND:20250408T190000Z
+SUMMARY:Schweden – Wales 1:1
+DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315795@anstoss
+DTSTAMP:20250530T171500Z
+DTSTART:20250530T171500Z
+DTEND:20250530T191500Z
+SUMMARY:Dänemark – Wales 1:0
+DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+LOCATION:Odense Isstadion\, Odense
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315795.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315804@anstoss
+DTSTAMP:20250603T173000Z
+DTSTART:20250603T173000Z
+DTEND:20250603T193000Z
+SUMMARY:Wales – Italien 1:4
+DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+LOCATION:Swansea.com Stadium\, Swansea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315804.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367630@anstoss
+DTSTAMP:20250705T160000Z
+DTSTART:20250705T160000Z
+DTEND:20250705T180000Z
+SUMMARY:Wales – Niederlande 0:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:swissporarena\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367639@anstoss
+DTSTAMP:20250709T190000Z
+DTSTART:20250709T190000Z
+DTEND:20250709T210000Z
+SUMMARY:Frankreich – Wales 4:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:kybunpark\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367647@anstoss
+DTSTAMP:20250713T190000Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+SUMMARY:England – Wales 6:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:kybunpark\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523810@anstoss
 DTSTAMP:20260303T173000Z
 DTSTART:20260303T173000Z

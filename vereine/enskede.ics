@@ -129,6 +129,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1503706.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1610907@anstoss
+DTSTAMP:20260804T170000Z
+DTSTART:20260804T170000Z
+DTEND:20260804T190000Z
+SUMMARY:FC Djursholm – Enskede 0:6
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1503707@anstoss
 DTSTAMP:20260808T130000Z
 DTSTART:20260808T130000Z
@@ -197,6 +207,16 @@ SUMMARY:Umeå – Enskede
 DESCRIPTION:Elitettan · 19. Spieltag
 LOCATION:Umea Energi Arena\, Umea
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1503713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636784@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Enskede – Brommapojkarna
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636784.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

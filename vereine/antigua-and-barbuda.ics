@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Antigua and Barbuda
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140576@anstoss
+DTSTAMP:20230920T000000Z
+DTSTART:20230920T000000Z
+DTEND:20230920T020000Z
+SUMMARY:Antigua and Barbuda – Guyana 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Sir Vivian Richards Stadium\, North Sound
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140576.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140582@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Suriname – Antigua and Barbuda 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140582.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140587@anstoss
+DTSTAMP:20231025T000000Z
+DTSTART:20231025T000000Z
+DTEND:20231025T020000Z
+SUMMARY:Dominica – Antigua and Barbuda 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Darren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140593@anstoss
+DTSTAMP:20231029T190000Z
+DTSTART:20231029T190000Z
+DTEND:20231029T210000Z
+SUMMARY:Antigua and Barbuda – Dominica 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:ABFA Technical Center\, Piggotts
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140593.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140600@anstoss
+DTSTAMP:20231129T190000Z
+DTSTART:20231129T190000Z
+DTEND:20231129T210000Z
+SUMMARY:Antigua and Barbuda – Suriname 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:ABFA Technical Center\, Piggotts
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140600.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140606@anstoss
+DTSTAMP:20231203T210000Z
+DTSTART:20231203T210000Z
+DTEND:20231203T230000Z
+SUMMARY:Guyana – Antigua and Barbuda 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488270@anstoss
+DTSTAMP:20251127T200000Z
+DTSTART:20251127T200000Z
+DTEND:20251127T220000Z
+SUMMARY:Antigua and Barbuda – Nicaragua 0:4
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Sir Vivian Richards Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488299@anstoss
+DTSTAMP:20260305T220000Z
+DTSTART:20260305T220000Z
+DTEND:20260306T000000Z
+SUMMARY:Antigua and Barbuda – Guyana 0:4
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Sir Vivian Richards Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488307@anstoss
+DTSTAMP:20260411T000000Z
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+SUMMARY:Jamaica – Antigua and Barbuda 4:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488311@anstoss
+DTSTAMP:20260414T190000Z
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+SUMMARY:Dominica – Antigua and Barbuda 1:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Daren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488311.ht
+ ml
+END:VEVENT
+END:VCALENDAR

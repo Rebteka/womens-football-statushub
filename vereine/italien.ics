@@ -8,6 +8,232 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1013564@anstoss
+DTSTAMP:20230724T060000Z
+DTSTART:20230724T060000Z
+DTEND:20230724T080000Z
+SUMMARY:Italien – Argentina 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013564.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013579@anstoss
+DTSTAMP:20230729T073000Z
+DTSTART:20230729T073000Z
+DTEND:20230729T093000Z
+SUMMARY:Schweden – Italien 5:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013579.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013595@anstoss
+DTSTAMP:20230802T070000Z
+DTSTART:20230802T070000Z
+DTEND:20230802T090000Z
+SUMMARY:South Africa – Italien 3:2
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193105@anstoss
+DTSTAMP:20240405T161500Z
+DTSTART:20240405T161500Z
+DTEND:20240405T181500Z
+SUMMARY:Italien – Niederlande 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Stadio San Vito-Luigi Marulla\, Cosenza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193105.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193114@anstoss
+DTSTAMP:20240409T161500Z
+DTSTART:20240409T161500Z
+DTEND:20240409T181500Z
+SUMMARY:Finnland – Italien 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193122@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Norwegen – Italien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193127@anstoss
+DTSTAMP:20240604T161500Z
+DTSTART:20240604T161500Z
+DTEND:20240604T181500Z
+SUMMARY:Italien – Norwegen 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Stadio Paolo Mazza\, Ferrara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193135@anstoss
+DTSTAMP:20240712T184500Z
+DTSTART:20240712T184500Z
+DTEND:20240712T204500Z
+SUMMARY:Niederlande – Italien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Fortuna Sittard Stadion\, Sittard
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193144@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Italien – Finnland 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Stadio Marco Druso\, Bozen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315764@anstoss
+DTSTAMP:20250221T171500Z
+DTSTART:20250221T171500Z
+DTEND:20250221T191500Z
+SUMMARY:Italien – Wales 1:0
+DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+LOCATION:Brianteo\, Monza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315769@anstoss
+DTSTAMP:20250225T171500Z
+DTSTART:20250225T171500Z
+DTEND:20250225T191500Z
+SUMMARY:Italien – Dänemark 1:3
+DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+LOCATION:Stadio Alberto Picco\, La Spezia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315769.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315779@anstoss
+DTSTAMP:20250404T170000Z
+DTSTART:20250404T170000Z
+DTEND:20250404T190000Z
+SUMMARY:Schweden – Italien 3:2
+DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+LOCATION:Strawberry Arena\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315787@anstoss
+DTSTAMP:20250408T160000Z
+DTSTART:20250408T160000Z
+DTEND:20250408T180000Z
+SUMMARY:Dänemark – Italien 0:3
+DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+LOCATION:MCH Arena\, Herning
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315796@anstoss
+DTSTAMP:20250530T162000Z
+DTSTART:20250530T162000Z
+DTEND:20250530T182000Z
+SUMMARY:Italien – Schweden 0:0
+DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315796.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315804@anstoss
+DTSTAMP:20250603T173000Z
+DTSTART:20250603T173000Z
+DTEND:20250603T193000Z
+SUMMARY:Wales – Italien 1:4
+DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+LOCATION:Swansea.com Stadium\, Swansea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315804.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367626@anstoss
+DTSTAMP:20250703T160000Z
+DTSTART:20250703T160000Z
+DTEND:20250703T180000Z
+SUMMARY:Belgien – Italien 0:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367635@anstoss
+DTSTAMP:20250707T190000Z
+DTSTART:20250707T190000Z
+DTEND:20250707T210000Z
+SUMMARY:Portugal – Italien 1:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367642@anstoss
+DTSTAMP:20250711T190000Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+SUMMARY:Italien – Spanien 1:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401202@anstoss
+DTSTAMP:20250716T190000Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+SUMMARY:Norwegen – Italien 1:2
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1410000@anstoss
+DTSTAMP:20250722T190000Z
+DTSTART:20250722T190000Z
+DTEND:20250722T210000Z
+SUMMARY:England – Italien 2:1
+DESCRIPTION:UEFA Championship - Women · Halbfinale
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1410000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523817@anstoss
 DTSTAMP:20260303T171500Z
 DTSTART:20260303T171500Z

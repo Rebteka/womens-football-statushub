@@ -32,6 +32,30 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1612436.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1626957@anstoss
+DTSTAMP:20260826T190000Z
+DTSTART:20260826T190000Z
+DTEND:20260826T210000Z
+SUMMARY:Torreense – Kolos Kovalivka 6:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626968@anstoss
+DTSTAMP:20260902T150000Z
+DTSTART:20260902T150000Z
+DTEND:20260902T170000Z
+SUMMARY:Kolos Kovalivka – Torreense 1:3
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Kolos Stadium\, Kovalivka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1610740@anstoss
 DTSTAMP:20260913T180000Z
 DTSTART:20260913T180000Z
@@ -54,6 +78,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1610744.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638400@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Metalist 1925 – Torreense
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1610746@anstoss
 DTSTAMP:20260927T160000Z
 DTSTART:20260927T160000Z
@@ -62,6 +96,16 @@ SUMMARY:Torreense – Marítimo
 DESCRIPTION:1a Divisão - Women · 3. Spieltag
 LOCATION:Estadio Manuel Marques\, Torres Vedras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638426@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Torreense – Metalist 1925
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638426.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

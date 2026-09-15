@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Finland U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543320@anstoss
+DTSTAMP:20260505T170000Z
+DTSTART:20260505T170000Z
+DTEND:20260505T190000Z
+SUMMARY:Spain U17 – Finland U17 4:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543324@anstoss
+DTSTAMP:20260508T170000Z
+DTSTART:20260508T170000Z
+DTEND:20260508T190000Z
+SUMMARY:Finland U17 – Poland U17 0:1
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543327@anstoss
+DTSTAMP:20260511T140000Z
+DTSTART:20260511T140000Z
+DTEND:20260511T160000Z
+SUMMARY:Finland U17 – France U17 1:4
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637473@anstoss
+DTSTAMP:20260910T153000Z
+DTSTART:20260910T153000Z
+DTEND:20260910T173000Z
+SUMMARY:Finland U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637475@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Finland U17 – England U17
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637475.ht
+ ml
+END:VEVENT
+END:VCALENDAR

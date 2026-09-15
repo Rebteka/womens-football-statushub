@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Laos U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424264@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:Bangladesh U20 – Laos U20 3:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424274@anstoss
+DTSTAMP:20250808T123000Z
+DTSTART:20250808T123000Z
+DTEND:20250808T143000Z
+SUMMARY:Laos U20 – Korea Republic U20 0:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424274.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426558@anstoss
+DTSTAMP:20250810T123000Z
+DTSTART:20250810T123000Z
+DTEND:20250810T143000Z
+SUMMARY:Laos U20 – Timor-Leste U20 2:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426558.ht
+ ml
+END:VEVENT
+END:VCALENDAR

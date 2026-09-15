@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Cup - U17 - Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1546122@anstoss
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:North Korea U17 – Puerto Rico W U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546120@anstoss
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Germany U17 – Argentina U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546121@anstoss
+DTSTAMP:20261017T170000Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Morocco U17 – New Zealand U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586113@anstoss
+DTSTAMP:20261017T170000Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Poland U17 – Nigeria U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586113.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546118@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Canada W U17 – Brazil U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588911@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Japan U17 – Zambia U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586114@anstoss
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:Norway U17 – Ghana U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546119@anstoss
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:France U17 – Venezuela U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588912@anstoss
+DTSTAMP:20261019T140000Z
+DTSTART:20261019T140000Z
+DTEND:20261019T160000Z
+SUMMARY:Kenya U17 – China PR U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546123@anstoss
+DTSTAMP:20261019T140000Z
+DTSTART:20261019T140000Z
+DTEND:20261019T160000Z
+SUMMARY:Spain U17 – Mexico U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546123.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546124@anstoss
+DTSTAMP:20261019T170000Z
+DTSTART:20261019T170000Z
+DTEND:20261019T190000Z
+SUMMARY:United States W U17 – Samoa U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546117@anstoss
+DTSTAMP:20261019T170000Z
+DTSTART:20261019T170000Z
+DTEND:20261019T190000Z
+SUMMARY:Australia U17 – Chile U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546125@anstoss
+DTSTAMP:20261020T140000Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:Argentina U17 – New Zealand U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546131@anstoss
+DTSTAMP:20261020T140000Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:North Korea U17 – Poland U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546131.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546130@anstoss
+DTSTAMP:20261020T170000Z
+DTSTART:20261020T170000Z
+DTEND:20261020T190000Z
+SUMMARY:Morocco U17 – Germany U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586115@anstoss
+DTSTAMP:20261020T170000Z
+DTSTART:20261020T170000Z
+DTEND:20261020T190000Z
+SUMMARY:Nigeria U17 – Puerto Rico W U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546126@anstoss
+DTSTAMP:20261021T140000Z
+DTSTART:20261021T140000Z
+DTEND:20261021T160000Z
+SUMMARY:Canada W U17 – Norway U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546129@anstoss
+DTSTAMP:20261021T140000Z
+DTSTART:20261021T140000Z
+DTEND:20261021T160000Z
+SUMMARY:Japan U17 – France U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546129.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588913@anstoss
+DTSTAMP:20261021T170000Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Venezuela U17 – Zambia U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586116@anstoss
+DTSTAMP:20261021T170000Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Ghana U17 – Brazil U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546128@anstoss
+DTSTAMP:20261022T140000Z
+DTSTART:20261022T140000Z
+DTEND:20261022T160000Z
+SUMMARY:China PR U17 – Samoa U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546132@anstoss
+DTSTAMP:20261022T140000Z
+DTSTART:20261022T140000Z
+DTEND:20261022T160000Z
+SUMMARY:Spain U17 – Australia U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588914@anstoss
+DTSTAMP:20261022T170000Z
+DTSTART:20261022T170000Z
+DTEND:20261022T190000Z
+SUMMARY:United States W U17 – Kenya U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588914.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546127@anstoss
+DTSTAMP:20261022T170000Z
+DTSTART:20261022T170000Z
+DTEND:20261022T190000Z
+SUMMARY:Chile U17 – Mexico U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546139@anstoss
+DTSTAMP:20261023T140000Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Puerto Rico W U17 – Poland U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586117@anstoss
+DTSTAMP:20261023T140000Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Nigeria U17 – North Korea U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546133@anstoss
+DTSTAMP:20261023T170000Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:Argentina U17 – Morocco U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546138@anstoss
+DTSTAMP:20261023T170000Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:New Zealand U17 – Germany U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546134@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Brazil U17 – Norway U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546134.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586118@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Ghana U17 – Canada W U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546140@anstoss
+DTSTAMP:20261024T170000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+SUMMARY:Venezuela U17 – Japan U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546140.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588915@anstoss
+DTSTAMP:20261024T170000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+SUMMARY:Zambia U17 – France U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546135@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Chile U17 – Spain U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546137@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Mexico U17 – Australia U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546136@anstoss
+DTSTAMP:20261025T170000Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:China PR U17 – United States W U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1588916@anstoss
+DTSTAMP:20261025T180000Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:Samoa U17 – Kenya U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1588916.ht
+ ml
+END:VEVENT
+END:VCALENDAR

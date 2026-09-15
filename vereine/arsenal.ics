@@ -8,6 +8,61 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1501254@anstoss
+DTSTAMP:20260118T140000Z
+DTSTART:20260118T140000Z
+DTEND:20260118T160000Z
+SUMMARY:Arsenal – Aston Villa 2:0
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514365@anstoss
+DTSTAMP:20260128T180000Z
+DTSTART:20260128T180000Z
+DTEND:20260128T200000Z
+SUMMARY:Arsenal – FAR Rabat 6:0
+DESCRIPTION:FIFA Women Champions Cup · Halbfinale
+LOCATION:Brentford Community Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514988@anstoss
+DTSTAMP:20260201T180000Z
+DTSTART:20260201T180000Z
+DTEND:20260201T200000Z
+SUMMARY:Arsenal – Corinthians 3:2
+DESCRIPTION:FIFA Women Champions Cup · Finale
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514953@anstoss
+DTSTAMP:20260222T130000Z
+DTSTART:20260222T130000Z
+DTEND:20260222T150000Z
+SUMMARY:Arsenal – Bristol City 3:0
+DESCRIPTION:FA Women's Cup · Round 5
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526402@anstoss
+DTSTAMP:20260405T120000Z
+DTSTART:20260405T120000Z
+DTEND:20260405T140000Z
+SUMMARY:Arsenal – Brighton 0:2
+DESCRIPTION:FA Women's Cup · Viertelfinale
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607665@anstoss
 DTSTAMP:20260906T110000Z
 DTSTART:20260906T110000Z

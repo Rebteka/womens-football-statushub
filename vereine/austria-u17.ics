@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Austria U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1637474@anstoss
+DTSTAMP:20260912T130000Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:Austria U17 – Poland U17 3:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637476@anstoss
+DTSTAMP:20260915T090000Z
+DTSTART:20260915T090000Z
+DTEND:20260915T110000Z
+SUMMARY:Austria U17 – Poland U17 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637476.ht
+ ml
+END:VEVENT
+END:VCALENDAR

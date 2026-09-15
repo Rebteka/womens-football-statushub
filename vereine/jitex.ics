@@ -138,6 +138,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501438.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1610917@anstoss
+DTSTAMP:20260811T173000Z
+DTSTART:20260811T173000Z
+DTEND:20260811T193000Z
+SUMMARY:Öckerö – Jitex 0:4
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1501449@anstoss
 DTSTAMP:20260815T140000Z
 DTSTART:20260815T140000Z
@@ -197,6 +207,16 @@ DTEND:20260920T140000Z
 SUMMARY:Örebro SK – Jitex
 DESCRIPTION:Elitettan · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636790@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Jitex – Vittsjö
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636790.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

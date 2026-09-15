@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bolivia U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1366991@anstoss
+DTSTAMP:20250501T213000Z
+DTSTART:20250501T213000Z
+DTEND:20250501T233000Z
+SUMMARY:Bolivia U17 – Uruguay U17 0:2
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366996@anstoss
+DTSTAMP:20250504T000000Z
+DTSTART:20250504T000000Z
+DTEND:20250504T020000Z
+SUMMARY:Bolivia U17 – Brazil U17 0:5
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1366999@anstoss
+DTSTAMP:20250505T213000Z
+DTSTART:20250505T213000Z
+DTEND:20250505T233000Z
+SUMMARY:Peru U17 – Bolivia U17 3:1
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1366999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367003@anstoss
+DTSTAMP:20250507T213000Z
+DTSTART:20250507T213000Z
+DTEND:20250507T233000Z
+SUMMARY:Ecuador U17 – Bolivia U17 8:0
+DESCRIPTION:CONMEBOL - U17 Femenino · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367003.ht
+ ml
+END:VEVENT
+END:VCALENDAR

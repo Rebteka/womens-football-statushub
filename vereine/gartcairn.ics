@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gartcairn
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188761@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Glenrothes Strollers – Gartcairn 1:3
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Michael Woods Sports Centre\, Glenrothes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188751@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Livingston – Gartcairn 2:2
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485684@anstoss
+DTSTAMP:20250907T120000Z
+DTSTART:20250907T120000Z
+DTEND:20250907T140000Z
+SUMMARY:Boroughmuir Thistle – Gartcairn 0:1
+DESCRIPTION:SWPL Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485684.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485692@anstoss
+DTSTAMP:20251005T130000Z
+DTSTART:20251005T130000Z
+DTEND:20251005T150000Z
+SUMMARY:Gartcairn – Queen's Park 1:3
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485692.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -117,6 +117,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574621.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638410@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:St. Pölten – Malmö FF
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1574624@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z
@@ -124,6 +134,16 @@ DTEND:20260926T150000Z
 SUMMARY:Kleinmünchen / BW Linz – St. Pölten
 DESCRIPTION:Frauenliga · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638419@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Malmö FF – St. Pölten
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638419.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

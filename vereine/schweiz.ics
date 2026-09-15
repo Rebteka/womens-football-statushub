@@ -8,6 +8,232 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1013555@anstoss
+DTSTAMP:20230721T050000Z
+DTSTART:20230721T050000Z
+DTEND:20230721T070000Z
+SUMMARY:Philippines – Schweiz 0:2
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Forsyth Barr Stadium\, Dunedin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013569@anstoss
+DTSTAMP:20230725T080000Z
+DTSTART:20230725T080000Z
+DTEND:20230725T100000Z
+SUMMARY:Schweiz – Norwegen 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:FMG Stadium Waikato\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013569.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013584@anstoss
+DTSTAMP:20230730T070000Z
+DTSTART:20230730T070000Z
+DTEND:20230730T090000Z
+SUMMARY:Schweiz – New Zealand 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Forsyth Barr Stadium\, Dunedin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1102768@anstoss
+DTSTAMP:20230805T050000Z
+DTSTART:20230805T050000Z
+DTEND:20230805T070000Z
+SUMMARY:Schweiz – Spanien 1:5
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1102768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193155@anstoss
+DTSTAMP:20240405T170000Z
+DTSTART:20240405T170000Z
+DTEND:20240405T190000Z
+SUMMARY:Schweiz – Turkey 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193159@anstoss
+DTSTAMP:20240409T120000Z
+DTSTART:20240409T120000Z
+DTEND:20240409T140000Z
+SUMMARY:Azerbaijan – Schweiz 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193167@anstoss
+DTSTAMP:20240531T180000Z
+DTSTART:20240531T180000Z
+DTEND:20240531T200000Z
+SUMMARY:Schweiz – Hungary 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Tissot Arena\, Biel/Bienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193175@anstoss
+DTSTAMP:20240604T153000Z
+DTSTART:20240604T153000Z
+DTEND:20240604T173000Z
+SUMMARY:Hungary – Schweiz 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Hidegkuti Nándor Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193175.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193184@anstoss
+DTSTAMP:20240712T173000Z
+DTSTART:20240712T173000Z
+DTEND:20240712T193000Z
+SUMMARY:Turkey – Schweiz 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Yıldız Entegre Kocaeli Stadyumu\, Kocaeli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193191@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Schweiz – Azerbaijan 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Stade Olympique de la Pontaise\, Lausanne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315760@anstoss
+DTSTAMP:20250221T180000Z
+DTSTART:20250221T180000Z
+DTEND:20250221T200000Z
+SUMMARY:Schweiz – Island 0:0
+DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+LOCATION:Letzigrund Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315760.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315768@anstoss
+DTSTAMP:20250225T170000Z
+DTSTART:20250225T170000Z
+DTEND:20250225T190000Z
+SUMMARY:Norwegen – Schweiz 2:1
+DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+LOCATION:Lyse Arena\, Stavanger
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315776@anstoss
+DTSTAMP:20250404T180000Z
+DTSTART:20250404T180000Z
+DTEND:20250404T200000Z
+SUMMARY:Schweiz – Frankreich 0:2
+DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+LOCATION:Kybunpark\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315783@anstoss
+DTSTAMP:20250408T164500Z
+DTSTART:20250408T164500Z
+DTEND:20250408T184500Z
+SUMMARY:Island – Schweiz 3:3
+DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+LOCATION:Throttarvollur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315783.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315791@anstoss
+DTSTAMP:20250530T191000Z
+DTSTART:20250530T191000Z
+DTEND:20250530T211000Z
+SUMMARY:Frankreich – Schweiz 4:0
+DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+LOCATION:Stade Marcel Picot\, Nancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315791.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315800@anstoss
+DTSTAMP:20250603T180000Z
+DTSTART:20250603T180000Z
+DTEND:20250603T200000Z
+SUMMARY:Schweiz – Norwegen 0:1
+DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315800.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367625@anstoss
+DTSTAMP:20250702T190000Z
+DTSTART:20250702T190000Z
+DTEND:20250702T210000Z
+SUMMARY:Schweiz – Norwegen 1:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367625.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367633@anstoss
+DTSTAMP:20250706T190000Z
+DTSTART:20250706T190000Z
+DTEND:20250706T210000Z
+SUMMARY:Schweiz – Island 2:0
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367640@anstoss
+DTSTAMP:20250710T190000Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+SUMMARY:Finnland – Schweiz 1:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401204@anstoss
+DTSTAMP:20250718T190000Z
+DTSTART:20250718T190000Z
+DTEND:20250718T210000Z
+SUMMARY:Spanien – Schweiz 2:0
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523821@anstoss
 DTSTAMP:20260303T180000Z
 DTSTART:20260303T180000Z

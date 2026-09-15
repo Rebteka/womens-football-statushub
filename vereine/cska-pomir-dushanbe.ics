@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CSKA Pomir Dushanbe
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578025@anstoss
+DTSTAMP:20260817T150000Z
+DTSTART:20260817T150000Z
+DTEND:20260817T170000Z
+SUMMARY:Bam Khatoon – CSKA Pomir Dushanbe 3:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578036@anstoss
+DTSTAMP:20260820T150000Z
+DTSTART:20260820T150000Z
+DTEND:20260820T170000Z
+SUMMARY:CSKA Pomir Dushanbe – Etihad Club 1:5
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578047@anstoss
+DTSTAMP:20260823T150000Z
+DTSTART:20260823T150000Z
+DTEND:20260823T170000Z
+SUMMARY:Al Nassr – CSKA Pomir Dushanbe 12:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578047.ht
+ ml
+END:VEVENT
+END:VCALENDAR

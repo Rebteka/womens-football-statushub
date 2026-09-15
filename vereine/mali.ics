@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mali
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140644@anstoss
+DTSTAMP:20230712T000000Z
+DTSTART:20230712T000000Z
+DTEND:20230712T020000Z
+SUMMARY:Burkina Faso – Mali 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade de l'Amitié\, Cotonou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140645@anstoss
+DTSTAMP:20230718T000000Z
+DTSTART:20230718T000000Z
+DTEND:20230718T020000Z
+SUMMARY:Mali – Burkina Faso 2:2
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade 26 Mars\, Bamako
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140626@anstoss
+DTSTAMP:20231023T140000Z
+DTSTART:20231023T140000Z
+DTEND:20231023T160000Z
+SUMMARY:Mali – Zambia
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140626.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140627@anstoss
+DTSTAMP:20231031T150000Z
+DTSTART:20231031T150000Z
+DTEND:20231031T170000Z
+SUMMARY:Zambia – Mali
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140627.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540810@anstoss
+DTSTAMP:20260417T173000Z
+DTSTART:20260417T173000Z
+DTEND:20260417T193000Z
+SUMMARY:Morocco – Mali 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540810.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548466@anstoss
+DTSTAMP:20260604T160000Z
+DTSTART:20260604T160000Z
+DTEND:20260604T180000Z
+SUMMARY:Burkina Faso – Mali 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548480@anstoss
+DTSTAMP:20260607T160000Z
+DTSTART:20260607T160000Z
+DTEND:20260607T180000Z
+SUMMARY:Burkina Faso – Mali 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604183@anstoss
+DTSTAMP:20260720T170000Z
+DTSTART:20260720T170000Z
+DTEND:20260720T190000Z
+SUMMARY:Mali – Ivory Coast 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604183.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600205@anstoss
+DTSTAMP:20260729T200000Z
+DTSTART:20260729T200000Z
+DTEND:20260729T220000Z
+SUMMARY:Cameroon – Mali 2:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600213@anstoss
+DTSTAMP:20260802T200000Z
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+SUMMARY:Mali – Cape Verde 3:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600213.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600221@anstoss
+DTSTAMP:20260806T200000Z
+DTSTART:20260806T200000Z
+DTEND:20260806T220000Z
+SUMMARY:Mali – Ghana 1:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Moulay Rachid Stadium\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600221.ht
+ ml
+END:VEVENT
+END:VCALENDAR

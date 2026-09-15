@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Equatorial Guinea
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140646@anstoss
+DTSTAMP:20230713T000000Z
+DTSTART:20230713T000000Z
+DTEND:20230713T020000Z
+SUMMARY:Namibia – Equatorial Guinea 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:FNB Stadium\, Johannesburg\, GA
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140647@anstoss
+DTSTAMP:20230718T000000Z
+DTSTART:20230718T000000Z
+DTEND:20230718T020000Z
+SUMMARY:Equatorial Guinea – Namibia 0:0
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Nuevo Estadio de Malabo\, Malabo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545740@anstoss
+DTSTAMP:20260608T160000Z
+DTSTART:20260608T160000Z
+DTEND:20260608T180000Z
+SUMMARY:Equatorial Guinea – Haiti 1:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545740.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -85,6 +85,36 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1560960.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638223@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:INAC Kobe Leonessa – Bam Khatoon
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638227@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Ayeyawady – INAC Kobe Leonessa
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638235@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Naegohyang – INAC Kobe Leonessa
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638235.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1560974@anstoss
 DTSTAMP:20261115T080000Z
 DTSTART:20261115T080000Z

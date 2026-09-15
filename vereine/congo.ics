@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Congo
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140640@anstoss
+DTSTAMP:20230710T000000Z
+DTSTART:20230710T000000Z
+DTEND:20230710T020000Z
+SUMMARY:Congo – Tanzania (verlegt)
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade Alphonse Massamba-Débat\, Brazzaville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140641@anstoss
+DTSTAMP:20230718T000000Z
+DTSTART:20230718T000000Z
+DTEND:20230718T020000Z
+SUMMARY:Tanzania – Congo (verlegt)
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Benjamin Mkapa National Stadium\, Dar-es-Salaam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140641.ht
+ ml
+END:VEVENT
+END:VCALENDAR

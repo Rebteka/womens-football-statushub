@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Copa America Femenina 2025
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1327490@anstoss
+DTSTAMP:20250712T000000Z
+DTSTART:20250712T000000Z
+DTEND:20250712T020000Z
+SUMMARY:Ecuador – Uruguay 2:2
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327491@anstoss
+DTSTAMP:20250712T210000Z
+DTSTART:20250712T210000Z
+DTEND:20250712T230000Z
+SUMMARY:Peru – Chile 0:3
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327493@anstoss
+DTSTAMP:20250713T210000Z
+DTSTART:20250713T210000Z
+DTEND:20250713T230000Z
+SUMMARY:Bolivia – Paraguay 0:4
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327492@anstoss
+DTSTAMP:20250714T000000Z
+DTSTART:20250714T000000Z
+DTEND:20250714T020000Z
+SUMMARY:Brasilien – Venezuela 2:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327495@anstoss
+DTSTAMP:20250715T210000Z
+DTSTART:20250715T210000Z
+DTEND:20250715T230000Z
+SUMMARY:Uruguay – Argentina 0:1
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327494@anstoss
+DTSTAMP:20250716T000000Z
+DTSTART:20250716T000000Z
+DTEND:20250716T020000Z
+SUMMARY:Peru – Ecuador 1:3
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327496@anstoss
+DTSTAMP:20250716T210000Z
+DTSTART:20250716T210000Z
+DTEND:20250716T230000Z
+SUMMARY:Bolivia – Brasilien 0:6
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327497@anstoss
+DTSTAMP:20250717T000000Z
+DTSTART:20250717T000000Z
+DTEND:20250717T020000Z
+SUMMARY:Venezuela – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327499@anstoss
+DTSTAMP:20250718T210000Z
+DTSTART:20250718T210000Z
+DTEND:20250718T230000Z
+SUMMARY:Uruguay – Peru 1:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327498@anstoss
+DTSTAMP:20250719T000000Z
+DTSTART:20250719T000000Z
+DTEND:20250719T020000Z
+SUMMARY:Argentina – Chile 2:1
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327501@anstoss
+DTSTAMP:20250719T210000Z
+DTSTART:20250719T210000Z
+DTEND:20250719T230000Z
+SUMMARY:Venezuela – Bolivia 7:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327500@anstoss
+DTSTAMP:20250720T000000Z
+DTSTART:20250720T000000Z
+DTEND:20250720T020000Z
+SUMMARY:Kolumbien – Paraguay 4:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327503@anstoss
+DTSTAMP:20250721T210000Z
+DTSTART:20250721T210000Z
+DTEND:20250721T230000Z
+SUMMARY:Argentina – Peru 1:0
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327502@anstoss
+DTSTAMP:20250722T000000Z
+DTSTART:20250722T000000Z
+DTEND:20250722T020000Z
+SUMMARY:Chile – Ecuador 2:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327505@anstoss
+DTSTAMP:20250722T210000Z
+DTSTART:20250722T210000Z
+DTEND:20250722T230000Z
+SUMMARY:Kolumbien – Bolivia 8:0
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327505.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327504@anstoss
+DTSTAMP:20250723T000000Z
+DTSTART:20250723T000000Z
+DTEND:20250723T020000Z
+SUMMARY:Paraguay – Brasilien 1:4
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327506@anstoss
+DTSTAMP:20250725T000000Z
+DTSTART:20250725T000000Z
+DTEND:20250725T020000Z
+SUMMARY:Ecuador – Argentina 0:2
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327506.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327507@anstoss
+DTSTAMP:20250725T000000Z
+DTSTART:20250725T000000Z
+DTEND:20250725T020000Z
+SUMMARY:Chile – Uruguay 0:3
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327509@anstoss
+DTSTAMP:20250726T000000Z
+DTSTART:20250726T000000Z
+DTEND:20250726T020000Z
+SUMMARY:Brasilien – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327508@anstoss
+DTSTAMP:20250726T000000Z
+DTSTART:20250726T000000Z
+DTEND:20250726T020000Z
+SUMMARY:Paraguay – Venezuela 2:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327508.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1414159@anstoss
+DTSTAMP:20250728T210000Z
+DTSTART:20250728T210000Z
+DTEND:20250728T230000Z
+SUMMARY:Chile – Paraguay 0:1
+DESCRIPTION:Copa America Femenina · 5th Place Finale
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1414159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1414160@anstoss
+DTSTAMP:20250729T000000Z
+DTSTART:20250729T000000Z
+DTEND:20250729T020000Z
+SUMMARY:Argentina – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · Halbfinale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1414160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1414161@anstoss
+DTSTAMP:20250730T000000Z
+DTSTART:20250730T000000Z
+DTEND:20250730T020000Z
+SUMMARY:Brasilien – Uruguay 5:1
+DESCRIPTION:Copa America Femenina · Halbfinale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1414161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1418167@anstoss
+DTSTAMP:20250802T000000Z
+DTSTART:20250802T000000Z
+DTEND:20250802T020000Z
+SUMMARY:Argentina – Uruguay 2:2
+DESCRIPTION:Copa America Femenina · Spiel um Platz 3
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1418167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1418168@anstoss
+DTSTAMP:20250802T210000Z
+DTSTART:20250802T210000Z
+DTEND:20250802T230000Z
+SUMMARY:Kolumbien – Brasilien 4:4
+DESCRIPTION:Copa America Femenina · Finale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1418168.ht
+ ml
+END:VEVENT
+END:VCALENDAR

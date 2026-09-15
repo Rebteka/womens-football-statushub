@@ -287,4 +287,34 @@ DESCRIPTION:WK-League · 28. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533795.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638222@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Hwacheon KSPO – April
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638229@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:East Bengal – Hwacheon KSPO
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638229.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638233@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Hwacheon KSPO – Hồ Chí Minh City
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638233.ht
+ ml
+END:VEVENT
 END:VCALENDAR

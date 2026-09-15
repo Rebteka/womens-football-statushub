@@ -8,6 +8,71 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-605621@anstoss
+DTSTAMP:20200829T113000Z
+DTSTART:20200829T113000Z
+DTEND:20200829T133000Z
+SUMMARY:Chelsea – Manchester City 2:0
+DESCRIPTION:Community Shield Women · Finale
+LOCATION:Wembley Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/605621.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501244@anstoss
+DTSTAMP:20260118T130000Z
+DTSTART:20260118T130000Z
+DTEND:20260118T150000Z
+SUMMARY:AFC Bournemouth – Manchester City 0:6
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:The Snows Stadium\, Totton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514955@anstoss
+DTSTAMP:20260222T140000Z
+DTSTART:20260222T140000Z
+DTEND:20260222T160000Z
+SUMMARY:Manchester City – Sheffield United 4:0
+DESCRIPTION:FA Women's Cup · Round 5
+LOCATION:Academy Stadium\, Manchester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526403@anstoss
+DTSTAMP:20260406T160000Z
+DTSTART:20260406T160000Z
+DTEND:20260406T180000Z
+SUMMARY:Birmingham City – Manchester City 0:1
+DESCRIPTION:FA Women's Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539874@anstoss
+DTSTAMP:20260510T143000Z
+DTSTART:20260510T143000Z
+DTEND:20260510T163000Z
+SUMMARY:Chelsea – Manchester City 2:3
+DESCRIPTION:FA Women's Cup · Halbfinale
+LOCATION:Kingsmeadow\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544712@anstoss
+DTSTAMP:20260531T140000Z
+DTSTART:20260531T140000Z
+DTEND:20260531T160000Z
+SUMMARY:Brighton – Manchester City 0:4
+DESCRIPTION:FA Women's Cup · Finale
+LOCATION:Wembley Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607669@anstoss
 DTSTAMP:20260906T133000Z
 DTSTART:20260906T133000Z

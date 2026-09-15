@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uruguay
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1327490@anstoss
+DTSTAMP:20250712T000000Z
+DTSTART:20250712T000000Z
+DTEND:20250712T020000Z
+SUMMARY:Ecuador – Uruguay 2:2
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327495@anstoss
+DTSTAMP:20250715T210000Z
+DTSTART:20250715T210000Z
+DTEND:20250715T230000Z
+SUMMARY:Uruguay – Argentina 0:1
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327499@anstoss
+DTSTAMP:20250718T210000Z
+DTSTART:20250718T210000Z
+DTEND:20250718T230000Z
+SUMMARY:Uruguay – Peru 1:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327507@anstoss
+DTSTAMP:20250725T000000Z
+DTSTART:20250725T000000Z
+DTEND:20250725T020000Z
+SUMMARY:Chile – Uruguay 0:3
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1414161@anstoss
+DTSTAMP:20250730T000000Z
+DTSTART:20250730T000000Z
+DTEND:20250730T020000Z
+SUMMARY:Brasilien – Uruguay 5:1
+DESCRIPTION:Copa America Femenina · Halbfinale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1414161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1418167@anstoss
+DTSTAMP:20250802T000000Z
+DTSTART:20250802T000000Z
+DTEND:20250802T020000Z
+SUMMARY:Argentina – Uruguay 2:2
+DESCRIPTION:Copa America Femenina · Spiel um Platz 3
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1418167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483018@anstoss
+DTSTAMP:20251028T210000Z
+DTSTART:20251028T210000Z
+DTEND:20251028T230000Z
+SUMMARY:Uruguay – Argentina 2:2
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Centenario\, Montevideo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483023@anstoss
+DTSTAMP:20251128T230000Z
+DTSTART:20251128T230000Z
+DTEND:20251129T010000Z
+SUMMARY:Paraguay – Uruguay 1:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Tigo La Huerta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483027@anstoss
+DTSTAMP:20251202T210000Z
+DTSTART:20251202T210000Z
+DTEND:20251202T230000Z
+SUMMARY:Uruguay – Ecuador 0:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 4. Spieltag
+LOCATION:Estadio Alfredo Victor Viera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526971@anstoss
+DTSTAMP:20260304T200000Z
+DTSTART:20260304T200000Z
+DTEND:20260304T220000Z
+SUMMARY:Ecuador – Uruguay 2:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526976@anstoss
+DTSTAMP:20260307T171500Z
+DTSTART:20260307T171500Z
+DTEND:20260307T191500Z
+SUMMARY:Ecuador – Uruguay 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483032@anstoss
+DTSTAMP:20260410T210000Z
+DTSTART:20260410T210000Z
+DTEND:20260410T230000Z
+SUMMARY:Peru – Uruguay 2:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 5. Spieltag
+LOCATION:Estadio Inca Garcilaso de la Vega\, Cusco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483033@anstoss
+DTSTAMP:20260414T210000Z
+DTSTART:20260414T210000Z
+DTEND:20260414T230000Z
+SUMMARY:Bolivia – Uruguay 1:2
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 6. Spieltag
+LOCATION:Estadio Municipal de El Alto\, El Alto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483039@anstoss
+DTSTAMP:20260418T210000Z
+DTSTART:20260418T210000Z
+DTEND:20260418T230000Z
+SUMMARY:Uruguay – Chile 1:3
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 7. Spieltag
+LOCATION:Estadio Centenario\, Montevideo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483044@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Kolumbien – Uruguay 1:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483048@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Uruguay – Venezuela 1:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Centenario\, Montevideo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483048.ht
+ ml
+END:VEVENT
+END:VCALENDAR

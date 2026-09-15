@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Colo-Colo
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1479290@anstoss
+DTSTAMP:20251003T190000Z
+DTSTART:20251003T190000Z
+DTEND:20251003T210000Z
+SUMMARY:Colo-Colo – Olimpia 2:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479295@anstoss
+DTSTAMP:20251006T230000Z
+DTSTART:20251006T230000Z
+DTEND:20251007T010000Z
+SUMMARY:São Paulo – Colo-Colo 0:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 2. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479397@anstoss
+DTSTAMP:20251009T230000Z
+DTSTART:20251009T230000Z
+DTEND:20251010T010000Z
+SUMMARY:San Lorenzo – Colo-Colo 0:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481286@anstoss
+DTSTAMP:20251012T190000Z
+DTSTART:20251012T190000Z
+DTEND:20251012T210000Z
+SUMMARY:Colo-Colo – Libertad Limpeño 1:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Viertelfinale
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481535@anstoss
+DTSTAMP:20251015T190000Z
+DTSTART:20251015T190000Z
+DTEND:20251015T210000Z
+SUMMARY:Colo-Colo – Deportivo Cali 0:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Halbfinale
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481535.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1482004@anstoss
+DTSTAMP:20251018T140000Z
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+SUMMARY:Ferroviaria – Colo-Colo 1:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · 3rd place
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1482004.ht
+ ml
+END:VEVENT
+END:VCALENDAR

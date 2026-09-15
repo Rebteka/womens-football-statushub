@@ -8,6 +8,168 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193151@anstoss
+DTSTAMP:20240405T130000Z
+DTSTART:20240405T130000Z
+DTEND:20240405T150000Z
+SUMMARY:Slowakei – Israel 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Národné tréningové centrum SFZ\, Senec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193151.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193166@anstoss
+DTSTAMP:20240409T183500Z
+DTSTART:20240409T183500Z
+DTEND:20240409T203500Z
+SUMMARY:Schottland – Slowakei 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193166.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193170@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Serbia – Slowakei 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Stadion na Banovom brdu\, Beograd
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193170.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193177@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Slowakei – Serbia 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:CITY ARENA – Štadión Antona Malatinského\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193177.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193186@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Slowakei – Schottland 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Štadión pod Zoborom\, Nitra
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193194@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Israel – Slowakei 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Árok utcai pálya\, Budaörs
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193194.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252911@anstoss
+DTSTAMP:20241025T153000Z
+DTSTART:20241025T153000Z
+DTEND:20241025T173000Z
+SUMMARY:Slowakei – Wales 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Futbalový štadion NTC Poprad\, Poprad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252912@anstoss
+DTSTAMP:20241029T191500Z
+DTSTART:20241029T191500Z
+DTEND:20241029T211500Z
+SUMMARY:Wales – Slowakei 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Cardiff City Stadium\, Caerdydd
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315854@anstoss
+DTSTAMP:20250221T180000Z
+DTSTART:20250221T180000Z
+DTEND:20250221T200000Z
+SUMMARY:Slowakei – Faroe Islands 3:0
+DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+LOCATION:City Arena Trnava\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315854.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315863@anstoss
+DTSTAMP:20250225T163000Z
+DTSTART:20250225T163000Z
+DTEND:20250225T183000Z
+SUMMARY:Slowakei – Moldova 1:0
+DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+LOCATION:City Arena Trnava\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315872@anstoss
+DTSTAMP:20250404T170000Z
+DTSTART:20250404T170000Z
+DTEND:20250404T190000Z
+SUMMARY:Gibraltar – Slowakei 0:8
+DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+LOCATION:Europa point stadium\, Gibraltar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315872.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315881@anstoss
+DTSTAMP:20250408T140000Z
+DTSTART:20250408T140000Z
+DTEND:20250408T160000Z
+SUMMARY:Moldova – Slowakei 0:2
+DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+LOCATION:Stadionul Zimbru
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315890@anstoss
+DTSTAMP:20250530T150000Z
+DTSTART:20250530T150000Z
+DTEND:20250530T170000Z
+SUMMARY:Slowakei – Gibraltar 11:0
+DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+LOCATION:Futbal Tatran Arena\, Prešov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315898@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Faroe Islands – Slowakei 1:2
+DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523824@anstoss
 DTSTAMP:20260303T150000Z
 DTSTART:20260303T150000Z

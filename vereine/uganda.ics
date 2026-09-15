@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uganda
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140642@anstoss
+DTSTAMP:20230712T000000Z
+DTSTART:20230712T000000Z
+DTEND:20230712T020000Z
+SUMMARY:Uganda – Rwanda 3:3
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Kigali Pelé Stadium\, Kigali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140643@anstoss
+DTSTAMP:20230716T000000Z
+DTSTART:20230716T000000Z
+DTEND:20230716T020000Z
+SUMMARY:Rwanda – Uganda 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Kigali Pelé Stadium\, Kigali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140632@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Uganda – Cameroon 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:FUFA Technical Centre\, Njeru
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140633@anstoss
+DTSTAMP:20231031T160000Z
+DTSTART:20231031T160000Z
+DTEND:20231031T180000Z
+SUMMARY:Cameroon – Uganda 3:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Stade de la Réunification\, Douala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140633.ht
+ ml
+END:VEVENT
+END:VCALENDAR

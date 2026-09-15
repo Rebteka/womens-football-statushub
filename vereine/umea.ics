@@ -144,6 +144,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501437.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1610915@anstoss
+DTSTAMP:20260811T173000Z
+DTSTART:20260811T173000Z
+DTEND:20260811T193000Z
+SUMMARY:Själevad – Umeå 0:6
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1501449@anstoss
 DTSTAMP:20260815T140000Z
 DTSTART:20260815T140000Z
@@ -206,6 +216,16 @@ SUMMARY:Umeå – Enskede
 DESCRIPTION:Elitettan · 19. Spieltag
 LOCATION:Umea Energi Arena\, Umea
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1503713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636794@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Sandviken – Umeå
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636794.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

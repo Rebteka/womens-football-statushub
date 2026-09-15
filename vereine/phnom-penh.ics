@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Phnom Penh
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578034@anstoss
+DTSTAMP:20260817T100000Z
+DTSTART:20260817T100000Z
+DTEND:20260817T120000Z
+SUMMARY:TSL FC – Phnom Penh 2:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Dolen Omurzakov Stadium\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578042@anstoss
+DTSTAMP:20260820T100000Z
+DTSTART:20260820T100000Z
+DTEND:20260820T120000Z
+SUMMARY:Phnom Penh – Kaya 1:5
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:RSN Stadium\, Phnom Penh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578042.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578057@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:Phnom Penh – Ilbirs 2:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:RSN Stadium\, Phnom Penh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578057.ht
+ ml
+END:VEVENT
+END:VCALENDAR

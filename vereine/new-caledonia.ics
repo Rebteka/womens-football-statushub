@@ -40,4 +40,24 @@ DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation ·
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1526396.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1537379@anstoss
+DTSTAMP:20260412T133000Z
+DTSTART:20260412T133000Z
+DTEND:20260412T153000Z
+SUMMARY:Thailand – New Caledonia 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1537379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540593@anstoss
+DTSTAMP:20260415T090000Z
+DTSTART:20260415T090000Z
+DTEND:20260415T110000Z
+SUMMARY:Indonesia – New Caledonia 4:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540593.ht
+ ml
+END:VEVENT
 END:VCALENDAR

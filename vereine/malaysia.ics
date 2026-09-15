@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Malaysia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1372394@anstoss
+DTSTAMP:20250629T140000Z
+DTSTART:20250629T140000Z
+DTEND:20250629T160000Z
+SUMMARY:Malaysia – Palestine 1:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372409@anstoss
+DTSTAMP:20250702T170000Z
+DTSTART:20250702T170000Z
+DTEND:20250702T190000Z
+SUMMARY:Tajikistan – Malaysia 0:1
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372425@anstoss
+DTSTAMP:20250705T140000Z
+DTSTART:20250705T140000Z
+DTEND:20250705T160000Z
+SUMMARY:Korea DPR – Malaysia 6:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548461@anstoss
+DTSTAMP:20260603T150000Z
+DTSTART:20260603T150000Z
+DTEND:20260603T170000Z
+SUMMARY:Jordan – Malaysia 4:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548478@anstoss
+DTSTAMP:20260606T150000Z
+DTSTART:20260606T150000Z
+DTEND:20260606T170000Z
+SUMMARY:Malaysia – Palestine 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1589174@anstoss
+DTSTAMP:20260710T124500Z
+DTSTART:20260710T124500Z
+DTEND:20260710T144500Z
+SUMMARY:Laos – Malaysia 1:1
+DESCRIPTION:Asean Championship Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1589174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1589177@anstoss
+DTSTAMP:20260716T084500Z
+DTSTART:20260716T084500Z
+DTEND:20260716T104500Z
+SUMMARY:Malaysia – Singapore 1:3
+DESCRIPTION:Asean Championship Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1589177.ht
+ ml
+END:VEVENT
+END:VCALENDAR

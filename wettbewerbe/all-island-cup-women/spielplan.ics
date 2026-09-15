@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:All-Island Cup - Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539601@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:Bohemians WFC – Glentoran BU 1:3
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539599@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:DLR Waves – Lisburn Rangers 1:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539600@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:Treaty Utd – Cliftonville 3:2
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539600.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539602@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:Waterford – Shelbourne 2:4
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539604@anstoss
+DTSTAMP:20260404T160000Z
+DTSTART:20260404T160000Z
+DTEND:20260404T180000Z
+SUMMARY:Galway United – Peamount United 4:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539603@anstoss
+DTSTAMP:20260404T160000Z
+DTSTART:20260404T160000Z
+DTEND:20260404T180000Z
+SUMMARY:Sligo Rovers – Wexford Youths 2:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539605@anstoss
+DTSTAMP:20260404T170000Z
+DTSTART:20260404T170000Z
+DTEND:20260404T190000Z
+SUMMARY:Athlone WFC – Cork City 2:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539605.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539598@anstoss
+DTSTAMP:20260405T140000Z
+DTSTART:20260405T140000Z
+DTEND:20260405T160000Z
+SUMMARY:Linfield – Shamrock Rovers 1:2
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539606@anstoss
+DTSTAMP:20260509T140000Z
+DTSTART:20260509T140000Z
+DTEND:20260509T160000Z
+SUMMARY:Cork City – Treaty Utd 0:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539608@anstoss
+DTSTAMP:20260509T140000Z
+DTSTART:20260509T140000Z
+DTEND:20260509T160000Z
+SUMMARY:Shamrock Rovers – Sligo Rovers 3:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539607@anstoss
+DTSTAMP:20260509T150000Z
+DTSTART:20260509T150000Z
+DTEND:20260509T170000Z
+SUMMARY:Shelbourne – Bohemians WFC 2:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539609@anstoss
+DTSTAMP:20260509T160000Z
+DTSTART:20260509T160000Z
+DTEND:20260509T180000Z
+SUMMARY:Peamount United – DLR Waves 5:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539610@anstoss
+DTSTAMP:20260509T170000Z
+DTSTART:20260509T170000Z
+DTEND:20260509T190000Z
+SUMMARY:Wexford Youths – Linfield 1:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539610.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539611@anstoss
+DTSTAMP:20260510T130000Z
+DTSTART:20260510T130000Z
+DTEND:20260510T150000Z
+SUMMARY:Cliftonville – Athlone WFC 0:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539612@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:Lisburn Rangers – Galway United 1:4
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539612.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539613@anstoss
+DTSTAMP:20260510T160000Z
+DTSTART:20260510T160000Z
+DTEND:20260510T180000Z
+SUMMARY:Glentoran BU – Waterford 0:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539613.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542077@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Cliftonville – Cork City 3:3
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542077.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542078@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Treaty Utd – Athlone WFC 3:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542078.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542073@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:Linfield – Sligo Rovers 5:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542073.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542074@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:Shamrock Rovers – Wexford Youths 1:5
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542074.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542076@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Peamount United – Lisburn Rangers 6:1
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542079@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Glentoran BU – Shelbourne 1:6
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542079.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542080@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Bohemians WFC – Waterford 5:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542080.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542075@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Galway United – DLR Waves 2:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542075.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553407@anstoss
+DTSTAMP:20260613T140000Z
+DTSTART:20260613T140000Z
+DTEND:20260613T160000Z
+SUMMARY:Shamrock Rovers – Peamount United 0:1
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553408@anstoss
+DTSTAMP:20260613T140000Z
+DTSTART:20260613T140000Z
+DTEND:20260613T160000Z
+SUMMARY:Treaty Utd – Bohemians WFC 0:1
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553409@anstoss
+DTSTAMP:20260613T150000Z
+DTSTART:20260613T150000Z
+DTEND:20260613T170000Z
+SUMMARY:Shelbourne – Cliftonville 3:1
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1553410@anstoss
+DTSTAMP:20260613T160000Z
+DTSTART:20260613T160000Z
+DTEND:20260613T180000Z
+SUMMARY:Galway United – Linfield 3:2
+DESCRIPTION:All-Island Cup - Women · Quarter-Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1553410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1564787@anstoss
+DTSTAMP:20260627T120000Z
+DTSTART:20260627T120000Z
+DTEND:20260627T140000Z
+SUMMARY:Shelbourne – Bohemians WFC 4:0
+DESCRIPTION:All-Island Cup - Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1564787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1564788@anstoss
+DTSTAMP:20260627T160000Z
+DTSTART:20260627T160000Z
+DTEND:20260627T180000Z
+SUMMARY:Galway United – Peamount United 1:1
+DESCRIPTION:All-Island Cup - Women · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1564788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1592165@anstoss
+DTSTAMP:20260718T183500Z
+DTSTART:20260718T183500Z
+DTEND:20260718T203500Z
+SUMMARY:Shelbourne – Galway United 2:0
+DESCRIPTION:All-Island Cup - Women · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1592165.ht
+ ml
+END:VEVENT
+END:VCALENDAR

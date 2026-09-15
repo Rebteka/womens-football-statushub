@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:No Limits FC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578030@anstoss
+DTSTAMP:20260817T123000Z
+DTSTART:20260817T123000Z
+DTEND:20260817T143000Z
+SUMMARY:Hang Yuan – No Limits FC 6:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578041@anstoss
+DTSTAMP:20260820T093000Z
+DTSTART:20260820T093000Z
+DTEND:20260820T113000Z
+SUMMARY:No Limits FC – Ayeyawady 0:8
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578053@anstoss
+DTSTAMP:20260823T123000Z
+DTSTART:20260823T123000Z
+DTEND:20260823T143000Z
+SUMMARY:Jurong – No Limits FC 2:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578053.ht
+ ml
+END:VEVENT
+END:VCALENDAR

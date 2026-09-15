@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:China
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013560@anstoss
+DTSTAMP:20230722T120000Z
+DTSTART:20230722T120000Z
+DTEND:20230722T140000Z
+SUMMARY:Dänemark – China 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013578@anstoss
+DTSTAMP:20230728T110000Z
+DTSTART:20230728T110000Z
+DTEND:20230728T130000Z
+SUMMARY:China – Haiti 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Coopers Stadium\, Adelaide
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013578.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013592@anstoss
+DTSTAMP:20230801T110000Z
+DTSTART:20230801T110000Z
+DTEND:20230801T130000Z
+SUMMARY:China – England 1:6
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Coopers Stadium\, Adelaide
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013592.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027917@anstoss
+DTSTAMP:20231026T113500Z
+DTSTART:20231026T113500Z
+DTEND:20231026T133500Z
+SUMMARY:China – Korea DPR 1:2
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034483@anstoss
+DTSTAMP:20231029T113500Z
+DTSTART:20231029T113500Z
+DTEND:20231029T133500Z
+SUMMARY:Thailand – China 0:3
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034488@anstoss
+DTSTAMP:20231101T113500Z
+DTSTART:20231101T113500Z
+DTEND:20231101T133500Z
+SUMMARY:China – Südkorea 1:1
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399951@anstoss
+DTSTAMP:20250709T110000Z
+DTSTART:20250709T110000Z
+DTEND:20250709T130000Z
+SUMMARY:Südkorea – China 2:2
+DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 1. 
+ Spieltag
+LOCATION:Suwon World Cup Stadium\, Suwon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399952@anstoss
+DTSTAMP:20250713T073000Z
+DTSTART:20250713T073000Z
+DTEND:20250713T093000Z
+SUMMARY:Chinese Taipei – China 2:4
+DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 2. 
+ Spieltag
+LOCATION:Hwaseong Stadium\, Hwaseong
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399954@anstoss
+DTSTAMP:20250716T070000Z
+DTSTART:20250716T070000Z
+DTEND:20250716T090000Z
+SUMMARY:Japan – China 0:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 3. 
+ Spieltag
+LOCATION:Suwon World Cup Stadium\, Suwon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521478@anstoss
+DTSTAMP:20260210T110000Z
+DTSTART:20260210T110000Z
+DTEND:20260210T130000Z
+SUMMARY:China – Vietnam 2:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1521483@anstoss
+DTSTAMP:20260213T110000Z
+DTSTART:20260213T110000Z
+DTEND:20260213T130000Z
+SUMMARY:China – Vietnam 6:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1521483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516363@anstoss
+DTSTAMP:20260303T080000Z
+DTSTART:20260303T080000Z
+DTEND:20260303T100000Z
+SUMMARY:China – Bangladesh 2:0
+DESCRIPTION:Asian Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516369@anstoss
+DTSTAMP:20260306T080000Z
+DTSTART:20260306T080000Z
+DTEND:20260306T100000Z
+SUMMARY:Uzbekistan – China 0:3
+DESCRIPTION:Asian Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516375@anstoss
+DTSTAMP:20260309T090000Z
+DTSTART:20260309T090000Z
+DTEND:20260309T110000Z
+SUMMARY:Korea DPR – China 1:2
+DESCRIPTION:Asian Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531617@anstoss
+DTSTAMP:20260314T050000Z
+DTSTART:20260314T050000Z
+DTEND:20260314T070000Z
+SUMMARY:China – Chinese Taipei 2:0
+DESCRIPTION:Asian Cup Women · Viertelfinale
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531617.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533880@anstoss
+DTSTAMP:20260317T100000Z
+DTSTART:20260317T100000Z
+DTEND:20260317T120000Z
+SUMMARY:China – Australien 1:2
+DESCRIPTION:Asian Cup Women · Halbfinale
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533880.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545734@anstoss
+DTSTAMP:20260603T113500Z
+DTSTART:20260603T113500Z
+DTEND:20260603T133500Z
+SUMMARY:China – Russland 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545739@anstoss
+DTSTAMP:20260607T110000Z
+DTSTART:20260607T110000Z
+DTEND:20260607T130000Z
+SUMMARY:China – Russland 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Tazi Lake Football Training Centre\, Wuhan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638732@anstoss
+DTSTAMP:20260909T100000Z
+DTSTART:20260909T100000Z
+DTEND:20260909T120000Z
+SUMMARY:China – Vietnam 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638732.ht
+ ml
+END:VEVENT
+END:VCALENDAR

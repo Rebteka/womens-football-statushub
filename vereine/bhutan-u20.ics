@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bhutan U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424263@anstoss
+DTSTAMP:20250806T120000Z
+DTSTART:20250806T120000Z
+DTEND:20250806T140000Z
+SUMMARY:Nepal U20 – Bhutan U20 1:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424273@anstoss
+DTSTAMP:20250808T120000Z
+DTSTART:20250808T120000Z
+DTEND:20250808T140000Z
+SUMMARY:Bhutan U20 – Korea DPR U20 0:10
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 4. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424283@anstoss
+DTSTAMP:20250810T120000Z
+DTSTART:20250810T120000Z
+DTEND:20250810T140000Z
+SUMMARY:Bhutan U20 – Saudi Arabia U20 1:2
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Changlimithang Stadium\, Thimphu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424283.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -30,6 +30,29 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1575057.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1626955@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Anderlecht – Feyenoord 2:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626970@anstoss
+DTSTAMP:20260902T170000Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Feyenoord – Anderlecht 3:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Sportcomplex Varkenoord 1\, Rotterdam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1575060@anstoss
 DTSTAMP:20260906T101500Z
 DTSTART:20260906T101500Z
@@ -62,6 +85,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1575072.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638401@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Feyenoord – Vålerenga
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1575077@anstoss
 DTSTAMP:20260926T143000Z
 DTSTART:20260926T143000Z
@@ -70,6 +103,16 @@ SUMMARY:Feyenoord – PEC Zwolle
 DESCRIPTION:Eredivisie Women · 6. Spieltag
 LOCATION:Sportcomplex Varkenoord 1\, Rotterdam
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1575077.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638427@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Vålerenga – Feyenoord
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638427.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

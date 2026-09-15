@@ -48,6 +48,18 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1582105.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1626951@anstoss
+DTSTAMP:20260826T153000Z
+DTSTART:20260826T153000Z
+DTEND:20260826T173000Z
+SUMMARY:Hajduk Split – Fortuna Hjørring 0:2
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadion Poljud\, Split
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1582110@anstoss
 DTSTAMP:20260829T110000Z
 DTSTART:20260829T110000Z
@@ -55,6 +67,17 @@ DTEND:20260829T130000Z
 SUMMARY:ASA Aarhus – Fortuna Hjørring 2:1
 DESCRIPTION:Kvindeliga · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626965@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Fortuna Hjørring – Hajduk Split 1:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626965.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -88,6 +111,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1582126.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638408@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:PSV/Eindhoven – Fortuna Hjørring
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1582130@anstoss
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
@@ -95,6 +128,16 @@ DTEND:20260926T130000Z
 SUMMARY:Fortuna Hjørring – Nordsjælland
 DESCRIPTION:Kvindeliga · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638417@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Fortuna Hjørring – PSV/Eindhoven
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638417.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Curaçao
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140553@anstoss
+DTSTAMP:20231026T203000Z
+DTSTART:20231026T203000Z
+DTEND:20231026T223000Z
+SUMMARY:Cayman Islands – Curaçao 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Truman Bodden Sports Complex\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140560@anstoss
+DTSTAMP:20231031T000000Z
+DTSTART:20231031T000000Z
+DTEND:20231031T020000Z
+SUMMARY:Curaçao – Anguilla 5:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Football Federation Training Ground\, Willemstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140566@anstoss
+DTSTAMP:20231130T200000Z
+DTSTART:20231130T200000Z
+DTEND:20231130T220000Z
+SUMMARY:Anguilla – Curaçao 1:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140572@anstoss
+DTSTAMP:20231205T000000Z
+DTSTART:20231205T000000Z
+DTEND:20231205T020000Z
+SUMMARY:Curaçao – Cayman Islands 6:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:Football Federation Training Ground\, Willemstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140572.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488278@anstoss
+DTSTAMP:20251201T000000Z
+DTSTART:20251201T000000Z
+DTEND:20251201T020000Z
+SUMMARY:Curaçao – Panama 1:6
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488278.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488291@anstoss
+DTSTAMP:20260301T200000Z
+DTSTART:20260301T200000Z
+DTEND:20260301T220000Z
+SUMMARY:Cuba – Curaçao 3:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Antonio Maceo Stadium\, Santiago de Cuba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488310@anstoss
+DTSTAMP:20260414T000000Z
+DTSTART:20260414T000000Z
+DTEND:20260414T020000Z
+SUMMARY:Curaçao – Aruba 1:6
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488317@anstoss
+DTSTAMP:20260417T230000Z
+DTSTART:20260417T230000Z
+DTEND:20260418T010000Z
+SUMMARY:St. Kitts and Nevis – Curaçao 1:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:SKNFA technical centre\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488317.ht
+ ml
+END:VEVENT
+END:VCALENDAR

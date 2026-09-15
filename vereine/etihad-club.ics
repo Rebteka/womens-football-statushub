@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Etihad Club
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578029@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:Etihad Club – Al Nassr 2:2
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578036@anstoss
+DTSTAMP:20260820T150000Z
+DTSTART:20260820T150000Z
+DTEND:20260820T170000Z
+SUMMARY:CSKA Pomir Dushanbe – Etihad Club 1:5
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578048@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Bam Khatoon – Etihad Club 3:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578048.ht
+ ml
+END:VEVENT
+END:VCALENDAR

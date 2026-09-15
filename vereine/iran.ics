@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Iran
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1007655@anstoss
+DTSTAMP:20230405T090000Z
+DTSTART:20230405T090000Z
+DTEND:20230405T110000Z
+SUMMARY:Iran – Bangladesh
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007655.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1020713@anstoss
+DTSTAMP:20230405T093000Z
+DTSTART:20230405T093000Z
+DTEND:20230405T113000Z
+SUMMARY:Iran – Myanmar 1:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1020713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007666@anstoss
+DTSTAMP:20230408T090000Z
+DTSTART:20230408T090000Z
+DTEND:20230408T110000Z
+SUMMARY:Maldives – Iran
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007666.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007678@anstoss
+DTSTAMP:20230408T093000Z
+DTSTART:20230408T093000Z
+DTEND:20230408T113000Z
+SUMMARY:Myanmar – Iran 1:1
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007678.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027915@anstoss
+DTSTAMP:20231026T110000Z
+DTSTART:20231026T110000Z
+DTEND:20231026T130000Z
+SUMMARY:Australien – Iran 2:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034480@anstoss
+DTSTAMP:20231029T101000Z
+DTSTART:20231029T101000Z
+DTEND:20231029T121000Z
+SUMMARY:Iran – Chinese Taipei 0:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034487@anstoss
+DTSTAMP:20231101T075000Z
+DTSTART:20231101T075000Z
+DTEND:20231101T095000Z
+SUMMARY:Philippines – Iran 1:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372395@anstoss
+DTSTAMP:20250710T130000Z
+DTSTART:20250710T130000Z
+DTEND:20250710T150000Z
+SUMMARY:Singapore – Iran 0:4
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372411@anstoss
+DTSTAMP:20250713T130000Z
+DTSTART:20250713T130000Z
+DTEND:20250713T150000Z
+SUMMARY:Iran – Bhutan 7:1
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372428@anstoss
+DTSTAMP:20250716T130000Z
+DTSTART:20250716T130000Z
+DTEND:20250716T150000Z
+SUMMARY:Lebanon – Iran 3:1
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 4. Spi
+ eltag
+LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372428.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372432@anstoss
+DTSTAMP:20250719T160000Z
+DTSTART:20250719T160000Z
+DTEND:20250719T180000Z
+SUMMARY:Iran – Jordan 2:1
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 5. Spi
+ eltag
+LOCATION:King Abdullah International Stadium\, ʿAmmān (Amman)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516361@anstoss
+DTSTAMP:20260302T090000Z
+DTSTART:20260302T090000Z
+DTEND:20260302T110000Z
+SUMMARY:Südkorea – Iran 3:0
+DESCRIPTION:Asian Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516367@anstoss
+DTSTAMP:20260305T090000Z
+DTSTART:20260305T090000Z
+DTEND:20260305T110000Z
+SUMMARY:Iran – Australien 0:4
+DESCRIPTION:Asian Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516373@anstoss
+DTSTAMP:20260308T090000Z
+DTSTART:20260308T090000Z
+DTEND:20260308T110000Z
+SUMMARY:Iran – Philippines 0:2
+DESCRIPTION:Asian Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516373.ht
+ ml
+END:VEVENT
+END:VCALENDAR

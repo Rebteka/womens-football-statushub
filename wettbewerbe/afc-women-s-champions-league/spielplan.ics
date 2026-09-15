@@ -1,0 +1,586 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AFC Women's Champions League 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1578028@anstoss
+DTSTAMP:20260817T080000Z
+DTSTART:20260817T080000Z
+DTEND:20260817T100000Z
+SUMMARY:East Bengal – Rajshahi 4:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578023@anstoss
+DTSTAMP:20260817T090000Z
+DTSTART:20260817T090000Z
+DTEND:20260817T110000Z
+SUMMARY:April – Kharaatsai 13:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578024@anstoss
+DTSTAMP:20260817T093000Z
+DTSTART:20260817T093000Z
+DTEND:20260817T113000Z
+SUMMARY:Ayeyawady – Jurong 4:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578034@anstoss
+DTSTAMP:20260817T100000Z
+DTSTART:20260817T100000Z
+DTEND:20260817T120000Z
+SUMMARY:TSL FC – Phnom Penh 2:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Dolen Omurzakov Stadium\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578027@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:BGC Asian Scholars – S'Amuser 10:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578029@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:Etihad Club – Al Nassr 2:2
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578033@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:Sabah – Rovers FC 13:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578026@anstoss
+DTSTAMP:20260817T120000Z
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:Banaat – RTC 1:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578030@anstoss
+DTSTAMP:20260817T123000Z
+DTSTART:20260817T123000Z
+DTEND:20260817T143000Z
+SUMMARY:Hang Yuan – No Limits FC 6:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578031@anstoss
+DTSTAMP:20260817T140000Z
+DTSTART:20260817T140000Z
+DTEND:20260817T160000Z
+SUMMARY:Kaya – Ilbirs 6:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Dolen Omurzakov Stadium\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578025@anstoss
+DTSTAMP:20260817T150000Z
+DTSTART:20260817T150000Z
+DTEND:20260817T170000Z
+SUMMARY:Bam Khatoon – CSKA Pomir Dushanbe 3:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578032@anstoss
+DTSTAMP:20260817T150000Z
+DTSTART:20260817T150000Z
+DTEND:20260817T170000Z
+SUMMARY:Nasaf – Master 11:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578044@anstoss
+DTSTAMP:20260820T080000Z
+DTSTART:20260820T080000Z
+DTEND:20260820T100000Z
+SUMMARY:Rovers FC – East Bengal 0:12
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578046@anstoss
+DTSTAMP:20260820T090000Z
+DTSTART:20260820T090000Z
+DTEND:20260820T110000Z
+SUMMARY:S'Amuser – April 0:12
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578041@anstoss
+DTSTAMP:20260820T093000Z
+DTSTART:20260820T093000Z
+DTEND:20260820T113000Z
+SUMMARY:No Limits FC – Ayeyawady 0:8
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578042@anstoss
+DTSTAMP:20260820T100000Z
+DTSTART:20260820T100000Z
+DTEND:20260820T120000Z
+SUMMARY:Phnom Penh – Kaya 1:5
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:RSN Stadium\, Phnom Penh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578042.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578035@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Al Nassr – Bam Khatoon 1:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578040@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Master – Banaat 0:9
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578040.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578039@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Kharaatsai – BGC Asian Scholars 0:15
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578043@anstoss
+DTSTAMP:20260820T120000Z
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:Rajshahi – Sabah 1:2
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578038@anstoss
+DTSTAMP:20260820T123000Z
+DTSTART:20260820T123000Z
+DTEND:20260820T143000Z
+SUMMARY:Jurong – Hang Yuan 1:2
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578037@anstoss
+DTSTAMP:20260820T140000Z
+DTSTART:20260820T140000Z
+DTEND:20260820T160000Z
+SUMMARY:Ilbirs – TSL FC 0:4
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Dolen Omurzakov Stadium\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578037.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578045@anstoss
+DTSTAMP:20260820T150000Z
+DTSTART:20260820T150000Z
+DTEND:20260820T170000Z
+SUMMARY:RTC – Nasaf 0:3
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578045.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578036@anstoss
+DTSTAMP:20260820T150000Z
+DTSTART:20260820T150000Z
+DTEND:20260820T170000Z
+SUMMARY:CSKA Pomir Dushanbe – Etihad Club 1:5
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578058@anstoss
+DTSTAMP:20260823T080000Z
+DTSTART:20260823T080000Z
+DTEND:20260823T100000Z
+SUMMARY:Rovers FC – Rajshahi 0:8
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578058.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578055@anstoss
+DTSTAMP:20260823T090000Z
+DTSTART:20260823T090000Z
+DTEND:20260823T110000Z
+SUMMARY:Kharaatsai – S'Amuser 0:3
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578055.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578052@anstoss
+DTSTAMP:20260823T093000Z
+DTSTART:20260823T093000Z
+DTEND:20260823T113000Z
+SUMMARY:Hang Yuan – Ayeyawady 0:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578052.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578054@anstoss
+DTSTAMP:20260823T100000Z
+DTSTART:20260823T100000Z
+DTEND:20260823T120000Z
+SUMMARY:Kaya – TSL FC 0:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Dolen Omurzakov Stadium\, Bishkek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578054.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578050@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:BGC Asian Scholars – April 1:4
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:True BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578050.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578048@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Bam Khatoon – Etihad Club 3:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578051@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:East Bengal – Sabah 2:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Likas Stadium\, Kota Kinabalu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578051.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578056@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Master – RTC 0:5
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578056.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578053@anstoss
+DTSTAMP:20260823T123000Z
+DTSTART:20260823T123000Z
+DTEND:20260823T143000Z
+SUMMARY:Jurong – No Limits FC 2:1
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578053.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578057@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:Phnom Penh – Ilbirs 2:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:RSN Stadium\, Phnom Penh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578057.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578047@anstoss
+DTSTAMP:20260823T150000Z
+DTSTART:20260823T150000Z
+DTEND:20260823T170000Z
+SUMMARY:Al Nassr – CSKA Pomir Dushanbe 12:0
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Hisor Central Stadium\, Hisor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578049@anstoss
+DTSTAMP:20260823T150000Z
+DTSTART:20260823T150000Z
+DTEND:20260823T170000Z
+SUMMARY:Banaat – Nasaf 0:7
+DESCRIPTION:AFC Women's Champions League · Preliminary
+LOCATION:Markaziy Stadium\, Qarshi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578049.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638224@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Melbourne City – Nasaf
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638222@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Hwacheon KSPO – April
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638223@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:INAC Kobe Leonessa – Bam Khatoon
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638221@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Hồ Chí Minh City – East Bengal
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638225@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Naegohyang – Ayeyawady
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638236@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Beijing Beikong – Kaya
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638236.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638228@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Bam Khatoon – Naegohyang
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638230@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Kaya – Melbourne City
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638230.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638237@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Nasaf – Beijing Beikong
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638237.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638229@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:East Bengal – Hwacheon KSPO
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638229.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638226@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:April – Hồ Chí Minh City
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638226.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638227@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Ayeyawady – INAC Kobe Leonessa
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638238@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Melbourne City – Beijing Beikong
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638238.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638233@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Hwacheon KSPO – Hồ Chí Minh City
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638233.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638231@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Bam Khatoon – Ayeyawady
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638231.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638234@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Kaya – Nasaf
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638234.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638232@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:East Bengal – April
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638232.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638235@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Naegohyang – INAC Kobe Leonessa
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638235.ht
+ ml
+END:VEVENT
+END:VCALENDAR

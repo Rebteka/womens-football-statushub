@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Morocco
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013565@anstoss
+DTSTAMP:20230724T083000Z
+DTSTART:20230724T083000Z
+DTEND:20230724T103000Z
+SUMMARY:Deutschland – Morocco 6:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:AAMI Park\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013565.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013582@anstoss
+DTSTAMP:20230730T043000Z
+DTSTART:20230730T043000Z
+DTEND:20230730T063000Z
+SUMMARY:Südkorea – Morocco 0:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Coopers Stadium\, Adelaide
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013582.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013599@anstoss
+DTSTAMP:20230803T100000Z
+DTSTART:20230803T100000Z
+DTEND:20230803T120000Z
+SUMMARY:Morocco – Kolumbien 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1106510@anstoss
+DTSTAMP:20230808T110000Z
+DTSTART:20230808T110000Z
+DTEND:20230808T130000Z
+SUMMARY:Frankreich – Morocco 4:0
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Hindmarsh Stadium\, Adelaide
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1106510.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140636@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Namibia – Morocco 0:2
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Independence Stadium\, Windhoek
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140637@anstoss
+DTSTAMP:20231031T180000Z
+DTSTART:20231031T180000Z
+DTEND:20231031T200000Z
+SUMMARY:Morocco – Namibia 2:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Stade Prince Moulay El Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140988@anstoss
+DTSTAMP:20240223T133000Z
+DTSTART:20240223T133000Z
+DTEND:20240223T153000Z
+SUMMARY:Tunisia – Morocco 1:2
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Stade de Soliman\, Sulayman
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140989@anstoss
+DTSTAMP:20240228T180000Z
+DTSTART:20240228T180000Z
+DTEND:20240228T200000Z
+SUMMARY:Morocco – Tunisia 4:1
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Stade Prince Moulay El Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178195@anstoss
+DTSTAMP:20240405T170000Z
+DTSTART:20240405T170000Z
+DTEND:20240405T190000Z
+SUMMARY:Zambia – Morocco 1:2
+DESCRIPTION:Olympics Women - Qualification CAF · 4th Round
+LOCATION:Levy Mwanawasa Stadium\, Ndola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178195.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178196@anstoss
+DTSTAMP:20240410T200000Z
+DTSTART:20240410T200000Z
+DTEND:20240410T220000Z
+SUMMARY:Morocco – Zambia 0:2
+DESCRIPTION:Olympics Women - Qualification CAF · 4th Round
+LOCATION:Stade Prince Moulay El Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178196.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529301@anstoss
+DTSTAMP:20260227T220000Z
+DTSTART:20260227T220000Z
+DTEND:20260228T000000Z
+SUMMARY:Morocco – Burkina Faso 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529312@anstoss
+DTSTAMP:20260303T220000Z
+DTSTART:20260303T220000Z
+DTEND:20260304T000000Z
+SUMMARY:Morocco – Burkina Faso 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533347@anstoss
+DTSTAMP:20260307T220000Z
+DTSTART:20260307T220000Z
+DTEND:20260308T000000Z
+SUMMARY:Morocco – Cape Verde 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540258@anstoss
+DTSTAMP:20260413T200000Z
+DTSTART:20260413T200000Z
+DTEND:20260413T220000Z
+SUMMARY:Morocco – Tanzania 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540258.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540264@anstoss
+DTSTAMP:20260417T173000Z
+DTSTART:20260417T173000Z
+DTEND:20260417T193000Z
+SUMMARY:Morocco – Ghana
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540264.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540810@anstoss
+DTSTAMP:20260417T173000Z
+DTSTART:20260417T173000Z
+DTEND:20260417T193000Z
+SUMMARY:Morocco – Mali 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540810.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550861@anstoss
+DTSTAMP:20260605T180000Z
+DTSTART:20260605T180000Z
+DTEND:20260605T200000Z
+SUMMARY:Morocco – Benin 4:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544819@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:New Zealand – Morocco 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544819.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1595469@anstoss
+DTSTAMP:20260716T190000Z
+DTSTART:20260716T190000Z
+DTEND:20260716T210000Z
+SUMMARY:Morocco – Malawi 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1595469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1604187@anstoss
+DTSTAMP:20260721T190000Z
+DTSTART:20260721T190000Z
+DTEND:20260721T210000Z
+SUMMARY:Morocco – Cape Verde 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600199@anstoss
+DTSTAMP:20260726T200000Z
+DTSTART:20260726T200000Z
+DTEND:20260726T220000Z
+SUMMARY:Morocco – Kenya 4:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600207@anstoss
+DTSTAMP:20260730T200000Z
+DTSTART:20260730T200000Z
+DTEND:20260730T220000Z
+SUMMARY:Morocco – Algeria 1:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600215@anstoss
+DTSTAMP:20260803T200000Z
+DTSTART:20260803T200000Z
+DTEND:20260803T220000Z
+SUMMARY:Senegal – Morocco 0:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade Prince Moulay Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600215.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611361@anstoss
+DTSTAMP:20260808T200000Z
+DTSTART:20260808T200000Z
+DTEND:20260808T220000Z
+SUMMARY:Morocco – South Africa 2:1
+DESCRIPTION:Africa Cup of Nations - Women · Viertelfinale
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619531@anstoss
+DTSTAMP:20260812T200000Z
+DTSTART:20260812T200000Z
+DTEND:20260812T220000Z
+SUMMARY:Morocco – Cameroon 0:0
+DESCRIPTION:Africa Cup of Nations - Women · Halbfinale
+LOCATION:Stade de Marrakech\, Marrakech
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619531.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623381@anstoss
+DTSTAMP:20260815T170000Z
+DTSTART:20260815T170000Z
+DTEND:20260815T190000Z
+SUMMARY:Morocco – Algeria 1:1
+DESCRIPTION:Africa Cup of Nations - Women · Spiel um Platz 3
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623381.ht
+ ml
+END:VEVENT
+END:VCALENDAR

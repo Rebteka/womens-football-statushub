@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Costa Rica
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013556@anstoss
+DTSTAMP:20230721T073000Z
+DTSTART:20230721T073000Z
+DTEND:20230721T093000Z
+SUMMARY:Spanien – Costa Rica 3:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013556.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013570@anstoss
+DTSTAMP:20230726T050000Z
+DTSTART:20230726T050000Z
+DTEND:20230726T070000Z
+SUMMARY:Japan – Costa Rica 2:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Forsyth Barr Stadium\, Dunedin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013570.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013587@anstoss
+DTSTAMP:20230731T070000Z
+DTSTART:20230731T070000Z
+DTEND:20230731T090000Z
+SUMMARY:Costa Rica – Zambia 1:3
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:FMG Stadium Waikato\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140522@anstoss
+DTSTAMP:20230922T000000Z
+DTSTART:20230922T000000Z
+DTEND:20230922T020000Z
+SUMMARY:Haiti – Costa Rica 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140522.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140525@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Costa Rica – St. Kitts and Nevis 11:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
+ pieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140525.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140535@anstoss
+DTSTAMP:20231201T010000Z
+DTSTART:20231201T010000Z
+DTEND:20231201T030000Z
+SUMMARY:Costa Rica – Haiti 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140535.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140538@anstoss
+DTSTAMP:20231204T230000Z
+DTSTART:20231204T230000Z
+DTEND:20231205T010000Z
+SUMMARY:St. Kitts and Nevis – Costa Rica 0:19
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:St. Peter's Community Center\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140538.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159530@anstoss
+DTSTAMP:20240222T231500Z
+DTSTART:20240222T231500Z
+DTEND:20240223T011500Z
+SUMMARY:Costa Rica – Paraguay 0:1
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174966@anstoss
+DTSTAMP:20240226T010000Z
+DTSTART:20240226T010000Z
+DTEND:20240226T030000Z
+SUMMARY:El Salvador – Costa Rica 0:2
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159536@anstoss
+DTSTAMP:20240228T230000Z
+DTSTART:20240228T230000Z
+DTEND:20240229T010000Z
+SUMMARY:Kanada – Costa Rica 3:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178660@anstoss
+DTSTAMP:20240303T000000Z
+DTSTART:20240303T000000Z
+DTEND:20240303T020000Z
+SUMMARY:Kanada – Costa Rica 1:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488277@anstoss
+DTSTAMP:20251129T233000Z
+DTSTART:20251129T233000Z
+DTEND:20251130T013000Z
+SUMMARY:Grenada – Costa Rica 1:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Kirani James Athletic Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488277.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1520291@anstoss
+DTSTAMP:20260228T010000Z
+DTSTART:20260228T010000Z
+DTEND:20260228T030000Z
+SUMMARY:Costa Rica – Brasilien 2:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488295@anstoss
+DTSTAMP:20260303T230000Z
+DTSTART:20260303T230000Z
+DTEND:20260304T010000Z
+SUMMARY:Bermuda – Costa Rica 0:8
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Bermuda National Stadium\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488306@anstoss
+DTSTAMP:20260411T000000Z
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+SUMMARY:Costa Rica – Cayman Islands 21:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488321@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Costa Rica – Guatemala 3:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional de Costa Rica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545735@anstoss
+DTSTAMP:20260606T020000Z
+DTSTART:20260606T020000Z
+DTEND:20260606T040000Z
+SUMMARY:El Salvador – Costa Rica 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Jorge Gonzalez\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546560@anstoss
+DTSTAMP:20260610T013000Z
+DTSTART:20260610T013000Z
+DTEND:20260610T033000Z
+SUMMARY:Costa Rica – Kanada 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550710@anstoss
+DTSTAMP:20261127T210000Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:Jamaica – Costa Rica
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550710.ht
+ ml
+END:VEVENT
+END:VCALENDAR

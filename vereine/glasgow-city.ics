@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Glasgow City
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188770@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Rossvale – Glasgow City 0:10
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188749@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Glasgow City – Hibernian 1:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485695@anstoss
+DTSTAMP:20251005T150000Z
+DTSTART:20251005T150000Z
+DTEND:20251005T170000Z
+SUMMARY:Hamilton Academical – Glasgow City 0:5
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485695.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485697@anstoss
+DTSTAMP:20251109T130000Z
+DTSTART:20251109T130000Z
+DTEND:20251109T150000Z
+SUMMARY:Glasgow City – Aberdeen 2:0
+DESCRIPTION:SWPL Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1515234@anstoss
+DTSTAMP:20260131T171500Z
+DTSTART:20260131T171500Z
+DTEND:20260131T191500Z
+SUMMARY:Hibernian – Glasgow City 1:2
+DESCRIPTION:SWPL Cup · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515234.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538188@anstoss
+DTSTAMP:20260329T140000Z
+DTSTART:20260329T140000Z
+DTEND:20260329T160000Z
+SUMMARY:Glasgow City – Rangers 2:1
+DESCRIPTION:SWPL Cup · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538188.ht
+ ml
+END:VEVENT
+END:VCALENDAR

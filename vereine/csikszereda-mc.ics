@@ -8,6 +8,16 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1515177@anstoss
+DTSTAMP:20260207T130000Z
+DTSTART:20260207T130000Z
+DTEND:20260207T150000Z
+SUMMARY:India – Csikszereda MC 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515177.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1622615@anstoss
 DTSTAMP:20260822T100000Z
 DTSTART:20260822T100000Z
@@ -15,6 +25,17 @@ DTEND:20260822T120000Z
 SUMMARY:Gloria Bistrița-Năsăud – Csikszereda MC 2:4
 DESCRIPTION:Liga 1 Feminin · 1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1622615.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626952@anstoss
+DTSTAMP:20260826T173000Z
+DTSTART:20260826T173000Z
+DTEND:20260826T193000Z
+SUMMARY:Breidablik – Csikszereda MC 8:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626952.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -26,6 +47,18 @@ SUMMARY:Csikszereda MC – Univ. Craiova 11:1
 DESCRIPTION:Liga 1 Feminin · 2. Spieltag
 LOCATION:Stadionul Municipal\, Miercurea Ciuc
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626963@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Csikszereda MC – Breidablik 0:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadionul Municipal\, Miercurea Ciuc
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626963.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

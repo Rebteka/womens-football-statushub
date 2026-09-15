@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spain U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543320@anstoss
+DTSTAMP:20260505T170000Z
+DTSTART:20260505T170000Z
+DTEND:20260505T190000Z
+SUMMARY:Spain U17 – Finland U17 4:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543323@anstoss
+DTSTAMP:20260508T140000Z
+DTSTART:20260508T140000Z
+DTEND:20260508T160000Z
+SUMMARY:France U17 – Spain U17 1:0
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:The Showgrounds\, Coleraine
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543328@anstoss
+DTSTAMP:20260511T140000Z
+DTSTART:20260511T140000Z
+DTEND:20260511T160000Z
+SUMMARY:Poland U17 – Spain U17 1:4
+DESCRIPTION:UEFA U17 Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544863@anstoss
+DTSTAMP:20260514T170000Z
+DTSTART:20260514T170000Z
+DTEND:20260514T190000Z
+SUMMARY:Germany U17 – Spain U17 0:0
+DESCRIPTION:UEFA U17 Championship - Women · Halbfinale
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546123@anstoss
+DTSTAMP:20261019T140000Z
+DTSTART:20261019T140000Z
+DTEND:20261019T160000Z
+SUMMARY:Spain U17 – Mexico U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546123.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546132@anstoss
+DTSTAMP:20261022T140000Z
+DTSTART:20261022T140000Z
+DTEND:20261022T160000Z
+SUMMARY:Spain U17 – Australia U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546135@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Chile U17 – Spain U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546135.ht
+ ml
+END:VEVENT
+END:VCALENDAR

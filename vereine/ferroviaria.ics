@@ -8,6 +8,72 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1479289@anstoss
+DTSTAMP:20251002T230000Z
+DTSTART:20251002T230000Z
+DTEND:20251003T010000Z
+SUMMARY:ADIFFEM – Ferroviaria 0:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479294@anstoss
+DTSTAMP:20251005T230000Z
+DTSTART:20251005T230000Z
+DTEND:20251006T010000Z
+SUMMARY:Alianza Lima – Ferroviaria 1:2
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479294.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479296@anstoss
+DTSTAMP:20251008T190000Z
+DTSTART:20251008T190000Z
+DTEND:20251008T210000Z
+SUMMARY:Ferroviaria – Boca Juniors 0:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 3. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481228@anstoss
+DTSTAMP:20251011T230000Z
+DTSTART:20251011T230000Z
+DTEND:20251012T010000Z
+SUMMARY:Ferroviaria – Dragonas IDV 3:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Viertelfinale
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481500@anstoss
+DTSTAMP:20251015T230000Z
+DTSTART:20251015T230000Z
+DTEND:20251016T010000Z
+SUMMARY:Corinthians – Ferroviaria 1:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Halbfinale
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1482004@anstoss
+DTSTAMP:20251018T140000Z
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+SUMMARY:Ferroviaria – Colo-Colo 1:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · 3rd place
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1482004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1522330@anstoss
 DTSTAMP:20260215T200000Z
 DTSTART:20260215T200000Z

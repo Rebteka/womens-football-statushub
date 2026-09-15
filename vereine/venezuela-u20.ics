@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Venezuela U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205393@anstoss
+DTSTAMP:20240901T200000Z
+DTSTART:20240901T200000Z
+DTEND:20240901T220000Z
+SUMMARY:Germany U20 – Venezuela U20 5:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205407@anstoss
+DTSTAMP:20240905T010000Z
+DTSTART:20240905T010000Z
+DTEND:20240905T030000Z
+SUMMARY:Korea Republic U20 – Venezuela U20 0:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205417@anstoss
+DTSTAMP:20240907T200000Z
+DTSTART:20240907T200000Z
+DTEND:20240907T220000Z
+SUMMARY:Venezuela U20 – Nigeria U20 0:4
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516481@anstoss
+DTSTAMP:20260204T210000Z
+DTSTART:20260204T210000Z
+DTEND:20260204T230000Z
+SUMMARY:Uruguay U20 – Venezuela U20 0:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516489@anstoss
+DTSTAMP:20260208T210000Z
+DTSTART:20260208T210000Z
+DTEND:20260208T230000Z
+SUMMARY:Colombia U20 – Venezuela U20 1:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516493@anstoss
+DTSTAMP:20260210T210000Z
+DTSTART:20260210T210000Z
+DTEND:20260210T230000Z
+SUMMARY:Venezuela U20 – Paraguay U20 2:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516497@anstoss
+DTSTAMP:20260212T210000Z
+DTSTART:20260212T210000Z
+DTEND:20260212T230000Z
+SUMMARY:Venezuela U20 – Chile U20 0:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522838@anstoss
+DTSTAMP:20260216T230000Z
+DTSTART:20260216T230000Z
+DTEND:20260217T010000Z
+SUMMARY:Argentina U20 – Venezuela U20 2:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522838.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522843@anstoss
+DTSTAMP:20260219T210000Z
+DTSTART:20260219T210000Z
+DTEND:20260219T230000Z
+SUMMARY:Venezuela U20 – Paraguay U20 0:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522843.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522846@anstoss
+DTSTAMP:20260222T210000Z
+DTSTART:20260222T210000Z
+DTEND:20260222T230000Z
+SUMMARY:Venezuela U20 – Ecuador U20 2:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522846.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522849@anstoss
+DTSTAMP:20260225T230000Z
+DTSTART:20260225T230000Z
+DTEND:20260226T010000Z
+SUMMARY:Venezuela U20 – Colombia U20 0:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522849.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522850@anstoss
+DTSTAMP:20260228T233000Z
+DTSTART:20260228T233000Z
+DTEND:20260301T013000Z
+SUMMARY:Brazil U20 – Venezuela U20 2:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522850.ht
+ ml
+END:VEVENT
+END:VCALENDAR

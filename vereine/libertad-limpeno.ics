@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Libertad Limpeño
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1479389@anstoss
+DTSTAMP:20251003T190000Z
+DTSTART:20251003T190000Z
+DTEND:20251003T210000Z
+SUMMARY:Deportivo Cali – Libertad Limpeño 1:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479394@anstoss
+DTSTAMP:20251006T230000Z
+DTSTART:20251006T230000Z
+DTEND:20251007T010000Z
+SUMMARY:Libertad Limpeño – Universidad de Chile 0:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479395@anstoss
+DTSTAMP:20251009T190000Z
+DTSTART:20251009T190000Z
+DTEND:20251009T210000Z
+SUMMARY:Libertad Limpeño – Club Nacional de Football 0:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481286@anstoss
+DTSTAMP:20251012T190000Z
+DTSTART:20251012T190000Z
+DTEND:20251012T210000Z
+SUMMARY:Colo-Colo – Libertad Limpeño 1:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Viertelfinale
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481286.ht
+ ml
+END:VEVENT
+END:VCALENDAR

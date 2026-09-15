@@ -185,6 +185,29 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495377.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1626971@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:Radomlje – Vålerenga 0:2
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626972@anstoss
+DTSTAMP:20260902T164500Z
+DTSTART:20260902T164500Z
+DTEND:20260902T184500Z
+SUMMARY:Vålerenga – Radomlje 7:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495388@anstoss
 DTSTAMP:20260911T160000Z
 DTSTART:20260911T160000Z
@@ -207,6 +230,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495395.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638401@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Feyenoord – Vålerenga
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495399@anstoss
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
@@ -215,6 +248,16 @@ SUMMARY:Molde – Vålerenga
 DESCRIPTION:Toppserien · 17. Spieltag
 LOCATION:Aker Stadion\, Molde
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638427@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Vålerenga – Feyenoord
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638427.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

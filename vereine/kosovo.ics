@@ -8,6 +8,142 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193152@anstoss
+DTSTAMP:20240405T150000Z
+DTSTART:20240405T150000Z
+DTEND:20240405T170000Z
+SUMMARY:Ukraine – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Mardan Stadyumu\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193160@anstoss
+DTSTAMP:20240409T120000Z
+DTSTART:20240409T120000Z
+DTEND:20240409T140000Z
+SUMMARY:Kosovo – Wales 0:6
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193173@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:Kosovo – Croatia 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193173.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193181@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Croatia – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Stadion Branko Čavlović-Čavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193181.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193190@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Kosovo – Ukraine 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193197@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Wales – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315861@anstoss
+DTSTAMP:20250221T130000Z
+DTSTART:20250221T130000Z
+DTEND:20250221T150000Z
+SUMMARY:North Macedonia – Kosovo 0:4
+DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315870@anstoss
+DTSTAMP:20250225T130000Z
+DTSTART:20250225T130000Z
+DTEND:20250225T150000Z
+SUMMARY:Kosovo – Latvia 0:1
+DESCRIPTION:UEFA Nations League - Women · League C · 2. Spieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315888@anstoss
+DTSTAMP:20250408T120000Z
+DTSTART:20250408T120000Z
+DTEND:20250408T140000Z
+SUMMARY:Kosovo – North Macedonia 3:0
+DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315906@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Latvia – Kosovo 2:2
+DESCRIPTION:UEFA Nations League - Women · League C · 6. Spieltag
+LOCATION:LNK Sporta Parks\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478115@anstoss
+DTSTAMP:20251024T150000Z
+DTSTART:20251024T150000Z
+DTEND:20251024T170000Z
+SUMMARY:Kosovo – Turkey 0:4
+DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478123@anstoss
+DTSTAMP:20251028T170000Z
+DTSTART:20251028T170000Z
+DTEND:20251028T190000Z
+SUMMARY:Turkey – Kosovo 3:0
+DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478123.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523830@anstoss
 DTSTAMP:20260303T160000Z
 DTSTART:20260303T160000Z

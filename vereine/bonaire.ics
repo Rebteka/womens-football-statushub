@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bonaire
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140543@anstoss
+DTSTAMP:20230922T000000Z
+DTSTART:20230922T000000Z
+DTEND:20230922T020000Z
+SUMMARY:Bonaire – Turks and Caicos Islands 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:Stadion Antonio Trenidat\, Rincon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140549@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Belize – Bonaire 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:FFB Field\, Belmopán
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140549.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140555@anstoss
+DTSTAMP:20231027T000000Z
+DTSTART:20231027T000000Z
+DTEND:20231027T020000Z
+SUMMARY:Bonaire – Aruba 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Stadion Antonio Trenidat\, Rincon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140558@anstoss
+DTSTAMP:20231030T190000Z
+DTSTART:20231030T190000Z
+DTEND:20231030T210000Z
+SUMMARY:Aruba – Bonaire 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140565@anstoss
+DTSTAMP:20231201T000000Z
+DTSTART:20231201T000000Z
+DTEND:20231201T020000Z
+SUMMARY:Bonaire – Belize 1:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Stadion Antonio Trenidat\, Rincon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140565.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140571@anstoss
+DTSTAMP:20231204T210000Z
+DTSTART:20231204T210000Z
+DTEND:20231204T230000Z
+SUMMARY:Turks and Caicos Islands – Bonaire 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:TCIFA National Stadium\, Providenciales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140571.ht
+ ml
+END:VEVENT
+END:VCALENDAR

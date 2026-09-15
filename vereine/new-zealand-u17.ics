@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Zealand U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1546121@anstoss
+DTSTAMP:20261017T170000Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Morocco U17 – New Zealand U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546125@anstoss
+DTSTAMP:20261020T140000Z
+DTSTART:20261020T140000Z
+DTEND:20261020T160000Z
+SUMMARY:Argentina U17 – New Zealand U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546138@anstoss
+DTSTAMP:20261023T170000Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:New Zealand U17 – Germany U17
+DESCRIPTION:World Cup - U17 - Women · World Cup Women U17 · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546138.ht
+ ml
+END:VEVENT
+END:VCALENDAR

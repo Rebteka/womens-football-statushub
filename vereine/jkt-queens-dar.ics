@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JKT Queens Dar
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1485671@anstoss
+DTSTAMP:20251109T160000Z
+DTSTART:20251109T160000Z
+DTEND:20251109T180000Z
+SUMMARY:Gaborone United – JKT Queens Dar 0:0
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 1. Spieltag
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485671.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485745@anstoss
+DTSTAMP:20251112T160000Z
+DTSTART:20251112T160000Z
+DTEND:20251112T180000Z
+SUMMARY:JKT Queens Dar – ASEC Mimosas 1:1
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 2. Spieltag
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485676@anstoss
+DTSTAMP:20251115T160000Z
+DTSTART:20251115T160000Z
+DTEND:20251115T180000Z
+SUMMARY:JKT Queens Dar – TP Mazembe 1:4
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 3. Spieltag
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485676.ht
+ ml
+END:VEVENT
+END:VCALENDAR

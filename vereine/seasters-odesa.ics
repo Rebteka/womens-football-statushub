@@ -31,4 +31,27 @@ LOCATION:Sportklub Niederosterreich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612435.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626956@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:SeaSters Odesa – Rosenborg 1:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626969@anstoss
+DTSTAMP:20260902T160000Z
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+SUMMARY:Rosenborg – SeaSters Odesa 3:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626969.ht
+ ml
+END:VEVENT
 END:VCALENDAR

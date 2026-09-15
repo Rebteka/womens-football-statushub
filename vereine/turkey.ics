@@ -8,6 +8,188 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193155@anstoss
+DTSTAMP:20240405T170000Z
+DTSTART:20240405T170000Z
+DTEND:20240405T190000Z
+SUMMARY:Schweiz – Turkey 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193165@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Turkey – Hungary 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Siltaş Yapı Pendik Stadyumu\, İstanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193165.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193168@anstoss
+DTSTAMP:20240531T170000Z
+DTSTART:20240531T170000Z
+DTEND:20240531T190000Z
+SUMMARY:Turkey – Azerbaijan 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:13 Şubat Şehir Stadyumu\, Erzincan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193176@anstoss
+DTSTAMP:20240604T150000Z
+DTSTART:20240604T150000Z
+DTEND:20240604T170000Z
+SUMMARY:Azerbaijan – Turkey 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193184@anstoss
+DTSTAMP:20240712T173000Z
+DTSTART:20240712T173000Z
+DTEND:20240712T193000Z
+SUMMARY:Turkey – Schweiz 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Yıldız Entegre Kocaeli Stadyumu\, Kocaeli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193192@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Hungary – Turkey 1:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Alcufer Stadion\, Győr
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193192.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252901@anstoss
+DTSTAMP:20241025T150000Z
+DTSTART:20241025T150000Z
+DTEND:20241025T170000Z
+SUMMARY:Turkey – Ukraine 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Esenler Erokspor Stadyumu\, İstanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252902@anstoss
+DTSTAMP:20241029T160000Z
+DTSTART:20241029T160000Z
+DTEND:20241029T180000Z
+SUMMARY:Ukraine – Turkey 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadionul Zimbru\, Chişinău
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315808@anstoss
+DTSTAMP:20250221T193000Z
+DTSTART:20250221T193000Z
+DTEND:20250221T213000Z
+SUMMARY:Republic of Ireland – Turkey 1:0
+DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+LOCATION:Tallaght Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315808.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315816@anstoss
+DTSTAMP:20250225T153000Z
+DTSTART:20250225T153000Z
+DTEND:20250225T173000Z
+SUMMARY:Turkey – Greece 1:0
+DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+LOCATION:Esenler Stadium\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315816.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315824@anstoss
+DTSTAMP:20250404T143000Z
+DTSTART:20250404T143000Z
+DTEND:20250404T163000Z
+SUMMARY:Slovenia – Turkey 3:0
+DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+LOCATION:Športni Park Šiška\, Ljubljana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315824.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315832@anstoss
+DTSTAMP:20250408T160000Z
+DTSTART:20250408T160000Z
+DTEND:20250408T180000Z
+SUMMARY:Turkey – Slovenia 0:1
+DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+LOCATION:BG Group 4 Eylül Stadyumu\, Sivas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315832.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315840@anstoss
+DTSTAMP:20250530T170000Z
+DTSTART:20250530T170000Z
+DTEND:20250530T190000Z
+SUMMARY:Turkey – Republic of Ireland 1:2
+DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+LOCATION:Esenler Stadium\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315840.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315847@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Greece – Turkey 0:1
+DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315847.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478115@anstoss
+DTSTAMP:20251024T150000Z
+DTSTART:20251024T150000Z
+DTEND:20251024T170000Z
+SUMMARY:Kosovo – Turkey 0:4
+DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478123@anstoss
+DTSTAMP:20251028T170000Z
+DTSTART:20251028T170000Z
+DTEND:20251028T190000Z
+SUMMARY:Turkey – Kosovo 3:0
+DESCRIPTION:UEFA Nations League - Women · Playoffs B/C
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478123.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523822@anstoss
 DTSTAMP:20260303T140000Z
 DTSTART:20260303T140000Z

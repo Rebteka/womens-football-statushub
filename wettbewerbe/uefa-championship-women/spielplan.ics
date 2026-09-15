@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UEFA Championship - Women 2025
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1367624@anstoss
+DTSTAMP:20250702T160000Z
+DTSTART:20250702T160000Z
+DTEND:20250702T180000Z
+SUMMARY:Island – Finnland 0:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stockhorn Arena\, Thun
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367625@anstoss
+DTSTAMP:20250702T190000Z
+DTSTART:20250702T190000Z
+DTEND:20250702T210000Z
+SUMMARY:Schweiz – Norwegen 1:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367625.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367626@anstoss
+DTSTAMP:20250703T160000Z
+DTSTART:20250703T160000Z
+DTEND:20250703T180000Z
+SUMMARY:Belgien – Italien 0:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367627@anstoss
+DTSTAMP:20250703T190000Z
+DTSTART:20250703T190000Z
+DTEND:20250703T210000Z
+SUMMARY:Spanien – Portugal 5:0
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367627.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367628@anstoss
+DTSTAMP:20250704T160000Z
+DTSTART:20250704T160000Z
+DTEND:20250704T180000Z
+SUMMARY:Dänemark – Schweden 0:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367629@anstoss
+DTSTAMP:20250704T190000Z
+DTSTART:20250704T190000Z
+DTEND:20250704T210000Z
+SUMMARY:Deutschland – Polen 2:0
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:kybunpark\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367630@anstoss
+DTSTAMP:20250705T160000Z
+DTSTART:20250705T160000Z
+DTEND:20250705T180000Z
+SUMMARY:Wales – Niederlande 0:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:swissporarena\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367631@anstoss
+DTSTAMP:20250705T190000Z
+DTSTART:20250705T190000Z
+DTEND:20250705T210000Z
+SUMMARY:Frankreich – England 2:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367632@anstoss
+DTSTAMP:20250706T160000Z
+DTSTART:20250706T160000Z
+DTEND:20250706T180000Z
+SUMMARY:Norwegen – Finnland 2:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367633@anstoss
+DTSTAMP:20250706T190000Z
+DTSTART:20250706T190000Z
+DTEND:20250706T210000Z
+SUMMARY:Schweiz – Island 2:0
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367634@anstoss
+DTSTAMP:20250707T160000Z
+DTSTART:20250707T160000Z
+DTEND:20250707T180000Z
+SUMMARY:Spanien – Belgien 6:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stockhorn Arena\, Thun
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367634.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367635@anstoss
+DTSTAMP:20250707T190000Z
+DTSTART:20250707T190000Z
+DTEND:20250707T210000Z
+SUMMARY:Portugal – Italien 1:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367636@anstoss
+DTSTAMP:20250708T160000Z
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+SUMMARY:Deutschland – Dänemark 2:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367637@anstoss
+DTSTAMP:20250708T190000Z
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+SUMMARY:Polen – Schweden 0:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:swissporarena\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367638@anstoss
+DTSTAMP:20250709T160000Z
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+SUMMARY:England – Niederlande 4:0
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367639@anstoss
+DTSTAMP:20250709T190000Z
+DTSTART:20250709T190000Z
+DTEND:20250709T210000Z
+SUMMARY:Frankreich – Wales 4:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:kybunpark\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367641@anstoss
+DTSTAMP:20250710T190000Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+SUMMARY:Norwegen – Island 4:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stockhorn Arena\, Thun
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367640@anstoss
+DTSTAMP:20250710T190000Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+SUMMARY:Finnland – Schweiz 1:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367642@anstoss
+DTSTAMP:20250711T190000Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+SUMMARY:Italien – Spanien 1:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367643@anstoss
+DTSTAMP:20250711T190000Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+SUMMARY:Portugal – Belgien 1:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367644@anstoss
+DTSTAMP:20250712T190000Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+SUMMARY:Schweden – Deutschland 4:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367645@anstoss
+DTSTAMP:20250712T190000Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+SUMMARY:Polen – Dänemark 3:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:swissporarena\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367647@anstoss
+DTSTAMP:20250713T190000Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+SUMMARY:England – Wales 6:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:kybunpark\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367646@anstoss
+DTSTAMP:20250713T190000Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+SUMMARY:Niederlande – Frankreich 2:5
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401202@anstoss
+DTSTAMP:20250716T190000Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+SUMMARY:Norwegen – Italien 1:2
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401203@anstoss
+DTSTAMP:20250717T190000Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+SUMMARY:Schweden – England 2:2
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401204@anstoss
+DTSTAMP:20250718T190000Z
+DTSTART:20250718T190000Z
+DTEND:20250718T210000Z
+SUMMARY:Spanien – Schweiz 2:0
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401205@anstoss
+DTSTAMP:20250719T190000Z
+DTSTART:20250719T190000Z
+DTEND:20250719T210000Z
+SUMMARY:Frankreich – Deutschland 1:1
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1410000@anstoss
+DTSTAMP:20250722T190000Z
+DTSTART:20250722T190000Z
+DTEND:20250722T210000Z
+SUMMARY:England – Italien 2:1
+DESCRIPTION:UEFA Championship - Women · Halbfinale
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1410000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1410142@anstoss
+DTSTAMP:20250723T190000Z
+DTSTART:20250723T190000Z
+DTEND:20250723T210000Z
+SUMMARY:Deutschland – Spanien 0:1
+DESCRIPTION:UEFA Championship - Women · Halbfinale
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1410142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1413345@anstoss
+DTSTAMP:20250727T160000Z
+DTSTART:20250727T160000Z
+DTEND:20250727T180000Z
+SUMMARY:England – Spanien 1:1
+DESCRIPTION:UEFA Championship - Women · Finale
+LOCATION:St. Jakob-Park\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1413345.ht
+ ml
+END:VEVENT
+END:VCALENDAR

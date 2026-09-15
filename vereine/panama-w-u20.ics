@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Panama W U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1367132@anstoss
+DTSTAMP:20250529T170000Z
+DTSTART:20250529T170000Z
+DTEND:20250529T190000Z
+SUMMARY:Canada U20 – Panama W U20 7:1
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367137@anstoss
+DTSTAMP:20250531T200000Z
+DTSTART:20250531T200000Z
+DTEND:20250531T220000Z
+SUMMARY:Panama W U20 – Mexico U20 0:4
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367140@anstoss
+DTSTAMP:20250602T170000Z
+DTSTART:20250602T170000Z
+DTEND:20250602T190000Z
+SUMMARY:Panama W U20 – Nicaragua U20 4:1
+DESCRIPTION:CONCACAF Women U20 · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367140.ht
+ ml
+END:VEVENT
+END:VCALENDAR

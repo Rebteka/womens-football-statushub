@@ -8,6 +8,146 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193153@anstoss
+DTSTAMP:20240405T154500Z
+DTSTART:20240405T154500Z
+DTEND:20240405T174500Z
+SUMMARY:Hungary – Azerbaijan 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Szent Gellért Fórum\, Szeged
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193159@anstoss
+DTSTAMP:20240409T120000Z
+DTSTART:20240409T120000Z
+DTEND:20240409T140000Z
+SUMMARY:Azerbaijan – Schweiz 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193168@anstoss
+DTSTAMP:20240531T170000Z
+DTSTART:20240531T170000Z
+DTEND:20240531T190000Z
+SUMMARY:Turkey – Azerbaijan 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:13 Şubat Şehir Stadyumu\, Erzincan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193176@anstoss
+DTSTAMP:20240604T150000Z
+DTSTART:20240604T150000Z
+DTEND:20240604T170000Z
+SUMMARY:Azerbaijan – Turkey 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193183@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Azerbaijan – Hungary 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193183.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193191@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Schweiz – Azerbaijan 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Stade Olympique de la Pontaise\, Lausanne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252907@anstoss
+DTSTAMP:20241025T120000Z
+DTSTART:20241025T120000Z
+DTEND:20241025T140000Z
+SUMMARY:Azerbaijan – Portugal 1:4
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252908@anstoss
+DTSTAMP:20241029T194500Z
+DTSTART:20241029T194500Z
+DTEND:20241029T214500Z
+SUMMARY:Portugal – Azerbaijan 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Estádio Do Vizela\, Caldas de Vizela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315859@anstoss
+DTSTAMP:20250221T130000Z
+DTSTART:20250221T130000Z
+DTEND:20250221T150000Z
+SUMMARY:Azerbaijan – Montenegro 0:0
+DESCRIPTION:UEFA Nations League - Women · League C · 1. Spieltag
+LOCATION:Dalga Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315859.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315877@anstoss
+DTSTAMP:20250404T153000Z
+DTSTART:20250404T153000Z
+DTEND:20250404T173000Z
+SUMMARY:Lithuania – Azerbaijan 0:2
+DESCRIPTION:UEFA Nations League - Women · League C · 3. Spieltag
+LOCATION:FK Žalgiris namų stadionas\, Vilnius
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315877.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315886@anstoss
+DTSTAMP:20250408T160000Z
+DTSTART:20250408T160000Z
+DTEND:20250408T180000Z
+SUMMARY:Montenegro – Azerbaijan 1:1
+DESCRIPTION:UEFA Nations League - Women · League C · 4. Spieltag
+LOCATION:Stadion Gradski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315895@anstoss
+DTSTAMP:20250530T140000Z
+DTSTART:20250530T140000Z
+DTEND:20250530T160000Z
+SUMMARY:Azerbaijan – Lithuania 0:5
+DESCRIPTION:UEFA Nations League - Women · League C · 5. Spieltag
+LOCATION:ASCO Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523832@anstoss
 DTSTAMP:20260303T110000Z
 DTSTART:20260303T110000Z

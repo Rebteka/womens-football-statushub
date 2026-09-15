@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Westdyke
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188781@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Westdyke – Greenock Morton 5:3
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Lawsondale Playing Fields\, Westhill\, Aberdeenshire
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188781.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188765@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Westdyke – Stirling University 1:2
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Lawsondale Playing Fields\, Westhill\, Aberdeenshire
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188765.ht
+ ml
+END:VEVENT
+END:VCALENDAR

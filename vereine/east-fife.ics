@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Fife
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188773@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:East Fife – Dryburgh Athletic 3:0
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:MGM Timber Bayview Stadium\, Methil
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188773.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188757@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:East Fife – Renfrew 5:0
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:MGM Timber Bayview Stadium\, Methil
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188750@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:East Fife – Hearts 0:10
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:MGM Timber Bayview Stadium\, Methil
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485685@anstoss
+DTSTAMP:20250907T130000Z
+DTSTART:20250907T130000Z
+DTEND:20250907T150000Z
+SUMMARY:Livingston – East Fife 4:0
+DESCRIPTION:SWPL Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485685.ht
+ ml
+END:VEVENT
+END:VCALENDAR

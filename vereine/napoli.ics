@@ -8,6 +8,79 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1480956@anstoss
+DTSTAMP:20250920T123000Z
+DTSTART:20250920T123000Z
+DTEND:20250920T143000Z
+SUMMARY:Venezia – Napoli 1:5
+DESCRIPTION:Coppa Italia Women · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480950@anstoss
+DTSTAMP:20251220T113000Z
+DTSTART:20251220T113000Z
+DTEND:20251220T133000Z
+SUMMARY:Napoli – Sassuolo 3:1
+DESCRIPTION:Coppa Italia Women · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514288@anstoss
+DTSTAMP:20260122T170000Z
+DTSTART:20260122T170000Z
+DTEND:20260122T190000Z
+SUMMARY:Napoli – Juventus 1:2
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514292@anstoss
+DTSTAMP:20260129T193000Z
+DTSTART:20260129T193000Z
+DTEND:20260129T213000Z
+SUMMARY:Juventus – Napoli 2:1
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582314@anstoss
+DTSTAMP:20260823T183000Z
+DTSTART:20260823T183000Z
+DTEND:20260823T203000Z
+SUMMARY:Lazio – Napoli 4:2
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582320@anstoss
+DTSTAMP:20260830T160000Z
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+SUMMARY:Inter Mailand – Napoli 6:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582327@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Napoli – Parma 1:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1601250@anstoss
 DTSTAMP:20260926T103000Z
 DTSTART:20260926T103000Z

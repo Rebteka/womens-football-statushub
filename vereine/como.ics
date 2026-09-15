@@ -8,6 +8,49 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1480953@anstoss
+DTSTAMP:20251220T113000Z
+DTSTART:20251220T113000Z
+DTEND:20251220T133000Z
+SUMMARY:Ternana – Como 2:1
+DESCRIPTION:Coppa Italia Women · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582311@anstoss
+DTSTAMP:20260822T183000Z
+DTSTART:20260822T183000Z
+DTEND:20260822T203000Z
+SUMMARY:AC Milan – Como 1:1
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582321@anstoss
+DTSTAMP:20260829T160000Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:Juventus – Como 1:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582324@anstoss
+DTSTAMP:20260906T103000Z
+DTSTART:20260906T103000Z
+DTEND:20260906T123000Z
+SUMMARY:Como – Como 1907 2:1
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1601253@anstoss
 DTSTAMP:20260927T103000Z
 DTSTART:20260927T103000Z

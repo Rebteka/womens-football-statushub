@@ -8,6 +8,357 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1013561@anstoss
+DTSTAMP:20230723T050000Z
+DTSTART:20230723T050000Z
+DTEND:20230723T070000Z
+SUMMARY:Schweden – South Africa 2:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013561.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013579@anstoss
+DTSTAMP:20230729T073000Z
+DTSTART:20230729T073000Z
+DTEND:20230729T093000Z
+SUMMARY:Schweden – Italien 5:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013579.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013594@anstoss
+DTSTAMP:20230802T070000Z
+DTSTART:20230802T070000Z
+DTEND:20230802T090000Z
+SUMMARY:Argentina – Schweden 0:2
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:FMG Stadium Waikato\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013594.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1104376@anstoss
+DTSTAMP:20230806T090000Z
+DTSTART:20230806T090000Z
+DTEND:20230806T110000Z
+SUMMARY:Schweden – USA 0:0
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Melbourne Rectangular Stadium\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1104376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1113421@anstoss
+DTSTAMP:20230811T073000Z
+DTSTART:20230811T073000Z
+DTEND:20230811T093000Z
+SUMMARY:Japan – Schweden 1:2
+DESCRIPTION:World Cup - Women · Viertelfinale
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1113421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1116446@anstoss
+DTSTAMP:20230815T080000Z
+DTSTART:20230815T080000Z
+DTEND:20230815T100000Z
+SUMMARY:Spanien – Schweden 2:1
+DESCRIPTION:World Cup - Women · Halbfinale
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1116446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1119622@anstoss
+DTSTAMP:20230819T080000Z
+DTSTART:20230819T080000Z
+DTEND:20230819T100000Z
+SUMMARY:Schweden – Australien 2:0
+DESCRIPTION:World Cup - Women · Spiel um Platz 3
+LOCATION:Suncorp Stadium\, Brisbane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1119622.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193109@anstoss
+DTSTAMP:20240405T190000Z
+DTSTART:20240405T190000Z
+DTEND:20240405T210000Z
+SUMMARY:England – Schweden 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Wembley Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193109.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193116@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Schweden – Frankreich 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Gamla Ullevi\, Göteborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193124@anstoss
+DTSTAMP:20240531T183000Z
+DTSTART:20240531T183000Z
+DTEND:20240531T203000Z
+SUMMARY:Republic of Ireland – Schweden 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193131@anstoss
+DTSTAMP:20240604T163000Z
+DTSTART:20240604T163000Z
+DTEND:20240604T183000Z
+SUMMARY:Schweden – Republic of Ireland 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Friends Arena\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193131.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193139@anstoss
+DTSTAMP:20240712T191000Z
+DTSTART:20240712T191000Z
+DTEND:20240712T211000Z
+SUMMARY:Frankreich – Schweden 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Stade Gaston-Gérard\, Dijon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193147@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Schweden – England 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Gamla Ullevi\, Göteborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252895@anstoss
+DTSTAMP:20241025T173000Z
+DTSTART:20241025T173000Z
+DTEND:20241025T193000Z
+SUMMARY:Luxembourg – Schweden 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stade Émile Mayrisch\, Esch-sur-Alzette
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252896@anstoss
+DTSTAMP:20241029T180000Z
+DTSTART:20241029T180000Z
+DTEND:20241029T200000Z
+SUMMARY:Schweden – Luxembourg 8:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Gamla Ullevi\, Göteborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314229@anstoss
+DTSTAMP:20241128T170000Z
+DTSTART:20241128T170000Z
+DTEND:20241128T190000Z
+SUMMARY:Serbia – Schweden 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Gradski stadion Dubočica\, Leskovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314229.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314230@anstoss
+DTSTAMP:20241203T180000Z
+DTSTART:20241203T180000Z
+DTEND:20241203T200000Z
+SUMMARY:Schweden – Serbia 6:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Tele2 Arena\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314230.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315763@anstoss
+DTSTAMP:20250221T181500Z
+DTSTART:20250221T181500Z
+DTEND:20250221T201500Z
+SUMMARY:Dänemark – Schweden 1:2
+DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+LOCATION:Odense Isstadion\, Odense
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315770@anstoss
+DTSTAMP:20250225T191500Z
+DTSTART:20250225T191500Z
+DTEND:20250225T211500Z
+SUMMARY:Wales – Schweden 1:1
+DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315779@anstoss
+DTSTAMP:20250404T170000Z
+DTSTART:20250404T170000Z
+DTEND:20250404T190000Z
+SUMMARY:Schweden – Italien 3:2
+DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+LOCATION:Strawberry Arena\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315788@anstoss
+DTSTAMP:20250408T170000Z
+DTSTART:20250408T170000Z
+DTEND:20250408T190000Z
+SUMMARY:Schweden – Wales 1:1
+DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315796@anstoss
+DTSTAMP:20250530T162000Z
+DTSTART:20250530T162000Z
+DTEND:20250530T182000Z
+SUMMARY:Italien – Schweden 0:0
+DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315796.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315803@anstoss
+DTSTAMP:20250603T173000Z
+DTSTART:20250603T173000Z
+DTEND:20250603T193000Z
+SUMMARY:Schweden – Dänemark 6:1
+DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+LOCATION:Strawberry Arena\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315803.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367628@anstoss
+DTSTAMP:20250704T160000Z
+DTSTART:20250704T160000Z
+DTEND:20250704T180000Z
+SUMMARY:Dänemark – Schweden 0:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Genève\, Lancy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367637@anstoss
+DTSTAMP:20250708T190000Z
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+SUMMARY:Polen – Schweden 0:3
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:swissporarena\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367644@anstoss
+DTSTAMP:20250712T190000Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+SUMMARY:Schweden – Deutschland 4:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1401203@anstoss
+DTSTAMP:20250717T190000Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+SUMMARY:Schweden – England 2:2
+DESCRIPTION:UEFA Championship - Women · Viertelfinale
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1401203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478110@anstoss
+DTSTAMP:20251024T180000Z
+DTSTART:20251024T180000Z
+DTEND:20251024T200000Z
+SUMMARY:Spanien – Schweden 4:0
+DESCRIPTION:UEFA Nations League - Women · Halbfinale
+LOCATION:Estadio La Rosaleda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478117@anstoss
+DTSTAMP:20251028T180000Z
+DTSTART:20251028T180000Z
+DTEND:20251028T200000Z
+SUMMARY:Schweden – Spanien 0:1
+DESCRIPTION:UEFA Nations League - Women · Halbfinale
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1484740@anstoss
+DTSTAMP:20251128T201000Z
+DTSTART:20251128T201000Z
+DTEND:20251128T221000Z
+SUMMARY:Frankreich – Schweden 2:1
+DESCRIPTION:UEFA Nations League - Women · 3rd place
+LOCATION:Stade Auguste-Delaune\, Reims
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1484740.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1484741@anstoss
+DTSTAMP:20251202T180000Z
+DTSTART:20251202T180000Z
+DTEND:20251202T200000Z
+SUMMARY:Schweden – Frankreich 2:2
+DESCRIPTION:UEFA Nations League - Women · 3rd place
+LOCATION:3Arena\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1484741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523817@anstoss
 DTSTAMP:20260303T171500Z
 DTSTART:20260303T171500Z

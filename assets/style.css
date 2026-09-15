@@ -75,7 +75,7 @@ h3 { font-size: 1.02rem; }
 .brand-mark { width: 1.35rem; height: 1.35rem; border-radius: 50%; background: radial-gradient(circle at 35% 35%, #fff 0 18%, var(--brand) 20% 100%); box-shadow: inset 0 0 0 2px var(--brand-ink); }
 .brand:hover { text-decoration: none; }
 
-.nav { display: flex; gap: .25rem; flex: 1 0 100%; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; padding-bottom: .15rem; }
+.nav { display: flex; flex-wrap: wrap; gap: .25rem; flex: 1 0 100%; padding-bottom: .15rem; }
 .nav::-webkit-scrollbar { display: none; }
 .nav-item { flex: 0 0 auto; display: flex; align-items: center; gap: .4rem; padding: .45rem .8rem; border-radius: 999px; font-weight: 600; font-size: .92rem; color: var(--ink-2); background: none; border: 0; font: inherit; cursor: pointer; white-space: nowrap; }
 .nav-item svg { width: 1.15rem; height: 1.15rem; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
@@ -122,7 +122,8 @@ h3 { font-size: 1.02rem; }
 .match-team { display: flex; align-items: center; gap: .55rem; font-weight: 600; min-width: 0; }
 .match-team span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .match-team.is-fav span { color: var(--brand); }
-.score { grid-column: 2; grid-row: 1 / span 2; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; font-variant-numeric: tabular-nums; font-weight: 800; font-size: 1.1rem; line-height: 1.4; min-width: 2.5rem; }
+.match-body > [data-score] { grid-column: 2; grid-row: 1 / span 2; display: flex; align-items: center; }
+.score { display: flex; flex-direction: column; justify-content: center; align-items: flex-end; font-variant-numeric: tabular-nums; font-weight: 800; font-size: 1.1rem; line-height: 1.4; min-width: 2.5rem; }
 .score b { color: var(--ink-3); font-weight: 700; }
 .score b.win { color: var(--ink); }
 .score-time { font-size: .95rem; font-weight: 700; color: var(--ink-2); justify-content: center; }
@@ -228,6 +229,11 @@ h3 { font-size: 1.02rem; }
 .sb-team { display: grid; justify-items: center; gap: .4rem; font-weight: 700; }
 .sb-team .logo { width: 64px; height: 64px; }
 .sb-score { display: grid; gap: .3rem; justify-items: center; font-size: clamp(2rem, 8vw, 3rem); font-weight: 900; font-variant-numeric: tabular-nums; letter-spacing: -.02em; }
+.sb-num { display: flex; align-items: baseline; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.archive { margin-top: .75rem; }
+.archive summary { cursor: pointer; color: var(--ink-2); font-weight: 600; padding: .4rem 0; }
+.archive .card-grid { margin-top: .5rem; }
 .sb-score span { color: var(--ink-3); margin: 0 .15rem; }
 .sb-score .pill { font-size: .7rem; }
 .sb-score p { font-size: .85rem; margin: 0; font-weight: 500; }

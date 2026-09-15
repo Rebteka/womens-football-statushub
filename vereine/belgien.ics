@@ -8,6 +8,247 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193108@anstoss
+DTSTAMP:20240405T184500Z
+DTSTART:20240405T184500Z
+DTEND:20240405T204500Z
+SUMMARY:Belgien – Spanien 0:7
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193111@anstoss
+DTSTAMP:20240409T160000Z
+DTSTART:20240409T160000Z
+DTEND:20240409T180000Z
+SUMMARY:Dänemark – Belgien 4:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Energi Viborg Arena\, Viborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193119@anstoss
+DTSTAMP:20240531T163000Z
+DTSTART:20240531T163000Z
+DTEND:20240531T183000Z
+SUMMARY:Tschechien – Belgien 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Fortuna Arena\, Praha
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193130@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Belgien – Tschechien 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Daio Wasabi Stayen Stadium\, St.-Trond
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193137@anstoss
+DTSTAMP:20240712T180000Z
+DTSTART:20240712T180000Z
+DTEND:20240712T200000Z
+SUMMARY:Belgien – Dänemark 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Daio Wasabi Stayen Stadium\, St.-Trond
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193145@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Spanien – Belgien 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Estadio Abanca-Riazor\, La Coruña
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252887@anstoss
+DTSTAMP:20241025T160000Z
+DTSTART:20241025T160000Z
+DTEND:20241025T180000Z
+SUMMARY:Greece – Belgien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252887.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252888@anstoss
+DTSTAMP:20241029T191500Z
+DTSTART:20241029T191500Z
+DTEND:20241029T211500Z
+SUMMARY:Belgien – Greece 5:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314223@anstoss
+DTSTAMP:20241129T170000Z
+DTSTART:20241129T170000Z
+DTEND:20241129T190000Z
+SUMMARY:Ukraine – Belgien 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Mardan Stadyumu\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314224@anstoss
+DTSTAMP:20241203T191500Z
+DTSTART:20241203T191500Z
+DTEND:20241203T211500Z
+SUMMARY:Belgien – Ukraine 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315762@anstoss
+DTSTAMP:20250221T174500Z
+DTSTART:20250221T174500Z
+DTEND:20250221T194500Z
+SUMMARY:Spanien – Belgien 3:2
+DESCRIPTION:UEFA Nations League - Women · League A · 1. Spieltag
+LOCATION:Estadio Ciudad de Valencia\, Valencia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315771@anstoss
+DTSTAMP:20250226T191500Z
+DTSTART:20250226T191500Z
+DTEND:20250226T211500Z
+SUMMARY:Belgien – Portugal 0:1
+DESCRIPTION:UEFA Nations League - Women · League A · 2. Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315771.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315777@anstoss
+DTSTAMP:20250404T190000Z
+DTSTART:20250404T190000Z
+DTEND:20250404T210000Z
+SUMMARY:England – Belgien 5:0
+DESCRIPTION:UEFA Nations League - Women · League A · 3. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315777.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315785@anstoss
+DTSTAMP:20250408T183000Z
+DTSTART:20250408T183000Z
+DTEND:20250408T203000Z
+SUMMARY:Belgien – England 3:2
+DESCRIPTION:UEFA Nations League - Women · League A · 4. Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315785.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315793@anstoss
+DTSTAMP:20250530T183000Z
+DTSTART:20250530T183000Z
+DTEND:20250530T203000Z
+SUMMARY:Belgien – Spanien 1:5
+DESCRIPTION:UEFA Nations League - Women · League A · 5. Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315793.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315801@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Portugal – Belgien 0:3
+DESCRIPTION:UEFA Nations League - Women · League A · 6. Spieltag
+LOCATION:Estádio do Marítimo\, Ilha da Madeira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315801.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367626@anstoss
+DTSTAMP:20250703T160000Z
+DTSTART:20250703T160000Z
+DTEND:20250703T180000Z
+SUMMARY:Belgien – Italien 0:1
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367634@anstoss
+DTSTAMP:20250707T160000Z
+DTSTART:20250707T160000Z
+DTEND:20250707T180000Z
+SUMMARY:Spanien – Belgien 6:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stockhorn Arena\, Thun
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367634.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1367643@anstoss
+DTSTAMP:20250711T190000Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+SUMMARY:Portugal – Belgien 1:2
+DESCRIPTION:UEFA Championship - Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade de Tourbillon\, Sion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1367643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478112@anstoss
+DTSTAMP:20251024T180000Z
+DTSTART:20251024T180000Z
+DTEND:20251024T200000Z
+SUMMARY:Republic of Ireland – Belgien 4:2
+DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1478120@anstoss
+DTSTAMP:20251028T193000Z
+DTSTART:20251028T193000Z
+DTEND:20251028T213000Z
+SUMMARY:Belgien – Republic of Ireland 2:1
+DESCRIPTION:UEFA Nations League - Women · Playoffs A/B
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1478120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523825@anstoss
 DTSTAMP:20260303T183000Z
 DTSTART:20260303T183000Z
@@ -34,7 +275,7 @@ UID:fixture-1523875@anstoss
 DTSTAMP:20260414T183000Z
 DTSTART:20260414T183000Z
 DTEND:20260414T203000Z
-SUMMARY:Scotland – Belgien 1:1
+SUMMARY:Schottland – Belgien 1:1
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
  . Spieltag
 LOCATION:Easter Road\, Edinburgh
@@ -46,7 +287,7 @@ UID:fixture-1523900@anstoss
 DTSTAMP:20260418T183000Z
 DTSTART:20260418T183000Z
 DTEND:20260418T203000Z
-SUMMARY:Belgien – Scotland 0:0
+SUMMARY:Belgien – Schottland 0:0
 DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
  . Spieltag
 LOCATION:Den Dreef\, Heverlee

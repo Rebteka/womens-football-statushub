@@ -195,6 +195,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495546.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1636787@anstoss
+DTSTAMP:20260909T164500Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:Göteborg – Häcken 0:2
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495552@anstoss
 DTSTAMP:20260913T110000Z
 DTSTART:20260913T110000Z

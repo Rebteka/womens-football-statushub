@@ -1,0 +1,2315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UEFA Championship - Women - Qualification 2024
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1193199@anstoss
+DTSTAMP:20240405T110000Z
+DTSTART:20240405T110000Z
+DTEND:20240405T130000Z
+SUMMARY:Kazakhstan – Bulgaria 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stadïon Akademïï T.S.Segïzbaeva\, Almaty
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193200@anstoss
+DTSTAMP:20240405T110000Z
+DTSTART:20240405T110000Z
+DTEND:20240405T130000Z
+SUMMARY:Armenia – Rumänien 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Armaviri Hakob Tonoyani Stadium\, Armavir
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193200.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193151@anstoss
+DTSTAMP:20240405T130000Z
+DTSTART:20240405T130000Z
+DTEND:20240405T150000Z
+SUMMARY:Slowakei – Israel 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Národné tréningové centrum SFZ\, Senec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193151.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193201@anstoss
+DTSTAMP:20240405T140000Z
+DTSTART:20240405T140000Z
+DTEND:20240405T160000Z
+SUMMARY:Cyprus – Belarus 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193201.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193202@anstoss
+DTSTAMP:20240405T143000Z
+DTSTART:20240405T143000Z
+DTEND:20240405T163000Z
+SUMMARY:Slovenia – Moldova 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Športni Park Šiška\, Ljubljana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193203@anstoss
+DTSTAMP:20240405T143000Z
+DTSTART:20240405T143000Z
+DTEND:20240405T163000Z
+SUMMARY:Latvia – North Macedonia 3:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:LNK Sporta Parks\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193204@anstoss
+DTSTAMP:20240405T143000Z
+DTSTART:20240405T143000Z
+DTEND:20240405T163000Z
+SUMMARY:Montenegro – Andorra 6:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stadion Pod Goricom\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193152@anstoss
+DTSTAMP:20240405T150000Z
+DTSTART:20240405T150000Z
+DTEND:20240405T170000Z
+SUMMARY:Ukraine – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Mardan Stadyumu\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193205@anstoss
+DTSTAMP:20240405T150000Z
+DTSTART:20240405T150000Z
+DTEND:20240405T170000Z
+SUMMARY:Georgia – Lithuania 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193153@anstoss
+DTSTAMP:20240405T154500Z
+DTSTART:20240405T154500Z
+DTEND:20240405T174500Z
+SUMMARY:Hungary – Azerbaijan 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Szent Gellért Fórum\, Szeged
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193103@anstoss
+DTSTAMP:20240405T160000Z
+DTSTART:20240405T160000Z
+DTEND:20240405T180000Z
+SUMMARY:Norwegen – Finnland 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193103.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193104@anstoss
+DTSTAMP:20240405T160000Z
+DTSTART:20240405T160000Z
+DTEND:20240405T180000Z
+SUMMARY:Tschechien – Dänemark 1:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Městský fotbalový stadion Miroslava Valenty\, Uherské Hradi
+ ště
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193104.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193154@anstoss
+DTSTAMP:20240405T160000Z
+DTSTART:20240405T160000Z
+DTEND:20240405T180000Z
+SUMMARY:Serbia – Schottland 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Gradski stadion Dubočica\, Leskovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193154.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193105@anstoss
+DTSTAMP:20240405T161500Z
+DTSTART:20240405T161500Z
+DTEND:20240405T181500Z
+SUMMARY:Italien – Niederlande 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Stadio San Vito-Luigi Marulla\, Cosenza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193105.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193106@anstoss
+DTSTAMP:20240405T164500Z
+DTSTART:20240405T164500Z
+DTEND:20240405T184500Z
+SUMMARY:Island – Polen 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193106.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193155@anstoss
+DTSTAMP:20240405T170000Z
+DTSTART:20240405T170000Z
+DTEND:20240405T190000Z
+SUMMARY:Schweiz – Turkey 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Stadion Letzigrund\, Zürich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193206@anstoss
+DTSTAMP:20240405T170000Z
+DTSTART:20240405T170000Z
+DTEND:20240405T190000Z
+SUMMARY:Greece – Faroe Islands 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193207@anstoss
+DTSTAMP:20240405T173000Z
+DTSTART:20240405T173000Z
+DTEND:20240405T193000Z
+SUMMARY:Luxembourg – Albania 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 1. S
+ pieltag
+LOCATION:Stade Émile Mayrisch\, Esch-sur-Alzette
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193156@anstoss
+DTSTAMP:20240405T180000Z
+DTSTART:20240405T180000Z
+DTEND:20240405T200000Z
+SUMMARY:Nordirland – Malta 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193157@anstoss
+DTSTAMP:20240405T181500Z
+DTSTART:20240405T181500Z
+DTEND:20240405T201500Z
+SUMMARY:Wales – Croatia 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:STōK Cae Ras\, Wrecsam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193157.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193107@anstoss
+DTSTAMP:20240405T183000Z
+DTSTART:20240405T183000Z
+DTEND:20240405T203000Z
+SUMMARY:Österreich – Deutschland 2:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Raiffeisen Arena\, Linz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193107.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193108@anstoss
+DTSTAMP:20240405T184500Z
+DTSTART:20240405T184500Z
+DTEND:20240405T204500Z
+SUMMARY:Belgien – Spanien 0:7
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193109@anstoss
+DTSTAMP:20240405T190000Z
+DTSTART:20240405T190000Z
+DTEND:20240405T210000Z
+SUMMARY:England – Schweden 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Wembley Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193109.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193110@anstoss
+DTSTAMP:20240405T191000Z
+DTSTART:20240405T191000Z
+DTEND:20240405T211000Z
+SUMMARY:Frankreich – Republic of Ireland 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 1. S
+ pieltag
+LOCATION:Stade Saint-Symphorien\, Longeville-lès-Metz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193158@anstoss
+DTSTAMP:20240405T194500Z
+DTSTART:20240405T194500Z
+DTEND:20240405T214500Z
+SUMMARY:Portugal – Bosnia-Herzegovina 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Estádio Dr. Magalhães Pessoa\, Leiria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193159@anstoss
+DTSTAMP:20240409T120000Z
+DTSTART:20240409T120000Z
+DTEND:20240409T140000Z
+SUMMARY:Azerbaijan – Schweiz 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193160@anstoss
+DTSTAMP:20240409T120000Z
+DTSTART:20240409T120000Z
+DTEND:20240409T140000Z
+SUMMARY:Kosovo – Wales 0:6
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193208@anstoss
+DTSTAMP:20240409T130000Z
+DTSTART:20240409T130000Z
+DTEND:20240409T150000Z
+SUMMARY:North Macedonia – Slovenia 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193208.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193161@anstoss
+DTSTAMP:20240409T133000Z
+DTSTART:20240409T133000Z
+DTEND:20240409T153000Z
+SUMMARY:Bosnia-Herzegovina – Nordirland 1:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193162@anstoss
+DTSTAMP:20240409T140000Z
+DTSTART:20240409T140000Z
+DTEND:20240409T160000Z
+SUMMARY:Israel – Serbia 2:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Alcufer Stadion\, Győr
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193162.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193163@anstoss
+DTSTAMP:20240409T140000Z
+DTSTART:20240409T140000Z
+DTEND:20240409T160000Z
+SUMMARY:Croatia – Ukraine 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Stadion Ivan Laljak-Ivić\, Zaprešić
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193163.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193209@anstoss
+DTSTAMP:20240409T143000Z
+DTSTART:20240409T143000Z
+DTEND:20240409T163000Z
+SUMMARY:Montenegro – Faroe Islands 5:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadion Pod Goricom\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193210@anstoss
+DTSTAMP:20240409T150000Z
+DTSTART:20240409T150000Z
+DTEND:20240409T170000Z
+SUMMARY:Moldova – Latvia 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadionul Zimbru\, Chişinău
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193210.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193211@anstoss
+DTSTAMP:20240409T150000Z
+DTSTART:20240409T150000Z
+DTEND:20240409T170000Z
+SUMMARY:Bulgaria – Armenia 2:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193211.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193111@anstoss
+DTSTAMP:20240409T160000Z
+DTSTART:20240409T160000Z
+DTEND:20240409T180000Z
+SUMMARY:Dänemark – Belgien 4:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Energi Viborg Arena\, Viborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193112@anstoss
+DTSTAMP:20240409T160000Z
+DTSTART:20240409T160000Z
+DTEND:20240409T180000Z
+SUMMARY:Polen – Österreich 1:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Stadion Miejski\, Gdynia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193212@anstoss
+DTSTAMP:20240409T160000Z
+DTSTART:20240409T160000Z
+DTEND:20240409T180000Z
+SUMMARY:Rumänien – Kazakhstan 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadionul Arcul de Triumf\, București
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193212.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193214@anstoss
+DTSTAMP:20240409T160000Z
+DTSTART:20240409T160000Z
+DTEND:20240409T180000Z
+SUMMARY:Belarus – Georgia 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193214.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193113@anstoss
+DTSTAMP:20240409T161000Z
+DTSTART:20240409T161000Z
+DTEND:20240409T181000Z
+SUMMARY:Deutschland – Island 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Neuer Tivoli\, Aachen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193113.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193114@anstoss
+DTSTAMP:20240409T161500Z
+DTSTART:20240409T161500Z
+DTEND:20240409T181500Z
+SUMMARY:Finnland – Italien 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193164@anstoss
+DTSTAMP:20240409T163000Z
+DTSTART:20240409T163000Z
+DTEND:20240409T183000Z
+SUMMARY:Malta – Portugal 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:MFA Centenary Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193164.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193213@anstoss
+DTSTAMP:20240409T163000Z
+DTSTART:20240409T163000Z
+DTEND:20240409T183000Z
+SUMMARY:Lithuania – Cyprus 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Vilniaus LFF stadionas\, Vilnius
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193213.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193115@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Spanien – Tschechien 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Estadio Municipal de El Plantío\, Burgos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193116@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Schweden – Frankreich 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Gamla Ullevi\, Göteborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193165@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Turkey – Hungary 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Siltaş Yapı Pendik Stadyumu\, İstanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193165.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193215@anstoss
+DTSTAMP:20240409T170000Z
+DTSTART:20240409T170000Z
+DTEND:20240409T190000Z
+SUMMARY:Andorra – Greece 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193215.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193216@anstoss
+DTSTAMP:20240409T180000Z
+DTSTART:20240409T180000Z
+DTEND:20240409T200000Z
+SUMMARY:Albania – Estonia 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 2. S
+ pieltag
+LOCATION:Air Albania Stadium\, Tirana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193216.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193117@anstoss
+DTSTAMP:20240409T183000Z
+DTSTART:20240409T183000Z
+DTEND:20240409T203000Z
+SUMMARY:Republic of Ireland – England 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193166@anstoss
+DTSTAMP:20240409T183500Z
+DTSTART:20240409T183500Z
+DTEND:20240409T203500Z
+SUMMARY:Schottland – Slowakei 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193166.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193118@anstoss
+DTSTAMP:20240409T184500Z
+DTSTART:20240409T184500Z
+DTEND:20240409T204500Z
+SUMMARY:Niederlande – Norwegen 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 2. S
+ pieltag
+LOCATION:Rat Verlegh Stadion\, Breda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193223@anstoss
+DTSTAMP:20240531T130000Z
+DTSTART:20240531T130000Z
+DTEND:20240531T150000Z
+SUMMARY:Armenia – Kazakhstan 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Armaviri Hakob Tonoyani Stadium\, Armavir
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193173@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:Kosovo – Croatia 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Stadiumi Zahir Pajaziti\, Besiana\, Podujevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193173.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193217@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:Lithuania – Belarus
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193217.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193220@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:North Macedonia – Moldova 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193220.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193221@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:Greece – Montenegro 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193224@anstoss
+DTSTAMP:20240531T150000Z
+DTSTART:20240531T150000Z
+DTEND:20240531T170000Z
+SUMMARY:Estonia – Albania 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:A. Le Coq Arena\, Tallinn
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193225@anstoss
+DTSTAMP:20240531T154500Z
+DTSTART:20240531T154500Z
+DTEND:20240531T174500Z
+SUMMARY:Faroe Islands – Andorra 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193121@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Österreich – Island 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Innviertel Arena\, Ried Im Innkreis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193122@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Norwegen – Italien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193170@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Serbia – Slowakei 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Stadion na Banovom brdu\, Beograd
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193170.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193218@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Cyprus – Georgia 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193218.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193219@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Slovenia – Latvia 6:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Mestni Štadion Fazanerija\, Murska Sobota
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193219.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193222@anstoss
+DTSTAMP:20240531T160000Z
+DTSTART:20240531T160000Z
+DTEND:20240531T180000Z
+SUMMARY:Rumänien – Bulgaria 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 3. S
+ pieltag
+LOCATION:Stadionul Arcul de Triumf\, București
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193119@anstoss
+DTSTAMP:20240531T163000Z
+DTSTART:20240531T163000Z
+DTEND:20240531T183000Z
+SUMMARY:Tschechien – Belgien 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Fortuna Arena\, Praha
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193123@anstoss
+DTSTAMP:20240531T170000Z
+DTSTART:20240531T170000Z
+DTEND:20240531T190000Z
+SUMMARY:Dänemark – Spanien 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Vejle Stadion\, Vejle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193123.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193168@anstoss
+DTSTAMP:20240531T170000Z
+DTSTART:20240531T170000Z
+DTEND:20240531T190000Z
+SUMMARY:Turkey – Azerbaijan 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:13 Şubat Şehir Stadyumu\, Erzincan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193171@anstoss
+DTSTAMP:20240531T173000Z
+DTSTART:20240531T173000Z
+DTEND:20240531T193000Z
+SUMMARY:Malta – Bosnia-Herzegovina 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:MFA Centenary Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193171.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193167@anstoss
+DTSTAMP:20240531T180000Z
+DTSTART:20240531T180000Z
+DTEND:20240531T200000Z
+SUMMARY:Schweiz – Hungary 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Tissot Arena\, Biel/Bienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193169@anstoss
+DTSTAMP:20240531T180500Z
+DTSTART:20240531T180500Z
+DTEND:20240531T200500Z
+SUMMARY:Schottland – Israel 4:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193169.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193172@anstoss
+DTSTAMP:20240531T181500Z
+DTSTART:20240531T181500Z
+DTEND:20240531T201500Z
+SUMMARY:Wales – Ukraine 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193120@anstoss
+DTSTAMP:20240531T183000Z
+DTSTART:20240531T183000Z
+DTEND:20240531T203000Z
+SUMMARY:Deutschland – Polen 4:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Ostseestadion\, Rostock
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193124@anstoss
+DTSTAMP:20240531T183000Z
+DTSTART:20240531T183000Z
+DTEND:20240531T203000Z
+SUMMARY:Republic of Ireland – Schweden 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193125@anstoss
+DTSTAMP:20240531T184500Z
+DTSTART:20240531T184500Z
+DTEND:20240531T204500Z
+SUMMARY:Niederlande – Finnland 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:Sparta-Stadion Het Kasteel\, Rotterdam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193126@anstoss
+DTSTAMP:20240531T190000Z
+DTSTART:20240531T190000Z
+DTEND:20240531T210000Z
+SUMMARY:England – Frankreich 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 3. S
+ pieltag
+LOCATION:St. James' Park\, Newcastle upon Tyne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193174@anstoss
+DTSTAMP:20240531T194500Z
+DTSTART:20240531T194500Z
+DTEND:20240531T214500Z
+SUMMARY:Portugal – Nordirland 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Estádio Dr. Magalhães Pessoa\, Leiria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193178@anstoss
+DTSTAMP:20240604T140000Z
+DTSTART:20240604T140000Z
+DTEND:20240604T160000Z
+SUMMARY:Israel – Schottland 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Árok utcai pálya\, Budaörs
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193178.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193182@anstoss
+DTSTAMP:20240604T140000Z
+DTSTART:20240604T140000Z
+DTEND:20240604T160000Z
+SUMMARY:Bosnia-Herzegovina – Malta 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193182.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193231@anstoss
+DTSTAMP:20240604T140000Z
+DTSTART:20240604T140000Z
+DTEND:20240604T160000Z
+SUMMARY:Kazakhstan – Armenia 4:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Ortalyq stadıon\, Almaty
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193231.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193176@anstoss
+DTSTAMP:20240604T150000Z
+DTSTART:20240604T150000Z
+DTEND:20240604T170000Z
+SUMMARY:Azerbaijan – Turkey 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193226@anstoss
+DTSTAMP:20240604T150000Z
+DTSTART:20240604T150000Z
+DTEND:20240604T170000Z
+SUMMARY:Belarus – Lithuania
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193226.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193229@anstoss
+DTSTAMP:20240604T150000Z
+DTSTART:20240604T150000Z
+DTEND:20240604T170000Z
+SUMMARY:Latvia – Slovenia 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Slokas Stadionā\, Jūrmala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193229.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193175@anstoss
+DTSTAMP:20240604T153000Z
+DTSTART:20240604T153000Z
+DTEND:20240604T173000Z
+SUMMARY:Hungary – Schweiz 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Hidegkuti Nándor Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193175.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193234@anstoss
+DTSTAMP:20240604T154500Z
+DTSTART:20240604T154500Z
+DTEND:20240604T174500Z
+SUMMARY:Faroe Islands – Greece 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193234.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193128@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Finnland – Niederlande 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193133@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Polen – Deutschland 1:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Stadion Miejski\, Gdynia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193177@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Slowakei – Serbia 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:CITY ARENA – Štadión Antona Malatinského\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193177.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193227@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Georgia – Cyprus 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193228@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Moldova – North Macedonia 2:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Stadionul Zimbru\, Chişinău
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193232@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Bulgaria – Rumänien 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193232.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193233@anstoss
+DTSTAMP:20240604T160000Z
+DTSTART:20240604T160000Z
+DTEND:20240604T180000Z
+SUMMARY:Albania – Luxembourg 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Elbasan Arena\, Elbasan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193233.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193127@anstoss
+DTSTAMP:20240604T161500Z
+DTSTART:20240604T161500Z
+DTEND:20240604T181500Z
+SUMMARY:Italien – Norwegen 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Stadio Paolo Mazza\, Ferrara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193131@anstoss
+DTSTAMP:20240604T163000Z
+DTSTART:20240604T163000Z
+DTEND:20240604T183000Z
+SUMMARY:Schweden – Republic of Ireland 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Friends Arena\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193131.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193230@anstoss
+DTSTAMP:20240604T170000Z
+DTSTART:20240604T170000Z
+DTEND:20240604T190000Z
+SUMMARY:Andorra – Montenegro 1:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 4. S
+ pieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193230.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193130@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Belgien – Tschechien 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Daio Wasabi Stayen Stadium\, St.-Trond
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193179@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Nordirland – Portugal 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Mourneview Park\, Lurgan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193179.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193180@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Ukraine – Wales 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Stadion Respect Energy\, Grodzisk Wielkopolski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193180.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193181@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Croatia – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Stadion Branko Čavlović-Čavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193181.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193134@anstoss
+DTSTAMP:20240604T190000Z
+DTSTART:20240604T190000Z
+DTEND:20240604T210000Z
+SUMMARY:Frankreich – England 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193134.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193129@anstoss
+DTSTAMP:20240604T193000Z
+DTSTART:20240604T193000Z
+DTEND:20240604T213000Z
+SUMMARY:Spanien – Dänemark 3:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Estadio Heliodoro Rodríguez Lopéz\, Tenerife
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193129.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193132@anstoss
+DTSTAMP:20240604T193000Z
+DTSTART:20240604T193000Z
+DTEND:20240604T213000Z
+SUMMARY:Island – Österreich 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 4. S
+ pieltag
+LOCATION:Laugardalsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193241@anstoss
+DTSTAMP:20240712T140000Z
+DTSTART:20240712T140000Z
+DTEND:20240712T160000Z
+SUMMARY:Kazakhstan – Rumänien 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Ortalyq stadıon\, Almaty
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193241.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193240@anstoss
+DTSTAMP:20240712T154500Z
+DTSTART:20240712T154500Z
+DTEND:20240712T174500Z
+SUMMARY:Faroe Islands – Montenegro 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Tórsvøllur\, Tórshavn\, Streymoy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193240.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193242@anstoss
+DTSTAMP:20240712T154500Z
+DTSTART:20240712T154500Z
+DTEND:20240712T174500Z
+SUMMARY:Armenia – Bulgaria 1:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Vazgen Sargsyan anvan Hanrapetakan Marzadasht\, Yerevan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193242.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193136@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Finnland – Norwegen 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Veritas Stadion\, Åbo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193138@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Tschechien – Spanien 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Letní stadion na Zadních Vinohradech\, Chomutov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193140@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Österreich – Polen 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:CASHPOINT Arena\, Altach
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193140.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193183@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Azerbaijan – Hungary 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193183.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193190@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Kosovo – Ukraine 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193236@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Georgia – Belarus 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193236.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193141@anstoss
+DTSTAMP:20240712T161500Z
+DTSTART:20240712T161500Z
+DTEND:20240712T181500Z
+SUMMARY:Island – Deutschland 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Laugardalsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193186@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Slowakei – Schottland 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Štadión pod Zoborom\, Nitra
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193187@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Bosnia-Herzegovina – Portugal 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadion Bilino Polje\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193235@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Cyprus – Lithuania 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Stadio Dasaki Achnas\, Dasaki Achnas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193235.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193237@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:North Macedonia – Latvia 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193237.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193238@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Moldova – Slovenia 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Stadionul Zimbru\, Chişinău
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193238.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193239@anstoss
+DTSTAMP:20240712T170000Z
+DTSTART:20240712T170000Z
+DTEND:20240712T190000Z
+SUMMARY:Greece – Andorra 6:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193239.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193184@anstoss
+DTSTAMP:20240712T173000Z
+DTSTART:20240712T173000Z
+DTEND:20240712T193000Z
+SUMMARY:Turkey – Schweiz 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Yıldız Entegre Kocaeli Stadyumu\, Kocaeli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193188@anstoss
+DTSTAMP:20240712T173000Z
+DTSTART:20240712T173000Z
+DTEND:20240712T193000Z
+SUMMARY:Malta – Nordirland 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:MFA Centenary Stadium\, Ta'Qali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193188.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193243@anstoss
+DTSTAMP:20240712T173000Z
+DTSTART:20240712T173000Z
+DTEND:20240712T193000Z
+SUMMARY:Luxembourg – Estonia 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 5. S
+ pieltag
+LOCATION:Stade Émile Mayrisch\, Esch-sur-Alzette
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193137@anstoss
+DTSTAMP:20240712T180000Z
+DTSTART:20240712T180000Z
+DTEND:20240712T200000Z
+SUMMARY:Belgien – Dänemark 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Daio Wasabi Stayen Stadium\, St.-Trond
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193185@anstoss
+DTSTAMP:20240712T180000Z
+DTSTART:20240712T180000Z
+DTEND:20240712T200000Z
+SUMMARY:Serbia – Israel 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Sportski Centar Fudbalskog saveza Srbije\, Stara Pazova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193185.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193189@anstoss
+DTSTAMP:20240712T181500Z
+DTSTART:20240712T181500Z
+DTEND:20240712T201500Z
+SUMMARY:Croatia – Wales 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadion Branko Čavlović-Čavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193189.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193135@anstoss
+DTSTAMP:20240712T184500Z
+DTSTART:20240712T184500Z
+DTEND:20240712T204500Z
+SUMMARY:Niederlande – Italien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Fortuna Sittard Stadion\, Sittard
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193142@anstoss
+DTSTAMP:20240712T190000Z
+DTSTART:20240712T190000Z
+DTEND:20240712T210000Z
+SUMMARY:England – Republic of Ireland 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Carrow Road\, Norwich\, Norfolk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193139@anstoss
+DTSTAMP:20240712T191000Z
+DTSTART:20240712T191000Z
+DTEND:20240712T211000Z
+SUMMARY:Frankreich – Schweden 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 5. S
+ pieltag
+LOCATION:Stade Gaston-Gérard\, Dijon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193143@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Norwegen – Niederlande 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193144@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Italien – Finnland 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Stadio Marco Druso\, Bozen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193145@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Spanien – Belgien 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Estadio Abanca-Riazor\, La Coruña
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193146@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Dänemark – Tschechien 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Vejle Stadion\, Vejle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193146.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193147@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Schweden – England 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Gamla Ullevi\, Göteborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193148@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Republic of Ireland – Frankreich 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:SuperValu Páirc Uí Chaoimh\, Cork
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193148.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193149@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Deutschland – Österreich 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:Heinz von Heiden-Arena\, Hannover
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193149.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193150@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Polen – Island 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League A · 6. S
+ pieltag
+LOCATION:ArcelorMittal Park\, Sosnowiec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193150.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193191@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Schweiz – Azerbaijan 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Stade Olympique de la Pontaise\, Lausanne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193192@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Hungary – Turkey 1:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Alcufer Stadion\, Győr
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193192.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193193@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Schottland – Serbia 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Wyre Stadium at Firhill\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193193.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193194@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Israel – Slowakei 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Árok utcai pálya\, Budaörs
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193194.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193195@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Portugal – Malta 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Estádio Dr. Magalhães Pessoa\, Leiria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193195.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193196@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Nordirland – Bosnia-Herzegovina 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193196.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193197@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Wales – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193198@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Ukraine – Croatia 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193198.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193244@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Belarus – Cyprus 5:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193245@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Lithuania – Georgia 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:LSC Sporto kompleksas Druskininkai\, Druskininkai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193246@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Slovenia – North Macedonia 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Športni Park Aluminij\, Kidričevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193246.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193247@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Latvia – Moldova 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Daugavas Stadionā\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193248@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Montenegro – Greece 2:3
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Trening kamp FSCG Stari Aerodrom\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193249@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Andorra – Faroe Islands 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193250@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Rumänien – Armenia 3:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Stadionul Arcul de Triumf\, București
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193251@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Bulgaria – Kazakhstan 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193251.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193252@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Estonia – Luxembourg 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League C · 6. S
+ pieltag
+LOCATION:Tamme staadion\, Tartu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252905@anstoss
+DTSTAMP:20241025T120000Z
+DTSTART:20241025T120000Z
+DTEND:20241025T140000Z
+SUMMARY:Bosnia-Herzegovina – Serbia 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Nogometni kamp Reprezentacije BiH\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252907@anstoss
+DTSTAMP:20241025T120000Z
+DTSTART:20241025T120000Z
+DTEND:20241025T140000Z
+SUMMARY:Azerbaijan – Portugal 1:4
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Liv Bona Dea Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252899@anstoss
+DTSTAMP:20241025T140000Z
+DTSTART:20241025T140000Z
+DTEND:20241025T160000Z
+SUMMARY:Albania – Norwegen 0:5
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadiumi Loro Boriçi\, Shkodër
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252889@anstoss
+DTSTAMP:20241025T143000Z
+DTSTART:20241025T143000Z
+DTEND:20241025T163000Z
+SUMMARY:Montenegro – Finnland 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadion Pod Goricom\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252901@anstoss
+DTSTAMP:20241025T150000Z
+DTSTART:20241025T150000Z
+DTEND:20241025T170000Z
+SUMMARY:Turkey – Ukraine 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Esenler Erokspor Stadyumu\, İstanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252911@anstoss
+DTSTAMP:20241025T153000Z
+DTSTART:20241025T153000Z
+DTEND:20241025T173000Z
+SUMMARY:Slowakei – Wales 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Futbalový štadion NTC Poprad\, Poprad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252885@anstoss
+DTSTAMP:20241025T160000Z
+DTSTART:20241025T160000Z
+DTEND:20241025T180000Z
+SUMMARY:Rumänien – Polen 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadionul Arcul de Triumf\, București
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252885.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252887@anstoss
+DTSTAMP:20241025T160000Z
+DTSTART:20241025T160000Z
+DTEND:20241025T180000Z
+SUMMARY:Greece – Belgien 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadio Thódoros Vardinoyánnis\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252887.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252891@anstoss
+DTSTAMP:20241025T160000Z
+DTSTART:20241025T160000Z
+DTEND:20241025T180000Z
+SUMMARY:Georgia – Republic of Ireland 0:6
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Mikheil Meskhi 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252893@anstoss
+DTSTAMP:20241025T160000Z
+DTSTART:20241025T160000Z
+DTEND:20241025T180000Z
+SUMMARY:Slovenia – Österreich 0:3
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:ŠRC Bonifika\, Koper
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252909@anstoss
+DTSTAMP:20241025T161500Z
+DTSTART:20241025T161500Z
+DTEND:20241025T181500Z
+SUMMARY:Hungary – Schottland 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Bozsik Aréna\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252909.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252903@anstoss
+DTSTAMP:20241025T170000Z
+DTSTART:20241025T170000Z
+DTEND:20241025T190000Z
+SUMMARY:Croatia – Nordirland 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadion Anđelko Herjavec\, Varaždin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252903.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252895@anstoss
+DTSTAMP:20241025T173000Z
+DTSTART:20241025T173000Z
+DTEND:20241025T193000Z
+SUMMARY:Luxembourg – Schweden 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stade Émile Mayrisch\, Esch-sur-Alzette
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252897@anstoss
+DTSTAMP:20241025T183000Z
+DTSTART:20241025T183000Z
+DTEND:20241025T203000Z
+SUMMARY:Belarus – Tschechien 1:8
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:ŠRC Velika Gorica\, Velika Gorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252898@anstoss
+DTSTAMP:20241029T140000Z
+DTSTART:20241029T140000Z
+DTEND:20241029T160000Z
+SUMMARY:Tschechien – Belarus 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:ŠRC Velika Gorica\, Velika Gorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252902@anstoss
+DTSTAMP:20241029T160000Z
+DTSTART:20241029T160000Z
+DTEND:20241029T180000Z
+SUMMARY:Ukraine – Turkey 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadionul Zimbru\, Chişinău
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252890@anstoss
+DTSTAMP:20241029T163000Z
+DTSTART:20241029T163000Z
+DTEND:20241029T183000Z
+SUMMARY:Finnland – Montenegro 5:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252886@anstoss
+DTSTAMP:20241029T170000Z
+DTSTART:20241029T170000Z
+DTEND:20241029T190000Z
+SUMMARY:Polen – Rumänien 4:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Polsat Plus Arena Gdańsk\, Gdańsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252894@anstoss
+DTSTAMP:20241029T170000Z
+DTSTART:20241029T170000Z
+DTEND:20241029T190000Z
+SUMMARY:Österreich – Slovenia 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Innviertel Arena\, Ried Im Innkreis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252896@anstoss
+DTSTAMP:20241029T180000Z
+DTSTART:20241029T180000Z
+DTEND:20241029T200000Z
+SUMMARY:Schweden – Luxembourg 8:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Gamla Ullevi\, Göteborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252900@anstoss
+DTSTAMP:20241029T180000Z
+DTSTART:20241029T180000Z
+DTEND:20241029T200000Z
+SUMMARY:Norwegen – Albania 9:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252906@anstoss
+DTSTAMP:20241029T180000Z
+DTSTART:20241029T180000Z
+DTEND:20241029T200000Z
+SUMMARY:Serbia – Bosnia-Herzegovina 4:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Sportski Centar Fudbalskog saveza Srbije\, Stara Pazova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252904@anstoss
+DTSTAMP:20241029T190000Z
+DTSTART:20241029T190000Z
+DTEND:20241029T210000Z
+SUMMARY:Nordirland – Croatia 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Windsor Park\, Belfast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252888@anstoss
+DTSTAMP:20241029T191500Z
+DTSTART:20241029T191500Z
+DTEND:20241029T211500Z
+SUMMARY:Belgien – Greece 5:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252912@anstoss
+DTSTAMP:20241029T191500Z
+DTSTART:20241029T191500Z
+DTEND:20241029T211500Z
+SUMMARY:Wales – Slowakei 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Cardiff City Stadium\, Caerdydd
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252892@anstoss
+DTSTAMP:20241029T193000Z
+DTSTART:20241029T193000Z
+DTEND:20241029T213000Z
+SUMMARY:Republic of Ireland – Georgia 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Tallaght Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252910@anstoss
+DTSTAMP:20241029T193500Z
+DTSTART:20241029T193500Z
+DTEND:20241029T213500Z
+SUMMARY:Schottland – Hungary 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Easter Road Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252908@anstoss
+DTSTAMP:20241029T194500Z
+DTSTART:20241029T194500Z
+DTEND:20241029T214500Z
+SUMMARY:Portugal – Azerbaijan 4:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Estádio Do Vizela\, Caldas de Vizela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314229@anstoss
+DTSTAMP:20241128T170000Z
+DTSTART:20241128T170000Z
+DTEND:20241128T190000Z
+SUMMARY:Serbia – Schweden 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Gradski stadion Dubočica\, Leskovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314229.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314223@anstoss
+DTSTAMP:20241129T170000Z
+DTSTART:20241129T170000Z
+DTEND:20241129T190000Z
+SUMMARY:Ukraine – Belgien 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Mardan Stadyumu\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314225@anstoss
+DTSTAMP:20241129T170000Z
+DTSTART:20241129T170000Z
+DTEND:20241129T190000Z
+SUMMARY:Polen – Österreich 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Polsat Plus Arena Gdańsk\, Gdańsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314227@anstoss
+DTSTAMP:20241129T190000Z
+DTSTART:20241129T190000Z
+DTEND:20241129T210000Z
+SUMMARY:Nordirland – Norwegen 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314231@anstoss
+DTSTAMP:20241129T191500Z
+DTSTART:20241129T191500Z
+DTEND:20241129T211500Z
+SUMMARY:Wales – Republic of Ireland 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Cardiff City Stadium\, Caerdydd
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314231.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314221@anstoss
+DTSTAMP:20241129T193500Z
+DTSTART:20241129T193500Z
+DTEND:20241129T213500Z
+SUMMARY:Schottland – Finnland 0:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Easter Road Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314219@anstoss
+DTSTAMP:20241129T194500Z
+DTSTART:20241129T194500Z
+DTEND:20241129T214500Z
+SUMMARY:Portugal – Tschechien 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Estádio Do Dragão\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314219.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314220@anstoss
+DTSTAMP:20241203T164500Z
+DTSTART:20241203T164500Z
+DTEND:20241203T184500Z
+SUMMARY:Tschechien – Portugal 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:AGC Aréna Na Stínadlech\, Teplice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314220.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314228@anstoss
+DTSTAMP:20241203T170000Z
+DTSTART:20241203T170000Z
+DTEND:20241203T190000Z
+SUMMARY:Norwegen – Nordirland 3:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314222@anstoss
+DTSTAMP:20241203T171500Z
+DTSTART:20241203T171500Z
+DTEND:20241203T191500Z
+SUMMARY:Finnland – Schottland 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314226@anstoss
+DTSTAMP:20241203T171500Z
+DTSTART:20241203T171500Z
+DTEND:20241203T191500Z
+SUMMARY:Österreich – Polen 0:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Generali Arena\, Wien
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314226.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314230@anstoss
+DTSTAMP:20241203T180000Z
+DTSTART:20241203T180000Z
+DTEND:20241203T200000Z
+SUMMARY:Schweden – Serbia 6:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Tele2 Arena\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314230.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314224@anstoss
+DTSTAMP:20241203T191500Z
+DTSTART:20241203T191500Z
+DTEND:20241203T211500Z
+SUMMARY:Belgien – Ukraine 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314232@anstoss
+DTSTAMP:20241203T193000Z
+DTSTART:20241203T193000Z
+DTEND:20241203T213000Z
+SUMMARY:Republic of Ireland – Wales 1:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314232.ht
+ ml
+END:VEVENT
+END:VCALENDAR

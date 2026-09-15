@@ -108,6 +108,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1623474.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638397@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Breidablik – Czarni Sosnowiec
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1581713@anstoss
 DTSTAMP:20260927T104500Z
 DTSTART:20260927T104500Z
@@ -115,6 +125,16 @@ DTEND:20260927T124500Z
 SUMMARY:Czarni Sosnowiec – UJ Krakow
 DESCRIPTION:Ekstraliga Women · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638414@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Czarni Sosnowiec – Breidablik
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638414.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

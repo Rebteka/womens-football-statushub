@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tajikistan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1007661@anstoss
+DTSTAMP:20230405T140000Z
+DTSTART:20230405T140000Z
+DTEND:20230405T160000Z
+SUMMARY:Hong Kong – Tajikistan 3:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007673@anstoss
+DTSTAMP:20230408T140000Z
+DTSTART:20230408T140000Z
+DTEND:20230408T160000Z
+SUMMARY:Tajikistan – Philippines 0:8
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 2. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007673.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007685@anstoss
+DTSTAMP:20230411T140000Z
+DTSTART:20230411T140000Z
+DTEND:20230411T160000Z
+SUMMARY:Tajikistan – Pakistan 0:1
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Hisor Central Stadium\, Gissar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007685.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372393@anstoss
+DTSTAMP:20250629T170000Z
+DTSTART:20250629T170000Z
+DTEND:20250629T190000Z
+SUMMARY:Korea DPR – Tajikistan 10:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372409@anstoss
+DTSTAMP:20250702T170000Z
+DTSTART:20250702T170000Z
+DTEND:20250702T190000Z
+SUMMARY:Tajikistan – Malaysia 0:1
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372426@anstoss
+DTSTAMP:20250705T170000Z
+DTSTART:20250705T170000Z
+DTEND:20250705T190000Z
+SUMMARY:Palestine – Tajikistan 3:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529314@anstoss
+DTSTAMP:20260305T160000Z
+DTSTART:20260305T160000Z
+DTEND:20260305T180000Z
+SUMMARY:UAE – Tajikistan 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529314.ht
+ ml
+END:VEVENT
+END:VCALENDAR

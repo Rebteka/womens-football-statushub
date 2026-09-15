@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Australia U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205390@anstoss
+DTSTAMP:20240831T230000Z
+DTSTART:20240831T230000Z
+DTEND:20240901T010000Z
+SUMMARY:Colombia U20 – Australia U20 2:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205400@anstoss
+DTSTAMP:20240903T220000Z
+DTSTART:20240903T220000Z
+DTEND:20240904T000000Z
+SUMMARY:Mexico U20 – Australia U20 2:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205415@anstoss
+DTSTAMP:20240906T220000Z
+DTSTART:20240906T220000Z
+DTEND:20240907T000000Z
+SUMMARY:Australia U20 – Cameroon U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424267@anstoss
+DTSTAMP:20250806T170000Z
+DTSTART:20250806T170000Z
+DTEND:20250806T190000Z
+SUMMARY:Australia U20 – Tajikistan U20 14:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424267.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424276@anstoss
+DTSTAMP:20250808T140000Z
+DTSTART:20250808T140000Z
+DTEND:20250808T160000Z
+SUMMARY:Palestine U20 – Australia U20 0:3
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424285@anstoss
+DTSTAMP:20250810T140000Z
+DTSTART:20250810T140000Z
+DTEND:20250810T160000Z
+SUMMARY:Australia U20 – Chinese Taipei U20 3:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540459@anstoss
+DTSTAMP:20260402T090000Z
+DTSTART:20260402T090000Z
+DTEND:20260402T110000Z
+SUMMARY:Australia U20 – Chinese Taipei U20 5:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540465@anstoss
+DTSTAMP:20260405T090000Z
+DTSTART:20260405T090000Z
+DTEND:20260405T110000Z
+SUMMARY:India U20 – Australia U20 0:5
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540470@anstoss
+DTSTAMP:20260408T090000Z
+DTSTART:20260408T090000Z
+DTEND:20260408T110000Z
+SUMMARY:Japan U20 – Australia U20 5:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540454@anstoss
+DTSTAMP:20260412T090000Z
+DTSTART:20260412T090000Z
+DTEND:20260412T110000Z
+SUMMARY:Korea DPR U20 – Australia U20 3:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Viertelfinale
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540454.ht
+ ml
+END:VEVENT
+END:VCALENDAR

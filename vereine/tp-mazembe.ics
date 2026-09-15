@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TP Mazembe
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1485744@anstoss
+DTSTAMP:20251109T130000Z
+DTSTART:20251109T130000Z
+DTEND:20251109T150000Z
+SUMMARY:TP Mazembe – ASEC Mimosas 0:1
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 1. Spieltag
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485673@anstoss
+DTSTAMP:20251112T130000Z
+DTSTART:20251112T130000Z
+DTEND:20251112T150000Z
+SUMMARY:TP Mazembe – Gaborone United 3:0
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 2. Spieltag
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485673.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485676@anstoss
+DTSTAMP:20251115T160000Z
+DTSTART:20251115T160000Z
+DTEND:20251115T180000Z
+SUMMARY:JKT Queens Dar – TP Mazembe 1:4
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 3. Spieltag
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485676.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1486375@anstoss
+DTSTAMP:20251118T130000Z
+DTSTART:20251118T130000Z
+DTEND:20251118T150000Z
+SUMMARY:FAR Rabat – TP Mazembe 0:0
+DESCRIPTION:CAF Women's Champions League · Halbfinale
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1486375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1486873@anstoss
+DTSTAMP:20251121T130000Z
+DTSTART:20251121T130000Z
+DTEND:20251121T150000Z
+SUMMARY:TP Mazembe – Masar 3:1
+DESCRIPTION:CAF Women's Champions League · 3rd place
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1486873.ht
+ ml
+END:VEVENT
+END:VCALENDAR

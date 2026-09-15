@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spain U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205392@anstoss
+DTSTAMP:20240901T200000Z
+DTSTART:20240901T200000Z
+DTEND:20240901T220000Z
+SUMMARY:Spain U20 – United States U20 1:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205404@anstoss
+DTSTAMP:20240904T220000Z
+DTSTART:20240904T220000Z
+DTEND:20240905T000000Z
+SUMMARY:Spain U20 – Paraguay U20 2:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205418@anstoss
+DTSTAMP:20240907T230000Z
+DTSTART:20240907T230000Z
+DTEND:20240908T010000Z
+SUMMARY:Morocco U20 – Spain U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1304030@anstoss
+DTSTAMP:20240911T213000Z
+DTSTART:20240911T213000Z
+DTEND:20240911T233000Z
+SUMMARY:Spain U20 – Canada U20 2:1
+DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1304030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1305616@anstoss
+DTSTAMP:20240915T230000Z
+DTSTART:20240915T230000Z
+DTEND:20240916T010000Z
+SUMMARY:Japan U20 – Spain U20 1:0
+DESCRIPTION:World Cup - U20 - Women · Viertelfinale
+LOCATION:Estadio Atanasio Girardot\, Medellín
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1305616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526364@anstoss
+DTSTAMP:20260228T110000Z
+DTSTART:20260228T110000Z
+DTEND:20260228T130000Z
+SUMMARY:Spain U20 – England U20 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526372@anstoss
+DTSTAMP:20260303T110000Z
+DTSTART:20260303T110000Z
+DTEND:20260303T130000Z
+SUMMARY:Spain U20 – Mexico U20 5:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526381@anstoss
+DTSTAMP:20260306T100000Z
+DTSTART:20260306T100000Z
+DTEND:20260306T120000Z
+SUMMARY:Spain U20 – Netherlands U19 6:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526381.ht
+ ml
+END:VEVENT
+END:VCALENDAR

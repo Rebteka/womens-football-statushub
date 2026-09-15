@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kanada
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013554@anstoss
+DTSTAMP:20230721T023000Z
+DTSTART:20230721T023000Z
+DTEND:20230721T043000Z
+SUMMARY:Nigeria – Kanada 0:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:AAMI Park\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013554.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013572@anstoss
+DTSTAMP:20230726T120000Z
+DTSTART:20230726T120000Z
+DTEND:20230726T140000Z
+SUMMARY:Kanada – Republic of Ireland 2:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013572.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013588@anstoss
+DTSTAMP:20230731T100000Z
+DTSTART:20230731T100000Z
+DTEND:20230731T120000Z
+SUMMARY:Kanada – Australien 0:4
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:AAMI Park\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013588.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174963@anstoss
+DTSTAMP:20240223T020000Z
+DTSTART:20240223T020000Z
+DTEND:20240223T040000Z
+SUMMARY:Kanada – El Salvador 6:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159533@anstoss
+DTSTAMP:20240225T220000Z
+DTSTART:20240225T220000Z
+DTEND:20240226T000000Z
+SUMMARY:Paraguay – Kanada 0:4
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159536@anstoss
+DTSTAMP:20240228T230000Z
+DTSTART:20240228T230000Z
+DTEND:20240229T010000Z
+SUMMARY:Kanada – Costa Rica 3:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178660@anstoss
+DTSTAMP:20240303T000000Z
+DTSTART:20240303T000000Z
+DTEND:20240303T020000Z
+SUMMARY:Kanada – Costa Rica 1:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1180891@anstoss
+DTSTAMP:20240307T031500Z
+DTSTART:20240307T031500Z
+DTEND:20240307T051500Z
+SUMMARY:Kanada – USA 2:2
+DESCRIPTION:CONCACAF Gold Cup - Women · Halbfinale
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1180891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187464@anstoss
+DTSTAMP:20240725T150000Z
+DTSTART:20240725T150000Z
+DTEND:20240725T170000Z
+SUMMARY:Kanada – New Zealand 2:1
+DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187469@anstoss
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T210000Z
+SUMMARY:Frankreich – Kanada 1:2
+DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187474@anstoss
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T210000Z
+SUMMARY:Kolumbien – Kanada 0:1
+DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1274763@anstoss
+DTSTAMP:20240803T170000Z
+DTSTART:20240803T170000Z
+DTEND:20240803T190000Z
+SUMMARY:Kanada – Deutschland 0:0
+DESCRIPTION:Olympics Women · Viertelfinale
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1274763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526981@anstoss
+DTSTAMP:20260411T190000Z
+DTSTART:20260411T190000Z
+DTEND:20260411T210000Z
+SUMMARY:Kanada – Zambia 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526986@anstoss
+DTSTAMP:20260414T190000Z
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+SUMMARY:Kanada – Südkorea 3:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526991@anstoss
+DTSTAMP:20260419T013000Z
+DTSTART:20260419T013000Z
+DTEND:20260419T033000Z
+SUMMARY:Brasilien – Kanada 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546560@anstoss
+DTSTAMP:20260610T013000Z
+DTSTART:20260610T013000Z
+DTEND:20260610T033000Z
+SUMMARY:Costa Rica – Kanada 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628974@anstoss
+DTSTAMP:20261009T230000Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:Kanada – Dänemark
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628974.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1628977@anstoss
+DTSTAMP:20261012T193000Z
+DTSTART:20261012T193000Z
+DTEND:20261012T213000Z
+SUMMARY:Kanada – Dänemark
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550712@anstoss
+DTSTAMP:20261128T210000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Kanada – Panama
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550712.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Agram
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1626953@anstoss
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:Minsk – Agram 0:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Wittmann Antal park\, Minsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626960@anstoss
+DTSTAMP:20260902T143000Z
+DTSTART:20260902T143000Z
+DTEND:20260902T163000Z
+SUMMARY:Agram – Minsk 0:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626960.ht
+ ml
+END:VEVENT
+END:VCALENDAR

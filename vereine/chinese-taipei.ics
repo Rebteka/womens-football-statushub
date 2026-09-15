@@ -8,6 +8,228 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1007662@anstoss
+DTSTAMP:20230405T113000Z
+DTSTART:20230405T113000Z
+DTEND:20230405T133000Z
+SUMMARY:Lebanon – Chinese Taipei 1:5
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 1. Spielt
+ ag
+LOCATION:Fouad Shehab Stadium\, Jounie
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1007686@anstoss
+DTSTAMP:20230411T113000Z
+DTSTART:20230411T113000Z
+DTEND:20230411T133000Z
+SUMMARY:Chinese Taipei – Indonesia 4:0
+DESCRIPTION:Olympics Women - Qualification Asia · 1st Round · 3. Spielt
+ ag
+LOCATION:Fouad Shehab Stadium\, Jounie
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1007686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1027916@anstoss
+DTSTAMP:20231026T080000Z
+DTSTART:20231026T080000Z
+DTEND:20231026T100000Z
+SUMMARY:Chinese Taipei – Philippines 1:4
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034480@anstoss
+DTSTAMP:20231029T101000Z
+DTSTART:20231029T101000Z
+DTEND:20231029T121000Z
+SUMMARY:Iran – Chinese Taipei 0:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Optus Stadium\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034486@anstoss
+DTSTAMP:20231101T110000Z
+DTSTART:20231101T110000Z
+DTEND:20231101T130000Z
+SUMMARY:Australien – Chinese Taipei 3:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399958@anstoss
+DTSTAMP:20231130T020000Z
+DTSTART:20231130T020000Z
+DTEND:20231130T040000Z
+SUMMARY:Macau – Chinese Taipei 0:16
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 1. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399966@anstoss
+DTSTAMP:20231204T080000Z
+DTSTART:20231204T080000Z
+DTEND:20231204T100000Z
+SUMMARY:Chinese Taipei – Guam 3:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 3. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399957@anstoss
+DTSTAMP:20231207T120000Z
+DTSTART:20231207T120000Z
+DTEND:20231207T140000Z
+SUMMARY:Korea DPR – Chinese Taipei 5:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Playoffs · Finale
+LOCATION:Macau Olympic Complex Stadium\, Taipa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372385@anstoss
+DTSTAMP:20250629T083000Z
+DTSTART:20250629T083000Z
+DTEND:20250629T103000Z
+SUMMARY:Chinese Taipei – Pakistan 8:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Indomilk Arena\, Tangerang
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372402@anstoss
+DTSTAMP:20250702T083000Z
+DTSTART:20250702T083000Z
+DTEND:20250702T103000Z
+SUMMARY:Kyrgyz Republic – Chinese Taipei 0:3
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Indomilk Arena\, Tangerang
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372417@anstoss
+DTSTAMP:20250705T130000Z
+DTSTART:20250705T130000Z
+DTEND:20250705T150000Z
+SUMMARY:Chinese Taipei – Indonesia 2:1
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Indomilk Arena\, Tangerang
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399950@anstoss
+DTSTAMP:20250709T073000Z
+DTSTART:20250709T073000Z
+DTEND:20250709T093000Z
+SUMMARY:Japan – Chinese Taipei 4:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 1. 
+ Spieltag
+LOCATION:Suwon World Cup Stadium\, Suwon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399952@anstoss
+DTSTAMP:20250713T073000Z
+DTSTART:20250713T073000Z
+DTEND:20250713T093000Z
+SUMMARY:Chinese Taipei – China 2:4
+DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 2. 
+ Spieltag
+LOCATION:Hwaseong Stadium\, Hwaseong
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1402624@anstoss
+DTSTAMP:20250716T103000Z
+DTSTART:20250716T103000Z
+DTEND:20250716T123000Z
+SUMMARY:Südkorea – Chinese Taipei 2:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Finale Round · 3. 
+ Spieltag
+LOCATION:Suwon World Cup Stadium\, Suwon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1402624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516364@anstoss
+DTSTAMP:20260304T050000Z
+DTSTART:20260304T050000Z
+DTEND:20260304T070000Z
+SUMMARY:Japan – Chinese Taipei 2:0
+DESCRIPTION:Asian Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516370@anstoss
+DTSTAMP:20260307T050000Z
+DTSTART:20260307T050000Z
+DTEND:20260307T070000Z
+SUMMARY:Chinese Taipei – Vietnam 1:0
+DESCRIPTION:Asian Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516377@anstoss
+DTSTAMP:20260310T090000Z
+DTSTART:20260310T090000Z
+DTEND:20260310T110000Z
+SUMMARY:India – Chinese Taipei 1:3
+DESCRIPTION:Asian Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531617@anstoss
+DTSTAMP:20260314T050000Z
+DTSTART:20260314T050000Z
+DTEND:20260314T070000Z
+SUMMARY:China – Chinese Taipei 2:0
+DESCRIPTION:Asian Cup Women · Viertelfinale
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531617.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533881@anstoss
+DTSTAMP:20260319T090000Z
+DTSTART:20260319T090000Z
+DTEND:20260319T110000Z
+SUMMARY:Chinese Taipei – Korea DPR 0:4
+DESCRIPTION:Asian Cup Women · Playoffs
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1638241@anstoss
 DTSTAMP:20261128T140000Z
 DTSTART;VALUE=DATE:20261128

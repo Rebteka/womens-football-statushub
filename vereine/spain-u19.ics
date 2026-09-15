@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spain U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1561059@anstoss
+DTSTAMP:20260628T120000Z
+DTSTART:20260628T120000Z
+DTEND:20260628T140000Z
+SUMMARY:Switzerland U19 – Spain U19 2:2
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561059.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561064@anstoss
+DTSTAMP:20260701T150000Z
+DTSTART:20260701T150000Z
+DTEND:20260701T170000Z
+SUMMARY:Spain U19 – Iceland U19 4:0
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561064.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561068@anstoss
+DTSTAMP:20260704T150000Z
+DTSTART:20260704T150000Z
+DTEND:20260704T170000Z
+SUMMARY:Spain U19 – Austria U19 2:1
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+LOCATION:Bilino Polje\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561068.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1578548@anstoss
+DTSTAMP:20260707T140000Z
+DTSTART:20260707T140000Z
+DTEND:20260707T160000Z
+SUMMARY:Spain U19 – Sweden U19 3:0
+DESCRIPTION:UEFA U19 Championship - Women · Halbfinale
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1578548.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582682@anstoss
+DTSTAMP:20260710T160000Z
+DTSTART:20260710T160000Z
+DTEND:20260710T180000Z
+SUMMARY:Germany U19 – Spain U19 0:1
+DESCRIPTION:UEFA U19 Championship - Women · Finale
+LOCATION:Stadion Grbavica\, Sarajevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582682.ht
+ ml
+END:VEVENT
+END:VCALENDAR

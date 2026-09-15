@@ -8,6 +8,192 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1193152@anstoss
+DTSTAMP:20240405T150000Z
+DTSTART:20240405T150000Z
+DTEND:20240405T170000Z
+SUMMARY:Ukraine – Kosovo 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 1. S
+ pieltag
+LOCATION:Mardan Stadyumu\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193163@anstoss
+DTSTAMP:20240409T140000Z
+DTSTART:20240409T140000Z
+DTEND:20240409T160000Z
+SUMMARY:Croatia – Ukraine 1:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 2. S
+ pieltag
+LOCATION:Stadion Ivan Laljak-Ivić\, Zaprešić
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193163.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193172@anstoss
+DTSTAMP:20240531T181500Z
+DTSTART:20240531T181500Z
+DTEND:20240531T201500Z
+SUMMARY:Wales – Ukraine 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 3. S
+ pieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193180@anstoss
+DTSTAMP:20240604T180000Z
+DTSTART:20240604T180000Z
+DTEND:20240604T200000Z
+SUMMARY:Ukraine – Wales 2:2
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 4. S
+ pieltag
+LOCATION:Stadion Respect Energy\, Grodzisk Wielkopolski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193180.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193190@anstoss
+DTSTAMP:20240712T160000Z
+DTSTART:20240712T160000Z
+DTEND:20240712T180000Z
+SUMMARY:Kosovo – Ukraine 0:4
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 5. S
+ pieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1193198@anstoss
+DTSTAMP:20240716T170000Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Ukraine – Croatia 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · League B · 6. S
+ pieltag
+LOCATION:Trening centar Petar Miloševski\, Skopje
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1193198.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252901@anstoss
+DTSTAMP:20241025T150000Z
+DTSTART:20241025T150000Z
+DTEND:20241025T170000Z
+SUMMARY:Turkey – Ukraine 1:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Esenler Erokspor Stadyumu\, İstanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1252902@anstoss
+DTSTAMP:20241029T160000Z
+DTSTART:20241029T160000Z
+DTEND:20241029T180000Z
+SUMMARY:Ukraine – Turkey 2:0
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 1st 
+ Round
+LOCATION:Stadionul Zimbru\, Chişinău
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1252902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314223@anstoss
+DTSTAMP:20241129T170000Z
+DTSTART:20241129T170000Z
+DTEND:20241129T190000Z
+SUMMARY:Ukraine – Belgien 0:2
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:Mardan Stadyumu\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1314224@anstoss
+DTSTAMP:20241203T191500Z
+DTSTART:20241203T191500Z
+DTEND:20241203T211500Z
+SUMMARY:Belgien – Ukraine 2:1
+DESCRIPTION:UEFA Championship - Women - Qualification · Playoffs · 2nd 
+ Round
+LOCATION:King Power at Den Dreef Stadion\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1314224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315811@anstoss
+DTSTAMP:20250221T170000Z
+DTSTART:20250221T170000Z
+DTEND:20250221T190000Z
+SUMMARY:Albania – Ukraine 1:2
+DESCRIPTION:UEFA Nations League - Women · League B · 1. Spieltag
+LOCATION:Arena Kombetare\, Tirana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315811.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315820@anstoss
+DTSTAMP:20250225T170000Z
+DTSTART:20250225T170000Z
+DTEND:20250225T190000Z
+SUMMARY:Ukraine – Croatia 2:1
+DESCRIPTION:UEFA Nations League - Women · League B · 2. Spieltag
+LOCATION:Arena Kombetare\, Tirana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315828@anstoss
+DTSTAMP:20250404T160000Z
+DTSTART:20250404T160000Z
+DTEND:20250404T180000Z
+SUMMARY:Ukraine – Tschechien 1:0
+DESCRIPTION:UEFA Nations League - Women · League B · 3. Spieltag
+LOCATION:Stadion Górnik\, Polkowice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315828.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315836@anstoss
+DTSTAMP:20250408T153000Z
+DTSTART:20250408T153000Z
+DTEND:20250408T173000Z
+SUMMARY:Tschechien – Ukraine 1:1
+DESCRIPTION:UEFA Nations League - Women · League B · 4. Spieltag
+LOCATION:Town Stadium Usti\, Usti nad Labem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315836.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315844@anstoss
+DTSTAMP:20250530T170000Z
+DTSTART:20250530T170000Z
+DTEND:20250530T190000Z
+SUMMARY:Ukraine – Albania 2:1
+DESCRIPTION:UEFA Nations League - Women · League B · 5. Spieltag
+LOCATION:Gradski stadion Varazdin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315844.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1315852@anstoss
+DTSTAMP:20250603T170000Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:Croatia – Ukraine 2:0
+DESCRIPTION:UEFA Nations League - Women · League B · 6. Spieltag
+LOCATION:Stadion Branko Cavlovic-Cavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1315852.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1523816@anstoss
 DTSTAMP:20260303T170000Z
 DTSTART:20260303T170000Z

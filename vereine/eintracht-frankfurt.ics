@@ -107,6 +107,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1593139.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638399@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Eintracht Frankfurt – FH
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1629376@anstoss
 DTSTAMP:20260927T120000Z
 DTSTART:20260927T120000Z
@@ -114,6 +124,16 @@ DTEND:20260927T140000Z
 SUMMARY:Karlsruher SC – Eintracht Frankfurt
 DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1629376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638418@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:FH – Eintracht Frankfurt
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638418.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

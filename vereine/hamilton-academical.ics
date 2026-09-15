@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hamilton Academical
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188768@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Kilmarnock – Hamilton Academical 2:3
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:The BBSP Stadium Rugby Park\, Kilmarnock
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485695@anstoss
+DTSTAMP:20251005T150000Z
+DTSTART:20251005T150000Z
+DTEND:20251005T170000Z
+SUMMARY:Hamilton Academical – Glasgow City 0:5
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485695.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,363 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Svenska Cupen - Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1610906@anstoss
+DTSTAMP:20260804T170000Z
+DTSTART:20260804T170000Z
+DTEND:20260804T190000Z
+SUMMARY:Lunds BK – Trelleborg 1:6
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610905@anstoss
+DTSTAMP:20260804T170000Z
+DTSTART:20260804T170000Z
+DTEND:20260804T190000Z
+SUMMARY:Falkopings KIK – Alingsås 1:5
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610907@anstoss
+DTSTAMP:20260804T170000Z
+DTSTART:20260804T170000Z
+DTEND:20260804T190000Z
+SUMMARY:FC Djursholm – Enskede 0:6
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610908@anstoss
+DTSTAMP:20260804T173000Z
+DTSTART:20260804T173000Z
+DTEND:20260804T193000Z
+SUMMARY:Täby – Örebro SK 1:7
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610912@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Varbergs BoIS – Eskilsminne 0:4
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610909@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:IF Karlstad – KIF Örebro 2:3
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610909.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610911@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Ulricehamns IFK – Elfsborg 1:2
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610910@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Hu Ge – Heffnersklubbans 1:0
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610913@anstoss
+DTSTAMP:20260805T180000Z
+DTSTART:20260805T180000Z
+DTEND:20260805T200000Z
+SUMMARY:Älvsjö AIK – Lidingö 4:3
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610904@anstoss
+DTSTAMP:20260811T170000Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:Uddevalla – Göteborg 0:5
+DESCRIPTION:Svenska Cupen - Women · Round 1
+LOCATION:Kamratgarden\, Uddevalla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610916@anstoss
+DTSTAMP:20260811T170000Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:Ulvakers IF – Husqvarna 0:9
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610914@anstoss
+DTSTAMP:20260811T170000Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:Kvarnsvedens IK – Sandviken 0:6
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610914.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620628@anstoss
+DTSTAMP:20260811T170000Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:Bergnasets – Sunnanå 1:3
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620629@anstoss
+DTSTAMP:20260811T170000Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:Wreta Kloster – Linköping 1:5
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610915@anstoss
+DTSTAMP:20260811T173000Z
+DTSTART:20260811T173000Z
+DTEND:20260811T193000Z
+SUMMARY:Själevad – Umeå 0:6
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610917@anstoss
+DTSTAMP:20260811T173000Z
+DTSTART:20260811T173000Z
+DTEND:20260811T193000Z
+SUMMARY:Öckerö – Jitex 0:4
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610918@anstoss
+DTSTAMP:20260812T164500Z
+DTSTART:20260812T164500Z
+DTEND:20260812T184500Z
+SUMMARY:Boo – Gamla Upsala 0:4
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620630@anstoss
+DTSTAMP:20260812T170000Z
+DTSTART:20260812T170000Z
+DTEND:20260812T190000Z
+SUMMARY:Rappe GOIF – Värnamo 0:9
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636781@anstoss
+DTSTAMP:20260901T153000Z
+DTSTART:20260901T153000Z
+DTEND:20260901T173000Z
+SUMMARY:Trelleborg – Malmö FF 0:4
+DESCRIPTION:Svenska Cupen - Women · Round 2
+LOCATION:Vångavallen\, Trelleborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636781.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636787@anstoss
+DTSTAMP:20260909T164500Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:Göteborg – Häcken 0:2
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638737@anstoss
+DTSTAMP:20260909T173000Z
+DTSTART:20260909T173000Z
+DTEND:20260909T193000Z
+SUMMARY:Hammarby – Gamla Upsala 5:0
+DESCRIPTION:Svenska Cupen - Women · Round 2
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636786@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Gamla Upsala – Hammarby (verlegt)
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636786.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636791@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:KIF Örebro – AIK
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636791.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636792@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Linköping – Norrköping
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636792.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636794@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Sandviken – Umeå
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636794.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636782@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Alingsås – Elfsborg
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636782.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636790@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Jitex – Vittsjö
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636790.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636783@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Älvsjö AIK – Djurgården
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636783.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636793@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Örebro SK – Eskilstuna United
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636793.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636784@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Enskede – Brommapojkarna
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636784.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636785@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Eskilsminne – Rosengård
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636785.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636789@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Husqvarna – Växjö
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636796@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Värnamo – Kristianstad
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636796.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636795@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Sunnanå – Piteå
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636795.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636788@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Hu Ge – Uppsala
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636788.ht
+ ml
+END:VEVENT
+END:VCALENDAR

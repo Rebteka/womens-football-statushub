@@ -1,0 +1,1128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CONCACAF Gold Cup - Qualification - Women 2023/24
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140575@anstoss
+DTSTAMP:20230920T000000Z
+DTSTART:20230920T000000Z
+DTEND:20230920T020000Z
+SUMMARY:Dominica – Suriname 0:4
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Windsor Park Stadium\, Roseau
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140575.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140576@anstoss
+DTSTAMP:20230920T000000Z
+DTSTART:20230920T000000Z
+DTEND:20230920T020000Z
+SUMMARY:Antigua and Barbuda – Guyana 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Sir Vivian Richards Stadium\, North Sound
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140576.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140521@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Guatemala – Panama 0:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
+ pieltag
+LOCATION:Estadio Pensativo\, Antigua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140521.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140539@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Bahamas – Grenada 1:6
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:New Thomas A. Robinson National Stadium\, Nassau
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140540@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Anguilla – Cayman Islands 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140540.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140577@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Martinique – Honduras 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Stade Municipal Pierre-Aliker\, Fort-de-France
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140577.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140578@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Nicaragua – El Salvador 0:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Estadio Nacional de Fútbol\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140578.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140522@anstoss
+DTSTAMP:20230922T000000Z
+DTSTART:20230922T000000Z
+DTEND:20230922T020000Z
+SUMMARY:Haiti – Costa Rica 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140522.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140541@anstoss
+DTSTAMP:20230922T000000Z
+DTSTART:20230922T000000Z
+DTEND:20230922T020000Z
+SUMMARY:Belize – Aruba 2:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:FFB Field\, Belmopán
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140541.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140542@anstoss
+DTSTAMP:20230922T000000Z
+DTSTART:20230922T000000Z
+DTEND:20230922T020000Z
+SUMMARY:Sint Maarten – Guadeloupe
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140542.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140543@anstoss
+DTSTAMP:20230922T000000Z
+DTSTART:20230922T000000Z
+DTEND:20230922T020000Z
+SUMMARY:Bonaire – Turks and Caicos Islands 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:Stadion Antonio Trenidat\, Rincon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140523@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:Mexiko – Puerto Rico 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
+ pieltag
+LOCATION:Estadio Azteca\, D.F.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140544@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:St. Lucia – Cuba 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 1. S
+ pieltag
+LOCATION:Darren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140579@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:Bermuda – Dominican Republic 2:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
+ Parish
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140579.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140580@anstoss
+DTSTAMP:20230923T000000Z
+DTSTART:20230923T000000Z
+DTEND:20230923T020000Z
+SUMMARY:Barbados – St. Vincent / Grenadines 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140580.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140545@anstoss
+DTSTAMP:20230924T000000Z
+DTSTART:20230924T000000Z
+DTEND:20230924T020000Z
+SUMMARY:Grenada – Bahamas 4:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:Kirani James National Stadium\, St. George's
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140581@anstoss
+DTSTAMP:20230924T000000Z
+DTSTART:20230924T000000Z
+DTEND:20230924T020000Z
+SUMMARY:Guyana – Dominica 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140524@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Panama – Guatemala 2:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
+ pieltag
+LOCATION:Estadio Universitario F.C.\, Penonomé
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140524.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140546@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Turks and Caicos Islands – Aruba 0:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:TCIFA National Stadium\, Providenciales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140546.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140547@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Cayman Islands – Anguilla 2:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:Truman Bodden Sports Complex\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140582@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Suriname – Antigua and Barbuda 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140582.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140583@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:El Salvador – Martinique 9:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Estadio Las Delicias\, Santa Tecla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140525@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Costa Rica – St. Kitts and Nevis 11:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
+ pieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140525.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140548@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Cuba – Sint Maarten
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140548.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140549@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Belize – Bonaire 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:FFB Field\, Belmopán
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140549.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140550@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Guadeloupe – St. Lucia 1:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 2. S
+ pieltag
+LOCATION:Stade Valette\, Saint-Anne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140550.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140584@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Honduras – Nicaragua 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140585@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Barbados – Bermuda 0:4
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Arnos Vale Ground\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140585.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140526@anstoss
+DTSTAMP:20230927T000000Z
+DTSTART:20230927T000000Z
+DTEND:20230927T020000Z
+SUMMARY:Mexiko – Trinidad and Tobago 6:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
+ pieltag
+LOCATION:Estadio Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140586@anstoss
+DTSTAMP:20230927T000000Z
+DTSTART:20230927T000000Z
+DTEND:20230927T020000Z
+SUMMARY:Dominican Republic – Barbados 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140551@anstoss
+DTSTAMP:20231025T000000Z
+DTSTART:20231025T000000Z
+DTEND:20231025T020000Z
+SUMMARY:Grenada – US Virgin Islands 4:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Kirani James National Stadium\, St. George's
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140551.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140587@anstoss
+DTSTAMP:20231025T000000Z
+DTSTART:20231025T000000Z
+DTEND:20231025T020000Z
+SUMMARY:Dominica – Antigua and Barbuda 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Darren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140527@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Panama – Jamaica 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 3. S
+ pieltag
+LOCATION:Estadio Universitario F.C.\, Penonomé
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140527.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140588@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Suriname – Guyana 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140588.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140589@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Martinique – Nicaragua 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Stade Municipal Pierre-Aliker\, Fort-de-France
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140589.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140552@anstoss
+DTSTAMP:20231026T200000Z
+DTSTART:20231026T200000Z
+DTEND:20231026T220000Z
+SUMMARY:Turks and Caicos Islands – Belize 0:6
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:TCIFA National Stadium\, Providenciales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140552.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140553@anstoss
+DTSTAMP:20231026T203000Z
+DTSTART:20231026T203000Z
+DTEND:20231026T223000Z
+SUMMARY:Cayman Islands – Curaçao 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Truman Bodden Sports Complex\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140529@anstoss
+DTSTAMP:20231026T230000Z
+DTSTART:20231026T230000Z
+DTEND:20231027T010000Z
+SUMMARY:St. Kitts and Nevis – Haiti 0:11
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 3. S
+ pieltag
+LOCATION:St. Peter's Community Center\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140529.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140554@anstoss
+DTSTAMP:20231027T000000Z
+DTSTART:20231027T000000Z
+DTEND:20231027T020000Z
+SUMMARY:Sint Maarten – St. Lucia
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140554.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140555@anstoss
+DTSTAMP:20231027T000000Z
+DTSTART:20231027T000000Z
+DTEND:20231027T020000Z
+SUMMARY:Bonaire – Aruba 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Stadion Antonio Trenidat\, Rincon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140590@anstoss
+DTSTAMP:20231027T010000Z
+DTSTART:20231027T010000Z
+DTEND:20231027T030000Z
+SUMMARY:Honduras – El Salvador 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140590.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140591@anstoss
+DTSTAMP:20231027T190000Z
+DTSTART:20231027T190000Z
+DTEND:20231027T210000Z
+SUMMARY:Barbados – Dominican Republic 0:8
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Arnos Vale Ground\, Kingstown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140556@anstoss
+DTSTAMP:20231027T200000Z
+DTSTART:20231027T200000Z
+DTEND:20231027T220000Z
+SUMMARY:Guadeloupe – Cuba 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 3. S
+ pieltag
+LOCATION:Stade Valette\, Saint-Anne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140556.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140536@anstoss
+DTSTAMP:20231027T230000Z
+DTSTART:20231027T230000Z
+DTEND:20231028T010000Z
+SUMMARY:Trinidad and Tobago – Puerto Rico 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140592@anstoss
+DTSTAMP:20231027T230000Z
+DTSTART:20231027T230000Z
+DTEND:20231028T010000Z
+SUMMARY:Barbados – Bermuda 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140592.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140593@anstoss
+DTSTAMP:20231029T190000Z
+DTSTART:20231029T190000Z
+DTEND:20231029T210000Z
+SUMMARY:Antigua and Barbuda – Dominica 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:ABFA Technical Center\, Piggotts
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140593.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140530@anstoss
+DTSTAMP:20231029T220000Z
+DTSTART:20231029T220000Z
+DTEND:20231030T000000Z
+SUMMARY:Jamaica – Guatemala 2:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 4. S
+ pieltag
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140594@anstoss
+DTSTAMP:20231029T220000Z
+DTSTART:20231029T220000Z
+DTEND:20231030T000000Z
+SUMMARY:Guyana – Suriname 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140594.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140557@anstoss
+DTSTAMP:20231029T230000Z
+DTSTART:20231029T230000Z
+DTEND:20231030T010000Z
+SUMMARY:US Virgin Islands – Bahamas 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Bethlehem Soccer Complex\, Christiansted
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140557.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140595@anstoss
+DTSTAMP:20231030T000000Z
+DTSTART:20231030T000000Z
+DTEND:20231030T020000Z
+SUMMARY:El Salvador – Honduras 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Estadio Nacional Jorge Mágico González\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140596@anstoss
+DTSTAMP:20231030T020000Z
+DTSTART:20231030T020000Z
+DTEND:20231030T040000Z
+SUMMARY:Nicaragua – Martinique 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Estadio Nacional Dennis Martínez\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140558@anstoss
+DTSTAMP:20231030T190000Z
+DTSTART:20231030T190000Z
+DTEND:20231030T210000Z
+SUMMARY:Aruba – Bonaire 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140531@anstoss
+DTSTAMP:20231030T220000Z
+DTSTART:20231030T220000Z
+DTEND:20231031T000000Z
+SUMMARY:Haiti – St. Kitts and Nevis 13:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 4. S
+ pieltag
+LOCATION:St. Peter's Community Center\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140531.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140559@anstoss
+DTSTAMP:20231031T000000Z
+DTSTART:20231031T000000Z
+DTEND:20231031T020000Z
+SUMMARY:St. Lucia – Sint Maarten
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140559.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140560@anstoss
+DTSTAMP:20231031T000000Z
+DTSTART:20231031T000000Z
+DTEND:20231031T020000Z
+SUMMARY:Curaçao – Anguilla 5:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Football Federation Training Ground\, Willemstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140561@anstoss
+DTSTAMP:20231031T013000Z
+DTSTART:20231031T013000Z
+DTEND:20231031T033000Z
+SUMMARY:Belize – Turks and Caicos Islands 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:FFB Field\, Belmopán
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140561.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140562@anstoss
+DTSTAMP:20231031T200000Z
+DTSTART:20231031T200000Z
+DTEND:20231031T220000Z
+SUMMARY:Cuba – Guadeloupe 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 4. S
+ pieltag
+LOCATION:Estadio Antonio Maceo\, Santiago de Cuba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140562.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140597@anstoss
+DTSTAMP:20231031T223000Z
+DTSTART:20231031T223000Z
+DTEND:20231101T003000Z
+SUMMARY:Bermuda – Barbados 4:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
+ Parish
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140533@anstoss
+DTSTAMP:20231031T230000Z
+DTSTART:20231031T230000Z
+DTEND:20231101T010000Z
+SUMMARY:Puerto Rico – Trinidad and Tobago 0:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Estadio Juán Rámon Loubriel\, Bayamón
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140598@anstoss
+DTSTAMP:20231031T230000Z
+DTSTART:20231031T230000Z
+DTEND:20231101T010000Z
+SUMMARY:Dominican Republic – Barbados 4:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140600@anstoss
+DTSTAMP:20231129T190000Z
+DTSTART:20231129T190000Z
+DTEND:20231129T210000Z
+SUMMARY:Antigua and Barbuda – Suriname 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:ABFA Technical Center\, Piggotts
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140600.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140563@anstoss
+DTSTAMP:20231129T200000Z
+DTSTART:20231129T200000Z
+DTEND:20231129T220000Z
+SUMMARY:Bahamas – US Virgin Islands 1:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:The Roscow A.L. Davies Soccer Field - BFA National Centre\, Nass
+ au
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140563.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140599@anstoss
+DTSTAMP:20231129T220000Z
+DTSTART:20231129T220000Z
+DTEND:20231130T000000Z
+SUMMARY:Dominica – Guyana 0:9
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140534@anstoss
+DTSTAMP:20231130T000000Z
+DTSTART:20231130T000000Z
+DTEND:20231130T020000Z
+SUMMARY:Jamaica – Panama 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140534.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140601@anstoss
+DTSTAMP:20231130T000000Z
+DTSTART:20231130T000000Z
+DTEND:20231130T020000Z
+SUMMARY:Nicaragua – Honduras 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Estadio Independencia\, Estelí
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140602@anstoss
+DTSTAMP:20231130T000000Z
+DTSTART:20231130T000000Z
+DTEND:20231130T020000Z
+SUMMARY:Martinique – El Salvador 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Stade Municipal Pierre-Aliker\, Fort-de-France
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140564@anstoss
+DTSTAMP:20231130T190000Z
+DTSTART:20231130T190000Z
+DTEND:20231130T210000Z
+SUMMARY:Aruba – Turks and Caicos Islands 8:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140564.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140566@anstoss
+DTSTAMP:20231130T200000Z
+DTSTART:20231130T200000Z
+DTEND:20231130T220000Z
+SUMMARY:Anguilla – Curaçao 1:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140565@anstoss
+DTSTAMP:20231201T000000Z
+DTSTART:20231201T000000Z
+DTEND:20231201T020000Z
+SUMMARY:Bonaire – Belize 1:5
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Stadion Antonio Trenidat\, Rincon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140565.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140567@anstoss
+DTSTAMP:20231201T000000Z
+DTSTART:20231201T000000Z
+DTEND:20231201T020000Z
+SUMMARY:Sint Maarten – Cuba
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140567.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140535@anstoss
+DTSTAMP:20231201T010000Z
+DTSTART:20231201T010000Z
+DTEND:20231201T030000Z
+SUMMARY:Costa Rica – Haiti 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140535.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140568@anstoss
+DTSTAMP:20231201T200000Z
+DTSTART:20231201T200000Z
+DTEND:20231201T220000Z
+SUMMARY:St. Lucia – Guadeloupe 5:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 5. S
+ pieltag
+LOCATION:Darren Sammy Cricket Ground\, Gros Islet
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140568.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140604@anstoss
+DTSTAMP:20231201T230000Z
+DTSTART:20231201T230000Z
+DTEND:20231202T010000Z
+SUMMARY:Barbados – Dominican Republic 1:7
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Wildey Turf\, Bridgetown
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140603@anstoss
+DTSTAMP:20231201T233000Z
+DTSTART:20231201T233000Z
+DTEND:20231202T013000Z
+SUMMARY:Bermuda – Barbados
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Dame Flora Duffy National Sports Centre\, Hamilton\, Devonshire 
+ Parish
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140603.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140532@anstoss
+DTSTAMP:20231202T000000Z
+DTSTART:20231202T000000Z
+DTEND:20231202T020000Z
+SUMMARY:Puerto Rico – Mexiko 0:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 4. S
+ pieltag
+LOCATION:Estadio Juán Rámon Loubriel\, Bayamón
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140608@anstoss
+DTSTAMP:20231203T190000Z
+DTSTART:20231203T190000Z
+DTEND:20231203T210000Z
+SUMMARY:Honduras – Martinique 1:4
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140606@anstoss
+DTSTAMP:20231203T210000Z
+DTSTART:20231203T210000Z
+DTEND:20231203T230000Z
+SUMMARY:Guyana – Antigua and Barbuda 3:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140607@anstoss
+DTSTAMP:20231203T210000Z
+DTSTART:20231203T210000Z
+DTEND:20231203T230000Z
+SUMMARY:El Salvador – Nicaragua 4:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Estadio Nacional Jorge Mágico González\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140569@anstoss
+DTSTAMP:20231203T230000Z
+DTSTART:20231203T230000Z
+DTEND:20231204T010000Z
+SUMMARY:US Virgin Islands – Grenada 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:Bethlehem Soccer Complex\, Christiansted
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140569.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140537@anstoss
+DTSTAMP:20231204T000000Z
+DTSTART:20231204T000000Z
+DTEND:20231204T020000Z
+SUMMARY:Guatemala – Jamaica 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:Estadio Nacional Mateo Flores\, Ciudad de Guatemala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140537.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140605@anstoss
+DTSTAMP:20231204T000000Z
+DTSTART:20231204T000000Z
+DTEND:20231204T020000Z
+SUMMARY:Suriname – Dominica 11:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140605.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140570@anstoss
+DTSTAMP:20231204T190000Z
+DTSTART:20231204T190000Z
+DTEND:20231204T210000Z
+SUMMARY:Aruba – Belize 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:Compleho Deportivo Guillermo Prospero Trinidad\, Oranjestad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140570.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140571@anstoss
+DTSTAMP:20231204T210000Z
+DTSTART:20231204T210000Z
+DTEND:20231204T230000Z
+SUMMARY:Turks and Caicos Islands – Bonaire 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:TCIFA National Stadium\, Providenciales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140571.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140538@anstoss
+DTSTAMP:20231204T230000Z
+DTSTART:20231204T230000Z
+DTEND:20231205T010000Z
+SUMMARY:St. Kitts and Nevis – Costa Rica 0:19
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:St. Peter's Community Center\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140538.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140572@anstoss
+DTSTAMP:20231205T000000Z
+DTSTART:20231205T000000Z
+DTEND:20231205T020000Z
+SUMMARY:Curaçao – Cayman Islands 6:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:Football Federation Training Ground\, Willemstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140572.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140573@anstoss
+DTSTAMP:20231205T000000Z
+DTSTART:20231205T000000Z
+DTEND:20231205T020000Z
+SUMMARY:Guadeloupe – Sint Maarten
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140573.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140574@anstoss
+DTSTAMP:20231205T200000Z
+DTSTART:20231205T200000Z
+DTEND:20231205T220000Z
+SUMMARY:Cuba – St. Lucia 4:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League C · 6. S
+ pieltag
+LOCATION:Estadio Antonio Maceo\, Santiago de Cuba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140574.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140610@anstoss
+DTSTAMP:20231205T200000Z
+DTSTART:20231205T200000Z
+DTEND:20231205T220000Z
+SUMMARY:St. Vincent / Grenadines – Barbados 4:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140610.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140609@anstoss
+DTSTAMP:20231205T220000Z
+DTSTART:20231205T220000Z
+DTEND:20231206T000000Z
+SUMMARY:Dominican Republic – Bermuda 2:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Estadio Olímpico Félix Sánchez\, Santo Domingo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140528@anstoss
+DTSTAMP:20231205T230000Z
+DTSTART:20231205T230000Z
+DTEND:20231206T010000Z
+SUMMARY:Trinidad and Tobago – Mexiko 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 3. S
+ pieltag
+LOCATION:Hasely Crawford Stadium\, Port of Spain
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140528.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1146254@anstoss
+DTSTAMP:20240217T210000Z
+DTSTART:20240217T210000Z
+DTEND:20240217T230000Z
+SUMMARY:Guyana – Dominican Republic 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · Playoffs
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1146254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1146252@anstoss
+DTSTAMP:20240218T000000Z
+DTSTART:20240218T000000Z
+DTEND:20240218T020000Z
+SUMMARY:Haiti – Puerto Rico 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · Playoffs
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1146252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1146253@anstoss
+DTSTAMP:20240218T030000Z
+DTSTART:20240218T030000Z
+DTEND:20240218T050000Z
+SUMMARY:El Salvador – Guatemala 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · Playoffs
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1146253.ht
+ ml
+END:VEVENT
+END:VCALENDAR

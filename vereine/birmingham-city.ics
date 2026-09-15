@@ -8,6 +8,47 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1488457@anstoss
+DTSTAMP:20251214T140000Z
+DTSTART:20251214T140000Z
+DTEND:20251214T160000Z
+SUMMARY:Birmingham City – Sporting Khalsa 6:0
+DESCRIPTION:FA Women's Cup · 3rd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501248@anstoss
+DTSTAMP:20260118T140000Z
+DTSTART:20260118T140000Z
+DTEND:20260118T160000Z
+SUMMARY:Hull City – Birmingham City 2:6
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:MKM Stadium\, Hull
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514951@anstoss
+DTSTAMP:20260221T171500Z
+DTSTART:20260221T171500Z
+DTEND:20260221T191500Z
+SUMMARY:Birmingham City – Chatham Town 8:0
+DESCRIPTION:FA Women's Cup · Round 5
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526403@anstoss
+DTSTAMP:20260406T160000Z
+DTSTART:20260406T160000Z
+DTEND:20260406T180000Z
+SUMMARY:Birmingham City – Manchester City 0:1
+DESCRIPTION:FA Women's Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607669@anstoss
 DTSTAMP:20260906T133000Z
 DTSTART:20260906T133000Z
@@ -41,6 +82,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607679.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612633@anstoss
+DTSTAMP:20260923T180000Z
+DTSTART:20260923T180000Z
+DTEND:20260923T200000Z
+SUMMARY:Everton – Birmingham City
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Walton Hall Park\, Liverpool
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607687@anstoss
 DTSTAMP:20260927T130000Z
 DTSTART:20260927T130000Z
@@ -49,6 +101,16 @@ SUMMARY:Birmingham City – Crystal Palace
 DESCRIPTION:Women's Super League · 4. Spieltag
 LOCATION:The DCS Stadium\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607687.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612640@anstoss
+DTSTAMP:20260930T180000Z
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
+SUMMARY:Birmingham City – Liverpool
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612640.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -74,6 +136,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607699.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1612654@anstoss
+DTSTAMP:20261021T180000Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:Durham – Birmingham City
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607706@anstoss
 DTSTAMP:20261025T140000Z
 DTSTART:20261025T140000Z
@@ -82,6 +155,17 @@ SUMMARY:Birmingham City – Charlton Athletic
 DESCRIPTION:Women's Super League · 7. Spieltag
 LOCATION:The DCS Stadium\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612664@anstoss
+DTSTAMP:20261028T193000Z
+DTSTART:20261028T193000Z
+DTEND:20261028T213000Z
+SUMMARY:Aston Villa – Birmingham City
+DESCRIPTION:WSL Cup · Gruppenphase
+LOCATION:Bescot Stadium\, Walsall
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612664.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -104,6 +188,16 @@ SUMMARY:London City Lionesses – Birmingham City
 DESCRIPTION:Women's Super League · 9. Spieltag
 LOCATION:Hayes Lane\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607720.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612673@anstoss
+DTSTAMP:20261111T190000Z
+DTSTART:20261111T190000Z
+DTEND:20261111T210000Z
+SUMMARY:Birmingham City – Sunderland
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612673.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -137,6 +231,16 @@ SUMMARY:Birmingham City – Liverpool
 DESCRIPTION:Women's Super League · 12. Spieltag
 LOCATION:The DCS Stadium\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612691@anstoss
+DTSTAMP:20261216T190000Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:Birmingham City – Nottingham Forest
+DESCRIPTION:WSL Cup · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612691.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

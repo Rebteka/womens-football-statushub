@@ -131,6 +131,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501430.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1610906@anstoss
+DTSTAMP:20260804T170000Z
+DTSTART:20260804T170000Z
+DTEND:20260804T190000Z
+SUMMARY:Lunds BK – Trelleborg 1:6
+DESCRIPTION:Svenska Cupen - Women · Round 1
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1501442@anstoss
 DTSTAMP:20260808T120000Z
 DTSTART:20260808T120000Z
@@ -168,6 +178,17 @@ DTEND:20260829T140000Z
 SUMMARY:Husqvarna – Trelleborg 1:0
 DESCRIPTION:Elitettan · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636781@anstoss
+DTSTAMP:20260901T153000Z
+DTSTART:20260901T153000Z
+DTEND:20260901T173000Z
+SUMMARY:Trelleborg – Malmö FF 0:4
+DESCRIPTION:Svenska Cupen - Women · Round 2
+LOCATION:Vångavallen\, Trelleborg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636781.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

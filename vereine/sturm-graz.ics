@@ -48,6 +48,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574603.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1626958@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Sturm Graz – Gintra-Universitetas 2:1
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1574612@anstoss
 DTSTAMP:20260829T160000Z
 DTSTART:20260829T160000Z
@@ -55,6 +66,18 @@ DTEND:20260829T180000Z
 SUMMARY:Sturm Graz – Südburgenland 3:1
 DESCRIPTION:Frauenliga · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574612.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626966@anstoss
+DTSTAMP:20260902T090000Z
+DTSTART:20260902T090000Z
+DTEND:20260902T110000Z
+SUMMARY:Gintra-Universitetas – Sturm Graz 3:5
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Siauliai central stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626966.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -78,6 +101,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574622.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638411@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:VfL Wolfsburg – Sturm Graz
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1574626@anstoss
 DTSTAMP:20260927T133000Z
 DTSTART:20260927T133000Z
@@ -85,6 +118,16 @@ DTEND:20260927T153000Z
 SUMMARY:Sturm Graz – Austria Wien
 DESCRIPTION:Frauenliga · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638425@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Sturm Graz – VfL Wolfsburg
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638425.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Myanmar U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543544@anstoss
+DTSTAMP:20260501T113000Z
+DTSTART:20260501T113000Z
+DTEND:20260501T133000Z
+SUMMARY:China PR U17 – Myanmar U17 6:0
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543548@anstoss
+DTSTAMP:20260504T073000Z
+DTSTART:20260504T073000Z
+DTEND:20260504T093000Z
+SUMMARY:Myanmar U17 – Thailand U17 0:1
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543548.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543553@anstoss
+DTSTAMP:20260507T113000Z
+DTSTART:20260507T113000Z
+DTEND:20260507T133000Z
+SUMMARY:Vietnam U17 – Myanmar U17 2:1
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543553.ht
+ ml
+END:VEVENT
+END:VCALENDAR

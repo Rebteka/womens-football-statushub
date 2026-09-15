@@ -8,6 +8,83 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-605621@anstoss
+DTSTAMP:20200829T113000Z
+DTSTART:20200829T113000Z
+DTEND:20200829T133000Z
+SUMMARY:Chelsea – Manchester City 2:0
+DESCRIPTION:Community Shield Women · Finale
+LOCATION:Wembley Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/605621.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-953391@anstoss
+DTSTAMP:20220818T003000Z
+DTSTART:20220818T003000Z
+DTEND:20220818T023000Z
+SUMMARY:Lyon – Chelsea 2:2
+DESCRIPTION:International Champions Cup - Women · Semi-final
+LOCATION:Providence Park\, Portland\, Oregon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/953391.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-953394@anstoss
+DTSTAMP:20220821T000000Z
+DTSTART:20220821T000000Z
+DTEND:20220821T020000Z
+SUMMARY:Portland Thorns – Chelsea 0:1
+DESCRIPTION:International Champions Cup - Women · Spiel um Platz 3
+LOCATION:Providence Park\, Portland\, Oregon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/953394.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501242@anstoss
+DTSTAMP:20260117T123000Z
+DTSTART:20260117T123000Z
+DTEND:20260117T143000Z
+SUMMARY:Chelsea – Crystal Palace 5:0
+DESCRIPTION:FA Women's Cup · Round 4
+LOCATION:Kingsmeadow\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501242.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514954@anstoss
+DTSTAMP:20260222T133000Z
+DTSTART:20260222T133000Z
+DTEND:20260222T153000Z
+SUMMARY:Chelsea – Manchester United 2:1
+DESCRIPTION:FA Women's Cup · Round 5
+LOCATION:Kingsmeadow\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526405@anstoss
+DTSTAMP:20260406T123000Z
+DTSTART:20260406T123000Z
+DTEND:20260406T143000Z
+SUMMARY:Chelsea – Tottenham Hotspur 2:1
+DESCRIPTION:FA Women's Cup · Viertelfinale
+LOCATION:Kingsmeadow\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539874@anstoss
+DTSTAMP:20260510T143000Z
+DTSTART:20260510T143000Z
+DTEND:20260510T163000Z
+SUMMARY:Chelsea – Manchester City 2:3
+DESCRIPTION:FA Women's Cup · Halbfinale
+LOCATION:Kingsmeadow\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1623460@anstoss
 DTSTAMP:20260826T174500Z
 DTSTART:20260826T174500Z

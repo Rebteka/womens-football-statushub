@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bosnia-Herzegovina U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1561057@anstoss
+DTSTAMP:20260627T150000Z
+DTSTART:20260627T150000Z
+DTEND:20260627T170000Z
+SUMMARY:Bosnia-Herzegovina U19 – Germany U19 0:5
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561057.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561061@anstoss
+DTSTAMP:20260630T150000Z
+DTSTART:20260630T150000Z
+DTEND:20260630T170000Z
+SUMMARY:Bosnia-Herzegovina U19 – Sweden U19 0:5
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+LOCATION:Bilino Polje\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561061.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561066@anstoss
+DTSTAMP:20260703T150000Z
+DTSTART:20260703T150000Z
+DTEND:20260703T170000Z
+SUMMARY:Poland U19 – Bosnia-Herzegovina U19 5:1
+DESCRIPTION:UEFA U19 Championship - Women · Gruppenphase
+LOCATION:Stadion Grbavica\, Sarajevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561066.ht
+ ml
+END:VEVENT
+END:VCALENDAR

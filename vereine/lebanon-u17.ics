@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lebanon U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543545@anstoss
+DTSTAMP:20260502T073000Z
+DTSTART:20260502T073000Z
+DTEND:20260502T093000Z
+SUMMARY:Japan U17 – Lebanon U17 13:0
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543550@anstoss
+DTSTAMP:20260505T073000Z
+DTSTART:20260505T073000Z
+DTEND:20260505T093000Z
+SUMMARY:Lebanon U17 – Australia U17 1:1
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543550.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543554@anstoss
+DTSTAMP:20260508T073000Z
+DTSTART:20260508T073000Z
+DTEND:20260508T093000Z
+SUMMARY:India U17 – Lebanon U17 4:0
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543554.ht
+ ml
+END:VEVENT
+END:VCALENDAR

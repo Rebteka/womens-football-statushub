@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Japan U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205396@anstoss
+DTSTAMP:20240903T010000Z
+DTSTART:20240903T010000Z
+DTEND:20240903T030000Z
+SUMMARY:Japan U20 – New Zealand U20 7:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205408@anstoss
+DTSTAMP:20240905T220000Z
+DTSTART:20240905T220000Z
+DTEND:20240906T000000Z
+SUMMARY:Japan U20 – Ghana U20 4:1
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205422@anstoss
+DTSTAMP:20240908T230000Z
+DTSTART:20240908T230000Z
+DTEND:20240909T010000Z
+SUMMARY:Austria U20 – Japan U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1304035@anstoss
+DTSTAMP:20240913T010000Z
+DTSTART:20240913T010000Z
+DTEND:20240913T030000Z
+SUMMARY:Japan U20 – Nigeria U20 2:1
+DESCRIPTION:World Cup - U20 - Women · Achtelfinale
+LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1304035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1305616@anstoss
+DTSTAMP:20240915T230000Z
+DTSTART:20240915T230000Z
+DTEND:20240916T010000Z
+SUMMARY:Japan U20 – Spain U20 1:0
+DESCRIPTION:World Cup - U20 - Women · Viertelfinale
+LOCATION:Estadio Atanasio Girardot\, Medellín
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1305616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1305918@anstoss
+DTSTAMP:20240919T010000Z
+DTSTART:20240919T010000Z
+DTEND:20240919T030000Z
+SUMMARY:Japan U20 – Netherlands U20 2:0
+DESCRIPTION:World Cup - U20 - Women · Halbfinale
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1305918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1307076@anstoss
+DTSTAMP:20240922T210000Z
+DTSTART:20240922T210000Z
+DTEND:20240922T230000Z
+SUMMARY:Korea DPR U20 – Japan U20 1:0
+DESCRIPTION:World Cup - U20 - Women · Finale
+LOCATION:Estadio Nemesio Camacho El Campín\, Bogotá\, D.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1307076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424288@anstoss
+DTSTAMP:20250806T084500Z
+DTSTART:20250806T084500Z
+DTEND:20250806T104500Z
+SUMMARY:Japan U20 – Guam U20 5:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424275@anstoss
+DTSTAMP:20250808T124500Z
+DTSTART:20250808T124500Z
+DTEND:20250808T144500Z
+SUMMARY:Malaysia U20 – Japan U20 0:16
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424275.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424280@anstoss
+DTSTAMP:20250810T084500Z
+DTSTART:20250810T084500Z
+DTEND:20250810T104500Z
+SUMMARY:Japan U20 – Iran U20 11:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Kuala Lumpur Football Stadium\, Kuala Lumpur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540461@anstoss
+DTSTAMP:20260402T130000Z
+DTSTART:20260402T130000Z
+DTEND:20260402T150000Z
+SUMMARY:Japan U20 – India U20 6:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540467@anstoss
+DTSTAMP:20260405T130000Z
+DTSTART:20260405T130000Z
+DTEND:20260405T150000Z
+SUMMARY:Chinese Taipei U20 – Japan U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540470@anstoss
+DTSTAMP:20260408T090000Z
+DTSTART:20260408T090000Z
+DTEND:20260408T110000Z
+SUMMARY:Japan U20 – Australia U20 5:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540452@anstoss
+DTSTAMP:20260411T090000Z
+DTSTART:20260411T090000Z
+DTEND:20260411T110000Z
+SUMMARY:Japan U20 – Vietnam U20 4:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Viertelfinale
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540452.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540475@anstoss
+DTSTAMP:20260415T130000Z
+DTSTART:20260415T130000Z
+DTEND:20260415T150000Z
+SUMMARY:China PR U20 – Japan U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Halbfinale
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540811@anstoss
+DTSTAMP:20260418T110000Z
+DTSTART:20260418T110000Z
+DTEND:20260418T130000Z
+SUMMARY:Japan U20 – Korea DPR U20 1:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Finale
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540811.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550864@anstoss
+DTSTAMP:20260606T160000Z
+DTSTART:20260606T160000Z
+DTEND:20260606T180000Z
+SUMMARY:Canada U20 – Japan U20 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Estadio Enrique Roca\, Murcia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548484@anstoss
+DTSTAMP:20260609T100000Z
+DTSTART:20260609T100000Z
+DTEND:20260609T120000Z
+SUMMARY:England U20 – Japan U20 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548484.ht
+ ml
+END:VEVENT
+END:VCALENDAR

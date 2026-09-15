@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Singapore U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424290@anstoss
+DTSTAMP:20250806T120000Z
+DTSTART:20250806T120000Z
+DTEND:20250806T140000Z
+SUMMARY:Vietnam U20 – Singapore U20 5:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424294@anstoss
+DTSTAMP:20250808T090000Z
+DTSTART:20250808T090000Z
+DTEND:20250808T110000Z
+SUMMARY:Singapore U20 – Kyrgyzstan 0:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424294.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424297@anstoss
+DTSTAMP:20250810T090000Z
+DTSTART:20250810T090000Z
+DTEND:20250810T110000Z
+SUMMARY:Hong Kong U20 – Singapore U20 3:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Yanmar Field\, Hà Nội (Hanoi)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424297.ht
+ ml
+END:VEVENT
+END:VCALENDAR

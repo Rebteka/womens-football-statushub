@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Panama
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013566@anstoss
+DTSTAMP:20230724T110000Z
+DTSTART:20230724T110000Z
+DTEND:20230724T130000Z
+SUMMARY:Brasilien – Panama 4:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Coopers Stadium\, Adelaide
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013581@anstoss
+DTSTAMP:20230729T123000Z
+DTSTART:20230729T123000Z
+DTEND:20230729T143000Z
+SUMMARY:Panama – Jamaica 0:1
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013596@anstoss
+DTSTAMP:20230802T100000Z
+DTSTART:20230802T100000Z
+DTEND:20230802T120000Z
+SUMMARY:Panama – Frankreich 3:6
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Allianz Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140521@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Guatemala – Panama 0:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
+ pieltag
+LOCATION:Estadio Pensativo\, Antigua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140521.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140524@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Panama – Guatemala 2:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
+ pieltag
+LOCATION:Estadio Universitario F.C.\, Penonomé
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140524.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140527@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Panama – Jamaica 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 3. S
+ pieltag
+LOCATION:Estadio Universitario F.C.\, Penonomé
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140527.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140534@anstoss
+DTSTAMP:20231130T000000Z
+DTSTART:20231130T000000Z
+DTEND:20231130T020000Z
+SUMMARY:Jamaica – Panama 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 5. S
+ pieltag
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140534.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159529@anstoss
+DTSTAMP:20240222T003000Z
+DTSTART:20240222T003000Z
+DTEND:20240222T023000Z
+SUMMARY:Panama – Kolumbien 0:6
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159529.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174965@anstoss
+DTSTAMP:20240225T003000Z
+DTSTART:20240225T003000Z
+DTEND:20240225T023000Z
+SUMMARY:Puerto Rico – Panama 2:1
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159535@anstoss
+DTSTAMP:20240228T031500Z
+DTSTART:20240228T031500Z
+DTEND:20240228T051500Z
+SUMMARY:Brasilien – Panama 5:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159535.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488278@anstoss
+DTSTAMP:20251201T000000Z
+DTSTART:20251201T000000Z
+DTEND:20251201T020000Z
+SUMMARY:Curaçao – Panama 1:6
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488278.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488298@anstoss
+DTSTAMP:20260304T230000Z
+DTSTART:20260304T230000Z
+DTEND:20260305T010000Z
+SUMMARY:St. Kitts and Nevis – Panama 0:3
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:SKNFA technical centre\, Basseterre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488305@anstoss
+DTSTAMP:20260410T000000Z
+DTSTART:20260410T000000Z
+DTEND:20260410T020000Z
+SUMMARY:Panama – Aruba 3:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Universitario F.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488316@anstoss
+DTSTAMP:20260418T000000Z
+DTSTART:20260418T000000Z
+DTEND:20260418T020000Z
+SUMMARY:Panama – Cuba 3:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Universitario F.C.
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545445@anstoss
+DTSTAMP:20260606T010000Z
+DTSTART:20260606T010000Z
+DTEND:20260606T030000Z
+SUMMARY:Panama – Jamaica 0:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545446@anstoss
+DTSTAMP:20260609T010000Z
+DTSTART:20260609T010000Z
+DTEND:20260609T030000Z
+SUMMARY:Panama – Jamaica 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638584@anstoss
+DTSTAMP:20261010T210000Z
+DTSTART:20261010T210000Z
+DTEND:20261010T230000Z
+SUMMARY:Panama – New Zealand
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638587@anstoss
+DTSTAMP:20261014T003000Z
+DTSTART:20261014T003000Z
+DTEND:20261014T023000Z
+SUMMARY:Panama – New Zealand
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550712@anstoss
+DTSTAMP:20261128T210000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:Kanada – Panama
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Viertelfinale
+LOCATION:Texas Health Mansfield Stadium\, Mansfield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550712.ht
+ ml
+END:VEVENT
+END:VCALENDAR

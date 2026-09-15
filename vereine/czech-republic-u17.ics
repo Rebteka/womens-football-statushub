@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Czech Republic U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1512637@anstoss
+DTSTAMP:20260121T150000Z
+DTSTART:20260121T150000Z
+DTEND:20260121T170000Z
+SUMMARY:Czech Republic U17 – Japan U17 0:4
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512641@anstoss
+DTSTAMP:20260124T150000Z
+DTSTART:20260124T150000Z
+DTEND:20260124T170000Z
+SUMMARY:Portugal U17 – Czech Republic U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512643@anstoss
+DTSTAMP:20260127T120000Z
+DTSTART:20260127T120000Z
+DTEND:20260127T140000Z
+SUMMARY:Switzerland U17 – Czech Republic U17 1:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512643.ht
+ ml
+END:VEVENT
+END:VCALENDAR

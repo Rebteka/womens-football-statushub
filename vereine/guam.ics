@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Guam
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1399962@anstoss
+DTSTAMP:20231202T050000Z
+DTSTART:20231202T050000Z
+DTEND:20231202T070000Z
+SUMMARY:Guam – Macau 6:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 2. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 1\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399966@anstoss
+DTSTAMP:20231204T080000Z
+DTSTART:20231204T080000Z
+DTEND:20231204T100000Z
+SUMMARY:Chinese Taipei – Guam 3:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 3. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399956@anstoss
+DTSTAMP:20231206T080000Z
+DTSTART:20231206T080000Z
+DTEND:20231206T100000Z
+SUMMARY:Hong Kong – Guam 1:1
+DESCRIPTION:EAFF E-1 Football Championship - Women · Playoffs
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372388@anstoss
+DTSTAMP:20250629T090000Z
+DTSTART:20250629T090000Z
+DTEND:20250629T110000Z
+SUMMARY:Guam – UAE 0:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372403@anstoss
+DTSTAMP:20250702T090000Z
+DTSTART:20250702T090000Z
+DTEND:20250702T110000Z
+SUMMARY:Maldives – Guam 0:3
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372419@anstoss
+DTSTAMP:20250705T120000Z
+DTSTART:20250705T120000Z
+DTEND:20250705T140000Z
+SUMMARY:Vietnam – Guam 4:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Sân vận động Việt Trì\, Việt Trì
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372419.ht
+ ml
+END:VEVENT
+END:VCALENDAR

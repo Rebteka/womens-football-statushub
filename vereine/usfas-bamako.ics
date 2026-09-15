@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:USFAS Bamako
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1485670@anstoss
+DTSTAMP:20251108T130000Z
+DTSTART:20251108T130000Z
+DTEND:20251108T150000Z
+SUMMARY:FC 15 de Agosto de Akonibe – USFAS Bamako 1:2
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 1. Spieltag
+LOCATION:Right to Dream Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485670.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485668@anstoss
+DTSTAMP:20251111T160000Z
+DTSTART:20251111T160000Z
+DTEND:20251111T180000Z
+SUMMARY:USFAS Bamako – FAR Rabat 0:2
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 2. Spieltag
+LOCATION:Right to Dream Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485668.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485669@anstoss
+DTSTAMP:20251115T130000Z
+DTSTART:20251115T130000Z
+DTEND:20251115T150000Z
+SUMMARY:USFAS Bamako – Masar 1:1
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 3. Spieltag
+LOCATION:Right to Dream Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485669.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Masar
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1485666@anstoss
+DTSTAMP:20251108T160000Z
+DTSTART:20251108T160000Z
+DTEND:20251108T180000Z
+SUMMARY:Masar – FAR Rabat 0:0
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 1. Spieltag
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485666.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485672@anstoss
+DTSTAMP:20251111T130000Z
+DTSTART:20251111T130000Z
+DTEND:20251111T150000Z
+SUMMARY:Masar – FC 15 de Agosto de Akonibe 5:0
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 2. Spieltag
+LOCATION:Right to Dream Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485672.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485669@anstoss
+DTSTAMP:20251115T130000Z
+DTSTART:20251115T130000Z
+DTEND:20251115T150000Z
+SUMMARY:USFAS Bamako – Masar 1:1
+DESCRIPTION:CAF Women's Champions League · Gruppenphase · 3. Spieltag
+LOCATION:Right to Dream Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1486376@anstoss
+DTSTAMP:20251118T170000Z
+DTSTART:20251118T170000Z
+DTEND:20251118T190000Z
+SUMMARY:ASEC Mimosas – Masar 1:0
+DESCRIPTION:CAF Women's Champions League · Halbfinale
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1486376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1486873@anstoss
+DTSTAMP:20251121T130000Z
+DTSTART:20251121T130000Z
+DTEND:20251121T150000Z
+SUMMARY:TP Mazembe – Masar 3:1
+DESCRIPTION:CAF Women's Champions League · 3rd place
+LOCATION:Suez Canal Stadium\, Ismailia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1486873.ht
+ ml
+END:VEVENT
+END:VCALENDAR

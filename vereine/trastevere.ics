@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trastevere
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1480954@anstoss
+DTSTAMP:20250831T130000Z
+DTSTART:20250831T130000Z
+DTEND:20250831T150000Z
+SUMMARY:Trastevere – Vicenza Calcio Femminile 2:2
+DESCRIPTION:Coppa Italia Women · Preliminary Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480945@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Trastevere – Ternana 0:3
+DESCRIPTION:Coppa Italia Women · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480945.ht
+ ml
+END:VEVENT
+END:VCALENDAR

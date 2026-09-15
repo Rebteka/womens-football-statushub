@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bridgwater United
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1483392@anstoss
+DTSTAMP:20251026T140000Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Wycombe Wanderers – Bridgwater United 1:1
+DESCRIPTION:FA Women's Cup · 1st Round
+LOCATION:Adams Park\, High Wycombe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1487294@anstoss
+DTSTAMP:20251123T140000Z
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+SUMMARY:Bridgwater United – Royston Town 1:1
+DESCRIPTION:FA Women's Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1487294.ht
+ ml
+END:VEVENT
+END:VCALENDAR

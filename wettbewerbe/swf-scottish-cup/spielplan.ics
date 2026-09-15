@@ -1,0 +1,463 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SWF Scottish Cup 2023/24
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188772@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Inverness CT – Drumchapel United 8:0
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Millburn Academy\, Inverness
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188772.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188773@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:East Fife – Dryburgh Athletic 3:0
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:MGM Timber Bayview Stadium\, Methil
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188773.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188774@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Airdrie – Queen of the South 3:2
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:The John Cumming Stadium\, Carluke
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188774.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188775@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Bonnyrigg Rose – Giffnock 5:0
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Lasswade High School\, Bonnyrigg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188775.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188776@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Inverurie Loco Works – Ayr United 2:4
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Harlaw Park\, Inverurie
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188777@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Renfrew – Grampian
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:New Western Park\, Renfrew
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188777.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188778@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Armadale Thistle – Edinburgh Caledonia 1:2
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Volunteer Park\, Armadale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188778.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188779@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Falkirk – Glenrothes Strollers 0:2
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Falkirk Community Stadium\, Falkirk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188780@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Stenhousemuir – Hutchison Vale 12:0
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Ochilview Park\, Stenhousemuir
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188781@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Westdyke – Greenock Morton 5:3
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Lawsondale Playing Fields\, Westhill\, Aberdeenshire
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188781.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188782@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Rossvale – St. Mirren 5:1
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188782.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188783@anstoss
+DTSTAMP:20231105T000000Z
+DTSTART:20231105T000000Z
+DTEND:20231105T020000Z
+SUMMARY:Edinburgh City – Dyce 0:6
+DESCRIPTION:SWF Scottish Cup · 2nd Round
+LOCATION:Meadowbank Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188783.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188756@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Partick Thistle – Motherwell 4:2
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188757@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:East Fife – Renfrew 5:0
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:MGM Timber Bayview Stadium\, Methil
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188758@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Boroughmuir Thistle – Aberdeen 1:3
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Meadowbank 3G\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188759@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Inverness CT – Rangers 0:12
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Tulloch Caledonian Stadium\, Inverness
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188759.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188760@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Livingston – Airdrie
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188760.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188761@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Glenrothes Strollers – Gartcairn 1:3
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Michael Woods Sports Centre\, Glenrothes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188762@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Dyce – Dundee United 0:5
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Ian Mair Park\, Aberdeen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188763@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Ayr United – Celtic 0:7
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Townhead Park\, Cumnock
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188764@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Stenhousemuir – Montrose 0:7
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Ochilview Park\, Stenhousemuir
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188765@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Westdyke – Stirling University 1:2
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Lawsondale Playing Fields\, Westhill\, Aberdeenshire
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188766@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Hearts – Edinburgh Caledonia 9:0
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Oriam National Performance Centre\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188766.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188767@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Glasgow – Spartans 1:6
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Alliance Park\, Motherwell
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188767.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188768@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Kilmarnock – Hamilton Academical 2:3
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:The BBSP Stadium Rugby Park\, Kilmarnock
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188769@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Hibernian – St. Johnstone 10:0
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Meadowbank Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188769.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188770@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Rossvale – Glasgow City 0:10
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188771@anstoss
+DTSTAMP:20240116T000000Z
+DTSTART:20240116T000000Z
+DTEND:20240116T020000Z
+SUMMARY:Queen's Park – Bonnyrigg Rose 2:0
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Nethercraigs Football Pitch\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188771.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188749@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Glasgow City – Hibernian 1:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188750@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:East Fife – Hearts 0:10
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:MGM Timber Bayview Stadium\, Methil
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188751@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Livingston – Gartcairn 2:2
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188752@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Montrose – Stirling University 5:0
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Links Park\, Montrose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188752.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188753@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Spartans – Aberdeen 2:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Ainslie Park Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188754@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Partick Thistle – Queen's Park 3:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188755@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Rangers – Dundee United 9:0
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188755.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188743@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Hibernian – Rangers 2:6
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Meadowbank Stadium\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188743.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188744@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Livingston – Spartans 0:5
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Tony Macaroni Arena\, Livingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188745@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Partick Thistle – Hearts 0:1
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188746@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Montrose – Celtic 0:6
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Links Park\, Montrose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188748@anstoss
+DTSTAMP:20240427T000000Z
+DTSTART:20240427T000000Z
+DTEND:20240427T020000Z
+SUMMARY:Spartans – Hearts
+DESCRIPTION:SWF Scottish Cup · Halbfinale
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188748.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188747@anstoss
+DTSTAMP:20240427T111500Z
+DTSTART:20240427T111500Z
+DTEND:20240427T131500Z
+SUMMARY:Rangers – Celtic 2:0
+DESCRIPTION:SWF Scottish Cup · Halbfinale
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188747.ht
+ ml
+END:VEVENT
+END:VCALENDAR

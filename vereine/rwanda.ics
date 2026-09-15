@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rwanda
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140642@anstoss
+DTSTAMP:20230712T000000Z
+DTSTART:20230712T000000Z
+DTEND:20230712T020000Z
+SUMMARY:Uganda – Rwanda 3:3
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Kigali Pelé Stadium\, Kigali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140643@anstoss
+DTSTAMP:20230716T000000Z
+DTSTART:20230716T000000Z
+DTEND:20230716T020000Z
+SUMMARY:Rwanda – Uganda 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Kigali Pelé Stadium\, Kigali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140643.ht
+ ml
+END:VEVENT
+END:VCALENDAR

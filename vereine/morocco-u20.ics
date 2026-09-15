@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Morocco U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1205394@anstoss
+DTSTAMP:20240901T230000Z
+DTSTART:20240901T230000Z
+DTEND:20240902T010000Z
+SUMMARY:Paraguay U20 – Morocco U20 2:0
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205406@anstoss
+DTSTAMP:20240905T010000Z
+DTSTART:20240905T010000Z
+DTEND:20240905T030000Z
+SUMMARY:Morocco U20 – United States U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1205418@anstoss
+DTSTAMP:20240907T230000Z
+DTSTART:20240907T230000Z
+DTEND:20240908T010000Z
+SUMMARY:Morocco U20 – Spain U20 0:2
+DESCRIPTION:World Cup - U20 - Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1205418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529304@anstoss
+DTSTAMP:20260228T120000Z
+DTSTART:20260228T120000Z
+DTEND:20260228T140000Z
+SUMMARY:Turkey U19 – Morocco U20 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529310@anstoss
+DTSTAMP:20260303T130000Z
+DTSTART:20260303T130000Z
+DTEND:20260303T150000Z
+SUMMARY:Morocco U20 – Thailand U20 4:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529316@anstoss
+DTSTAMP:20260306T120000Z
+DTSTART:20260306T120000Z
+DTEND:20260306T140000Z
+SUMMARY:Uzbekistan U20 – Morocco U20 0:6
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529316.ht
+ ml
+END:VEVENT
+END:VCALENDAR

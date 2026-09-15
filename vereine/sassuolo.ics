@@ -8,6 +8,60 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1480950@anstoss
+DTSTAMP:20251220T113000Z
+DTSTART:20251220T113000Z
+DTEND:20251220T133000Z
+SUMMARY:Napoli – Sassuolo 3:1
+DESCRIPTION:Coppa Italia Women · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582313@anstoss
+DTSTAMP:20260823T160000Z
+DTSTART:20260823T160000Z
+DTEND:20260823T180000Z
+SUMMARY:Fiorentina – Sassuolo 1:2
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582318@anstoss
+DTSTAMP:20260830T160000Z
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+SUMMARY:Roma – Sassuolo 0:1
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582328@anstoss
+DTSTAMP:20260905T153000Z
+DTSTART:20260905T153000Z
+DTEND:20260905T173000Z
+SUMMARY:Sassuolo – Ternana 2:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638665@anstoss
+DTSTAMP:20260913T100000Z
+DTSTART:20260913T100000Z
+DTEND:20260913T120000Z
+SUMMARY:Sassuolo – Roma 1:7
+DESCRIPTION:Serie A Cup Women · Halbfinale
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1601252@anstoss
 DTSTAMP:20260927T130000Z
 DTSTART:20260927T130000Z

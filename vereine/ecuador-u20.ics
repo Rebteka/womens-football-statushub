@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ecuador U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1512642@anstoss
+DTSTAMP:20260123T230000Z
+DTSTART:20260123T230000Z
+DTEND:20260124T010000Z
+SUMMARY:Uruguay U20 – Ecuador U20 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512639@anstoss
+DTSTAMP:20260125T123000Z
+DTSTART:20260125T123000Z
+DTEND:20260125T143000Z
+SUMMARY:Uruguay U20 – Ecuador U20 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516483@anstoss
+DTSTAMP:20260205T210000Z
+DTSTART:20260205T210000Z
+DTEND:20260205T230000Z
+SUMMARY:Brazil U20 – Ecuador U20 3:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Luis Alfonso Giagni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516487@anstoss
+DTSTAMP:20260207T210000Z
+DTSTART:20260207T210000Z
+DTEND:20260207T230000Z
+SUMMARY:Ecuador U20 – Argentina U20 1:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516491@anstoss
+DTSTAMP:20260209T210000Z
+DTSTART:20260209T210000Z
+DTEND:20260209T230000Z
+SUMMARY:Ecuador U20 – Bolivia U20 6:0
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516499@anstoss
+DTSTAMP:20260213T210000Z
+DTSTART:20260213T210000Z
+DTEND:20260213T230000Z
+SUMMARY:Peru U20 – Ecuador U20 0:4
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Emiliano Ghezzi\, Fernando de la Mora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522839@anstoss
+DTSTAMP:20260217T010000Z
+DTSTART:20260217T010000Z
+DTEND:20260217T030000Z
+SUMMARY:Colombia U20 – Ecuador U20 0:1
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522839.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522841@anstoss
+DTSTAMP:20260220T010000Z
+DTSTART:20260220T010000Z
+DTEND:20260220T030000Z
+SUMMARY:Argentina U20 – Ecuador U20 0:1
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522841.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522846@anstoss
+DTSTAMP:20260222T210000Z
+DTSTART:20260222T210000Z
+DTEND:20260222T230000Z
+SUMMARY:Venezuela U20 – Ecuador U20 2:2
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522846.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522848@anstoss
+DTSTAMP:20260225T210000Z
+DTSTART:20260225T210000Z
+DTEND:20260225T230000Z
+SUMMARY:Ecuador U20 – Brazil U20 1:1
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522848.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522852@anstoss
+DTSTAMP:20260228T210000Z
+DTSTART:20260228T210000Z
+DTEND:20260228T230000Z
+SUMMARY:Ecuador U20 – Paraguay U20 5:1
+DESCRIPTION:CONMEBOL U20 Femenino · Gruppenphase
+LOCATION:Estadio Carfem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522852.ht
+ ml
+END:VEVENT
+END:VCALENDAR

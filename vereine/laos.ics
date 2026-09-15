@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Laos
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1372390@anstoss
+DTSTAMP:20250629T123000Z
+DTSTART:20250629T123000Z
+DTEND:20250629T143000Z
+SUMMARY:Nepal – Laos 9:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Milliy Stadion\, Toshkent (Tashkent)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372406@anstoss
+DTSTAMP:20250702T153000Z
+DTSTART:20250702T153000Z
+DTEND:20250702T173000Z
+SUMMARY:Laos – Uzbekistan 0:7
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Milliy Stadion\, Toshkent (Tashkent)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372422@anstoss
+DTSTAMP:20250705T123000Z
+DTSTART:20250705T123000Z
+DTEND:20250705T143000Z
+SUMMARY:Laos – Sri Lanka 2:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Milliy Stadion\, Toshkent (Tashkent)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548488@anstoss
+DTSTAMP:20260610T120000Z
+DTSTART:20260610T120000Z
+DTEND:20260610T140000Z
+SUMMARY:Saudi-Arabien – Laos 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548489@anstoss
+DTSTAMP:20260613T120000Z
+DTSTART:20260613T120000Z
+DTEND:20260613T140000Z
+SUMMARY:Saudi-Arabien – Laos 5:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1589174@anstoss
+DTSTAMP:20260710T124500Z
+DTSTART:20260710T124500Z
+DTEND:20260710T144500Z
+SUMMARY:Laos – Malaysia 1:1
+DESCRIPTION:Asean Championship Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1589174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1589176@anstoss
+DTSTAMP:20260713T124500Z
+DTSTART:20260713T124500Z
+DTEND:20260713T144500Z
+SUMMARY:Singapore – Laos 1:1
+DESCRIPTION:Asean Championship Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1589176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1605336@anstoss
+DTSTAMP:20260719T084500Z
+DTSTART:20260719T084500Z
+DTEND:20260719T104500Z
+SUMMARY:Cambodia – Laos 0:1
+DESCRIPTION:Asean Championship Women · Semi-final
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1605336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1605351@anstoss
+DTSTAMP:20260722T124500Z
+DTSTART:20260722T124500Z
+DTEND:20260722T144500Z
+SUMMARY:Laos – Indonesia 0:5
+DESCRIPTION:Asean Championship Women · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1605351.ht
+ ml
+END:VEVENT
+END:VCALENDAR

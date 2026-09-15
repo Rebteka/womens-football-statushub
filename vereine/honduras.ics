@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Honduras
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140577@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Martinique – Honduras 0:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Stade Municipal Pierre-Aliker\, Fort-de-France
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140577.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140584@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Honduras – Nicaragua 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140590@anstoss
+DTSTAMP:20231027T010000Z
+DTSTART:20231027T010000Z
+DTEND:20231027T030000Z
+SUMMARY:Honduras – El Salvador 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140590.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140595@anstoss
+DTSTAMP:20231030T000000Z
+DTSTART:20231030T000000Z
+DTEND:20231030T020000Z
+SUMMARY:El Salvador – Honduras 5:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Estadio Nacional Jorge Mágico González\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140601@anstoss
+DTSTAMP:20231130T000000Z
+DTSTART:20231130T000000Z
+DTEND:20231130T020000Z
+SUMMARY:Nicaragua – Honduras 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Estadio Independencia\, Estelí
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140608@anstoss
+DTSTAMP:20231203T190000Z
+DTSTART:20231203T190000Z
+DTEND:20231203T210000Z
+SUMMARY:Honduras – Martinique 1:4
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488286@anstoss
+DTSTAMP:20251203T013000Z
+DTSTART:20251203T013000Z
+DTEND:20251203T033000Z
+SUMMARY:El Salvador – Honduras 3:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Jorge Gonzalez\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488297@anstoss
+DTSTAMP:20260305T010000Z
+DTSTART:20260305T010000Z
+DTEND:20260305T030000Z
+SUMMARY:Honduras – Trinidad and Tobago 2:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional Jose de la Paz Herrera Ucles\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488315@anstoss
+DTSTAMP:20260418T010000Z
+DTSTART:20260418T010000Z
+DTEND:20260418T030000Z
+SUMMARY:Honduras – Barbados 4:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional Jose de la Paz Herrera Ucles\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488315.ht
+ ml
+END:VEVENT
+END:VCALENDAR

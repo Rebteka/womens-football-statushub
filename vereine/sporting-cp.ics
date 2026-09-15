@@ -53,6 +53,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1610770.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638398@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Brøndby – Sporting CP
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1610888@anstoss
 DTSTAMP:20260927T134500Z
 DTSTART:20260927T134500Z
@@ -60,6 +70,16 @@ DTEND:20260927T154500Z
 SUMMARY:Sporting Braga – Sporting CP
 DESCRIPTION:1a Divisão - Women · 3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638424@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Sporting CP – Brøndby
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638424.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

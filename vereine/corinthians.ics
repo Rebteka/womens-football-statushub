@@ -8,6 +8,93 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1479286@anstoss
+DTSTAMP:20251002T190000Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Corinthians – Dragonas IDV 1:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 1. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479291@anstoss
+DTSTAMP:20251005T190000Z
+DTSTART:20251005T190000Z
+DTEND:20251005T210000Z
+SUMMARY:Corinthians – Always Ready 11:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 2. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1479298@anstoss
+DTSTAMP:20251008T230000Z
+DTSTART:20251008T230000Z
+DTEND:20251009T010000Z
+SUMMARY:Santa Fe – Corinthians 0:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1479298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481227@anstoss
+DTSTAMP:20251011T190000Z
+DTSTART:20251011T190000Z
+DTEND:20251011T210000Z
+SUMMARY:Corinthians – Boca Juniors 4:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Viertelfinale
+LOCATION:Estadio Nuevo Francisco Urbano\, Moron
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1481500@anstoss
+DTSTAMP:20251015T230000Z
+DTSTART:20251015T230000Z
+DTEND:20251016T010000Z
+SUMMARY:Corinthians – Ferroviaria 1:1
+DESCRIPTION:CONMEBOL Libertadores Femenina · Halbfinale
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1481500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1482005@anstoss
+DTSTAMP:20251018T193000Z
+DTSTART:20251018T193000Z
+DTEND:20251018T213000Z
+SUMMARY:Corinthians – Deportivo Cali 0:0
+DESCRIPTION:CONMEBOL Libertadores Femenina · Finale
+LOCATION:Estadio Florencio Sola\, Buenos Aires
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1482005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514364@anstoss
+DTSTAMP:20260128T123000Z
+DTSTART:20260128T123000Z
+DTEND:20260128T143000Z
+SUMMARY:NJ/NY Gotham FC – Corinthians 0:1
+DESCRIPTION:FIFA Women Champions Cup · Halbfinale
+LOCATION:Brentford Community Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514988@anstoss
+DTSTAMP:20260201T180000Z
+DTSTART:20260201T180000Z
+DTEND:20260201T200000Z
+SUMMARY:Arsenal – Corinthians 3:2
+DESCRIPTION:FIFA Women Champions Cup · Finale
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1522326@anstoss
 DTSTAMP:20260214T000000Z
 DTSTART:20260214T000000Z

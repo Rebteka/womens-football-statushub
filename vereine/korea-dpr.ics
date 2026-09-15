@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Korea DPR
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1027917@anstoss
+DTSTAMP:20231026T113500Z
+DTSTART:20231026T113500Z
+DTEND:20231026T133500Z
+SUMMARY:China – Korea DPR 1:2
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 1. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1027917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034482@anstoss
+DTSTAMP:20231029T073000Z
+DTSTART:20231029T073000Z
+DTEND:20231029T093000Z
+SUMMARY:Korea DPR – Südkorea 0:0
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 2. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1034489@anstoss
+DTSTAMP:20231101T073000Z
+DTSTART:20231101T073000Z
+DTEND:20231101T093000Z
+SUMMARY:Thailand – Korea DPR 0:7
+DESCRIPTION:Olympics Women - Qualification Asia · 2nd Round · 3. Spielt
+ ag
+LOCATION:Xiamen Egret Stadium\, Xiamen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1034489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399960@anstoss
+DTSTAMP:20231130T080000Z
+DTSTART:20231130T080000Z
+DTEND:20231130T100000Z
+SUMMARY:Hong Kong – Korea DPR 0:11
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 1. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399963@anstoss
+DTSTAMP:20231202T080000Z
+DTSTART:20231202T080000Z
+DTEND:20231202T100000Z
+SUMMARY:Korea DPR – Mongolia 19:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 2. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399964@anstoss
+DTSTAMP:20231204T020000Z
+DTSTART:20231204T020000Z
+DTEND:20231204T040000Z
+SUMMARY:Northern Mariana Islands – Korea DPR 0:17
+DESCRIPTION:EAFF E-1 Football Championship - Women · Preliminary Round 
+ · 3. Spieltag
+LOCATION:Suoka Sports Training Base Pitch 2\, Zhuhai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1399957@anstoss
+DTSTAMP:20231207T120000Z
+DTSTART:20231207T120000Z
+DTEND:20231207T140000Z
+SUMMARY:Korea DPR – Chinese Taipei 5:0
+DESCRIPTION:EAFF E-1 Football Championship - Women · Playoffs · Finale
+LOCATION:Macau Olympic Complex Stadium\, Taipa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1399957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178544@anstoss
+DTSTAMP:20240224T130400Z
+DTSTART:20240224T130400Z
+DTEND:20240224T150400Z
+SUMMARY:Korea DPR – Japan 0:0
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Prince Abdullah al-Faisal Stadium\, Jeddah
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178545@anstoss
+DTSTAMP:20240228T093400Z
+DTSTART:20240228T093400Z
+DTEND:20240228T113400Z
+SUMMARY:Japan – Korea DPR 2:1
+DESCRIPTION:Olympics Women - Qualification Asia · Finale
+LOCATION:Japan National Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372393@anstoss
+DTSTAMP:20250629T170000Z
+DTSTART:20250629T170000Z
+DTEND:20250629T190000Z
+SUMMARY:Korea DPR – Tajikistan 10:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 1. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372410@anstoss
+DTSTAMP:20250702T140000Z
+DTSTART:20250702T140000Z
+DTEND:20250702T160000Z
+SUMMARY:Palestine – Korea DPR 0:10
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 2. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1372425@anstoss
+DTSTAMP:20250705T140000Z
+DTSTART:20250705T140000Z
+DTEND:20250705T160000Z
+SUMMARY:Korea DPR – Malaysia 6:0
+DESCRIPTION:Asian Cup Women - Qualification · Qualifying Round · 3. Spi
+ eltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1372425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516362@anstoss
+DTSTAMP:20260303T020000Z
+DTSTART:20260303T020000Z
+DTEND:20260303T040000Z
+SUMMARY:Korea DPR – Uzbekistan 3:0
+DESCRIPTION:Asian Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516368@anstoss
+DTSTAMP:20260306T020000Z
+DTSTART:20260306T020000Z
+DTEND:20260306T040000Z
+SUMMARY:Bangladesh – Korea DPR 0:5
+DESCRIPTION:Asian Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1516375@anstoss
+DTSTAMP:20260309T090000Z
+DTSTART:20260309T090000Z
+DTEND:20260309T110000Z
+SUMMARY:Korea DPR – China 1:2
+DESCRIPTION:Asian Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:CommBank Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1516375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1531616@anstoss
+DTSTAMP:20260313T100000Z
+DTSTART:20260313T100000Z
+DTEND:20260313T120000Z
+SUMMARY:Australien – Korea DPR 2:1
+DESCRIPTION:Asian Cup Women · Viertelfinale
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1531616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533881@anstoss
+DTSTAMP:20260319T090000Z
+DTSTART:20260319T090000Z
+DTEND:20260319T110000Z
+SUMMARY:Chinese Taipei – Korea DPR 0:4
+DESCRIPTION:Asian Cup Women · Playoffs
+LOCATION:Cbus Super Stadium\, Gold Coast
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533881.ht
+ ml
+END:VEVENT
+END:VCALENDAR

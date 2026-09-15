@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vietnam U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1543543@anstoss
+DTSTAMP:20260501T073000Z
+DTSTART:20260501T073000Z
+DTEND:20260501T093000Z
+SUMMARY:Thailand U17 – Vietnam U17 2:2
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543549@anstoss
+DTSTAMP:20260504T113000Z
+DTSTART:20260504T113000Z
+DTEND:20260504T133000Z
+SUMMARY:Vietnam U17 – China PR U17 0:3
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543549.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1543553@anstoss
+DTSTAMP:20260507T113000Z
+DTSTART:20260507T113000Z
+DTEND:20260507T133000Z
+SUMMARY:Vietnam U17 – Myanmar U17 2:1
+DESCRIPTION:AFC U17 Asian Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1543553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544654@anstoss
+DTSTAMP:20260511T070000Z
+DTSTART:20260511T070000Z
+DTEND:20260511T090000Z
+SUMMARY:Vietnam U17 – Australia U17 0:2
+DESCRIPTION:AFC U17 Asian Cup - Women · Viertelfinale
+LOCATION:Suzhou Sports Centre\, Suzhou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544654.ht
+ ml
+END:VEVENT
+END:VCALENDAR

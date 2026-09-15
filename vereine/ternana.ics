@@ -8,6 +8,79 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1480945@anstoss
+DTSTAMP:20250921T130000Z
+DTSTART:20250921T130000Z
+DTEND:20250921T150000Z
+SUMMARY:Trastevere – Ternana 0:3
+DESCRIPTION:Coppa Italia Women · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1480953@anstoss
+DTSTAMP:20251220T113000Z
+DTSTART:20251220T113000Z
+DTEND:20251220T133000Z
+SUMMARY:Ternana – Como 2:1
+DESCRIPTION:Coppa Italia Women · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1480953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514286@anstoss
+DTSTAMP:20260121T170000Z
+DTSTART:20260121T170000Z
+DTEND:20260121T190000Z
+SUMMARY:Ternana – Inter Mailand 0:2
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1514290@anstoss
+DTSTAMP:20260128T170000Z
+DTSTART:20260128T170000Z
+DTEND:20260128T190000Z
+SUMMARY:Inter Mailand – Ternana 4:0
+DESCRIPTION:Coppa Italia Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1514290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582316@anstoss
+DTSTAMP:20260822T160000Z
+DTSTART:20260822T160000Z
+DTEND:20260822T180000Z
+SUMMARY:Ternana – Roma 0:2
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 1. Spieltag
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582319@anstoss
+DTSTAMP:20260830T183000Z
+DTSTART:20260830T183000Z
+DTEND:20260830T203000Z
+SUMMARY:Fiorentina – Ternana 3:1
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 2. Spieltag
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582328@anstoss
+DTSTAMP:20260905T153000Z
+DTSTART:20260905T153000Z
+DTEND:20260905T173000Z
+SUMMARY:Sassuolo – Ternana 2:0
+DESCRIPTION:Serie A Cup Women · Gruppenphase · 3. Spieltag
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1601253@anstoss
 DTSTAMP:20260927T103000Z
 DTSTART:20260927T103000Z

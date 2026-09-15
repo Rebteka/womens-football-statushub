@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bangladesh U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424264@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:Bangladesh U20 – Laos U20 3:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426553@anstoss
+DTSTAMP:20250808T090000Z
+DTSTART:20250808T090000Z
+DTEND:20250808T110000Z
+SUMMARY:Timor-Leste U20 – Bangladesh U20 0:8
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424281@anstoss
+DTSTAMP:20250810T090000Z
+DTSTART:20250810T090000Z
+DTEND:20250810T110000Z
+SUMMARY:Korea Republic U20 – Bangladesh U20 6:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Lao National Stadium KM16\, Vientiane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1538298@anstoss
+DTSTAMP:20260327T140000Z
+DTSTART:20260327T140000Z
+DTEND:20260327T160000Z
+SUMMARY:Jordan U20 – Bangladesh U20 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1538298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540457@anstoss
+DTSTAMP:20260401T130000Z
+DTSTART:20260401T130000Z
+DTEND:20260401T150000Z
+SUMMARY:Thailand U20 – Bangladesh U20 3:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540462@anstoss
+DTSTAMP:20260404T090000Z
+DTSTART:20260404T090000Z
+DTEND:20260404T110000Z
+SUMMARY:Bangladesh U20 – China PR U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540468@anstoss
+DTSTAMP:20260407T130000Z
+DTSTART:20260407T130000Z
+DTEND:20260407T150000Z
+SUMMARY:Vietnam U20 – Bangladesh U20 1:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Nonthaburi Provincial Stadium\, Nonthaburi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540468.ht
+ ml
+END:VEVENT
+END:VCALENDAR

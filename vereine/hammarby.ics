@@ -219,6 +219,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495547.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638737@anstoss
+DTSTAMP:20260909T173000Z
+DTSTART:20260909T173000Z
+DTEND:20260909T193000Z
+SUMMARY:Hammarby – Gamla Upsala 5:0
+DESCRIPTION:Svenska Cupen - Women · Round 2
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495557@anstoss
 DTSTAMP:20260913T140000Z
 DTSTART:20260913T140000Z
@@ -241,6 +252,26 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495558.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638402@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Hammarby – Rangers
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636786@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Gamla Upsala – Hammarby (verlegt)
+DESCRIPTION:Svenska Cupen - Women · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636786.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1495566@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z
@@ -249,6 +280,16 @@ SUMMARY:Hammarby – Eskilstuna United
 DESCRIPTION:Damallsvenskan · 20. Spieltag
 LOCATION:Hammarby IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638421@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Rangers – Hammarby
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638421.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

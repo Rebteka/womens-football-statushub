@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ethiopia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140652@anstoss
+DTSTAMP:20230713T000000Z
+DTSTART:20230713T000000Z
+DTEND:20230713T020000Z
+SUMMARY:Ethiopia – Chad 6:0
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Abebe Bikila Stadium\, Addis Ababa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140653@anstoss
+DTSTAMP:20230716T000000Z
+DTSTART:20230716T000000Z
+DTEND:20230716T020000Z
+SUMMARY:Chad – Ethiopia 0:4
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Abebe Bikila Stadium\, Addis Ababa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140630@anstoss
+DTSTAMP:20231025T000000Z
+DTSTART:20231025T000000Z
+DTEND:20231025T020000Z
+SUMMARY:Ethiopia – Nigeria 1:1
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:Abebe Bikila Stadium\, Addis Ababa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140631@anstoss
+DTSTAMP:20231031T150000Z
+DTSTART:20231031T150000Z
+DTEND:20231031T170000Z
+SUMMARY:Nigeria – Ethiopia 4:0
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+LOCATION:MKO Abiola Stadium\, Abeokuta
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140631.ht
+ ml
+END:VEVENT
+END:VCALENDAR

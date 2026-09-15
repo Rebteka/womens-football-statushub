@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Partick Thistle
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188756@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Partick Thistle – Motherwell 4:2
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188754@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Partick Thistle – Queen's Park 3:1
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188745@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Partick Thistle – Hearts 0:1
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485688@anstoss
+DTSTAMP:20251005T120000Z
+DTSTART:20251005T120000Z
+DTEND:20251005T140000Z
+SUMMARY:Partick Thistle – Livingston 7:0
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485688.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485699@anstoss
+DTSTAMP:20251109T160000Z
+DTSTART:20251109T160000Z
+DTEND:20251109T180000Z
+SUMMARY:Rangers – Partick Thistle 3:0
+DESCRIPTION:SWPL Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485699.ht
+ ml
+END:VEVENT
+END:VCALENDAR

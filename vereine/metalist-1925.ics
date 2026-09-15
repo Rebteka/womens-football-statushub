@@ -8,6 +8,16 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
+UID:fixture-1509295@anstoss
+DTSTAMP:20260118T123000Z
+DTSTART:20260118T123000Z
+DTEND:20260118T143000Z
+SUMMARY:India – Metalist 1925 0:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1509295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1558478@anstoss
 DTSTAMP:20260805T110000Z
 DTSTART:20260805T110000Z
@@ -29,6 +39,50 @@ DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
  nale
 LOCATION:Den Dreef\, Heverlee
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626954@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:Mitrovica – Metalist 1925 0:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadiumi Zahir Pajaziti\, Podujeve
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626964@anstoss
+DTSTAMP:20260901T110000Z
+DTSTART:20260901T110000Z
+DTEND:20260901T130000Z
+SUMMARY:Metalist 1925 – Mitrovica 5:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:FFM - Teren na Fudbalska Federacija na Makedonija\, Kharkiv
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638400@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:Metalist 1925 – Torreense
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638426@anstoss
+DTSTAMP:20260930T160000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Torreense – Metalist 1925
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638426.ht
  ml
 END:VEVENT
 END:VCALENDAR

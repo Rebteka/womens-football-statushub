@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indonesia U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424291@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:India U20 – Indonesia U20 0:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424270@anstoss
+DTSTAMP:20250808T093000Z
+DTSTART:20250808T093000Z
+DTEND:20250808T113000Z
+SUMMARY:Indonesia U20 – Myanmar U20 2:2
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424284@anstoss
+DTSTAMP:20250810T123000Z
+DTSTART:20250810T123000Z
+DTEND:20250810T143000Z
+SUMMARY:Indonesia U20 – Turkmenistan U20 4:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Thuwunna Stadium\, Yangon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424284.ht
+ ml
+END:VEVENT
+END:VCALENDAR

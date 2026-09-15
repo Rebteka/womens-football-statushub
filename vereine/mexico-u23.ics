@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mexico U23
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1548470@anstoss
+DTSTAMP:20260605T130000Z
+DTSTART:20260605T130000Z
+DTEND:20260605T150000Z
+SUMMARY:Norway U23 – Mexico U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548483@anstoss
+DTSTAMP:20260608T163000Z
+DTSTART:20260608T163000Z
+DTEND:20260608T183000Z
+SUMMARY:Sweden U23 – Mexico U23 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610868@anstoss
+DTSTAMP:20260722T200000Z
+DTSTART:20260722T200000Z
+DTEND:20260722T220000Z
+SUMMARY:Dominican Republic – Mexico U23 0:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610868.ht
+ ml
+END:VEVENT
+END:VCALENDAR

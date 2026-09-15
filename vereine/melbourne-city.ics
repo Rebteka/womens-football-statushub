@@ -29,6 +29,36 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1632112.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1638224@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Melbourne City – Nasaf
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638230@anstoss
+DTSTAMP:20261104T110000Z
+DTSTART:20261104T110000Z
+DTEND:20261104T130000Z
+SUMMARY:Kaya – Melbourne City
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638230.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638238@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Melbourne City – Beijing Beikong
+DESCRIPTION:AFC Women's Champions League · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638238.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1632122@anstoss
 DTSTAMP:20261114T040000Z
 DTSTART:20261114T040000Z

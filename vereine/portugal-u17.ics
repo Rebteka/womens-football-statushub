@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portugal U17
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1512638@anstoss
+DTSTAMP:20260121T160000Z
+DTSTART:20260121T160000Z
+DTEND:20260121T180000Z
+SUMMARY:Portugal U17 – Switzerland U17 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512641@anstoss
+DTSTAMP:20260124T150000Z
+DTSTART:20260124T150000Z
+DTEND:20260124T170000Z
+SUMMARY:Portugal U17 – Czech Republic U17 1:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1512644@anstoss
+DTSTAMP:20260127T150000Z
+DTSTART:20260127T150000Z
+DTEND:20260127T170000Z
+SUMMARY:Portugal U17 – Japan U17 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512644.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Celtic
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188763@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Ayr United – Celtic 0:7
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Townhead Park\, Cumnock
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188746@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Montrose – Celtic 0:6
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Links Park\, Montrose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188747@anstoss
+DTSTAMP:20240427T111500Z
+DTSTART:20240427T111500Z
+DTEND:20240427T131500Z
+SUMMARY:Rangers – Celtic 2:0
+DESCRIPTION:SWF Scottish Cup · Halbfinale
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188747.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485693@anstoss
+DTSTAMP:20251005T130000Z
+DTSTART:20251005T130000Z
+DTEND:20251005T150000Z
+SUMMARY:Spartans – Celtic 1:3
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485693.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485696@anstoss
+DTSTAMP:20251109T120000Z
+DTSTART:20251109T120000Z
+DTEND:20251109T140000Z
+SUMMARY:Celtic – Queen's Park 9:1
+DESCRIPTION:SWPL Cup · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1515235@anstoss
+DTSTAMP:20260201T134000Z
+DTSTART:20260201T134000Z
+DTEND:20260201T154000Z
+SUMMARY:Rangers – Celtic 3:3
+DESCRIPTION:SWPL Cup · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1515235.ht
+ ml
+END:VEVENT
+END:VCALENDAR

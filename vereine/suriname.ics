@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Suriname
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140575@anstoss
+DTSTAMP:20230920T000000Z
+DTSTART:20230920T000000Z
+DTEND:20230920T020000Z
+SUMMARY:Dominica – Suriname 0:4
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Windsor Park Stadium\, Roseau
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140575.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140582@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Suriname – Antigua and Barbuda 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140582.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140588@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Suriname – Guyana 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140588.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140594@anstoss
+DTSTAMP:20231029T220000Z
+DTSTART:20231029T220000Z
+DTEND:20231030T000000Z
+SUMMARY:Guyana – Suriname 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140594.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140600@anstoss
+DTSTAMP:20231129T190000Z
+DTSTART:20231129T190000Z
+DTEND:20231129T210000Z
+SUMMARY:Antigua and Barbuda – Suriname 0:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:ABFA Technical Center\, Piggotts
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140600.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140605@anstoss
+DTSTAMP:20231204T000000Z
+DTSTART:20231204T000000Z
+DTEND:20231204T020000Z
+SUMMARY:Suriname – Dominica 11:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Dr. Ir. Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140605.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488273@anstoss
+DTSTAMP:20251128T193000Z
+DTSTART:20251128T193000Z
+DTEND:20251128T213000Z
+SUMMARY:Anguilla – Suriname 1:3
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Raymond E. Guishard Technical Centre\, The Valley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488285@anstoss
+DTSTAMP:20251202T230000Z
+DTSTART:20251202T230000Z
+DTEND:20251203T010000Z
+SUMMARY:Dominican Republic – Suriname 2:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Complejo Deportivo Moca 85\, Moca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488296@anstoss
+DTSTAMP:20260303T220000Z
+DTSTART:20260303T220000Z
+DTEND:20260304T000000Z
+SUMMARY:Suriname – Haiti 0:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488318@anstoss
+DTSTAMP:20260417T210000Z
+DTSTART:20260417T210000Z
+DTEND:20260417T230000Z
+SUMMARY:Suriname – Belize 0:2
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Franklin Essed Stadion\, Paramaribo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488318.ht
+ ml
+END:VEVENT
+END:VCALENDAR

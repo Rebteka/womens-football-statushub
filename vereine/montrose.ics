@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Montrose
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1188764@anstoss
+DTSTAMP:20240107T000000Z
+DTSTART:20240107T000000Z
+DTEND:20240107T020000Z
+SUMMARY:Stenhousemuir – Montrose 0:7
+DESCRIPTION:SWF Scottish Cup · 3rd Round
+LOCATION:Ochilview Park\, Stenhousemuir
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188752@anstoss
+DTSTAMP:20240204T000000Z
+DTSTART:20240204T000000Z
+DTEND:20240204T020000Z
+SUMMARY:Montrose – Stirling University 5:0
+DESCRIPTION:SWF Scottish Cup · 4th Round
+LOCATION:Links Park\, Montrose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188752.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1188746@anstoss
+DTSTAMP:20240310T000000Z
+DTSTART:20240310T000000Z
+DTEND:20240310T020000Z
+SUMMARY:Montrose – Celtic 0:6
+DESCRIPTION:SWF Scottish Cup · Viertelfinale
+LOCATION:Links Park\, Montrose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1188746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1485694@anstoss
+DTSTAMP:20251005T140000Z
+DTSTART:20251005T140000Z
+DTEND:20251005T160000Z
+SUMMARY:Hearts – Montrose 7:0
+DESCRIPTION:SWPL Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1485694.ht
+ ml
+END:VEVENT
+END:VCALENDAR

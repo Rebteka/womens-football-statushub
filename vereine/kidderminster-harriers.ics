@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kidderminster Harriers
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1483394@anstoss
+DTSTAMP:20251026T140000Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Kidderminster Harriers – Redditch Borough 1:0
+DESCRIPTION:FA Women's Cup · 1st Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1487292@anstoss
+DTSTAMP:20251123T140000Z
+DTSTART:20251123T140000Z
+DTEND:20251123T160000Z
+SUMMARY:Fylde – Kidderminster Harriers 4:0
+DESCRIPTION:FA Women's Cup · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1487292.ht
+ ml
+END:VEVENT
+END:VCALENDAR

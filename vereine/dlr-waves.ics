@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DLR Waves
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539599@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:DLR Waves – Lisburn Rangers 1:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539609@anstoss
+DTSTAMP:20260509T160000Z
+DTSTART:20260509T160000Z
+DTEND:20260509T180000Z
+SUMMARY:Peamount United – DLR Waves 5:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542075@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Galway United – DLR Waves 2:0
+DESCRIPTION:All-Island Cup - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542075.ht
+ ml
+END:VEVENT
+END:VCALENDAR

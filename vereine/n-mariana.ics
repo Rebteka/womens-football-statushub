@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:N. Mariana
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424292@anstoss
+DTSTAMP:20250806T123000Z
+DTSTART:20250806T123000Z
+DTEND:20250806T143000Z
+SUMMARY:Jordan U20 – N. Mariana 6:1
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424296@anstoss
+DTSTAMP:20250808T153000Z
+DTSTART:20250808T153000Z
+DTEND:20250808T173000Z
+SUMMARY:N. Mariana – Uzbekistan U20 0:8
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1426559@anstoss
+DTSTAMP:20250810T123000Z
+DTSTART:20250810T123000Z
+DTEND:20250810T143000Z
+SUMMARY:N. Mariana – Bahrain U20 3:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Do’stlik Stadion\, Tashkent
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1426559.ht
+ ml
+END:VEVENT
+END:VCALENDAR

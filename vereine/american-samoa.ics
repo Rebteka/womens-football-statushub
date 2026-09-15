@@ -28,6 +28,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1526389.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1525766@anstoss
+DTSTAMP:20260221T010000Z
+DTSTART:20260221T010000Z
+DTEND:20260221T030000Z
+SUMMARY:Fiji – American Samoa 2:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525766.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1526392@anstoss
 DTSTAMP:20260227T060000Z
 DTSTART:20260227T060000Z

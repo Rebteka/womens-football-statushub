@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zambia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013558@anstoss
+DTSTAMP:20230722T070000Z
+DTSTART:20230722T070000Z
+DTEND:20230722T090000Z
+SUMMARY:Zambia – Japan 0:5
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:FMG Stadium Waikato\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013571@anstoss
+DTSTAMP:20230726T073000Z
+DTSTART:20230726T073000Z
+DTEND:20230726T093000Z
+SUMMARY:Spanien – Zambia 5:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Eden Park\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013571.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013587@anstoss
+DTSTAMP:20230731T070000Z
+DTSTART:20230731T070000Z
+DTEND:20230731T090000Z
+SUMMARY:Costa Rica – Zambia 1:3
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:FMG Stadium Waikato\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140626@anstoss
+DTSTAMP:20231023T140000Z
+DTSTART:20231023T140000Z
+DTEND:20231023T160000Z
+SUMMARY:Mali – Zambia
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140626.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140627@anstoss
+DTSTAMP:20231031T150000Z
+DTSTART:20231031T150000Z
+DTEND:20231031T170000Z
+SUMMARY:Zambia – Mali
+DESCRIPTION:Olympics Women - Qualification CAF · 2nd Round
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140627.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140986@anstoss
+DTSTAMP:20240223T170000Z
+DTSTART:20240223T170000Z
+DTEND:20240223T190000Z
+SUMMARY:Ghana – Zambia 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Ohene Djan Sports Stadium\, Accra
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140987@anstoss
+DTSTAMP:20240228T160000Z
+DTSTART:20240228T160000Z
+DTEND:20240228T180000Z
+SUMMARY:Zambia – Ghana 3:3
+DESCRIPTION:Olympics Women - Qualification CAF · 3rd Round
+LOCATION:Levy Mwanawasa Stadium\, Ndola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178195@anstoss
+DTSTAMP:20240405T170000Z
+DTSTART:20240405T170000Z
+DTEND:20240405T190000Z
+SUMMARY:Zambia – Morocco 1:2
+DESCRIPTION:Olympics Women - Qualification CAF · 4th Round
+LOCATION:Levy Mwanawasa Stadium\, Ndola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178195.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178196@anstoss
+DTSTAMP:20240410T200000Z
+DTSTART:20240410T200000Z
+DTEND:20240410T220000Z
+SUMMARY:Morocco – Zambia 0:2
+DESCRIPTION:Olympics Women - Qualification CAF · 4th Round
+LOCATION:Stade Prince Moulay El Hassan\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178196.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194358@anstoss
+DTSTAMP:20240725T190000Z
+DTSTART:20240725T190000Z
+DTEND:20240725T210000Z
+SUMMARY:USA – Zambia 3:0
+DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194360@anstoss
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T190000Z
+SUMMARY:Australien – Zambia 6:5
+DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1194362@anstoss
+DTSTAMP:20240731T170000Z
+DTSTART:20240731T170000Z
+DTEND:20240731T190000Z
+SUMMARY:Zambia – Deutschland 1:4
+DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+LOCATION:Stade Geoffroy-Guichard\, Saint-Ètienne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1194362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526981@anstoss
+DTSTAMP:20260411T190000Z
+DTSTART:20260411T190000Z
+DTEND:20260411T210000Z
+SUMMARY:Kanada – Zambia 4:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526987@anstoss
+DTSTAMP:20260415T013000Z
+DTSTART:20260415T013000Z
+DTEND:20260415T033000Z
+SUMMARY:Brasilien – Zambia 6:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526990@anstoss
+DTSTAMP:20260418T190000Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:Südkorea – Zambia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+LOCATION:Arena Pantanal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545738@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Zambia – Burkina Faso
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545738.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548477@anstoss
+DTSTAMP:20260606T133000Z
+DTSTART:20260606T133000Z
+DTEND:20260606T153000Z
+SUMMARY:Zambia – Kenya 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545742@anstoss
+DTSTAMP:20260609T120000Z
+DTSTART:20260609T120000Z
+DTEND:20260609T140000Z
+SUMMARY:Zambia – Kenya
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545742.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1550876@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Zambia – Zimbabwe 3:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586121@anstoss
+DTSTAMP:20260719T170000Z
+DTSTART:20260719T170000Z
+DTEND:20260719T190000Z
+SUMMARY:Algeria – Zambia 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1586122@anstoss
+DTSTAMP:20260722T170000Z
+DTSTART:20260722T170000Z
+DTEND:20260722T190000Z
+SUMMARY:Algeria – Zambia 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1586122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600202@anstoss
+DTSTAMP:20260728T170000Z
+DTSTART:20260728T170000Z
+DTEND:20260728T190000Z
+SUMMARY:Zambia – Egypt 6:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600211@anstoss
+DTSTAMP:20260801T200000Z
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+SUMMARY:Nigeria – Zambia 1:0
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Stade Larbi Zaouli\, Casablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600211.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600219@anstoss
+DTSTAMP:20260805T200000Z
+DTSTART:20260805T200000Z
+DTEND:20260805T220000Z
+SUMMARY:Malawi – Zambia 1:2
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600219.ht
+ ml
+END:VEVENT
+END:VCALENDAR

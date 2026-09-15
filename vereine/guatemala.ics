@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Guatemala
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140521@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Guatemala – Panama 0:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 1. S
+ pieltag
+LOCATION:Estadio Pensativo\, Antigua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140521.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140524@anstoss
+DTSTAMP:20230925T000000Z
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+SUMMARY:Panama – Guatemala 2:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 2. S
+ pieltag
+LOCATION:Estadio Universitario F.C.\, Penonomé
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140524.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140530@anstoss
+DTSTAMP:20231029T220000Z
+DTSTART:20231029T220000Z
+DTEND:20231030T000000Z
+SUMMARY:Jamaica – Guatemala 2:2
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 4. S
+ pieltag
+LOCATION:Independence Park\, Kingston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140537@anstoss
+DTSTAMP:20231204T000000Z
+DTSTART:20231204T000000Z
+DTEND:20231204T020000Z
+SUMMARY:Guatemala – Jamaica 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League A · 6. S
+ pieltag
+LOCATION:Estadio Nacional Mateo Flores\, Ciudad de Guatemala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140537.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1146253@anstoss
+DTSTAMP:20240218T030000Z
+DTSTART:20240218T030000Z
+DTEND:20240218T050000Z
+SUMMARY:El Salvador – Guatemala 3:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · Playoffs
+LOCATION:Dignity Health Sports Park\, Carson\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1146253.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488283@anstoss
+DTSTAMP:20251202T010000Z
+DTSTART:20251202T010000Z
+DTEND:20251202T030000Z
+SUMMARY:Guatemala – Bermuda 4:1
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Cementos Progreso\, Guatemala City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488283.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488290@anstoss
+DTSTAMP:20260301T010000Z
+DTSTART:20260301T010000Z
+DTEND:20260301T030000Z
+SUMMARY:Guatemala – Grenada 6:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Cementos Progreso\, Guatemala City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488302@anstoss
+DTSTAMP:20260307T000000Z
+DTSTART:20260307T000000Z
+DTEND:20260307T020000Z
+SUMMARY:Cayman Islands – Guatemala 0:13
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Truman Bodden Stadium\, George Town
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488321@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Costa Rica – Guatemala 3:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional de Costa Rica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545447@anstoss
+DTSTAMP:20260609T210000Z
+DTSTART:20260609T210000Z
+DTEND:20260609T230000Z
+SUMMARY:Guatemala – El Salvador 1:5
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545447.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chinese Taipei U20
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1424266@anstoss
+DTSTAMP:20250806T140000Z
+DTSTART:20250806T140000Z
+DTEND:20250806T160000Z
+SUMMARY:Chinese Taipei U20 – Palestine U20 4:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 1. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424266.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424277@anstoss
+DTSTAMP:20250808T170000Z
+DTSTART:20250808T170000Z
+DTEND:20250808T190000Z
+SUMMARY:Tajikistan U20 – Chinese Taipei U20 0:3
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 2. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424277.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1424285@anstoss
+DTSTAMP:20250810T140000Z
+DTSTART:20250810T140000Z
+DTEND:20250810T160000Z
+SUMMARY:Australia U20 – Chinese Taipei U20 3:0
+DESCRIPTION:AFC U20 Asian Cup - Women · 1st Round · 3. Spieltag
+LOCATION:Republican Central Stadium\, Dushanbe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1424285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540459@anstoss
+DTSTAMP:20260402T090000Z
+DTSTART:20260402T090000Z
+DTEND:20260402T110000Z
+SUMMARY:Australia U20 – Chinese Taipei U20 5:0
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540467@anstoss
+DTSTAMP:20260405T130000Z
+DTSTART:20260405T130000Z
+DTEND:20260405T150000Z
+SUMMARY:Chinese Taipei U20 – Japan U20 0:2
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Thammasat Stadium\, Rangsit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540471@anstoss
+DTSTAMP:20260408T090000Z
+DTSTART:20260408T090000Z
+DTEND:20260408T110000Z
+SUMMARY:Chinese Taipei U20 – India U20 1:3
+DESCRIPTION:AFC U20 Asian Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:BG Stadium\, Pathum Thani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540471.ht
+ ml
+END:VEVENT
+END:VCALENDAR

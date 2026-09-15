@@ -55,4 +55,28 @@ LOCATION:III. Keruleti TVE\, Budapest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612429.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626954@anstoss
+DTSTAMP:20260826T150000Z
+DTSTART:20260826T150000Z
+DTEND:20260826T170000Z
+SUMMARY:Mitrovica – Metalist 1925 0:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:Stadiumi Zahir Pajaziti\, Podujeve
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1626964@anstoss
+DTSTAMP:20260901T110000Z
+DTSTART:20260901T110000Z
+DTEND:20260901T130000Z
+SUMMARY:Metalist 1925 – Mitrovica 5:0
+DESCRIPTION:UEFA Europa Cup - Women · 1. Qualifikationsrunde · Halbfina
+ le
+LOCATION:FFM - Teren na Fudbalska Federacija na Makedonija\, Kharkiv
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1626964.ht
+ ml
+END:VEVENT
 END:VCALENDAR

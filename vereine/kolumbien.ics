@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kolumbien
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1013567@anstoss
+DTSTAMP:20230725T020000Z
+DTSTART:20230725T020000Z
+DTEND:20230725T040000Z
+SUMMARY:Kolumbien – Südkorea 2:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Allianz Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013567.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013583@anstoss
+DTSTAMP:20230730T093000Z
+DTSTART:20230730T093000Z
+DTEND:20230730T113000Z
+SUMMARY:Deutschland – Kolumbien 1:2
+DESCRIPTION:World Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Allianz Stadium\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1013599@anstoss
+DTSTAMP:20230803T100000Z
+DTSTART:20230803T100000Z
+DTEND:20230803T120000Z
+SUMMARY:Morocco – Kolumbien 1:0
+DESCRIPTION:World Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:HBF Park\, Perth
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1013599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1106509@anstoss
+DTSTAMP:20230808T080000Z
+DTSTART:20230808T080000Z
+DTEND:20230808T100000Z
+SUMMARY:Kolumbien – Jamaica 1:0
+DESCRIPTION:World Cup - Women · Achtelfinale
+LOCATION:Melbourne Rectangular Stadium\, Melbourne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1106509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1113789@anstoss
+DTSTAMP:20230812T103000Z
+DTSTART:20230812T103000Z
+DTEND:20230812T123000Z
+SUMMARY:England – Kolumbien 2:1
+DESCRIPTION:World Cup - Women · Viertelfinale
+LOCATION:Stadium Australia\, Sydney
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1113789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159529@anstoss
+DTSTAMP:20240222T003000Z
+DTSTART:20240222T003000Z
+DTEND:20240222T023000Z
+SUMMARY:Panama – Kolumbien 0:6
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 1. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159529.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1159532@anstoss
+DTSTAMP:20240225T031500Z
+DTSTART:20240225T031500Z
+DTEND:20240225T051500Z
+SUMMARY:Kolumbien – Brasilien 0:1
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 2. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1159532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1174968@anstoss
+DTSTAMP:20240228T000000Z
+DTSTART:20240228T000000Z
+DTEND:20240228T020000Z
+SUMMARY:Kolumbien – Puerto Rico 2:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Gruppenphase · 3. Spieltag
+LOCATION:Snapdragon Stadium\, San Diego\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1174968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1178663@anstoss
+DTSTAMP:20240304T011500Z
+DTSTART:20240304T011500Z
+DTEND:20240304T031500Z
+SUMMARY:USA – Kolumbien 3:0
+DESCRIPTION:CONCACAF Gold Cup - Women · Viertelfinale
+LOCATION:BMO Stadium\, Los Angeles\, California
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1178663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187466@anstoss
+DTSTAMP:20240725T190000Z
+DTSTART:20240725T190000Z
+DTEND:20240725T210000Z
+SUMMARY:Frankreich – Kolumbien 3:2
+DESCRIPTION:Olympics Women · Gruppenphase · 1. Spieltag
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187468@anstoss
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:New Zealand – Kolumbien 0:2
+DESCRIPTION:Olympics Women · Gruppenphase · 2. Spieltag
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1187474@anstoss
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T210000Z
+SUMMARY:Kolumbien – Kanada 0:1
+DESCRIPTION:Olympics Women · Gruppenphase · 3. Spieltag
+LOCATION:Allianz Riviera\, Nice
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1187474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1274762@anstoss
+DTSTAMP:20240803T150000Z
+DTSTART:20240803T150000Z
+DTEND:20240803T170000Z
+SUMMARY:Spanien – Kolumbien 2:2
+DESCRIPTION:Olympics Women · Viertelfinale
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1274762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327497@anstoss
+DTSTAMP:20250717T000000Z
+DTSTART:20250717T000000Z
+DTEND:20250717T020000Z
+SUMMARY:Venezuela – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · 1st Round · 1. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327500@anstoss
+DTSTAMP:20250720T000000Z
+DTSTART:20250720T000000Z
+DTEND:20250720T020000Z
+SUMMARY:Kolumbien – Paraguay 4:1
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327505@anstoss
+DTSTAMP:20250722T210000Z
+DTSTART:20250722T210000Z
+DTEND:20250722T230000Z
+SUMMARY:Kolumbien – Bolivia 8:0
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Cooprogreso Gonzalo Pozo Ripalda\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327505.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1327509@anstoss
+DTSTAMP:20250726T000000Z
+DTSTART:20250726T000000Z
+DTEND:20250726T020000Z
+SUMMARY:Brasilien – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · 1st Round · 2. Spieltag
+LOCATION:Estadio Banco Guayaquil\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1327509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1414160@anstoss
+DTSTAMP:20250729T000000Z
+DTSTART:20250729T000000Z
+DTEND:20250729T020000Z
+SUMMARY:Argentina – Kolumbien 0:0
+DESCRIPTION:Copa America Femenina · Halbfinale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1414160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1418168@anstoss
+DTSTAMP:20250802T210000Z
+DTSTART:20250802T210000Z
+DTEND:20250802T230000Z
+SUMMARY:Kolumbien – Brasilien 4:4
+DESCRIPTION:Copa America Femenina · Finale
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1418168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483016@anstoss
+DTSTAMP:20251024T230000Z
+DTSTART:20251024T230000Z
+DTEND:20251025T010000Z
+SUMMARY:Kolumbien – Peru 4:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 1. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483019@anstoss
+DTSTAMP:20251028T230000Z
+DTSTART:20251028T230000Z
+DTEND:20251029T010000Z
+SUMMARY:Ecuador – Kolumbien 1:2
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 2. Spieltag
+LOCATION:Estadio Rodrigo Paz Delgado\, Quito
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483021@anstoss
+DTSTAMP:20251128T210000Z
+DTSTART:20251128T210000Z
+DTEND:20251128T230000Z
+SUMMARY:Bolivia – Kolumbien 1:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 3. Spieltag
+LOCATION:Estadio Municipal de El Alto\, El Alto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483021.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483030@anstoss
+DTSTAMP:20260411T010000Z
+DTSTART:20260411T010000Z
+DTEND:20260411T030000Z
+SUMMARY:Kolumbien – Venezuela 2:1
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483034@anstoss
+DTSTAMP:20260415T010000Z
+DTSTART:20260415T010000Z
+DTEND:20260415T030000Z
+SUMMARY:Kolumbien – Chile 2:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483037@anstoss
+DTSTAMP:20260418T230000Z
+DTSTART:20260418T230000Z
+DTEND:20260419T010000Z
+SUMMARY:Argentina – Kolumbien 0:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483037.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483044@anstoss
+DTSTAMP:20260605T230000Z
+DTSTART:20260605T230000Z
+DTEND:20260606T010000Z
+SUMMARY:Kolumbien – Uruguay 1:0
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1483046@anstoss
+DTSTAMP:20260609T230000Z
+DTSTART:20260609T230000Z
+DTEND:20260610T010000Z
+SUMMARY:Paraguay – Kolumbien 3:4
+DESCRIPTION:CONMEBOL Nations League Women · Gruppenphase · 9. Spieltag
+LOCATION:Estadio Defensores del Chaco
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1483046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638588@anstoss
+DTSTAMP:20261128T083500Z
+DTSTART:20261128T083500Z
+DTEND:20261128T103500Z
+SUMMARY:Australien – Kolumbien
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638588.ht
+ ml
+END:VEVENT
+END:VCALENDAR

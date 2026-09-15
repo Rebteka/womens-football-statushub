@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Burkina Faso
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140644@anstoss
+DTSTAMP:20230712T000000Z
+DTSTART:20230712T000000Z
+DTEND:20230712T020000Z
+SUMMARY:Burkina Faso – Mali 0:1
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade de l'Amitié\, Cotonou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140645@anstoss
+DTSTAMP:20230718T000000Z
+DTSTART:20230718T000000Z
+DTEND:20230718T020000Z
+SUMMARY:Mali – Burkina Faso 2:2
+DESCRIPTION:Olympics Women - Qualification CAF · 1st Round
+LOCATION:Stade 26 Mars\, Bamako
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529301@anstoss
+DTSTAMP:20260227T220000Z
+DTSTART:20260227T220000Z
+DTEND:20260228T000000Z
+SUMMARY:Morocco – Burkina Faso 5:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529312@anstoss
+DTSTAMP:20260303T220000Z
+DTSTART:20260303T220000Z
+DTEND:20260304T000000Z
+SUMMARY:Morocco – Burkina Faso 1:1
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540257@anstoss
+DTSTAMP:20260413T170000Z
+DTSTART:20260413T170000Z
+DTEND:20260413T190000Z
+SUMMARY:Senegal – Burkina Faso 1:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540257.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540263@anstoss
+DTSTAMP:20260416T170000Z
+DTSTART:20260416T170000Z
+DTEND:20260416T190000Z
+SUMMARY:Senegal – Burkina Faso 3:3
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548466@anstoss
+DTSTAMP:20260604T160000Z
+DTSTART:20260604T160000Z
+DTEND:20260604T180000Z
+SUMMARY:Burkina Faso – Mali 0:0
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545738@anstoss
+DTSTAMP:20260606T120000Z
+DTSTART:20260606T120000Z
+DTEND:20260606T140000Z
+SUMMARY:Zambia – Burkina Faso
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545738.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548480@anstoss
+DTSTAMP:20260607T160000Z
+DTSTART:20260607T160000Z
+DTEND:20260607T180000Z
+SUMMARY:Burkina Faso – Mali 2:2
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545743@anstoss
+DTSTAMP:20260609T120000Z
+DTSTART:20260609T120000Z
+DTEND:20260609T140000Z
+SUMMARY:Zimbabwe – Burkina Faso
+DESCRIPTION:Friendlies Women · Friendly International Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545743.ht
+ ml
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600201@anstoss
+DTSTAMP:20260727T200000Z
+DTSTART:20260727T200000Z
+DTEND:20260727T220000Z
+SUMMARY:Ivory Coast – Burkina Faso 4:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 1. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600201.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600209@anstoss
+DTSTAMP:20260731T200000Z
+DTSTART:20260731T200000Z
+DTEND:20260731T220000Z
+SUMMARY:Burkina Faso – Tanzania 2:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 2. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600216@anstoss
+DTSTAMP:20260804T200000Z
+DTSTART:20260804T200000Z
+DTEND:20260804T220000Z
+SUMMARY:Burkina Faso – South Africa 0:1
+DESCRIPTION:Africa Cup of Nations - Women · Gruppenphase · 3. Spieltag
+LOCATION:Al Medina Stadium\, Rabat
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600216.ht
+ ml
+END:VEVENT
+END:VCALENDAR

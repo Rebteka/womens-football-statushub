@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nicaragua
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1140578@anstoss
+DTSTAMP:20230921T000000Z
+DTSTART:20230921T000000Z
+DTEND:20230921T020000Z
+SUMMARY:Nicaragua – El Salvador 0:3
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 1. S
+ pieltag
+LOCATION:Estadio Nacional de Fútbol\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140578.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140584@anstoss
+DTSTAMP:20230926T000000Z
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+SUMMARY:Honduras – Nicaragua 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 2. S
+ pieltag
+LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140589@anstoss
+DTSTAMP:20231026T000000Z
+DTSTART:20231026T000000Z
+DTEND:20231026T020000Z
+SUMMARY:Martinique – Nicaragua 1:0
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 3. S
+ pieltag
+LOCATION:Stade Municipal Pierre-Aliker\, Fort-de-France
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140589.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140596@anstoss
+DTSTAMP:20231030T020000Z
+DTSTART:20231030T020000Z
+DTEND:20231030T040000Z
+SUMMARY:Nicaragua – Martinique 1:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 4. S
+ pieltag
+LOCATION:Estadio Nacional Dennis Martínez\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140601@anstoss
+DTSTAMP:20231130T000000Z
+DTSTART:20231130T000000Z
+DTEND:20231130T020000Z
+SUMMARY:Nicaragua – Honduras 2:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 5. S
+ pieltag
+LOCATION:Estadio Independencia\, Estelí
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1140607@anstoss
+DTSTAMP:20231203T210000Z
+DTSTART:20231203T210000Z
+DTEND:20231203T230000Z
+SUMMARY:El Salvador – Nicaragua 4:1
+DESCRIPTION:CONCACAF Gold Cup - Qualification - Women · League B · 6. S
+ pieltag
+LOCATION:Estadio Nacional Jorge Mágico González\, San Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1140607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488270@anstoss
+DTSTAMP:20251127T200000Z
+DTSTART:20251127T200000Z
+DTEND:20251127T220000Z
+SUMMARY:Antigua and Barbuda – Nicaragua 0:4
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Sir Vivian Richards Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488282@anstoss
+DTSTAMP:20251202T000000Z
+DTSTART:20251202T000000Z
+DTEND:20251202T020000Z
+SUMMARY:Guyana – Nicaragua 1:3
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Synthetic Track and Field Facility\, Leonora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488293@anstoss
+DTSTAMP:20260303T000000Z
+DTSTART:20260303T000000Z
+DTEND:20260303T020000Z
+SUMMARY:Nicaragua – Jamaica 2:3
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional de Futbol\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1488324@anstoss
+DTSTAMP:20260419T000000Z
+DTSTART:20260419T000000Z
+DTEND:20260419T020000Z
+SUMMARY:Nicaragua – Dominica 14:0
+DESCRIPTION:World Cup - Women - Qualification Concacaf · Gruppenphase
+LOCATION:Estadio Nacional de Futbol\, Managua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1488324.ht
+ ml
+END:VEVENT
+END:VCALENDAR
