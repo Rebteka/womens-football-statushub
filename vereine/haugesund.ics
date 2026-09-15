@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Haugesund
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495303@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:Rosenborg – Haugesund 1:1
+DESCRIPTION:Toppserien · 1. Spieltag
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495307@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:Haugesund – Vålerenga 2:4
+DESCRIPTION:Toppserien · 2. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495313@anstoss
+DTSTAMP:20260401T140000Z
+DTSTART:20260401T140000Z
+DTEND:20260401T160000Z
+SUMMARY:Haugesund – Fortuna Ålesund 3:1
+DESCRIPTION:Toppserien · 3. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495319@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Hønefoss – Haugesund 2:3
+DESCRIPTION:Toppserien · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495378@anstoss
+DTSTAMP:20260428T160000Z
+DTSTART:20260428T160000Z
+DTEND:20260428T180000Z
+SUMMARY:SK Brann – Haugesund 2:0
+DESCRIPTION:Toppserien · 14. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495324@anstoss
+DTSTAMP:20260502T120000Z
+DTSTART:20260502T120000Z
+DTEND:20260502T140000Z
+SUMMARY:Haugesund – Lyn 0:3
+DESCRIPTION:Toppserien · 5. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495333@anstoss
+DTSTAMP:20260508T160000Z
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+SUMMARY:LSK Kvinner – Haugesund 2:1
+DESCRIPTION:Toppserien · 6. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495338@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Haugesund – SK Brann 0:7
+DESCRIPTION:Toppserien · 7. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495346@anstoss
+DTSTAMP:20260526T160000Z
+DTSTART:20260526T160000Z
+DTEND:20260526T180000Z
+SUMMARY:Stabæk – Haugesund 3:0
+DESCRIPTION:Toppserien · 8. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495350@anstoss
+DTSTAMP:20260530T120000Z
+DTSTART:20260530T120000Z
+DTEND:20260530T140000Z
+SUMMARY:Haugesund – Røa 2:1
+DESCRIPTION:Toppserien · 9. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495354@anstoss
+DTSTAMP:20260613T113000Z
+DTSTART:20260613T113000Z
+DTEND:20260613T133000Z
+SUMMARY:Haugesund – Bodø / Glimt 2:1
+DESCRIPTION:Toppserien · 10. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495363@anstoss
+DTSTAMP:20260620T123000Z
+DTSTART:20260620T123000Z
+DTEND:20260620T143000Z
+SUMMARY:Molde – Haugesund 3:3
+DESCRIPTION:Toppserien · 11. Spieltag
+LOCATION:Aker Stadion\, Molde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495367@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Haugesund – Stabæk 1:1
+DESCRIPTION:Toppserien · 12. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495372@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:Fortuna Ålesund – Haugesund 5:1
+DESCRIPTION:Toppserien · 13. Spieltag
+LOCATION:Color Line Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495385@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Haugesund – Rosenborg 0:1
+DESCRIPTION:Toppserien · 15. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495395@anstoss
+DTSTAMP:20260917T160000Z
+DTSTART:20260917T160000Z
+DTEND:20260917T180000Z
+SUMMARY:Vålerenga – Haugesund
+DESCRIPTION:Toppserien · 16. Spieltag
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495397@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Haugesund – LSK Kvinner
+DESCRIPTION:Toppserien · 17. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495404@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Lyn – Haugesund
+DESCRIPTION:Toppserien · 18. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495410@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Haugesund – Molde
+DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495415@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Bodø / Glimt – Haugesund
+DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Aspmyra Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495420@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Haugesund – Hønefoss
+DESCRIPTION:Toppserien · 21. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495431@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Røa – Haugesund
+DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495431.ht
+ ml
+END:VEVENT
+END:VCALENDAR

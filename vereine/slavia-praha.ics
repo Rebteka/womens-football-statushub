@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Slavia Praha
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558465@anstoss
+DTSTAMP:20260805T183000Z
+DTSTART:20260805T183000Z
+DTEND:20260805T203000Z
+SUMMARY:Slavia Praha – Rangers 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612438@anstoss
+DTSTAMP:20260808T183000Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Slavia Praha – Brøndby 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627624@anstoss
+DTSTAMP:20260815T101500Z
+DTSTART:20260815T101500Z
+DTEND:20260815T121500Z
+SUMMARY:Slavia Praha – Viktoria Plzeň 8:0
+DESCRIPTION:1. Liga Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627629@anstoss
+DTSTAMP:20260822T110000Z
+DTSTART:20260822T110000Z
+DTEND:20260822T130000Z
+SUMMARY:Baník Ostrava – Slavia Praha 0:6
+DESCRIPTION:1. Liga Women · 2. Spieltag
+LOCATION:Bazaly
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627632@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Slavia Praha – Horní Heršpice 9:0
+DESCRIPTION:1. Liga Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627637@anstoss
+DTSTAMP:20260906T090000Z
+DTSTART:20260906T090000Z
+DTEND:20260906T110000Z
+SUMMARY:Sparta Praha – Slavia Praha 1:2
+DESCRIPTION:1. Liga Women · 4. Spieltag
+LOCATION:epet ARENA\, Prague
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627639@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Slavia Praha – Slovan Liberec 4:0
+DESCRIPTION:1. Liga Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627645@anstoss
+DTSTAMP:20260920T090000Z
+DTSTART:20260920T090000Z
+DTEND:20260920T110000Z
+SUMMARY:Slovácko – Slavia Praha
+DESCRIPTION:1. Liga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627649@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Slavia Praha – Prague Raptors
+DESCRIPTION:1. Liga Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627649.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627653@anstoss
+DTSTAMP:20261017T110000Z
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
+SUMMARY:Viktoria Plzeň – Slavia Praha
+DESCRIPTION:1. Liga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627655@anstoss
+DTSTAMP:20261024T120000Z
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
+SUMMARY:Slavia Praha – Baník Ostrava
+DESCRIPTION:1. Liga Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627655.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627659@anstoss
+DTSTAMP:20261031T100000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Horní Heršpice – Slavia Praha
+DESCRIPTION:1. Liga Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627663@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Slavia Praha – Sparta Praha
+DESCRIPTION:1. Liga Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627667@anstoss
+DTSTAMP:20270220T130000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Slovan Liberec – Slavia Praha
+DESCRIPTION:1. Liga Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627667.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627671@anstoss
+DTSTAMP:20270313T130000Z
+DTSTART:20270313T130000Z
+DTEND:20270313T150000Z
+SUMMARY:Slavia Praha – Slovácko
+DESCRIPTION:1. Liga Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627671.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627675@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART:20270320T100000Z
+DTEND:20270320T120000Z
+SUMMARY:Prague Raptors – Slavia Praha
+DESCRIPTION:1. Liga Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627675.ht
+ ml
+END:VEVENT
+END:VCALENDAR

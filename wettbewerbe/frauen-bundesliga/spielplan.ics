@@ -1,0 +1,1977 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Frauen-Bundesliga 2026/27
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1593107@anstoss
+DTSTAMP:20260821T162000Z
+DTSTART:20260821T162000Z
+DTEND:20260821T182000Z
+SUMMARY:1. FC Union Berlin – FC Bayern München 1:4
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:An der alten Försterei\, Berlin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593107.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593109@anstoss
+DTSTAMP:20260822T100000Z
+DTSTART:20260822T100000Z
+DTEND:20260822T120000Z
+SUMMARY:Eintracht Frankfurt – 1. FC Köln 2:0
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593109.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593108@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:1. FC Nürnberg – VfL Wolfsburg 2:8
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593111@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:TSG Hoffenheim – VfB Stuttgart 1:2
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593113@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:RB Leipzig – Bayer 04 Leverkusen 0:2
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593113.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593110@anstoss
+DTSTAMP:20260823T163000Z
+DTSTART:20260823T163000Z
+DTEND:20260823T183000Z
+SUMMARY:Hamburger SV – SC Freiburg 1:1
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593112@anstoss
+DTSTAMP:20260824T160000Z
+DTSTART:20260824T160000Z
+DTEND:20260824T180000Z
+SUMMARY:1. FSV Mainz 05 – SV Werder Bremen 1:2
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Bruchwegstadion\, Mainz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593118@anstoss
+DTSTAMP:20260828T163000Z
+DTSTART:20260828T163000Z
+DTEND:20260828T183000Z
+SUMMARY:1. FC Köln – TSG Hoffenheim 1:0
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593117@anstoss
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+SUMMARY:SC Freiburg – 1. FC Union Berlin 1:0
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593119@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:VfB Stuttgart – Hamburger SV 2:1
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Gazi-Stadion auf der Waldau\, Stuttgart
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593116@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:Eintracht Frankfurt – 1. FC Nürnberg 1:1
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593114@anstoss
+DTSTAMP:20260830T140000Z
+DTSTART:20260830T140000Z
+DTEND:20260830T160000Z
+SUMMARY:Bayer 04 Leverkusen – VfL Wolfsburg 1:2
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593120@anstoss
+DTSTAMP:20260830T163000Z
+DTSTART:20260830T163000Z
+DTEND:20260830T183000Z
+SUMMARY:SV Werder Bremen – RB Leipzig 2:0
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593115@anstoss
+DTSTAMP:20260831T160000Z
+DTSTART:20260831T160000Z
+DTEND:20260831T180000Z
+SUMMARY:FC Bayern München – 1. FSV Mainz 05 2:0
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593124@anstoss
+DTSTAMP:20260904T163000Z
+DTSTART:20260904T163000Z
+DTEND:20260904T183000Z
+SUMMARY:TSG Hoffenheim – Bayer 04 Leverkusen 1:2
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593123@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Hamburger SV – RB Leipzig 1:1
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593123.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593125@anstoss
+DTSTAMP:20260905T120000Z
+DTSTART:20260905T120000Z
+DTEND:20260905T140000Z
+SUMMARY:1. FSV Mainz 05 – 1. FC Köln 0:4
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:Bruchwegstadion\, Mainz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593127@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:VfL Wolfsburg – SV Werder Bremen 3:2
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593122@anstoss
+DTSTAMP:20260906T140000Z
+DTSTART:20260906T140000Z
+DTEND:20260906T160000Z
+SUMMARY:FC Bayern München – SC Freiburg 4:1
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593121@anstoss
+DTSTAMP:20260906T163000Z
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+SUMMARY:1. FC Nürnberg – VfB Stuttgart 3:3
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593126@anstoss
+DTSTAMP:20260907T160000Z
+DTSTART:20260907T160000Z
+DTEND:20260907T180000Z
+SUMMARY:1. FC Union Berlin – Eintracht Frankfurt 0:1
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593134@anstoss
+DTSTAMP:20260911T163000Z
+DTSTART:20260911T163000Z
+DTEND:20260911T183000Z
+SUMMARY:SV Werder Bremen – Hamburger SV 1:0
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593134.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593132@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:RB Leipzig – 1. FC Nürnberg 2:1
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593131@anstoss
+DTSTAMP:20260912T120000Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:1. FC Köln – 1. FC Union Berlin 3:0
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593131.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593133@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:VfB Stuttgart – VfL Wolfsburg 0:2
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593129@anstoss
+DTSTAMP:20260913T140000Z
+DTSTART:20260913T140000Z
+DTEND:20260913T160000Z
+SUMMARY:Eintracht Frankfurt – TSG Hoffenheim 4:2
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593129.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593130@anstoss
+DTSTAMP:20260913T163000Z
+DTSTART:20260913T163000Z
+DTEND:20260913T183000Z
+SUMMARY:SC Freiburg – 1. FSV Mainz 05 3:0
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593128@anstoss
+DTSTAMP:20260914T160000Z
+DTSTART:20260914T160000Z
+DTEND:20260914T180000Z
+SUMMARY:Bayer 04 Leverkusen – FC Bayern München 2:3
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593138@anstoss
+DTSTAMP:20260918T163000Z
+DTSTART:20260918T163000Z
+DTEND:20260918T183000Z
+SUMMARY:TSG Hoffenheim – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593139@anstoss
+DTSTAMP:20260918T163000Z
+DTSTART:20260918T163000Z
+DTEND:20260918T183000Z
+SUMMARY:1. FSV Mainz 05 – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593135@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:FC Bayern München – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593137@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:Hamburger SV – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593136@anstoss
+DTSTAMP:20260920T140000Z
+DTSTART:20260920T140000Z
+DTEND:20260920T160000Z
+SUMMARY:SC Freiburg – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593140@anstoss
+DTSTAMP:20260920T163000Z
+DTSTART:20260920T163000Z
+DTEND:20260920T183000Z
+SUMMARY:1. FC Union Berlin – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593140.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593141@anstoss
+DTSTAMP:20260921T160000Z
+DTSTART:20260921T160000Z
+DTEND:20260921T180000Z
+SUMMARY:SV Werder Bremen – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593143@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Bayer 04 Leverkusen – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593148@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:VfL Wolfsburg – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593148.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593145@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:1. FC Köln – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593144@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Eintracht Frankfurt – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593142@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:1. FC Nürnberg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593146@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:RB Leipzig – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593146.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593147@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:VfB Stuttgart – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593149@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Bayer 04 Leverkusen – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593149.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593150@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:FC Bayern München – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593150.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593151@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:SC Freiburg – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593151.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593155@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:SV Werder Bremen – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593152@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:1. FC Köln – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593153@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:1. FSV Mainz 05 – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593154@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:1. FC Union Berlin – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593154.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593158@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:TSG Hoffenheim – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593162@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:VfL Wolfsburg – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593162.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593161@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SV Werder Bremen – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593156@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:1. FC Nürnberg – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593157@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Hamburger SV – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593157.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593159@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:RB Leipzig – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593160@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:VfB Stuttgart – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593163@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Bayer 04 Leverkusen – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593163.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593164@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:FC Bayern München – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593164.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593166@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:SC Freiburg – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593166.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593167@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:1. FC Köln – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593165@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Eintracht Frankfurt – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593165.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593168@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:1. FSV Mainz 05 – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593169@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:1. FC Union Berlin – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593169.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593172@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:TSG Hoffenheim – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593176@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:VfL Wolfsburg – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593175@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SV Werder Bremen – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593175.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593170@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:1. FC Nürnberg – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593170.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593171@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Hamburger SV – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593171.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593173@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:RB Leipzig – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593173.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593174@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:VfB Stuttgart – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593177@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FC Bayern München – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593177.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593179@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SC Freiburg – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593179.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593180@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:1. FC Köln – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593180.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593178@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Eintracht Frankfurt – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593178.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593182@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:RB Leipzig – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593182.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593181@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:1. FSV Mainz 05 – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593181.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593183@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:1. FC Union Berlin – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593183.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593187@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:TSG Hoffenheim – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593184@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Bayer 04 Leverkusen – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593185@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC Bayern München – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593185.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593186@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SC Freiburg – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593190@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SV Werder Bremen – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593188@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VfB Stuttgart – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593188.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593189@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:1. FC Union Berlin – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593189.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593197@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:VfL Wolfsburg – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593194@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:1. FC Köln – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593194.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593192@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Eintracht Frankfurt – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593192.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593191@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:1. FC Nürnberg – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593193@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Hamburger SV – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593193.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593196@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:RB Leipzig – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593196.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593195@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:1. FSV Mainz 05 – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593195.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593198@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Bayer 04 Leverkusen – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593198.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593199@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:FC Bayern München – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593204@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VfL Wolfsburg – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593200@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SC Freiburg – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593200.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593203@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SV Werder Bremen – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593201@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:1. FC Köln – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593201.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593202@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VfB Stuttgart – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593207@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:TSG Hoffenheim – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593211@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:VfL Wolfsburg – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593211.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593205@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:1. FC Nürnberg – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593206@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Hamburger SV – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593209@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:RB Leipzig – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593208@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:1. FSV Mainz 05 – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593208.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593210@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:1. FC Union Berlin – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593210.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593212@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Bayer 04 Leverkusen – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593212.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593214@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SC Freiburg – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593214.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593218@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SV Werder Bremen – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593218.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593215@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:1. FC Köln – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593215.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593213@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Eintracht Frankfurt – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593213.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593216@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:RB Leipzig – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593216.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593217@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:VfB Stuttgart – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593217.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593222@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:TSG Hoffenheim – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593220@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:FC Bayern München – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593220.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593225@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:VfL Wolfsburg – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593219@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. FC Nürnberg – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593219.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593221@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Hamburger SV – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593223@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. FSV Mainz 05 – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593224@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. FC Union Berlin – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593224.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593227@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Bayer 04 Leverkusen – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593232@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VfL Wolfsburg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593232.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593229@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:1. FC Köln – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593229.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593228@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Eintracht Frankfurt – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593228.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593226@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:1. FC Nürnberg – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593226.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593230@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:RB Leipzig – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593230.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593231@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VfB Stuttgart – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593231.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593236@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:TSG Hoffenheim – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593236.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593233@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:FC Bayern München – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593233.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593234@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:SC Freiburg – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593234.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593239@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:SV Werder Bremen – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593239.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593235@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Hamburger SV – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593235.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593237@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:1. FSV Mainz 05 – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593237.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593238@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:1. FC Union Berlin – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593238.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593243@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:TSG Hoffenheim – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593246@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:VfL Wolfsburg – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593246.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593241@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Eintracht Frankfurt – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593241.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593240@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:1. FC Nürnberg – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593240.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593242@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Hamburger SV – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593242.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593244@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:RB Leipzig – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593245@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:VfB Stuttgart – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593247@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Bayer 04 Leverkusen – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593248@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:FC Bayern München – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593250@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:SC Freiburg – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593251@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:1. FC Köln – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593251.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593249@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Eintracht Frankfurt – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593252@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:1. FSV Mainz 05 – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593253@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:1. FC Union Berlin – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593253.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593256@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:TSG Hoffenheim – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593260@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:VfL Wolfsburg – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593259@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:SV Werder Bremen – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593254@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:1. FC Nürnberg – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593255@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Hamburger SV – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593255.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593257@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:RB Leipzig – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593257.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593258@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:VfB Stuttgart – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593258.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593261@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Bayer 04 Leverkusen – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593261.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593262@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:FC Bayern München – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593264@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:SC Freiburg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593265@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:1. FC Köln – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593265.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593263@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Eintracht Frankfurt – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593266@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:1. FSV Mainz 05 – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593266.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593267@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:1. FC Union Berlin – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593267.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593271@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:TSG Hoffenheim – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593271.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593269@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Bayer 04 Leverkusen – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593269.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593274@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:VfL Wolfsburg – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593274.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593273@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:SV Werder Bremen – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593268@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:1. FC Nürnberg – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593268.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593270@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Hamburger SV – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593272@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:VfB Stuttgart – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593281@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:VfL Wolfsburg – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593278@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:1. FC Köln – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593278.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593276@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Eintracht Frankfurt – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593275@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:1. FC Nürnberg – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593275.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593277@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Hamburger SV – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593277.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593280@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:RB Leipzig – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593279@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:1. FSV Mainz 05 – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593279.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593285@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:TSG Hoffenheim – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593282@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Bayer 04 Leverkusen – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593283@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:FC Bayern München – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593283.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593284@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SC Freiburg – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593284.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593288@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SV Werder Bremen – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593286@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:VfB Stuttgart – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593287@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:1. FC Union Berlin – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593287.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Croatia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523829@anstoss
+DTSTAMP:20260303T100000Z
+DTSTART:20260303T100000Z
+DTEND:20260303T120000Z
+SUMMARY:Bulgaria – Croatia 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523829.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523854@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Croatia – Kosovo 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Stadion Branko Cavlovic-Cavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523854.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523879@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Gibraltar – Croatia 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Europa point stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523879.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523904@anstoss
+DTSTAMP:20260418T143000Z
+DTSTART:20260418T143000Z
+DTEND:20260418T163000Z
+SUMMARY:Croatia – Gibraltar 9:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Gradski Stadion\, Sinj
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523929@anstoss
+DTSTAMP:20260605T170000Z
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+SUMMARY:Kosovo – Croatia 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523954@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Croatia – Bulgaria 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stadion Aldo Drosina\, Pula
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557245@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Croatia – Island
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557260@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Island – Croatia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557260.ht
+ ml
+END:VEVENT
+END:VCALENDAR

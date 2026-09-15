@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:América de Cali
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518010@anstoss
+DTSTAMP:20260213T220000Z
+DTSTART:20260213T220000Z
+DTEND:20260214T000000Z
+SUMMARY:América de Cali – Junior 3:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524344@anstoss
+DTSTAMP:20260221T234000Z
+DTSTART:20260221T234000Z
+DTEND:20260222T014000Z
+SUMMARY:Atlético Bucaramanga – América de Cali 1:4
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Cancha Marte - UMT\, Bucaramanga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524358@anstoss
+DTSTAMP:20260310T220000Z
+DTSTART:20260310T220000Z
+DTEND:20260311T000000Z
+SUMMARY:América de Cali – Orsomarso 1:0
+DESCRIPTION:Liga Femenina · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524362@anstoss
+DTSTAMP:20260316T000000Z
+DTSTART:20260316T000000Z
+DTEND:20260316T020000Z
+SUMMARY:América de Cali – Atlético Nacional 1:0
+DESCRIPTION:Liga Femenina · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524369@anstoss
+DTSTAMP:20260322T200000Z
+DTSTART:20260322T200000Z
+DTEND:20260322T220000Z
+SUMMARY:Once Caldas – América de Cali 1:2
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524375@anstoss
+DTSTAMP:20260328T220000Z
+DTSTART:20260328T220000Z
+DTEND:20260329T000000Z
+SUMMARY:América de Cali – Santa Fe 1:2
+DESCRIPTION:Liga Femenina · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524383@anstoss
+DTSTAMP:20260403T200000Z
+DTSTART:20260403T200000Z
+DTEND:20260403T220000Z
+SUMMARY:Fortaleza – América de Cali 0:1
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525699@anstoss
+DTSTAMP:20260423T200000Z
+DTSTART:20260423T200000Z
+DTEND:20260423T220000Z
+SUMMARY:Real Santander – América de Cali 0:1
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525699.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525700@anstoss
+DTSTAMP:20260503T200000Z
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+SUMMARY:América de Cali – Deportivo Cali 0:1
+DESCRIPTION:Liga Femenina · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525714@anstoss
+DTSTAMP:20260511T214500Z
+DTSTART:20260511T214500Z
+DTEND:20260511T234500Z
+SUMMARY:Millonarios – América de Cali 0:0
+DESCRIPTION:Liga Femenina · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525716@anstoss
+DTSTAMP:20260517T230000Z
+DTSTART:20260517T230000Z
+DTEND:20260518T010000Z
+SUMMARY:América de Cali – Deportivo Pasto 2:0
+DESCRIPTION:Liga Femenina · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525727@anstoss
+DTSTAMP:20260523T190000Z
+DTSTART:20260523T190000Z
+DTEND:20260523T210000Z
+SUMMARY:La Equidad – América de Cali 1:1
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525727.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525732@anstoss
+DTSTAMP:20260529T210000Z
+DTSTART:20260529T210000Z
+DTEND:20260529T230000Z
+SUMMARY:América de Cali – Internacional Palmira 5:0
+DESCRIPTION:Liga Femenina · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525741@anstoss
+DTSTAMP:20260724T000000Z
+DTSTART:20260724T000000Z
+DTEND:20260724T020000Z
+SUMMARY:Deportivo Cali – América de Cali 1:0
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525748@anstoss
+DTSTAMP:20260803T011500Z
+DTSTART:20260803T011500Z
+DTEND:20260803T031500Z
+SUMMARY:América de Cali – Llaneros 4:1
+DESCRIPTION:Liga Femenina · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525748.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525758@anstoss
+DTSTAMP:20260820T200000Z
+DTSTART:20260820T200000Z
+DTEND:20260820T220000Z
+SUMMARY:Independiente Medellín – América de Cali 0:3
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634822@anstoss
+DTSTAMP:20260826T203000Z
+DTSTART:20260826T203000Z
+DTEND:20260826T223000Z
+SUMMARY:América de Cali – Deportivo Cali 1:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634822.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632315@anstoss
+DTSTAMP:20260829T200000Z
+DTSTART:20260829T200000Z
+DTEND:20260829T220000Z
+SUMMARY:Orsomarso – América de Cali 0:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 2. Spieltag
+LOCATION:Estadio Municipal Raul Miranda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632320@anstoss
+DTSTAMP:20260902T223000Z
+DTSTART:20260902T223000Z
+DTEND:20260903T003000Z
+SUMMARY:Santa Fe – América de Cali 1:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637610@anstoss
+DTSTAMP:20260905T203000Z
+DTSTART:20260905T203000Z
+DTEND:20260905T223000Z
+SUMMARY:América de Cali – Santa Fe 0:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637610.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638209@anstoss
+DTSTAMP:20260909T200000Z
+DTSTART:20260909T200000Z
+DTEND:20260909T220000Z
+SUMMARY:América de Cali – Orsomarso 3:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638741@anstoss
+DTSTAMP:20260912T203000Z
+DTSTART:20260912T203000Z
+DTEND:20260912T223000Z
+SUMMARY:Deportivo Cali – América de Cali 0:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 6. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638741.ht
+ ml
+END:VEVENT
+END:VCALENDAR

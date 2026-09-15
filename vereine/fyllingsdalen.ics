@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fyllingsdalen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535603@anstoss
+DTSTAMP:20260322T120000Z
+DTSTART:20260322T120000Z
+DTEND:20260322T140000Z
+SUMMARY:Fyllingsdalen – Start 1:3
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535607@anstoss
+DTSTAMP:20260329T120000Z
+DTSTART:20260329T120000Z
+DTEND:20260329T140000Z
+SUMMARY:Kolbotn – Fyllingsdalen 5:1
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535680@anstoss
+DTSTAMP:20260419T104500Z
+DTSTART:20260419T104500Z
+DTEND:20260419T124500Z
+SUMMARY:Fyllingsdalen – Frigg Oslo FK 2:0
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535680.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535683@anstoss
+DTSTAMP:20260426T120000Z
+DTSTART:20260426T120000Z
+DTEND:20260426T140000Z
+SUMMARY:Grei – Fyllingsdalen 3:1
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535683.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535615@anstoss
+DTSTAMP:20260501T120000Z
+DTSTART:20260501T120000Z
+DTEND:20260501T140000Z
+SUMMARY:Arna-Bjørnar – Fyllingsdalen 2:1
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535615.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535621@anstoss
+DTSTAMP:20260509T110000Z
+DTSTART:20260509T110000Z
+DTEND:20260509T130000Z
+SUMMARY:Fyllingsdalen – TIL 2020 1:7
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535621.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535624@anstoss
+DTSTAMP:20260515T163000Z
+DTSTART:20260515T163000Z
+DTEND:20260515T183000Z
+SUMMARY:Odd – Fyllingsdalen 2:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535626@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:Fyllingsdalen – Viking FK 1:5
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535628@anstoss
+DTSTAMP:20260613T130000Z
+DTSTART:20260613T130000Z
+DTEND:20260613T150000Z
+SUMMARY:Åsane – Fyllingsdalen 1:0
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535697@anstoss
+DTSTAMP:20260620T150000Z
+DTSTART:20260620T150000Z
+DTEND:20260620T170000Z
+SUMMARY:Fyllingsdalen – Klepp 2:0
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535636@anstoss
+DTSTAMP:20260627T110000Z
+DTSTART:20260627T110000Z
+DTEND:20260627T130000Z
+SUMMARY:Bryne – Fyllingsdalen 0:1
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535637@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Fyllingsdalen – Åsane 1:2
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535706@anstoss
+DTSTAMP:20260809T110000Z
+DTSTART:20260809T110000Z
+DTEND:20260809T130000Z
+SUMMARY:Klepp – Fyllingsdalen 5:4
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535645@anstoss
+DTSTAMP:20260815T133000Z
+DTSTART:20260815T133000Z
+DTEND:20260815T153000Z
+SUMMARY:Fyllingsdalen – Bryne 1:0
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535649@anstoss
+DTSTAMP:20260823T110000Z
+DTSTART:20260823T110000Z
+DTEND:20260823T130000Z
+SUMMARY:TIL 2020 – Fyllingsdalen 2:1
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535649.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535653@anstoss
+DTSTAMP:20260904T140000Z
+DTSTART:20260904T140000Z
+DTEND:20260904T160000Z
+SUMMARY:Fyllingsdalen – Odd 4:2
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535655@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Fyllingsdalen – Arna-Bjørnar 4:2
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535655.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535658@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Viking FK – Fyllingsdalen
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535723@anstoss
+DTSTAMP:20260927T103000Z
+DTSTART:20260927T103000Z
+DTEND:20260927T123000Z
+SUMMARY:Fyllingsdalen – Grei
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535723.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535727@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Frigg Oslo FK – Fyllingsdalen
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535727.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535666@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Fyllingsdalen – Kolbotn
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535666.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535672@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Start – Fyllingsdalen
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535672.ht
+ ml
+END:VEVENT
+END:VCALENDAR

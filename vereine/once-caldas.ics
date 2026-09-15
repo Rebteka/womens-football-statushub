@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Once Caldas
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518016@anstoss
+DTSTAMP:20260215T200000Z
+DTSTART:20260215T200000Z
+DTEND:20260215T220000Z
+SUMMARY:Once Caldas – Santa Fe 0:3
+DESCRIPTION:Liga Femenina · 1. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524346@anstoss
+DTSTAMP:20260228T213000Z
+DTSTART:20260228T213000Z
+DTEND:20260228T233000Z
+SUMMARY:Fortaleza – Once Caldas 0:0
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524355@anstoss
+DTSTAMP:20260310T200000Z
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+SUMMARY:Once Caldas – Junior 1:2
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524366@anstoss
+DTSTAMP:20260317T223000Z
+DTSTART:20260317T223000Z
+DTEND:20260318T003000Z
+SUMMARY:Millonarios – Once Caldas 3:0
+DESCRIPTION:Liga Femenina · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524369@anstoss
+DTSTAMP:20260322T200000Z
+DTSTART:20260322T200000Z
+DTEND:20260322T220000Z
+SUMMARY:Once Caldas – América de Cali 1:2
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524379@anstoss
+DTSTAMP:20260330T200000Z
+DTSTART:20260330T200000Z
+DTEND:20260330T220000Z
+SUMMARY:La Equidad – Once Caldas 2:1
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524388@anstoss
+DTSTAMP:20260415T200000Z
+DTSTART:20260415T200000Z
+DTEND:20260415T220000Z
+SUMMARY:Once Caldas – Deportivo Cali 0:2
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525694@anstoss
+DTSTAMP:20260428T200000Z
+DTSTART:20260428T200000Z
+DTEND:20260428T220000Z
+SUMMARY:Independiente Medellín – Once Caldas 3:0
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525705@anstoss
+DTSTAMP:20260504T210000Z
+DTSTART:20260504T210000Z
+DTEND:20260504T230000Z
+SUMMARY:Once Caldas – Deportivo Pasto 1:0
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525705.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525715@anstoss
+DTSTAMP:20260511T210000Z
+DTSTART:20260511T210000Z
+DTEND:20260511T230000Z
+SUMMARY:Once Caldas – Orsomarso 1:1
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525715.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525717@anstoss
+DTSTAMP:20260516T203000Z
+DTSTART:20260516T203000Z
+DTEND:20260516T223000Z
+SUMMARY:Atlético Nacional – Once Caldas 1:0
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525717.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525731@anstoss
+DTSTAMP:20260522T200000Z
+DTSTART:20260522T200000Z
+DTEND:20260522T220000Z
+SUMMARY:Once Caldas – Llaneros 0:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525731.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525739@anstoss
+DTSTAMP:20260528T200000Z
+DTSTART:20260528T200000Z
+DTEND:20260528T220000Z
+SUMMARY:Real Santander – Once Caldas 0:0
+DESCRIPTION:Liga Femenina · 13. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525742@anstoss
+DTSTAMP:20260726T200000Z
+DTSTART:20260726T200000Z
+DTEND:20260726T220000Z
+SUMMARY:Deportivo Pasto – Once Caldas 4:1
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Estadio Departamental Libertad\, Pasto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525754@anstoss
+DTSTAMP:20260802T200000Z
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+SUMMARY:Once Caldas – Internacional Palmira 0:0
+DESCRIPTION:Liga Femenina · 15. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525756@anstoss
+DTSTAMP:20260820T200000Z
+DTSTART:20260820T200000Z
+DTEND:20260820T220000Z
+SUMMARY:Atlético Bucaramanga – Once Caldas 2:1
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Cancha Marte - UMT\, Bucaramanga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525756.ht
+ ml
+END:VEVENT
+END:VCALENDAR

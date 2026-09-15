@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Central Coast Mariners
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1632105@anstoss
+DTSTAMP:20261017T060000Z
+DTSTART:20261017T060000Z
+DTEND:20261017T080000Z
+SUMMARY:Brisbane Roar FC – Central Coast Mariners
+DESCRIPTION:A-League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632105.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632109@anstoss
+DTSTAMP:20261024T040000Z
+DTSTART:20261024T040000Z
+DTEND:20261024T060000Z
+SUMMARY:Central Coast Mariners – Canberra United
+DESCRIPTION:A-League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632109.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632114@anstoss
+DTSTAMP:20261031T060000Z
+DTSTART:20261031T060000Z
+DTEND:20261031T080000Z
+SUMMARY:Central Coast Mariners – Adelaide United
+DESCRIPTION:A-League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632119@anstoss
+DTSTAMP:20261107T040000Z
+DTSTART:20261107T040000Z
+DTEND:20261107T060000Z
+SUMMARY:Newcastle Jets FC – Central Coast Mariners
+DESCRIPTION:A-League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632124@anstoss
+DTSTAMP:20261114T060000Z
+DTSTART:20261114T060000Z
+DTEND:20261114T080000Z
+SUMMARY:Central Coast Mariners – Perth Glory FC
+DESCRIPTION:A-League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632136@anstoss
+DTSTAMP:20261213T060000Z
+DTSTART:20261213T060000Z
+DTEND:20261213T080000Z
+SUMMARY:Central Coast Mariners – Brisbane Roar FC
+DESCRIPTION:A-League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632141@anstoss
+DTSTAMP:20261220T060000Z
+DTSTART:20261220T060000Z
+DTEND:20261220T080000Z
+SUMMARY:Sydney FC – Central Coast Mariners
+DESCRIPTION:A-League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632143@anstoss
+DTSTAMP:20261227T055000Z
+DTSTART:20261227T055000Z
+DTEND:20261227T075000Z
+SUMMARY:Adelaide United – Central Coast Mariners
+DESCRIPTION:A-League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632147@anstoss
+DTSTAMP:20261231T055000Z
+DTSTART:20261231T055000Z
+DTEND:20261231T075000Z
+SUMMARY:Central Coast Mariners – Melbourne City
+DESCRIPTION:A-League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632153@anstoss
+DTSTAMP:20270109T040000Z
+DTSTART:20270109T040000Z
+DTEND:20270109T060000Z
+SUMMARY:Wellington Phoenix – Central Coast Mariners
+DESCRIPTION:A-League Women · 11. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632158@anstoss
+DTSTAMP:20270115T055000Z
+DTSTART:20270115T055000Z
+DTEND:20270115T075000Z
+SUMMARY:Melbourne Victory – Central Coast Mariners
+DESCRIPTION:A-League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632163@anstoss
+DTSTAMP:20270123T060000Z
+DTSTART:20270123T060000Z
+DTEND:20270123T080000Z
+SUMMARY:Central Coast Mariners – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632163.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632172@anstoss
+DTSTAMP:20270131T060000Z
+DTSTART:20270131T060000Z
+DTEND:20270131T080000Z
+SUMMARY:Canberra United – Central Coast Mariners
+DESCRIPTION:A-League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632176@anstoss
+DTSTAMP:20270207T060000Z
+DTSTART:20270207T060000Z
+DTEND:20270207T080000Z
+SUMMARY:Central Coast Mariners – Newcastle Jets FC
+DESCRIPTION:A-League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632187@anstoss
+DTSTAMP:20270221T090000Z
+DTSTART:20270221T090000Z
+DTEND:20270221T110000Z
+SUMMARY:Perth Glory FC – Central Coast Mariners
+DESCRIPTION:A-League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632188@anstoss
+DTSTAMP:20270312T080000Z
+DTSTART:20270312T080000Z
+DTEND:20270312T100000Z
+SUMMARY:Central Coast Mariners – Sydney FC
+DESCRIPTION:A-League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632188.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632197@anstoss
+DTSTAMP:20270321T064500Z
+DTSTART:20270321T064500Z
+DTEND:20270321T084500Z
+SUMMARY:Melbourne City – Central Coast Mariners
+DESCRIPTION:A-League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632199@anstoss
+DTSTAMP:20270327T040000Z
+DTSTART:20270327T040000Z
+DTEND:20270327T060000Z
+SUMMARY:Central Coast Mariners – Melbourne Victory
+DESCRIPTION:A-League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632205@anstoss
+DTSTAMP:20270403T060000Z
+DTSTART:20270403T060000Z
+DTEND:20270403T080000Z
+SUMMARY:Central Coast Mariners – Wellington Phoenix
+DESCRIPTION:A-League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632211@anstoss
+DTSTAMP:20270411T021500Z
+DTSTART:20270411T021500Z
+DTEND:20270411T041500Z
+SUMMARY:Western Sydney Wanderers – Central Coast Mariners
+DESCRIPTION:A-League Women · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632211.ht
+ ml
+END:VEVENT
+END:VCALENDAR

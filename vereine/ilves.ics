@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ilves
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539021@anstoss
+DTSTAMP:20260328T170000Z
+DTSTART:20260328T170000Z
+DTEND:20260328T190000Z
+SUMMARY:Ilves – PK-35 Vantaa 2:5
+DESCRIPTION:Kansallinen Liiga · 1. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539021.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539023@anstoss
+DTSTAMP:20260403T120000Z
+DTSTART:20260403T120000Z
+DTEND:20260403T140000Z
+SUMMARY:Ilves – VIFK 3:0
+DESCRIPTION:Kansallinen Liiga · 2. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539028@anstoss
+DTSTAMP:20260425T130000Z
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+SUMMARY:HJK – Ilves 2:1
+DESCRIPTION:Kansallinen Liiga · 3. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539033@anstoss
+DTSTAMP:20260503T140000Z
+DTSTART:20260503T140000Z
+DTEND:20260503T160000Z
+SUMMARY:Åland United – Ilves 4:1
+DESCRIPTION:Kansallinen Liiga · 4. Spieltag
+LOCATION:Wiklöf Holding Arena\, Marie Harbor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539034@anstoss
+DTSTAMP:20260509T110000Z
+DTSTART:20260509T110000Z
+DTEND:20260509T130000Z
+SUMMARY:Ilves – KuPS 2:3
+DESCRIPTION:Kansallinen Liiga · 5. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539038@anstoss
+DTSTAMP:20260517T100000Z
+DTSTART:20260517T100000Z
+DTEND:20260517T120000Z
+SUMMARY:IF Gnistan – Ilves 2:3
+DESCRIPTION:Kansallinen Liiga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539043@anstoss
+DTSTAMP:20260522T160000Z
+DTSTART:20260522T160000Z
+DTEND:20260522T180000Z
+SUMMARY:Ilves – HPS 1:0
+DESCRIPTION:Kansallinen Liiga · 7. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539048@anstoss
+DTSTAMP:20260531T120000Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:PK-35 Vantaa – Ilves 0:2
+DESCRIPTION:Kansallinen Liiga · 8. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539053@anstoss
+DTSTAMP:20260614T110000Z
+DTSTART:20260614T110000Z
+DTEND:20260614T130000Z
+SUMMARY:VIFK – Ilves 0:3
+DESCRIPTION:Kansallinen Liiga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539053.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539056@anstoss
+DTSTAMP:20260627T153000Z
+DTSTART:20260627T153000Z
+DTEND:20260627T173000Z
+SUMMARY:Ilves – HJK 1:3
+DESCRIPTION:Kansallinen Liiga · 10. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539056.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539059@anstoss
+DTSTAMP:20260704T120000Z
+DTSTART:20260704T120000Z
+DTEND:20260704T140000Z
+SUMMARY:Ilves – Åland United 0:2
+DESCRIPTION:Kansallinen Liiga · 11. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539059.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539062@anstoss
+DTSTAMP:20260712T120000Z
+DTSTART:20260712T120000Z
+DTEND:20260712T140000Z
+SUMMARY:KuPS – Ilves 2:4
+DESCRIPTION:Kansallinen Liiga · 12. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539062.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539066@anstoss
+DTSTAMP:20260718T110000Z
+DTSTART:20260718T110000Z
+DTEND:20260718T130000Z
+SUMMARY:Ilves – IF Gnistan 2:2
+DESCRIPTION:Kansallinen Liiga · 13. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539066.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539073@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:HPS – Ilves 1:2
+DESCRIPTION:Kansallinen Liiga · 14. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539073.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612457@anstoss
+DTSTAMP:20260808T140000Z
+DTSTART:20260808T140000Z
+DTEND:20260808T160000Z
+SUMMARY:Åland United – Ilves 3:0
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 1. Spieltag
+LOCATION:Wiklöf Holding Arena\, Marie Harbor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612460@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Ilves – IF Gnistan 1:2
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 2. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612464@anstoss
+DTSTAMP:20260822T140000Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:KuPS – Ilves 2:1
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 3. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612469@anstoss
+DTSTAMP:20260829T160000Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:HPS – Ilves 1:0
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 4. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612471@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Ilves – HJK
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612476@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Ilves – Åland United
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612478@anstoss
+DTSTAMP:20260926T100000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+SUMMARY:IF Gnistan – Ilves
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612481@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Ilves – KuPS
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612487@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Ilves – HPS
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612489@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HJK – Ilves
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag ·
+  Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612489.ht
+ ml
+END:VEVENT
+END:VCALENDAR

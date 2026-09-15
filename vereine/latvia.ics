@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Latvia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523824@anstoss
+DTSTAMP:20260303T150000Z
+DTSTART:20260303T150000Z
+DTEND:20260303T170000Z
+SUMMARY:Slowakei – Latvia 3:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:NTC Poprad\, Poprad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523824.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523849@anstoss
+DTSTAMP:20260307T123000Z
+DTSTART:20260307T123000Z
+DTEND:20260307T143000Z
+SUMMARY:Finnland – Latvia 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523849.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523873@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Latvia – Portugal 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523873.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523899@anstoss
+DTSTAMP:20260418T170000Z
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+SUMMARY:Latvia – Finnland 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523923@anstoss
+DTSTAMP:20260605T190000Z
+DTSTART:20260605T190000Z
+DTEND:20260605T210000Z
+SUMMARY:Portugal – Latvia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Estadio Antonio Coimbra da Mota\, Estoril
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523923.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523949@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Latvia – Slowakei 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523949.ht
+ ml
+END:VEVENT
+END:VCALENDAR

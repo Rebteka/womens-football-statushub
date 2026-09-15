@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Krasnodar
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529893@anstoss
+DTSTAMP:20260314T120000Z
+DTSTART:20260314T120000Z
+DTEND:20260314T140000Z
+SUMMARY:Krasnodar – Ryazan 4:0
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529907@anstoss
+DTSTAMP:20260328T130000Z
+DTSTART:20260328T130000Z
+DTEND:20260328T150000Z
+SUMMARY:Spartak Moskva – Krasnodar 1:1
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529911@anstoss
+DTSTAMP:20260404T100000Z
+DTSTART:20260404T100000Z
+DTEND:20260404T120000Z
+SUMMARY:Lokomotiv Moskva – Krasnodar 2:0
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529917@anstoss
+DTSTAMP:20260425T130000Z
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+SUMMARY:Krasnodar – Zenit 0:4
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529923@anstoss
+DTSTAMP:20260502T130000Z
+DTSTART:20260502T130000Z
+DTEND:20260502T150000Z
+SUMMARY:Rubin Kazan – Krasnodar 0:0
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529923.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529928@anstoss
+DTSTAMP:20260510T160000Z
+DTSTART:20260510T160000Z
+DTEND:20260510T180000Z
+SUMMARY:Krasnodar – Chertanovo 1:3
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529933@anstoss
+DTSTAMP:20260516T143000Z
+DTSTART:20260516T143000Z
+DTEND:20260516T163000Z
+SUMMARY:Krasnodar – Rostov 2:0
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529933.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529940@anstoss
+DTSTAMP:20260523T090000Z
+DTSTART:20260523T090000Z
+DTEND:20260523T110000Z
+SUMMARY:Krylya Sovetov – Krasnodar 1:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529946@anstoss
+DTSTAMP:20260530T110000Z
+DTSTART:20260530T110000Z
+DTEND:20260530T130000Z
+SUMMARY:Krasnodar – CSKA Moskva 0:3
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529946.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529951@anstoss
+DTSTAMP:20260620T140000Z
+DTSTART:20260620T140000Z
+DTEND:20260620T160000Z
+SUMMARY:Dinamo Moskva – Krasnodar 2:0
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529959@anstoss
+DTSTAMP:20260628T060000Z
+DTSTART:20260628T060000Z
+DTEND:20260628T080000Z
+SUMMARY:Yenisey – Krasnodar 0:0
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529967@anstoss
+DTSTAMP:20260711T080000Z
+DTSTART:20260711T080000Z
+DTEND:20260711T100000Z
+SUMMARY:Zvezda Perm – Krasnodar 2:1
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529971@anstoss
+DTSTAMP:20260718T140000Z
+DTSTART:20260718T140000Z
+DTEND:20260718T160000Z
+SUMMARY:Ryazan – Krasnodar 0:0
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529979@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:Zenit – Krasnodar 3:1
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529982@anstoss
+DTSTAMP:20260808T160000Z
+DTSTART:20260808T160000Z
+DTEND:20260808T180000Z
+SUMMARY:Krasnodar – Spartak Moskva 1:4
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529982.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529988@anstoss
+DTSTAMP:20260828T150000Z
+DTSTART:20260828T150000Z
+DTEND:20260828T170000Z
+SUMMARY:Krasnodar – Dinamo Moskva 2:3
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529992@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Chertanovo – Krasnodar 1:1
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530001@anstoss
+DTSTAMP:20260912T150000Z
+DTSTART:20260912T150000Z
+DTEND:20260912T170000Z
+SUMMARY:Krasnodar – Rubin Kazan 0:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530012@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Rostov – Krasnodar
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530018@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Krasnodar – Krylya Sovetov
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530026@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Krasnodar – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530029@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:CSKA Moskva – Krasnodar
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530036@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Krasnodar – Yenisey
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530042@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Krasnodar – Zvezda Perm
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530042.ht
+ ml
+END:VEVENT
+END:VCALENDAR

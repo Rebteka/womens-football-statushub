@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Montenegro
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523811@anstoss
+DTSTAMP:20260303T130000Z
+DTSTART:20260303T130000Z
+DTEND:20260303T150000Z
+SUMMARY:Montenegro – Albania 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadion Gradski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523811.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523835@anstoss
+DTSTAMP:20260307T163000Z
+DTSTART:20260307T163000Z
+DTEND:20260307T183000Z
+SUMMARY:Wales – Montenegro 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523835.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523861@anstoss
+DTSTAMP:20260414T153000Z
+DTSTART:20260414T153000Z
+DTEND:20260414T173000Z
+SUMMARY:Tschechien – Montenegro 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Letni stadion na Zadnich Vinohradech\, Chomutov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523886@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Montenegro – Tschechien 1:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Stadion Gradski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523910@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Montenegro – Wales 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Podgorica City Stadium\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523936@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Albania – Montenegro 5:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Loro Borici Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523936.ht
+ ml
+END:VEVENT
+END:VCALENDAR

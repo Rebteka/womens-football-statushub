@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Schweiz
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523821@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Schweiz – Nordirland 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stade de la Tuiliere\, Lausanne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523821.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523846@anstoss
+DTSTAMP:20260307T180000Z
+DTSTART:20260307T180000Z
+DTEND:20260307T200000Z
+SUMMARY:Malta – Schweiz 1:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523846.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523871@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Schweiz – Turkey 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Letzigrund Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523896@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Turkey – Schweiz 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Sinop Sehir Stadyumu\, Sinop
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523921@anstoss
+DTSTAMP:20260605T173000Z
+DTSTART:20260605T173000Z
+DTEND:20260605T193000Z
+SUMMARY:Schweiz – Malta 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:AIL Arena\, Lugano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523921.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523946@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Nordirland – Schweiz 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Mourneview Park\, Lurgan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523946.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557250@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Israel – Schweiz
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557271@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Schweiz – Israel
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557271.ht
+ ml
+END:VEVENT
+END:VCALENDAR

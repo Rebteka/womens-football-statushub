@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vittsjö
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495434@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Eskilstuna United – Vittsjö 2:1
+DESCRIPTION:Damallsvenskan · 1. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495434.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495445@anstoss
+DTSTAMP:20260406T110000Z
+DTSTART:20260406T110000Z
+DTEND:20260406T130000Z
+SUMMARY:Vittsjö – Häcken 1:2
+DESCRIPTION:Damallsvenskan · 2. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495451@anstoss
+DTSTAMP:20260426T120000Z
+DTSTART:20260426T120000Z
+DTEND:20260426T140000Z
+SUMMARY:Piteå – Vittsjö 1:0
+DESCRIPTION:Damallsvenskan · 3. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495459@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:Vittsjö – AIK 1:0
+DESCRIPTION:Damallsvenskan · 4. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495465@anstoss
+DTSTAMP:20260510T130000Z
+DTSTART:20260510T130000Z
+DTEND:20260510T150000Z
+SUMMARY:Uppsala – Vittsjö 3:0
+DESCRIPTION:Damallsvenskan · 5. Spieltag
+LOCATION:Studenternas IP\, Uppsala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495473@anstoss
+DTSTAMP:20260517T110000Z
+DTSTART:20260517T110000Z
+DTEND:20260517T130000Z
+SUMMARY:Vittsjö – Djurgården 1:0
+DESCRIPTION:Damallsvenskan · 6. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495480@anstoss
+DTSTAMP:20260524T130000Z
+DTSTART:20260524T130000Z
+DTEND:20260524T150000Z
+SUMMARY:Växjö – Vittsjö 0:2
+DESCRIPTION:Damallsvenskan · 7. Spieltag
+LOCATION:Visma Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495487@anstoss
+DTSTAMP:20260531T120000Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:Vittsjö – Hammarby 1:2
+DESCRIPTION:Damallsvenskan · 8. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495494@anstoss
+DTSTAMP:20260612T170000Z
+DTSTART:20260612T170000Z
+DTEND:20260612T190000Z
+SUMMARY:Vittsjö – Kristianstad 1:1
+DESCRIPTION:Damallsvenskan · 9. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495499@anstoss
+DTSTAMP:20260618T130000Z
+DTSTART:20260618T130000Z
+DTEND:20260618T150000Z
+SUMMARY:Brommapojkarna – Vittsjö 1:2
+DESCRIPTION:Damallsvenskan · 10. Spieltag
+LOCATION:Grimsta IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495504@anstoss
+DTSTAMP:20260624T170000Z
+DTSTART:20260624T170000Z
+DTEND:20260624T190000Z
+SUMMARY:Norrköping – Vittsjö 1:1
+DESCRIPTION:Damallsvenskan · 11. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495522@anstoss
+DTSTAMP:20260727T170000Z
+DTSTART:20260727T170000Z
+DTEND:20260727T190000Z
+SUMMARY:Vittsjö – Malmö FF 1:0
+DESCRIPTION:Damallsvenskan · 13. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495522.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495515@anstoss
+DTSTAMP:20260803T170000Z
+DTSTART:20260803T170000Z
+DTEND:20260803T190000Z
+SUMMARY:Vittsjö – Rosengård 1:1
+DESCRIPTION:Damallsvenskan · 12. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495515.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495523@anstoss
+DTSTAMP:20260815T110000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T130000Z
+SUMMARY:AIK – Vittsjö 1:2
+DESCRIPTION:Damallsvenskan · 14. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495536@anstoss
+DTSTAMP:20260823T130000Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Vittsjö – Norrköping 1:1
+DESCRIPTION:Damallsvenskan · 15. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495538@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Hammarby – Vittsjö 3:1
+DESCRIPTION:Damallsvenskan · 16. Spieltag
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495538.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495550@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Vittsjö – Uppsala 5:0
+DESCRIPTION:Damallsvenskan · 17. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495550.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495552@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Häcken – Vittsjö 4:0
+DESCRIPTION:Damallsvenskan · 18. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495552.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495564@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Vittsjö – Växjö
+DESCRIPTION:Damallsvenskan · 19. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495564.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495568@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Kristianstad – Vittsjö
+DESCRIPTION:Damallsvenskan · 20. Spieltag
+LOCATION:Kristianstad Arena\, Kristianstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495568.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495578@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Vittsjö – Eskilstuna United
+DESCRIPTION:Damallsvenskan · 21. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495578.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495584@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Rosengård – Vittsjö
+DESCRIPTION:Damallsvenskan · 22. Spieltag
+LOCATION:Malmo IP
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495584.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495592@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
+SUMMARY:Vittsjö – Piteå
+DESCRIPTION:Damallsvenskan · 23. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495592.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495593@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Djurgården – Vittsjö
+DESCRIPTION:Damallsvenskan · 24. Spieltag
+LOCATION:Stockholms Olympiastadion\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495593.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495606@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Vittsjö – Brommapojkarna
+DESCRIPTION:Damallsvenskan · 25. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495611@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Malmö FF – Vittsjö
+DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495611.ht
+ ml
+END:VEVENT
+END:VCALENDAR

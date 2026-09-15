@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:León
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603304@anstoss
+DTSTAMP:20260802T180000Z
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+SUMMARY:Pumas UNAM – León 2:5
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603317@anstoss
+DTSTAMP:20260811T010600Z
+DTSTART:20260811T010600Z
+DTEND:20260811T030600Z
+SUMMARY:León – Tigres UANL 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603324@anstoss
+DTSTAMP:20260817T230000Z
+DTSTART:20260817T230000Z
+DTEND:20260818T010000Z
+SUMMARY:León – Querétaro 0:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603328@anstoss
+DTSTAMP:20260822T030000Z
+DTSTART:20260822T030000Z
+DTEND:20260822T050000Z
+SUMMARY:Monterrey – León 2:3
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603336@anstoss
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T000000Z
+DTEND:20260829T020000Z
+SUMMARY:Toluca – León 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603353@anstoss
+DTSTAMP:20260908T010600Z
+DTSTART:20260908T010600Z
+DTEND:20260908T030600Z
+SUMMARY:León – Puebla 5:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603362@anstoss
+DTSTAMP:20260915T010000Z
+DTSTART:20260915T010000Z
+DTEND:20260915T030000Z
+SUMMARY:Pachuca – León 0:1
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603369@anstoss
+DTSTAMP:20260921T230000Z
+DTSTART:20260921T230000Z
+DTEND:20260922T010000Z
+SUMMARY:León – Juárez
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603379@anstoss
+DTSTAMP:20260928T230000Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:León – América
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603383@anstoss
+DTSTAMP:20261003T010600Z
+DTSTART:20261003T010600Z
+DTEND:20261003T030600Z
+SUMMARY:Atlas – León
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603398@anstoss
+DTSTAMP:20261020T010600Z
+DTSTART:20261020T010600Z
+DTEND:20261020T030600Z
+SUMMARY:León – Atlante
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603407@anstoss
+DTSTAMP:20261027T010600Z
+DTSTART:20261027T010600Z
+DTEND:20261027T030600Z
+SUMMARY:Santos Laguna – León
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603416@anstoss
+DTSTAMP:20261103T010600Z
+DTSTART:20261103T010600Z
+DTEND:20261103T030600Z
+SUMMARY:León – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603423@anstoss
+DTSTAMP:20261107T010000Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Cruz Azul – León
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603423.ht
+ ml
+END:VEVENT
+END:VCALENDAR

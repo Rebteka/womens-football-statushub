@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cyprus
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523858@anstoss
+DTSTAMP:20260307T120000Z
+DTSTART:20260307T120000Z
+DTEND:20260307T140000Z
+SUMMARY:Cyprus – Rumänien 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Ethnikos Achnas\, Achna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523858.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523883@anstoss
+DTSTAMP:20260414T140000Z
+DTSTART:20260414T140000Z
+DTEND:20260414T160000Z
+SUMMARY:Moldova – Cyprus 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Nisporeni stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523883.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523908@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Rumänien – Cyprus 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Stadionul Arcul de Triumf\, Bucharest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523958@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Cyprus – Moldova 0:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Antonis Papadopoulos Stadium\, Larnaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523958.ht
+ ml
+END:VEVENT
+END:VCALENDAR

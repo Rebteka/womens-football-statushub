@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wales
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523810@anstoss
+DTSTAMP:20260303T173000Z
+DTSTART:20260303T173000Z
+DTEND:20260303T193000Z
+SUMMARY:Tschechien – Wales 2:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Mestsky stadion Miroslava Valenty\, Uherske Hradiste
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523810.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523835@anstoss
+DTSTAMP:20260307T163000Z
+DTSTART:20260307T163000Z
+DTEND:20260307T183000Z
+SUMMARY:Wales – Montenegro 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523835.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523860@anstoss
+DTSTAMP:20260414T181500Z
+DTSTART:20260414T181500Z
+DTEND:20260414T201500Z
+SUMMARY:Wales – Albania 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523860.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523885@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Albania – Wales 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Elbasan Arena\, Elbasani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523885.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523910@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Montenegro – Wales 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Podgorica City Stadium\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523935@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Wales – Tschechien 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Cardiff City Stadium\, Cardiff
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523935.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557242@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Albania – Wales
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557242.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557273@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Wales – Albania
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557273.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eskilstuna United
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495434@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Eskilstuna United – Vittsjö 2:1
+DESCRIPTION:Damallsvenskan · 1. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495434.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495444@anstoss
+DTSTAMP:20260403T130000Z
+DTSTART:20260403T130000Z
+DTEND:20260403T150000Z
+SUMMARY:Växjö – Eskilstuna United 3:0
+DESCRIPTION:Damallsvenskan · 2. Spieltag
+LOCATION:Visma Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495444.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495456@anstoss
+DTSTAMP:20260503T130000Z
+DTSTART:20260503T130000Z
+DTEND:20260503T150000Z
+SUMMARY:Norrköping – Eskilstuna United 0:2
+DESCRIPTION:Damallsvenskan · 4. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495461@anstoss
+DTSTAMP:20260509T120000Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Brommapojkarna – Eskilstuna United 0:1
+DESCRIPTION:Damallsvenskan · 5. Spieltag
+LOCATION:Grimsta IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495468@anstoss
+DTSTAMP:20260517T130000Z
+DTSTART:20260517T130000Z
+DTEND:20260517T150000Z
+SUMMARY:Eskilstuna United – Uppsala 1:0
+DESCRIPTION:Damallsvenskan · 6. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495475@anstoss
+DTSTAMP:20260523T130000Z
+DTSTART:20260523T130000Z
+DTEND:20260523T150000Z
+SUMMARY:Eskilstuna United – Rosengård 0:3
+DESCRIPTION:Damallsvenskan · 7. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495448@anstoss
+DTSTAMP:20260527T170000Z
+DTSTART:20260527T170000Z
+DTEND:20260527T190000Z
+SUMMARY:Eskilstuna United – Hammarby 0:1
+DESCRIPTION:Damallsvenskan · 3. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495448.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495481@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Djurgården – Eskilstuna United 0:0
+DESCRIPTION:Damallsvenskan · 8. Spieltag
+LOCATION:Stockholms Olympiastadion\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495489@anstoss
+DTSTAMP:20260613T120000Z
+DTSTART:20260613T120000Z
+DTEND:20260613T140000Z
+SUMMARY:Eskilstuna United – Malmö FF 1:1
+DESCRIPTION:Damallsvenskan · 9. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495496@anstoss
+DTSTAMP:20260618T140000Z
+DTSTART:20260618T140000Z
+DTEND:20260618T160000Z
+SUMMARY:Eskilstuna United – Piteå 2:0
+DESCRIPTION:Damallsvenskan · 10. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495502@anstoss
+DTSTAMP:20260624T170000Z
+DTSTART:20260624T170000Z
+DTEND:20260624T190000Z
+SUMMARY:AIK – Eskilstuna United 1:0
+DESCRIPTION:Damallsvenskan · 11. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495509@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Häcken – Eskilstuna United 6:0
+DESCRIPTION:Damallsvenskan · 12. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495518@anstoss
+DTSTAMP:20260808T130000Z
+DTSTART:20260808T130000Z
+DTEND:20260808T150000Z
+SUMMARY:Eskilstuna United – Kristianstad 1:0
+DESCRIPTION:Damallsvenskan · 13. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495518.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495527@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Rosengård – Eskilstuna United 0:1
+DESCRIPTION:Damallsvenskan · 14. Spieltag
+LOCATION:Malmo IP
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495527.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495531@anstoss
+DTSTAMP:20260822T130000Z
+DTSTART:20260822T130000Z
+DTEND:20260822T150000Z
+SUMMARY:Eskilstuna United – Växjö 0:1
+DESCRIPTION:Damallsvenskan · 15. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495531.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495542@anstoss
+DTSTAMP:20260828T170000Z
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+SUMMARY:Uppsala – Eskilstuna United 0:6
+DESCRIPTION:Damallsvenskan · 16. Spieltag
+LOCATION:Studenternas IP\, Uppsala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495542.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495545@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Eskilstuna United – AIK 1:1
+DESCRIPTION:Damallsvenskan · 17. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495554@anstoss
+DTSTAMP:20260912T130000Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:Malmö FF – Eskilstuna United 1:0
+DESCRIPTION:Damallsvenskan · 18. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495554.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495559@anstoss
+DTSTAMP:20260919T130000Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Eskilstuna United – Häcken
+DESCRIPTION:Damallsvenskan · 19. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495559.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495566@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Hammarby – Eskilstuna United
+DESCRIPTION:Damallsvenskan · 20. Spieltag
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495578@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Vittsjö – Eskilstuna United
+DESCRIPTION:Damallsvenskan · 21. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495578.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495580@anstoss
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Eskilstuna United – Norrköping
+DESCRIPTION:Damallsvenskan · 22. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495580.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495587@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Eskilstuna United – Brommapojkarna
+DESCRIPTION:Damallsvenskan · 23. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495597@anstoss
+DTSTAMP:20261031T120000Z
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
+SUMMARY:Piteå – Eskilstuna United
+DESCRIPTION:Damallsvenskan · 24. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495602@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Kristianstad – Eskilstuna United
+DESCRIPTION:Damallsvenskan · 25. Spieltag
+LOCATION:Kristianstad Arena\, Kristianstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495607@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Eskilstuna United – Djurgården
+DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495607.ht
+ ml
+END:VEVENT
+END:VCALENDAR

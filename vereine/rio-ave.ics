@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rio Ave
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1610740@anstoss
+DTSTAMP:20260913T180000Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Torreense – Rio Ave 3:0
+DESCRIPTION:1a Divisão - Women · 1. Spieltag
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610740.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610743@anstoss
+DTSTAMP:20260918T173000Z
+DTSTART:20260918T173000Z
+DTEND:20260918T193000Z
+SUMMARY:Rio Ave – SL Benfica
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610743.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610747@anstoss
+DTSTAMP:20260926T100000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+SUMMARY:Valadares Gaia – Rio Ave
+DESCRIPTION:1a Divisão - Women · 3. Spieltag
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610747.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610796@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Rio Ave – Porto
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610796.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610751@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Racing Power – Rio Ave
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610891@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Rio Ave – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610758@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Rio Ave – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610760@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Marítimo – Rio Ave
+DESCRIPTION:1a Divisão - Women · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610760.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610764@anstoss
+DTSTAMP:20270117T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Rio Ave – Sporting CP
+DESCRIPTION:1a Divisão - Women · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610767@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Rio Ave – Torreense
+DESCRIPTION:1a Divisão - Women · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610767.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610769@anstoss
+DTSTAMP:20270207T150000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:SL Benfica – Rio Ave
+DESCRIPTION:1a Divisão - Women · 11. Spieltag
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610769.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610774@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Rio Ave – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610774.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610804@anstoss
+DTSTAMP:20270327T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Porto – Rio Ave
+DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610804.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610780@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Rio Ave – Racing Power
+DESCRIPTION:1a Divisão - Women · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610900@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Sporting Braga – Rio Ave
+DESCRIPTION:1a Divisão - Women · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610787@anstoss
+DTSTAMP:20270509T140000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Vitoria Guimaraes – Rio Ave
+DESCRIPTION:1a Divisão - Women · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610789@anstoss
+DTSTAMP:20270516T140000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Rio Ave – Marítimo
+DESCRIPTION:1a Divisão - Women · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610792@anstoss
+DTSTAMP:20270523T140000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Sporting CP – Rio Ave
+DESCRIPTION:1a Divisão - Women · 18. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610792.ht
+ ml
+END:VEVENT
+END:VCALENDAR

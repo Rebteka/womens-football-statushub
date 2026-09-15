@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Slask Wroclaw
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1581688@anstoss
+DTSTAMP:20260802T153000Z
+DTSTART:20260802T153000Z
+DTEND:20260802T173000Z
+SUMMARY:UJ Krakow – Slask Wroclaw 2:1
+DESCRIPTION:Ekstraliga Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581688.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581694@anstoss
+DTSTAMP:20260808T150000Z
+DTSTART:20260808T150000Z
+DTEND:20260808T170000Z
+SUMMARY:Slask Wroclaw – UKS Łódź 1:1
+DESCRIPTION:Ekstraliga Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581698@anstoss
+DTSTAMP:20260816T150000Z
+DTSTART:20260816T150000Z
+DTEND:20260816T170000Z
+SUMMARY:Slask Wroclaw – Akademia Piłkarska LG 1:2
+DESCRIPTION:Ekstraliga Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581698.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581703@anstoss
+DTSTAMP:20260822T100000Z
+DTSTART:20260822T100000Z
+DTEND:20260822T120000Z
+SUMMARY:Pogon Szczecin – Slask Wroclaw 5:0
+DESCRIPTION:Ekstraliga Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581703.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581711@anstoss
+DTSTAMP:20260830T100000Z
+DTSTART:20260830T100000Z
+DTEND:20260830T120000Z
+SUMMARY:Slask Wroclaw – Rekord Bielsko-Biala 1:1
+DESCRIPTION:Ekstraliga Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581711.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581715@anstoss
+DTSTAMP:20260926T150000Z
+DTSTART:20260926T150000Z
+DTEND:20260926T170000Z
+SUMMARY:Slask Wroclaw – Lech Poznan
+DESCRIPTION:Ekstraliga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581715.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581723@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:Slask Wroclaw – Czarni Sosnowiec
+DESCRIPTION:Ekstraliga Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581723.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581729@anstoss
+DTSTAMP:20261017T163000Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:Sleza Wroclaw – Slask Wroclaw
+DESCRIPTION:Ekstraliga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581729.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581735@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Slask Wroclaw – GKS Katowice
+DESCRIPTION:Ekstraliga Women · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581740@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
+SUMMARY:Legia – Slask Wroclaw
+DESCRIPTION:Ekstraliga Women · 10. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581740.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581747@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Slask Wroclaw – Górnik Łęczna
+DESCRIPTION:Ekstraliga Women · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581747.ht
+ ml
+END:VEVENT
+END:VCALENDAR

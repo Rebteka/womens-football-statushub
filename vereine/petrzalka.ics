@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Petržalka
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1566586@anstoss
+DTSTAMP:20260815T140000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T160000Z
+SUMMARY:Petržalka – Trenčín 1:6
+DESCRIPTION:I Liga - Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566590@anstoss
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:Spartak Trnava – Petržalka 1:0
+DESCRIPTION:I Liga - Women · 2. Spieltag
+LOCATION:City Arena Trnava\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566590.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566660@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Petržalka – Z. Moravce-Vrable 4:0
+DESCRIPTION:I Liga - Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566601@anstoss
+DTSTAMP:20260905T160000Z
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+SUMMARY:Spartak Myjava – Petržalka 11:1
+DESCRIPTION:I Liga - Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566602@anstoss
+DTSTAMP:20260912T120000Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:Petržalka – Slovan Bratislava 1:6
+DESCRIPTION:I Liga - Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566607@anstoss
+DTSTAMP:20260919T123000Z
+DTSTART:20260919T123000Z
+DTEND:20260919T143000Z
+SUMMARY:Tatran Prešov – Petržalka
+DESCRIPTION:I Liga - Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566611@anstoss
+DTSTAMP:20260926T123000Z
+DTSTART:20260926T123000Z
+DTEND:20260926T143000Z
+SUMMARY:Petržalka – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566614@anstoss
+DTSTAMP:20261003T123000Z
+DTSTART:20261003T123000Z
+DTEND:20261003T143000Z
+SUMMARY:Petržalka – Ružomberok
+DESCRIPTION:I Liga - Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566614.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566618@anstoss
+DTSTAMP:20261017T090000Z
+DTSTART:20261017T090000Z
+DTEND:20261017T110000Z
+SUMMARY:Komárno – Petržalka
+DESCRIPTION:I Liga - Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566618.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566625@anstoss
+DTSTAMP:20261024T133000Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Trenčín – Petržalka
+DESCRIPTION:I Liga - Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566625.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566627@anstoss
+DTSTAMP:20261031T100000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Petržalka – Spartak Trnava
+DESCRIPTION:I Liga - Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566627.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566669@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
+SUMMARY:Z. Moravce-Vrable – Petržalka
+DESCRIPTION:I Liga - Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566635@anstoss
+DTSTAMP:20261114T140000Z
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
+SUMMARY:Petržalka – Spartak Myjava
+DESCRIPTION:I Liga - Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566640@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:Slovan Bratislava – Petržalka
+DESCRIPTION:I Liga - Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566643@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART:20270213T100000Z
+DTEND:20270213T120000Z
+SUMMARY:Petržalka – Tatran Prešov
+DESCRIPTION:I Liga - Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566646@anstoss
+DTSTAMP:20270220T133000Z
+DTSTART:20270220T133000Z
+DTEND:20270220T153000Z
+SUMMARY:Dukla Banská Bystrica – Petržalka
+DESCRIPTION:I Liga - Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566651@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART:20270313T100000Z
+DTEND:20270313T120000Z
+SUMMARY:Ružomberok – Petržalka
+DESCRIPTION:I Liga - Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566654@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART:20270320T100000Z
+DTEND:20270320T120000Z
+SUMMARY:Petržalka – Komárno
+DESCRIPTION:I Liga - Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566654.ht
+ ml
+END:VEVENT
+END:VCALENDAR

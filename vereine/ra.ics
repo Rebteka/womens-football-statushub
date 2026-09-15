@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Røa
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495302@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:LSK Kvinner – Røa 1:3
+DESCRIPTION:Toppserien · 1. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495310@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:Røa – Bodø / Glimt 1:1
+DESCRIPTION:Toppserien · 2. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495317@anstoss
+DTSTAMP:20260401T140000Z
+DTSTART:20260401T140000Z
+DTEND:20260401T160000Z
+SUMMARY:Vålerenga – Røa 4:0
+DESCRIPTION:Toppserien · 3. Spieltag
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495322@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Røa – SK Brann 0:2
+DESCRIPTION:Toppserien · 4. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495326@anstoss
+DTSTAMP:20260502T120000Z
+DTSTART:20260502T120000Z
+DTEND:20260502T140000Z
+SUMMARY:Røa – Rosenborg 0:1
+DESCRIPTION:Toppserien · 5. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495334@anstoss
+DTSTAMP:20260508T160000Z
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+SUMMARY:Molde – Røa 4:0
+DESCRIPTION:Toppserien · 6. Spieltag
+LOCATION:Aker Stadion\, Molde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495339@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Lyn – Røa 0:0
+DESCRIPTION:Toppserien · 7. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495345@anstoss
+DTSTAMP:20260526T160000Z
+DTSTART:20260526T160000Z
+DTEND:20260526T180000Z
+SUMMARY:Røa – Fortuna Ålesund 2:3
+DESCRIPTION:Toppserien · 8. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495350@anstoss
+DTSTAMP:20260530T120000Z
+DTSTART:20260530T120000Z
+DTEND:20260530T140000Z
+SUMMARY:Haugesund – Røa 2:1
+DESCRIPTION:Toppserien · 9. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495357@anstoss
+DTSTAMP:20260613T113000Z
+DTSTART:20260613T113000Z
+DTEND:20260613T133000Z
+SUMMARY:Røa – Hønefoss 1:1
+DESCRIPTION:Toppserien · 10. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495365@anstoss
+DTSTAMP:20260620T140000Z
+DTSTART:20260620T140000Z
+DTEND:20260620T160000Z
+SUMMARY:Stabæk – Røa 0:1
+DESCRIPTION:Toppserien · 11. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495371@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Røa – Molde 1:1
+DESCRIPTION:Toppserien · 12. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495373@anstoss
+DTSTAMP:20260821T160000Z
+DTSTART:20260821T160000Z
+DTEND:20260821T180000Z
+SUMMARY:SK Brann – Røa 5:1
+DESCRIPTION:Toppserien · 13. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495383@anstoss
+DTSTAMP:20260831T160000Z
+DTSTART:20260831T160000Z
+DTEND:20260831T180000Z
+SUMMARY:Røa – Lyn 1:3
+DESCRIPTION:Toppserien · 14. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495388@anstoss
+DTSTAMP:20260911T160000Z
+DTSTART:20260911T160000Z
+DTEND:20260911T180000Z
+SUMMARY:Røa – Vålerenga 3:6
+DESCRIPTION:Toppserien · 15. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495392@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Hønefoss – Røa
+DESCRIPTION:Toppserien · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495396@anstoss
+DTSTAMP:20260925T160000Z
+DTSTART:20260925T160000Z
+DTEND:20260925T180000Z
+SUMMARY:Bodø / Glimt – Røa
+DESCRIPTION:Toppserien · 17. Spieltag
+LOCATION:Aspmyra Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495406@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Røa – LSK Kvinner
+DESCRIPTION:Toppserien · 18. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495408@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Fortuna Ålesund – Røa
+DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Color Line Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495419@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Røa – Stabæk
+DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495423@anstoss
+DTSTAMP:20261101T140000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Rosenborg – Røa
+DESCRIPTION:Toppserien · 21. Spieltag
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495431@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Røa – Haugesund
+DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495431.ht
+ ml
+END:VEVENT
+END:VCALENDAR

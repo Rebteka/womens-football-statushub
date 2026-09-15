@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ryazan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529893@anstoss
+DTSTAMP:20260314T120000Z
+DTSTART:20260314T120000Z
+DTEND:20260314T140000Z
+SUMMARY:Krasnodar – Ryazan 4:0
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529900@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:Spartak Moskva – Ryazan 4:1
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529906@anstoss
+DTSTAMP:20260328T130000Z
+DTSTART:20260328T130000Z
+DTEND:20260328T150000Z
+SUMMARY:Rubin Kazan – Ryazan 0:0
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529913@anstoss
+DTSTAMP:20260404T110000Z
+DTSTART:20260404T110000Z
+DTEND:20260404T130000Z
+SUMMARY:Ryazan – Yenisey 3:1
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529918@anstoss
+DTSTAMP:20260425T110000Z
+DTSTART:20260425T110000Z
+DTEND:20260425T130000Z
+SUMMARY:Ryazan – Rostov 0:2
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529924@anstoss
+DTSTAMP:20260502T130000Z
+DTSTART:20260502T130000Z
+DTEND:20260502T150000Z
+SUMMARY:Ryazan – Krylya Sovetov 1:1
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529924.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529929@anstoss
+DTSTAMP:20260510T100000Z
+DTSTART:20260510T100000Z
+DTEND:20260510T120000Z
+SUMMARY:Lokomotiv Moskva – Ryazan 3:0
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529936@anstoss
+DTSTAMP:20260516T100000Z
+DTSTART:20260516T100000Z
+DTEND:20260516T120000Z
+SUMMARY:Ryazan – Chertanovo 1:4
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529936.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529941@anstoss
+DTSTAMP:20260523T150000Z
+DTSTART:20260523T150000Z
+DTEND:20260523T170000Z
+SUMMARY:Ryazan – CSKA Moskva 0:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529941.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529949@anstoss
+DTSTAMP:20260530T080000Z
+DTSTART:20260530T080000Z
+DTEND:20260530T100000Z
+SUMMARY:Zvezda Perm – Ryazan 1:1
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529954@anstoss
+DTSTAMP:20260620T133000Z
+DTSTART:20260620T133000Z
+DTEND:20260620T153000Z
+SUMMARY:Zenit – Ryazan 3:0
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529965@anstoss
+DTSTAMP:20260711T140000Z
+DTSTART:20260711T140000Z
+DTEND:20260711T160000Z
+SUMMARY:Ryazan – Dinamo Moskva 1:2
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529971@anstoss
+DTSTAMP:20260718T140000Z
+DTSTART:20260718T140000Z
+DTEND:20260718T160000Z
+SUMMARY:Ryazan – Krasnodar 0:0
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529976@anstoss
+DTSTAMP:20260801T080000Z
+DTSTART:20260801T080000Z
+DTEND:20260801T100000Z
+SUMMARY:Rostov – Ryazan 0:0
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529984@anstoss
+DTSTAMP:20260808T140000Z
+DTSTART:20260808T140000Z
+DTEND:20260808T160000Z
+SUMMARY:Ryazan – Rubin Kazan 1:1
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529984.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529990@anstoss
+DTSTAMP:20260829T133000Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Ryazan – Zenit 0:3
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529996@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Ryazan – Lokomotiv Moskva 0:4
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530000@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Krylya Sovetov – Ryazan 2:1
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530008@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Ryazan – Spartak Moskva
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530010@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Chertanovo – Ryazan
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530016@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:CSKA Moskva – Ryazan
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530025@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Yenisey – Ryazan
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530032@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Ryazan – Zvezda Perm
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530040@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Dinamo Moskva – Ryazan
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530040.ht
+ ml
+END:VEVENT
+END:VCALENDAR

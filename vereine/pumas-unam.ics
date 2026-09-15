@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pumas UNAM
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603304@anstoss
+DTSTAMP:20260802T180000Z
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+SUMMARY:Pumas UNAM – León 2:5
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603312@anstoss
+DTSTAMP:20260809T010600Z
+DTSTART:20260809T010600Z
+DTEND:20260809T030600Z
+SUMMARY:Necaxa – Pumas UNAM 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603320@anstoss
+DTSTAMP:20260815T230000Z
+DTSTART:20260815T230000Z
+DTEND:20260816T010000Z
+SUMMARY:Pachuca – Pumas UNAM 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603327@anstoss
+DTSTAMP:20260821T230000Z
+DTSTART:20260821T230000Z
+DTEND:20260822T010000Z
+SUMMARY:Pumas UNAM – Querétaro 5:0
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603343@anstoss
+DTSTAMP:20260830T230600Z
+DTSTART:20260830T230600Z
+DTEND:20260831T010600Z
+SUMMARY:Guadalajara – Pumas UNAM 0:2
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603346@anstoss
+DTSTAMP:20260905T030000Z
+DTSTART:20260905T030000Z
+DTEND:20260905T050000Z
+SUMMARY:Pumas UNAM – América 1:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603354@anstoss
+DTSTAMP:20260912T010000Z
+DTSTART:20260912T010000Z
+DTEND:20260912T030000Z
+SUMMARY:Cruz Azul – Pumas UNAM 3:2
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603365@anstoss
+DTSTAMP:20260920T180000Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:Pumas UNAM – Puebla
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603378@anstoss
+DTSTAMP:20260928T214500Z
+DTSTART:20260928T214500Z
+DTEND:20260928T234500Z
+SUMMARY:Atlante – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603382@anstoss
+DTSTAMP:20261003T010000Z
+DTSTART:20261003T010000Z
+DTEND:20261003T030000Z
+SUMMARY:Pumas UNAM – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603392@anstoss
+DTSTAMP:20261018T180000Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Pumas UNAM – Atlas
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603400@anstoss
+DTSTAMP:20261024T031000Z
+DTSTART:20261024T031000Z
+DTEND:20261024T051000Z
+SUMMARY:Tijuana – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603410@anstoss
+DTSTAMP:20261031T030000Z
+DTSTART:20261031T030000Z
+DTEND:20261031T050000Z
+SUMMARY:Monterrey – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603422@anstoss
+DTSTAMP:20261106T230000Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:Pumas UNAM – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603422.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,274 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Cristal
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1545991@anstoss
+DTSTAMP:20260314T150000Z
+DTSTART:20260314T150000Z
+DTEND:20260314T170000Z
+SUMMARY:Sporting Cristal – FBC Melgar 4:0
+DESCRIPTION:Liga Women · Apertura · 1. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545996@anstoss
+DTSTAMP:20260320T200000Z
+DTSTART:20260320T200000Z
+DTEND:20260320T220000Z
+SUMMARY:Yanapuma – Sporting Cristal 0:4
+DESCRIPTION:Liga Women · Apertura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546001@anstoss
+DTSTAMP:20260327T200000Z
+DTSTART:20260327T200000Z
+DTEND:20260327T220000Z
+SUMMARY:Sporting Cristal – Defensores 3:1
+DESCRIPTION:Liga Women · Apertura · 3. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546008@anstoss
+DTSTAMP:20260425T200000Z
+DTSTART:20260425T200000Z
+DTEND:20260425T220000Z
+SUMMARY:U. de Deportes – Sporting Cristal 3:1
+DESCRIPTION:Liga Women · Apertura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546013@anstoss
+DTSTAMP:20260503T203000Z
+DTSTART:20260503T203000Z
+DTEND:20260503T223000Z
+SUMMARY:Sporting Cristal – Flamengo FBC 5:1
+DESCRIPTION:Liga Women · Apertura · 5. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546020@anstoss
+DTSTAMP:20260510T200000Z
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+SUMMARY:Atl. Andahuaylas – Sporting Cristal 2:1
+DESCRIPTION:Liga Women · Apertura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546022@anstoss
+DTSTAMP:20260516T150000Z
+DTSTART:20260516T150000Z
+DTEND:20260516T170000Z
+SUMMARY:Sporting Cristal – Killas 4:1
+DESCRIPTION:Liga Women · Apertura · 7. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546030@anstoss
+DTSTAMP:20260521T203000Z
+DTSTART:20260521T203000Z
+DTEND:20260521T223000Z
+SUMMARY:UNSAAC – Sporting Cristal 0:1
+DESCRIPTION:Liga Women · Apertura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546033@anstoss
+DTSTAMP:20260524T203000Z
+DTSTART:20260524T203000Z
+DTEND:20260524T223000Z
+SUMMARY:Sporting Cristal – Carlos Mannucci 7:0
+DESCRIPTION:Liga Women · Apertura · 9. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546862@anstoss
+DTSTAMP:20260530T203000Z
+DTSTART:20260530T203000Z
+DTEND:20260530T223000Z
+SUMMARY:Alianza Lima – Sporting Cristal 1:0
+DESCRIPTION:Liga Women · Apertura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546862.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1554030@anstoss
+DTSTAMP:20260620T181500Z
+DTSTART:20260620T181500Z
+DTEND:20260620T201500Z
+SUMMARY:Sporting Cristal – FBC Melgar 8:1
+DESCRIPTION:Liga Women · Apertura · Viertelfinale
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1554030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560400@anstoss
+DTSTAMP:20260628T201500Z
+DTSTART:20260628T201500Z
+DTEND:20260628T221500Z
+SUMMARY:Sporting Cristal – Atl. Andahuaylas 4:1
+DESCRIPTION:Liga Women · Apertura · Halbfinale
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560401@anstoss
+DTSTAMP:20260705T180000Z
+DTSTART:20260705T180000Z
+DTEND:20260705T200000Z
+SUMMARY:Atl. Andahuaylas – Sporting Cristal 2:2
+DESCRIPTION:Liga Women · Apertura · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581835@anstoss
+DTSTAMP:20260712T201500Z
+DTSTART:20260712T201500Z
+DTEND:20260712T221500Z
+SUMMARY:Sporting Cristal – U. de Deportes 2:2
+DESCRIPTION:Liga Women · Apertura · Play Offs
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581835.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581836@anstoss
+DTSTAMP:20260718T010000Z
+DTSTART:20260718T010000Z
+DTEND:20260718T030000Z
+SUMMARY:U. de Deportes – Sporting Cristal 3:1
+DESCRIPTION:Liga Women · Apertura · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581836.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557279@anstoss
+DTSTAMP:20260724T190000Z
+DTSTART:20260724T190000Z
+DTEND:20260724T210000Z
+SUMMARY:FBC Melgar – Sporting Cristal 0:3
+DESCRIPTION:Liga Women · Clausura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557279.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584350@anstoss
+DTSTAMP:20260730T160000Z
+DTSTART:20260730T160000Z
+DTEND:20260730T180000Z
+SUMMARY:Sporting Cristal – Yanapuma 6:0
+DESCRIPTION:Liga Women · Clausura · 2. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584359@anstoss
+DTSTAMP:20260806T201500Z
+DTSTART:20260806T201500Z
+DTEND:20260806T221500Z
+SUMMARY:Defensores – Sporting Cristal 2:4
+DESCRIPTION:Liga Women · Clausura · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584363@anstoss
+DTSTAMP:20260809T201500Z
+DTSTART:20260809T201500Z
+DTEND:20260809T221500Z
+SUMMARY:Sporting Cristal – U. de Deportes 1:3
+DESCRIPTION:Liga Women · Clausura · 4. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607659@anstoss
+DTSTAMP:20260815T180000Z
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+SUMMARY:Flamengo FBC – Sporting Cristal 0:1
+DESCRIPTION:Liga Women · Clausura · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620976@anstoss
+DTSTAMP:20260822T150000Z
+DTSTART:20260822T150000Z
+DTEND:20260822T170000Z
+SUMMARY:Sporting Cristal – Atl. Andahuaylas 0:2
+DESCRIPTION:Liga Women · Clausura · 6. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1622725@anstoss
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:Killas – Sporting Cristal 0:4
+DESCRIPTION:Liga Women · Clausura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622725.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629826@anstoss
+DTSTAMP:20260905T150000Z
+DTSTART:20260905T150000Z
+DTEND:20260905T170000Z
+SUMMARY:Sporting Cristal – UNSAAC 3:0
+DESCRIPTION:Liga Women · Clausura · 8. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629826.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632249@anstoss
+DTSTAMP:20260913T180000Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Carlos Mannucci – Sporting Cristal 1:2
+DESCRIPTION:Liga Women · Clausura · 9. Spieltag
+LOCATION:Estadio Mansiche\, Trujillo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634305@anstoss
+DTSTAMP:20260920T201500Z
+DTSTART:20260920T201500Z
+DTEND:20260920T221500Z
+SUMMARY:Sporting Cristal – Alianza Lima
+DESCRIPTION:Liga Women · Clausura · 10. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634305.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Azerbaijan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523832@anstoss
+DTSTAMP:20260303T110000Z
+DTSTART:20260303T110000Z
+DTEND:20260303T130000Z
+SUMMARY:Azerbaijan – North Macedonia 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Dalga Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523832.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523856@anstoss
+DTSTAMP:20260307T133000Z
+DTSTART:20260307T133000Z
+DTEND:20260307T153000Z
+SUMMARY:Hungary – Azerbaijan 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Pancho Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523856.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523882@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Andorra – Azerbaijan 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523907@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Azerbaijan – Andorra 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Bank Respublika Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523931@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Azerbaijan – Hungary 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Mehdi Huseynzade Stadium\, Sumqayit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523931.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523957@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:North Macedonia – Azerbaijan 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stadion Petar Milosevski\, Bitola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523957.ht
+ ml
+END:VEVENT
+END:VCALENDAR

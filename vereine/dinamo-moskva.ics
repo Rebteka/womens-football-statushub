@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dinamo Moskva
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529897@anstoss
+DTSTAMP:20260321T100000Z
+DTSTART:20260321T100000Z
+DTEND:20260321T120000Z
+SUMMARY:Dinamo Moskva – Zenit 0:2
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529905@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:Rostov – Dinamo Moskva 0:1
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529910@anstoss
+DTSTAMP:20260404T100000Z
+DTSTART:20260404T100000Z
+DTEND:20260404T120000Z
+SUMMARY:CSKA Moskva – Dinamo Moskva 2:0
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529914@anstoss
+DTSTAMP:20260424T160000Z
+DTSTART:20260424T160000Z
+DTEND:20260424T180000Z
+SUMMARY:Dinamo Moskva – Spartak Moskva 0:2
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529914.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529920@anstoss
+DTSTAMP:20260502T140000Z
+DTSTART:20260502T140000Z
+DTEND:20260502T160000Z
+SUMMARY:Chertanovo – Dinamo Moskva 0:1
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529920.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529927@anstoss
+DTSTAMP:20260510T110000Z
+DTSTART:20260510T110000Z
+DTEND:20260510T130000Z
+SUMMARY:Dinamo Moskva – Krylya Sovetov 0:1
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529927.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529935@anstoss
+DTSTAMP:20260516T130000Z
+DTSTART:20260516T130000Z
+DTEND:20260516T150000Z
+SUMMARY:Rubin Kazan – Dinamo Moskva 2:1
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529935.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529939@anstoss
+DTSTAMP:20260524T100000Z
+DTSTART:20260524T100000Z
+DTEND:20260524T120000Z
+SUMMARY:Dinamo Moskva – Lokomotiv Moskva 0:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529939.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529945@anstoss
+DTSTAMP:20260530T060000Z
+DTSTART:20260530T060000Z
+DTEND:20260530T080000Z
+SUMMARY:Yenisey – Dinamo Moskva 0:1
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529951@anstoss
+DTSTAMP:20260620T140000Z
+DTSTART:20260620T140000Z
+DTEND:20260620T160000Z
+SUMMARY:Dinamo Moskva – Krasnodar 2:0
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529957@anstoss
+DTSTAMP:20260627T140000Z
+DTSTART:20260627T140000Z
+DTEND:20260627T160000Z
+SUMMARY:Dinamo Moskva – Zvezda Perm 0:0
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529965@anstoss
+DTSTAMP:20260711T140000Z
+DTSTART:20260711T140000Z
+DTEND:20260711T160000Z
+SUMMARY:Ryazan – Dinamo Moskva 1:2
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529978@anstoss
+DTSTAMP:20260801T140000Z
+DTSTART:20260801T140000Z
+DTEND:20260801T160000Z
+SUMMARY:Spartak Moskva – Dinamo Moskva 1:0
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529978.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529980@anstoss
+DTSTAMP:20260808T100000Z
+DTSTART:20260808T100000Z
+DTEND:20260808T120000Z
+SUMMARY:Dinamo Moskva – Rostov 5:0
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529980.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529988@anstoss
+DTSTAMP:20260828T150000Z
+DTSTART:20260828T150000Z
+DTEND:20260828T170000Z
+SUMMARY:Krasnodar – Dinamo Moskva 2:3
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529993@anstoss
+DTSTAMP:20260904T130000Z
+DTSTART:20260904T130000Z
+DTEND:20260904T150000Z
+SUMMARY:Krylya Sovetov – Dinamo Moskva 0:1
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529999@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Dinamo Moskva – Chertanovo 2:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530009@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Zenit – Dinamo Moskva
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530009.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530011@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Dinamo Moskva – Rubin Kazan
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530011.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530019@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Lokomotiv Moskva – Dinamo Moskva
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530022@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Dinamo Moskva – CSKA Moskva
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530030@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Dinamo Moskva – Yenisey
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530039@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Zvezda Perm – Dinamo Moskva
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530040@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Dinamo Moskva – Ryazan
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530040.ht
+ ml
+END:VEVENT
+END:VCALENDAR

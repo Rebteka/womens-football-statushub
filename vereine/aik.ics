@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIK
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495432@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:AIK – Norrköping 1:0
+DESCRIPTION:Damallsvenskan · 1. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495442@anstoss
+DTSTAMP:20260405T140000Z
+DTSTART:20260405T140000Z
+DTEND:20260405T160000Z
+SUMMARY:Rosengård – AIK 1:2
+DESCRIPTION:Damallsvenskan · 2. Spieltag
+LOCATION:Malmo IP
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495459@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:Vittsjö – AIK 1:0
+DESCRIPTION:Damallsvenskan · 4. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495466@anstoss
+DTSTAMP:20260509T130000Z
+DTSTART:20260509T130000Z
+DTEND:20260509T150000Z
+SUMMARY:Växjö – AIK 3:3
+DESCRIPTION:Damallsvenskan · 5. Spieltag
+LOCATION:Visma Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495467@anstoss
+DTSTAMP:20260517T130000Z
+DTSTART:20260517T130000Z
+DTEND:20260517T150000Z
+SUMMARY:AIK – Piteå 2:1
+DESCRIPTION:Damallsvenskan · 6. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495474@anstoss
+DTSTAMP:20260523T110000Z
+DTSTART:20260523T110000Z
+DTEND:20260523T130000Z
+SUMMARY:AIK – Malmö FF 2:2
+DESCRIPTION:Damallsvenskan · 7. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495446@anstoss
+DTSTAMP:20260527T170000Z
+DTSTART:20260527T170000Z
+DTEND:20260527T190000Z
+SUMMARY:AIK – Häcken 2:1
+DESCRIPTION:Damallsvenskan · 3. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495486@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Uppsala – AIK 2:2
+DESCRIPTION:Damallsvenskan · 8. Spieltag
+LOCATION:Studenternas IP\, Uppsala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495488@anstoss
+DTSTAMP:20260613T110000Z
+DTSTART:20260613T110000Z
+DTEND:20260613T130000Z
+SUMMARY:AIK – Djurgården 3:0
+DESCRIPTION:Damallsvenskan · 9. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495498@anstoss
+DTSTAMP:20260617T170000Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:Hammarby – AIK 4:1
+DESCRIPTION:Damallsvenskan · 10. Spieltag
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495502@anstoss
+DTSTAMP:20260624T170000Z
+DTSTART:20260624T170000Z
+DTEND:20260624T190000Z
+SUMMARY:AIK – Eskilstuna United 1:0
+DESCRIPTION:Damallsvenskan · 11. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495512@anstoss
+DTSTAMP:20260801T130000Z
+DTSTART:20260801T130000Z
+DTEND:20260801T150000Z
+SUMMARY:Kristianstad – AIK 3:0
+DESCRIPTION:Damallsvenskan · 12. Spieltag
+LOCATION:Kristianstad Arena\, Kristianstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495512.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495516@anstoss
+DTSTAMP:20260807T170000Z
+DTSTART:20260807T170000Z
+DTEND:20260807T190000Z
+SUMMARY:AIK – Brommapojkarna 1:0
+DESCRIPTION:Damallsvenskan · 13. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495516.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495523@anstoss
+DTSTAMP:20260815T110000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T130000Z
+SUMMARY:AIK – Vittsjö 1:2
+DESCRIPTION:Damallsvenskan · 14. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495532@anstoss
+DTSTAMP:20260823T110000Z
+DTSTART:20260823T110000Z
+DTEND:20260823T130000Z
+SUMMARY:Häcken – AIK 4:1
+DESCRIPTION:Damallsvenskan · 15. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495537@anstoss
+DTSTAMP:20260829T110000Z
+DTSTART:20260829T110000Z
+DTEND:20260829T130000Z
+SUMMARY:AIK – Kristianstad 0:1
+DESCRIPTION:Damallsvenskan · 16. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495537.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495545@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Eskilstuna United – AIK 1:1
+DESCRIPTION:Damallsvenskan · 17. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495555@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Piteå – AIK 0:1
+DESCRIPTION:Damallsvenskan · 18. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495558@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:AIK – Hammarby
+DESCRIPTION:Damallsvenskan · 19. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495565@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:AIK – Växjö
+DESCRIPTION:Damallsvenskan · 20. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495565.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495572@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Djurgården – AIK
+DESCRIPTION:Damallsvenskan · 21. Spieltag
+LOCATION:Stockholms Olympiastadion\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495572.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495583@anstoss
+DTSTAMP:20261017T120000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:Malmö FF – AIK
+DESCRIPTION:Damallsvenskan · 22. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495586@anstoss
+DTSTAMP:20261024T110000Z
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
+SUMMARY:AIK – Rosengård
+DESCRIPTION:Damallsvenskan · 23. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495595@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Brommapojkarna – AIK
+DESCRIPTION:Damallsvenskan · 24. Spieltag
+LOCATION:Grimsta IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495600@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:AIK – Uppsala
+DESCRIPTION:Damallsvenskan · 25. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495600.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495612@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Norrköping – AIK
+DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495612.ht
+ ml
+END:VEVENT
+END:VCALENDAR

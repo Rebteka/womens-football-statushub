@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rubin Kazan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529894@anstoss
+DTSTAMP:20260314T110000Z
+DTSTART:20260314T110000Z
+DTEND:20260314T130000Z
+SUMMARY:Lokomotiv Moskva – Rubin Kazan 2:2
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529898@anstoss
+DTSTAMP:20260321T060000Z
+DTSTART:20260321T060000Z
+DTEND:20260321T080000Z
+SUMMARY:Yenisey – Rubin Kazan 0:0
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529906@anstoss
+DTSTAMP:20260328T130000Z
+DTSTART:20260328T130000Z
+DTEND:20260328T150000Z
+SUMMARY:Rubin Kazan – Ryazan 0:0
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529912@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:Rubin Kazan – Rostov 4:0
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529919@anstoss
+DTSTAMP:20260425T080000Z
+DTSTART:20260425T080000Z
+DTEND:20260425T100000Z
+SUMMARY:Zvezda Perm – Rubin Kazan 3:2
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529919.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529923@anstoss
+DTSTAMP:20260502T130000Z
+DTSTART:20260502T130000Z
+DTEND:20260502T150000Z
+SUMMARY:Rubin Kazan – Krasnodar 0:0
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529923.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529931@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:Zenit – Rubin Kazan 3:0
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529931.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529935@anstoss
+DTSTAMP:20260516T130000Z
+DTSTART:20260516T130000Z
+DTEND:20260516T150000Z
+SUMMARY:Rubin Kazan – Dinamo Moskva 2:1
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529935.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529943@anstoss
+DTSTAMP:20260524T120000Z
+DTSTART:20260524T120000Z
+DTEND:20260524T140000Z
+SUMMARY:Spartak Moskva – Rubin Kazan 1:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529943.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529953@anstoss
+DTSTAMP:20260620T110000Z
+DTSTART:20260620T110000Z
+DTEND:20260620T130000Z
+SUMMARY:Rubin Kazan – CSKA Moskva 2:3
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529960@anstoss
+DTSTAMP:20260627T140000Z
+DTSTART:20260627T140000Z
+DTEND:20260627T160000Z
+SUMMARY:Rubin Kazan – Chertanovo 2:2
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529963@anstoss
+DTSTAMP:20260711T130000Z
+DTSTART:20260711T130000Z
+DTEND:20260711T150000Z
+SUMMARY:Krylya Sovetov – Rubin Kazan 2:0
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529970@anstoss
+DTSTAMP:20260718T140000Z
+DTSTART:20260718T140000Z
+DTEND:20260718T160000Z
+SUMMARY:Rubin Kazan – Lokomotiv Moskva 1:0
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529977@anstoss
+DTSTAMP:20260801T140000Z
+DTSTART:20260801T140000Z
+DTEND:20260801T160000Z
+SUMMARY:Rubin Kazan – Zvezda Perm 2:0
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529984@anstoss
+DTSTAMP:20260808T140000Z
+DTSTART:20260808T140000Z
+DTEND:20260808T160000Z
+SUMMARY:Ryazan – Rubin Kazan 1:1
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529984.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529986@anstoss
+DTSTAMP:20260829T093000Z
+DTSTART:20260829T093000Z
+DTEND:20260829T113000Z
+SUMMARY:CSKA Moskva – Rubin Kazan 4:1
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529995@anstoss
+DTSTAMP:20260906T140000Z
+DTSTART:20260906T140000Z
+DTEND:20260906T160000Z
+SUMMARY:Rubin Kazan – Zenit 0:3
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530001@anstoss
+DTSTAMP:20260912T150000Z
+DTSTART:20260912T150000Z
+DTEND:20260912T170000Z
+SUMMARY:Krasnodar – Rubin Kazan 0:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530007@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Rubin Kazan – Yenisey
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530011@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Dinamo Moskva – Rubin Kazan
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530011.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530020@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Rubin Kazan – Spartak Moskva
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530024@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Rostov – Rubin Kazan
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530034@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Chertanovo – Rubin Kazan
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530044@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Rubin Kazan – Krylya Sovetov
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530044.ht
+ ml
+END:VEVENT
+END:VCALENDAR

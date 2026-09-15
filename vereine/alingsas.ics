@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alingsås
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501354@anstoss
+DTSTAMP:20260328T123000Z
+DTSTART:20260328T123000Z
+DTEND:20260328T143000Z
+SUMMARY:Husqvarna – Alingsås 2:1
+DESCRIPTION:Elitettan · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501359@anstoss
+DTSTAMP:20260403T110000Z
+DTSTART:20260403T110000Z
+DTEND:20260403T130000Z
+SUMMARY:Alingsås – Jitex 0:3
+DESCRIPTION:Elitettan · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501366@anstoss
+DTSTAMP:20260424T170000Z
+DTSTART:20260424T170000Z
+DTEND:20260424T190000Z
+SUMMARY:Alingsås – Göteborg 1:1
+DESCRIPTION:Elitettan · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501375@anstoss
+DTSTAMP:20260502T120000Z
+DTSTART:20260502T120000Z
+DTEND:20260502T140000Z
+SUMMARY:Häcken II – Alingsås 0:1
+DESCRIPTION:Elitettan · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501386@anstoss
+DTSTAMP:20260509T130000Z
+DTSTART:20260509T130000Z
+DTEND:20260509T150000Z
+SUMMARY:Trelleborg – Alingsås 1:0
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501387@anstoss
+DTSTAMP:20260515T163000Z
+DTSTART:20260515T163000Z
+DTEND:20260515T183000Z
+SUMMARY:Alingsås – Elfsborg 0:1
+DESCRIPTION:Elitettan · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501394@anstoss
+DTSTAMP:20260523T110000Z
+DTSTART:20260523T110000Z
+DTEND:20260523T130000Z
+SUMMARY:Alingsås – Umeå 2:0
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501405@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:KIF Örebro – Alingsås 2:0
+DESCRIPTION:Elitettan · 8. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501408@anstoss
+DTSTAMP:20260613T110000Z
+DTSTART:20260613T110000Z
+DTEND:20260613T130000Z
+SUMMARY:Alingsås – Gamla Upsala 0:0
+DESCRIPTION:Elitettan · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501419@anstoss
+DTSTAMP:20260618T170000Z
+DTSTART:20260618T170000Z
+DTEND:20260618T190000Z
+SUMMARY:Linköping – Alingsås 4:0
+DESCRIPTION:Elitettan · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501426@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:Sandviken – Alingsås 3:3
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503706@anstoss
+DTSTAMP:20260801T130000Z
+DTSTART:20260801T130000Z
+DTEND:20260801T150000Z
+SUMMARY:Alingsås – Enskede 1:1
+DESCRIPTION:Elitettan · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501439@anstoss
+DTSTAMP:20260808T140000Z
+DTSTART:20260808T140000Z
+DTEND:20260808T160000Z
+SUMMARY:Örebro SK – Alingsås 2:2
+DESCRIPTION:Elitettan · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501439.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501443@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Alingsås – Husqvarna 0:1
+DESCRIPTION:Elitettan · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501451@anstoss
+DTSTAMP:20260822T110000Z
+DTSTART:20260822T110000Z
+DTEND:20260822T130000Z
+SUMMARY:Jitex – Alingsås 1:2
+DESCRIPTION:Elitettan · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501457@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Alingsås – Örebro SK 1:1
+DESCRIPTION:Elitettan · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501464@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Alingsås – Linköping 1:2
+DESCRIPTION:Elitettan · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503712@anstoss
+DTSTAMP:20260912T130000Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:Enskede – Alingsås 0:1
+DESCRIPTION:Elitettan · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501479@anstoss
+DTSTAMP:20260920T110000Z
+DTSTART:20260920T110000Z
+DTEND:20260920T130000Z
+SUMMARY:Gamla Upsala – Alingsås
+DESCRIPTION:Elitettan · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501485@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:Alingsås – Trelleborg
+DESCRIPTION:Elitettan · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501493@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Göteborg – Alingsås
+DESCRIPTION:Elitettan · 21. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501499@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Alingsås – Häcken II
+DESCRIPTION:Elitettan · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501506@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Alingsås – KIF Örebro
+DESCRIPTION:Elitettan · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501506.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501513@anstoss
+DTSTAMP:20261030T173000Z
+DTSTART:20261030T173000Z
+DTEND:20261030T193000Z
+SUMMARY:Elfsborg – Alingsås
+DESCRIPTION:Elitettan · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501526@anstoss
+DTSTAMP:20261108T120000Z
+DTSTART:20261108T120000Z
+DTEND:20261108T140000Z
+SUMMARY:Umeå – Alingsås
+DESCRIPTION:Elitettan · 25. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501527@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Alingsås – Sandviken
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501527.ht
+ ml
+END:VEVENT
+END:VCALENDAR

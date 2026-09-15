@@ -1,0 +1,1361 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liga MX Femenil 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603300@anstoss
+DTSTAMP:20260801T010000Z
+DTSTART:20260801T010000Z
+DTEND:20260801T030000Z
+SUMMARY:Cruz Azul – Atlas 3:1
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603301@anstoss
+DTSTAMP:20260801T230000Z
+DTSTART:20260801T230000Z
+DTEND:20260802T010000Z
+SUMMARY:Juárez – Pachuca 1:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603302@anstoss
+DTSTAMP:20260802T010600Z
+DTSTART:20260802T010600Z
+DTEND:20260802T030600Z
+SUMMARY:Tigres UANL – Puebla 8:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603303@anstoss
+DTSTAMP:20260802T031000Z
+DTSTART:20260802T031000Z
+DTEND:20260802T051000Z
+SUMMARY:Tijuana – Monterrey 1:2
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603304@anstoss
+DTSTAMP:20260802T180000Z
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+SUMMARY:Pumas UNAM – León 2:5
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603306@anstoss
+DTSTAMP:20260802T230600Z
+DTSTART:20260802T230600Z
+DTEND:20260803T010600Z
+SUMMARY:Guadalajara – Querétaro 3:1
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603305@anstoss
+DTSTAMP:20260803T160000Z
+DTSTART:20260803T160000Z
+DTEND:20260803T180000Z
+SUMMARY:Atlético San Luis – Toluca 1:4
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603307@anstoss
+DTSTAMP:20260803T214500Z
+DTSTART:20260803T214500Z
+DTEND:20260803T234500Z
+SUMMARY:Atlante – Necaxa 1:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603308@anstoss
+DTSTAMP:20260804T010600Z
+DTSTART:20260804T010600Z
+DTEND:20260804T030600Z
+SUMMARY:Santos Laguna – América 0:3
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603309@anstoss
+DTSTAMP:20260808T010600Z
+DTSTART:20260808T010600Z
+DTEND:20260808T030600Z
+SUMMARY:Atlas – Pachuca 1:1
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603310@anstoss
+DTSTAMP:20260808T220000Z
+DTSTART:20260808T220000Z
+DTEND:20260809T000000Z
+SUMMARY:América – Cruz Azul 10:0
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603311@anstoss
+DTSTAMP:20260808T230000Z
+DTSTART:20260808T230000Z
+DTEND:20260809T010000Z
+SUMMARY:Querétaro – Santos Laguna 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603312@anstoss
+DTSTAMP:20260809T010600Z
+DTSTART:20260809T010600Z
+DTEND:20260809T030600Z
+SUMMARY:Necaxa – Pumas UNAM 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603313@anstoss
+DTSTAMP:20260809T020000Z
+DTSTART:20260809T020000Z
+DTEND:20260809T040000Z
+SUMMARY:Monterrey – Atlante 3:1
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603314@anstoss
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Puebla – Guadalajara 1:4
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603315@anstoss
+DTSTAMP:20260809T220000Z
+DTSTART:20260809T220000Z
+DTEND:20260810T000000Z
+SUMMARY:Atlético San Luis – Tijuana 2:1
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603316@anstoss
+DTSTAMP:20260811T000000Z
+DTSTART:20260811T000000Z
+DTEND:20260811T020000Z
+SUMMARY:Toluca – Juárez 2:0
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603317@anstoss
+DTSTAMP:20260811T010600Z
+DTSTART:20260811T010600Z
+DTEND:20260811T030600Z
+SUMMARY:León – Tigres UANL 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603318@anstoss
+DTSTAMP:20260815T010000Z
+DTSTART:20260815T010000Z
+DTEND:20260815T030000Z
+SUMMARY:Cruz Azul – Atlante 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603319@anstoss
+DTSTAMP:20260815T214500Z
+DTSTART:20260815T214500Z
+DTEND:20260815T234500Z
+SUMMARY:América – Puebla 5:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603320@anstoss
+DTSTAMP:20260815T230000Z
+DTSTART:20260815T230000Z
+DTEND:20260816T010000Z
+SUMMARY:Pachuca – Pumas UNAM 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603321@anstoss
+DTSTAMP:20260816T010600Z
+DTSTART:20260816T010600Z
+DTEND:20260816T030600Z
+SUMMARY:Tigres UANL – Juárez 1:0
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603322@anstoss
+DTSTAMP:20260816T031000Z
+DTSTART:20260816T031000Z
+DTEND:20260816T051000Z
+SUMMARY:Tijuana – Necaxa 5:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603323@anstoss
+DTSTAMP:20260816T230000Z
+DTSTART:20260816T230000Z
+DTEND:20260817T010000Z
+SUMMARY:Guadalajara – Atlético San Luis 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603324@anstoss
+DTSTAMP:20260817T230000Z
+DTSTART:20260817T230000Z
+DTEND:20260818T010000Z
+SUMMARY:León – Querétaro 0:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603325@anstoss
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T000000Z
+DTEND:20260818T020000Z
+SUMMARY:Toluca – Atlas 1:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603326@anstoss
+DTSTAMP:20260818T010600Z
+DTSTART:20260818T010600Z
+DTEND:20260818T030600Z
+SUMMARY:Santos Laguna – Monterrey 1:4
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603327@anstoss
+DTSTAMP:20260821T230000Z
+DTSTART:20260821T230000Z
+DTEND:20260822T010000Z
+SUMMARY:Pumas UNAM – Querétaro 5:0
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603328@anstoss
+DTSTAMP:20260822T030000Z
+DTSTART:20260822T030000Z
+DTEND:20260822T050000Z
+SUMMARY:Monterrey – León 2:3
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603330@anstoss
+DTSTAMP:20260823T000000Z
+DTSTART:20260823T000000Z
+DTEND:20260823T020000Z
+SUMMARY:Cruz Azul – Tigres UANL 0:3
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603329@anstoss
+DTSTAMP:20260823T010600Z
+DTSTART:20260823T010600Z
+DTEND:20260823T030600Z
+SUMMARY:Juárez – Santos Laguna 3:2
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603329.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603331@anstoss
+DTSTAMP:20260823T180000Z
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+SUMMARY:Puebla – Atlético San Luis 2:5
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603332@anstoss
+DTSTAMP:20260823T220000Z
+DTSTART:20260823T220000Z
+DTEND:20260824T000000Z
+SUMMARY:Pachuca – Guadalajara 3:1
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603333@anstoss
+DTSTAMP:20260824T000600Z
+DTSTART:20260824T000600Z
+DTEND:20260824T020600Z
+SUMMARY:Necaxa – América 0:7
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603334@anstoss
+DTSTAMP:20260824T214500Z
+DTSTART:20260824T214500Z
+DTEND:20260824T234500Z
+SUMMARY:Atlante – Toluca 1:2
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603335@anstoss
+DTSTAMP:20260825T010000Z
+DTSTART:20260825T010000Z
+DTEND:20260825T030000Z
+SUMMARY:Atlas – Tijuana 2:0
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603336@anstoss
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T000000Z
+DTEND:20260829T020000Z
+SUMMARY:Toluca – León 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603337@anstoss
+DTSTAMP:20260829T230000Z
+DTSTART:20260829T230000Z
+DTEND:20260830T010000Z
+SUMMARY:Querétaro – Monterrey 0:4
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603338@anstoss
+DTSTAMP:20260830T010600Z
+DTSTART:20260830T010600Z
+DTEND:20260830T030600Z
+SUMMARY:Tigres UANL – Pachuca 2:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603339@anstoss
+DTSTAMP:20260830T031000Z
+DTSTART:20260830T031000Z
+DTEND:20260830T051000Z
+SUMMARY:Juárez – Cruz Azul 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603340@anstoss
+DTSTAMP:20260830T180000Z
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+SUMMARY:Puebla – Necaxa 4:1
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603341@anstoss
+DTSTAMP:20260830T214500Z
+DTSTART:20260830T214500Z
+DTEND:20260830T234500Z
+SUMMARY:América – Tijuana 3:1
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603342@anstoss
+DTSTAMP:20260830T230000Z
+DTSTART:20260830T230000Z
+DTEND:20260831T010000Z
+SUMMARY:Atlético San Luis – Atlas 6:1
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603343@anstoss
+DTSTAMP:20260830T230600Z
+DTSTART:20260830T230600Z
+DTEND:20260831T010600Z
+SUMMARY:Guadalajara – Pumas UNAM 0:2
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603344@anstoss
+DTSTAMP:20260901T010600Z
+DTSTART:20260901T010600Z
+DTEND:20260901T030600Z
+SUMMARY:Santos Laguna – Atlante 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603345@anstoss
+DTSTAMP:20260905T020600Z
+DTSTART:20260905T020600Z
+DTEND:20260905T040600Z
+SUMMARY:Atlas – Guadalajara 0:4
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603346@anstoss
+DTSTAMP:20260905T030000Z
+DTSTART:20260905T030000Z
+DTEND:20260905T050000Z
+SUMMARY:Pumas UNAM – América 1:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603347@anstoss
+DTSTAMP:20260905T230000Z
+DTSTART:20260905T230000Z
+DTEND:20260906T010000Z
+SUMMARY:Necaxa – Atlético San Luis 0:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603348@anstoss
+DTSTAMP:20260906T010000Z
+DTSTART:20260906T010000Z
+DTEND:20260906T030000Z
+SUMMARY:Monterrey – Toluca 5:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603349@anstoss
+DTSTAMP:20260906T010600Z
+DTSTART:20260906T010600Z
+DTEND:20260906T030600Z
+SUMMARY:Tijuana – Pachuca 3:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603350@anstoss
+DTSTAMP:20260906T220000Z
+DTSTART:20260906T220000Z
+DTEND:20260907T000000Z
+SUMMARY:Querétaro – Cruz Azul 0:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603351@anstoss
+DTSTAMP:20260907T000600Z
+DTSTART:20260907T000600Z
+DTEND:20260907T020600Z
+SUMMARY:Tigres UANL – Santos Laguna 3:0
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603353@anstoss
+DTSTAMP:20260908T010600Z
+DTSTART:20260908T010600Z
+DTEND:20260908T030600Z
+SUMMARY:León – Puebla 5:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603352@anstoss
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Atlante – Juárez 0:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603354@anstoss
+DTSTAMP:20260912T010000Z
+DTSTART:20260912T010000Z
+DTEND:20260912T030000Z
+SUMMARY:Cruz Azul – Pumas UNAM 3:2
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603355@anstoss
+DTSTAMP:20260912T030600Z
+DTSTART:20260912T030600Z
+DTEND:20260912T050600Z
+SUMMARY:Atlas – Atlante 1:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603356@anstoss
+DTSTAMP:20260912T230700Z
+DTSTART:20260912T230700Z
+DTEND:20260913T010700Z
+SUMMARY:Guadalajara – Monterrey 2:3
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603357@anstoss
+DTSTAMP:20260913T011000Z
+DTSTART:20260913T011000Z
+DTEND:20260913T031000Z
+SUMMARY:Juárez – Necaxa 1:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603358@anstoss
+DTSTAMP:20260913T180000Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Puebla – Querétaro 2:6
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603360@anstoss
+DTSTAMP:20260913T230000Z
+DTSTART:20260913T230000Z
+DTEND:20260914T010000Z
+SUMMARY:América – Tigres UANL 5:2
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603359@anstoss
+DTSTAMP:20260913T230000Z
+DTSTART:20260913T230000Z
+DTEND:20260914T010000Z
+SUMMARY:Atlético San Luis – Santos Laguna 2:3
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603361@anstoss
+DTSTAMP:20260915T000000Z
+DTSTART:20260915T000000Z
+DTEND:20260915T020000Z
+SUMMARY:Toluca – Tijuana 6:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603362@anstoss
+DTSTAMP:20260915T010000Z
+DTSTART:20260915T010000Z
+DTEND:20260915T030000Z
+SUMMARY:Pachuca – León 0:1
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603363@anstoss
+DTSTAMP:20260919T030000Z
+DTSTART:20260919T030000Z
+DTEND:20260919T050000Z
+SUMMARY:Monterrey – Necaxa
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603364@anstoss
+DTSTAMP:20260919T230600Z
+DTSTART:20260919T230600Z
+DTEND:20260920T010600Z
+SUMMARY:Tijuana – Guadalajara
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603365@anstoss
+DTSTAMP:20260920T180000Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:Pumas UNAM – Puebla
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603366@anstoss
+DTSTAMP:20260920T214500Z
+DTSTART:20260920T214500Z
+DTEND:20260920T234500Z
+SUMMARY:América – Atlas
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603367@anstoss
+DTSTAMP:20260920T230000Z
+DTSTART:20260920T230000Z
+DTEND:20260921T010000Z
+SUMMARY:Atlético San Luis – Pachuca
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603368@anstoss
+DTSTAMP:20260921T214500Z
+DTSTART:20260921T214500Z
+DTEND:20260921T234500Z
+SUMMARY:Atlante – Querétaro
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603369@anstoss
+DTSTAMP:20260921T230000Z
+DTSTART:20260921T230000Z
+DTEND:20260922T010000Z
+SUMMARY:León – Juárez
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603370@anstoss
+DTSTAMP:20260922T000000Z
+DTSTART:20260922T000000Z
+DTEND:20260922T020000Z
+SUMMARY:Toluca – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603371@anstoss
+DTSTAMP:20260922T010600Z
+DTSTART:20260922T010600Z
+DTEND:20260922T030600Z
+SUMMARY:Santos Laguna – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603372@anstoss
+DTSTAMP:20260926T010000Z
+DTSTART:20260926T010000Z
+DTEND:20260926T030000Z
+SUMMARY:Cruz Azul – Guadalajara
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603373@anstoss
+DTSTAMP:20260926T180600Z
+DTSTART:20260926T180600Z
+DTEND:20260926T200600Z
+SUMMARY:Querétaro – Atlas
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603374@anstoss
+DTSTAMP:20260926T230000Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:Pachuca – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603375@anstoss
+DTSTAMP:20260927T010600Z
+DTSTART:20260927T010600Z
+DTEND:20260927T030600Z
+SUMMARY:Juárez – Tijuana
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603376@anstoss
+DTSTAMP:20260927T180000Z
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+SUMMARY:Puebla – Monterrey
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603377@anstoss
+DTSTAMP:20260928T000600Z
+DTSTART:20260928T000600Z
+DTEND:20260928T020600Z
+SUMMARY:Tigres UANL – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603378@anstoss
+DTSTAMP:20260928T214500Z
+DTSTART:20260928T214500Z
+DTEND:20260928T234500Z
+SUMMARY:Atlante – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603379@anstoss
+DTSTAMP:20260928T230000Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:León – América
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603380@anstoss
+DTSTAMP:20260929T010600Z
+DTSTART:20260929T010600Z
+DTEND:20260929T030600Z
+SUMMARY:Necaxa – Toluca
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603381@anstoss
+DTSTAMP:20261002T230000Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+SUMMARY:Santos Laguna – Puebla
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603382@anstoss
+DTSTAMP:20261003T010000Z
+DTSTART:20261003T010000Z
+DTEND:20261003T030000Z
+SUMMARY:Pumas UNAM – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603383@anstoss
+DTSTAMP:20261003T010600Z
+DTSTART:20261003T010600Z
+DTEND:20261003T030600Z
+SUMMARY:Atlas – León
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603384@anstoss
+DTSTAMP:20261003T030000Z
+DTSTART:20261003T030000Z
+DTEND:20261003T050000Z
+SUMMARY:Monterrey – América
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603385@anstoss
+DTSTAMP:20261003T230000Z
+DTSTART:20261003T230000Z
+DTEND:20261004T010000Z
+SUMMARY:Querétaro – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603386@anstoss
+DTSTAMP:20261004T010600Z
+DTSTART:20261004T010600Z
+DTEND:20261004T030600Z
+SUMMARY:Tijuana – Atlante
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603387@anstoss
+DTSTAMP:20261004T031000Z
+DTSTART:20261004T031000Z
+DTEND:20261004T051000Z
+SUMMARY:Necaxa – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603388@anstoss
+DTSTAMP:20261004T230000Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Guadalajara – Juárez
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603389@anstoss
+DTSTAMP:20261005T010600Z
+DTSTART:20261005T010600Z
+DTEND:20261005T030600Z
+SUMMARY:Pachuca – Toluca
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603390@anstoss
+DTSTAMP:20261017T180000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Puebla – Tijuana
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603391@anstoss
+DTSTAMP:20261018T010000Z
+DTSTART:20261018T010000Z
+DTEND:20261018T030000Z
+SUMMARY:Monterrey – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603392@anstoss
+DTSTAMP:20261018T180000Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Pumas UNAM – Atlas
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603393@anstoss
+DTSTAMP:20261018T180600Z
+DTSTART:20261018T180600Z
+DTEND:20261018T200600Z
+SUMMARY:Guadalajara – Necaxa
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603394@anstoss
+DTSTAMP:20261018T230000Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Atlético San Luis – Juárez
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603395@anstoss
+DTSTAMP:20261019T000600Z
+DTSTART:20261019T000600Z
+DTEND:20261019T020600Z
+SUMMARY:Tigres UANL – Querétaro
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603396@anstoss
+DTSTAMP:20261019T010000Z
+DTSTART:20261019T010000Z
+DTEND:20261019T030000Z
+SUMMARY:América – Pachuca
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603397@anstoss
+DTSTAMP:20261020T000000Z
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
+SUMMARY:Toluca – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603398@anstoss
+DTSTAMP:20261020T010600Z
+DTSTART:20261020T010600Z
+DTEND:20261020T030600Z
+SUMMARY:León – Atlante
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603399@anstoss
+DTSTAMP:20261024T010600Z
+DTSTART:20261024T010600Z
+DTEND:20261024T030600Z
+SUMMARY:Atlas – Puebla
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Colomos\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603400@anstoss
+DTSTAMP:20261024T031000Z
+DTSTART:20261024T031000Z
+DTEND:20261024T051000Z
+SUMMARY:Tijuana – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603401@anstoss
+DTSTAMP:20261024T230000Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Pachuca – Necaxa
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603402@anstoss
+DTSTAMP:20261025T020000Z
+DTSTART:20261025T020000Z
+DTEND:20261025T040000Z
+SUMMARY:Cruz Azul – Toluca
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603403@anstoss
+DTSTAMP:20261025T020600Z
+DTSTART:20261025T020600Z
+DTEND:20261025T040600Z
+SUMMARY:Juárez – Querétaro
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603404@anstoss
+DTSTAMP:20261025T230000Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:Atlético San Luis – América
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603405@anstoss
+DTSTAMP:20261026T000000Z
+DTSTART:20261026T000000Z
+DTEND:20261026T020000Z
+SUMMARY:Tigres UANL – Monterrey
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603406@anstoss
+DTSTAMP:20261026T214500Z
+DTSTART:20261026T214500Z
+DTEND:20261026T234500Z
+SUMMARY:Atlante – Guadalajara
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603407@anstoss
+DTSTAMP:20261027T010600Z
+DTSTART:20261027T010600Z
+DTEND:20261027T030600Z
+SUMMARY:Santos Laguna – León
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603408@anstoss
+DTSTAMP:20261031T000000Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:Toluca – Guadalajara
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603409@anstoss
+DTSTAMP:20261031T010600Z
+DTSTART:20261031T010600Z
+DTEND:20261031T030600Z
+SUMMARY:Atlas – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Colomos\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603410@anstoss
+DTSTAMP:20261031T030000Z
+DTSTART:20261031T030000Z
+DTEND:20261031T050000Z
+SUMMARY:Monterrey – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603411@anstoss
+DTSTAMP:20261031T230000Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Tijuana – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603412@anstoss
+DTSTAMP:20261101T010600Z
+DTSTART:20261101T010600Z
+DTEND:20261101T030600Z
+SUMMARY:Querétaro – Pachuca
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603413@anstoss
+DTSTAMP:20261101T031000Z
+DTSTART:20261101T031000Z
+DTEND:20261101T051000Z
+SUMMARY:Necaxa – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603414@anstoss
+DTSTAMP:20261101T180000Z
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+SUMMARY:Puebla – Juárez
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603415@anstoss
+DTSTAMP:20261101T214500Z
+DTSTART:20261101T214500Z
+DTEND:20261101T234500Z
+SUMMARY:América – Atlante
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603416@anstoss
+DTSTAMP:20261103T010600Z
+DTSTART:20261103T010600Z
+DTEND:20261103T030600Z
+SUMMARY:León – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603417@anstoss
+DTSTAMP:20261105T214500Z
+DTSTART:20261105T214500Z
+DTEND:20261105T234500Z
+SUMMARY:Atlante – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603418@anstoss
+DTSTAMP:20261105T230000Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:Necaxa – Atlas
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603419@anstoss
+DTSTAMP:20261106T010600Z
+DTSTART:20261106T010600Z
+DTEND:20261106T030600Z
+SUMMARY:Querétaro – Toluca
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603420@anstoss
+DTSTAMP:20261106T031000Z
+DTSTART:20261106T031000Z
+DTEND:20261106T051000Z
+SUMMARY:Santos Laguna – Tijuana
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603422@anstoss
+DTSTAMP:20261106T230000Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:Pumas UNAM – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603421@anstoss
+DTSTAMP:20261106T230000Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:Pachuca – Puebla
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603423@anstoss
+DTSTAMP:20261107T010000Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Cruz Azul – León
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603424@anstoss
+DTSTAMP:20261107T010600Z
+DTSTART:20261107T010600Z
+DTEND:20261107T030600Z
+SUMMARY:Juárez – Monterrey
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603425@anstoss
+DTSTAMP:20261107T031000Z
+DTSTART:20261107T031000Z
+DTEND:20261107T051000Z
+SUMMARY:Guadalajara – América
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603425.ht
+ ml
+END:VEVENT
+END:VCALENDAR

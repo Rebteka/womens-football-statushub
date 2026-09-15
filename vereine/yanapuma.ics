@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yanapuma
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1545996@anstoss
+DTSTAMP:20260320T200000Z
+DTSTART:20260320T200000Z
+DTEND:20260320T220000Z
+SUMMARY:Yanapuma – Sporting Cristal 0:4
+DESCRIPTION:Liga Women · Apertura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546002@anstoss
+DTSTAMP:20260328T150000Z
+DTSTART:20260328T150000Z
+DTEND:20260328T170000Z
+SUMMARY:FBC Melgar – Yanapuma 3:0
+DESCRIPTION:Liga Women · Apertura · 3. Spieltag
+LOCATION:Estadio Monumental Virgen de Chapi\, Arequipa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546014@anstoss
+DTSTAMP:20260504T140000Z
+DTSTART:20260504T140000Z
+DTEND:20260504T160000Z
+SUMMARY:Yanapuma – Defensores 3:0
+DESCRIPTION:Liga Women · Apertura · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546017@anstoss
+DTSTAMP:20260509T153000Z
+DTSTART:20260509T153000Z
+DTEND:20260509T173000Z
+SUMMARY:Killas – Yanapuma 1:1
+DESCRIPTION:Liga Women · Apertura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546023@anstoss
+DTSTAMP:20260517T150000Z
+DTSTART:20260517T150000Z
+DTEND:20260517T170000Z
+SUMMARY:Yanapuma – Flamengo FBC 1:0
+DESCRIPTION:Liga Women · Apertura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546027@anstoss
+DTSTAMP:20260520T200000Z
+DTSTART:20260520T200000Z
+DTEND:20260520T220000Z
+SUMMARY:U. de Deportes – Yanapuma 10:0
+DESCRIPTION:Liga Women · Apertura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546031@anstoss
+DTSTAMP:20260523T150000Z
+DTSTART:20260523T150000Z
+DTEND:20260523T170000Z
+SUMMARY:Yanapuma – UNSAAC 2:0
+DESCRIPTION:Liga Women · Apertura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546010@anstoss
+DTSTAMP:20260526T150000Z
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+SUMMARY:Yanapuma – Alianza Lima 2:0
+DESCRIPTION:Liga Women · Apertura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546859@anstoss
+DTSTAMP:20260529T174500Z
+DTSTART:20260529T174500Z
+DTEND:20260529T194500Z
+SUMMARY:Atl. Andahuaylas – Yanapuma 3:0
+DESCRIPTION:Liga Women · Apertura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546859.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548206@anstoss
+DTSTAMP:20260614T150000Z
+DTSTART:20260614T150000Z
+DTEND:20260614T170000Z
+SUMMARY:Yanapuma – Carlos Mannucci 6:0
+DESCRIPTION:Liga Women · Apertura · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1554031@anstoss
+DTSTAMP:20260621T181500Z
+DTSTART:20260621T181500Z
+DTEND:20260621T201500Z
+SUMMARY:Alianza Lima – Yanapuma 4:1
+DESCRIPTION:Liga Women · Apertura · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1554031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584350@anstoss
+DTSTAMP:20260730T160000Z
+DTSTART:20260730T160000Z
+DTEND:20260730T180000Z
+SUMMARY:Sporting Cristal – Yanapuma 6:0
+DESCRIPTION:Liga Women · Clausura · 2. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584357@anstoss
+DTSTAMP:20260806T150000Z
+DTSTART:20260806T150000Z
+DTEND:20260806T170000Z
+SUMMARY:Yanapuma – FBC Melgar 1:4
+DESCRIPTION:Liga Women · Clausura · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584362@anstoss
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Alianza Lima – Yanapuma 2:0
+DESCRIPTION:Liga Women · Clausura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607658@anstoss
+DTSTAMP:20260814T200000Z
+DTSTART:20260814T200000Z
+DTEND:20260814T220000Z
+SUMMARY:Defensores – Yanapuma 2:3
+DESCRIPTION:Liga Women · Clausura · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620977@anstoss
+DTSTAMP:20260822T201500Z
+DTSTART:20260822T201500Z
+DTEND:20260822T221500Z
+SUMMARY:Yanapuma – Killas 1:2
+DESCRIPTION:Liga Women · Clausura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1622726@anstoss
+DTSTAMP:20260829T200000Z
+DTSTART:20260829T200000Z
+DTEND:20260829T220000Z
+SUMMARY:Flamengo FBC – Yanapuma 3:0
+DESCRIPTION:Liga Women · Clausura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622726.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629827@anstoss
+DTSTAMP:20260905T201500Z
+DTSTART:20260905T201500Z
+DTEND:20260905T221500Z
+SUMMARY:Yanapuma – U. de Deportes 3:9
+DESCRIPTION:Liga Women · Clausura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629827.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632248@anstoss
+DTSTAMP:20260912T180000Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:UNSAAC – Yanapuma 4:1
+DESCRIPTION:Liga Women · Clausura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634304@anstoss
+DTSTAMP:20260920T150000Z
+DTSTART:20260920T150000Z
+DTEND:20260920T170000Z
+SUMMARY:Yanapuma – Atl. Andahuaylas
+DESCRIPTION:Liga Women · Clausura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634304.ht
+ ml
+END:VEVENT
+END:VCALENDAR

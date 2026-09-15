@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:U. de Deportes
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1545992@anstoss
+DTSTAMP:20260314T180000Z
+DTSTART:20260314T180000Z
+DTEND:20260314T200000Z
+SUMMARY:Carlos Mannucci – U. de Deportes 0:16
+DESCRIPTION:Liga Women · Apertura · 1. Spieltag
+LOCATION:Estadio Mansiche\, Trujillo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545998@anstoss
+DTSTAMP:20260321T203000Z
+DTSTART:20260321T203000Z
+DTEND:20260321T223000Z
+SUMMARY:U. de Deportes – Atl. Andahuaylas 4:0
+DESCRIPTION:Liga Women · Apertura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546008@anstoss
+DTSTAMP:20260425T200000Z
+DTSTART:20260425T200000Z
+DTEND:20260425T220000Z
+SUMMARY:U. de Deportes – Sporting Cristal 3:1
+DESCRIPTION:Liga Women · Apertura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546015@anstoss
+DTSTAMP:20260502T190000Z
+DTSTART:20260502T190000Z
+DTEND:20260502T210000Z
+SUMMARY:FBC Melgar – U. de Deportes 0:3
+DESCRIPTION:Liga Women · Apertura · 5. Spieltag
+LOCATION:Estadio Monumental Virgen de Chapi\, Arequipa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546019@anstoss
+DTSTAMP:20260509T201500Z
+DTSTART:20260509T201500Z
+DTEND:20260509T221500Z
+SUMMARY:U. de Deportes – Defensores 7:0
+DESCRIPTION:Liga Women · Apertura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546025@anstoss
+DTSTAMP:20260517T203000Z
+DTSTART:20260517T203000Z
+DTEND:20260517T223000Z
+SUMMARY:Alianza Lima – U. de Deportes 1:3
+DESCRIPTION:Liga Women · Apertura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546027@anstoss
+DTSTAMP:20260520T200000Z
+DTSTART:20260520T200000Z
+DTEND:20260520T220000Z
+SUMMARY:U. de Deportes – Yanapuma 10:0
+DESCRIPTION:Liga Women · Apertura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546035@anstoss
+DTSTAMP:20260525T230000Z
+DTSTART:20260525T230000Z
+DTEND:20260526T010000Z
+SUMMARY:Flamengo FBC – U. de Deportes 2:2
+DESCRIPTION:Liga Women · Apertura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546861@anstoss
+DTSTAMP:20260530T181500Z
+DTSTART:20260530T181500Z
+DTEND:20260530T201500Z
+SUMMARY:Killas – U. de Deportes 0:2
+DESCRIPTION:Liga Women · Apertura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548205@anstoss
+DTSTAMP:20260613T203000Z
+DTSTART:20260613T203000Z
+DTEND:20260613T223000Z
+SUMMARY:U. de Deportes – UNSAAC 5:0
+DESCRIPTION:Liga Women · Apertura · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560399@anstoss
+DTSTAMP:20260627T180000Z
+DTSTART:20260627T180000Z
+DTEND:20260627T200000Z
+SUMMARY:Alianza Lima – U. de Deportes 1:0
+DESCRIPTION:Liga Women · Apertura · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560402@anstoss
+DTSTAMP:20260704T230000Z
+DTSTART:20260704T230000Z
+DTEND:20260705T010000Z
+SUMMARY:U. de Deportes – Alianza Lima 3:0
+DESCRIPTION:Liga Women · Apertura · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581835@anstoss
+DTSTAMP:20260712T201500Z
+DTSTART:20260712T201500Z
+DTEND:20260712T221500Z
+SUMMARY:Sporting Cristal – U. de Deportes 2:2
+DESCRIPTION:Liga Women · Apertura · Play Offs
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581835.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581836@anstoss
+DTSTAMP:20260718T010000Z
+DTSTART:20260718T010000Z
+DTEND:20260718T030000Z
+SUMMARY:U. de Deportes – Sporting Cristal 3:1
+DESCRIPTION:Liga Women · Apertura · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581836.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557278@anstoss
+DTSTAMP:20260722T201500Z
+DTSTART:20260722T201500Z
+DTEND:20260722T221500Z
+SUMMARY:U. de Deportes – Carlos Mannucci 12:0
+DESCRIPTION:Liga Women · Clausura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557278.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584352@anstoss
+DTSTAMP:20260801T201500Z
+DTSTART:20260801T201500Z
+DTEND:20260801T221500Z
+SUMMARY:Atl. Andahuaylas – U. de Deportes 0:0
+DESCRIPTION:Liga Women · Clausura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584363@anstoss
+DTSTAMP:20260809T201500Z
+DTSTART:20260809T201500Z
+DTEND:20260809T221500Z
+SUMMARY:Sporting Cristal – U. de Deportes 1:3
+DESCRIPTION:Liga Women · Clausura · 4. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607660@anstoss
+DTSTAMP:20260815T203000Z
+DTSTART:20260815T203000Z
+DTEND:20260815T223000Z
+SUMMARY:U. de Deportes – FBC Melgar 2:0
+DESCRIPTION:Liga Women · Clausura · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620979@anstoss
+DTSTAMP:20260823T201500Z
+DTSTART:20260823T201500Z
+DTEND:20260823T221500Z
+SUMMARY:Defensores – U. de Deportes 0:6
+DESCRIPTION:Liga Women · Clausura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1622728@anstoss
+DTSTAMP:20260830T201500Z
+DTSTART:20260830T201500Z
+DTEND:20260830T221500Z
+SUMMARY:U. de Deportes – Alianza Lima 2:3
+DESCRIPTION:Liga Women · Clausura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622728.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629827@anstoss
+DTSTAMP:20260905T201500Z
+DTSTART:20260905T201500Z
+DTEND:20260905T221500Z
+SUMMARY:Yanapuma – U. de Deportes 3:9
+DESCRIPTION:Liga Women · Clausura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629827.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632250@anstoss
+DTSTAMP:20260913T201500Z
+DTSTART:20260913T201500Z
+DTEND:20260913T221500Z
+SUMMARY:U. de Deportes – Flamengo FBC 5:0
+DESCRIPTION:Liga Women · Clausura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634303@anstoss
+DTSTAMP:20260919T201500Z
+DTSTART:20260919T201500Z
+DTEND:20260919T221500Z
+SUMMARY:U. de Deportes – Killas
+DESCRIPTION:Liga Women · Clausura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634303.ht
+ ml
+END:VEVENT
+END:VCALENDAR

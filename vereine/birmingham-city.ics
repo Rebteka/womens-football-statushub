@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Birmingham City
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1607669@anstoss
+DTSTAMP:20260906T133000Z
+DTSTART:20260906T133000Z
+DTEND:20260906T153000Z
+SUMMARY:Manchester City – Birmingham City 3:1
+DESCRIPTION:Women's Super League · 1. Spieltag
+LOCATION:Academy Stadium\, Manchester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607672@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Birmingham City – Brighton 2:2
+DESCRIPTION:Women's Super League · 2. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607672.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607679@anstoss
+DTSTAMP:20260919T114500Z
+DTSTART:20260919T114500Z
+DTEND:20260919T134500Z
+SUMMARY:Chelsea – Birmingham City
+DESCRIPTION:Women's Super League · 3. Spieltag
+LOCATION:Stamford Bridge\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607679.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607687@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Birmingham City – Crystal Palace
+DESCRIPTION:Women's Super League · 4. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607687.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607695@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Everton – Birmingham City
+DESCRIPTION:Women's Super League · 5. Spieltag
+LOCATION:Walton Hall Park\, Liverpool
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607695.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607699@anstoss
+DTSTAMP:20261017T114500Z
+DTSTART:20261017T114500Z
+DTEND:20261017T134500Z
+SUMMARY:Arsenal – Birmingham City
+DESCRIPTION:Women's Super League · 6. Spieltag
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607699.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607706@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Birmingham City – Charlton Athletic
+DESCRIPTION:Women's Super League · 7. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607714@anstoss
+DTSTAMP:20261101T140000Z
+DTSTART:20261101T140000Z
+DTEND:20261101T160000Z
+SUMMARY:Birmingham City – Tottenham Hotspur
+DESCRIPTION:Women's Super League · 8. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607720@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:London City Lionesses – Birmingham City
+DESCRIPTION:Women's Super League · 9. Spieltag
+LOCATION:Hayes Lane\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607720.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607732@anstoss
+DTSTAMP:20261115T143000Z
+DTSTART:20261115T143000Z
+DTEND:20261115T163000Z
+SUMMARY:Aston Villa – Birmingham City
+DESCRIPTION:Women's Super League · 10. Spieltag
+LOCATION:Bescot Stadium\, Walsall
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607734@anstoss
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Birmingham City – Manchester United
+DESCRIPTION:Women's Super League · 11. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607742@anstoss
+DTSTAMP:20261213T140000Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Birmingham City – Liverpool
+DESCRIPTION:Women's Super League · 12. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607753@anstoss
+DTSTAMP:20261220T140000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:West Ham – Birmingham City
+DESCRIPTION:Women's Super League · 13. Spieltag
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607756@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Charlton Athletic – Birmingham City
+DESCRIPTION:Women's Super League · 14. Spieltag
+LOCATION:The Valley\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607765@anstoss
+DTSTAMP:20270120T193000Z
+DTSTART:20270120T193000Z
+DTEND:20270120T213000Z
+SUMMARY:Birmingham City – Manchester City
+DESCRIPTION:Women's Super League · 15. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607770@anstoss
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Brighton – Birmingham City
+DESCRIPTION:Women's Super League · 16. Spieltag
+LOCATION:The Broadfield Stadium\, Crawley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607777@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Birmingham City – Aston Villa
+DESCRIPTION:Women's Super League · 17. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607777.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607783@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Birmingham City – Arsenal
+DESCRIPTION:Women's Super League · 18. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607783.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607793@anstoss
+DTSTAMP:20270214T140000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Liverpool – Birmingham City
+DESCRIPTION:Women's Super League · 19. Spieltag
+LOCATION:St Helens Stadium\, St Helens
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607793.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607796@anstoss
+DTSTAMP:20270313T123000Z
+DTSTART:20270313T123000Z
+DTEND:20270313T143000Z
+SUMMARY:Birmingham City – Chelsea
+DESCRIPTION:Women's Super League · 20. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607796.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607809@anstoss
+DTSTAMP:20270317T200000Z
+DTSTART:20270317T200000Z
+DTEND:20270317T220000Z
+SUMMARY:Crystal Palace – Birmingham City
+DESCRIPTION:Women's Super League · 21. Spieltag
+LOCATION:VBS Community Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607809.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607813@anstoss
+DTSTAMP:20270328T130000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T150000Z
+SUMMARY:Birmingham City – London City Lionesses
+DESCRIPTION:Women's Super League · 22. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607813.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607818@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Birmingham City – West Ham
+DESCRIPTION:Women's Super League · 23. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607818.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607825@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
+SUMMARY:Manchester United – Birmingham City
+DESCRIPTION:Women's Super League · 24. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607825.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607833@anstoss
+DTSTAMP:20270509T130000Z
+DTSTART:20270509T130000Z
+DTEND:20270509T150000Z
+SUMMARY:Birmingham City – Everton
+DESCRIPTION:Women's Super League · 25. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607833.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607843@anstoss
+DTSTAMP:20270522T130000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Tottenham Hotspur – Birmingham City
+DESCRIPTION:Women's Super League · 26. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Brisbane Road\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607843.ht
+ ml
+END:VEVENT
+END:VCALENDAR

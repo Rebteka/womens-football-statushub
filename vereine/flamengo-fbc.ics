@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Flamengo FBC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1545993@anstoss
+DTSTAMP:20260315T160000Z
+DTSTART:20260315T160000Z
+DTEND:20260315T180000Z
+SUMMARY:Atl. Andahuaylas – Flamengo FBC 2:1
+DESCRIPTION:Liga Women · Apertura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545999@anstoss
+DTSTAMP:20260322T180000Z
+DTSTART:20260322T180000Z
+DTEND:20260322T200000Z
+SUMMARY:Flamengo FBC – Carlos Mannucci 3:0
+DESCRIPTION:Liga Women · Apertura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546003@anstoss
+DTSTAMP:20260328T200000Z
+DTSTART:20260328T200000Z
+DTEND:20260328T220000Z
+SUMMARY:Alianza Lima – Flamengo FBC 5:0
+DESCRIPTION:Liga Women · Apertura · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546003.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546013@anstoss
+DTSTAMP:20260503T203000Z
+DTSTART:20260503T203000Z
+DTEND:20260503T223000Z
+SUMMARY:Sporting Cristal – Flamengo FBC 5:1
+DESCRIPTION:Liga Women · Apertura · 5. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546018@anstoss
+DTSTAMP:20260509T180000Z
+DTSTART:20260509T180000Z
+DTEND:20260509T200000Z
+SUMMARY:Flamengo FBC – FBC Melgar 1:2
+DESCRIPTION:Liga Women · Apertura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546023@anstoss
+DTSTAMP:20260517T150000Z
+DTSTART:20260517T150000Z
+DTEND:20260517T170000Z
+SUMMARY:Yanapuma – Flamengo FBC 1:0
+DESCRIPTION:Liga Women · Apertura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546029@anstoss
+DTSTAMP:20260521T181500Z
+DTSTART:20260521T181500Z
+DTEND:20260521T201500Z
+SUMMARY:Flamengo FBC – Defensores 3:0
+DESCRIPTION:Liga Women · Apertura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546035@anstoss
+DTSTAMP:20260525T230000Z
+DTSTART:20260525T230000Z
+DTEND:20260526T010000Z
+SUMMARY:Flamengo FBC – U. de Deportes 2:2
+DESCRIPTION:Liga Women · Apertura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546863@anstoss
+DTSTAMP:20260601T181500Z
+DTSTART:20260601T181500Z
+DTEND:20260601T201500Z
+SUMMARY:UNSAAC – Flamengo FBC 2:2
+DESCRIPTION:Liga Women · Apertura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548204@anstoss
+DTSTAMP:20260613T181500Z
+DTSTART:20260613T181500Z
+DTEND:20260613T201500Z
+SUMMARY:Flamengo FBC – Killas 3:2
+DESCRIPTION:Liga Women · Apertura · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557282@anstoss
+DTSTAMP:20260726T180000Z
+DTSTART:20260726T180000Z
+DTEND:20260726T200000Z
+SUMMARY:Flamengo FBC – Atl. Andahuaylas 1:2
+DESCRIPTION:Liga Women · Clausura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584351@anstoss
+DTSTAMP:20260801T180000Z
+DTSTART:20260801T180000Z
+DTEND:20260801T200000Z
+SUMMARY:Carlos Mannucci – Flamengo FBC 2:2
+DESCRIPTION:Liga Women · Clausura · 2. Spieltag
+LOCATION:Estadio Mansiche\, Trujillo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584358@anstoss
+DTSTAMP:20260806T180000Z
+DTSTART:20260806T180000Z
+DTEND:20260806T200000Z
+SUMMARY:Flamengo FBC – Alianza Lima 0:2
+DESCRIPTION:Liga Women · Clausura · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607659@anstoss
+DTSTAMP:20260815T180000Z
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+SUMMARY:Flamengo FBC – Sporting Cristal 0:1
+DESCRIPTION:Liga Women · Clausura · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620975@anstoss
+DTSTAMP:20260821T190000Z
+DTSTART:20260821T190000Z
+DTEND:20260821T210000Z
+SUMMARY:FBC Melgar – Flamengo FBC 5:0
+DESCRIPTION:Liga Women · Clausura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620975.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1622726@anstoss
+DTSTAMP:20260829T200000Z
+DTSTART:20260829T200000Z
+DTEND:20260829T220000Z
+SUMMARY:Flamengo FBC – Yanapuma 3:0
+DESCRIPTION:Liga Women · Clausura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622726.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629828@anstoss
+DTSTAMP:20260906T180000Z
+DTSTART:20260906T180000Z
+DTEND:20260906T200000Z
+SUMMARY:Defensores – Flamengo FBC 2:1
+DESCRIPTION:Liga Women · Clausura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629828.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632250@anstoss
+DTSTAMP:20260913T201500Z
+DTSTART:20260913T201500Z
+DTEND:20260913T221500Z
+SUMMARY:U. de Deportes – Flamengo FBC 5:0
+DESCRIPTION:Liga Women · Clausura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634302@anstoss
+DTSTAMP:20260919T180000Z
+DTSTART:20260919T180000Z
+DTEND:20260919T200000Z
+SUMMARY:Flamengo FBC – UNSAAC
+DESCRIPTION:Liga Women · Clausura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634302.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Riga
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558455@anstoss
+DTSTAMP:20260722T120000Z
+DTSTART:20260722T120000Z
+DTEND:20260722T140000Z
+SUMMARY:Glentoran BU – Riga 1:4
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600544@anstoss
+DTSTAMP:20260725T170000Z
+DTSTART:20260725T170000Z
+DTEND:20260725T190000Z
+SUMMARY:Riga – Wrexham 4:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603954@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Køge – Riga 4:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Capelli Sport Stadion\, Koge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612431@anstoss
+DTSTAMP:20260808T100000Z
+DTSTART:20260808T100000Z
+DTEND:20260808T120000Z
+SUMMARY:Gintra-Universitetas – Riga 4:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Koge Stadion\, Koge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612431.ht
+ ml
+END:VEVENT
+END:VCALENDAR

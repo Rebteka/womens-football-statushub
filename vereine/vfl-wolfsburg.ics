@@ -1,0 +1,336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VfL Wolfsburg
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1623356@anstoss
+DTSTAMP:20260815T173000Z
+DTSTART:20260815T173000Z
+DTEND:20260815T193000Z
+SUMMARY:FC Bayern München – VfL Wolfsburg 3:0
+DESCRIPTION:Supercup der Frauen · Finale
+LOCATION:Audi Sportpark\, Ingolstadt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593108@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:1. FC Nürnberg – VfL Wolfsburg 2:8
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623461@anstoss
+DTSTAMP:20260826T160000Z
+DTSTART:20260826T160000Z
+DTEND:20260826T180000Z
+SUMMARY:VfL Wolfsburg – Inter Mailand 2:0
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593114@anstoss
+DTSTAMP:20260830T140000Z
+DTSTART:20260830T140000Z
+DTEND:20260830T160000Z
+SUMMARY:Bayer 04 Leverkusen – VfL Wolfsburg 1:2
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623470@anstoss
+DTSTAMP:20260902T163000Z
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+SUMMARY:Inter Mailand – VfL Wolfsburg 3:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593127@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:VfL Wolfsburg – SV Werder Bremen 3:2
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593133@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:VfB Stuttgart – VfL Wolfsburg 0:2
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593138@anstoss
+DTSTAMP:20260918T163000Z
+DTSTART:20260918T163000Z
+DTEND:20260918T183000Z
+SUMMARY:TSG Hoffenheim – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629380@anstoss
+DTSTAMP:20260927T120000Z
+DTSTART:20260927T120000Z
+DTEND:20260927T140000Z
+SUMMARY:SC Sand – VfL Wolfsburg
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593148@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:VfL Wolfsburg – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593148.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593153@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:1. FSV Mainz 05 – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593162@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:VfL Wolfsburg – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593162.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593165@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Eintracht Frankfurt – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593165.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593176@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:VfL Wolfsburg – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593182@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:RB Leipzig – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593182.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593186@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SC Freiburg – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593197@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:VfL Wolfsburg – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593204@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VfL Wolfsburg – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593211@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:VfL Wolfsburg – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593211.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593218@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SV Werder Bremen – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593218.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593225@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:VfL Wolfsburg – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593232@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VfL Wolfsburg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593232.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593235@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Hamburger SV – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593235.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593246@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:VfL Wolfsburg – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593246.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593251@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:1. FC Köln – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593251.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593260@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:VfL Wolfsburg – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593262@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:FC Bayern München – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593274@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:VfL Wolfsburg – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593274.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593281@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:VfL Wolfsburg – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593287@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:1. FC Union Berlin – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593287.ht
+ ml
+END:VEVENT
+END:VCALENDAR

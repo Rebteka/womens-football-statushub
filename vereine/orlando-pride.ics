@@ -1,0 +1,336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Orlando Pride
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508362@anstoss
+DTSTAMP:20260315T200000Z
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+SUMMARY:Orlando Pride – Seattle Reign FC 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508364@anstoss
+DTSTAMP:20260321T000000Z
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+SUMMARY:Orlando Pride – Denver Summit 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508374@anstoss
+DTSTAMP:20260326T000000Z
+DTSTART:20260326T000000Z
+DTEND:20260326T020000Z
+SUMMARY:Chicago Red Stars – Orlando Pride 0:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508384@anstoss
+DTSTAMP:20260329T230000Z
+DTSTART:20260329T230000Z
+DTEND:20260330T010000Z
+SUMMARY:NJ/NY Gotham FC – Orlando Pride 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508386@anstoss
+DTSTAMP:20260404T000000Z
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+SUMMARY:Orlando Pride – Angel City 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508393@anstoss
+DTSTAMP:20260424T213000Z
+DTSTART:20260424T213000Z
+DTEND:20260424T233000Z
+SUMMARY:Racing Louisville – Orlando Pride 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508406@anstoss
+DTSTAMP:20260502T200000Z
+DTSTART:20260502T200000Z
+DTEND:20260502T220000Z
+SUMMARY:Orlando Pride – Washington Spirit 2:4
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508415@anstoss
+DTSTAMP:20260509T000000Z
+DTSTART:20260509T000000Z
+DTEND:20260509T020000Z
+SUMMARY:Orlando Pride – North Carolina Courage 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508422@anstoss
+DTSTAMP:20260512T230000Z
+DTSTART:20260512T230000Z
+DTEND:20260513T010000Z
+SUMMARY:Boston Legacy – Orlando Pride 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508428@anstoss
+DTSTAMP:20260517T004500Z
+DTSTART:20260517T004500Z
+DTEND:20260517T024500Z
+SUMMARY:Denver Summit – Orlando Pride 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508428.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508440@anstoss
+DTSTAMP:20260524T230000Z
+DTSTART:20260524T230000Z
+DTEND:20260525T010000Z
+SUMMARY:San Diego Wave – Orlando Pride 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508441@anstoss
+DTSTAMP:20260529T230000Z
+DTSTART:20260529T230000Z
+DTEND:20260530T010000Z
+SUMMARY:Orlando Pride – Bay FC 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508441.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508451@anstoss
+DTSTAMP:20260704T020000Z
+DTSTART:20260704T020000Z
+DTEND:20260704T040000Z
+SUMMARY:Angel City – Orlando Pride 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508458@anstoss
+DTSTAMP:20260711T000000Z
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:Orlando Pride – Kansas City 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508466@anstoss
+DTSTAMP:20260715T230000Z
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+SUMMARY:Orlando Pride – Boston Legacy 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508473@anstoss
+DTSTAMP:20260719T004500Z
+DTSTART:20260719T004500Z
+DTEND:20260719T024500Z
+SUMMARY:Utah Royals – Orlando Pride 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508476@anstoss
+DTSTAMP:20260725T000000Z
+DTSTART:20260725T000000Z
+DTEND:20260725T020000Z
+SUMMARY:Orlando Pride – Chicago Red Stars 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508486@anstoss
+DTSTAMP:20260801T000000Z
+DTSTART:20260801T000000Z
+DTEND:20260801T020000Z
+SUMMARY:North Carolina Courage – Orlando Pride 5:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508498@anstoss
+DTSTAMP:20260807T230000Z
+DTSTART:20260807T230000Z
+DTEND:20260808T010000Z
+SUMMARY:Orlando Pride – Racing Louisville 1:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508508@anstoss
+DTSTAMP:20260816T004500Z
+DTSTART:20260816T004500Z
+DTEND:20260816T024500Z
+SUMMARY:Portland Thorns – Orlando Pride 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park\, Portland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508508.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508518@anstoss
+DTSTAMP:20260823T200000Z
+DTSTART:20260823T200000Z
+DTEND:20260823T220000Z
+SUMMARY:Washington Spirit – Orlando Pride 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508518.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508525@anstoss
+DTSTAMP:20260829T230000Z
+DTSTART:20260829T230000Z
+DTEND:20260830T010000Z
+SUMMARY:Orlando Pride – Utah Royals 1:2
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508525.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508536@anstoss
+DTSTAMP:20260907T003000Z
+DTSTART:20260907T003000Z
+DTEND:20260907T023000Z
+SUMMARY:Orlando Pride – Houston Dash 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508539@anstoss
+DTSTAMP:20260912T000000Z
+DTSTART:20260912T000000Z
+DTEND:20260912T020000Z
+SUMMARY:Kansas City – Orlando Pride 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508549@anstoss
+DTSTAMP:20260919T200000Z
+DTSTART:20260919T200000Z
+DTEND:20260919T220000Z
+SUMMARY:Orlando Pride – Portland Thorns
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508549.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508562@anstoss
+DTSTAMP:20260927T210000Z
+DTSTART:20260927T210000Z
+DTEND:20260927T230000Z
+SUMMARY:Bay FC – Orlando Pride
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508562.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508564@anstoss
+DTSTAMP:20261003T000000Z
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+SUMMARY:Orlando Pride – San Diego Wave
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508564.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508577@anstoss
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:Houston Dash – Orlando Pride
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508577.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508585@anstoss
+DTSTAMP:20261025T190000Z
+DTSTART:20261025T190000Z
+DTEND:20261025T210000Z
+SUMMARY:Orlando Pride – NJ/NY Gotham FC
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508585.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508594@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Seattle Reign FC – Orlando Pride
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508594.ht
+ ml
+END:VEVENT
+END:VCALENDAR

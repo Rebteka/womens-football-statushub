@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:INAC Kobe Leonessa
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560927@anstoss
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:INAC Kobe Leonessa – Sanfrecce Hiroshima 2:1
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560927.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560934@anstoss
+DTSTAMP:20260830T090000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T110000Z
+SUMMARY:Elfen Saitama – INAC Kobe Leonessa 2:1
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560934.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560961@anstoss
+DTSTAMP:20260902T100000Z
+DTSTART:20260902T100000Z
+DTEND:20260902T120000Z
+SUMMARY:INAC Kobe Leonessa – Parceiro Nagano 2:2
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560939@anstoss
+DTSTAMP:20260906T080000Z
+DTSTART:20260906T080000Z
+DTEND:20260906T100000Z
+SUMMARY:Nojima Stella – INAC Kobe Leonessa 1:4
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560939.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560946@anstoss
+DTSTAMP:20261018T050000Z
+DTSTART:20261018T050000Z
+DTEND:20261018T070000Z
+SUMMARY:Vegalta Sendai – INAC Kobe Leonessa
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560946.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560950@anstoss
+DTSTAMP:20261021T030000Z
+DTSTART:20261021T030000Z
+DTEND:20261021T050000Z
+SUMMARY:INAC Kobe Leonessa – JEF United
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560960@anstoss
+DTSTAMP:20261024T050000Z
+DTSTART:20261024T050000Z
+DTEND:20261024T070000Z
+SUMMARY:Urawa Reds – INAC Kobe Leonessa
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560974@anstoss
+DTSTAMP:20261115T080000Z
+DTSTART:20261115T080000Z
+DTEND:20261115T100000Z
+SUMMARY:INAC Kobe Leonessa – Cerezo Osaka
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560974.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560983@anstoss
+DTSTAMP:20261119T090000Z
+DTSTART:20261119T090000Z
+DTEND:20261119T110000Z
+SUMMARY:Omiya Ardija Ventus – INAC Kobe Leonessa
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560983.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560986@anstoss
+DTSTAMP:20261123T060000Z
+DTSTART:20261123T060000Z
+DTEND:20261123T080000Z
+SUMMARY:Tokyo Verdy Beleza – INAC Kobe Leonessa
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560972@anstoss
+DTSTAMP:20261209T030000Z
+DTSTART:20261209T030000Z
+DTEND:20261209T050000Z
+SUMMARY:INAC Kobe Leonessa – Albirex Niigata
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560992@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:INAC Kobe Leonessa – Omiya Ardija Ventus
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560998@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:INAC Kobe Leonessa – Vegalta Sendai
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561003@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cerezo Osaka – INAC Kobe Leonessa
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561003.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561012@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Parceiro Nagano – INAC Kobe Leonessa
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561016@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:INAC Kobe Leonessa – Tokyo Verdy Beleza
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561022@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:INAC Kobe Leonessa – Elfen Saitama
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561031@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Sanfrecce Hiroshima – INAC Kobe Leonessa
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561035@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:INAC Kobe Leonessa – Nojima Stella
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561039@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Albirex Niigata – INAC Kobe Leonessa
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561046@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:INAC Kobe Leonessa – Urawa Reds
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561053@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:JEF United – INAC Kobe Leonessa
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561053.ht
+ ml
+END:VEVENT
+END:VCALENDAR

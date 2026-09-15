@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toluca
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603305@anstoss
+DTSTAMP:20260803T160000Z
+DTSTART:20260803T160000Z
+DTEND:20260803T180000Z
+SUMMARY:Atlético San Luis – Toluca 1:4
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603316@anstoss
+DTSTAMP:20260811T000000Z
+DTSTART:20260811T000000Z
+DTEND:20260811T020000Z
+SUMMARY:Toluca – Juárez 2:0
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603325@anstoss
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T000000Z
+DTEND:20260818T020000Z
+SUMMARY:Toluca – Atlas 1:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603334@anstoss
+DTSTAMP:20260824T214500Z
+DTSTART:20260824T214500Z
+DTEND:20260824T234500Z
+SUMMARY:Atlante – Toluca 1:2
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603336@anstoss
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T000000Z
+DTEND:20260829T020000Z
+SUMMARY:Toluca – León 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603348@anstoss
+DTSTAMP:20260906T010000Z
+DTSTART:20260906T010000Z
+DTEND:20260906T030000Z
+SUMMARY:Monterrey – Toluca 5:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603361@anstoss
+DTSTAMP:20260915T000000Z
+DTSTART:20260915T000000Z
+DTEND:20260915T020000Z
+SUMMARY:Toluca – Tijuana 6:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603370@anstoss
+DTSTAMP:20260922T000000Z
+DTSTART:20260922T000000Z
+DTEND:20260922T020000Z
+SUMMARY:Toluca – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603380@anstoss
+DTSTAMP:20260929T010600Z
+DTSTART:20260929T010600Z
+DTEND:20260929T030600Z
+SUMMARY:Necaxa – Toluca
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603389@anstoss
+DTSTAMP:20261005T010600Z
+DTSTART:20261005T010600Z
+DTEND:20261005T030600Z
+SUMMARY:Pachuca – Toluca
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603397@anstoss
+DTSTAMP:20261020T000000Z
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
+SUMMARY:Toluca – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603402@anstoss
+DTSTAMP:20261025T020000Z
+DTSTART:20261025T020000Z
+DTEND:20261025T040000Z
+SUMMARY:Cruz Azul – Toluca
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603408@anstoss
+DTSTAMP:20261031T000000Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:Toluca – Guadalajara
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603419@anstoss
+DTSTAMP:20261106T010600Z
+DTSTART:20261106T010600Z
+DTEND:20261106T030600Z
+SUMMARY:Querétaro – Toluca
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603419.ht
+ ml
+END:VEVENT
+END:VCALENDAR

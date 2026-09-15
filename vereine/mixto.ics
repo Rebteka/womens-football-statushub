@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mixto
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522446@anstoss
+DTSTAMP:20260213T000000Z
+DTSTART:20260213T000000Z
+DTEND:20260213T020000Z
+SUMMARY:Mixto – Flamengo 0:1
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522448@anstoss
+DTSTAMP:20260223T180000Z
+DTSTART:20260223T180000Z
+DTEND:20260223T200000Z
+SUMMARY:Vitória BA – Mixto 2:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522448.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522449@anstoss
+DTSTAMP:20260314T180000Z
+DTSTART:20260314T180000Z
+DTEND:20260314T200000Z
+SUMMARY:Santos – Mixto 3:0
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Estadio Urbano Caldeira\, Santos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522449.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522452@anstoss
+DTSTAMP:20260321T210000Z
+DTSTART:20260321T210000Z
+DTEND:20260321T230000Z
+SUMMARY:Mixto – Botafogo 2:1
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522452.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522454@anstoss
+DTSTAMP:20260328T180000Z
+DTSTART:20260328T180000Z
+DTEND:20260328T200000Z
+SUMMARY:America Mineiro – Mixto 1:1
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522454.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522456@anstoss
+DTSTAMP:20260403T190000Z
+DTSTART:20260403T190000Z
+DTEND:20260403T210000Z
+SUMMARY:Mixto – Internacional RS 0:0
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522458@anstoss
+DTSTAMP:20260421T140000Z
+DTSTART:20260421T140000Z
+DTEND:20260421T160000Z
+SUMMARY:RB Bragantino – Mixto 3:1
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522460@anstoss
+DTSTAMP:20260426T190000Z
+DTSTART:20260426T190000Z
+DTEND:20260426T210000Z
+SUMMARY:Mixto – Fluminense 0:2
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522462@anstoss
+DTSTAMP:20260501T200000Z
+DTSTART:20260501T200000Z
+DTEND:20260501T220000Z
+SUMMARY:Ferroviaria – Mixto 3:0
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522463@anstoss
+DTSTAMP:20260509T210000Z
+DTSTART:20260509T210000Z
+DTEND:20260509T230000Z
+SUMMARY:Mixto – Bahia 1:1
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522466@anstoss
+DTSTAMP:20260516T190000Z
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+SUMMARY:Gremio – Mixto 3:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522468@anstoss
+DTSTAMP:20260526T000000Z
+DTSTART:20260526T000000Z
+DTEND:20260526T020000Z
+SUMMARY:Corinthians – Mixto 4:1
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522470@anstoss
+DTSTAMP:20260725T190000Z
+DTSTART:20260725T190000Z
+DTEND:20260725T210000Z
+SUMMARY:Mixto – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522472@anstoss
+DTSTAMP:20260801T210000Z
+DTSTART:20260801T210000Z
+DTEND:20260801T230000Z
+SUMMARY:Mixto – Atlético Mineiro 0:0
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522474@anstoss
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Juventude – Mixto 0:1
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Homero Soldatelli\, Flores da Cunha
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522476@anstoss
+DTSTAMP:20260815T210000Z
+DTSTART:20260815T210000Z
+DTEND:20260815T230000Z
+SUMMARY:Mixto – Cruzeiro 1:2
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522478@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:São Paulo – Mixto 1:0
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522478.ht
+ ml
+END:VEVENT
+END:VCALENDAR

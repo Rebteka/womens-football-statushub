@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Samoa
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526399@anstoss
+DTSTAMP:20260227T020000Z
+DTSTART:20260227T020000Z
+DTEND:20260227T040000Z
+SUMMARY:New Zealand – Samoa 8:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526400@anstoss
+DTSTAMP:20260302T020000Z
+DTSTART:20260302T020000Z
+DTEND:20260302T040000Z
+SUMMARY:American Samoa – Samoa 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526401@anstoss
+DTSTAMP:20260305T060000Z
+DTSTART:20260305T060000Z
+DTEND:20260305T080000Z
+SUMMARY:Samoa – Solomon Islands 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526401.ht
+ ml
+END:VEVENT
+END:VCALENDAR

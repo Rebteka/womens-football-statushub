@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago Red Stars
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508363@anstoss
+DTSTAMP:20260315T230000Z
+DTSTART:20260315T230000Z
+DTEND:20260316T010000Z
+SUMMARY:Angel City – Chicago Red Stars 4:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium\, Los Angeles
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508370@anstoss
+DTSTAMP:20260322T180000Z
+DTSTART:20260322T180000Z
+DTEND:20260322T200000Z
+SUMMARY:Chicago Red Stars – Kansas City 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508374@anstoss
+DTSTAMP:20260326T000000Z
+DTSTART:20260326T000000Z
+DTEND:20260326T020000Z
+SUMMARY:Chicago Red Stars – Orlando Pride 0:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508383@anstoss
+DTSTAMP:20260329T004500Z
+DTSTART:20260329T004500Z
+DTEND:20260329T024500Z
+SUMMARY:San Diego Wave – Chicago Red Stars 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508388@anstoss
+DTSTAMP:20260404T010000Z
+DTSTART:20260404T010000Z
+DTEND:20260404T030000Z
+SUMMARY:Utah Royals – Chicago Red Stars 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Rio Tinto Stadium\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508396@anstoss
+DTSTAMP:20260425T223000Z
+DTSTART:20260425T223000Z
+DTEND:20260426T003000Z
+SUMMARY:Chicago Red Stars – Boston Legacy 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508403@anstoss
+DTSTAMP:20260430T000000Z
+DTSTART:20260430T000000Z
+DTEND:20260430T020000Z
+SUMMARY:Chicago Red Stars – NJ/NY Gotham FC 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508409@anstoss
+DTSTAMP:20260503T170000Z
+DTSTART:20260503T170000Z
+DTEND:20260503T190000Z
+SUMMARY:Chicago Red Stars – Portland Thorns 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508419@anstoss
+DTSTAMP:20260510T162500Z
+DTSTART:20260510T162500Z
+DTEND:20260510T182500Z
+SUMMARY:Kansas City – Chicago Red Stars 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508427@anstoss
+DTSTAMP:20260516T223000Z
+DTSTART:20260516T223000Z
+DTEND:20260517T003000Z
+SUMMARY:North Carolina Courage – Chicago Red Stars 4:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508427.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508439@anstoss
+DTSTAMP:20260524T210000Z
+DTSTART:20260524T210000Z
+DTEND:20260524T230000Z
+SUMMARY:Bay FC – Chicago Red Stars 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park\, San Jose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508439.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508446@anstoss
+DTSTAMP:20260531T170000Z
+DTSTART:20260531T170000Z
+DTEND:20260531T190000Z
+SUMMARY:Chicago Red Stars – San Diego Wave 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508455@anstoss
+DTSTAMP:20260705T210000Z
+DTSTART:20260705T210000Z
+DTEND:20260705T230000Z
+SUMMARY:Chicago Red Stars – Utah Royals 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508457@anstoss
+DTSTAMP:20260711T000000Z
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:Boston Legacy – Chicago Red Stars 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508471@anstoss
+DTSTAMP:20260718T223000Z
+DTSTART:20260718T223000Z
+DTEND:20260719T003000Z
+SUMMARY:Chicago Red Stars – Angel City 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508476@anstoss
+DTSTAMP:20260725T000000Z
+DTSTART:20260725T000000Z
+DTEND:20260725T020000Z
+SUMMARY:Orlando Pride – Chicago Red Stars 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508487@anstoss
+DTSTAMP:20260801T200000Z
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+SUMMARY:Racing Louisville – Chicago Red Stars 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508501@anstoss
+DTSTAMP:20260809T230000Z
+DTSTART:20260809T230000Z
+DTEND:20260810T010000Z
+SUMMARY:Chicago Red Stars – Bay FC 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508505@anstoss
+DTSTAMP:20260815T020000Z
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:Seattle Reign FC – Chicago Red Stars 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508505.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508512@anstoss
+DTSTAMP:20260820T000000Z
+DTSTART:20260820T000000Z
+DTEND:20260820T020000Z
+SUMMARY:Houston Dash – Chicago Red Stars 5:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508512.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508517@anstoss
+DTSTAMP:20260823T180000Z
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+SUMMARY:Chicago Red Stars – Racing Louisville 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Martin Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508517.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508526@anstoss
+DTSTAMP:20260830T005500Z
+DTSTART:20260830T005500Z
+DTEND:20260830T025500Z
+SUMMARY:Denver Summit – Chicago Red Stars 6:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508534@anstoss
+DTSTAMP:20260906T200000Z
+DTSTART:20260906T200000Z
+DTEND:20260906T220000Z
+SUMMARY:Chicago Red Stars – North Carolina Courage 0:6
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508534.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508545@anstoss
+DTSTAMP:20260913T230000Z
+DTSTART:20260913T230000Z
+DTEND:20260914T010000Z
+SUMMARY:Portland Thorns – Chicago Red Stars 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508553@anstoss
+DTSTAMP:20260920T210000Z
+DTSTART:20260920T210000Z
+DTEND:20260920T230000Z
+SUMMARY:Chicago Red Stars – Washington Spirit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Martin Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508557@anstoss
+DTSTAMP:20260926T000000Z
+DTSTART:20260926T000000Z
+DTEND:20260926T020000Z
+SUMMARY:NJ/NY Gotham FC – Chicago Red Stars
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508557.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508570@anstoss
+DTSTAMP:20261004T200000Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:Chicago Red Stars – Denver Summit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508570.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508579@anstoss
+DTSTAMP:20261018T230000Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Chicago Red Stars – Seattle Reign FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508579.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508580@anstoss
+DTSTAMP:20261024T000000Z
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+SUMMARY:Chicago Red Stars – Houston Dash
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508580.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508595@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Washington Spirit – Chicago Red Stars
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508595.ht
+ ml
+END:VEVENT
+END:VCALENDAR

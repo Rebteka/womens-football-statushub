@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fortaleza
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518011@anstoss
+DTSTAMP:20260212T220000Z
+DTSTART:20260212T220000Z
+DTEND:20260213T000000Z
+SUMMARY:Atlético Nacional – Fortaleza 3:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518011.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524346@anstoss
+DTSTAMP:20260228T213000Z
+DTSTART:20260228T213000Z
+DTEND:20260228T233000Z
+SUMMARY:Fortaleza – Once Caldas 0:0
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524356@anstoss
+DTSTAMP:20260310T203000Z
+DTSTART:20260310T203000Z
+DTEND:20260310T223000Z
+SUMMARY:Llaneros – Fortaleza 0:2
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524363@anstoss
+DTSTAMP:20260317T200000Z
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+SUMMARY:Fortaleza – Deportivo Cali 1:3
+DESCRIPTION:Liga Femenina · 4. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524372@anstoss
+DTSTAMP:20260324T220000Z
+DTSTART:20260324T220000Z
+DTEND:20260325T000000Z
+SUMMARY:Fortaleza – Real Santander 0:0
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524376@anstoss
+DTSTAMP:20260329T200000Z
+DTSTART:20260329T200000Z
+DTEND:20260329T220000Z
+SUMMARY:Orsomarso – Fortaleza 1:1
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524383@anstoss
+DTSTAMP:20260403T200000Z
+DTSTART:20260403T200000Z
+DTEND:20260403T220000Z
+SUMMARY:Fortaleza – América de Cali 0:1
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525696@anstoss
+DTSTAMP:20260423T210000Z
+DTSTART:20260423T210000Z
+DTEND:20260423T230000Z
+SUMMARY:Internacional Palmira – Fortaleza 3:1
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525703@anstoss
+DTSTAMP:20260503T173000Z
+DTSTART:20260503T173000Z
+DTEND:20260503T193000Z
+SUMMARY:Fortaleza – La Equidad 0:2
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525703.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525709@anstoss
+DTSTAMP:20260510T200000Z
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+SUMMARY:Deportivo Pasto – Fortaleza 1:2
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Estadio Departamental Libertad\, Pasto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525709.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525719@anstoss
+DTSTAMP:20260515T200000Z
+DTSTART:20260515T200000Z
+DTEND:20260515T220000Z
+SUMMARY:Fortaleza – Millonarios 0:3
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525719.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525729@anstoss
+DTSTAMP:20260524T213000Z
+DTSTART:20260524T213000Z
+DTEND:20260524T233000Z
+SUMMARY:Junior – Fortaleza 0:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525729.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525735@anstoss
+DTSTAMP:20260529T200000Z
+DTSTART:20260529T200000Z
+DTEND:20260529T220000Z
+SUMMARY:Fortaleza – Atlético Bucaramanga 2:1
+DESCRIPTION:Liga Femenina · 13. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525744@anstoss
+DTSTAMP:20260727T190000Z
+DTSTART:20260727T190000Z
+DTEND:20260727T210000Z
+SUMMARY:La Equidad – Fortaleza 1:0
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525751@anstoss
+DTSTAMP:20260731T201500Z
+DTSTART:20260731T201500Z
+DTEND:20260731T221500Z
+SUMMARY:Fortaleza – Independiente Medellín 1:0
+DESCRIPTION:Liga Femenina · 15. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525763@anstoss
+DTSTAMP:20260820T200000Z
+DTSTART:20260820T200000Z
+DTEND:20260820T220000Z
+SUMMARY:Santa Fe – Fortaleza 4:4
+DESCRIPTION:Liga Femenina · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525763.ht
+ ml
+END:VEVENT
+END:VCALENDAR

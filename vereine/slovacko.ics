@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Slovácko
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1627626@anstoss
+DTSTAMP:20260816T123000Z
+DTSTART:20260816T123000Z
+DTEND:20260816T143000Z
+SUMMARY:Slovácko – Baník Ostrava 1:1
+DESCRIPTION:1. Liga Women · 1. Spieltag
+LOCATION:Mestsky stadion Miroslava Valenty\, Uherske Hradiste
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627627@anstoss
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:Horní Heršpice – Slovácko 0:1
+DESCRIPTION:1. Liga Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627627.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627631@anstoss
+DTSTAMP:20260829T104500Z
+DTSTART:20260829T104500Z
+DTEND:20260829T124500Z
+SUMMARY:Slovácko – Sparta Praha 0:3
+DESCRIPTION:1. Liga Women · 3. Spieltag
+LOCATION:Mestsky stadion Miroslava Valenty\, Uherske Hradiste
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627638@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Slovan Liberec – Slovácko 5:0
+DESCRIPTION:1. Liga Women · 4. Spieltag
+LOCATION:Stadium Hradek\, Hradek nad Nisou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627642@anstoss
+DTSTAMP:20260913T123000Z
+DTSTART:20260913T123000Z
+DTEND:20260913T143000Z
+SUMMARY:Slovácko – Prague Raptors 0:1
+DESCRIPTION:1. Liga Women · 5. Spieltag
+LOCATION:Stadion Na Belince\, Kunovice - UH
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627645@anstoss
+DTSTAMP:20260920T090000Z
+DTSTART:20260920T090000Z
+DTEND:20260920T110000Z
+SUMMARY:Slovácko – Slavia Praha
+DESCRIPTION:1. Liga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627650@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Viktoria Plzeň – Slovácko
+DESCRIPTION:1. Liga Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627650.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627654@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Baník Ostrava – Slovácko
+DESCRIPTION:1. Liga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627658@anstoss
+DTSTAMP:20261025T133000Z
+DTSTART:20261025T133000Z
+DTEND:20261025T153000Z
+SUMMARY:Slovácko – Horní Heršpice
+DESCRIPTION:1. Liga Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627662@anstoss
+DTSTAMP:20261101T111500Z
+DTSTART:20261101T111500Z
+DTEND:20261101T131500Z
+SUMMARY:Sparta Praha – Slovácko
+DESCRIPTION:1. Liga Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627666@anstoss
+DTSTAMP:20261108T133000Z
+DTSTART:20261108T133000Z
+DTEND:20261108T153000Z
+SUMMARY:Slovácko – Slovan Liberec
+DESCRIPTION:1. Liga Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627666.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627669@anstoss
+DTSTAMP:20270220T130000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Prague Raptors – Slovácko
+DESCRIPTION:1. Liga Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627671@anstoss
+DTSTAMP:20270313T130000Z
+DTSTART:20270313T130000Z
+DTEND:20270313T150000Z
+SUMMARY:Slavia Praha – Slovácko
+DESCRIPTION:1. Liga Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627671.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627678@anstoss
+DTSTAMP:20270321T133000Z
+DTSTART:20270321T133000Z
+DTEND:20270321T153000Z
+SUMMARY:Slovácko – Viktoria Plzeň
+DESCRIPTION:1. Liga Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627678.ht
+ ml
+END:VEVENT
+END:VCALENDAR

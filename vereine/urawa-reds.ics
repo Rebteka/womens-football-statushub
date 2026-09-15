@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Urawa Reds
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560930@anstoss
+DTSTAMP:20260822T103000Z
+DTSTART:20260822T103000Z
+DTEND:20260822T123000Z
+SUMMARY:Omiya Ardija Ventus – Urawa Reds 0:1
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560930.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560936@anstoss
+DTSTAMP:20260830T090000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T110000Z
+SUMMARY:Urawa Reds – Nojima Stella 5:1
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560936.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560942@anstoss
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T110000Z
+SUMMARY:Urawa Reds – Tokyo Verdy Beleza 3:1
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560942.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560945@anstoss
+DTSTAMP:20261018T040000Z
+DTSTART:20261018T040000Z
+DTEND:20261018T060000Z
+SUMMARY:JEF United – Urawa Reds
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560960@anstoss
+DTSTAMP:20261024T050000Z
+DTSTART:20261024T050000Z
+DTEND:20261024T070000Z
+SUMMARY:Urawa Reds – INAC Kobe Leonessa
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560954@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART:20261028T100000Z
+DTEND:20261028T120000Z
+SUMMARY:Urawa Reds – Sanfrecce Hiroshima
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560962@anstoss
+DTSTAMP:20261101T040000Z
+DTSTART:20261101T040000Z
+DTEND:20261101T060000Z
+SUMMARY:Albirex Niigata – Urawa Reds
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560968@anstoss
+DTSTAMP:20261107T050000Z
+DTSTART:20261107T050000Z
+DTEND:20261107T070000Z
+SUMMARY:Vegalta Sendai – Urawa Reds
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560978@anstoss
+DTSTAMP:20261114T060000Z
+DTSTART:20261114T060000Z
+DTEND:20261114T080000Z
+SUMMARY:Urawa Reds – Elfen Saitama
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560978.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560980@anstoss
+DTSTAMP:20261118T093000Z
+DTSTART:20261118T093000Z
+DTEND:20261118T113000Z
+SUMMARY:Cerezo Osaka – Urawa Reds
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560980.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560989@anstoss
+DTSTAMP:20261123T050000Z
+DTSTART:20261123T050000Z
+DTEND:20261123T070000Z
+SUMMARY:Parceiro Nagano – Urawa Reds
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560996@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Sanfrecce Hiroshima – Urawa Reds
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561001@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Elfen Saitama – Urawa Reds
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561008@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Urawa Reds – Albirex Niigata
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561009@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Tokyo Verdy Beleza – Urawa Reds
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561009.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561020@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Urawa Reds – JEF United
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561025@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Nojima Stella – Urawa Reds
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561032@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Urawa Reds – Cerezo Osaka
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561038@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Urawa Reds – Vegalta Sendai
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561044@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Urawa Reds – Parceiro Nagano
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561046@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:INAC Kobe Leonessa – Urawa Reds
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561056@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Urawa Reds – Omiya Ardija Ventus
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561056.ht
+ ml
+END:VEVENT
+END:VCALENDAR

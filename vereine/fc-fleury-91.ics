@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Fleury 91
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1580927@anstoss
+DTSTAMP:20260904T190000Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:FC Fleury 91 – Lyon 1:7
+DESCRIPTION:Première Ligue · 1. Spieltag
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580927.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580931@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Nantes – FC Fleury 91 1:1
+DESCRIPTION:Première Ligue · 2. Spieltag
+LOCATION:Stade Marcel Saupin\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580931.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581003@anstoss
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:Saint-Malo – FC Fleury 91
+DESCRIPTION:Première Ligue · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581003.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580937@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:FC Fleury 91 – Paris Saint Germain
+DESCRIPTION:Première Ligue · 4. Spieltag
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580937.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580940@anstoss
+DTSTAMP:20261017T190000Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:Marseille – FC Fleury 91
+DESCRIPTION:Première Ligue · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581008@anstoss
+DTSTAMP:20261024T160000Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:FC Fleury 91 – Toulouse
+DESCRIPTION:Première Ligue · 6. Spieltag
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585115@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Lens – FC Fleury 91
+DESCRIPTION:Première Ligue · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Degouve-Brabant Stadium\, Arras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580950@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:FC Fleury 91 – Strasbourg
+DESCRIPTION:Première Ligue · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580955@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Montpellier – FC Fleury 91
+DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580958@anstoss
+DTSTAMP:20261121T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Paris FC – FC Fleury 91
+DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580959@anstoss
+DTSTAMP:20261212T160000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:FC Fleury 91 – Le Havre
+DESCRIPTION:Première Ligue · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580963@anstoss
+DTSTAMP:20261219T160000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Lyon – FC Fleury 91
+DESCRIPTION:Première Ligue · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581020@anstoss
+DTSTAMP:20270116T160000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:FC Fleury 91 – Saint-Malo
+DESCRIPTION:Première Ligue · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585122@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:FC Fleury 91 – Lens
+DESCRIPTION:Première Ligue · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581024@anstoss
+DTSTAMP:20270206T160000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Toulouse – FC Fleury 91
+DESCRIPTION:Première Ligue · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580976@anstoss
+DTSTAMP:20270220T160000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:FC Fleury 91 – Montpellier
+DESCRIPTION:Première Ligue · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580979@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:FC Fleury 91 – Paris FC
+DESCRIPTION:Première Ligue · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580984@anstoss
+DTSTAMP:20270320T160000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Paris Saint Germain – FC Fleury 91
+DESCRIPTION:Première Ligue · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580984.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580986@anstoss
+DTSTAMP:20270327T160000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Le Havre – FC Fleury 91
+DESCRIPTION:Première Ligue · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580990@anstoss
+DTSTAMP:20270407T150000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:FC Fleury 91 – Marseille
+DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580995@anstoss
+DTSTAMP:20270501T150000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Strasbourg – FC Fleury 91
+DESCRIPTION:Première Ligue · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580996@anstoss
+DTSTAMP:20270504T150000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:FC Fleury 91 – Nantes
+DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580996.ht
+ ml
+END:VEVENT
+END:VCALENDAR

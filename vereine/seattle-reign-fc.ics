@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seattle Reign FC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508362@anstoss
+DTSTAMP:20260315T200000Z
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+SUMMARY:Orlando Pride – Seattle Reign FC 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508366@anstoss
+DTSTAMP:20260321T020000Z
+DTSTART:20260321T020000Z
+DTEND:20260321T040000Z
+SUMMARY:Portland Thorns – Seattle Reign FC 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park\, Portland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508375@anstoss
+DTSTAMP:20260326T010000Z
+DTSTART:20260326T010000Z
+DTEND:20260326T030000Z
+SUMMARY:Seattle Reign FC – Kansas City 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:One Spokane Stadium\, Spokane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508381@anstoss
+DTSTAMP:20260328T223000Z
+DTSTART:20260328T223000Z
+DTEND:20260329T003000Z
+SUMMARY:Seattle Reign FC – Racing Louisville 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:One Spokane Stadium\, Spokane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508391@anstoss
+DTSTAMP:20260405T004500Z
+DTSTART:20260405T004500Z
+DTEND:20260405T024500Z
+SUMMARY:Seattle Reign FC – Denver Summit 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:One Spokane Stadium\, Spokane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508400@anstoss
+DTSTAMP:20260427T000000Z
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+SUMMARY:Seattle Reign FC – Utah Royals 0:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508405@anstoss
+DTSTAMP:20260502T000000Z
+DTSTART:20260502T000000Z
+DTEND:20260502T020000Z
+SUMMARY:Houston Dash – Seattle Reign FC 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508421@anstoss
+DTSTAMP:20260510T230000Z
+DTSTART:20260510T230000Z
+DTEND:20260511T010000Z
+SUMMARY:Seattle Reign FC – Washington Spirit 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508426@anstoss
+DTSTAMP:20260516T020000Z
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+SUMMARY:Seattle Reign FC – NJ/NY Gotham FC 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508434@anstoss
+DTSTAMP:20260523T000000Z
+DTSTART:20260523T000000Z
+DTEND:20260523T020000Z
+SUMMARY:Boston Legacy – Seattle Reign FC 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508434.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508445@anstoss
+DTSTAMP:20260530T223000Z
+DTSTART:20260530T223000Z
+DTEND:20260531T003000Z
+SUMMARY:Washington Spirit – Seattle Reign FC 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field\, Washington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508452@anstoss
+DTSTAMP:20260704T233000Z
+DTSTART:20260704T233000Z
+DTEND:20260705T013000Z
+SUMMARY:North Carolina Courage – Seattle Reign FC 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508452.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508463@anstoss
+DTSTAMP:20260712T200000Z
+DTSTART:20260712T200000Z
+DTEND:20260712T220000Z
+SUMMARY:Seattle Reign FC – Portland Thorns 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508468@anstoss
+DTSTAMP:20260718T160000Z
+DTSTART:20260718T160000Z
+DTEND:20260718T180000Z
+SUMMARY:NJ/NY Gotham FC – Seattle Reign FC 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508480@anstoss
+DTSTAMP:20260726T210000Z
+DTSTART:20260726T210000Z
+DTEND:20260726T230000Z
+SUMMARY:San Diego Wave – Seattle Reign FC 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508490@anstoss
+DTSTAMP:20260802T004500Z
+DTSTART:20260802T004500Z
+DTEND:20260802T024500Z
+SUMMARY:Bay FC – Seattle Reign FC 2:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park\, San Jose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508502@anstoss
+DTSTAMP:20260810T010000Z
+DTSTART:20260810T010000Z
+DTEND:20260810T030000Z
+SUMMARY:Seattle Reign FC – Angel City 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508505@anstoss
+DTSTAMP:20260815T020000Z
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:Seattle Reign FC – Chicago Red Stars 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508505.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508511@anstoss
+DTSTAMP:20260819T223000Z
+DTSTART:20260819T223000Z
+DTEND:20260820T003000Z
+SUMMARY:Racing Louisville – Seattle Reign FC 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508511.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508514@anstoss
+DTSTAMP:20260822T223000Z
+DTSTART:20260822T223000Z
+DTEND:20260823T003000Z
+SUMMARY:Kansas City – Seattle Reign FC 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508514.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508528@anstoss
+DTSTAMP:20260830T230000Z
+DTSTART:20260830T230000Z
+DTEND:20260831T010000Z
+SUMMARY:Seattle Reign FC – Houston Dash 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508528.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508537@anstoss
+DTSTAMP:20260907T010000Z
+DTSTART:20260907T010000Z
+DTEND:20260907T030000Z
+SUMMARY:Seattle Reign FC – San Diego Wave 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508537.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508540@anstoss
+DTSTAMP:20260913T000000Z
+DTSTART:20260913T000000Z
+DTEND:20260913T020000Z
+SUMMARY:Seattle Reign FC – Bay FC 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508540.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508547@anstoss
+DTSTAMP:20260917T020000Z
+DTSTART:20260917T020000Z
+DTEND:20260917T040000Z
+SUMMARY:Angel City – Seattle Reign FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508551@anstoss
+DTSTAMP:20260920T004500Z
+DTSTART:20260920T004500Z
+DTEND:20260920T024500Z
+SUMMARY:Denver Summit – Seattle Reign FC
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508551.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508558@anstoss
+DTSTAMP:20260926T003000Z
+DTSTART:20260926T003000Z
+DTEND:20260926T023000Z
+SUMMARY:Seattle Reign FC – Boston Legacy
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508565@anstoss
+DTSTAMP:20261003T020000Z
+DTSTART:20261003T020000Z
+DTEND:20261003T040000Z
+SUMMARY:Seattle Reign FC – North Carolina Courage
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508565.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508579@anstoss
+DTSTAMP:20261018T230000Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Chicago Red Stars – Seattle Reign FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508579.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508581@anstoss
+DTSTAMP:20261024T013000Z
+DTSTART:20261024T013000Z
+DTEND:20261024T033000Z
+SUMMARY:Utah Royals – Seattle Reign FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508594@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Seattle Reign FC – Orlando Pride
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508594.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sassuolo
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1601252@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Sassuolo – Roma
+DESCRIPTION:Serie A Femminile · 1. Spieltag
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601257@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Fiorentina – Sassuolo
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601257.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601264@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Sassuolo – Napoli
+DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601267@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Como 1907 – Sassuolo
+DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601267.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601276@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sassuolo – Parma
+DESCRIPTION:Serie A Femminile · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601280@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Juventus – Sassuolo
+DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601289@anstoss
+DTSTAMP:20261114T140000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Sassuolo – Ternana
+DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601290@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:AC Milan – Sassuolo
+DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601301@anstoss
+DTSTAMP:20261212T140000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Sassuolo – Lazio
+DESCRIPTION:Serie A Femminile · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601302@anstoss
+DTSTAMP:20270116T140000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Como – Sassuolo
+DESCRIPTION:Serie A Femminile · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601313@anstoss
+DTSTAMP:20270123T140000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Sassuolo – Inter Mailand
+DESCRIPTION:Serie A Femminile · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601315@anstoss
+DTSTAMP:20270130T140000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Roma – Sassuolo
+DESCRIPTION:Serie A Femminile · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601324@anstoss
+DTSTAMP:20270206T140000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Sassuolo – Fiorentina
+DESCRIPTION:Serie A Femminile · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601330@anstoss
+DTSTAMP:20270213T140000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Napoli – Sassuolo
+DESCRIPTION:Serie A Femminile · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601336@anstoss
+DTSTAMP:20270220T140000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Sassuolo – Como 1907
+DESCRIPTION:Serie A Femminile · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601343@anstoss
+DTSTAMP:20270313T140000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Parma – Sassuolo
+DESCRIPTION:Serie A Femminile · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601349@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Sassuolo – Juventus
+DESCRIPTION:Serie A Femminile · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601355@anstoss
+DTSTAMP:20270403T130000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Ternana – Sassuolo
+DESCRIPTION:Serie A Femminile · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601361@anstoss
+DTSTAMP:20270410T130000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Sassuolo – AC Milan
+DESCRIPTION:Serie A Femminile · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601365@anstoss
+DTSTAMP:20270501T130000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Lazio – Sassuolo
+DESCRIPTION:Serie A Femminile · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601373@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Sassuolo – Como
+DESCRIPTION:Serie A Femminile · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601376@anstoss
+DTSTAMP:20270515T130000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Inter Mailand – Sassuolo
+DESCRIPTION:Serie A Femminile · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601376.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Italien
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523817@anstoss
+DTSTAMP:20260303T171500Z
+DTSTART:20260303T171500Z
+DTEND:20260303T191500Z
+SUMMARY:Italien – Schweden 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadio Oreste Granillo\, Reggio Calabria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523817.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523842@anstoss
+DTSTAMP:20260307T171500Z
+DTSTART:20260307T171500Z
+DTEND:20260307T191500Z
+SUMMARY:Italien – Dänemark 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Stadio Romeo Menti\, Vicenza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523842.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523867@anstoss
+DTSTAMP:20260414T161500Z
+DTSTART:20260414T161500Z
+DTEND:20260414T181500Z
+SUMMARY:Serbia – Italien 0:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523867.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523892@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Dänemark – Italien 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Parken Stadium\, Copenhagen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523917@anstoss
+DTSTAMP:20260605T161500Z
+DTSTART:20260605T161500Z
+DTEND:20260605T181500Z
+SUMMARY:Italien – Serbia 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523942@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Schweden – Italien 2:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523942.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557243@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Belarus – Italien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557262@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Italien – Belarus
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557262.ht
+ ml
+END:VEVENT
+END:VCALENDAR

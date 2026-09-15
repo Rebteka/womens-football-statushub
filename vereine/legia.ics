@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Legia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1581686@anstoss
+DTSTAMP:20260801T111500Z
+DTSTART:20260801T111500Z
+DTEND:20260801T131500Z
+SUMMARY:Legia – Pogon Szczecin 1:2
+DESCRIPTION:Ekstraliga Women · 1. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581692@anstoss
+DTSTAMP:20260809T100000Z
+DTSTART:20260809T100000Z
+DTEND:20260809T120000Z
+SUMMARY:Rekord Bielsko-Biala – Legia 1:4
+DESCRIPTION:Ekstraliga Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581697@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Legia – Lech Poznan 4:3
+DESCRIPTION:Ekstraliga Women · 3. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581701@anstoss
+DTSTAMP:20260822T130000Z
+DTSTART:20260822T130000Z
+DTEND:20260822T150000Z
+SUMMARY:Czarni Sosnowiec – Legia 3:0
+DESCRIPTION:Ekstraliga Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581701.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581710@anstoss
+DTSTAMP:20260829T114500Z
+DTSTART:20260829T114500Z
+DTEND:20260829T134500Z
+SUMMARY:Legia – Sleza Wroclaw 5:2
+DESCRIPTION:Ekstraliga Women · 5. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581710.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581714@anstoss
+DTSTAMP:20260926T150000Z
+DTSTART:20260926T150000Z
+DTEND:20260926T170000Z
+SUMMARY:GKS Katowice – Legia
+DESCRIPTION:Ekstraliga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581721@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:Legia – UKS Łódź
+DESCRIPTION:Ekstraliga Women · 7. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581728@anstoss
+DTSTAMP:20261017T150000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T170000Z
+SUMMARY:Legia – Górnik Łęczna
+DESCRIPTION:Ekstraliga Women · 8. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581728.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581736@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:UJ Krakow – Legia
+DESCRIPTION:Ekstraliga Women · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581736.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581740@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
+SUMMARY:Legia – Slask Wroclaw
+DESCRIPTION:Ekstraliga Women · 10. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581740.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581743@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Akademia Piłkarska LG – Legia
+DESCRIPTION:Ekstraliga Women · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581743.ht
+ ml
+END:VEVENT
+END:VCALENDAR

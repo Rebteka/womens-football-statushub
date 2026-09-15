@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LSK Kvinner
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495302@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:LSK Kvinner – Røa 1:3
+DESCRIPTION:Toppserien · 1. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495309@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:Lyn – LSK Kvinner 1:1
+DESCRIPTION:Toppserien · 2. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495314@anstoss
+DTSTAMP:20260401T140000Z
+DTSTART:20260401T140000Z
+DTEND:20260401T160000Z
+SUMMARY:LSK Kvinner – Stabæk 0:3
+DESCRIPTION:Toppserien · 3. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495320@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:LSK Kvinner – Molde 1:3
+DESCRIPTION:Toppserien · 4. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495327@anstoss
+DTSTAMP:20260502T140000Z
+DTSTART:20260502T140000Z
+DTEND:20260502T160000Z
+SUMMARY:Vålerenga – LSK Kvinner 3:2
+DESCRIPTION:Toppserien · 5. Spieltag
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495333@anstoss
+DTSTAMP:20260508T160000Z
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+SUMMARY:LSK Kvinner – Haugesund 2:1
+DESCRIPTION:Toppserien · 6. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495337@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Bodø / Glimt – LSK Kvinner 0:6
+DESCRIPTION:Toppserien · 7. Spieltag
+LOCATION:Aspmyra Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495343@anstoss
+DTSTAMP:20260526T160000Z
+DTSTART:20260526T160000Z
+DTEND:20260526T180000Z
+SUMMARY:LSK Kvinner – Hønefoss 3:2
+DESCRIPTION:Toppserien · 8. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495353@anstoss
+DTSTAMP:20260530T150000Z
+DTSTART:20260530T150000Z
+DTEND:20260530T170000Z
+SUMMARY:Rosenborg – LSK Kvinner 0:1
+DESCRIPTION:Toppserien · 9. Spieltag
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495355@anstoss
+DTSTAMP:20260613T113000Z
+DTSTART:20260613T113000Z
+DTEND:20260613T133000Z
+SUMMARY:LSK Kvinner – Fortuna Ålesund 0:3
+DESCRIPTION:Toppserien · 10. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495361@anstoss
+DTSTAMP:20260621T120000Z
+DTSTART:20260621T120000Z
+DTEND:20260621T140000Z
+SUMMARY:SK Brann – LSK Kvinner 0:0
+DESCRIPTION:Toppserien · 11. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495369@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:LSK Kvinner – Rosenborg 1:2
+DESCRIPTION:Toppserien · 12. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495374@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:Molde – LSK Kvinner 1:0
+DESCRIPTION:Toppserien · 13. Spieltag
+LOCATION:Aker Stadion\, Molde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495382@anstoss
+DTSTAMP:20260901T153000Z
+DTSTART:20260901T153000Z
+DTEND:20260901T173000Z
+SUMMARY:LSK Kvinner – Bodø / Glimt 1:1
+DESCRIPTION:Toppserien · 14. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495389@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Stabæk – LSK Kvinner 5:1
+DESCRIPTION:Toppserien · 15. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495393@anstoss
+DTSTAMP:20260919T150000Z
+DTSTART:20260919T150000Z
+DTEND:20260919T170000Z
+SUMMARY:LSK Kvinner – Lyn
+DESCRIPTION:Toppserien · 16. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495397@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Haugesund – LSK Kvinner
+DESCRIPTION:Toppserien · 17. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495406@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Røa – LSK Kvinner
+DESCRIPTION:Toppserien · 18. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495411@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:LSK Kvinner – Vålerenga
+DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495414@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Fortuna Ålesund – LSK Kvinner
+DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Color Line Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495421@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:LSK Kvinner – SK Brann
+DESCRIPTION:Toppserien · 21. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495429@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Hønefoss – LSK Kvinner
+DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495429.ht
+ ml
+END:VEVENT
+END:VCALENDAR

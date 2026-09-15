@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zenit
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529895@anstoss
+DTSTAMP:20260315T140000Z
+DTSTART:20260315T140000Z
+DTEND:20260315T160000Z
+SUMMARY:Zenit – Zvezda Perm 1:0
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529897@anstoss
+DTSTAMP:20260321T100000Z
+DTSTART:20260321T100000Z
+DTEND:20260321T120000Z
+SUMMARY:Dinamo Moskva – Zenit 0:2
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529908@anstoss
+DTSTAMP:20260403T163000Z
+DTSTART:20260403T163000Z
+DTEND:20260403T183000Z
+SUMMARY:Zenit – Krylya Sovetov 5:1
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529917@anstoss
+DTSTAMP:20260425T130000Z
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+SUMMARY:Krasnodar – Zenit 0:4
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529921@anstoss
+DTSTAMP:20260502T130000Z
+DTSTART:20260502T130000Z
+DTEND:20260502T150000Z
+SUMMARY:Rostov – Zenit 0:2
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529921.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529931@anstoss
+DTSTAMP:20260510T140000Z
+DTSTART:20260510T140000Z
+DTEND:20260510T160000Z
+SUMMARY:Zenit – Rubin Kazan 3:0
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529931.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529937@anstoss
+DTSTAMP:20260516T121500Z
+DTSTART:20260516T121500Z
+DTEND:20260516T141500Z
+SUMMARY:Zenit – Spartak Moskva 1:1
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529937.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529938@anstoss
+DTSTAMP:20260523T123000Z
+DTSTART:20260523T123000Z
+DTEND:20260523T143000Z
+SUMMARY:Chertanovo – Zenit 0:5
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529938.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529947@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Lokomotiv Moskva – Zenit 1:2
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529954@anstoss
+DTSTAMP:20260620T133000Z
+DTSTART:20260620T133000Z
+DTEND:20260620T153000Z
+SUMMARY:Zenit – Ryazan 3:0
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529956@anstoss
+DTSTAMP:20260627T133000Z
+DTSTART:20260627T133000Z
+DTEND:20260627T153000Z
+SUMMARY:CSKA Moskva – Zenit 0:0
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529966@anstoss
+DTSTAMP:20260711T160000Z
+DTSTART:20260711T160000Z
+DTEND:20260711T180000Z
+SUMMARY:Zenit – Yenisey 4:0
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529973@anstoss
+DTSTAMP:20260718T083000Z
+DTSTART:20260718T083000Z
+DTEND:20260718T103000Z
+SUMMARY:Zvezda Perm – Zenit 1:3
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529979@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:Zenit – Krasnodar 3:1
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529990@anstoss
+DTSTAMP:20260829T133000Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Ryazan – Zenit 0:3
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529995@anstoss
+DTSTAMP:20260906T140000Z
+DTSTART:20260906T140000Z
+DTEND:20260906T160000Z
+SUMMARY:Rubin Kazan – Zenit 0:3
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530003@anstoss
+DTSTAMP:20260912T140000Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Zenit – Rostov 4:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530003.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530009@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Zenit – Dinamo Moskva
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530009.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530014@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Spartak Moskva – Zenit
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530021@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Zenit – Chertanovo
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530021.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530023@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Krylya Sovetov – Zenit
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530033@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Zenit – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530038@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Zenit – CSKA Moskva
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530041@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Yenisey – Zenit
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530041.ht
+ ml
+END:VEVENT
+END:VCALENDAR

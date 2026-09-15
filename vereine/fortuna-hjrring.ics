@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fortuna Hjørring
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1582091@anstoss
+DTSTAMP:20260728T170000Z
+DTSTART:20260728T170000Z
+DTEND:20260728T190000Z
+SUMMARY:KoldingQ – Fortuna Hjørring 2:6
+DESCRIPTION:Kvindeliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582091.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582096@anstoss
+DTSTAMP:20260804T170000Z
+DTSTART:20260804T170000Z
+DTEND:20260804T190000Z
+SUMMARY:Fortuna Hjørring – Midtjylland 0:0
+DESCRIPTION:Kvindeliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582096.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582101@anstoss
+DTSTAMP:20260815T133000Z
+DTSTART:20260815T133000Z
+DTEND:20260815T153000Z
+SUMMARY:FC Copenhagen – Fortuna Hjørring 1:4
+DESCRIPTION:Kvindeliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582101.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582105@anstoss
+DTSTAMP:20260819T170000Z
+DTSTART:20260819T170000Z
+DTEND:20260819T190000Z
+SUMMARY:Fortuna Hjørring – AGF 3:0
+DESCRIPTION:Kvindeliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582105.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582110@anstoss
+DTSTAMP:20260829T110000Z
+DTSTART:20260829T110000Z
+DTEND:20260829T130000Z
+SUMMARY:ASA Aarhus – Fortuna Hjørring 2:1
+DESCRIPTION:Kvindeliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582115@anstoss
+DTSTAMP:20260906T093000Z
+DTSTART:20260906T093000Z
+DTEND:20260906T113000Z
+SUMMARY:Fortuna Hjørring – Odense Q 4:0
+DESCRIPTION:Kvindeliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582120@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Fortuna Hjørring – Køge 1:2
+DESCRIPTION:Kvindeliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582126@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Brøndby – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582130@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Fortuna Hjørring – Nordsjælland
+DESCRIPTION:Kvindeliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582138@anstoss
+DTSTAMP:20261004T093000Z
+DTSTART:20261004T093000Z
+DTEND:20261004T113000Z
+SUMMARY:Odense Q – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582141@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Fortuna Hjørring – KoldingQ
+DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582145@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Fortuna Hjørring – FC Copenhagen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582153@anstoss
+DTSTAMP:20261101T130000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Køge – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582154@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Fortuna Hjørring – Brøndby
+DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582154.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582159@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:AGF – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582167@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Nordsjælland – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582170@anstoss
+DTSTAMP:20261209T130000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Fortuna Hjørring – ASA Aarhus
+DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582170.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582177@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Midtjylland – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582177.ht
+ ml
+END:VEVENT
+END:VCALENDAR

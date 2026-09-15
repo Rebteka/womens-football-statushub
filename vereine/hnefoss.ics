@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hønefoss
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495300@anstoss
+DTSTAMP:20260320T170000Z
+DTSTART:20260320T170000Z
+DTEND:20260320T190000Z
+SUMMARY:Bodø / Glimt – Hønefoss 0:0
+DESCRIPTION:Toppserien · 1. Spieltag
+LOCATION:Aspmyra Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495308@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:Hønefoss – Molde 3:1
+DESCRIPTION:Toppserien · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495316@anstoss
+DTSTAMP:20260401T140000Z
+DTSTART:20260401T140000Z
+DTEND:20260401T160000Z
+SUMMARY:Rosenborg – Hønefoss 2:0
+DESCRIPTION:Toppserien · 3. Spieltag
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495319@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Hønefoss – Haugesund 2:3
+DESCRIPTION:Toppserien · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495328@anstoss
+DTSTAMP:20260503T123000Z
+DTSTART:20260503T123000Z
+DTEND:20260503T143000Z
+SUMMARY:SK Brann – Hønefoss 6:0
+DESCRIPTION:Toppserien · 5. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495332@anstoss
+DTSTAMP:20260508T160000Z
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+SUMMARY:Hønefoss – Vålerenga 0:3
+DESCRIPTION:Toppserien · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495336@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Fortuna Ålesund – Hønefoss 2:0
+DESCRIPTION:Toppserien · 7. Spieltag
+LOCATION:Color Line Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495343@anstoss
+DTSTAMP:20260526T160000Z
+DTSTART:20260526T160000Z
+DTEND:20260526T180000Z
+SUMMARY:LSK Kvinner – Hønefoss 3:2
+DESCRIPTION:Toppserien · 8. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495351@anstoss
+DTSTAMP:20260529T160000Z
+DTSTART:20260529T160000Z
+DTEND:20260529T180000Z
+SUMMARY:Hønefoss – Stabæk 1:2
+DESCRIPTION:Toppserien · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495357@anstoss
+DTSTAMP:20260613T113000Z
+DTSTART:20260613T113000Z
+DTEND:20260613T133000Z
+SUMMARY:Røa – Hønefoss 1:1
+DESCRIPTION:Toppserien · 10. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495362@anstoss
+DTSTAMP:20260620T123000Z
+DTSTART:20260620T123000Z
+DTEND:20260620T143000Z
+SUMMARY:Hønefoss – Lyn 1:0
+DESCRIPTION:Toppserien · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495368@anstoss
+DTSTAMP:20260815T140000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T160000Z
+SUMMARY:Hønefoss – SK Brann 0:3
+DESCRIPTION:Toppserien · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495377@anstoss
+DTSTAMP:20260819T160000Z
+DTSTART:20260819T160000Z
+DTEND:20260819T180000Z
+SUMMARY:Vålerenga – Hønefoss 2:1
+DESCRIPTION:Toppserien · 13. Spieltag
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495381@anstoss
+DTSTAMP:20260831T160000Z
+DTSTART:20260831T160000Z
+DTEND:20260831T180000Z
+SUMMARY:Hønefoss – Fortuna Ålesund 0:1
+DESCRIPTION:Toppserien · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495387@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Molde – Hønefoss 0:1
+DESCRIPTION:Toppserien · 15. Spieltag
+LOCATION:Aker Stadion\, Molde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495392@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Hønefoss – Røa
+DESCRIPTION:Toppserien · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495398@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Lyn – Hønefoss
+DESCRIPTION:Toppserien · 17. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495403@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Hønefoss – Bodø / Glimt
+DESCRIPTION:Toppserien · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495413@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Stabæk – Hønefoss
+DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495417@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Hønefoss – Rosenborg
+DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495420@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Haugesund – Hønefoss
+DESCRIPTION:Toppserien · 21. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495429@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Hønefoss – LSK Kvinner
+DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495429.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:First Vienna
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1574589@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:First Vienna – SK Rapid 3:3
+DESCRIPTION:Frauenliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574589.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574593@anstoss
+DTSTAMP:20260808T143000Z
+DTSTART:20260808T143000Z
+DTEND:20260808T163000Z
+SUMMARY:First Vienna – Südburgenland 1:1
+DESCRIPTION:Frauenliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574593.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574599@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Kleinmünchen / BW Linz – First Vienna 0:2
+DESCRIPTION:Frauenliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574603@anstoss
+DTSTAMP:20260821T173000Z
+DTSTART:20260821T173000Z
+DTEND:20260821T193000Z
+SUMMARY:First Vienna – Sturm Graz 1:1
+DESCRIPTION:Frauenliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574608@anstoss
+DTSTAMP:20260829T153000Z
+DTSTART:20260829T153000Z
+DTEND:20260829T173000Z
+SUMMARY:First Vienna – Austria Wien 1:1
+DESCRIPTION:Frauenliga · 5. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574613@anstoss
+DTSTAMP:20260912T140000Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:First Vienna – St. Pölten 1:4
+DESCRIPTION:Frauenliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574613.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574620@anstoss
+DTSTAMP:20260920T103000Z
+DTSTART:20260920T103000Z
+DTEND:20260920T123000Z
+SUMMARY:Rheindorf Altach – First Vienna
+DESCRIPTION:Frauenliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574620.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574623@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:First Vienna – LASK
+DESCRIPTION:Frauenliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574623.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574630@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:Salzburg – First Vienna
+DESCRIPTION:Frauenliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574635@anstoss
+DTSTAMP:20261017T150000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T170000Z
+SUMMARY:SK Rapid – First Vienna
+DESCRIPTION:Frauenliga · 10. Spieltag
+LOCATION:Allianz Stadion\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574642@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
+SUMMARY:Südburgenland – First Vienna
+DESCRIPTION:Frauenliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574643@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:First Vienna – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574652@anstoss
+DTSTAMP:20261113T173000Z
+DTSTART:20261113T173000Z
+DTEND:20261113T193000Z
+SUMMARY:Sturm Graz – First Vienna
+DESCRIPTION:Frauenliga · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574653@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
+SUMMARY:First Vienna – Austria Wien
+DESCRIPTION:Frauenliga · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574661@anstoss
+DTSTAMP:20270312T194500Z
+DTSTART:20270312T194500Z
+DTEND:20270312T214500Z
+SUMMARY:St. Pölten – First Vienna
+DESCRIPTION:Frauenliga · 15. Spieltag
+LOCATION:NV Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574663@anstoss
+DTSTAMP:20270321T120000Z
+DTSTART:20270321T120000Z
+DTEND:20270321T140000Z
+SUMMARY:First Vienna – Rheindorf Altach
+DESCRIPTION:Frauenliga · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574669@anstoss
+DTSTAMP:20270403T110000Z
+DTSTART:20270403T110000Z
+DTEND:20270403T130000Z
+SUMMARY:LASK – First Vienna
+DESCRIPTION:Frauenliga · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574673@anstoss
+DTSTAMP:20270410T120000Z
+DTSTART:20270410T120000Z
+DTEND:20270410T140000Z
+SUMMARY:First Vienna – Salzburg
+DESCRIPTION:Frauenliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574673.ht
+ ml
+END:VEVENT
+END:VCALENDAR

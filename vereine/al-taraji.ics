@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Al Taraji
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1619337@anstoss
+DTSTAMP:20260911T152500Z
+DTSTART:20260911T152500Z
+DTEND:20260911T172500Z
+SUMMARY:Al Taraji – Al Ahli SC 1:5
+DESCRIPTION:Premier League Women · 1. Spieltag
+LOCATION:Esperance Sports Club Stadium\, Qatif
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619341@anstoss
+DTSTAMP:20260918T152000Z
+DTSTART:20260918T152000Z
+DTEND:20260918T172000Z
+SUMMARY:Al Qadisiya – Al Taraji
+DESCRIPTION:Premier League Women · 2. Spieltag
+LOCATION:Prince Saud bin Jalawi Stadium\, Dammam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619347@anstoss
+DTSTAMP:20260926T152500Z
+DTSTART:20260926T152500Z
+DTEND:20260926T172500Z
+SUMMARY:Al Hilal – Al Taraji
+DESCRIPTION:Premier League Women · 3. Spieltag
+LOCATION:Kingdom Arena\, Riyadh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619351@anstoss
+DTSTAMP:20261003T150500Z
+DTSTART:20261003T150500Z
+DTEND:20261003T170500Z
+SUMMARY:Al Taraji – Al Ittihad
+DESCRIPTION:Premier League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619353@anstoss
+DTSTAMP:20261023T153000Z
+DTSTART:20261023T153000Z
+DTEND:20261023T173000Z
+SUMMARY:Neom SC – Al Taraji
+DESCRIPTION:Premier League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619359@anstoss
+DTSTAMP:20261031T145500Z
+DTSTART:20261031T145500Z
+DTEND:20261031T165500Z
+SUMMARY:Al Nassr – Al Taraji
+DESCRIPTION:Premier League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619361@anstoss
+DTSTAMP:20261106T143000Z
+DTSTART:20261106T143000Z
+DTEND:20261106T163000Z
+SUMMARY:Al Taraji – Al-Ula
+DESCRIPTION:Premier League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619366@anstoss
+DTSTAMP:20261211T163500Z
+DTSTART:20261211T163500Z
+DTEND:20261211T183500Z
+SUMMARY:Al Ahli SC – Al Taraji
+DESCRIPTION:Premier League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619368@anstoss
+DTSTAMP:20270211T190000Z
+DTSTART:20270211T190000Z
+DTEND:20270211T210000Z
+SUMMARY:Al Taraji – Al Qadisiya
+DESCRIPTION:Premier League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619375@anstoss
+DTSTAMP:20270320T153000Z
+DTSTART:20270320T153000Z
+DTEND:20270320T173000Z
+SUMMARY:Al Taraji – Al Hilal
+DESCRIPTION:Premier League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619376@anstoss
+DTSTAMP:20270325T173000Z
+DTSTART:20270325T173000Z
+DTEND:20270325T193000Z
+SUMMARY:Al Ittihad – Al Taraji
+DESCRIPTION:Premier League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619383@anstoss
+DTSTAMP:20270403T153500Z
+DTSTART:20270403T153500Z
+DTEND:20270403T173500Z
+SUMMARY:Al Taraji – Neom SC
+DESCRIPTION:Premier League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619386@anstoss
+DTSTAMP:20270506T174500Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Al Taraji – Al Nassr
+DESCRIPTION:Premier League Women · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619391@anstoss
+DTSTAMP:20270512T174500Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Al-Ula – Al Taraji
+DESCRIPTION:Premier League Women · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619391.ht
+ ml
+END:VEVENT
+END:VCALENDAR

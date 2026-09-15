@@ -1,0 +1,363 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Häcken
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495435@anstoss
+DTSTAMP:20260329T130000Z
+DTSTART:20260329T130000Z
+DTEND:20260329T150000Z
+SUMMARY:Häcken – Brommapojkarna 3:2
+DESCRIPTION:Damallsvenskan · 1. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495445@anstoss
+DTSTAMP:20260406T110000Z
+DTSTART:20260406T110000Z
+DTEND:20260406T130000Z
+SUMMARY:Vittsjö – Häcken 1:2
+DESCRIPTION:Damallsvenskan · 2. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495453@anstoss
+DTSTAMP:20260506T163000Z
+DTSTART:20260506T163000Z
+DTEND:20260506T183000Z
+SUMMARY:Häcken – Djurgården 3:0
+DESCRIPTION:Damallsvenskan · 4. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495463@anstoss
+DTSTAMP:20260511T160000Z
+DTSTART:20260511T160000Z
+DTEND:20260511T180000Z
+SUMMARY:Malmö FF – Häcken 1:2
+DESCRIPTION:Damallsvenskan · 5. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495469@anstoss
+DTSTAMP:20260520T163000Z
+DTSTART:20260520T163000Z
+DTEND:20260520T183000Z
+SUMMARY:Häcken – Växjö 4:2
+DESCRIPTION:Damallsvenskan · 6. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495476@anstoss
+DTSTAMP:20260524T130000Z
+DTSTART:20260524T130000Z
+DTEND:20260524T150000Z
+SUMMARY:Häcken – Norrköping 2:0
+DESCRIPTION:Damallsvenskan · 7. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495446@anstoss
+DTSTAMP:20260527T170000Z
+DTSTART:20260527T170000Z
+DTEND:20260527T190000Z
+SUMMARY:AIK – Häcken 2:1
+DESCRIPTION:Damallsvenskan · 3. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495482@anstoss
+DTSTAMP:20260531T120000Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:Kristianstad – Häcken 0:3
+DESCRIPTION:Damallsvenskan · 8. Spieltag
+LOCATION:Kristianstad Arena\, Kristianstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495490@anstoss
+DTSTAMP:20260613T130000Z
+DTSTART:20260613T130000Z
+DTEND:20260613T150000Z
+SUMMARY:Hammarby – Häcken 0:1
+DESCRIPTION:Damallsvenskan · 9. Spieltag
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495497@anstoss
+DTSTAMP:20260618T160000Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:Häcken – Rosengård 2:0
+DESCRIPTION:Damallsvenskan · 10. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495507@anstoss
+DTSTAMP:20260624T160000Z
+DTSTART:20260624T160000Z
+DTEND:20260624T180000Z
+SUMMARY:Uppsala – Häcken 2:3
+DESCRIPTION:Damallsvenskan · 11. Spieltag
+LOCATION:Balinge IP Konstgras\, Uppsala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495509@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Häcken – Eskilstuna United 6:0
+DESCRIPTION:Damallsvenskan · 12. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495520@anstoss
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T140000Z
+SUMMARY:Piteå – Häcken 1:4
+DESCRIPTION:Damallsvenskan · 13. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495520.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495525@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Brommapojkarna – Häcken 0:6
+DESCRIPTION:Damallsvenskan · 14. Spieltag
+LOCATION:Grimsta IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495525.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495532@anstoss
+DTSTAMP:20260823T110000Z
+DTSTART:20260823T110000Z
+DTEND:20260823T130000Z
+SUMMARY:Häcken – AIK 4:1
+DESCRIPTION:Damallsvenskan · 15. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495541@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Rosengård – Häcken 0:1
+DESCRIPTION:Damallsvenskan · 16. Spieltag
+LOCATION:Malmo IP
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495541.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495546@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Häcken – Malmö FF 1:1
+DESCRIPTION:Damallsvenskan · 17. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495546.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495552@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Häcken – Vittsjö 4:0
+DESCRIPTION:Damallsvenskan · 18. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495552.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495559@anstoss
+DTSTAMP:20260919T130000Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Eskilstuna United – Häcken
+DESCRIPTION:Damallsvenskan · 19. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495559.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638309@anstoss
+DTSTAMP:20260922T164500Z
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+SUMMARY:Inter Mailand – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495569@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:Norrköping – Häcken
+DESCRIPTION:Damallsvenskan · 20. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495569.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638305@anstoss
+DTSTAMP:20260930T164500Z
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+SUMMARY:Häcken – Juventus
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495573@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Häcken – Uppsala
+DESCRIPTION:Damallsvenskan · 21. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495573.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495581@anstoss
+DTSTAMP:20261018T110000Z
+DTSTART:20261018T110000Z
+DTEND:20261018T130000Z
+SUMMARY:Häcken – Hammarby
+DESCRIPTION:Damallsvenskan · 22. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495591@anstoss
+DTSTAMP:20261023T170000Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:Växjö – Häcken
+DESCRIPTION:Damallsvenskan · 23. Spieltag
+LOCATION:Visma Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638325@anstoss
+DTSTAMP:20261029T174500Z
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+SUMMARY:Paris FC – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495594@anstoss
+DTSTAMP:20261102T170000Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Häcken – Kristianstad
+DESCRIPTION:Damallsvenskan · 24. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495594.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495601@anstoss
+DTSTAMP:20261106T170000Z
+DTSTART:20261106T170000Z
+DTEND:20261106T190000Z
+SUMMARY:Djurgården – Häcken
+DESCRIPTION:Damallsvenskan · 25. Spieltag
+LOCATION:Stockholms Olympiastadion\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638304@anstoss
+DTSTAMP:20261110T174500Z
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+SUMMARY:Häcken – Chelsea
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495608@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Häcken – Piteå
+DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638306@anstoss
+DTSTAMP:20261118T174500Z
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+SUMMARY:Häcken – Manchester City
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638323@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Lyon – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638323.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,335 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Denver Summit
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508359@anstoss
+DTSTAMP:20260314T223000Z
+DTSTART:20260314T223000Z
+DTEND:20260315T003000Z
+SUMMARY:Bay FC – Denver Summit 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park\, San Jose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508364@anstoss
+DTSTAMP:20260321T000000Z
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+SUMMARY:Orlando Pride – Denver Summit 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508372@anstoss
+DTSTAMP:20260325T230000Z
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+SUMMARY:NJ/NY Gotham FC – Denver Summit 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508379@anstoss
+DTSTAMP:20260328T180000Z
+DTSTART:20260328T180000Z
+DTEND:20260328T200000Z
+SUMMARY:Denver Summit – Washington Spirit 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Empower Field at Mile High\, Denver
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508391@anstoss
+DTSTAMP:20260405T004500Z
+DTSTART:20260405T004500Z
+DTEND:20260405T024500Z
+SUMMARY:Seattle Reign FC – Denver Summit 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:One Spokane Stadium\, Spokane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508398@anstoss
+DTSTAMP:20260426T004500Z
+DTSTART:20260426T004500Z
+DTEND:20260426T024500Z
+SUMMARY:Denver Summit – San Diego Wave 2:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508410@anstoss
+DTSTAMP:20260503T190000Z
+DTSTART:20260503T190000Z
+DTEND:20260503T210000Z
+SUMMARY:Boston Legacy – Denver Summit 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508417@anstoss
+DTSTAMP:20260510T000000Z
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+SUMMARY:Houston Dash – Denver Summit 1:4
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508428@anstoss
+DTSTAMP:20260517T004500Z
+DTSTART:20260517T004500Z
+DTEND:20260517T024500Z
+SUMMARY:Denver Summit – Orlando Pride 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508428.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508436@anstoss
+DTSTAMP:20260523T223000Z
+DTSTART:20260523T223000Z
+DTEND:20260524T003000Z
+SUMMARY:Utah Royals – Denver Summit 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508442@anstoss
+DTSTAMP:20260530T000000Z
+DTSTART:20260530T000000Z
+DTEND:20260530T020000Z
+SUMMARY:Racing Louisville – Denver Summit 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508450@anstoss
+DTSTAMP:20260704T013000Z
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:Denver Summit – Kansas City 0:3
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508450.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508464@anstoss
+DTSTAMP:20260712T230000Z
+DTSTART:20260712T230000Z
+DTEND:20260713T010000Z
+SUMMARY:Denver Summit – Houston Dash 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508469@anstoss
+DTSTAMP:20260718T180000Z
+DTSTART:20260718T180000Z
+DTEND:20260718T200000Z
+SUMMARY:Denver Summit – Portland Thorns 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508481@anstoss
+DTSTAMP:20260726T230000Z
+DTSTART:20260726T230000Z
+DTEND:20260727T010000Z
+SUMMARY:Washington Spirit – Denver Summit 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field\, Washington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508493@anstoss
+DTSTAMP:20260803T010000Z
+DTSTART:20260803T010000Z
+DTEND:20260803T030000Z
+SUMMARY:Denver Summit – Boston Legacy 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508494@anstoss
+DTSTAMP:20260806T020000Z
+DTSTART:20260806T020000Z
+DTEND:20260806T040000Z
+SUMMARY:Denver Summit – North Carolina Courage 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508496@anstoss
+DTSTAMP:20260809T020000Z
+DTSTART:20260809T020000Z
+DTEND:20260809T040000Z
+SUMMARY:Denver Summit – Utah Royals 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508504@anstoss
+DTSTAMP:20260815T020000Z
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:San Diego Wave – Denver Summit 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508516@anstoss
+DTSTAMP:20260823T004500Z
+DTSTART:20260823T004500Z
+DTEND:20260823T024500Z
+SUMMARY:Portland Thorns – Denver Summit 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508516.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508526@anstoss
+DTSTAMP:20260830T005500Z
+DTSTART:20260830T005500Z
+DTEND:20260830T025500Z
+SUMMARY:Denver Summit – Chicago Red Stars 6:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508533@anstoss
+DTSTAMP:20260906T180000Z
+DTSTART:20260906T180000Z
+DTEND:20260906T200000Z
+SUMMARY:Denver Summit – NJ/NY Gotham FC 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508541@anstoss
+DTSTAMP:20260912T020000Z
+DTSTART:20260912T020000Z
+DTEND:20260912T040000Z
+SUMMARY:Angel City – Denver Summit 3:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508541.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508546@anstoss
+DTSTAMP:20260917T013000Z
+DTSTART:20260917T013000Z
+DTEND:20260917T033000Z
+SUMMARY:Denver Summit – Bay FC
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508546.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508551@anstoss
+DTSTAMP:20260920T004500Z
+DTSTART:20260920T004500Z
+DTEND:20260920T024500Z
+SUMMARY:Denver Summit – Seattle Reign FC
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508551.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508559@anstoss
+DTSTAMP:20260926T163000Z
+DTSTART:20260926T163000Z
+DTEND:20260926T183000Z
+SUMMARY:Kansas City – Denver Summit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508559.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508570@anstoss
+DTSTAMP:20261004T200000Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:Chicago Red Stars – Denver Summit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508570.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508576@anstoss
+DTSTAMP:20261018T004500Z
+DTSTART:20261018T004500Z
+DTEND:20261018T024500Z
+SUMMARY:Denver Summit – Angel City
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508576.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508583@anstoss
+DTSTAMP:20261024T223000Z
+DTSTART:20261024T223000Z
+DTEND:20261025T003000Z
+SUMMARY:Denver Summit – Racing Louisville
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508592@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:North Carolina Courage – Denver Summit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508592.ht
+ ml
+END:VEVENT
+END:VCALENDAR

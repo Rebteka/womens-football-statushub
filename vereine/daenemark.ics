@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dänemark
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523818@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Dänemark – Serbia 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Nordstern Arena Horsens\, Horsens
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523818.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523842@anstoss
+DTSTAMP:20260307T171500Z
+DTSTART:20260307T171500Z
+DTEND:20260307T191500Z
+SUMMARY:Italien – Dänemark 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Stadio Romeo Menti\, Vicenza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523842.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523868@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Schweden – Dänemark 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523868.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523892@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Dänemark – Italien 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Parken Stadium\, Copenhagen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523918@anstoss
+DTSTAMP:20260605T171500Z
+DTSTART:20260605T171500Z
+DTEND:20260605T191500Z
+SUMMARY:Dänemark – Schweden 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Nature Energy Park\, Odense
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523943@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Serbia – Dänemark 1:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Sports Center of FA of Serbia\, Stara Pazova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523943.ht
+ ml
+END:VEVENT
+END:VCALENDAR

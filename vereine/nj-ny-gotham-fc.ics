@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJ/NY Gotham FC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508357@anstoss
+DTSTAMP:20260314T163000Z
+DTSTART:20260314T163000Z
+DTEND:20260314T183000Z
+SUMMARY:Boston Legacy – NJ/NY Gotham FC 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508368@anstoss
+DTSTAMP:20260321T223000Z
+DTSTART:20260321T223000Z
+DTEND:20260322T003000Z
+SUMMARY:NJ/NY Gotham FC – North Carolina Courage 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508372@anstoss
+DTSTAMP:20260325T230000Z
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+SUMMARY:NJ/NY Gotham FC – Denver Summit 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508384@anstoss
+DTSTAMP:20260329T230000Z
+DTSTART:20260329T230000Z
+DTEND:20260330T010000Z
+SUMMARY:NJ/NY Gotham FC – Orlando Pride 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508389@anstoss
+DTSTAMP:20260404T200000Z
+DTSTART:20260404T200000Z
+DTEND:20260404T220000Z
+SUMMARY:Kansas City – NJ/NY Gotham FC 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508395@anstoss
+DTSTAMP:20260425T170000Z
+DTSTART:20260425T170000Z
+DTEND:20260425T190000Z
+SUMMARY:NJ/NY Gotham FC – Bay FC 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508403@anstoss
+DTSTAMP:20260430T000000Z
+DTSTART:20260430T000000Z
+DTEND:20260430T020000Z
+SUMMARY:Chicago Red Stars – NJ/NY Gotham FC 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508411@anstoss
+DTSTAMP:20260503T210000Z
+DTSTART:20260503T210000Z
+DTEND:20260503T230000Z
+SUMMARY:NJ/NY Gotham FC – Racing Louisville 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508416@anstoss
+DTSTAMP:20260509T223000Z
+DTSTART:20260509T223000Z
+DTEND:20260510T003000Z
+SUMMARY:NJ/NY Gotham FC – Boston Legacy 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508426@anstoss
+DTSTAMP:20260516T020000Z
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+SUMMARY:Seattle Reign FC – NJ/NY Gotham FC 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508447@anstoss
+DTSTAMP:20260531T190000Z
+DTSTART:20260531T190000Z
+DTEND:20260531T210000Z
+SUMMARY:NJ/NY Gotham FC – Houston Dash 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508453@anstoss
+DTSTAMP:20260705T004500Z
+DTSTART:20260705T004500Z
+DTEND:20260705T024500Z
+SUMMARY:San Diego Wave – NJ/NY Gotham FC 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508460@anstoss
+DTSTAMP:20260711T020000Z
+DTSTART:20260711T020000Z
+DTEND:20260711T040000Z
+SUMMARY:Utah Royals – NJ/NY Gotham FC 1:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508465@anstoss
+DTSTAMP:20260716T000000Z
+DTSTART:20260716T000000Z
+DTEND:20260716T020000Z
+SUMMARY:NJ/NY Gotham FC – Washington Spirit 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Citi Field\, New York
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508468@anstoss
+DTSTAMP:20260718T160000Z
+DTSTART:20260718T160000Z
+DTEND:20260718T180000Z
+SUMMARY:NJ/NY Gotham FC – Seattle Reign FC 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508477@anstoss
+DTSTAMP:20260725T020000Z
+DTSTART:20260725T020000Z
+DTEND:20260725T040000Z
+SUMMARY:Portland Thorns – NJ/NY Gotham FC 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park\, Portland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508485@anstoss
+DTSTAMP:20260730T020000Z
+DTSTART:20260730T020000Z
+DTEND:20260730T040000Z
+SUMMARY:Bay FC – NJ/NY Gotham FC 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park\, San Jose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508489@anstoss
+DTSTAMP:20260802T000000Z
+DTSTART:20260802T000000Z
+DTEND:20260802T020000Z
+SUMMARY:Houston Dash – NJ/NY Gotham FC 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508495@anstoss
+DTSTAMP:20260808T000000Z
+DTSTART:20260808T000000Z
+DTEND:20260808T020000Z
+SUMMARY:NJ/NY Gotham FC – San Diego Wave 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508503@anstoss
+DTSTAMP:20260815T000000Z
+DTSTART:20260815T000000Z
+DTEND:20260815T020000Z
+SUMMARY:NJ/NY Gotham FC – Kansas City 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508520@anstoss
+DTSTAMP:20260824T000000Z
+DTSTART:20260824T000000Z
+DTEND:20260824T020000Z
+SUMMARY:Angel City – NJ/NY Gotham FC 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508520.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508522@anstoss
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T000000Z
+DTEND:20260829T020000Z
+SUMMARY:NJ/NY Gotham FC – Portland Thorns 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508522.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508533@anstoss
+DTSTAMP:20260906T180000Z
+DTSTART:20260906T180000Z
+DTEND:20260906T200000Z
+SUMMARY:Denver Summit – NJ/NY Gotham FC 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508533.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508538@anstoss
+DTSTAMP:20260911T223000Z
+DTSTART:20260911T223000Z
+DTEND:20260912T003000Z
+SUMMARY:Racing Louisville – NJ/NY Gotham FC 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508538.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508550@anstoss
+DTSTAMP:20260919T223000Z
+DTSTART:20260919T223000Z
+DTEND:20260920T003000Z
+SUMMARY:North Carolina Courage – NJ/NY Gotham FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508550.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508557@anstoss
+DTSTAMP:20260926T000000Z
+DTSTART:20260926T000000Z
+DTEND:20260926T020000Z
+SUMMARY:NJ/NY Gotham FC – Chicago Red Stars
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508557.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508569@anstoss
+DTSTAMP:20261004T160000Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:NJ/NY Gotham FC – Angel City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508569.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508573@anstoss
+DTSTAMP:20261017T163000Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:Washington Spirit – NJ/NY Gotham FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508573.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508585@anstoss
+DTSTAMP:20261025T190000Z
+DTSTART:20261025T190000Z
+DTEND:20261025T210000Z
+SUMMARY:Orlando Pride – NJ/NY Gotham FC
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508585.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508590@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:NJ/NY Gotham FC – Utah Royals
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508590.ht
+ ml
+END:VEVENT
+END:VCALENDAR

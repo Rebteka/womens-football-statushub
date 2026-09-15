@@ -1,0 +1,1130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WK-League 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1533687@anstoss
+DTSTAMP:20260404T050000Z
+DTSTART:20260404T050000Z
+DTEND:20260404T070000Z
+SUMMARY:Gumi Sportstoto – Boeun Sangmu 0:1
+DESCRIPTION:WK-League · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533687.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533685@anstoss
+DTSTAMP:20260404T050000Z
+DTSTART:20260404T050000Z
+DTEND:20260404T070000Z
+SUMMARY:Gyeongju – Incheon Red Angels 0:2
+DESCRIPTION:WK-League · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533685.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533686@anstoss
+DTSTAMP:20260404T050000Z
+DTSTART:20260404T050000Z
+DTEND:20260404T070000Z
+SUMMARY:Hwacheon KSPO – Changnyeong 2:0
+DESCRIPTION:WK-League · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533688@anstoss
+DTSTAMP:20260404T050000Z
+DTSTART:20260404T050000Z
+DTEND:20260404T070000Z
+SUMMARY:Suwon FMC – Seoul 2:1
+DESCRIPTION:WK-League · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533688.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533689@anstoss
+DTSTAMP:20260410T100000Z
+DTSTART:20260410T100000Z
+DTEND:20260410T120000Z
+SUMMARY:Gyeongju – Gumi Sportstoto 1:2
+DESCRIPTION:WK-League · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533689.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533690@anstoss
+DTSTAMP:20260410T100000Z
+DTSTART:20260410T100000Z
+DTEND:20260410T120000Z
+SUMMARY:Incheon Red Angels – Seoul 1:0
+DESCRIPTION:WK-League · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533690.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533691@anstoss
+DTSTAMP:20260410T100000Z
+DTSTART:20260410T100000Z
+DTEND:20260410T120000Z
+SUMMARY:Suwon FMC – Hwacheon KSPO 1:0
+DESCRIPTION:WK-League · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533691.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533692@anstoss
+DTSTAMP:20260411T050000Z
+DTSTART:20260411T050000Z
+DTEND:20260411T070000Z
+SUMMARY:Boeun Sangmu – Changnyeong 1:0
+DESCRIPTION:WK-League · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533693@anstoss
+DTSTAMP:20260417T100000Z
+DTSTART:20260417T100000Z
+DTEND:20260417T120000Z
+SUMMARY:Incheon Red Angels – Suwon FMC 2:1
+DESCRIPTION:WK-League · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533693.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533694@anstoss
+DTSTAMP:20260417T100000Z
+DTSTART:20260417T100000Z
+DTEND:20260417T120000Z
+SUMMARY:Seoul – Gumi Sportstoto 2:1
+DESCRIPTION:WK-League · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533695@anstoss
+DTSTAMP:20260418T050000Z
+DTSTART:20260418T050000Z
+DTEND:20260418T070000Z
+SUMMARY:Gyeongju – Changnyeong 1:1
+DESCRIPTION:WK-League · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533695.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533696@anstoss
+DTSTAMP:20260418T050000Z
+DTSTART:20260418T050000Z
+DTEND:20260418T070000Z
+SUMMARY:Hwacheon KSPO – Boeun Sangmu 0:1
+DESCRIPTION:WK-League · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533697@anstoss
+DTSTAMP:20260422T100000Z
+DTSTART:20260422T100000Z
+DTEND:20260422T120000Z
+SUMMARY:Gumi Sportstoto – Suwon FMC 2:3
+DESCRIPTION:WK-League · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533698@anstoss
+DTSTAMP:20260424T100000Z
+DTSTART:20260424T100000Z
+DTEND:20260424T120000Z
+SUMMARY:Hwacheon KSPO – Incheon Red Angels 2:2
+DESCRIPTION:WK-League · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533698.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533699@anstoss
+DTSTAMP:20260424T100000Z
+DTSTART:20260424T100000Z
+DTEND:20260424T120000Z
+SUMMARY:Seoul – Changnyeong 0:2
+DESCRIPTION:WK-League · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533699.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533700@anstoss
+DTSTAMP:20260425T050000Z
+DTSTART:20260425T050000Z
+DTEND:20260425T070000Z
+SUMMARY:Boeun Sangmu – Gyeongju 1:1
+DESCRIPTION:WK-League · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533701@anstoss
+DTSTAMP:20260501T050000Z
+DTSTART:20260501T050000Z
+DTEND:20260501T070000Z
+SUMMARY:Incheon Red Angels – Gumi Sportstoto 0:1
+DESCRIPTION:WK-League · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533701.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533702@anstoss
+DTSTAMP:20260501T050000Z
+DTSTART:20260501T050000Z
+DTEND:20260501T070000Z
+SUMMARY:Suwon FMC – Changnyeong 1:2
+DESCRIPTION:WK-League · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533702.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533704@anstoss
+DTSTAMP:20260502T050000Z
+DTSTART:20260502T050000Z
+DTEND:20260502T070000Z
+SUMMARY:Boeun Sangmu – Seoul 3:0
+DESCRIPTION:WK-League · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533703@anstoss
+DTSTAMP:20260502T050000Z
+DTSTART:20260502T050000Z
+DTEND:20260502T070000Z
+SUMMARY:Hwacheon KSPO – Gyeongju 2:0
+DESCRIPTION:WK-League · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533703.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533706@anstoss
+DTSTAMP:20260505T050000Z
+DTSTART:20260505T050000Z
+DTEND:20260505T070000Z
+SUMMARY:Boeun Sangmu – Suwon FMC 1:3
+DESCRIPTION:WK-League · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533705@anstoss
+DTSTAMP:20260505T050000Z
+DTSTART:20260505T050000Z
+DTEND:20260505T070000Z
+SUMMARY:Changnyeong – Incheon Red Angels 1:3
+DESCRIPTION:WK-League · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533705.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533707@anstoss
+DTSTAMP:20260505T050000Z
+DTSTART:20260505T050000Z
+DTEND:20260505T070000Z
+SUMMARY:Gumi Sportstoto – Hwacheon KSPO 0:1
+DESCRIPTION:WK-League · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533707.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533708@anstoss
+DTSTAMP:20260505T050000Z
+DTSTART:20260505T050000Z
+DTEND:20260505T070000Z
+SUMMARY:Gyeongju – Seoul 0:1
+DESCRIPTION:WK-League · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533708.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533709@anstoss
+DTSTAMP:20260508T100000Z
+DTSTART:20260508T100000Z
+DTEND:20260508T120000Z
+SUMMARY:Hwacheon KSPO – Seoul 1:0
+DESCRIPTION:WK-League · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533709.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533712@anstoss
+DTSTAMP:20260509T050000Z
+DTSTART:20260509T050000Z
+DTEND:20260509T070000Z
+SUMMARY:Gumi Sportstoto – Changnyeong 3:1
+DESCRIPTION:WK-League · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533710@anstoss
+DTSTAMP:20260509T050000Z
+DTSTART:20260509T050000Z
+DTEND:20260509T070000Z
+SUMMARY:Gyeongju – Suwon FMC 0:2
+DESCRIPTION:WK-League · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533710.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533711@anstoss
+DTSTAMP:20260509T050000Z
+DTSTART:20260509T050000Z
+DTEND:20260509T070000Z
+SUMMARY:Incheon Red Angels – Boeun Sangmu 0:1
+DESCRIPTION:WK-League · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533711.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533713@anstoss
+DTSTAMP:20260515T100000Z
+DTSTART:20260515T100000Z
+DTEND:20260515T120000Z
+SUMMARY:Incheon Red Angels – Gyeongju 1:0
+DESCRIPTION:WK-League · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533716@anstoss
+DTSTAMP:20260516T050000Z
+DTSTART:20260516T050000Z
+DTEND:20260516T070000Z
+SUMMARY:Boeun Sangmu – Gumi Sportstoto 1:2
+DESCRIPTION:WK-League · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533715@anstoss
+DTSTAMP:20260516T050000Z
+DTSTART:20260516T050000Z
+DTEND:20260516T070000Z
+SUMMARY:Changnyeong – Hwacheon KSPO 0:2
+DESCRIPTION:WK-League · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533715.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533719@anstoss
+DTSTAMP:20260527T100000Z
+DTSTART:20260527T100000Z
+DTEND:20260527T120000Z
+SUMMARY:Gumi Sportstoto – Gyeongju 2:4
+DESCRIPTION:WK-League · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533719.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533720@anstoss
+DTSTAMP:20260527T100000Z
+DTSTART:20260527T100000Z
+DTEND:20260527T120000Z
+SUMMARY:Seoul – Incheon Red Angels 2:1
+DESCRIPTION:WK-League · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533720.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533723@anstoss
+DTSTAMP:20260530T073000Z
+DTSTART:20260530T073000Z
+DTEND:20260530T093000Z
+SUMMARY:Boeun Sangmu – Hwacheon KSPO 1:3
+DESCRIPTION:WK-League · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533723.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533721@anstoss
+DTSTAMP:20260530T073000Z
+DTSTART:20260530T073000Z
+DTEND:20260530T093000Z
+SUMMARY:Changnyeong – Gyeongju 2:3
+DESCRIPTION:WK-League · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533722@anstoss
+DTSTAMP:20260530T100000Z
+DTSTART:20260530T100000Z
+DTEND:20260530T120000Z
+SUMMARY:Incheon Red Angels – Suwon FMC 0:4
+DESCRIPTION:WK-League · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533722.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533724@anstoss
+DTSTAMP:20260531T100000Z
+DTSTART:20260531T100000Z
+DTEND:20260531T120000Z
+SUMMARY:Gumi Sportstoto – Seoul 3:1
+DESCRIPTION:WK-League · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533724.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533726@anstoss
+DTSTAMP:20260612T100000Z
+DTSTART:20260612T100000Z
+DTEND:20260612T120000Z
+SUMMARY:Suwon FMC – Gumi Sportstoto 6:0
+DESCRIPTION:WK-League · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533726.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533728@anstoss
+DTSTAMP:20260613T073000Z
+DTSTART:20260613T073000Z
+DTEND:20260613T093000Z
+SUMMARY:Boeun Sangmu – Gyeongju 0:3
+DESCRIPTION:WK-League · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533728.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533727@anstoss
+DTSTAMP:20260613T073000Z
+DTSTART:20260613T073000Z
+DTEND:20260613T093000Z
+SUMMARY:Changnyeong – Seoul 1:2
+DESCRIPTION:WK-League · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533727.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533729@anstoss
+DTSTAMP:20260617T100000Z
+DTSTART:20260617T100000Z
+DTEND:20260617T120000Z
+SUMMARY:Changnyeong – Suwon FMC 1:6
+DESCRIPTION:WK-League · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533729.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533731@anstoss
+DTSTAMP:20260617T100000Z
+DTSTART:20260617T100000Z
+DTEND:20260617T120000Z
+SUMMARY:Gumi Sportstoto – Incheon Red Angels 0:0
+DESCRIPTION:WK-League · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533731.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533730@anstoss
+DTSTAMP:20260617T100000Z
+DTSTART:20260617T100000Z
+DTEND:20260617T120000Z
+SUMMARY:Gyeongju – Hwacheon KSPO 0:1
+DESCRIPTION:WK-League · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533730.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533732@anstoss
+DTSTAMP:20260617T100000Z
+DTSTART:20260617T100000Z
+DTEND:20260617T120000Z
+SUMMARY:Seoul – Boeun Sangmu 2:1
+DESCRIPTION:WK-League · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533736@anstoss
+DTSTAMP:20260620T100000Z
+DTSTART:20260620T100000Z
+DTEND:20260620T120000Z
+SUMMARY:Boeun Sangmu – Suwon FMC 0:2
+DESCRIPTION:WK-League · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533736.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533734@anstoss
+DTSTAMP:20260620T100000Z
+DTSTART:20260620T100000Z
+DTEND:20260620T120000Z
+SUMMARY:Hwacheon KSPO – Gumi Sportstoto 2:0
+DESCRIPTION:WK-League · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533735@anstoss
+DTSTAMP:20260620T100000Z
+DTSTART:20260620T100000Z
+DTEND:20260620T120000Z
+SUMMARY:Incheon Red Angels – Changnyeong 3:2
+DESCRIPTION:WK-League · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533733@anstoss
+DTSTAMP:20260620T100000Z
+DTSTART:20260620T100000Z
+DTEND:20260620T120000Z
+SUMMARY:Seoul – Gyeongju 1:3
+DESCRIPTION:WK-League · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533733.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533738@anstoss
+DTSTAMP:20260626T100000Z
+DTSTART:20260626T100000Z
+DTEND:20260626T120000Z
+SUMMARY:Suwon FMC – Gyeongju 1:2
+DESCRIPTION:WK-League · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533738.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533740@anstoss
+DTSTAMP:20260627T100000Z
+DTSTART:20260627T100000Z
+DTEND:20260627T120000Z
+SUMMARY:Boeun Sangmu – Incheon Red Angels 1:1
+DESCRIPTION:WK-League · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533740.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533739@anstoss
+DTSTAMP:20260627T100000Z
+DTSTART:20260627T100000Z
+DTEND:20260627T120000Z
+SUMMARY:Changnyeong – Gumi Sportstoto 0:0
+DESCRIPTION:WK-League · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533717@anstoss
+DTSTAMP:20260701T100000Z
+DTSTART:20260701T100000Z
+DTEND:20260701T120000Z
+SUMMARY:Changnyeong – Boeun Sangmu 1:2
+DESCRIPTION:WK-League · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533717.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533714@anstoss
+DTSTAMP:20260701T100000Z
+DTSTART:20260701T100000Z
+DTEND:20260701T120000Z
+SUMMARY:Seoul – Suwon FMC 0:3
+DESCRIPTION:WK-League · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533718@anstoss
+DTSTAMP:20260707T100000Z
+DTSTART:20260707T100000Z
+DTEND:20260707T120000Z
+SUMMARY:Hwacheon KSPO – Suwon FMC 1:2
+DESCRIPTION:WK-League · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533718.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533741@anstoss
+DTSTAMP:20260710T100000Z
+DTSTART:20260710T100000Z
+DTEND:20260710T120000Z
+SUMMARY:Gumi Sportstoto – Boeun Sangmu 0:1
+DESCRIPTION:WK-League · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533742@anstoss
+DTSTAMP:20260710T100000Z
+DTSTART:20260710T100000Z
+DTEND:20260710T120000Z
+SUMMARY:Seoul – Suwon FMC 0:3
+DESCRIPTION:WK-League · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533743@anstoss
+DTSTAMP:20260711T100000Z
+DTSTART:20260711T100000Z
+DTEND:20260711T120000Z
+SUMMARY:Gyeongju – Incheon Red Angels 2:1
+DESCRIPTION:WK-League · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533743.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533744@anstoss
+DTSTAMP:20260711T100000Z
+DTSTART:20260711T100000Z
+DTEND:20260711T120000Z
+SUMMARY:Hwacheon KSPO – Changnyeong 5:1
+DESCRIPTION:WK-League · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533745@anstoss
+DTSTAMP:20260717T100000Z
+DTSTART:20260717T100000Z
+DTEND:20260717T120000Z
+SUMMARY:Suwon FMC – Hwacheon KSPO 0:0
+DESCRIPTION:WK-League · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533748@anstoss
+DTSTAMP:20260718T100000Z
+DTSTART:20260718T100000Z
+DTEND:20260718T120000Z
+SUMMARY:Boeun Sangmu – Changnyeong 0:1
+DESCRIPTION:WK-League · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533748.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533746@anstoss
+DTSTAMP:20260718T100000Z
+DTSTART:20260718T100000Z
+DTEND:20260718T120000Z
+SUMMARY:Gyeongju – Gumi Sportstoto 0:0
+DESCRIPTION:WK-League · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533747@anstoss
+DTSTAMP:20260718T100000Z
+DTSTART:20260718T100000Z
+DTEND:20260718T120000Z
+SUMMARY:Incheon Red Angels – Seoul 0:2
+DESCRIPTION:WK-League · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533747.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533749@anstoss
+DTSTAMP:20260724T100000Z
+DTSTART:20260724T100000Z
+DTEND:20260724T120000Z
+SUMMARY:Gyeongju – Changnyeong 6:1
+DESCRIPTION:WK-League · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533750@anstoss
+DTSTAMP:20260724T100000Z
+DTSTART:20260724T100000Z
+DTEND:20260724T120000Z
+SUMMARY:Hwacheon KSPO – Boeun Sangmu 2:0
+DESCRIPTION:WK-League · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533751@anstoss
+DTSTAMP:20260724T100000Z
+DTSTART:20260724T100000Z
+DTEND:20260724T120000Z
+SUMMARY:Seoul – Gumi Sportstoto 0:3
+DESCRIPTION:WK-League · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533752@anstoss
+DTSTAMP:20260724T100000Z
+DTSTART:20260724T100000Z
+DTEND:20260724T120000Z
+SUMMARY:Suwon FMC – Incheon Red Angels 4:0
+DESCRIPTION:WK-League · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533752.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533753@anstoss
+DTSTAMP:20260731T100000Z
+DTSTART:20260731T100000Z
+DTEND:20260731T120000Z
+SUMMARY:Incheon Red Angels – Hwacheon KSPO 0:2
+DESCRIPTION:WK-League · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533754@anstoss
+DTSTAMP:20260731T100000Z
+DTSTART:20260731T100000Z
+DTEND:20260731T120000Z
+SUMMARY:Suwon FMC – Gumi Sportstoto 4:1
+DESCRIPTION:WK-League · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533755@anstoss
+DTSTAMP:20260801T100000Z
+DTSTART:20260801T100000Z
+DTEND:20260801T120000Z
+SUMMARY:Gyeongju – Boeun Sangmu 3:2
+DESCRIPTION:WK-League · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533755.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533756@anstoss
+DTSTAMP:20260801T100000Z
+DTSTART:20260801T100000Z
+DTEND:20260801T120000Z
+SUMMARY:Seoul – Changnyeong 3:1
+DESCRIPTION:WK-League · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533758@anstoss
+DTSTAMP:20260807T100000Z
+DTSTART:20260807T100000Z
+DTEND:20260807T120000Z
+SUMMARY:Incheon Red Angels – Gumi Sportstoto 0:1
+DESCRIPTION:WK-League · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533757@anstoss
+DTSTAMP:20260807T103000Z
+DTSTART:20260807T103000Z
+DTEND:20260807T123000Z
+SUMMARY:Hwacheon KSPO – Gyeongju 1:1
+DESCRIPTION:WK-League · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533759@anstoss
+DTSTAMP:20260807T103000Z
+DTSTART:20260807T103000Z
+DTEND:20260807T123000Z
+SUMMARY:Suwon FMC – Changnyeong 0:0
+DESCRIPTION:WK-League · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533759.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533760@anstoss
+DTSTAMP:20260808T103000Z
+DTSTART:20260808T103000Z
+DTEND:20260808T123000Z
+SUMMARY:Boeun Sangmu – Seoul 2:1
+DESCRIPTION:WK-League · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533760.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533725@anstoss
+DTSTAMP:20260811T100000Z
+DTSTART:20260811T100000Z
+DTEND:20260811T120000Z
+SUMMARY:Hwacheon KSPO – Incheon Red Angels 1:0
+DESCRIPTION:WK-League · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533725.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533761@anstoss
+DTSTAMP:20260814T100000Z
+DTSTART:20260814T100000Z
+DTEND:20260814T120000Z
+SUMMARY:Seoul – Gyeongju 0:0
+DESCRIPTION:WK-League · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533762@anstoss
+DTSTAMP:20260814T100000Z
+DTSTART:20260814T100000Z
+DTEND:20260814T120000Z
+SUMMARY:Suwon FMC – Boeun Sangmu 3:1
+DESCRIPTION:WK-League · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533763@anstoss
+DTSTAMP:20260815T100000Z
+DTSTART:20260815T100000Z
+DTEND:20260815T120000Z
+SUMMARY:Changnyeong – Incheon Red Angels 1:1
+DESCRIPTION:WK-League · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533764@anstoss
+DTSTAMP:20260815T100000Z
+DTSTART:20260815T100000Z
+DTEND:20260815T120000Z
+SUMMARY:Gumi Sportstoto – Hwacheon KSPO 0:0
+DESCRIPTION:WK-League · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533767@anstoss
+DTSTAMP:20260821T100000Z
+DTSTART:20260821T100000Z
+DTEND:20260821T120000Z
+SUMMARY:Gumi Sportstoto – Changnyeong 2:0
+DESCRIPTION:WK-League · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533767.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533765@anstoss
+DTSTAMP:20260821T100000Z
+DTSTART:20260821T100000Z
+DTEND:20260821T120000Z
+SUMMARY:Hwacheon KSPO – Seoul 0:0
+DESCRIPTION:WK-League · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533766@anstoss
+DTSTAMP:20260821T100000Z
+DTSTART:20260821T100000Z
+DTEND:20260821T120000Z
+SUMMARY:Incheon Red Angels – Boeun Sangmu 1:2
+DESCRIPTION:WK-League · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533766.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533768@anstoss
+DTSTAMP:20260822T100000Z
+DTSTART:20260822T100000Z
+DTEND:20260822T120000Z
+SUMMARY:Gyeongju – Suwon FMC 2:3
+DESCRIPTION:WK-League · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533769@anstoss
+DTSTAMP:20260828T100000Z
+DTSTART:20260828T100000Z
+DTEND:20260828T120000Z
+SUMMARY:Incheon Red Angels – Gyeongju 1:1
+DESCRIPTION:WK-League · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533769.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533770@anstoss
+DTSTAMP:20260828T100000Z
+DTSTART:20260828T100000Z
+DTEND:20260828T120000Z
+SUMMARY:Suwon FMC – Seoul 2:1
+DESCRIPTION:WK-League · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533772@anstoss
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+SUMMARY:Boeun Sangmu – Gumi Sportstoto 0:1
+DESCRIPTION:WK-League · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533772.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533771@anstoss
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+SUMMARY:Changnyeong – Hwacheon KSPO 1:1
+DESCRIPTION:WK-League · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533771.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533773@anstoss
+DTSTAMP:20260902T100000Z
+DTSTART:20260902T100000Z
+DTEND:20260902T120000Z
+SUMMARY:Changnyeong – Boeun Sangmu 0:1
+DESCRIPTION:WK-League · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533773.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533775@anstoss
+DTSTAMP:20260902T100000Z
+DTSTART:20260902T100000Z
+DTEND:20260902T120000Z
+SUMMARY:Gumi Sportstoto – Gyeongju 0:1
+DESCRIPTION:WK-League · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533775.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533774@anstoss
+DTSTAMP:20260902T100000Z
+DTSTART:20260902T100000Z
+DTEND:20260902T120000Z
+SUMMARY:Hwacheon KSPO – Suwon FMC 2:0
+DESCRIPTION:WK-League · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533774.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533776@anstoss
+DTSTAMP:20260902T100000Z
+DTSTART:20260902T100000Z
+DTEND:20260902T120000Z
+SUMMARY:Seoul – Incheon Red Angels 1:0
+DESCRIPTION:WK-League · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533778@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Boeun Sangmu – Hwacheon KSPO 1:1
+DESCRIPTION:WK-League · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533778.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533777@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Changnyeong – Gyeongju 1:1
+DESCRIPTION:WK-League · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533777.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533779@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Gumi Sportstoto – Seoul 0:2
+DESCRIPTION:WK-League · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533780@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Suwon FMC – Incheon Red Angels 2:0
+DESCRIPTION:WK-League · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533737@anstoss
+DTSTAMP:20260914T100000Z
+DTSTART:20260914T100000Z
+DTEND:20260914T120000Z
+SUMMARY:Seoul – Hwacheon KSPO 0:0
+DESCRIPTION:WK-League · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533782@anstoss
+DTSTAMP:20261002T100000Z
+DTSTART:20261002T100000Z
+DTEND:20261002T120000Z
+SUMMARY:Gumi Sportstoto – Suwon FMC
+DESCRIPTION:WK-League · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533782.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533781@anstoss
+DTSTAMP:20261002T100000Z
+DTSTART:20261002T100000Z
+DTEND:20261002T120000Z
+SUMMARY:Hwacheon KSPO – Incheon Red Angels
+DESCRIPTION:WK-League · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533781.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533783@anstoss
+DTSTAMP:20261003T050000Z
+DTSTART:20261003T050000Z
+DTEND:20261003T070000Z
+SUMMARY:Changnyeong – Seoul
+DESCRIPTION:WK-League · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533783.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533784@anstoss
+DTSTAMP:20261003T050000Z
+DTSTART:20261003T050000Z
+DTEND:20261003T070000Z
+SUMMARY:Gyeongju – Boeun Sangmu
+DESCRIPTION:WK-League · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533784.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533785@anstoss
+DTSTAMP:20261007T100000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Changnyeong – Suwon FMC
+DESCRIPTION:WK-League · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533785.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533787@anstoss
+DTSTAMP:20261007T100000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Gumi Sportstoto – Incheon Red Angels
+DESCRIPTION:WK-League · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533786@anstoss
+DTSTAMP:20261007T100000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Gyeongju – Hwacheon KSPO
+DESCRIPTION:WK-League · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533786.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533788@anstoss
+DTSTAMP:20261007T100000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Seoul – Boeun Sangmu
+DESCRIPTION:WK-League · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533789@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Gyeongju – Seoul
+DESCRIPTION:WK-League · 27. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533790@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Hwacheon KSPO – Gumi Sportstoto
+DESCRIPTION:WK-League · 27. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533790.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533791@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Incheon Red Angels – Changnyeong
+DESCRIPTION:WK-League · 27. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533791.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533792@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Suwon FMC – Boeun Sangmu
+DESCRIPTION:WK-League · 27. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533792.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533794@anstoss
+DTSTAMP:20261031T050000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Boeun Sangmu – Incheon Red Angels
+DESCRIPTION:WK-League · 28. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533794.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533793@anstoss
+DTSTAMP:20261031T050000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Changnyeong – Gumi Sportstoto
+DESCRIPTION:WK-League · 28. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533793.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533795@anstoss
+DTSTAMP:20261031T050000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Seoul – Hwacheon KSPO
+DESCRIPTION:WK-League · 28. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533795.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533796@anstoss
+DTSTAMP:20261031T050000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Suwon FMC – Gyeongju
+DESCRIPTION:WK-League · 28. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533796.ht
+ ml
+END:VEVENT
+END:VCALENDAR

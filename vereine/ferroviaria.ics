@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ferroviaria
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522330@anstoss
+DTSTAMP:20260215T200000Z
+DTSTART:20260215T200000Z
+DTEND:20260215T220000Z
+SUMMARY:RB Bragantino – Ferroviaria 2:0
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522337@anstoss
+DTSTAMP:20260221T210000Z
+DTSTART:20260221T210000Z
+DTEND:20260221T230000Z
+SUMMARY:Ferroviaria – Botafogo 2:1
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522343@anstoss
+DTSTAMP:20260314T190000Z
+DTSTART:20260314T190000Z
+DTEND:20260314T210000Z
+SUMMARY:São Paulo – Ferroviaria 0:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522352@anstoss
+DTSTAMP:20260321T210000Z
+DTSTART:20260321T210000Z
+DTEND:20260321T230000Z
+SUMMARY:Ferroviaria – Gremio 0:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522359@anstoss
+DTSTAMP:20260327T220000Z
+DTSTART:20260327T220000Z
+DTEND:20260328T000000Z
+SUMMARY:Santos – Ferroviaria 1:1
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+LOCATION:Estadio Urbano Caldeira\, Santos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522365@anstoss
+DTSTAMP:20260331T000000Z
+DTSTART:20260331T000000Z
+DTEND:20260331T020000Z
+SUMMARY:Ferroviaria – Cruzeiro 1:1
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522375@anstoss
+DTSTAMP:20260420T220000Z
+DTSTART:20260420T220000Z
+DTEND:20260421T000000Z
+SUMMARY:Ferroviaria – America Mineiro 4:1
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522376@anstoss
+DTSTAMP:20260425T000000Z
+DTSTART:20260425T000000Z
+DTEND:20260425T020000Z
+SUMMARY:Corinthians – Ferroviaria 3:1
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522462@anstoss
+DTSTAMP:20260501T200000Z
+DTSTART:20260501T200000Z
+DTEND:20260501T220000Z
+SUMMARY:Ferroviaria – Mixto 3:0
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522392@anstoss
+DTSTAMP:20260511T220000Z
+DTSTART:20260511T220000Z
+DTEND:20260512T000000Z
+SUMMARY:Flamengo – Ferroviaria 1:1
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522465@anstoss
+DTSTAMP:20260518T220000Z
+DTSTART:20260518T220000Z
+DTEND:20260519T000000Z
+SUMMARY:Ferroviaria – Vitória BA 2:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522408@anstoss
+DTSTAMP:20260524T210000Z
+DTSTART:20260524T210000Z
+DTEND:20260524T230000Z
+SUMMARY:Atlético Mineiro – Ferroviaria 2:3
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Estadio Municipal Castor Cifuentes\, Nova Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522416@anstoss
+DTSTAMP:20260726T180000Z
+DTSTART:20260726T180000Z
+DTEND:20260726T200000Z
+SUMMARY:Juventude – Ferroviaria 0:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+LOCATION:Homero Soldatelli\, Flores da Cunha
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522421@anstoss
+DTSTAMP:20260802T210000Z
+DTSTART:20260802T210000Z
+DTEND:20260802T230000Z
+SUMMARY:Ferroviaria – Bahia 1:0
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522426@anstoss
+DTSTAMP:20260808T190000Z
+DTSTART:20260808T190000Z
+DTEND:20260808T210000Z
+SUMMARY:Ferroviaria – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522436@anstoss
+DTSTAMP:20260815T220000Z
+DTSTART:20260815T220000Z
+DTEND:20260816T000000Z
+SUMMARY:Internacional RS – Ferroviaria 1:2
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522442@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Ferroviaria – Fluminense 1:1
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634046@anstoss
+DTSTAMP:20260829T193000Z
+DTSTART:20260829T193000Z
+DTEND:20260829T213000Z
+SUMMARY:Flamengo – Ferroviaria 1:0
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634049@anstoss
+DTSTAMP:20260905T193000Z
+DTSTART:20260905T193000Z
+DTEND:20260905T213000Z
+SUMMARY:Ferroviaria – Flamengo 2:2
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634049.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:America Mineiro
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522327@anstoss
+DTSTAMP:20260214T000000Z
+DTSTART:20260214T000000Z
+DTEND:20260214T020000Z
+SUMMARY:Palmeiras – America Mineiro 4:0
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522336@anstoss
+DTSTAMP:20260221T180000Z
+DTSTART:20260221T180000Z
+DTEND:20260221T200000Z
+SUMMARY:America Mineiro – Internacional RS 0:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522347@anstoss
+DTSTAMP:20260314T180000Z
+DTSTART:20260314T180000Z
+DTEND:20260314T200000Z
+SUMMARY:America Mineiro – Juventude 0:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522348@anstoss
+DTSTAMP:20260324T000000Z
+DTSTART:20260324T000000Z
+DTEND:20260324T020000Z
+SUMMARY:Corinthians – America Mineiro 4:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522454@anstoss
+DTSTAMP:20260328T180000Z
+DTSTART:20260328T180000Z
+DTEND:20260328T200000Z
+SUMMARY:America Mineiro – Mixto 1:1
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522454.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522367@anstoss
+DTSTAMP:20260401T190000Z
+DTSTART:20260401T190000Z
+DTEND:20260401T210000Z
+SUMMARY:Bahia – America Mineiro 3:1
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522375@anstoss
+DTSTAMP:20260420T220000Z
+DTSTART:20260420T220000Z
+DTEND:20260421T000000Z
+SUMMARY:Ferroviaria – America Mineiro 4:1
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522378@anstoss
+DTSTAMP:20260427T210000Z
+DTSTART:20260427T210000Z
+DTEND:20260427T230000Z
+SUMMARY:America Mineiro – São Paulo 0:0
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522461@anstoss
+DTSTAMP:20260502T180000Z
+DTSTART:20260502T180000Z
+DTEND:20260502T200000Z
+SUMMARY:America Mineiro – Vitória BA 0:0
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522393@anstoss
+DTSTAMP:20260508T220000Z
+DTSTART:20260508T220000Z
+DTEND:20260509T000000Z
+SUMMARY:Cruzeiro – America Mineiro 4:0
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522403@anstoss
+DTSTAMP:20260516T180000Z
+DTSTART:20260516T180000Z
+DTEND:20260516T200000Z
+SUMMARY:America Mineiro – Atlético Mineiro 0:2
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522410@anstoss
+DTSTAMP:20260524T190000Z
+DTSTART:20260524T190000Z
+DTEND:20260524T210000Z
+SUMMARY:Botafogo – America Mineiro 0:3
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Estadio Olimpico Nilton Santos\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522415@anstoss
+DTSTAMP:20260724T220000Z
+DTSTART:20260724T220000Z
+DTEND:20260725T000000Z
+SUMMARY:America Mineiro – Santos 0:1
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522424@anstoss
+DTSTAMP:20260801T190000Z
+DTSTART:20260801T190000Z
+DTEND:20260801T210000Z
+SUMMARY:Gremio – America Mineiro 1:0
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522428@anstoss
+DTSTAMP:20260811T000000Z
+DTSTART:20260811T000000Z
+DTEND:20260811T020000Z
+SUMMARY:America Mineiro – Flamengo 1:1
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522428.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522438@anstoss
+DTSTAMP:20260815T180000Z
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+SUMMARY:Fluminense – America Mineiro 4:1
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522445@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:America Mineiro – RB Bragantino 1:2
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522445.ht
+ ml
+END:VEVENT
+END:VCALENDAR

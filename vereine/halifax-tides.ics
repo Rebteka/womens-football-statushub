@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Halifax Tides
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1534034@anstoss
+DTSTAMP:20260425T160000Z
+DTSTART:20260425T160000Z
+DTEND:20260425T180000Z
+SUMMARY:Halifax Tides – Ottawa Rapid 3:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534038@anstoss
+DTSTAMP:20260503T160000Z
+DTSTART:20260503T160000Z
+DTEND:20260503T180000Z
+SUMMARY:AFC Toronto – Halifax Tides 0:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534041@anstoss
+DTSTAMP:20260513T230000Z
+DTSTART:20260513T230000Z
+DTEND:20260514T010000Z
+SUMMARY:Ottawa Rapid – Halifax Tides 2:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534043@anstoss
+DTSTAMP:20260518T210000Z
+DTSTART:20260518T210000Z
+DTEND:20260518T230000Z
+SUMMARY:Halifax Tides – Vancouver Rise 1:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534046@anstoss
+DTSTAMP:20260524T230000Z
+DTSTART:20260524T230000Z
+DTEND:20260525T010000Z
+SUMMARY:Calgary Wild – Halifax Tides 0:4
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534047@anstoss
+DTSTAMP:20260529T210000Z
+DTSTART:20260529T210000Z
+DTEND:20260529T230000Z
+SUMMARY:Halifax Tides – Ottawa Rapid 1:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534050@anstoss
+DTSTAMP:20260613T163000Z
+DTSTART:20260613T163000Z
+DTEND:20260613T183000Z
+SUMMARY:Halifax Tides – Calgary Wild 2:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534050.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534053@anstoss
+DTSTAMP:20260618T140000Z
+DTSTART:20260618T140000Z
+DTEND:20260618T160000Z
+SUMMARY:Halifax Tides – Vancouver Rise 1:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534053.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534057@anstoss
+DTSTAMP:20260627T230000Z
+DTSTART:20260627T230000Z
+DTEND:20260628T010000Z
+SUMMARY:Calgary Wild – Halifax Tides 0:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534057.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534061@anstoss
+DTSTAMP:20260705T210000Z
+DTSTART:20260705T210000Z
+DTEND:20260705T230000Z
+SUMMARY:Halifax Tides – AFC Toronto 0:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534061.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534064@anstoss
+DTSTAMP:20260712T200000Z
+DTSTART:20260712T200000Z
+DTEND:20260712T220000Z
+SUMMARY:Montreal Roses – Halifax Tides 1:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534064.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534065@anstoss
+DTSTAMP:20260716T230000Z
+DTSTART:20260716T230000Z
+DTEND:20260717T010000Z
+SUMMARY:Ottawa Rapid – Halifax Tides 2:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534065.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534069@anstoss
+DTSTAMP:20260725T200000Z
+DTSTART:20260725T200000Z
+DTEND:20260725T220000Z
+SUMMARY:Vancouver Rise – Halifax Tides 0:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534069.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534073@anstoss
+DTSTAMP:20260803T180000Z
+DTSTART:20260803T180000Z
+DTEND:20260803T200000Z
+SUMMARY:Halifax Tides – Ottawa Rapid 2:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534073.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534074@anstoss
+DTSTAMP:20260807T230000Z
+DTSTART:20260807T230000Z
+DTEND:20260808T010000Z
+SUMMARY:Montreal Roses – Halifax Tides 0:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534074.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534078@anstoss
+DTSTAMP:20260816T013000Z
+DTSTART:20260816T013000Z
+DTEND:20260816T033000Z
+SUMMARY:Vancouver Rise – Halifax Tides 2:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534078.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534081@anstoss
+DTSTAMP:20260823T160000Z
+DTSTART:20260823T160000Z
+DTEND:20260823T180000Z
+SUMMARY:Halifax Tides – AFC Toronto 0:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534081.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534083@anstoss
+DTSTAMP:20260829T180000Z
+DTSTART:20260829T180000Z
+DTEND:20260829T200000Z
+SUMMARY:Montreal Roses – Halifax Tides 1:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534083.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534086@anstoss
+DTSTAMP:20260905T230000Z
+DTSTART:20260905T230000Z
+DTEND:20260906T010000Z
+SUMMARY:Vancouver Rise – Halifax Tides 0:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534086.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534090@anstoss
+DTSTAMP:20260912T180000Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:Calgary Wild – Halifax Tides
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534090.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534092@anstoss
+DTSTAMP:20260919T180000Z
+DTSTART:20260919T180000Z
+DTEND:20260919T200000Z
+SUMMARY:Halifax Tides – AFC Toronto
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534092.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534096@anstoss
+DTSTAMP:20260927T160000Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:Halifax Tides – Montreal Roses
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534096.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534099@anstoss
+DTSTAMP:20261003T180000Z
+DTSTART:20261003T180000Z
+DTEND:20261003T200000Z
+SUMMARY:Halifax Tides – Calgary Wild
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534099.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534101@anstoss
+DTSTAMP:20261017T180000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Halifax Tides – Montreal Roses
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534101.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534106@anstoss
+DTSTAMP:20261027T000000Z
+DTSTART:20261027T000000Z
+DTEND:20261027T020000Z
+SUMMARY:AFC Toronto – Halifax Tides
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534106.ht
+ ml
+END:VEVENT
+END:VCALENDAR

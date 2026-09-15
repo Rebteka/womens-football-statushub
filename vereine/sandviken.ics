@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandviken
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501358@anstoss
+DTSTAMP:20260328T130000Z
+DTSTART:20260328T130000Z
+DTEND:20260328T150000Z
+SUMMARY:Sandviken – Gamla Upsala 1:2
+DESCRIPTION:Elitettan · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501364@anstoss
+DTSTAMP:20260404T120000Z
+DTSTART:20260404T120000Z
+DTEND:20260404T140000Z
+SUMMARY:Trelleborg – Sandviken 1:0
+DESCRIPTION:Elitettan · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501370@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Sandviken – KIF Örebro 1:5
+DESCRIPTION:Elitettan · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501378@anstoss
+DTSTAMP:20260501T130000Z
+DTSTART:20260501T130000Z
+DTEND:20260501T150000Z
+SUMMARY:Örebro SK – Sandviken 1:1
+DESCRIPTION:Elitettan · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501385@anstoss
+DTSTAMP:20260510T110000Z
+DTSTART:20260510T110000Z
+DTEND:20260510T130000Z
+SUMMARY:Sandviken – Göteborg 0:5
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501393@anstoss
+DTSTAMP:20260516T120000Z
+DTSTART:20260516T120000Z
+DTEND:20260516T140000Z
+SUMMARY:Umeå – Sandviken 2:0
+DESCRIPTION:Elitettan · 6. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501397@anstoss
+DTSTAMP:20260523T130000Z
+DTSTART:20260523T130000Z
+DTEND:20260523T150000Z
+SUMMARY:Linköping – Sandviken 1:0
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501406@anstoss
+DTSTAMP:20260530T110000Z
+DTSTART:20260530T110000Z
+DTEND:20260530T130000Z
+SUMMARY:Sandviken – Jitex 0:0
+DESCRIPTION:Elitettan · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501412@anstoss
+DTSTAMP:20260613T120000Z
+DTSTART:20260613T120000Z
+DTEND:20260613T140000Z
+SUMMARY:Sandviken – Husqvarna 3:4
+DESCRIPTION:Elitettan · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503704@anstoss
+DTSTAMP:20260621T110000Z
+DTSTART:20260621T110000Z
+DTEND:20260621T130000Z
+SUMMARY:Enskede – Sandviken 4:0
+DESCRIPTION:Elitettan · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501426@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:Sandviken – Alingsås 3:3
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501432@anstoss
+DTSTAMP:20260802T140000Z
+DTSTART:20260802T140000Z
+DTEND:20260802T160000Z
+SUMMARY:Häcken II – Sandviken 3:4
+DESCRIPTION:Elitettan · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501440@anstoss
+DTSTAMP:20260808T120000Z
+DTSTART:20260808T120000Z
+DTEND:20260808T140000Z
+SUMMARY:Sandviken – Elfsborg 0:4
+DESCRIPTION:Elitettan · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501445@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Göteborg – Sandviken 6:0
+DESCRIPTION:Elitettan · 14. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501454@anstoss
+DTSTAMP:20260822T130000Z
+DTSTART:20260822T130000Z
+DTEND:20260822T150000Z
+SUMMARY:Sandviken – Häcken II 2:3
+DESCRIPTION:Elitettan · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501454.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501459@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Gamla Upsala – Sandviken 1:3
+DESCRIPTION:Elitettan · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501468@anstoss
+DTSTAMP:20260905T130000Z
+DTSTART:20260905T130000Z
+DTEND:20260905T150000Z
+SUMMARY:Sandviken – Örebro SK 1:1
+DESCRIPTION:Elitettan · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501476@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Sandviken – Trelleborg 0:0
+DESCRIPTION:Elitettan · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501478@anstoss
+DTSTAMP:20260919T130000Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Elfsborg – Sandviken
+DESCRIPTION:Elitettan · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501490@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Sandviken – Umeå
+DESCRIPTION:Elitettan · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501496@anstoss
+DTSTAMP:20261003T140000Z
+DTSTART:20261003T140000Z
+DTEND:20261003T160000Z
+SUMMARY:KIF Örebro – Sandviken
+DESCRIPTION:Elitettan · 21. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501501@anstoss
+DTSTAMP:20261017T120000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:Husqvarna – Sandviken
+DESCRIPTION:Elitettan · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501511@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:Sandviken – Linköping
+DESCRIPTION:Elitettan · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501511.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501515@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Jitex – Sandviken
+DESCRIPTION:Elitettan · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501515.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503719@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:Sandviken – Enskede
+DESCRIPTION:Elitettan · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503719.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501527@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Alingsås – Sandviken
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501527.ht
+ ml
+END:VEVENT
+END:VCALENDAR

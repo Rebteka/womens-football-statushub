@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ružomberok
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1566587@anstoss
+DTSTAMP:20260815T100000Z
+DTSTART:20260815T100000Z
+DTEND:20260815T120000Z
+SUMMARY:Ružomberok – Komárno 1:2
+DESCRIPTION:I Liga - Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566592@anstoss
+DTSTAMP:20260822T133000Z
+DTSTART:20260822T133000Z
+DTEND:20260822T153000Z
+SUMMARY:Trenčín – Ružomberok 7:0
+DESCRIPTION:I Liga - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566592.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566595@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Ružomberok – Spartak Trnava 3:0
+DESCRIPTION:I Liga - Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566661@anstoss
+DTSTAMP:20260905T130000Z
+DTSTART:20260905T130000Z
+DTEND:20260905T150000Z
+SUMMARY:Z. Moravce-Vrable – Ružomberok 3:1
+DESCRIPTION:I Liga - Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566603@anstoss
+DTSTAMP:20260912T090000Z
+DTSTART:20260912T090000Z
+DTEND:20260912T110000Z
+SUMMARY:Ružomberok – Spartak Myjava 1:4
+DESCRIPTION:I Liga - Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566608@anstoss
+DTSTAMP:20260919T130000Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Slovan Bratislava – Ružomberok
+DESCRIPTION:I Liga - Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566612@anstoss
+DTSTAMP:20260926T090000Z
+DTSTART:20260926T090000Z
+DTEND:20260926T110000Z
+SUMMARY:Ružomberok – Tatran Prešov
+DESCRIPTION:I Liga - Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566612.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566614@anstoss
+DTSTAMP:20261003T123000Z
+DTSTART:20261003T123000Z
+DTEND:20261003T143000Z
+SUMMARY:Petržalka – Ružomberok
+DESCRIPTION:I Liga - Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566614.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566619@anstoss
+DTSTAMP:20261017T090000Z
+DTSTART:20261017T090000Z
+DTEND:20261017T110000Z
+SUMMARY:Ružomberok – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566619.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566622@anstoss
+DTSTAMP:20261024T090000Z
+DTSTART:20261024T090000Z
+DTEND:20261024T110000Z
+SUMMARY:Komárno – Ružomberok
+DESCRIPTION:I Liga - Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566622.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566628@anstoss
+DTSTAMP:20261031T100000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Ružomberok – Trenčín
+DESCRIPTION:I Liga - Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566630@anstoss
+DTSTAMP:20261107T100000Z
+DTSTART:20261107T100000Z
+DTEND:20261107T120000Z
+SUMMARY:Spartak Trnava – Ružomberok
+DESCRIPTION:I Liga - Women · 12. Spieltag
+LOCATION:City Arena Trnava\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566670@anstoss
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T100000Z
+DTEND:20261114T120000Z
+SUMMARY:Ružomberok – Z. Moravce-Vrable
+DESCRIPTION:I Liga - Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566670.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566641@anstoss
+DTSTAMP:20261121T170000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+SUMMARY:Spartak Myjava – Ružomberok
+DESCRIPTION:I Liga - Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566644@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART:20270213T100000Z
+DTEND:20270213T120000Z
+SUMMARY:Ružomberok – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566647@anstoss
+DTSTAMP:20270220T133000Z
+DTSTART:20270220T133000Z
+DTEND:20270220T153000Z
+SUMMARY:Tatran Prešov – Ružomberok
+DESCRIPTION:I Liga - Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566651@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART:20270313T100000Z
+DTEND:20270313T120000Z
+SUMMARY:Ružomberok – Petržalka
+DESCRIPTION:I Liga - Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566655@anstoss
+DTSTAMP:20270320T133000Z
+DTSTART:20270320T133000Z
+DTEND:20270320T153000Z
+SUMMARY:Dukla Banská Bystrica – Ružomberok
+DESCRIPTION:I Liga - Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566655.ht
+ ml
+END:VEVENT
+END:VCALENDAR

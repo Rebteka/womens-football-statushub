@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Monterrey
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603303@anstoss
+DTSTAMP:20260802T031000Z
+DTSTART:20260802T031000Z
+DTEND:20260802T051000Z
+SUMMARY:Tijuana – Monterrey 1:2
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603313@anstoss
+DTSTAMP:20260809T020000Z
+DTSTART:20260809T020000Z
+DTEND:20260809T040000Z
+SUMMARY:Monterrey – Atlante 3:1
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603326@anstoss
+DTSTAMP:20260818T010600Z
+DTSTART:20260818T010600Z
+DTEND:20260818T030600Z
+SUMMARY:Santos Laguna – Monterrey 1:4
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603328@anstoss
+DTSTAMP:20260822T030000Z
+DTSTART:20260822T030000Z
+DTEND:20260822T050000Z
+SUMMARY:Monterrey – León 2:3
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603337@anstoss
+DTSTAMP:20260829T230000Z
+DTSTART:20260829T230000Z
+DTEND:20260830T010000Z
+SUMMARY:Querétaro – Monterrey 0:4
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603348@anstoss
+DTSTAMP:20260906T010000Z
+DTSTART:20260906T010000Z
+DTEND:20260906T030000Z
+SUMMARY:Monterrey – Toluca 5:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603356@anstoss
+DTSTAMP:20260912T230700Z
+DTSTART:20260912T230700Z
+DTEND:20260913T010700Z
+SUMMARY:Guadalajara – Monterrey 2:3
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603363@anstoss
+DTSTAMP:20260919T030000Z
+DTSTART:20260919T030000Z
+DTEND:20260919T050000Z
+SUMMARY:Monterrey – Necaxa
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603376@anstoss
+DTSTAMP:20260927T180000Z
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+SUMMARY:Puebla – Monterrey
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603384@anstoss
+DTSTAMP:20261003T030000Z
+DTSTART:20261003T030000Z
+DTEND:20261003T050000Z
+SUMMARY:Monterrey – América
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603391@anstoss
+DTSTAMP:20261018T010000Z
+DTSTART:20261018T010000Z
+DTEND:20261018T030000Z
+SUMMARY:Monterrey – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603405@anstoss
+DTSTAMP:20261026T000000Z
+DTSTART:20261026T000000Z
+DTEND:20261026T020000Z
+SUMMARY:Tigres UANL – Monterrey
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603410@anstoss
+DTSTAMP:20261031T030000Z
+DTSTART:20261031T030000Z
+DTEND:20261031T050000Z
+SUMMARY:Monterrey – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603424@anstoss
+DTSTAMP:20261107T010600Z
+DTSTART:20261107T010600Z
+DTEND:20261107T030600Z
+SUMMARY:Juárez – Monterrey
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603424.ht
+ ml
+END:VEVENT
+END:VCALENDAR

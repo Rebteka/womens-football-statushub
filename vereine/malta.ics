@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Malta
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523822@anstoss
+DTSTAMP:20260303T140000Z
+DTSTART:20260303T140000Z
+DTEND:20260303T160000Z
+SUMMARY:Turkey – Malta 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Pendik Stadyumu\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523822.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523846@anstoss
+DTSTAMP:20260307T180000Z
+DTSTART:20260307T180000Z
+DTEND:20260307T200000Z
+SUMMARY:Malta – Schweiz 1:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523846.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523872@anstoss
+DTSTAMP:20260414T180000Z
+DTSTART:20260414T180000Z
+DTEND:20260414T200000Z
+SUMMARY:Nordirland – Malta 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Mourneview Park\, Lurgan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523872.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523897@anstoss
+DTSTAMP:20260418T170000Z
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+SUMMARY:Malta – Nordirland 2:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523921@anstoss
+DTSTAMP:20260605T173000Z
+DTSTART:20260605T173000Z
+DTEND:20260605T193000Z
+SUMMARY:Schweiz – Malta 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:AIL Arena\, Lugano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523921.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523947@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Malta – Turkey 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523947.ht
+ ml
+END:VEVENT
+END:VCALENDAR

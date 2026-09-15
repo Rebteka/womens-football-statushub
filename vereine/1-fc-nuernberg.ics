@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:1. FC Nürnberg
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1593108@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:1. FC Nürnberg – VfL Wolfsburg 2:8
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593116@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:Eintracht Frankfurt – 1. FC Nürnberg 1:1
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593121@anstoss
+DTSTAMP:20260906T163000Z
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+SUMMARY:1. FC Nürnberg – VfB Stuttgart 3:3
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593132@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:RB Leipzig – 1. FC Nürnberg 2:1
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593137@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:Hamburger SV – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629371@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Buntentor – 1. FC Nürnberg
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593142@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:1. FC Nürnberg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593154@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:1. FC Union Berlin – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593154.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593156@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:1. FC Nürnberg – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593166@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:SC Freiburg – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593166.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593170@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:1. FC Nürnberg – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593170.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593181@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:1. FSV Mainz 05 – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593181.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593185@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC Bayern München – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593185.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593191@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:1. FC Nürnberg – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593204@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VfL Wolfsburg – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593205@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:1. FC Nürnberg – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593205.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593217@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:VfB Stuttgart – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593217.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593219@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. FC Nürnberg – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593219.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593226@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:1. FC Nürnberg – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593226.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593236@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:TSG Hoffenheim – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593236.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593240@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:1. FC Nürnberg – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593240.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593247@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Bayer 04 Leverkusen – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593254@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:1. FC Nürnberg – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593265@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:1. FC Köln – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593265.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593268@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:1. FC Nürnberg – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593268.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593275@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:1. FC Nürnberg – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593275.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593288@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SV Werder Bremen – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593288.ht
+ ml
+END:VEVENT
+END:VCALENDAR

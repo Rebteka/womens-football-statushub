@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Caledonia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526391@anstoss
+DTSTAMP:20260227T040000Z
+DTSTART:20260227T040000Z
+DTEND:20260227T060000Z
+SUMMARY:Fiji – New Caledonia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526393@anstoss
+DTSTAMP:20260302T000000Z
+DTSTART:20260302T000000Z
+DTEND:20260302T020000Z
+SUMMARY:New Caledonia – Vanuatu 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526396@anstoss
+DTSTAMP:20260305T000000Z
+DTSTART:20260305T000000Z
+DTEND:20260305T020000Z
+SUMMARY:New Caledonia – Papua New Guinea 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526396.ht
+ ml
+END:VEVENT
+END:VCALENDAR

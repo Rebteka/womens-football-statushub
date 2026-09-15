@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liechtenstein
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523828@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Liechtenstein – Lithuania 1:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Rheinpark Stadion\, Vaduz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523828.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523852@anstoss
+DTSTAMP:20260307T120000Z
+DTSTART:20260307T120000Z
+DTEND:20260307T140000Z
+SUMMARY:Bosnia-Herzegovina – Liechtenstein 13:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523852.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523878@anstoss
+DTSTAMP:20260414T150000Z
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+SUMMARY:Estonia – Liechtenstein 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:A. Le Coq Arena\, Tallinn
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523878.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523903@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Liechtenstein – Bosnia-Herzegovina 0:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Rheinpark Stadion\, Vaduz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523903.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523928@anstoss
+DTSTAMP:20260605T170000Z
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+SUMMARY:Liechtenstein – Estonia 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Rheinpark Stadion\, Vaduz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523953@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Lithuania – Liechtenstein 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:LSC sporto kompleksas Druskininkai\, Druskininkai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523953.ht
+ ml
+END:VEVENT
+END:VCALENDAR

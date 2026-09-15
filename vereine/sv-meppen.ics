@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Meppen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1606981@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:SG 99 Andernach – SV Meppen 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 1. Spieltag
+LOCATION:Stadion am Bassenheimer Weg\, Andernach
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606988@anstoss
+DTSTAMP:20260809T090000Z
+DTSTART:20260809T090000Z
+DTEND:20260809T110000Z
+SUMMARY:SV Meppen – TSG Hoffenheim II 2:1
+DESCRIPTION:2. Frauen-Bundesliga · 2. Spieltag
+LOCATION:Hänsch-Arena\, May Pen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566689@anstoss
+DTSTAMP:20260816T130000Z
+DTSTART:20260816T130000Z
+DTEND:20260816T150000Z
+SUMMARY:St. Pauli – SV Meppen 0:1
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 64
+LOCATION:Millerntor-Stadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566689.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607139@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:1. FC Köln II – SV Meppen 0:3
+DESCRIPTION:2. Frauen-Bundesliga · 3. Spieltag
+LOCATION:Franz-Kremer-Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607002@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:SV Meppen – Eintracht Frankfurt II 5:0
+DESCRIPTION:2. Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607010@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:FC Viktoria Berlin – SV Meppen 1:0
+DESCRIPTION:2. Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607013@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Hertha BSC – SV Meppen 2:0
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607018@anstoss
+DTSTAMP:20260920T090000Z
+DTSTART:20260920T090000Z
+DTEND:20260920T110000Z
+SUMMARY:SV Meppen – SC Sand
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629378@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:SV Meppen – Hamburger SV
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607028@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:SGS Essen – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607032@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:SV Meppen – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607039@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:1. FFC Turbine Potsdam – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607041@anstoss
+DTSTAMP:20261108T100000Z
+DTSTART:20261108T100000Z
+DTEND:20261108T120000Z
+SUMMARY:SV Meppen – FC Ingolstadt 04
+DESCRIPTION:2. Frauen-Bundesliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607049@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
+SUMMARY:Borussia Mönchengladbach – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607049.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607056@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SV Meppen – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607056.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607062@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SV Meppen – SG 99 Andernach
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607062.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607065@anstoss
+DTSTAMP:20261220T100000Z
+DTSTART:20261220T100000Z
+DTEND:20261220T120000Z
+SUMMARY:TSG Hoffenheim II – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607065.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607152@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SV Meppen – 1. FC Köln II
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607079@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Eintracht Frankfurt II – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607079.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607086@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T150000Z
+SUMMARY:SV Meppen – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607086.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607093@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:SV Meppen – Hertha BSC
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607093.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607095@anstoss
+DTSTAMP:20270314T100000Z
+DTSTART:20270314T100000Z
+DTEND:20270314T120000Z
+SUMMARY:SC Sand – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607095.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607104@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T150000Z
+SUMMARY:SV Meppen – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607104.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607107@anstoss
+DTSTAMP:20270327T130000Z
+DTSTART:20270327T130000Z
+DTEND:20270327T150000Z
+SUMMARY:FC Carl Zeiss Jena – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607107.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607117@anstoss
+DTSTAMP:20270404T120000Z
+DTSTART:20270404T120000Z
+DTEND:20270404T140000Z
+SUMMARY:SV Meppen – 1. FFC Turbine Potsdam
+DESCRIPTION:2. Frauen-Bundesliga · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607119@anstoss
+DTSTAMP:20270411T090000Z
+DTSTART:20270411T090000Z
+DTEND:20270411T110000Z
+SUMMARY:FC Ingolstadt 04 – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607128@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:SV Meppen – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607132@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:VfL Bochum – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607132.ht
+ ml
+END:VEVENT
+END:VCALENDAR

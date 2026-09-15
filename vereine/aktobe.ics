@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aktobe
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558458@anstoss
+DTSTAMP:20260804T140000Z
+DTSTART:20260804T140000Z
+DTEND:20260804T160000Z
+SUMMARY:Breidablik – Aktobe 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611282@anstoss
+DTSTAMP:20260807T140000Z
+DTSTART:20260807T140000Z
+DTEND:20260807T160000Z
+SUMMARY:Servette Chênois – Aktobe 4:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611282.ht
+ ml
+END:VEVENT
+END:VCALENDAR

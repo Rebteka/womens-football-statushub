@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VfL Bochum
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1606986@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:VfL Bochum – Hertha BSC 3:0
+DESCRIPTION:2. Frauen-Bundesliga · 1. Spieltag
+LOCATION:Nebenplatz Ruhrstadion\, Bochum
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606992@anstoss
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T140000Z
+SUMMARY:FC Viktoria Berlin – VfL Bochum 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 2. Spieltag
+LOCATION:Ostpreussendamm 3-17\, Berlin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566683@anstoss
+DTSTAMP:20260815T090000Z
+DTSTART:20260815T090000Z
+DTEND:20260815T110000Z
+SUMMARY:Hansa Rostock – VfL Bochum 0:6
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 64
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566683.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606994@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:VfL Bochum – Eintracht Frankfurt II 4:0
+DESCRIPTION:2. Frauen-Bundesliga · 3. Spieltag
+LOCATION:Nebenplatz Ruhrstadion\, Bochum
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606994.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607003@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:SC Sand – VfL Bochum 0:3
+DESCRIPTION:2. Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607003.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607006@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:VfL Bochum – SG 99 Andernach 6:0
+DESCRIPTION:2. Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607012@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Borussia Mönchengladbach – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607143@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:VfL Bochum – 1. FC Köln II
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629370@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:VfL Bochum – SV Werder Bremen
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607023@anstoss
+DTSTAMP:20261004T090000Z
+DTSTART:20261004T090000Z
+DTEND:20261004T110000Z
+SUMMARY:FC Ingolstadt 04 – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607030@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:VfL Bochum – 1. FFC Turbine Potsdam
+DESCRIPTION:2. Frauen-Bundesliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607040@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SGS Essen – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607040.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607043@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:VfL Bochum – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607047@anstoss
+DTSTAMP:20261114T130000Z
+DTSTART:20261114T130000Z
+DTEND:20261114T150000Z
+SUMMARY:VfL Bochum – TSG Hoffenheim II
+DESCRIPTION:2. Frauen-Bundesliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607056@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SV Meppen – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607056.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607060@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Hertha BSC – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607060.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607068@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:VfL Bochum – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607068.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607072@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Eintracht Frankfurt II – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607072.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607078@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:VfL Bochum – SC Sand
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607078.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607083@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T150000Z
+SUMMARY:SG 99 Andernach – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607083.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607089@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:VfL Bochum – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607156@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART:20270314T130000Z
+DTEND:20270314T150000Z
+SUMMARY:1. FC Köln II – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607101@anstoss
+DTSTAMP:20270321T100000Z
+DTSTART:20270321T100000Z
+DTEND:20270321T120000Z
+SUMMARY:VfL Bochum – FC Ingolstadt 04
+DESCRIPTION:2. Frauen-Bundesliga · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607101.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607111@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART:20270328T120000Z
+DTEND:20270328T140000Z
+SUMMARY:1. FFC Turbine Potsdam – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607115@anstoss
+DTSTAMP:20270404T120000Z
+DTSTART:20270404T120000Z
+DTEND:20270404T140000Z
+SUMMARY:VfL Bochum – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607122@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:FC Carl Zeiss Jena – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607127@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:TSG Hoffenheim II – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607132@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:VfL Bochum – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607132.ht
+ ml
+END:VEVENT
+END:VCALENDAR

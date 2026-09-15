@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lokomotiv Moskva
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529894@anstoss
+DTSTAMP:20260314T110000Z
+DTSTART:20260314T110000Z
+DTEND:20260314T130000Z
+SUMMARY:Lokomotiv Moskva – Rubin Kazan 2:2
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529899@anstoss
+DTSTAMP:20260321T110000Z
+DTSTART:20260321T110000Z
+DTEND:20260321T130000Z
+SUMMARY:Lokomotiv Moskva – Krylya Sovetov 5:0
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529903@anstoss
+DTSTAMP:20260328T160000Z
+DTSTART:20260328T160000Z
+DTEND:20260328T180000Z
+SUMMARY:CSKA Moskva – Lokomotiv Moskva 2:1
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529903.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529911@anstoss
+DTSTAMP:20260404T100000Z
+DTSTART:20260404T100000Z
+DTEND:20260404T120000Z
+SUMMARY:Lokomotiv Moskva – Krasnodar 2:0
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529925@anstoss
+DTSTAMP:20260502T083000Z
+DTSTART:20260502T083000Z
+DTEND:20260502T103000Z
+SUMMARY:Zvezda Perm – Lokomotiv Moskva 0:2
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529925.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529929@anstoss
+DTSTAMP:20260510T100000Z
+DTSTART:20260510T100000Z
+DTEND:20260510T120000Z
+SUMMARY:Lokomotiv Moskva – Ryazan 3:0
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529934@anstoss
+DTSTAMP:20260516T100000Z
+DTSTART:20260516T100000Z
+DTEND:20260516T120000Z
+SUMMARY:Lokomotiv Moskva – Yenisey 3:0
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529934.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529939@anstoss
+DTSTAMP:20260524T100000Z
+DTSTART:20260524T100000Z
+DTEND:20260524T120000Z
+SUMMARY:Dinamo Moskva – Lokomotiv Moskva 0:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529939.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529947@anstoss
+DTSTAMP:20260530T160000Z
+DTSTART:20260530T160000Z
+DTEND:20260530T180000Z
+SUMMARY:Lokomotiv Moskva – Zenit 1:2
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529950@anstoss
+DTSTAMP:20260620T160000Z
+DTSTART:20260620T160000Z
+DTEND:20260620T180000Z
+SUMMARY:Chertanovo – Lokomotiv Moskva 0:3
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529961@anstoss
+DTSTAMP:20260627T160000Z
+DTSTART:20260627T160000Z
+DTEND:20260627T180000Z
+SUMMARY:Spartak Moskva – Lokomotiv Moskva 1:1
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529964@anstoss
+DTSTAMP:20260711T150000Z
+DTSTART:20260711T150000Z
+DTEND:20260711T170000Z
+SUMMARY:Rostov – Lokomotiv Moskva 0:0
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529970@anstoss
+DTSTAMP:20260718T140000Z
+DTSTART:20260718T140000Z
+DTEND:20260718T160000Z
+SUMMARY:Rubin Kazan – Lokomotiv Moskva 1:0
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529983@anstoss
+DTSTAMP:20260809T113000Z
+DTSTART:20260809T113000Z
+DTEND:20260809T133000Z
+SUMMARY:Lokomotiv Moskva – CSKA Moskva 1:0
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529983.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529989@anstoss
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+SUMMARY:Lokomotiv Moskva – Chertanovo 2:1
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529996@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Ryazan – Lokomotiv Moskva 0:4
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530002@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Lokomotiv Moskva – Zvezda Perm 2:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530005@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Krylya Sovetov – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530013@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Yenisey – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530019@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Lokomotiv Moskva – Dinamo Moskva
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530026@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Krasnodar – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530033@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Zenit – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530037@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Lokomotiv Moskva – Spartak Moskva
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530037.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530043@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lokomotiv Moskva – Rostov
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530043.ht
+ ml
+END:VEVENT
+END:VCALENDAR

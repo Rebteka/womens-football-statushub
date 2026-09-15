@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Juárez
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603301@anstoss
+DTSTAMP:20260801T230000Z
+DTSTART:20260801T230000Z
+DTEND:20260802T010000Z
+SUMMARY:Juárez – Pachuca 1:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603316@anstoss
+DTSTAMP:20260811T000000Z
+DTSTART:20260811T000000Z
+DTEND:20260811T020000Z
+SUMMARY:Toluca – Juárez 2:0
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603321@anstoss
+DTSTAMP:20260816T010600Z
+DTSTART:20260816T010600Z
+DTEND:20260816T030600Z
+SUMMARY:Tigres UANL – Juárez 1:0
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603329@anstoss
+DTSTAMP:20260823T010600Z
+DTSTART:20260823T010600Z
+DTEND:20260823T030600Z
+SUMMARY:Juárez – Santos Laguna 3:2
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603329.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603339@anstoss
+DTSTAMP:20260830T031000Z
+DTSTART:20260830T031000Z
+DTEND:20260830T051000Z
+SUMMARY:Juárez – Cruz Azul 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603352@anstoss
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Atlante – Juárez 0:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603357@anstoss
+DTSTAMP:20260913T011000Z
+DTSTART:20260913T011000Z
+DTEND:20260913T031000Z
+SUMMARY:Juárez – Necaxa 1:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603369@anstoss
+DTSTAMP:20260921T230000Z
+DTSTART:20260921T230000Z
+DTEND:20260922T010000Z
+SUMMARY:León – Juárez
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603375@anstoss
+DTSTAMP:20260927T010600Z
+DTSTART:20260927T010600Z
+DTEND:20260927T030600Z
+SUMMARY:Juárez – Tijuana
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603388@anstoss
+DTSTAMP:20261004T230000Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Guadalajara – Juárez
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603394@anstoss
+DTSTAMP:20261018T230000Z
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+SUMMARY:Atlético San Luis – Juárez
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603403@anstoss
+DTSTAMP:20261025T020600Z
+DTSTART:20261025T020600Z
+DTEND:20261025T040600Z
+SUMMARY:Juárez – Querétaro
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603414@anstoss
+DTSTAMP:20261101T180000Z
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+SUMMARY:Puebla – Juárez
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603424@anstoss
+DTSTAMP:20261107T010600Z
+DTSTART:20261107T010600Z
+DTEND:20261107T030600Z
+SUMMARY:Juárez – Monterrey
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603424.ht
+ ml
+END:VEVENT
+END:VCALENDAR

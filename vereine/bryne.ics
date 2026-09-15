@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bryne
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535602@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:Bryne – Viking FK 0:4
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535606@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Start – Bryne 2:0
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535609@anstoss
+DTSTAMP:20260419T140000Z
+DTSTART:20260419T140000Z
+DTEND:20260419T160000Z
+SUMMARY:Bryne – Åsane 0:0
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535613@anstoss
+DTSTAMP:20260426T130000Z
+DTSTART:20260426T130000Z
+DTEND:20260426T150000Z
+SUMMARY:Odd – Bryne 1:1
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535613.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535684@anstoss
+DTSTAMP:20260503T113000Z
+DTSTART:20260503T113000Z
+DTEND:20260503T133000Z
+SUMMARY:Bryne – Frigg Oslo FK 2:0
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535684.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535618@anstoss
+DTSTAMP:20260509T120000Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Kolbotn – Bryne 0:1
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535618.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535689@anstoss
+DTSTAMP:20260523T120000Z
+DTSTART:20260523T120000Z
+DTEND:20260523T140000Z
+SUMMARY:Bryne – Klepp 1:2
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535689.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535693@anstoss
+DTSTAMP:20260530T113000Z
+DTSTART:20260530T113000Z
+DTEND:20260530T133000Z
+SUMMARY:Grei – Bryne 0:2
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535693.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535630@anstoss
+DTSTAMP:20260614T120000Z
+DTSTART:20260614T120000Z
+DTEND:20260614T140000Z
+SUMMARY:Bryne – TIL 2020 2:1
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535633@anstoss
+DTSTAMP:20260621T133000Z
+DTSTART:20260621T133000Z
+DTEND:20260621T153000Z
+SUMMARY:Arna-Bjørnar – Bryne 3:0
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535636@anstoss
+DTSTAMP:20260627T110000Z
+DTSTART:20260627T110000Z
+DTEND:20260627T130000Z
+SUMMARY:Bryne – Fyllingsdalen 0:1
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535639@anstoss
+DTSTAMP:20260801T123000Z
+DTSTART:20260801T123000Z
+DTEND:20260801T143000Z
+SUMMARY:TIL 2020 – Bryne 4:1
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535642@anstoss
+DTSTAMP:20260808T130000Z
+DTSTART:20260808T130000Z
+DTEND:20260808T150000Z
+SUMMARY:Bryne – Arna-Bjørnar 2:6
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535645@anstoss
+DTSTAMP:20260815T133000Z
+DTSTART:20260815T133000Z
+DTEND:20260815T153000Z
+SUMMARY:Fyllingsdalen – Bryne 1:0
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535646@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:Bryne – Kolbotn (verlegt)
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535714@anstoss
+DTSTAMP:20260830T110000Z
+DTSTART:20260830T110000Z
+DTEND:20260830T130000Z
+SUMMARY:Frigg Oslo FK – Bryne 1:0
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535718@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Bryne – Grei 5:0
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535718.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535659@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Bryne – Odd
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535724@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Klepp – Bryne
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535724.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535664@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Viking FK – Bryne
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535664.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535669@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Bryne – Start
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535671@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Åsane – Bryne
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535671.ht
+ ml
+END:VEVENT
+END:VCALENDAR

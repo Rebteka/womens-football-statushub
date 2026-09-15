@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Al Nassr
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1619336@anstoss
+DTSTAMP:20260910T173000Z
+DTSTART:20260910T173000Z
+DTEND:20260910T193000Z
+SUMMARY:Al Nassr – Neom SC 3:0
+DESCRIPTION:Premier League Women · 1. Spieltag
+LOCATION:Al Nassr Stadium\, Riyadh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619343@anstoss
+DTSTAMP:20260919T173000Z
+DTSTART:20260919T173000Z
+DTEND:20260919T193000Z
+SUMMARY:Al Ittihad – Al Nassr
+DESCRIPTION:Premier League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619345@anstoss
+DTSTAMP:20260925T152500Z
+DTSTART:20260925T152500Z
+DTEND:20260925T172500Z
+SUMMARY:Al Nassr – Al-Ula
+DESCRIPTION:Premier League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619350@anstoss
+DTSTAMP:20261002T171500Z
+DTSTART:20261002T171500Z
+DTEND:20261002T191500Z
+SUMMARY:Al Ahli SC – Al Nassr
+DESCRIPTION:Premier League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619352@anstoss
+DTSTAMP:20261022T164500Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Al Nassr – Al Hilal
+DESCRIPTION:Premier League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619359@anstoss
+DTSTAMP:20261031T145500Z
+DTSTART:20261031T145500Z
+DTEND:20261031T165500Z
+SUMMARY:Al Nassr – Al Taraji
+DESCRIPTION:Premier League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619363@anstoss
+DTSTAMP:20261107T143000Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Al Qadisiya – Al Nassr
+DESCRIPTION:Premier League Women · 7. Spieltag
+LOCATION:Prince Saud bin Jalawi Stadium\, Dammam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619364@anstoss
+DTSTAMP:20261210T163500Z
+DTSTART:20261210T163500Z
+DTEND:20261210T183500Z
+SUMMARY:Neom SC – Al Nassr
+DESCRIPTION:Premier League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619369@anstoss
+DTSTAMP:20270212T190000Z
+DTSTART:20270212T190000Z
+DTEND:20270212T210000Z
+SUMMARY:Al Nassr – Al Ittihad
+DESCRIPTION:Premier League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619374@anstoss
+DTSTAMP:20270319T172500Z
+DTSTART:20270319T172500Z
+DTEND:20270319T192500Z
+SUMMARY:Al-Ula – Al Nassr
+DESCRIPTION:Premier League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619379@anstoss
+DTSTAMP:20270327T154500Z
+DTSTART:20270327T154500Z
+DTEND:20270327T174500Z
+SUMMARY:Al Nassr – Al Ahli SC
+DESCRIPTION:Premier League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619382@anstoss
+DTSTAMP:20270402T170000Z
+DTSTART:20270402T170000Z
+DTEND:20270402T190000Z
+SUMMARY:Al Hilal – Al Nassr
+DESCRIPTION:Premier League Women · 12. Spieltag
+LOCATION:Kingdom Arena\, Riyadh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619386@anstoss
+DTSTAMP:20270506T174500Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Al Taraji – Al Nassr
+DESCRIPTION:Premier League Women · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619390@anstoss
+DTSTAMP:20270512T174500Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Al Nassr – Al Qadisiya
+DESCRIPTION:Premier League Women · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619390.ht
+ ml
+END:VEVENT
+END:VCALENDAR

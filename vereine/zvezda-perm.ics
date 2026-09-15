@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zvezda Perm
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529895@anstoss
+DTSTAMP:20260315T140000Z
+DTSTART:20260315T140000Z
+DTEND:20260315T160000Z
+SUMMARY:Zenit – Zvezda Perm 1:0
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529901@anstoss
+DTSTAMP:20260321T080000Z
+DTSTART:20260321T080000Z
+DTEND:20260321T100000Z
+SUMMARY:Zvezda Perm – Rostov 2:0
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529902@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Chertanovo – Zvezda Perm 0:1
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529919@anstoss
+DTSTAMP:20260425T080000Z
+DTSTART:20260425T080000Z
+DTEND:20260425T100000Z
+SUMMARY:Zvezda Perm – Rubin Kazan 3:2
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529919.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529925@anstoss
+DTSTAMP:20260502T083000Z
+DTSTART:20260502T083000Z
+DTEND:20260502T103000Z
+SUMMARY:Zvezda Perm – Lokomotiv Moskva 0:2
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529925.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529926@anstoss
+DTSTAMP:20260510T100000Z
+DTSTART:20260510T100000Z
+DTEND:20260510T120000Z
+SUMMARY:CSKA Moskva – Zvezda Perm 4:0
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529926.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529932@anstoss
+DTSTAMP:20260516T090000Z
+DTSTART:20260516T090000Z
+DTEND:20260516T110000Z
+SUMMARY:Krylya Sovetov – Zvezda Perm 2:0
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529932.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529942@anstoss
+DTSTAMP:20260523T073000Z
+DTSTART:20260523T073000Z
+DTEND:20260523T093000Z
+SUMMARY:Zvezda Perm – Yenisey 1:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529942.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529949@anstoss
+DTSTAMP:20260530T080000Z
+DTSTART:20260530T080000Z
+DTEND:20260530T100000Z
+SUMMARY:Zvezda Perm – Ryazan 1:1
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529955@anstoss
+DTSTAMP:20260620T083000Z
+DTSTART:20260620T083000Z
+DTEND:20260620T103000Z
+SUMMARY:Zvezda Perm – Spartak Moskva 0:3
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529957@anstoss
+DTSTAMP:20260627T140000Z
+DTSTART:20260627T140000Z
+DTEND:20260627T160000Z
+SUMMARY:Dinamo Moskva – Zvezda Perm 0:0
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529967@anstoss
+DTSTAMP:20260711T080000Z
+DTSTART:20260711T080000Z
+DTEND:20260711T100000Z
+SUMMARY:Zvezda Perm – Krasnodar 2:1
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529973@anstoss
+DTSTAMP:20260718T083000Z
+DTSTART:20260718T083000Z
+DTEND:20260718T103000Z
+SUMMARY:Zvezda Perm – Zenit 1:3
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529977@anstoss
+DTSTAMP:20260801T140000Z
+DTSTART:20260801T140000Z
+DTEND:20260801T160000Z
+SUMMARY:Rubin Kazan – Zvezda Perm 2:0
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529985@anstoss
+DTSTAMP:20260808T080000Z
+DTSTART:20260808T080000Z
+DTEND:20260808T100000Z
+SUMMARY:Zvezda Perm – Chertanovo 0:1
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529985.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529991@anstoss
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:Spartak Moskva – Zvezda Perm 1:0
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529997@anstoss
+DTSTAMP:20260905T083000Z
+DTSTART:20260905T083000Z
+DTEND:20260905T103000Z
+SUMMARY:Zvezda Perm – CSKA Moskva 0:6
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529997.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530002@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Lokomotiv Moskva – Zvezda Perm 2:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530006@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Rostov – Zvezda Perm
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530015@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Zvezda Perm – Krylya Sovetov
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530017@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Yenisey – Zvezda Perm
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530032@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Ryazan – Zvezda Perm
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530039@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Zvezda Perm – Dinamo Moskva
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530042@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Krasnodar – Zvezda Perm
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530042.ht
+ ml
+END:VEVENT
+END:VCALENDAR

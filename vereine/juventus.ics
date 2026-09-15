@@ -1,0 +1,365 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Juventus
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558461@anstoss
+DTSTAMP:20260805T190000Z
+DTSTART:20260805T190000Z
+DTEND:20260805T210000Z
+SUMMARY:Juventus – Torreense 2:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stade La Marmora-Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612448@anstoss
+DTSTAMP:20260808T190000Z
+DTSTART:20260808T190000Z
+DTEND:20260808T210000Z
+SUMMARY:Juventus – Hammarby 3:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612448.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623467@anstoss
+DTSTAMP:20260826T184500Z
+DTSTART:20260826T184500Z
+DTEND:20260826T204500Z
+SUMMARY:St. Pölten – Juventus 0:3
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:NV Arena\, Sankt Polten
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623476@anstoss
+DTSTAMP:20260902T183000Z
+DTSTART:20260902T183000Z
+DTEND:20260902T203000Z
+SUMMARY:Juventus – St. Pölten 1:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638310@anstoss
+DTSTAMP:20260922T190000Z
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+SUMMARY:Juventus – SL Benfica
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601250@anstoss
+DTSTAMP:20260926T103000Z
+DTSTART:20260926T103000Z
+DTEND:20260926T123000Z
+SUMMARY:Juventus – Napoli
+DESCRIPTION:Serie A Femminile · 1. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638305@anstoss
+DTSTAMP:20260930T164500Z
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+SUMMARY:Häcken – Juventus
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601254@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:AC Milan – Juventus
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601263@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Juventus – Como 1907
+DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601268@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Juventus – Roma
+DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601268.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638294@anstoss
+DTSTAMP:20261029T174500Z
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+SUMMARY:Austria Wien – Juventus
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638294.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601274@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Fiorentina – Juventus
+DESCRIPTION:Serie A Femminile · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601274.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601280@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Juventus – Sassuolo
+DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638311@anstoss
+DTSTAMP:20261111T200000Z
+DTSTART:20261111T200000Z
+DTEND:20261111T220000Z
+SUMMARY:Juventus – Lyon
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601287@anstoss
+DTSTAMP:20261114T140000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Inter Mailand – Juventus
+DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638312@anstoss
+DTSTAMP:20261118T200000Z
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+SUMMARY:Juventus – OH Leuven
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601293@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Lazio – Juventus
+DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601299@anstoss
+DTSTAMP:20261212T140000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Juventus – Como
+DESCRIPTION:Serie A Femminile · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638329@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Paris Saint Germain – Juventus
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638329.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601306@anstoss
+DTSTAMP:20270116T140000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Parma – Juventus
+DESCRIPTION:Serie A Femminile · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601311@anstoss
+DTSTAMP:20270123T140000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Juventus – Ternana
+DESCRIPTION:Serie A Femminile · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601318@anstoss
+DTSTAMP:20270130T140000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Napoli – Juventus
+DESCRIPTION:Serie A Femminile · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601322@anstoss
+DTSTAMP:20270206T140000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Juventus – AC Milan
+DESCRIPTION:Serie A Femminile · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601327@anstoss
+DTSTAMP:20270213T140000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Como 1907 – Juventus
+DESCRIPTION:Serie A Femminile · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601332@anstoss
+DTSTAMP:20270220T140000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Roma – Juventus
+DESCRIPTION:Serie A Femminile · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601340@anstoss
+DTSTAMP:20270313T140000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Juventus – Fiorentina
+DESCRIPTION:Serie A Femminile · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601349@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Sassuolo – Juventus
+DESCRIPTION:Serie A Femminile · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601352@anstoss
+DTSTAMP:20270403T130000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Juventus – Inter Mailand
+DESCRIPTION:Serie A Femminile · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601359@anstoss
+DTSTAMP:20270410T130000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Juventus – Lazio
+DESCRIPTION:Serie A Femminile · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601362@anstoss
+DTSTAMP:20270501T130000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Como – Juventus
+DESCRIPTION:Serie A Femminile · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601371@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Juventus – Parma
+DESCRIPTION:Serie A Femminile · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601379@anstoss
+DTSTAMP:20270515T130000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Ternana – Juventus
+DESCRIPTION:Serie A Femminile · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601379.ht
+ ml
+END:VEVENT
+END:VCALENDAR

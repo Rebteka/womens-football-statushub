@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hungary
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523831@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Andorra – Hungary 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523831.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523856@anstoss
+DTSTAMP:20260307T133000Z
+DTSTART:20260307T133000Z
+DTEND:20260307T153000Z
+SUMMARY:Hungary – Azerbaijan 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Pancho Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523856.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523881@anstoss
+DTSTAMP:20260414T140000Z
+DTSTART:20260414T140000Z
+DTEND:20260414T160000Z
+SUMMARY:North Macedonia – Hungary 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Stadion Petar Milosevski\, Bitola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523906@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Hungary – North Macedonia 7:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Pancho Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523931@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Azerbaijan – Hungary 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Mehdi Huseynzade Stadium\, Sumqayit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523931.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523956@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Hungary – Andorra 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Illovszky Rudolf Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557249@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Hungary – Niederlande
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557263@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Niederlande – Hungary
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557263.ht
+ ml
+END:VEVENT
+END:VCALENDAR

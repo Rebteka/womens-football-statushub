@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gremio
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522331@anstoss
+DTSTAMP:20260216T220000Z
+DTSTART:20260216T220000Z
+DTEND:20260217T000000Z
+SUMMARY:Santos – Gremio 2:1
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:Estadio Urbano Caldeira\, Santos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522333@anstoss
+DTSTAMP:20260220T220000Z
+DTSTART:20260220T220000Z
+DTEND:20260221T000000Z
+SUMMARY:Gremio – Palmeiras 1:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522345@anstoss
+DTSTAMP:20260314T210000Z
+DTSTART:20260314T210000Z
+DTEND:20260314T230000Z
+SUMMARY:Gremio – Fluminense 0:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522352@anstoss
+DTSTAMP:20260321T210000Z
+DTSTART:20260321T210000Z
+DTEND:20260321T230000Z
+SUMMARY:Ferroviaria – Gremio 0:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522360@anstoss
+DTSTAMP:20260328T190000Z
+DTSTART:20260328T190000Z
+DTEND:20260328T210000Z
+SUMMARY:Internacional RS – Gremio 1:2
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522455@anstoss
+DTSTAMP:20260403T220000Z
+DTSTART:20260403T220000Z
+DTEND:20260404T000000Z
+SUMMARY:Gremio – Vitória BA 3:0
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522372@anstoss
+DTSTAMP:20260420T220000Z
+DTSTART:20260420T220000Z
+DTEND:20260421T000000Z
+SUMMARY:São Paulo – Gremio 3:1
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522380@anstoss
+DTSTAMP:20260428T210000Z
+DTSTART:20260428T210000Z
+DTEND:20260428T230000Z
+SUMMARY:Bahia – Gremio 0:2
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522383@anstoss
+DTSTAMP:20260501T203000Z
+DTSTART:20260501T203000Z
+DTEND:20260501T223000Z
+SUMMARY:Gremio – Corinthians 0:2
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522395@anstoss
+DTSTAMP:20260510T200000Z
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+SUMMARY:RB Bragantino – Gremio 0:3
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522466@anstoss
+DTSTAMP:20260516T190000Z
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+SUMMARY:Gremio – Mixto 3:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522409@anstoss
+DTSTAMP:20260524T180000Z
+DTSTART:20260524T180000Z
+DTEND:20260524T200000Z
+SUMMARY:Juventude – Gremio 1:1
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Montanha dos Vinhedos\, Bento Goncalves
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522412@anstoss
+DTSTAMP:20260724T220000Z
+DTSTART:20260724T220000Z
+DTEND:20260725T000000Z
+SUMMARY:Flamengo – Gremio 2:2
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522424@anstoss
+DTSTAMP:20260801T190000Z
+DTSTART:20260801T190000Z
+DTEND:20260801T210000Z
+SUMMARY:Gremio – America Mineiro 1:0
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522429@anstoss
+DTSTAMP:20260809T140000Z
+DTSTART:20260809T140000Z
+DTEND:20260809T160000Z
+SUMMARY:Gremio – Cruzeiro 2:0
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522429.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522437@anstoss
+DTSTAMP:20260815T000000Z
+DTSTART:20260815T000000Z
+DTEND:20260815T020000Z
+SUMMARY:Atlético Mineiro – Gremio 2:0
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:Estadio Municipal Castor Cifuentes\, Nova Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522437.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522443@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Gremio – Botafogo 1:0
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634047@anstoss
+DTSTAMP:20260829T193000Z
+DTSTART:20260829T193000Z
+DTEND:20260829T213000Z
+SUMMARY:Gremio – São Paulo 0:0
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Estadio Alfredo Jaconi\, Caxias do Sul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634051@anstoss
+DTSTAMP:20260905T193000Z
+DTSTART:20260905T193000Z
+DTEND:20260905T213000Z
+SUMMARY:São Paulo – Gremio 2:0
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634051.ht
+ ml
+END:VEVENT
+END:VCALENDAR

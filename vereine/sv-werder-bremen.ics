@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Werder Bremen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1593112@anstoss
+DTSTAMP:20260824T160000Z
+DTSTART:20260824T160000Z
+DTEND:20260824T180000Z
+SUMMARY:1. FSV Mainz 05 – SV Werder Bremen 1:2
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Bruchwegstadion\, Mainz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593120@anstoss
+DTSTAMP:20260830T163000Z
+DTSTART:20260830T163000Z
+DTEND:20260830T183000Z
+SUMMARY:SV Werder Bremen – RB Leipzig 2:0
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593127@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:VfL Wolfsburg – SV Werder Bremen 3:2
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593134@anstoss
+DTSTAMP:20260911T163000Z
+DTSTART:20260911T163000Z
+DTEND:20260911T183000Z
+SUMMARY:SV Werder Bremen – Hamburger SV 1:0
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593134.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593141@anstoss
+DTSTAMP:20260921T160000Z
+DTSTART:20260921T160000Z
+DTEND:20260921T180000Z
+SUMMARY:SV Werder Bremen – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629370@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:VfL Bochum – SV Werder Bremen
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593143@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Bayer 04 Leverkusen – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593155@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:SV Werder Bremen – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593161@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SV Werder Bremen – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593164@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:FC Bayern München – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593164.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593175@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SV Werder Bremen – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593175.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593180@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:1. FC Köln – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593180.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593190@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SV Werder Bremen – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593191@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:1. FC Nürnberg – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593203@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SV Werder Bremen – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593209@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:RB Leipzig – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593218@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SV Werder Bremen – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593218.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593221@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Hamburger SV – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593221.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593231@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VfB Stuttgart – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593231.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593239@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:SV Werder Bremen – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593239.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593243@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:TSG Hoffenheim – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593250@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:SC Freiburg – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593259@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:SV Werder Bremen – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593267@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:1. FC Union Berlin – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593267.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593273@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:SV Werder Bremen – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593276@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Eintracht Frankfurt – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593288@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SV Werder Bremen – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593288.ht
+ ml
+END:VEVENT
+END:VCALENDAR

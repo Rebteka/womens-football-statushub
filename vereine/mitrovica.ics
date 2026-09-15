@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mitrovica
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558472@anstoss
+DTSTAMP:20260722T143000Z
+DTSTART:20260722T143000Z
+DTEND:20260722T163000Z
+SUMMARY:Mitrovica – Zimbru Chisinau 10:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Kampi Nacional\, Hajvalia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600545@anstoss
+DTSTAMP:20260725T180000Z
+DTSTART:20260725T180000Z
+DTEND:20260725T200000Z
+SUMMARY:Mitrovica – Ludogorets 2:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603951@anstoss
+DTSTAMP:20260805T080000Z
+DTSTART:20260805T080000Z
+DTEND:20260805T100000Z
+SUMMARY:SK Brann – Mitrovica 5:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612429@anstoss
+DTSTAMP:20260808T080000Z
+DTSTART:20260808T080000Z
+DTEND:20260808T100000Z
+SUMMARY:Ferencváros – Mitrovica 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:III. Keruleti TVE\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612429.ht
+ ml
+END:VEVENT
+END:VCALENDAR

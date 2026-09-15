@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vitoria Guimaraes
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1610739@anstoss
+DTSTAMP:20260912T170000Z
+DTSTART:20260912T170000Z
+DTEND:20260912T190000Z
+SUMMARY:Sporting CP – Vitoria Guimaraes 2:0
+DESCRIPTION:1a Divisão - Women · 1. Spieltag
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610744@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
+SUMMARY:Vitoria Guimaraes – Torreense
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610750@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Vitoria Guimaraes – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610797@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Porto – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610797.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610756@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Vitoria Guimaraes – Racing Power
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610758@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Rio Ave – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610893@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Sporting Braga – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610745@anstoss
+DTSTAMP:20270103T150000Z
+DTSTART:20270103T150000Z
+DTEND:20270103T170000Z
+SUMMARY:SL Benfica – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 3. Spieltag
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610765@anstoss
+DTSTAMP:20270117T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Vitoria Guimaraes – Marítimo
+DESCRIPTION:1a Divisão - Women · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610768@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Vitoria Guimaraes – Sporting CP
+DESCRIPTION:1a Divisão - Women · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610771@anstoss
+DTSTAMP:20270207T150000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Torreense – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 11. Spieltag
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610771.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610775@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Vitoria Guimaraes – SL Benfica
+DESCRIPTION:1a Divisão - Women · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610775.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610778@anstoss
+DTSTAMP:20270327T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Valadares Gaia – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610778.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610805@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Vitoria Guimaraes – Porto
+DESCRIPTION:1a Divisão - Women · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610805.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610782@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Racing Power – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610782.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610787@anstoss
+DTSTAMP:20270509T140000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Vitoria Guimaraes – Rio Ave
+DESCRIPTION:1a Divisão - Women · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610902@anstoss
+DTSTAMP:20270516T140000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Vitoria Guimaraes – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610791@anstoss
+DTSTAMP:20270523T140000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Marítimo – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610791.ht
+ ml
+END:VEVENT
+END:VCALENDAR

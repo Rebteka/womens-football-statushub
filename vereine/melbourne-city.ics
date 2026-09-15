@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Melbourne City
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1632106@anstoss
+DTSTAMP:20261017T231500Z
+DTSTART:20261017T231500Z
+DTEND:20261018T011500Z
+SUMMARY:Wellington Phoenix – Melbourne City
+DESCRIPTION:A-League Women · 1. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632106.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632112@anstoss
+DTSTAMP:20261025T064500Z
+DTSTART:20261025T064500Z
+DTEND:20261025T084500Z
+SUMMARY:Sydney FC – Melbourne City
+DESCRIPTION:A-League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632122@anstoss
+DTSTAMP:20261114T040000Z
+DTSTART:20261114T040000Z
+DTEND:20261114T060000Z
+SUMMARY:Melbourne City – Newcastle Jets FC
+DESCRIPTION:A-League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632129@anstoss
+DTSTAMP:20261121T055000Z
+DTSTART:20261121T055000Z
+DTEND:20261121T075000Z
+SUMMARY:Brisbane Roar FC – Melbourne City
+DESCRIPTION:A-League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632129.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632135@anstoss
+DTSTAMP:20261212T090000Z
+DTSTART:20261212T090000Z
+DTEND:20261212T110000Z
+SUMMARY:Perth Glory FC – Melbourne City
+DESCRIPTION:A-League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632138@anstoss
+DTSTAMP:20261219T060000Z
+DTSTART:20261219T060000Z
+DTEND:20261219T080000Z
+SUMMARY:Melbourne City – Melbourne Victory
+DESCRIPTION:A-League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632142@anstoss
+DTSTAMP:20261227T000000Z
+DTSTART:20261227T000000Z
+DTEND:20261227T020000Z
+SUMMARY:Melbourne City – Sydney FC
+DESCRIPTION:A-League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632147@anstoss
+DTSTAMP:20261231T055000Z
+DTSTART:20261231T055000Z
+DTEND:20261231T075000Z
+SUMMARY:Central Coast Mariners – Melbourne City
+DESCRIPTION:A-League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632152@anstoss
+DTSTAMP:20270106T063000Z
+DTSTART:20270106T063000Z
+DTEND:20270106T083000Z
+SUMMARY:Melbourne City – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632156@anstoss
+DTSTAMP:20270110T060000Z
+DTSTART:20270110T060000Z
+DTEND:20270110T080000Z
+SUMMARY:Newcastle Jets FC – Melbourne City
+DESCRIPTION:A-League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632161@anstoss
+DTSTAMP:20270116T084500Z
+DTSTART:20270116T084500Z
+DTEND:20270116T104500Z
+SUMMARY:Melbourne City – Canberra United
+DESCRIPTION:A-League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632166@anstoss
+DTSTAMP:20270124T060000Z
+DTSTART:20270124T060000Z
+DTEND:20270124T080000Z
+SUMMARY:Melbourne City – Wellington Phoenix
+DESCRIPTION:A-League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632166.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632168@anstoss
+DTSTAMP:20270129T055000Z
+DTSTART:20270129T055000Z
+DTEND:20270129T075000Z
+SUMMARY:Adelaide United – Melbourne City
+DESCRIPTION:A-League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632177@anstoss
+DTSTAMP:20270207T060000Z
+DTSTART:20270207T060000Z
+DTEND:20270207T080000Z
+SUMMARY:Melbourne City – Perth Glory FC
+DESCRIPTION:A-League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632177.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632179@anstoss
+DTSTAMP:20270213T070000Z
+DTSTART:20270213T070000Z
+DTEND:20270213T090000Z
+SUMMARY:Western Sydney Wanderers – Melbourne City
+DESCRIPTION:A-League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632179.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632186@anstoss
+DTSTAMP:20270221T060000Z
+DTSTART:20270221T060000Z
+DTEND:20270221T080000Z
+SUMMARY:Melbourne Victory – Melbourne City
+DESCRIPTION:A-League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632189@anstoss
+DTSTAMP:20270313T040000Z
+DTSTART:20270313T040000Z
+DTEND:20270313T060000Z
+SUMMARY:Melbourne City – Brisbane Roar FC
+DESCRIPTION:A-League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632189.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632197@anstoss
+DTSTAMP:20270321T064500Z
+DTSTART:20270321T064500Z
+DTEND:20270321T084500Z
+SUMMARY:Melbourne City – Central Coast Mariners
+DESCRIPTION:A-League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632197.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632204@anstoss
+DTSTAMP:20270403T040000Z
+DTSTART:20270403T040000Z
+DTEND:20270403T060000Z
+SUMMARY:Canberra United – Melbourne City
+DESCRIPTION:A-League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632212@anstoss
+DTSTAMP:20270411T050000Z
+DTSTART:20270411T050000Z
+DTEND:20270411T070000Z
+SUMMARY:Melbourne City – Adelaide United
+DESCRIPTION:A-League Women · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632212.ht
+ ml
+END:VEVENT
+END:VCALENDAR

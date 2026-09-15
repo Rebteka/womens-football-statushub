@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Racing
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558463@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Racing – HJK 0:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612433@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:SFK 2000 – Racing 4:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612433.ht
+ ml
+END:VEVENT
+END:VCALENDAR

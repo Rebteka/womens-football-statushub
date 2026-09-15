@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Real Santander
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518017@anstoss
+DTSTAMP:20260217T200000Z
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+SUMMARY:Real Santander – Atlético Bucaramanga 0:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524347@anstoss
+DTSTAMP:20260301T200000Z
+DTSTART:20260301T200000Z
+DTEND:20260301T220000Z
+SUMMARY:Independiente Medellín – Real Santander 3:0
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524352@anstoss
+DTSTAMP:20260309T200000Z
+DTSTART:20260309T200000Z
+DTEND:20260309T220000Z
+SUMMARY:Real Santander – Deportivo Pasto 1:1
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524361@anstoss
+DTSTAMP:20260316T200000Z
+DTSTART:20260316T200000Z
+DTEND:20260316T220000Z
+SUMMARY:Real Santander – Internacional Palmira 1:2
+DESCRIPTION:Liga Femenina · 4. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524372@anstoss
+DTSTAMP:20260324T220000Z
+DTSTART:20260324T220000Z
+DTEND:20260325T000000Z
+SUMMARY:Fortaleza – Real Santander 0:0
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524380@anstoss
+DTSTAMP:20260330T200000Z
+DTSTART:20260330T200000Z
+DTEND:20260330T220000Z
+SUMMARY:Real Santander – Llaneros 0:0
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524384@anstoss
+DTSTAMP:20260412T193000Z
+DTSTART:20260412T193000Z
+DTEND:20260412T213000Z
+SUMMARY:Atlético Nacional – Real Santander 5:0
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525699@anstoss
+DTSTAMP:20260423T200000Z
+DTSTART:20260423T200000Z
+DTEND:20260423T220000Z
+SUMMARY:Real Santander – América de Cali 0:1
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525699.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525702@anstoss
+DTSTAMP:20260502T203000Z
+DTSTART:20260502T203000Z
+DTEND:20260502T223000Z
+SUMMARY:Atlético Bucaramanga – Real Santander 2:0
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Cancha Marte - UMT\, Bucaramanga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525702.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525708@anstoss
+DTSTAMP:20260509T200000Z
+DTSTART:20260509T200000Z
+DTEND:20260509T220000Z
+SUMMARY:Deportivo Cali – Real Santander 4:0
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525708.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525722@anstoss
+DTSTAMP:20260516T200000Z
+DTSTART:20260516T200000Z
+DTEND:20260516T220000Z
+SUMMARY:Real Santander – Junior 1:1
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525722.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525730@anstoss
+DTSTAMP:20260523T230000Z
+DTSTART:20260523T230000Z
+DTEND:20260524T010000Z
+SUMMARY:Millonarios – Real Santander 0:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525730.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525739@anstoss
+DTSTAMP:20260528T200000Z
+DTSTART:20260528T200000Z
+DTEND:20260528T220000Z
+SUMMARY:Real Santander – Once Caldas 0:0
+DESCRIPTION:Liga Femenina · 13. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525747@anstoss
+DTSTAMP:20260726T190000Z
+DTSTART:20260726T190000Z
+DTEND:20260726T210000Z
+SUMMARY:Santa Fe – Real Santander 0:1
+DESCRIPTION:Liga Femenina · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525747.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525755@anstoss
+DTSTAMP:20260801T203000Z
+DTSTART:20260801T203000Z
+DTEND:20260801T223000Z
+SUMMARY:Real Santander – Orsomarso 0:1
+DESCRIPTION:Liga Femenina · 15. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525755.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525759@anstoss
+DTSTAMP:20260809T200000Z
+DTSTART:20260809T200000Z
+DTEND:20260809T220000Z
+SUMMARY:La Equidad – Real Santander 2:0
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525759.ht
+ ml
+END:VEVENT
+END:VCALENDAR

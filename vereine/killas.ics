@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Killas
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1545995@anstoss
+DTSTAMP:20260315T203000Z
+DTSTART:20260315T203000Z
+DTEND:20260315T223000Z
+SUMMARY:Alianza Lima – Killas 7:0
+DESCRIPTION:Liga Women · Apertura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1545997@anstoss
+DTSTAMP:20260321T150000Z
+DTSTART:20260321T150000Z
+DTEND:20260321T170000Z
+SUMMARY:Killas – UNSAAC 2:2
+DESCRIPTION:Liga Women · Apertura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545997.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546004@anstoss
+DTSTAMP:20260329T160000Z
+DTSTART:20260329T160000Z
+DTEND:20260329T180000Z
+SUMMARY:Carlos Mannucci – Killas 3:2
+DESCRIPTION:Liga Women · Apertura · 3. Spieltag
+LOCATION:Estadio Mansiche\, Trujillo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546006@anstoss
+DTSTAMP:20260424T160000Z
+DTSTART:20260424T160000Z
+DTEND:20260424T180000Z
+SUMMARY:Killas – Atl. Andahuaylas 0:1
+DESCRIPTION:Liga Women · Apertura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546017@anstoss
+DTSTAMP:20260509T153000Z
+DTSTART:20260509T153000Z
+DTEND:20260509T173000Z
+SUMMARY:Killas – Yanapuma 1:1
+DESCRIPTION:Liga Women · Apertura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546022@anstoss
+DTSTAMP:20260516T150000Z
+DTSTART:20260516T150000Z
+DTEND:20260516T170000Z
+SUMMARY:Sporting Cristal – Killas 4:1
+DESCRIPTION:Liga Women · Apertura · 7. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546028@anstoss
+DTSTAMP:20260521T160000Z
+DTSTART:20260521T160000Z
+DTEND:20260521T180000Z
+SUMMARY:Killas – FBC Melgar 0:2
+DESCRIPTION:Liga Women · Apertura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546032@anstoss
+DTSTAMP:20260524T150000Z
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+SUMMARY:Defensores – Killas 1:6
+DESCRIPTION:Liga Women · Apertura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546861@anstoss
+DTSTAMP:20260530T181500Z
+DTSTART:20260530T181500Z
+DTEND:20260530T201500Z
+SUMMARY:Killas – U. de Deportes 0:2
+DESCRIPTION:Liga Women · Apertura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548204@anstoss
+DTSTAMP:20260613T181500Z
+DTSTART:20260613T181500Z
+DTEND:20260613T201500Z
+SUMMARY:Flamengo FBC – Killas 3:2
+DESCRIPTION:Liga Women · Apertura · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548204.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557280@anstoss
+DTSTAMP:20260725T150000Z
+DTSTART:20260725T150000Z
+DTEND:20260725T170000Z
+SUMMARY:Killas – Alianza Lima 0:3
+DESCRIPTION:Liga Women · Clausura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584353@anstoss
+DTSTAMP:20260802T180000Z
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+SUMMARY:UNSAAC – Killas 1:2
+DESCRIPTION:Liga Women · Clausura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584355@anstoss
+DTSTAMP:20260805T150000Z
+DTSTART:20260805T150000Z
+DTEND:20260805T170000Z
+SUMMARY:Killas – Carlos Mannucci 0:3
+DESCRIPTION:Liga Women · Clausura · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584361@anstoss
+DTSTAMP:20260809T150000Z
+DTSTART:20260809T150000Z
+DTEND:20260809T170000Z
+SUMMARY:Atl. Andahuaylas – Killas 2:0
+DESCRIPTION:Liga Women · Clausura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620977@anstoss
+DTSTAMP:20260822T201500Z
+DTSTART:20260822T201500Z
+DTEND:20260822T221500Z
+SUMMARY:Yanapuma – Killas 1:2
+DESCRIPTION:Liga Women · Clausura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1622725@anstoss
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:Killas – Sporting Cristal 0:4
+DESCRIPTION:Liga Women · Clausura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622725.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629825@anstoss
+DTSTAMP:20260904T180000Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:FBC Melgar – Killas 1:0
+DESCRIPTION:Liga Women · Clausura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629825.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632247@anstoss
+DTSTAMP:20260911T201500Z
+DTSTART:20260911T201500Z
+DTEND:20260911T221500Z
+SUMMARY:Killas – Defensores 3:1
+DESCRIPTION:Liga Women · Clausura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634303@anstoss
+DTSTAMP:20260919T201500Z
+DTSTART:20260919T201500Z
+DTEND:20260919T221500Z
+SUMMARY:U. de Deportes – Killas
+DESCRIPTION:Liga Women · Clausura · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634303.ht
+ ml
+END:VEVENT
+END:VCALENDAR

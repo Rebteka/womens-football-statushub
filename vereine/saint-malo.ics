@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Saint-Malo
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1581000@anstoss
+DTSTAMP:20260905T160000Z
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+SUMMARY:Strasbourg – Saint-Malo 3:2
+DESCRIPTION:Première Ligue · 1. Spieltag
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581001@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Saint-Malo – Montpellier 1:0
+DESCRIPTION:Première Ligue · 2. Spieltag
+LOCATION:Stade de Marville\, Paris - La Courneuve
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581003@anstoss
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:Saint-Malo – FC Fleury 91
+DESCRIPTION:Première Ligue · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581003.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581004@anstoss
+DTSTAMP:20261003T160000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Le Havre – Saint-Malo
+DESCRIPTION:Première Ligue · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581006@anstoss
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Saint-Malo – Nantes
+DESCRIPTION:Première Ligue · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581009@anstoss
+DTSTAMP:20261024T160000Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Saint-Malo – Paris FC
+DESCRIPTION:Première Ligue · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581009.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581010@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Toulouse – Saint-Malo
+DESCRIPTION:Première Ligue · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581012@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Saint-Malo – Marseille
+DESCRIPTION:Première Ligue · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581013@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lyon – Saint-Malo
+DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581015@anstoss
+DTSTAMP:20261121T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Paris Saint Germain – Saint-Malo
+DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585119@anstoss
+DTSTAMP:20261212T160000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Saint-Malo – Lens
+DESCRIPTION:Première Ligue · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581019@anstoss
+DTSTAMP:20261219T160000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Nantes – Saint-Malo
+DESCRIPTION:Première Ligue · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Marcel Saupin\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581020@anstoss
+DTSTAMP:20270116T160000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:FC Fleury 91 – Saint-Malo
+DESCRIPTION:Première Ligue · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581022@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Saint-Malo – Toulouse
+DESCRIPTION:Première Ligue · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581023@anstoss
+DTSTAMP:20270206T160000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Montpellier – Saint-Malo
+DESCRIPTION:Première Ligue · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581026@anstoss
+DTSTAMP:20270220T160000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Saint-Malo – Le Havre
+DESCRIPTION:Première Ligue · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581027@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Saint-Malo – Strasbourg
+DESCRIPTION:Première Ligue · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581029@anstoss
+DTSTAMP:20270320T160000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Marseille – Saint-Malo
+DESCRIPTION:Première Ligue · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585127@anstoss
+DTSTAMP:20270327T160000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Lens – Saint-Malo
+DESCRIPTION:Première Ligue · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Degouve-Brabant Stadium\, Arras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581031@anstoss
+DTSTAMP:20270407T150000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Saint-Malo – Paris Saint Germain
+DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581034@anstoss
+DTSTAMP:20270501T150000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Saint-Malo – Lyon
+DESCRIPTION:Première Ligue · 21. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581035@anstoss
+DTSTAMP:20270504T150000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Paris FC – Saint-Malo
+DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581035.ht
+ ml
+END:VEVENT
+END:VCALENDAR

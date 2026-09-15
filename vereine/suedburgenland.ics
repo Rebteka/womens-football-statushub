@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Südburgenland
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1574591@anstoss
+DTSTAMP:20260801T123000Z
+DTSTART:20260801T123000Z
+DTEND:20260801T143000Z
+SUMMARY:Salzburg – Südburgenland 2:0
+DESCRIPTION:Frauenliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574593@anstoss
+DTSTAMP:20260808T143000Z
+DTSTART:20260808T143000Z
+DTEND:20260808T163000Z
+SUMMARY:First Vienna – Südburgenland 1:1
+DESCRIPTION:Frauenliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574593.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574602@anstoss
+DTSTAMP:20260816T120000Z
+DTSTART:20260816T120000Z
+DTEND:20260816T140000Z
+SUMMARY:Südburgenland – SK Rapid 2:2
+DESCRIPTION:Frauenliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574607@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Südburgenland – Kleinmünchen / BW Linz 0:1
+DESCRIPTION:Frauenliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574612@anstoss
+DTSTAMP:20260829T160000Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:Sturm Graz – Südburgenland 3:1
+DESCRIPTION:Frauenliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574612.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574617@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Südburgenland – Austria Wien 0:5
+DESCRIPTION:Frauenliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574617.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574621@anstoss
+DTSTAMP:20260919T180000Z
+DTSTART:20260919T180000Z
+DTEND:20260919T200000Z
+SUMMARY:St. Pölten – Südburgenland
+DESCRIPTION:Frauenliga · 7. Spieltag
+LOCATION:NV Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574621.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574627@anstoss
+DTSTAMP:20260927T083000Z
+DTSTART:20260927T083000Z
+DTEND:20260927T103000Z
+SUMMARY:Südburgenland – Rheindorf Altach
+DESCRIPTION:Frauenliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574627.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574629@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:LASK – Südburgenland
+DESCRIPTION:Frauenliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574637@anstoss
+DTSTAMP:20261017T123000Z
+DTSTART:20261017T123000Z
+DTEND:20261017T143000Z
+SUMMARY:Südburgenland – Salzburg
+DESCRIPTION:Frauenliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574642@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
+SUMMARY:Südburgenland – First Vienna
+DESCRIPTION:Frauenliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574647@anstoss
+DTSTAMP:20261030T170000Z
+DTSTART:20261030T170000Z
+DTEND:20261030T190000Z
+SUMMARY:SK Rapid – Südburgenland
+DESCRIPTION:Frauenliga · 12. Spieltag
+LOCATION:Allianz Stadion\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574649@anstoss
+DTSTAMP:20261114T130000Z
+DTSTART:20261114T130000Z
+DTEND:20261114T150000Z
+SUMMARY:Kleinmünchen / BW Linz – Südburgenland
+DESCRIPTION:Frauenliga · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574649.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574657@anstoss
+DTSTAMP:20261120T160000Z
+DTSTART:20261120T160000Z
+DTEND:20261120T180000Z
+SUMMARY:Südburgenland – Sturm Graz
+DESCRIPTION:Frauenliga · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574658@anstoss
+DTSTAMP:20270314T160000Z
+DTSTART:20270314T160000Z
+DTEND:20270314T180000Z
+SUMMARY:Austria Wien – Südburgenland
+DESCRIPTION:Frauenliga · 15. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574667@anstoss
+DTSTAMP:20270321T123000Z
+DTSTART:20270321T123000Z
+DTEND:20270321T143000Z
+SUMMARY:Südburgenland – St. Pölten
+DESCRIPTION:Frauenliga · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574667.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574671@anstoss
+DTSTAMP:20270404T083000Z
+DTSTART:20270404T083000Z
+DTEND:20270404T103000Z
+SUMMARY:Rheindorf Altach – Südburgenland
+DESCRIPTION:Frauenliga · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574671.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574677@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:Südburgenland – LASK
+DESCRIPTION:Frauenliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574677.ht
+ ml
+END:VEVENT
+END:VCALENDAR

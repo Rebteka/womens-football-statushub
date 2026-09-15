@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Querétaro
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603306@anstoss
+DTSTAMP:20260802T230600Z
+DTSTART:20260802T230600Z
+DTEND:20260803T010600Z
+SUMMARY:Guadalajara – Querétaro 3:1
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603311@anstoss
+DTSTAMP:20260808T230000Z
+DTSTART:20260808T230000Z
+DTEND:20260809T010000Z
+SUMMARY:Querétaro – Santos Laguna 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603324@anstoss
+DTSTAMP:20260817T230000Z
+DTSTART:20260817T230000Z
+DTEND:20260818T010000Z
+SUMMARY:León – Querétaro 0:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603327@anstoss
+DTSTAMP:20260821T230000Z
+DTSTART:20260821T230000Z
+DTEND:20260822T010000Z
+SUMMARY:Pumas UNAM – Querétaro 5:0
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603337@anstoss
+DTSTAMP:20260829T230000Z
+DTSTART:20260829T230000Z
+DTEND:20260830T010000Z
+SUMMARY:Querétaro – Monterrey 0:4
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603350@anstoss
+DTSTAMP:20260906T220000Z
+DTSTART:20260906T220000Z
+DTEND:20260907T000000Z
+SUMMARY:Querétaro – Cruz Azul 0:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603358@anstoss
+DTSTAMP:20260913T180000Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Puebla – Querétaro 2:6
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603368@anstoss
+DTSTAMP:20260921T214500Z
+DTSTART:20260921T214500Z
+DTEND:20260921T234500Z
+SUMMARY:Atlante – Querétaro
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603373@anstoss
+DTSTAMP:20260926T180600Z
+DTSTART:20260926T180600Z
+DTEND:20260926T200600Z
+SUMMARY:Querétaro – Atlas
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603385@anstoss
+DTSTAMP:20261003T230000Z
+DTSTART:20261003T230000Z
+DTEND:20261004T010000Z
+SUMMARY:Querétaro – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603395@anstoss
+DTSTAMP:20261019T000600Z
+DTSTART:20261019T000600Z
+DTEND:20261019T020600Z
+SUMMARY:Tigres UANL – Querétaro
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603403@anstoss
+DTSTAMP:20261025T020600Z
+DTSTART:20261025T020600Z
+DTEND:20261025T040600Z
+SUMMARY:Juárez – Querétaro
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603412@anstoss
+DTSTAMP:20261101T010600Z
+DTSTART:20261101T010600Z
+DTEND:20261101T030600Z
+SUMMARY:Querétaro – Pachuca
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603419@anstoss
+DTSTAMP:20261106T010600Z
+DTSTART:20261106T010600Z
+DTEND:20261106T030600Z
+SUMMARY:Querétaro – Toluca
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603419.ht
+ ml
+END:VEVENT
+END:VCALENDAR

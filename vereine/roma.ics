@@ -1,0 +1,319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Roma
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1638317@anstoss
+DTSTAMP:20260923T164500Z
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+SUMMARY:OH Leuven – Roma
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601252@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Sassuolo – Roma
+DESCRIPTION:Serie A Femminile · 1. Spieltag
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638289@anstoss
+DTSTAMP:20260930T164500Z
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+SUMMARY:Roma – Barcelona
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601255@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Roma – Lazio
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601255.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601260@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Roma – AC Milan
+DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601268@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Juventus – Roma
+DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601268.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638302@anstoss
+DTSTAMP:20261028T174500Z
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+SUMMARY:Chelsea – Roma
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Stamford Bridge\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601272@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Roma – Napoli
+DESCRIPTION:Serie A Femminile · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601279@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Como 1907 – Roma
+DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601279.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638291@anstoss
+DTSTAMP:20261110T200000Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Roma – Servette Chênois
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601284@anstoss
+DTSTAMP:20261114T140000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Roma – Parma
+DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601284.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638338@anstoss
+DTSTAMP:20261119T200000Z
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+SUMMARY:SL Benfica – Roma
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601291@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Como – Roma
+DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601297@anstoss
+DTSTAMP:20261212T140000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Roma – Inter Mailand
+DESCRIPTION:Serie A Femminile · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638290@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Roma – Real Madrid
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601307@anstoss
+DTSTAMP:20270116T140000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Ternana – Roma
+DESCRIPTION:Serie A Femminile · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601309@anstoss
+DTSTAMP:20270123T140000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Roma – Fiorentina
+DESCRIPTION:Serie A Femminile · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601315@anstoss
+DTSTAMP:20270130T140000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Roma – Sassuolo
+DESCRIPTION:Serie A Femminile · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601323@anstoss
+DTSTAMP:20270206T140000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Lazio – Roma
+DESCRIPTION:Serie A Femminile · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601326@anstoss
+DTSTAMP:20270213T140000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:AC Milan – Roma
+DESCRIPTION:Serie A Femminile · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601332@anstoss
+DTSTAMP:20270220T140000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Roma – Juventus
+DESCRIPTION:Serie A Femminile · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601342@anstoss
+DTSTAMP:20270313T140000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Napoli – Roma
+DESCRIPTION:Serie A Femminile · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601344@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Roma – Como 1907
+DESCRIPTION:Serie A Femminile · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601354@anstoss
+DTSTAMP:20270403T130000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Parma – Roma
+DESCRIPTION:Serie A Femminile · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601356@anstoss
+DTSTAMP:20270410T130000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Roma – Como
+DESCRIPTION:Serie A Femminile · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601364@anstoss
+DTSTAMP:20270501T130000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Inter Mailand – Roma
+DESCRIPTION:Serie A Femminile · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601369@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Roma – Ternana
+DESCRIPTION:Serie A Femminile · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601375@anstoss
+DTSTAMP:20270515T130000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Fiorentina – Roma
+DESCRIPTION:Serie A Femminile · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601375.ht
+ ml
+END:VEVENT
+END:VCALENDAR

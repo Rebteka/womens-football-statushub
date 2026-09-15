@@ -260,6 +260,14 @@ h3 { font-size: 1.02rem; }
 .search-results small { color: var(--ink-3); margin-left: auto; text-align: right; }
 .search-results .kind { font-size: .65rem; text-transform: uppercase; letter-spacing: .05em; padding: .1rem .4rem; border-radius: 6px; background: var(--line); color: var(--ink-2); }
 
+/* Kalender-Abo */
+.cal-box { display: grid; gap: .3rem; margin: 1rem 0; padding: .85rem 1rem; border-radius: var(--radius); background: var(--brand-soft); border: 1px solid color-mix(in srgb, var(--brand) 25%, transparent); }
+.cal-box span { display: flex; flex-wrap: wrap; gap: .25rem .5rem; font-weight: 600; }
+.cal-box a { color: var(--brand); }
+.cal-box small { color: var(--ink-2); }
+.context-note { color: var(--ink-2); font-size: .9rem; }
+.context-note a { color: var(--brand); font-weight: 600; }
+
 /* Footer */
 .footer { padding: 2rem 0 1rem; font-size: .8rem; color: var(--ink-3); border-top: 1px solid var(--line); margin-top: 2rem; }
 .footer p { margin: .25rem 0; }

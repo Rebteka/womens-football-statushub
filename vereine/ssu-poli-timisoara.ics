@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SSU Poli Timişoara
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1622617@anstoss
+DTSTAMP:20260823T080000Z
+DTSTART:20260823T080000Z
+DTEND:20260823T100000Z
+SUMMARY:Vasas Femina – SSU Poli Timişoara 0:14
+DESCRIPTION:Liga 1 Feminin · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622617.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623484@anstoss
+DTSTAMP:20260830T100000Z
+DTSTART:20260830T100000Z
+DTEND:20260830T120000Z
+SUMMARY:SSU Poli Timişoara – Gloria Bistrița-Năsăud 0:1
+DESCRIPTION:Liga 1 Feminin · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623485@anstoss
+DTSTAMP:20260905T080000Z
+DTSTART:20260905T080000Z
+DTEND:20260905T100000Z
+SUMMARY:Univ. Craiova – SSU Poli Timişoara 1:6
+DESCRIPTION:Liga 1 Feminin · 3. Spieltag
+LOCATION:Stadionul Ion Oblemenco\, Craiova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623491@anstoss
+DTSTAMP:20260915T100000Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:SSU Poli Timişoara – Olimpia Cluj 1:0
+DESCRIPTION:Liga 1 Feminin · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623493@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Csikszereda MC – SSU Poli Timişoara
+DESCRIPTION:Liga 1 Feminin · 5. Spieltag
+LOCATION:Stadionul Municipal\, Miercurea Ciuc
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623497@anstoss
+DTSTAMP:20260926T100000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+SUMMARY:FC Rapid Bucuresti – SSU Poli Timişoara
+DESCRIPTION:Liga 1 Feminin · 6. Spieltag
+LOCATION:Superbet Arena - Giulesti\, Bucharest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623502@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART:20261003T100000Z
+DTEND:20261003T120000Z
+SUMMARY:SSU Poli Timişoara – Farul Constanţa
+DESCRIPTION:Liga 1 Feminin · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623508@anstoss
+DTSTAMP:20261021T080000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:SSU Poli Timişoara – Vasas Femina
+DESCRIPTION:Liga 1 Feminin · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623508.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623509@anstoss
+DTSTAMP:20261025T090000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Gloria Bistrița-Năsăud – SSU Poli Timişoara
+DESCRIPTION:Liga 1 Feminin · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623516@anstoss
+DTSTAMP:20261101T090000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:SSU Poli Timişoara – Univ. Craiova
+DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623516.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623519@anstoss
+DTSTAMP:20261108T090000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Olimpia Cluj – SSU Poli Timişoara
+DESCRIPTION:Liga 1 Feminin · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623519.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623523@anstoss
+DTSTAMP:20261115T090000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:SSU Poli Timişoara – Csikszereda MC
+DESCRIPTION:Liga 1 Feminin · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623527@anstoss
+DTSTAMP:20261122T090000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SSU Poli Timişoara – FC Rapid Bucuresti
+DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623527.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623529@anstoss
+DTSTAMP:20261209T090000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Farul Constanţa – SSU Poli Timişoara
+DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623529.ht
+ ml
+END:VEVENT
+END:VCALENDAR

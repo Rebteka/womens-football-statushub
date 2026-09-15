@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nojima Stella
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560929@anstoss
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:Nojima Stella – Elfen Saitama 1:0
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560936@anstoss
+DTSTAMP:20260830T090000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T110000Z
+SUMMARY:Urawa Reds – Nojima Stella 5:1
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560936.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560939@anstoss
+DTSTAMP:20260906T080000Z
+DTSTART:20260906T080000Z
+DTEND:20260906T100000Z
+SUMMARY:Nojima Stella – INAC Kobe Leonessa 1:4
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560939.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560944@anstoss
+DTSTAMP:20261018T050000Z
+DTSTART:20261018T050000Z
+DTEND:20261018T070000Z
+SUMMARY:Cerezo Osaka – Nojima Stella
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560944.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560951@anstoss
+DTSTAMP:20261021T093000Z
+DTSTART:20261021T093000Z
+DTEND:20261021T113000Z
+SUMMARY:Nojima Stella – Albirex Niigata
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560957@anstoss
+DTSTAMP:20261024T050000Z
+DTSTART:20261024T050000Z
+DTEND:20261024T070000Z
+SUMMARY:Vegalta Sendai – Nojima Stella
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560965@anstoss
+DTSTAMP:20261031T040000Z
+DTSTART:20261031T040000Z
+DTEND:20261031T060000Z
+SUMMARY:JEF United – Nojima Stella
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560969@anstoss
+DTSTAMP:20261107T050000Z
+DTSTART:20261107T050000Z
+DTEND:20261107T070000Z
+SUMMARY:Nojima Stella – Tokyo Verdy Beleza
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560976@anstoss
+DTSTAMP:20261114T050000Z
+DTSTART:20261114T050000Z
+DTEND:20261114T070000Z
+SUMMARY:Parceiro Nagano – Nojima Stella
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560984@anstoss
+DTSTAMP:20261118T100000Z
+DTSTART:20261118T100000Z
+DTEND:20261118T120000Z
+SUMMARY:Sanfrecce Hiroshima – Nojima Stella
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560984.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560988@anstoss
+DTSTAMP:20261123T040000Z
+DTSTART:20261123T040000Z
+DTEND:20261123T060000Z
+SUMMARY:Nojima Stella – Omiya Ardija Ventus
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560994@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Nojima Stella – Vegalta Sendai
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560994.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561000@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Omiya Ardija Ventus – Nojima Stella
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561005@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Nojima Stella – Parceiro Nagano
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561013@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Elfen Saitama – Nojima Stella
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561018@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Nojima Stella – Cerezo Osaka
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561025@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Nojima Stella – Urawa Reds
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561027@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Albirex Niigata – Nojima Stella
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561035@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:INAC Kobe Leonessa – Nojima Stella
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561042@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Nojima Stella – Sanfrecce Hiroshima
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561042.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561048@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Nojima Stella – JEF United
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561052@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Tokyo Verdy Beleza – Nojima Stella
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561052.ht
+ ml
+END:VEVENT
+END:VCALENDAR

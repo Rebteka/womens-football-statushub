@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deutschland
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523813@anstoss
+DTSTAMP:20260303T164500Z
+DTSTART:20260303T164500Z
+DTEND:20260303T184500Z
+SUMMARY:Deutschland – Slovenia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Rudolf-Harbig-Stadion\, Dresden
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523813.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523838@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:Norwegen – Deutschland 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Lyse Arena\, Stavanger
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523838.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523863@anstoss
+DTSTAMP:20260414T161500Z
+DTSTART:20260414T161500Z
+DTEND:20260414T181500Z
+SUMMARY:Deutschland – Österreich 5:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523888@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Österreich – Deutschland 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Josko Arena\, Ried
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523913@anstoss
+DTSTAMP:20260605T183500Z
+DTSTART:20260605T183500Z
+DTEND:20260605T203500Z
+SUMMARY:Deutschland – Norwegen 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:RheinEnergieStadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523938@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Slovenia – Deutschland 0:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stadion Stozice\, Ljubljana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523938.ht
+ ml
+END:VEVENT
+END:VCALENDAR

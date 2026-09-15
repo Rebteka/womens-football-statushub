@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Watford
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1609371@anstoss
+DTSTAMP:20260904T183000Z
+DTSTART:20260904T183000Z
+DTEND:20260904T203000Z
+SUMMARY:Watford – Burnley 0:0
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Vicarage Road\, Watford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609379@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Nottingham Forest – Watford 2:2
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609387@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Watford – Bristol City
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609394@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Watford – Sunderland
+DESCRIPTION:Women's Championship · 4. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609400@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Wolverhampton – Watford
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609401@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
+SUMMARY:Watford – Durham
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609412@anstoss
+DTSTAMP:20261108T150000Z
+DTSTART:20261108T150000Z
+DTEND:20261108T170000Z
+SUMMARY:Leicester City FC – Watford
+DESCRIPTION:Women's Championship · 7. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609417@anstoss
+DTSTAMP:20261115T140000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Watford – Ipswich Town
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609420@anstoss
+DTSTAMP:20261220T140000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Newcastle United – Watford
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609430@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Watford – Southampton
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609432@anstoss
+DTSTAMP:20270123T180000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T200000Z
+SUMMARY:Sheffield United – Watford
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609439@anstoss
+DTSTAMP:20270127T193000Z
+DTSTART:20270127T193000Z
+DTEND:20270127T213000Z
+SUMMARY:Ipswich Town – Watford
+DESCRIPTION:Women's Championship · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609439.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609447@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Watford – Wolverhampton
+DESCRIPTION:Women's Championship · 13. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609450@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Bristol City – Watford
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609450.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609455@anstoss
+DTSTAMP:20270212T193000Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Watford – Leicester City FC
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609462@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Burnley – Watford
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609470@anstoss
+DTSTAMP:20270321T140000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Southampton – Watford
+DESCRIPTION:Women's Championship · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609473@anstoss
+DTSTAMP:20270326T193000Z
+DTSTART:20270326T193000Z
+DTEND:20270326T213000Z
+SUMMARY:Watford – Nottingham Forest
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609483@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Watford – Newcastle United
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609486@anstoss
+DTSTAMP:20270411T110000Z
+DTSTART:20270411T110000Z
+DTEND:20270411T130000Z
+SUMMARY:Durham – Watford
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609491@anstoss
+DTSTAMP:20270501T110000Z
+DTSTART:20270501T110000Z
+DTEND:20270501T130000Z
+SUMMARY:Watford – Sheffield United
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609501@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Sunderland – Watford
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609501.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Göteborg
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501352@anstoss
+DTSTAMP:20260328T150000Z
+DTSTART:20260328T150000Z
+DTEND:20260328T170000Z
+SUMMARY:Göteborg – Linköping 2:3
+DESCRIPTION:Elitettan · 1. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503696@anstoss
+DTSTAMP:20260406T110000Z
+DTSTART:20260406T110000Z
+DTEND:20260406T130000Z
+SUMMARY:Enskede – Göteborg 0:2
+DESCRIPTION:Elitettan · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501366@anstoss
+DTSTAMP:20260424T170000Z
+DTSTART:20260424T170000Z
+DTEND:20260424T190000Z
+SUMMARY:Alingsås – Göteborg 1:1
+DESCRIPTION:Elitettan · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501374@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:Göteborg – Gamla Upsala 2:1
+DESCRIPTION:Elitettan · 4. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501385@anstoss
+DTSTAMP:20260510T110000Z
+DTSTART:20260510T110000Z
+DTEND:20260510T130000Z
+SUMMARY:Sandviken – Göteborg 0:5
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501389@anstoss
+DTSTAMP:20260516T140000Z
+DTSTART:20260516T140000Z
+DTEND:20260516T160000Z
+SUMMARY:Göteborg – Örebro SK 2:1
+DESCRIPTION:Elitettan · 6. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501396@anstoss
+DTSTAMP:20260522T170000Z
+DTSTART:20260522T170000Z
+DTEND:20260522T190000Z
+SUMMARY:Jitex – Göteborg 0:3
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501403@anstoss
+DTSTAMP:20260530T110000Z
+DTSTART:20260530T110000Z
+DTEND:20260530T130000Z
+SUMMARY:Göteborg – Häcken II 2:1
+DESCRIPTION:Elitettan · 8. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501409@anstoss
+DTSTAMP:20260613T110000Z
+DTSTART:20260613T110000Z
+DTEND:20260613T130000Z
+SUMMARY:Elfsborg – Göteborg 1:1
+DESCRIPTION:Elitettan · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501415@anstoss
+DTSTAMP:20260621T140000Z
+DTSTART:20260621T140000Z
+DTEND:20260621T160000Z
+SUMMARY:Göteborg – Trelleborg 3:1
+DESCRIPTION:Elitettan · 10. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501424@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:Husqvarna – Göteborg 4:4
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501435@anstoss
+DTSTAMP:20260801T140000Z
+DTSTART:20260801T140000Z
+DTEND:20260801T160000Z
+SUMMARY:Umeå – Göteborg 1:1
+DESCRIPTION:Elitettan · 12. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501436@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:Göteborg – KIF Örebro 3:0
+DESCRIPTION:Elitettan · 13. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501445@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Göteborg – Sandviken 6:0
+DESCRIPTION:Elitettan · 14. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501455@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:Trelleborg – Göteborg 0:4
+DESCRIPTION:Elitettan · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501462@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Linköping – Göteborg 1:4
+DESCRIPTION:Elitettan · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501465@anstoss
+DTSTAMP:20260905T110000Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:Göteborg – Husqvarna 2:1
+DESCRIPTION:Elitettan · 17. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501471@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Göteborg – Jitex 1:1
+DESCRIPTION:Elitettan · 18. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501481@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:KIF Örebro – Göteborg
+DESCRIPTION:Elitettan · 19. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501486@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Göteborg – Elfsborg
+DESCRIPTION:Elitettan · 20. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501493@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Göteborg – Alingsås
+DESCRIPTION:Elitettan · 21. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501504@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Örebro SK – Göteborg
+DESCRIPTION:Elitettan · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503717@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Göteborg – Enskede
+DESCRIPTION:Elitettan · 23. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503717.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501514@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Häcken II – Göteborg
+DESCRIPTION:Elitettan · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501514.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501520@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Gamla Upsala – Göteborg
+DESCRIPTION:Elitettan · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501520.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501529@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Göteborg – Umeå
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501529.ht
+ ml
+END:VEVENT
+END:VCALENDAR

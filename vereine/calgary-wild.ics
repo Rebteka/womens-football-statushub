@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calgary Wild
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1534035@anstoss
+DTSTAMP:20260425T230000Z
+DTSTART:20260425T230000Z
+DTEND:20260426T010000Z
+SUMMARY:Calgary Wild – Montreal Roses 0:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534036@anstoss
+DTSTAMP:20260502T210000Z
+DTSTART:20260502T210000Z
+DTEND:20260502T230000Z
+SUMMARY:Ottawa Rapid – Calgary Wild 5:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534042@anstoss
+DTSTAMP:20260516T210000Z
+DTSTART:20260516T210000Z
+DTEND:20260516T230000Z
+SUMMARY:Calgary Wild – Montreal Roses 2:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534042.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534046@anstoss
+DTSTAMP:20260524T230000Z
+DTSTART:20260524T230000Z
+DTEND:20260525T010000Z
+SUMMARY:Calgary Wild – Halifax Tides 0:4
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534049@anstoss
+DTSTAMP:20260531T200000Z
+DTSTART:20260531T200000Z
+DTEND:20260531T220000Z
+SUMMARY:Calgary Wild – AFC Toronto 0:4
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534049.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534050@anstoss
+DTSTAMP:20260613T163000Z
+DTSTART:20260613T163000Z
+DTEND:20260613T183000Z
+SUMMARY:Halifax Tides – Calgary Wild 2:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534050.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534055@anstoss
+DTSTAMP:20260621T184000Z
+DTSTART:20260621T184000Z
+DTEND:20260621T204000Z
+SUMMARY:Montreal Roses – Calgary Wild 1:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534055.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534057@anstoss
+DTSTAMP:20260627T230000Z
+DTSTART:20260627T230000Z
+DTEND:20260628T010000Z
+SUMMARY:Calgary Wild – Halifax Tides 0:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534057.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534060@anstoss
+DTSTAMP:20260705T180000Z
+DTSTART:20260705T180000Z
+DTEND:20260705T200000Z
+SUMMARY:Ottawa Rapid – Calgary Wild 3:1
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534060.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534063@anstoss
+DTSTAMP:20260711T230000Z
+DTSTART:20260711T230000Z
+DTEND:20260712T010000Z
+SUMMARY:Calgary Wild – Vancouver Rise 2:4
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534063.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534067@anstoss
+DTSTAMP:20260723T010000Z
+DTSTART:20260723T010000Z
+DTEND:20260723T030000Z
+SUMMARY:Calgary Wild – Ottawa Rapid 1:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534067.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534070@anstoss
+DTSTAMP:20260728T230000Z
+DTSTART:20260728T230000Z
+DTEND:20260729T010000Z
+SUMMARY:AFC Toronto – Calgary Wild 1:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534070.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534072@anstoss
+DTSTAMP:20260801T200000Z
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+SUMMARY:Calgary Wild – AFC Toronto 0:6
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534072.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534075@anstoss
+DTSTAMP:20260808T230000Z
+DTSTART:20260808T230000Z
+DTEND:20260809T010000Z
+SUMMARY:Vancouver Rise – Calgary Wild 2:3
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534075.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534077@anstoss
+DTSTAMP:20260815T200000Z
+DTSTART:20260815T200000Z
+DTEND:20260815T220000Z
+SUMMARY:Calgary Wild – Ottawa Rapid 4:3
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534077.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534082@anstoss
+DTSTAMP:20260823T190000Z
+DTSTART:20260823T190000Z
+DTEND:20260823T210000Z
+SUMMARY:Montreal Roses – Calgary Wild 2:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534082.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534084@anstoss
+DTSTAMP:20260829T220000Z
+DTSTART:20260829T220000Z
+DTEND:20260830T000000Z
+SUMMARY:Vancouver Rise – Calgary Wild 2:2
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534084.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534088@anstoss
+DTSTAMP:20260906T180000Z
+DTSTART:20260906T180000Z
+DTEND:20260906T200000Z
+SUMMARY:AFC Toronto – Calgary Wild 0:0
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534088.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534090@anstoss
+DTSTAMP:20260912T180000Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:Calgary Wild – Halifax Tides
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534090.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534094@anstoss
+DTSTAMP:20260920T230000Z
+DTSTART:20260920T230000Z
+DTEND:20260921T010000Z
+SUMMARY:Ottawa Rapid – Calgary Wild
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534094.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534097@anstoss
+DTSTAMP:20260927T200000Z
+DTSTART:20260927T200000Z
+DTEND:20260927T220000Z
+SUMMARY:Calgary Wild – Vancouver Rise
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534097.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534099@anstoss
+DTSTAMP:20261003T180000Z
+DTSTART:20261003T180000Z
+DTEND:20261003T200000Z
+SUMMARY:Halifax Tides – Calgary Wild
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534099.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534102@anstoss
+DTSTAMP:20261018T170000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+SUMMARY:AFC Toronto – Calgary Wild
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534102.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1534105@anstoss
+DTSTAMP:20261025T210000Z
+DTSTART:20261025T210000Z
+DTEND:20261025T230000Z
+SUMMARY:Vancouver Rise – Calgary Wild
+DESCRIPTION:Northern Super League · Regular season
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1534105.ht
+ ml
+END:VEVENT
+END:VCALENDAR

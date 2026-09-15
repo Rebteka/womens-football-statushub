@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Luxembourg
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523826@anstoss
+DTSTAMP:20260303T183000Z
+DTSTART:20260303T183000Z
+DTEND:20260303T203000Z
+SUMMARY:Luxembourg – Scotland 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stade Emile Mayrisch\, Esch-sur-Alzette
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523826.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523851@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:Scotland – Luxembourg 7:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523851.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523876@anstoss
+DTSTAMP:20260414T171500Z
+DTSTART:20260414T171500Z
+DTEND:20260414T191500Z
+SUMMARY:Israel – Luxembourg 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523901@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Luxembourg – Israel 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523925@anstoss
+DTSTAMP:20260605T181500Z
+DTSTART:20260605T181500Z
+DTEND:20260605T201500Z
+SUMMARY:Belgien – Luxembourg 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523925.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523950@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Luxembourg – Belgien 0:7
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523950.ht
+ ml
+END:VEVENT
+END:VCALENDAR

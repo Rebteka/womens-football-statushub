@@ -1,0 +1,707 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Premiership Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535373@anstoss
+DTSTAMP:20260501T184500Z
+DTSTART:20260501T184500Z
+DTEND:20260501T204500Z
+SUMMARY:Linfield – Derry City 5:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535371@anstoss
+DTSTAMP:20260501T184500Z
+DTSTART:20260501T184500Z
+DTEND:20260501T204500Z
+SUMMARY:Glentoran BU – Lisburn Rangers 5:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535372@anstoss
+DTSTAMP:20260501T184500Z
+DTSTART:20260501T184500Z
+DTEND:20260501T204500Z
+SUMMARY:Larne – Crusaders 2:2
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535370@anstoss
+DTSTAMP:20260501T190000Z
+DTSTART:20260501T190000Z
+DTEND:20260501T210000Z
+SUMMARY:Cliftonville – Lisburn Ladies 5:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535375@anstoss
+DTSTAMP:20260508T190000Z
+DTSTART:20260508T190000Z
+DTEND:20260508T210000Z
+SUMMARY:Crusaders – Derry City 3:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535374@anstoss
+DTSTAMP:20260508T190000Z
+DTSTART:20260508T190000Z
+DTEND:20260508T210000Z
+SUMMARY:Lisburn Ladies – Larne 1:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535377@anstoss
+DTSTAMP:20260515T184500Z
+DTSTART:20260515T184500Z
+DTEND:20260515T204500Z
+SUMMARY:Larne – Linfield 0:9
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535378@anstoss
+DTSTAMP:20260515T184500Z
+DTSTART:20260515T184500Z
+DTEND:20260515T204500Z
+SUMMARY:Lisburn Rangers – Derry City 3:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535379@anstoss
+DTSTAMP:20260515T190000Z
+DTSTART:20260515T190000Z
+DTEND:20260515T210000Z
+SUMMARY:Crusaders – Cliftonville 0:7
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535376@anstoss
+DTSTAMP:20260517T160000Z
+DTSTART:20260517T160000Z
+DTEND:20260517T180000Z
+SUMMARY:Glentoran BU – Lisburn Ladies 7:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535381@anstoss
+DTSTAMP:20260522T184500Z
+DTSTART:20260522T184500Z
+DTEND:20260522T204500Z
+SUMMARY:Glentoran BU – Larne 5:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535383@anstoss
+DTSTAMP:20260522T184500Z
+DTSTART:20260522T184500Z
+DTEND:20260522T204500Z
+SUMMARY:Lisburn Rangers – Crusaders 1:3
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535380@anstoss
+DTSTAMP:20260522T190000Z
+DTSTART:20260522T190000Z
+DTEND:20260522T210000Z
+SUMMARY:Cliftonville – Linfield 3:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535382@anstoss
+DTSTAMP:20260522T190000Z
+DTSTART:20260522T190000Z
+DTEND:20260522T210000Z
+SUMMARY:Lisburn Ladies – Derry City 0:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535384@anstoss
+DTSTAMP:20260529T184500Z
+DTSTART:20260529T184500Z
+DTEND:20260529T204500Z
+SUMMARY:Larne – Derry City 1:6
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535385@anstoss
+DTSTAMP:20260529T190000Z
+DTSTART:20260529T190000Z
+DTEND:20260529T210000Z
+SUMMARY:Lisburn Ladies – Crusaders 0:3
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535390@anstoss
+DTSTAMP:20260619T184500Z
+DTSTART:20260619T184500Z
+DTEND:20260619T204500Z
+SUMMARY:Linfield – Lisburn Ladies 8:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535389@anstoss
+DTSTAMP:20260619T184500Z
+DTSTART:20260619T184500Z
+DTEND:20260619T204500Z
+SUMMARY:Larne – Lisburn Rangers 0:3
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535388@anstoss
+DTSTAMP:20260619T190000Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:Cliftonville – Derry City 5:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535391@anstoss
+DTSTAMP:20260619T190000Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:Crusaders – Glentoran BU 2:4
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535392@anstoss
+DTSTAMP:20260626T190000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Cliftonville – Larne 3:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535395@anstoss
+DTSTAMP:20260626T190000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Crusaders – Linfield 1:9
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535394@anstoss
+DTSTAMP:20260626T190000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Lisburn Ladies – Lisburn Rangers 0:3
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535393@anstoss
+DTSTAMP:20260628T140000Z
+DTSTART:20260628T140000Z
+DTEND:20260628T160000Z
+SUMMARY:Glentoran BU – Derry City 3:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535387@anstoss
+DTSTAMP:20260703T184500Z
+DTSTART:20260703T184500Z
+DTEND:20260703T204500Z
+SUMMARY:Linfield – Lisburn Rangers 3:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535397@anstoss
+DTSTAMP:20260703T184500Z
+DTSTART:20260703T184500Z
+DTEND:20260703T204500Z
+SUMMARY:Larne – Lisburn Ladies 1:2
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535396@anstoss
+DTSTAMP:20260703T184500Z
+DTSTART:20260703T184500Z
+DTEND:20260703T204500Z
+SUMMARY:Derry City – Crusaders 3:3
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535400@anstoss
+DTSTAMP:20260710T184500Z
+DTSTART:20260710T184500Z
+DTEND:20260710T204500Z
+SUMMARY:Linfield – Glentoran BU 2:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535401@anstoss
+DTSTAMP:20260710T184500Z
+DTSTART:20260710T184500Z
+DTEND:20260710T204500Z
+SUMMARY:Cliftonville – Lisburn Rangers 3:4
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535402@anstoss
+DTSTAMP:20260724T184500Z
+DTSTART:20260724T184500Z
+DTEND:20260724T204500Z
+SUMMARY:Derry City – Larne 7:0
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535405@anstoss
+DTSTAMP:20260724T190000Z
+DTSTART:20260724T190000Z
+DTEND:20260724T210000Z
+SUMMARY:Crusaders – Lisburn Rangers 2:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535404@anstoss
+DTSTAMP:20260724T190000Z
+DTSTART:20260724T190000Z
+DTEND:20260724T210000Z
+SUMMARY:Lisburn Ladies – Cliftonville 0:7
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535408@anstoss
+DTSTAMP:20260731T184500Z
+DTSTART:20260731T184500Z
+DTEND:20260731T204500Z
+SUMMARY:Linfield – Larne 2:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535409@anstoss
+DTSTAMP:20260731T184500Z
+DTSTART:20260731T184500Z
+DTEND:20260731T204500Z
+SUMMARY:Lisburn Rangers – Lisburn Ladies 6:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535407@anstoss
+DTSTAMP:20260731T184500Z
+DTSTART:20260731T184500Z
+DTEND:20260731T204500Z
+SUMMARY:Derry City – Glentoran BU 0:1
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535406@anstoss
+DTSTAMP:20260731T190000Z
+DTSTART:20260731T190000Z
+DTEND:20260731T210000Z
+SUMMARY:Cliftonville – Crusaders 9:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535386@anstoss
+DTSTAMP:20260803T190000Z
+DTSTART:20260803T190000Z
+DTEND:20260803T210000Z
+SUMMARY:Cliftonville – Glentoran BU 3:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535411@anstoss
+DTSTAMP:20260807T184500Z
+DTSTART:20260807T184500Z
+DTEND:20260807T204500Z
+SUMMARY:Glentoran BU – Crusaders 5:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535412@anstoss
+DTSTAMP:20260807T184500Z
+DTSTART:20260807T184500Z
+DTEND:20260807T204500Z
+SUMMARY:Larne – Cliftonville 0:8
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535413@anstoss
+DTSTAMP:20260807T190000Z
+DTSTART:20260807T190000Z
+DTEND:20260807T210000Z
+SUMMARY:Lisburn Ladies – Linfield 1:6
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535410@anstoss
+DTSTAMP:20260809T143000Z
+DTSTART:20260809T143000Z
+DTEND:20260809T163000Z
+SUMMARY:Derry City – Lisburn Rangers 0:3
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535398@anstoss
+DTSTAMP:20260810T184500Z
+DTSTART:20260810T184500Z
+DTEND:20260810T204500Z
+SUMMARY:Linfield – Cliftonville 1:3
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535416@anstoss
+DTSTAMP:20260814T184500Z
+DTSTART:20260814T184500Z
+DTEND:20260814T204500Z
+SUMMARY:Larne – Glentoran BU 1:7
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535414@anstoss
+DTSTAMP:20260814T184500Z
+DTSTART:20260814T184500Z
+DTEND:20260814T204500Z
+SUMMARY:Lisburn Rangers – Cliftonville 0:3
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535415@anstoss
+DTSTAMP:20260814T184500Z
+DTSTART:20260814T184500Z
+DTEND:20260814T204500Z
+SUMMARY:Derry City – Linfield 1:2
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535417@anstoss
+DTSTAMP:20260814T190000Z
+DTSTART:20260814T190000Z
+DTEND:20260814T210000Z
+SUMMARY:Crusaders – Lisburn Ladies 1:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535399@anstoss
+DTSTAMP:20260818T184500Z
+DTSTART:20260818T184500Z
+DTEND:20260818T204500Z
+SUMMARY:Lisburn Ladies – Glentoran BU 0:6
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535418@anstoss
+DTSTAMP:20260826T190000Z
+DTSTART:20260826T190000Z
+DTEND:20260826T210000Z
+SUMMARY:Derry City – Lisburn Ladies 1:0
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535420@anstoss
+DTSTAMP:20260828T184500Z
+DTSTART:20260828T184500Z
+DTEND:20260828T204500Z
+SUMMARY:Linfield – Crusaders 7:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535421@anstoss
+DTSTAMP:20260828T184500Z
+DTSTART:20260828T184500Z
+DTEND:20260828T204500Z
+SUMMARY:Lisburn Rangers – Larne 5:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535419@anstoss
+DTSTAMP:20260830T150000Z
+DTSTART:20260830T150000Z
+DTEND:20260830T170000Z
+SUMMARY:Glentoran BU – Cliftonville 1:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535424@anstoss
+DTSTAMP:20260904T184500Z
+DTSTART:20260904T184500Z
+DTEND:20260904T204500Z
+SUMMARY:Lisburn Rangers – Linfield 5:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535422@anstoss
+DTSTAMP:20260904T184500Z
+DTSTART:20260904T184500Z
+DTEND:20260904T204500Z
+SUMMARY:Derry City – Cliftonville 0:4
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535425@anstoss
+DTSTAMP:20260904T190000Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:Crusaders – Larne 3:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535423@anstoss
+DTSTAMP:20260904T190000Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:Lisburn Ladies – Glentoran BU 0:4
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535403@anstoss
+DTSTAMP:20260907T190000Z
+DTSTART:20260907T190000Z
+DTEND:20260907T210000Z
+SUMMARY:Glentoran BU – Linfield 4:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638749@anstoss
+DTSTAMP:20260918T184500Z
+DTSTART:20260918T184500Z
+DTEND:20260918T204500Z
+SUMMARY:Derry City – Lisburn Ladies
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638751@anstoss
+DTSTAMP:20260918T190000Z
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+SUMMARY:Cliftonville – Lisburn Ladies
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638752@anstoss
+DTSTAMP:20260918T190000Z
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+SUMMARY:Crusaders – Larne
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638752.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638750@anstoss
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Glentoran BU – Linfield
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638755@anstoss
+DTSTAMP:20260925T184500Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:Linfield – Cliftonville
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638755.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638756@anstoss
+DTSTAMP:20260925T190000Z
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+SUMMARY:Lisburn Ladies – Crusaders
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638753@anstoss
+DTSTAMP:20260925T190000Z
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+SUMMARY:Derry City – Larne
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638754@anstoss
+DTSTAMP:20260927T153000Z
+DTSTART:20260927T153000Z
+DTEND:20260927T173000Z
+SUMMARY:Glentoran BU – Lisburn Ladies
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638757@anstoss
+DTSTAMP:20261004T170000Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Cliftonville – Glentoran BU
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638758@anstoss
+DTSTAMP:20261004T170000Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Crusaders – Derry City
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638758.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638760@anstoss
+DTSTAMP:20261004T170000Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Lisburn Ladies – Linfield
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638760.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638759@anstoss
+DTSTAMP:20261004T170000Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Larne – Lisburn Ladies
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638759.ht
+ ml
+END:VEVENT
+END:VCALENDAR

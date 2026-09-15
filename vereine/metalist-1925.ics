@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Metalist 1925
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558478@anstoss
+DTSTAMP:20260805T110000Z
+DTSTART:20260805T110000Z
+DTEND:20260805T130000Z
+SUMMARY:Metalist 1925 – Fenerbahce 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612432@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:Metalist 1925 – TSC 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612432.ht
+ ml
+END:VEVENT
+END:VCALENDAR

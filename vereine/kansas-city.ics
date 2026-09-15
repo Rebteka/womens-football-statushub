@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kansas City
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508358@anstoss
+DTSTAMP:20260314T200000Z
+DTSTART:20260314T200000Z
+DTEND:20260314T220000Z
+SUMMARY:Kansas City – Utah Royals 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508370@anstoss
+DTSTAMP:20260322T180000Z
+DTSTART:20260322T180000Z
+DTEND:20260322T200000Z
+SUMMARY:Chicago Red Stars – Kansas City 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508375@anstoss
+DTSTAMP:20260326T010000Z
+DTSTART:20260326T010000Z
+DTEND:20260326T030000Z
+SUMMARY:Seattle Reign FC – Kansas City 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:One Spokane Stadium\, Spokane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508380@anstoss
+DTSTAMP:20260328T200000Z
+DTSTART:20260328T200000Z
+DTEND:20260328T220000Z
+SUMMARY:Portland Thorns – Kansas City 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park\, Portland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508389@anstoss
+DTSTAMP:20260404T200000Z
+DTSTART:20260404T200000Z
+DTEND:20260404T220000Z
+SUMMARY:Kansas City – NJ/NY Gotham FC 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508394@anstoss
+DTSTAMP:20260425T000000Z
+DTSTART:20260425T000000Z
+DTEND:20260425T020000Z
+SUMMARY:Washington Spirit – Kansas City 4:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field\, Washington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508407@anstoss
+DTSTAMP:20260502T223000Z
+DTSTART:20260502T223000Z
+DTEND:20260503T003000Z
+SUMMARY:North Carolina Courage – Kansas City 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508419@anstoss
+DTSTAMP:20260510T162500Z
+DTSTART:20260510T162500Z
+DTEND:20260510T182500Z
+SUMMARY:Kansas City – Chicago Red Stars 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508423@anstoss
+DTSTAMP:20260516T000000Z
+DTSTART:20260516T000000Z
+DTEND:20260516T020000Z
+SUMMARY:Kansas City – Houston Dash 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508432@anstoss
+DTSTAMP:20260521T020000Z
+DTSTART:20260521T020000Z
+DTEND:20260521T040000Z
+SUMMARY:Angel City – Kansas City 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium\, Los Angeles
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508438@anstoss
+DTSTAMP:20260524T170000Z
+DTSTART:20260524T170000Z
+DTEND:20260524T190000Z
+SUMMARY:Kansas City – Portland Thorns 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508443@anstoss
+DTSTAMP:20260530T173000Z
+DTSTART:20260530T173000Z
+DTEND:20260530T193000Z
+SUMMARY:Kansas City – Boston Legacy 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508450@anstoss
+DTSTAMP:20260704T013000Z
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:Denver Summit – Kansas City 0:3
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508450.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508458@anstoss
+DTSTAMP:20260711T000000Z
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:Orlando Pride – Kansas City 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508467@anstoss
+DTSTAMP:20260718T000000Z
+DTSTART:20260718T000000Z
+DTEND:20260718T020000Z
+SUMMARY:Kansas City – San Diego Wave 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508478@anstoss
+DTSTAMP:20260725T210000Z
+DTSTART:20260725T210000Z
+DTEND:20260725T230000Z
+SUMMARY:Boston Legacy – Kansas City 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508483@anstoss
+DTSTAMP:20260730T000000Z
+DTSTART:20260730T000000Z
+DTEND:20260730T020000Z
+SUMMARY:Kansas City – Racing Louisville 5:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508488@anstoss
+DTSTAMP:20260801T223000Z
+DTSTART:20260801T223000Z
+DTEND:20260802T003000Z
+SUMMARY:Kansas City – Angel City 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508499@anstoss
+DTSTAMP:20260809T004500Z
+DTSTART:20260809T004500Z
+DTEND:20260809T024500Z
+SUMMARY:Houston Dash – Kansas City 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508503@anstoss
+DTSTAMP:20260815T000000Z
+DTSTART:20260815T000000Z
+DTEND:20260815T020000Z
+SUMMARY:NJ/NY Gotham FC – Kansas City 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508514@anstoss
+DTSTAMP:20260822T223000Z
+DTSTART:20260822T223000Z
+DTEND:20260823T003000Z
+SUMMARY:Kansas City – Seattle Reign FC 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508514.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508524@anstoss
+DTSTAMP:20260829T223000Z
+DTSTART:20260829T223000Z
+DTEND:20260830T003000Z
+SUMMARY:Kansas City – North Carolina Courage 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508524.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508531@anstoss
+DTSTAMP:20260905T020000Z
+DTSTART:20260905T020000Z
+DTEND:20260905T040000Z
+SUMMARY:Bay FC – Kansas City 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park\, San Jose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508531.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508539@anstoss
+DTSTAMP:20260912T000000Z
+DTSTART:20260912T000000Z
+DTEND:20260912T020000Z
+SUMMARY:Kansas City – Orlando Pride 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508548@anstoss
+DTSTAMP:20260919T020000Z
+DTSTART:20260919T020000Z
+DTEND:20260919T040000Z
+SUMMARY:San Diego Wave – Kansas City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508548.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508559@anstoss
+DTSTAMP:20260926T163000Z
+DTSTART:20260926T163000Z
+DTEND:20260926T183000Z
+SUMMARY:Kansas City – Denver Summit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508559.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508567@anstoss
+DTSTAMP:20261003T223000Z
+DTSTART:20261003T223000Z
+DTEND:20261004T003000Z
+SUMMARY:Kansas City – Bay FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508567.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508574@anstoss
+DTSTAMP:20261017T223000Z
+DTSTART:20261017T223000Z
+DTEND:20261018T003000Z
+SUMMARY:Utah Royals – Kansas City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508574.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508586@anstoss
+DTSTAMP:20261025T210000Z
+DTSTART:20261025T210000Z
+DTEND:20261025T230000Z
+SUMMARY:Kansas City – Washington Spirit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508586.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508593@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Racing Louisville – Kansas City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508593.ht
+ ml
+END:VEVENT
+END:VCALENDAR

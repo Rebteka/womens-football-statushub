@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North Carolina Courage
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508360@anstoss
+DTSTAMP:20260314T230000Z
+DTSTART:20260314T230000Z
+DTEND:20260315T010000Z
+SUMMARY:North Carolina Courage – Racing Louisville 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508368@anstoss
+DTSTAMP:20260321T223000Z
+DTSTART:20260321T223000Z
+DTEND:20260322T003000Z
+SUMMARY:NJ/NY Gotham FC – North Carolina Courage 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508382@anstoss
+DTSTAMP:20260328T230000Z
+DTSTART:20260328T230000Z
+DTEND:20260329T010000Z
+SUMMARY:North Carolina Courage – Bay FC 1:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508390@anstoss
+DTSTAMP:20260404T223000Z
+DTSTART:20260404T223000Z
+DTEND:20260405T003000Z
+SUMMARY:North Carolina Courage – Portland Thorns 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508397@anstoss
+DTSTAMP:20260426T000000Z
+DTSTART:20260426T000000Z
+DTEND:20260426T020000Z
+SUMMARY:Houston Dash – North Carolina Courage 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508402@anstoss
+DTSTAMP:20260429T230000Z
+DTSTART:20260429T230000Z
+DTEND:20260430T010000Z
+SUMMARY:Boston Legacy – North Carolina Courage 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508407@anstoss
+DTSTAMP:20260502T223000Z
+DTSTART:20260502T223000Z
+DTEND:20260503T003000Z
+SUMMARY:North Carolina Courage – Kansas City 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508415@anstoss
+DTSTAMP:20260509T000000Z
+DTSTART:20260509T000000Z
+DTEND:20260509T020000Z
+SUMMARY:Orlando Pride – North Carolina Courage 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508427@anstoss
+DTSTAMP:20260516T223000Z
+DTSTART:20260516T223000Z
+DTEND:20260517T003000Z
+SUMMARY:North Carolina Courage – Chicago Red Stars 4:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508427.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508435@anstoss
+DTSTAMP:20260523T200000Z
+DTSTART:20260523T200000Z
+DTEND:20260523T220000Z
+SUMMARY:Racing Louisville – North Carolina Courage 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508448@anstoss
+DTSTAMP:20260531T230000Z
+DTSTART:20260531T230000Z
+DTEND:20260601T010000Z
+SUMMARY:Angel City – North Carolina Courage 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium\, Los Angeles
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508448.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508452@anstoss
+DTSTAMP:20260704T233000Z
+DTSTART:20260704T233000Z
+DTEND:20260705T013000Z
+SUMMARY:North Carolina Courage – Seattle Reign FC 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508452.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508461@anstoss
+DTSTAMP:20260711T223000Z
+DTSTART:20260711T223000Z
+DTEND:20260712T003000Z
+SUMMARY:North Carolina Courage – Washington Spirit 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508470@anstoss
+DTSTAMP:20260718T200000Z
+DTSTART:20260718T200000Z
+DTEND:20260718T220000Z
+SUMMARY:Bay FC – North Carolina Courage 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508479@anstoss
+DTSTAMP:20260725T234500Z
+DTSTART:20260725T234500Z
+DTEND:20260726T014500Z
+SUMMARY:North Carolina Courage – Utah Royals 1:4
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508486@anstoss
+DTSTAMP:20260801T000000Z
+DTSTART:20260801T000000Z
+DTEND:20260801T020000Z
+SUMMARY:North Carolina Courage – Orlando Pride 5:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508494@anstoss
+DTSTAMP:20260806T020000Z
+DTSTART:20260806T020000Z
+DTEND:20260806T040000Z
+SUMMARY:Denver Summit – North Carolina Courage 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508497@anstoss
+DTSTAMP:20260808T223000Z
+DTSTART:20260808T223000Z
+DTEND:20260809T003000Z
+SUMMARY:Washington Spirit – North Carolina Courage 3:4
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field\, Washington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508509@anstoss
+DTSTAMP:20260816T230000Z
+DTSTART:20260816T230000Z
+DTEND:20260817T010000Z
+SUMMARY:North Carolina Courage – Houston Dash 2:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508515@anstoss
+DTSTAMP:20260822T233000Z
+DTSTART:20260822T233000Z
+DTEND:20260823T013000Z
+SUMMARY:North Carolina Courage – Boston Legacy 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508515.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508521@anstoss
+DTSTAMP:20260827T000000Z
+DTSTART:20260827T000000Z
+DTEND:20260827T020000Z
+SUMMARY:North Carolina Courage – Angel City 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508521.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508524@anstoss
+DTSTAMP:20260829T223000Z
+DTSTART:20260829T223000Z
+DTEND:20260830T003000Z
+SUMMARY:Kansas City – North Carolina Courage 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508524.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508534@anstoss
+DTSTAMP:20260906T200000Z
+DTSTART:20260906T200000Z
+DTEND:20260906T220000Z
+SUMMARY:Chicago Red Stars – North Carolina Courage 0:6
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508534.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508542@anstoss
+DTSTAMP:20260912T223000Z
+DTSTART:20260912T223000Z
+DTEND:20260913T003000Z
+SUMMARY:San Diego Wave – North Carolina Courage 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508542.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508550@anstoss
+DTSTAMP:20260919T223000Z
+DTSTART:20260919T223000Z
+DTEND:20260920T003000Z
+SUMMARY:North Carolina Courage – NJ/NY Gotham FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508550.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508563@anstoss
+DTSTAMP:20260927T230000Z
+DTSTART:20260927T230000Z
+DTEND:20260928T010000Z
+SUMMARY:Utah Royals – North Carolina Courage
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508563.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508565@anstoss
+DTSTAMP:20261003T020000Z
+DTSTART:20261003T020000Z
+DTEND:20261003T040000Z
+SUMMARY:Seattle Reign FC – North Carolina Courage
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508565.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508575@anstoss
+DTSTAMP:20261017T230000Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:North Carolina Courage – San Diego Wave
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508575.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508582@anstoss
+DTSTAMP:20261024T020000Z
+DTSTART:20261024T020000Z
+DTEND:20261024T040000Z
+SUMMARY:Portland Thorns – North Carolina Courage
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508582.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508592@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:North Carolina Courage – Denver Summit
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508592.ht
+ ml
+END:VEVENT
+END:VCALENDAR

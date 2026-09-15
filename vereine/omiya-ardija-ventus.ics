@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Omiya Ardija Ventus
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560930@anstoss
+DTSTAMP:20260822T103000Z
+DTSTART:20260822T103000Z
+DTEND:20260822T123000Z
+SUMMARY:Omiya Ardija Ventus – Urawa Reds 0:1
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560930.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560935@anstoss
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+SUMMARY:Sanfrecce Hiroshima – Omiya Ardija Ventus 2:0
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560935.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560940@anstoss
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T110000Z
+SUMMARY:Omiya Ardija Ventus – Albirex Niigata 2:1
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560947@anstoss
+DTSTAMP:20261018T040000Z
+DTSTART:20261018T040000Z
+DTEND:20261018T060000Z
+SUMMARY:Omiya Ardija Ventus – Elfen Saitama
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560958@anstoss
+DTSTAMP:20261025T040000Z
+DTSTART:20261025T040000Z
+DTEND:20261025T060000Z
+SUMMARY:Omiya Ardija Ventus – Cerezo Osaka
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560952@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART:20261028T100000Z
+DTEND:20261028T120000Z
+SUMMARY:Parceiro Nagano – Omiya Ardija Ventus
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560963@anstoss
+DTSTAMP:20261031T060000Z
+DTSTART:20261031T060000Z
+DTEND:20261031T080000Z
+SUMMARY:Tokyo Verdy Beleza – Omiya Ardija Ventus
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560967@anstoss
+DTSTAMP:20261108T033000Z
+DTSTART:20261108T033000Z
+DTEND:20261108T053000Z
+SUMMARY:JEF United – Omiya Ardija Ventus
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560975@anstoss
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T100000Z
+DTEND:20261114T120000Z
+SUMMARY:Omiya Ardija Ventus – Vegalta Sendai
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560975.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560983@anstoss
+DTSTAMP:20261119T090000Z
+DTSTART:20261119T090000Z
+DTEND:20261119T110000Z
+SUMMARY:Omiya Ardija Ventus – INAC Kobe Leonessa
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560983.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560988@anstoss
+DTSTAMP:20261123T040000Z
+DTSTART:20261123T040000Z
+DTEND:20261123T060000Z
+SUMMARY:Nojima Stella – Omiya Ardija Ventus
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560988.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560992@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:INAC Kobe Leonessa – Omiya Ardija Ventus
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561000@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Omiya Ardija Ventus – Nojima Stella
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561006@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Omiya Ardija Ventus – Sanfrecce Hiroshima
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561006.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561011@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Omiya Ardija Ventus – JEF United
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561011.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561015@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Albirex Niigata – Omiya Ardija Ventus
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561026@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Omiya Ardija Ventus – Parceiro Nagano
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561030@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Elfen Saitama – Omiya Ardija Ventus
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561034@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Cerezo Osaka – Omiya Ardija Ventus
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561043@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Omiya Ardija Ventus – Tokyo Verdy Beleza
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561047@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Vegalta Sendai – Omiya Ardija Ventus
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561056@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Urawa Reds – Omiya Ardija Ventus
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561056.ht
+ ml
+END:VEVENT
+END:VCALENDAR

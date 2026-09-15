@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Norrköping
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495432@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:AIK – Norrköping 1:0
+DESCRIPTION:Damallsvenskan · 1. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495441@anstoss
+DTSTAMP:20260406T130000Z
+DTSTART:20260406T130000Z
+DTEND:20260406T150000Z
+SUMMARY:Norrköping – Malmö FF 1:1
+DESCRIPTION:Damallsvenskan · 2. Spieltag
+LOCATION:Platinumcars Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495441.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495447@anstoss
+DTSTAMP:20260425T130000Z
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+SUMMARY:Djurgården – Norrköping 1:1
+DESCRIPTION:Damallsvenskan · 3. Spieltag
+LOCATION:Stockholms Olympiastadion\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495456@anstoss
+DTSTAMP:20260503T130000Z
+DTSTART:20260503T130000Z
+DTEND:20260503T150000Z
+SUMMARY:Norrköping – Eskilstuna United 0:2
+DESCRIPTION:Damallsvenskan · 4. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495462@anstoss
+DTSTAMP:20260509T130000Z
+DTSTART:20260509T130000Z
+DTEND:20260509T150000Z
+SUMMARY:Kristianstad – Norrköping 2:2
+DESCRIPTION:Damallsvenskan · 5. Spieltag
+LOCATION:Kristianstad Arena\, Kristianstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495471@anstoss
+DTSTAMP:20260517T130000Z
+DTSTART:20260517T130000Z
+DTEND:20260517T150000Z
+SUMMARY:Norrköping – Brommapojkarna 3:0
+DESCRIPTION:Damallsvenskan · 6. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495476@anstoss
+DTSTAMP:20260524T130000Z
+DTSTART:20260524T130000Z
+DTEND:20260524T150000Z
+SUMMARY:Häcken – Norrköping 2:0
+DESCRIPTION:Damallsvenskan · 7. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495484@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Norrköping – Piteå 1:2
+DESCRIPTION:Damallsvenskan · 8. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495492@anstoss
+DTSTAMP:20260613T110000Z
+DTSTART:20260613T110000Z
+DTEND:20260613T130000Z
+SUMMARY:Rosengård – Norrköping 1:1
+DESCRIPTION:Damallsvenskan · 9. Spieltag
+LOCATION:Malmo IP
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495501@anstoss
+DTSTAMP:20260618T170000Z
+DTSTART:20260618T170000Z
+DTEND:20260618T190000Z
+SUMMARY:Norrköping – Växjö 0:0
+DESCRIPTION:Damallsvenskan · 10. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495504@anstoss
+DTSTAMP:20260624T170000Z
+DTSTART:20260624T170000Z
+DTEND:20260624T190000Z
+SUMMARY:Norrköping – Vittsjö 1:1
+DESCRIPTION:Damallsvenskan · 11. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495519@anstoss
+DTSTAMP:20260725T140000Z
+DTSTART:20260725T140000Z
+DTEND:20260725T160000Z
+SUMMARY:Norrköping – Hammarby 0:4
+DESCRIPTION:Damallsvenskan · 13. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495519.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495514@anstoss
+DTSTAMP:20260801T140000Z
+DTSTART:20260801T140000Z
+DTEND:20260801T160000Z
+SUMMARY:Uppsala – Norrköping 0:4
+DESCRIPTION:Damallsvenskan · 12. Spieltag
+LOCATION:Studenternas IP\, Uppsala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495514.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495526@anstoss
+DTSTAMP:20260816T130000Z
+DTSTART:20260816T130000Z
+DTEND:20260816T150000Z
+SUMMARY:Norrköping – Kristianstad 0:5
+DESCRIPTION:Damallsvenskan · 14. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495536@anstoss
+DTSTAMP:20260823T130000Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Vittsjö – Norrköping 1:1
+DESCRIPTION:Damallsvenskan · 15. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495536.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495540@anstoss
+DTSTAMP:20260830T130000Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Norrköping – Djurgården 0:1
+DESCRIPTION:Damallsvenskan · 16. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495540.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495547@anstoss
+DTSTAMP:20260905T130000Z
+DTSTART:20260905T130000Z
+DTEND:20260905T150000Z
+SUMMARY:Hammarby – Norrköping 2:0
+DESCRIPTION:Damallsvenskan · 17. Spieltag
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495547.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495553@anstoss
+DTSTAMP:20260912T120000Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:Brommapojkarna – Norrköping 2:0
+DESCRIPTION:Damallsvenskan · 18. Spieltag
+LOCATION:Grimsta IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495553.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495562@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Norrköping – Rosengård
+DESCRIPTION:Damallsvenskan · 19. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495562.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495569@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:Norrköping – Häcken
+DESCRIPTION:Damallsvenskan · 20. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495569.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495576@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Piteå – Norrköping
+DESCRIPTION:Damallsvenskan · 21. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495576.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495580@anstoss
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:Eskilstuna United – Norrköping
+DESCRIPTION:Damallsvenskan · 22. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495580.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495590@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Norrköping – Uppsala
+DESCRIPTION:Damallsvenskan · 23. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495590.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495596@anstoss
+DTSTAMP:20261102T170000Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Malmö FF – Norrköping
+DESCRIPTION:Damallsvenskan · 24. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495605@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Växjö – Norrköping
+DESCRIPTION:Damallsvenskan · 25. Spieltag
+LOCATION:Visma Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495605.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495612@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Norrköping – AIK
+DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495612.ht
+ ml
+END:VEVENT
+END:VCALENDAR

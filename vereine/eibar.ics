@@ -1,0 +1,336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eibar
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1573564@anstoss
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:Eibar – Espanyol 1:0
+DESCRIPTION:Liga F · 1. Spieltag
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573564.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573573@anstoss
+DTSTAMP:20260906T183000Z
+DTSTART:20260906T183000Z
+DTEND:20260906T203000Z
+SUMMARY:Real Madrid – Eibar 0:0
+DESCRIPTION:Liga F · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573573.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573581@anstoss
+DTSTAMP:20260913T173000Z
+DTSTART:20260913T173000Z
+DTEND:20260913T193000Z
+SUMMARY:Eibar – FC Levante Badalona 1:4
+DESCRIPTION:Liga F · 3. Spieltag
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573588@anstoss
+DTSTAMP:20260920T160000Z
+DTSTART:20260920T160000Z
+DTEND:20260920T180000Z
+SUMMARY:Eibar – Athletic Club
+DESCRIPTION:Liga F · 4. Spieltag
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573588.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573598@anstoss
+DTSTAMP:20260927T140000Z
+DTSTART:20260927T140000Z
+DTEND:20260927T160000Z
+SUMMARY:Sevilla – Eibar
+DESCRIPTION:Liga F · 5. Spieltag
+LOCATION:Estadio Jesus Navas\, Sevilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573604@anstoss
+DTSTAMP:20261004T150000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Granada – Eibar
+DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Ciudad Deportiva del Granada
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573613@anstoss
+DTSTAMP:20261018T150000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Eibar – Deportivo de La Coruña
+DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573613.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573621@anstoss
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Eibar – Madrid CFF
+DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573621.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573631@anstoss
+DTSTAMP:20261101T160000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Valencia – Eibar
+DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Antonio Puchades\, Valencia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573638@anstoss
+DTSTAMP:20261108T160000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Eibar – Real Sociedad
+DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573640@anstoss
+DTSTAMP:20261115T160000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Deportivo Alavés – Eibar
+DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Mendizorrotza\, Vitoria-Gasteiz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573652@anstoss
+DTSTAMP:20261122T160000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Eibar – Atletico Madrid
+DESCRIPTION:Liga F · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573661@anstoss
+DTSTAMP:20261209T160000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Eibar – Edf Logrono
+DESCRIPTION:Liga F · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573665@anstoss
+DTSTAMP:20261213T160000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Granad. Tenerife – Eibar
+DESCRIPTION:Liga F · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573675@anstoss
+DTSTAMP:20270110T160000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Eibar – Barcelona
+DESCRIPTION:Liga F · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573675.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573683@anstoss
+DTSTAMP:20270117T160000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Deportivo de La Coruña – Eibar
+DESCRIPTION:Liga F · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Riazor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573683.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573691@anstoss
+DTSTAMP:20270124T160000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Eibar – Valencia
+DESCRIPTION:Liga F · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573691.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573701@anstoss
+DTSTAMP:20270131T160000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Real Sociedad – Eibar
+DESCRIPTION:Liga F · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Instalaciones de Zubieta\, Lasarte-Oria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573701.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573709@anstoss
+DTSTAMP:20270207T160000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Madrid CFF – Eibar
+DESCRIPTION:Liga F · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Fernando Torres\, Fuenlabrada
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573709.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573718@anstoss
+DTSTAMP:20270214T160000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Eibar – Granada
+DESCRIPTION:Liga F · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573718.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573722@anstoss
+DTSTAMP:20270221T160000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Edf Logrono – Eibar
+DESCRIPTION:Liga F · 21. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573722.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573731@anstoss
+DTSTAMP:20270314T160000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Eibar – Real Madrid
+DESCRIPTION:Liga F · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573731.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573741@anstoss
+DTSTAMP:20270321T160000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Espanyol – Eibar
+DESCRIPTION:Liga F · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Ciutat Esportiva Dani Jarque
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573749@anstoss
+DTSTAMP:20270328T150000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Eibar – Deportivo Alavés
+DESCRIPTION:Liga F · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573753@anstoss
+DTSTAMP:20270404T150000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Barcelona – Eibar
+DESCRIPTION:Liga F · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573761@anstoss
+DTSTAMP:20270411T150000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Atletico Madrid – Eibar
+DESCRIPTION:Liga F · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573771@anstoss
+DTSTAMP:20270502T150000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Eibar – Granad. Tenerife
+DESCRIPTION:Liga F · 27. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573771.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573776@anstoss
+DTSTAMP:20270509T150000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Athletic Club – Eibar
+DESCRIPTION:Liga F · 28. Spieltag · Anstosszeit noch offen
+LOCATION:Lezama Facilities\, Lezama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573787@anstoss
+DTSTAMP:20270519T150000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Eibar – Sevilla
+DESCRIPTION:Liga F · 29. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573793@anstoss
+DTSTAMP:20270523T150000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:FC Levante Badalona – Eibar
+DESCRIPTION:Liga F · 30. Spieltag · Anstosszeit noch offen
+LOCATION:Estadi Municipal de Badalona\, Badalona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573793.ht
+ ml
+END:VEVENT
+END:VCALENDAR

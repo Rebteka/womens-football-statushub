@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Parma
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1601251@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Lazio – Parma
+DESCRIPTION:Serie A Femminile · 1. Spieltag
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601251.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601259@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Parma – Ternana
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601262@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Inter Mailand – Parma
+DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601271@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Parma – Fiorentina
+DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601271.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601276@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sassuolo – Parma
+DESCRIPTION:Serie A Femminile · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601276.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601282@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Parma – Como
+DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601284@anstoss
+DTSTAMP:20261114T140000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Roma – Parma
+DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601284.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601294@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Parma – Napoli
+DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601294.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601298@anstoss
+DTSTAMP:20261212T140000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Como 1907 – Parma
+DESCRIPTION:Serie A Femminile · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601306@anstoss
+DTSTAMP:20270116T140000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Parma – Juventus
+DESCRIPTION:Serie A Femminile · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601308@anstoss
+DTSTAMP:20270123T140000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:AC Milan – Parma
+DESCRIPTION:Serie A Femminile · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601319@anstoss
+DTSTAMP:20270130T140000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Parma – Lazio
+DESCRIPTION:Serie A Femminile · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601325@anstoss
+DTSTAMP:20270206T140000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Ternana – Parma
+DESCRIPTION:Serie A Femminile · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601331@anstoss
+DTSTAMP:20270213T140000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Parma – Inter Mailand
+DESCRIPTION:Serie A Femminile · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601334@anstoss
+DTSTAMP:20270220T140000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Fiorentina – Parma
+DESCRIPTION:Serie A Femminile · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601343@anstoss
+DTSTAMP:20270313T140000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Parma – Sassuolo
+DESCRIPTION:Serie A Femminile · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601345@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Como – Parma
+DESCRIPTION:Serie A Femminile · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601354@anstoss
+DTSTAMP:20270403T130000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Parma – Roma
+DESCRIPTION:Serie A Femminile · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601360@anstoss
+DTSTAMP:20270410T130000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Napoli – Parma
+DESCRIPTION:Serie A Femminile · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601366@anstoss
+DTSTAMP:20270501T130000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Parma – Como 1907
+DESCRIPTION:Serie A Femminile · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601371@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Juventus – Parma
+DESCRIPTION:Serie A Femminile · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601378@anstoss
+DTSTAMP:20270515T130000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Parma – AC Milan
+DESCRIPTION:Serie A Femminile · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601378.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Copenhagen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1582090@anstoss
+DTSTAMP:20260728T160000Z
+DTSTART:20260728T160000Z
+DTEND:20260728T180000Z
+SUMMARY:FC Copenhagen – Køge 0:3
+DESCRIPTION:Kvindeliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582090.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582098@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:Odense Q – FC Copenhagen 2:1
+DESCRIPTION:Kvindeliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582098.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582101@anstoss
+DTSTAMP:20260815T133000Z
+DTSTART:20260815T133000Z
+DTEND:20260815T153000Z
+SUMMARY:FC Copenhagen – Fortuna Hjørring 1:4
+DESCRIPTION:Kvindeliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582101.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582108@anstoss
+DTSTAMP:20260823T093000Z
+DTSTART:20260823T093000Z
+DTEND:20260823T113000Z
+SUMMARY:Nordsjælland – FC Copenhagen 9:1
+DESCRIPTION:Kvindeliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582111@anstoss
+DTSTAMP:20260829T133000Z
+DTSTART:20260829T133000Z
+DTEND:20260829T153000Z
+SUMMARY:Brøndby – FC Copenhagen 1:3
+DESCRIPTION:Kvindeliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582114@anstoss
+DTSTAMP:20260905T110000Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:FC Copenhagen – ASA Aarhus 1:0
+DESCRIPTION:Kvindeliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582119@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:AGF – FC Copenhagen 4:2
+DESCRIPTION:Kvindeliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582127@anstoss
+DTSTAMP:20260920T093000Z
+DTSTART:20260920T093000Z
+DTEND:20260920T113000Z
+SUMMARY:FC Copenhagen – KoldingQ
+DESCRIPTION:Kvindeliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582132@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Midtjylland – FC Copenhagen
+DESCRIPTION:Kvindeliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582132.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582135@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART:20261003T130000Z
+DTEND:20261003T150000Z
+SUMMARY:FC Copenhagen – Brøndby
+DESCRIPTION:Kvindeliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582135.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582140@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:FC Copenhagen – Odense Q
+DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582140.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582145@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Fortuna Hjørring – FC Copenhagen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582152@anstoss
+DTSTAMP:20261101T130000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:FC Copenhagen – Nordsjælland
+DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582156@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:KoldingQ – FC Copenhagen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582161@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:FC Copenhagen – Midtjylland
+DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582164@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ASA Aarhus – FC Copenhagen
+DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582164.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582171@anstoss
+DTSTAMP:20261209T130000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Køge – FC Copenhagen
+DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582171.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582176@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC Copenhagen – AGF
+DESCRIPTION:Kvindeliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582176.ht
+ ml
+END:VEVENT
+END:VCALENDAR

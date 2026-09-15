@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Elfen Saitama
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560929@anstoss
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:Nojima Stella – Elfen Saitama 1:0
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560934@anstoss
+DTSTAMP:20260830T090000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T110000Z
+SUMMARY:Elfen Saitama – INAC Kobe Leonessa 2:1
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560934.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560941@anstoss
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T110000Z
+SUMMARY:Elfen Saitama – Parceiro Nagano 0:0
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560941.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560947@anstoss
+DTSTAMP:20261018T040000Z
+DTSTART:20261018T040000Z
+DTEND:20261018T060000Z
+SUMMARY:Omiya Ardija Ventus – Elfen Saitama
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560953@anstoss
+DTSTAMP:20261021T040000Z
+DTSTART:20261021T040000Z
+DTEND:20261021T060000Z
+SUMMARY:Elfen Saitama – Vegalta Sendai
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560956@anstoss
+DTSTAMP:20261024T030000Z
+DTSTART:20261024T030000Z
+DTEND:20261024T050000Z
+SUMMARY:Tokyo Verdy Beleza – Elfen Saitama
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560964@anstoss
+DTSTAMP:20261101T040000Z
+DTSTART:20261101T040000Z
+DTEND:20261101T060000Z
+SUMMARY:Cerezo Osaka – Elfen Saitama
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560971@anstoss
+DTSTAMP:20261107T100000Z
+DTSTART:20261107T100000Z
+DTEND:20261107T120000Z
+SUMMARY:Elfen Saitama – Sanfrecce Hiroshima
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560978@anstoss
+DTSTAMP:20261114T060000Z
+DTSTART:20261114T060000Z
+DTEND:20261114T080000Z
+SUMMARY:Urawa Reds – Elfen Saitama
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560978.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560979@anstoss
+DTSTAMP:20261118T100000Z
+DTSTART:20261118T100000Z
+DTEND:20261118T120000Z
+SUMMARY:Albirex Niigata – Elfen Saitama
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560990@anstoss
+DTSTAMP:20261121T100000Z
+DTSTART:20261121T100000Z
+DTEND:20261121T120000Z
+SUMMARY:Elfen Saitama – JEF United
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560995@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Elfen Saitama – Albirex Niigata
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561001@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Elfen Saitama – Urawa Reds
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561007@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Elfen Saitama – Tokyo Verdy Beleza
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561013@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Elfen Saitama – Nojima Stella
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561019@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Parceiro Nagano – Elfen Saitama
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561022@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:INAC Kobe Leonessa – Elfen Saitama
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561030@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Elfen Saitama – Omiya Ardija Ventus
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561036@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:JEF United – Elfen Saitama
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561041@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Vegalta Sendai – Elfen Saitama
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561041.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561050@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Elfen Saitama – Cerezo Osaka
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561050.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561055@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Sanfrecce Hiroshima – Elfen Saitama
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561055.ht
+ ml
+END:VEVENT
+END:VCALENDAR

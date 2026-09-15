@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Diego Wave
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508361@anstoss
+DTSTAMP:20260315T004500Z
+DTSTART:20260315T004500Z
+DTEND:20260315T024500Z
+SUMMARY:San Diego Wave – Houston Dash 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508371@anstoss
+DTSTAMP:20260322T230000Z
+DTSTART:20260322T230000Z
+DTEND:20260323T010000Z
+SUMMARY:Utah Royals – San Diego Wave 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Rio Tinto Stadium\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508376@anstoss
+DTSTAMP:20260326T020000Z
+DTSTART:20260326T020000Z
+DTEND:20260326T040000Z
+SUMMARY:San Diego Wave – Portland Thorns 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508383@anstoss
+DTSTAMP:20260329T004500Z
+DTSTART:20260329T004500Z
+DTEND:20260329T024500Z
+SUMMARY:San Diego Wave – Chicago Red Stars 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508385@anstoss
+DTSTAMP:20260403T230000Z
+DTSTART:20260403T230000Z
+DTEND:20260404T010000Z
+SUMMARY:Boston Legacy – San Diego Wave 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508398@anstoss
+DTSTAMP:20260426T004500Z
+DTSTART:20260426T004500Z
+DTEND:20260426T024500Z
+SUMMARY:Denver Summit – San Diego Wave 2:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508404@anstoss
+DTSTAMP:20260430T020000Z
+DTSTART:20260430T020000Z
+DTEND:20260430T040000Z
+SUMMARY:Portland Thorns – San Diego Wave 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park\, Portland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508412@anstoss
+DTSTAMP:20260503T230000Z
+DTSTART:20260503T230000Z
+DTEND:20260504T010000Z
+SUMMARY:San Diego Wave – Bay FC 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508418@anstoss
+DTSTAMP:20260510T004500Z
+DTSTART:20260510T004500Z
+DTEND:20260510T024500Z
+SUMMARY:Angel City – San Diego Wave 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium\, Los Angeles
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508425@anstoss
+DTSTAMP:20260516T020000Z
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+SUMMARY:San Diego Wave – Washington Spirit 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508431@anstoss
+DTSTAMP:20260521T000000Z
+DTSTART:20260521T000000Z
+DTEND:20260521T020000Z
+SUMMARY:Houston Dash – San Diego Wave 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508431.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508440@anstoss
+DTSTAMP:20260524T230000Z
+DTSTART:20260524T230000Z
+DTEND:20260525T010000Z
+SUMMARY:San Diego Wave – Orlando Pride 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508446@anstoss
+DTSTAMP:20260531T170000Z
+DTSTART:20260531T170000Z
+DTEND:20260531T190000Z
+SUMMARY:Chicago Red Stars – San Diego Wave 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508453@anstoss
+DTSTAMP:20260705T004500Z
+DTSTART:20260705T004500Z
+DTEND:20260705T024500Z
+SUMMARY:San Diego Wave – NJ/NY Gotham FC 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508462@anstoss
+DTSTAMP:20260712T004500Z
+DTSTART:20260712T004500Z
+DTEND:20260712T024500Z
+SUMMARY:San Diego Wave – Angel City 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508467@anstoss
+DTSTAMP:20260718T000000Z
+DTSTART:20260718T000000Z
+DTEND:20260718T020000Z
+SUMMARY:Kansas City – San Diego Wave 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508480@anstoss
+DTSTAMP:20260726T210000Z
+DTSTART:20260726T210000Z
+DTEND:20260726T230000Z
+SUMMARY:San Diego Wave – Seattle Reign FC 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508491@anstoss
+DTSTAMP:20260802T200000Z
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+SUMMARY:Washington Spirit – San Diego Wave 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field\, Washington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508495@anstoss
+DTSTAMP:20260808T000000Z
+DTSTART:20260808T000000Z
+DTEND:20260808T020000Z
+SUMMARY:NJ/NY Gotham FC – San Diego Wave 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508504@anstoss
+DTSTAMP:20260815T020000Z
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:San Diego Wave – Denver Summit 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508513@anstoss
+DTSTAMP:20260822T020000Z
+DTSTART:20260822T020000Z
+DTEND:20260822T040000Z
+SUMMARY:San Diego Wave – Utah Royals 4:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508523@anstoss
+DTSTAMP:20260829T020000Z
+DTSTART:20260829T020000Z
+DTEND:20260829T040000Z
+SUMMARY:San Diego Wave – Racing Louisville 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508537@anstoss
+DTSTAMP:20260907T010000Z
+DTSTART:20260907T010000Z
+DTEND:20260907T030000Z
+SUMMARY:Seattle Reign FC – San Diego Wave 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508537.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508542@anstoss
+DTSTAMP:20260912T223000Z
+DTSTART:20260912T223000Z
+DTEND:20260913T003000Z
+SUMMARY:San Diego Wave – North Carolina Courage 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508542.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508548@anstoss
+DTSTAMP:20260919T020000Z
+DTSTART:20260919T020000Z
+DTEND:20260919T040000Z
+SUMMARY:San Diego Wave – Kansas City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508548.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508556@anstoss
+DTSTAMP:20260925T223000Z
+DTSTART:20260925T223000Z
+DTEND:20260926T003000Z
+SUMMARY:Racing Louisville – San Diego Wave
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508556.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508564@anstoss
+DTSTAMP:20261003T000000Z
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+SUMMARY:Orlando Pride – San Diego Wave
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508564.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508575@anstoss
+DTSTAMP:20261017T230000Z
+DTSTART:20261017T230000Z
+DTEND:20261018T010000Z
+SUMMARY:North Carolina Courage – San Diego Wave
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508575.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508587@anstoss
+DTSTAMP:20261025T230000Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:San Diego Wave – Boston Legacy
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508589@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Bay FC – San Diego Wave
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508589.ht
+ ml
+END:VEVENT
+END:VCALENDAR

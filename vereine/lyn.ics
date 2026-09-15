@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lyn
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495304@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:Stabæk – Lyn 0:1
+DESCRIPTION:Toppserien · 1. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495309@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:Lyn – LSK Kvinner 1:1
+DESCRIPTION:Toppserien · 2. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495315@anstoss
+DTSTAMP:20260401T120000Z
+DTSTART:20260401T120000Z
+DTEND:20260401T140000Z
+SUMMARY:Molde – Lyn 0:0
+DESCRIPTION:Toppserien · 3. Spieltag
+LOCATION:Aker Stadion\, Molde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495321@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Lyn – Bodø / Glimt 9:0
+DESCRIPTION:Toppserien · 4. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495324@anstoss
+DTSTAMP:20260502T120000Z
+DTSTART:20260502T120000Z
+DTEND:20260502T140000Z
+SUMMARY:Haugesund – Lyn 0:3
+DESCRIPTION:Toppserien · 5. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495330@anstoss
+DTSTAMP:20260508T160000Z
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+SUMMARY:Fortuna Ålesund – Lyn 1:0
+DESCRIPTION:Toppserien · 6. Spieltag
+LOCATION:Color Line Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495339@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Lyn – Røa 0:0
+DESCRIPTION:Toppserien · 7. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495342@anstoss
+DTSTAMP:20260526T160000Z
+DTSTART:20260526T160000Z
+DTEND:20260526T180000Z
+SUMMARY:SK Brann – Lyn 4:0
+DESCRIPTION:Toppserien · 8. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495352@anstoss
+DTSTAMP:20260531T123000Z
+DTSTART:20260531T123000Z
+DTEND:20260531T143000Z
+SUMMARY:Lyn – Vålerenga 2:0
+DESCRIPTION:Toppserien · 9. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495356@anstoss
+DTSTAMP:20260613T113000Z
+DTSTART:20260613T113000Z
+DTEND:20260613T133000Z
+SUMMARY:Lyn – Rosenborg 4:4
+DESCRIPTION:Toppserien · 10. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495362@anstoss
+DTSTAMP:20260620T123000Z
+DTSTART:20260620T123000Z
+DTEND:20260620T143000Z
+SUMMARY:Hønefoss – Lyn 1:0
+DESCRIPTION:Toppserien · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495370@anstoss
+DTSTAMP:20260815T100000Z
+DTSTART:20260815T100000Z
+DTEND:20260815T120000Z
+SUMMARY:Lyn – Fortuna Ålesund 1:2
+DESCRIPTION:Toppserien · 12. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495375@anstoss
+DTSTAMP:20260820T160000Z
+DTSTART:20260820T160000Z
+DTEND:20260820T180000Z
+SUMMARY:Rosenborg – Lyn 3:2
+DESCRIPTION:Toppserien · 13. Spieltag
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495383@anstoss
+DTSTAMP:20260831T160000Z
+DTSTART:20260831T160000Z
+DTEND:20260831T180000Z
+SUMMARY:Røa – Lyn 1:3
+DESCRIPTION:Toppserien · 14. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495386@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Lyn – SK Brann 0:3
+DESCRIPTION:Toppserien · 15. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495393@anstoss
+DTSTAMP:20260919T150000Z
+DTSTART:20260919T150000Z
+DTEND:20260919T170000Z
+SUMMARY:LSK Kvinner – Lyn
+DESCRIPTION:Toppserien · 16. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495398@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Lyn – Hønefoss
+DESCRIPTION:Toppserien · 17. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495404@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Lyn – Haugesund
+DESCRIPTION:Toppserien · 18. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495409@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Bodø / Glimt – Lyn
+DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Aspmyra Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495418@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Lyn – Molde
+DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495425@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Vålerenga – Lyn
+DESCRIPTION:Toppserien · 21. Spieltag
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495430@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Lyn – Stabæk
+DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495430.ht
+ ml
+END:VEVENT
+END:VCALENDAR

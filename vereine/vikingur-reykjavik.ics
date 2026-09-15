@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Víkingur Reykjavík
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1332844@anstoss
+DTSTAMP:20250416T180000Z
+DTSTART:20250416T180000Z
+DTEND:20250416T200000Z
+SUMMARY:Víkingur Reykjavík – Thór / KA 1:4
+DESCRIPTION:Úrvalsdeild Women · 1. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332844.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332848@anstoss
+DTSTAMP:20250422T180000Z
+DTSTART:20250422T180000Z
+DTEND:20250422T200000Z
+SUMMARY:Stjarnan – Víkingur Reykjavík 2:6
+DESCRIPTION:Úrvalsdeild Women · 2. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332848.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332852@anstoss
+DTSTAMP:20250429T180000Z
+DTSTART:20250429T180000Z
+DTEND:20250429T200000Z
+SUMMARY:Víkingur Reykjavík – Thróttur Reykjavík 0:1
+DESCRIPTION:Úrvalsdeild Women · 3. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332852.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332854@anstoss
+DTSTAMP:20250503T140000Z
+DTSTART:20250503T140000Z
+DTEND:20250503T160000Z
+SUMMARY:Breidablik – Víkingur Reykjavík 4:0
+DESCRIPTION:Úrvalsdeild Women · 4. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332854.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332918@anstoss
+DTSTAMP:20250509T180000Z
+DTSTART:20250509T180000Z
+DTEND:20250509T200000Z
+SUMMARY:Víkingur Reykjavík – Fram 1:2
+DESCRIPTION:Úrvalsdeild Women · 5. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332865@anstoss
+DTSTAMP:20250517T161500Z
+DTSTART:20250517T161500Z
+DTEND:20250517T181500Z
+SUMMARY:Víkingur Reykjavík – Tindastóll 1:4
+DESCRIPTION:Úrvalsdeild Women · 6. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332867@anstoss
+DTSTAMP:20250523T180000Z
+DTSTART:20250523T180000Z
+DTEND:20250523T200000Z
+SUMMARY:Valur – Víkingur Reykjavík 1:1
+DESCRIPTION:Úrvalsdeild Women · 7. Spieltag
+LOCATION:N1-völlurinn Hlíðarenda\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332867.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332870@anstoss
+DTSTAMP:20250607T140000Z
+DTSTART:20250607T140000Z
+DTEND:20250607T160000Z
+SUMMARY:Víkingur Reykjavík – FH 1:4
+DESCRIPTION:Úrvalsdeild Women · 8. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332874@anstoss
+DTSTAMP:20250615T140000Z
+DTSTART:20250615T140000Z
+DTEND:20250615T160000Z
+SUMMARY:Fjard / Hött / Leiknir – Víkingur Reykjavík 0:4
+DESCRIPTION:Úrvalsdeild Women · 9. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332881@anstoss
+DTSTAMP:20250621T170000Z
+DTSTART:20250621T170000Z
+DTEND:20250621T190000Z
+SUMMARY:Thór / KA – Víkingur Reykjavík 4:1
+DESCRIPTION:Úrvalsdeild Women · 10. Spieltag
+LOCATION:Boginn\, Akureyri
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332885@anstoss
+DTSTAMP:20250725T180000Z
+DTSTART:20250725T180000Z
+DTEND:20250725T200000Z
+SUMMARY:Víkingur Reykjavík – Stjarnan 2:1
+DESCRIPTION:Úrvalsdeild Women · 11. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332885.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332888@anstoss
+DTSTAMP:20250808T180000Z
+DTSTART:20250808T180000Z
+DTEND:20250808T200000Z
+SUMMARY:Thróttur Reykjavík – Víkingur Reykjavík 2:1
+DESCRIPTION:Úrvalsdeild Women · 12. Spieltag
+LOCATION:AVIS völlurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332893@anstoss
+DTSTAMP:20250812T180000Z
+DTSTART:20250812T180000Z
+DTEND:20250812T200000Z
+SUMMARY:Víkingur Reykjavík – Breidablik 2:4
+DESCRIPTION:Úrvalsdeild Women · 13. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332927@anstoss
+DTSTAMP:20250820T180000Z
+DTSTART:20250820T180000Z
+DTEND:20250820T200000Z
+SUMMARY:Fram – Víkingur Reykjavík 2:5
+DESCRIPTION:Úrvalsdeild Women · 14. Spieltag
+LOCATION:Lambhagavöllurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332927.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332899@anstoss
+DTSTAMP:20250828T180000Z
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+SUMMARY:Tindastóll – Víkingur Reykjavík 1:5
+DESCRIPTION:Úrvalsdeild Women · 15. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332902@anstoss
+DTSTAMP:20250904T180000Z
+DTSTART:20250904T180000Z
+DTEND:20250904T200000Z
+SUMMARY:Víkingur Reykjavík – Valur 3:2
+DESCRIPTION:Úrvalsdeild Women · 16. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332907@anstoss
+DTSTAMP:20250912T180000Z
+DTSTART:20250912T180000Z
+DTEND:20250912T200000Z
+SUMMARY:FH – Víkingur Reykjavík 1:2
+DESCRIPTION:Úrvalsdeild Women · 17. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332911@anstoss
+DTSTAMP:20250920T140000Z
+DTSTART:20250920T140000Z
+DTEND:20250920T160000Z
+SUMMARY:Víkingur Reykjavík – Fjard / Hött / Leiknir 4:0
+DESCRIPTION:Úrvalsdeild Women · 18. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544336@anstoss
+DTSTAMP:20250925T180000Z
+DTSTART:20250925T180000Z
+DTEND:20250925T200000Z
+SUMMARY:Thróttur Reykjavík – Víkingur Reykjavík 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544340@anstoss
+DTSTAMP:20250930T180000Z
+DTSTART:20250930T180000Z
+DTEND:20250930T200000Z
+SUMMARY:Víkingur Reykjavík – Valur 3:0
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544343@anstoss
+DTSTAMP:20251003T180000Z
+DTSTART:20251003T180000Z
+DTEND:20251003T200000Z
+SUMMARY:Breidablik – Víkingur Reykjavík 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544350@anstoss
+DTSTAMP:20251011T140000Z
+DTSTART:20251011T140000Z
+DTEND:20251011T160000Z
+SUMMARY:FH – Víkingur Reykjavík 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544353@anstoss
+DTSTAMP:20251018T140000Z
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+SUMMARY:Víkingur Reykjavík – Stjarnan 1:1
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544353.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Independiente Medellín
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518012@anstoss
+DTSTAMP:20260214T203000Z
+DTSTART:20260214T203000Z
+DTEND:20260214T223000Z
+SUMMARY:Deportivo Cali – Independiente Medellín 3:1
+DESCRIPTION:Liga Femenina · 1. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524347@anstoss
+DTSTAMP:20260301T200000Z
+DTSTART:20260301T200000Z
+DTEND:20260301T220000Z
+SUMMARY:Independiente Medellín – Real Santander 3:0
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524357@anstoss
+DTSTAMP:20260310T210000Z
+DTSTART:20260310T210000Z
+DTEND:20260310T230000Z
+SUMMARY:Internacional Palmira – Independiente Medellín 0:0
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524359@anstoss
+DTSTAMP:20260315T200000Z
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+SUMMARY:Independiente Medellín – Llaneros 2:1
+DESCRIPTION:Liga Femenina · 4. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524373@anstoss
+DTSTAMP:20260325T200000Z
+DTSTART:20260325T200000Z
+DTEND:20260325T220000Z
+SUMMARY:La Equidad – Independiente Medellín 1:0
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524382@anstoss
+DTSTAMP:20260331T200000Z
+DTSTART:20260331T200000Z
+DTEND:20260331T220000Z
+SUMMARY:Independiente Medellín – Deportivo Pasto 3:1
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524389@anstoss
+DTSTAMP:20260415T220000Z
+DTSTART:20260415T220000Z
+DTEND:20260416T000000Z
+SUMMARY:Junior – Independiente Medellín 3:2
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525694@anstoss
+DTSTAMP:20260428T200000Z
+DTSTART:20260428T200000Z
+DTEND:20260428T220000Z
+SUMMARY:Independiente Medellín – Once Caldas 3:0
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525701@anstoss
+DTSTAMP:20260501T203000Z
+DTSTART:20260501T203000Z
+DTEND:20260501T223000Z
+SUMMARY:Atlético Nacional – Independiente Medellín 1:0
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525701.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525710@anstoss
+DTSTAMP:20260510T200000Z
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+SUMMARY:Independiente Medellín – Atlético Bucaramanga 3:0
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525710.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525723@anstoss
+DTSTAMP:20260517T203000Z
+DTSTART:20260517T203000Z
+DTEND:20260517T223000Z
+SUMMARY:Santa Fe – Independiente Medellín 2:0
+DESCRIPTION:Liga Femenina · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525723.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525726@anstoss
+DTSTAMP:20260524T210000Z
+DTSTART:20260524T210000Z
+DTEND:20260524T230000Z
+SUMMARY:Independiente Medellín – Orsomarso 2:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525726.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525737@anstoss
+DTSTAMP:20260604T203000Z
+DTSTART:20260604T203000Z
+DTEND:20260604T223000Z
+SUMMARY:Millonarios – Independiente Medellín 3:1
+DESCRIPTION:Liga Femenina · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525743@anstoss
+DTSTAMP:20260724T203000Z
+DTSTART:20260724T203000Z
+DTEND:20260724T223000Z
+SUMMARY:Independiente Medellín – Atlético Nacional 1:3
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525743.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525751@anstoss
+DTSTAMP:20260731T201500Z
+DTSTART:20260731T201500Z
+DTEND:20260731T221500Z
+SUMMARY:Fortaleza – Independiente Medellín 1:0
+DESCRIPTION:Liga Femenina · 15. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525758@anstoss
+DTSTAMP:20260820T200000Z
+DTSTART:20260820T200000Z
+DTEND:20260820T220000Z
+SUMMARY:Independiente Medellín – América de Cali 0:3
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525758.ht
+ ml
+END:VEVENT
+END:VCALENDAR

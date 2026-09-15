@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stjarnan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1332842@anstoss
+DTSTAMP:20250415T180000Z
+DTSTART:20250415T180000Z
+DTEND:20250415T200000Z
+SUMMARY:Breidablik – Stjarnan 6:1
+DESCRIPTION:Úrvalsdeild Women · 1. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332842.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332848@anstoss
+DTSTAMP:20250422T180000Z
+DTSTART:20250422T180000Z
+DTEND:20250422T200000Z
+SUMMARY:Stjarnan – Víkingur Reykjavík 2:6
+DESCRIPTION:Úrvalsdeild Women · 2. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332848.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332853@anstoss
+DTSTAMP:20250427T170000Z
+DTSTART:20250427T170000Z
+DTEND:20250427T190000Z
+SUMMARY:Tindastóll – Stjarnan 1:2
+DESCRIPTION:Úrvalsdeild Women · 3. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332853.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332857@anstoss
+DTSTAMP:20250503T170000Z
+DTSTART:20250503T170000Z
+DTEND:20250503T190000Z
+SUMMARY:Stjarnan – Valur 1:0
+DESCRIPTION:Úrvalsdeild Women · 4. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332857.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332861@anstoss
+DTSTAMP:20250509T180000Z
+DTSTART:20250509T180000Z
+DTEND:20250509T200000Z
+SUMMARY:FH – Stjarnan 2:1
+DESCRIPTION:Úrvalsdeild Women · 5. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332863@anstoss
+DTSTAMP:20250517T140000Z
+DTSTART:20250517T140000Z
+DTEND:20250517T160000Z
+SUMMARY:Stjarnan – Fjard / Hött / Leiknir 1:0
+DESCRIPTION:Úrvalsdeild Women · 6. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332869@anstoss
+DTSTAMP:20250524T130000Z
+DTSTART:20250524T130000Z
+DTEND:20250524T150000Z
+SUMMARY:Thór / KA – Stjarnan 1:0
+DESCRIPTION:Úrvalsdeild Women · 7. Spieltag
+LOCATION:Boginn\, Akureyri
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332869.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332921@anstoss
+DTSTAMP:20250607T140000Z
+DTSTART:20250607T140000Z
+DTEND:20250607T160000Z
+SUMMARY:Fram – Stjarnan 3:1
+DESCRIPTION:Úrvalsdeild Women · 8. Spieltag
+LOCATION:Lambhagavöllurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332921.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332875@anstoss
+DTSTAMP:20250615T161500Z
+DTSTART:20250615T161500Z
+DTEND:20250615T181500Z
+SUMMARY:Stjarnan – Thróttur Reykjavík 2:0
+DESCRIPTION:Úrvalsdeild Women · 9. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332875.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332878@anstoss
+DTSTAMP:20250621T140000Z
+DTSTART:20250621T140000Z
+DTEND:20250621T160000Z
+SUMMARY:Stjarnan – Breidablik 0:3
+DESCRIPTION:Úrvalsdeild Women · 10. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332878.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332885@anstoss
+DTSTAMP:20250725T180000Z
+DTSTART:20250725T180000Z
+DTEND:20250725T200000Z
+SUMMARY:Víkingur Reykjavík – Stjarnan 2:1
+DESCRIPTION:Úrvalsdeild Women · 11. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332885.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332886@anstoss
+DTSTAMP:20250807T180000Z
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+SUMMARY:Stjarnan – Tindastóll 3:0
+DESCRIPTION:Úrvalsdeild Women · 12. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332892@anstoss
+DTSTAMP:20250813T180000Z
+DTSTART:20250813T180000Z
+DTEND:20250813T200000Z
+SUMMARY:Valur – Stjarnan 4:2
+DESCRIPTION:Úrvalsdeild Women · 13. Spieltag
+LOCATION:N1-völlurinn Hlíðarenda\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332896@anstoss
+DTSTAMP:20250821T180000Z
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+SUMMARY:Stjarnan – FH 2:2
+DESCRIPTION:Úrvalsdeild Women · 14. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332901@anstoss
+DTSTAMP:20250830T140000Z
+DTSTART:20250830T140000Z
+DTEND:20250830T160000Z
+SUMMARY:Fjard / Hött / Leiknir – Stjarnan 0:3
+DESCRIPTION:Úrvalsdeild Women · 15. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332903@anstoss
+DTSTAMP:20250906T160000Z
+DTSTART:20250906T160000Z
+DTEND:20250906T180000Z
+SUMMARY:Stjarnan – Thór / KA 4:1
+DESCRIPTION:Úrvalsdeild Women · 16. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332903.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332930@anstoss
+DTSTAMP:20250912T180000Z
+DTSTART:20250912T180000Z
+DTEND:20250912T200000Z
+SUMMARY:Stjarnan – Fram 3:1
+DESCRIPTION:Úrvalsdeild Women · 17. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332930.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332913@anstoss
+DTSTAMP:20250920T140000Z
+DTSTART:20250920T140000Z
+DTEND:20250920T160000Z
+SUMMARY:Thróttur Reykjavík – Stjarnan 4:2
+DESCRIPTION:Úrvalsdeild Women · 18. Spieltag
+LOCATION:AVIS völlurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544337@anstoss
+DTSTAMP:20250925T180000Z
+DTSTART:20250925T180000Z
+DTEND:20250925T200000Z
+SUMMARY:Breidablik – Stjarnan 1:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544342@anstoss
+DTSTAMP:20251001T180000Z
+DTSTART:20251001T180000Z
+DTEND:20251001T200000Z
+SUMMARY:Stjarnan – FH 3:4
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544347@anstoss
+DTSTAMP:20251006T191500Z
+DTSTART:20251006T191500Z
+DTEND:20251006T211500Z
+SUMMARY:Valur – Stjarnan 1:3
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544349@anstoss
+DTSTAMP:20251011T140000Z
+DTSTART:20251011T140000Z
+DTEND:20251011T160000Z
+SUMMARY:Stjarnan – Thróttur Reykjavík 0:1
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544353@anstoss
+DTSTAMP:20251018T140000Z
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+SUMMARY:Víkingur Reykjavík – Stjarnan 1:1
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544353.ht
+ ml
+END:VEVENT
+END:VCALENDAR

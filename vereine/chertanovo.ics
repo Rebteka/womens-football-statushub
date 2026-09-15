@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chertanovo
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529890@anstoss
+DTSTAMP:20260314T140000Z
+DTSTART:20260314T140000Z
+DTEND:20260314T160000Z
+SUMMARY:Chertanovo – Krylya Sovetov 0:1
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529896@anstoss
+DTSTAMP:20260321T140000Z
+DTSTART:20260321T140000Z
+DTEND:20260321T160000Z
+SUMMARY:CSKA Moskva – Chertanovo 3:0
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529902@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Chertanovo – Zvezda Perm 0:1
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529909@anstoss
+DTSTAMP:20260404T140000Z
+DTSTART:20260404T140000Z
+DTEND:20260404T160000Z
+SUMMARY:Chertanovo – Spartak Moskva 1:3
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529909.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529916@anstoss
+DTSTAMP:20260425T060000Z
+DTSTART:20260425T060000Z
+DTEND:20260425T080000Z
+SUMMARY:Yenisey – Chertanovo 1:2
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529920@anstoss
+DTSTAMP:20260502T140000Z
+DTSTART:20260502T140000Z
+DTEND:20260502T160000Z
+SUMMARY:Chertanovo – Dinamo Moskva 0:1
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529920.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529928@anstoss
+DTSTAMP:20260510T160000Z
+DTSTART:20260510T160000Z
+DTEND:20260510T180000Z
+SUMMARY:Krasnodar – Chertanovo 1:3
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529936@anstoss
+DTSTAMP:20260516T100000Z
+DTSTART:20260516T100000Z
+DTEND:20260516T120000Z
+SUMMARY:Ryazan – Chertanovo 1:4
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529936.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529938@anstoss
+DTSTAMP:20260523T123000Z
+DTSTART:20260523T123000Z
+DTEND:20260523T143000Z
+SUMMARY:Chertanovo – Zenit 0:5
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529938.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529944@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:Rostov – Chertanovo 0:3
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529944.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529950@anstoss
+DTSTAMP:20260620T160000Z
+DTSTART:20260620T160000Z
+DTEND:20260620T180000Z
+SUMMARY:Chertanovo – Lokomotiv Moskva 0:3
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529960@anstoss
+DTSTAMP:20260627T140000Z
+DTSTART:20260627T140000Z
+DTEND:20260627T160000Z
+SUMMARY:Rubin Kazan – Chertanovo 2:2
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529960.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529969@anstoss
+DTSTAMP:20260718T130000Z
+DTSTART:20260718T130000Z
+DTEND:20260718T150000Z
+SUMMARY:Krylya Sovetov – Chertanovo 1:1
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529974@anstoss
+DTSTAMP:20260801T160000Z
+DTSTART:20260801T160000Z
+DTEND:20260801T180000Z
+SUMMARY:Chertanovo – Yenisey 3:2
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529974.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529985@anstoss
+DTSTAMP:20260808T080000Z
+DTSTART:20260808T080000Z
+DTEND:20260808T100000Z
+SUMMARY:Zvezda Perm – Chertanovo 0:1
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529985.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529989@anstoss
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+SUMMARY:Lokomotiv Moskva – Chertanovo 2:1
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529992@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Chertanovo – Krasnodar 1:1
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529999@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Dinamo Moskva – Chertanovo 2:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530004@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Chertanovo – CSKA Moskva
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530010@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Chertanovo – Ryazan
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530021@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Zenit – Chertanovo
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530021.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530027@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Spartak Moskva – Chertanovo
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530028@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Chertanovo – Rostov
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530034@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Chertanovo – Rubin Kazan
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530034.ht
+ ml
+END:VEVENT
+END:VCALENDAR

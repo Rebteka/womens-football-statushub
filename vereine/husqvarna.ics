@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Husqvarna
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501354@anstoss
+DTSTAMP:20260328T123000Z
+DTSTART:20260328T123000Z
+DTEND:20260328T143000Z
+SUMMARY:Husqvarna – Alingsås 2:1
+DESCRIPTION:Elitettan · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501361@anstoss
+DTSTAMP:20260404T120000Z
+DTSTART:20260404T120000Z
+DTEND:20260404T140000Z
+SUMMARY:Gamla Upsala – Husqvarna 2:2
+DESCRIPTION:Elitettan · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501368@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Husqvarna – Örebro SK 0:1
+DESCRIPTION:Elitettan · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501376@anstoss
+DTSTAMP:20260501T110000Z
+DTSTART:20260501T110000Z
+DTEND:20260501T130000Z
+SUMMARY:Jitex – Husqvarna 1:1
+DESCRIPTION:Elitettan · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503699@anstoss
+DTSTAMP:20260509T110000Z
+DTSTART:20260509T110000Z
+DTEND:20260509T130000Z
+SUMMARY:Husqvarna – Enskede 0:1
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503699.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501390@anstoss
+DTSTAMP:20260515T170000Z
+DTSTART:20260515T170000Z
+DTEND:20260515T190000Z
+SUMMARY:Häcken II – Husqvarna 1:2
+DESCRIPTION:Elitettan · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501400@anstoss
+DTSTAMP:20260523T120000Z
+DTSTART:20260523T120000Z
+DTEND:20260523T140000Z
+SUMMARY:Trelleborg – Husqvarna 3:0
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501404@anstoss
+DTSTAMP:20260531T140000Z
+DTSTART:20260531T140000Z
+DTEND:20260531T160000Z
+SUMMARY:Husqvarna – Linköping 1:3
+DESCRIPTION:Elitettan · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501412@anstoss
+DTSTAMP:20260613T120000Z
+DTSTART:20260613T120000Z
+DTEND:20260613T140000Z
+SUMMARY:Sandviken – Husqvarna 3:4
+DESCRIPTION:Elitettan · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501417@anstoss
+DTSTAMP:20260618T170000Z
+DTSTART:20260618T170000Z
+DTEND:20260618T190000Z
+SUMMARY:Husqvarna – Elfsborg 1:1
+DESCRIPTION:Elitettan · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501424@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:Husqvarna – Göteborg 4:4
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501433@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:KIF Örebro – Husqvarna 2:1
+DESCRIPTION:Elitettan · 12. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501433.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501437@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:Husqvarna – Umeå 1:2
+DESCRIPTION:Elitettan · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501437.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501443@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Alingsås – Husqvarna 0:1
+DESCRIPTION:Elitettan · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501453@anstoss
+DTSTAMP:20260822T110000Z
+DTSTART:20260822T110000Z
+DTEND:20260822T130000Z
+SUMMARY:Örebro SK – Husqvarna 0:2
+DESCRIPTION:Elitettan · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501460@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Husqvarna – Trelleborg 1:0
+DESCRIPTION:Elitettan · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501465@anstoss
+DTSTAMP:20260905T110000Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:Göteborg – Husqvarna 2:1
+DESCRIPTION:Elitettan · 17. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501473@anstoss
+DTSTAMP:20260912T120000Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:Husqvarna – KIF Örebro 2:1
+DESCRIPTION:Elitettan · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501482@anstoss
+DTSTAMP:20260918T170000Z
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+SUMMARY:Linköping – Husqvarna
+DESCRIPTION:Elitettan · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501488@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:Husqvarna – Gamla Upsala
+DESCRIPTION:Elitettan · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501498@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Umeå – Husqvarna
+DESCRIPTION:Elitettan · 21. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501501@anstoss
+DTSTAMP:20261017T120000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:Husqvarna – Sandviken
+DESCRIPTION:Elitettan · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501509@anstoss
+DTSTAMP:20261024T110000Z
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
+SUMMARY:Husqvarna – Jitex
+DESCRIPTION:Elitettan · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503718@anstoss
+DTSTAMP:20261031T120000Z
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
+SUMMARY:Enskede – Husqvarna
+DESCRIPTION:Elitettan · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503718.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501521@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Husqvarna – Häcken II
+DESCRIPTION:Elitettan · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501521.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501528@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Elfsborg – Husqvarna
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501528.ht
+ ml
+END:VEVENT
+END:VCALENDAR

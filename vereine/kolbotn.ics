@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kolbotn
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535675@anstoss
+DTSTAMP:20260322T150000Z
+DTSTART:20260322T150000Z
+DTEND:20260322T170000Z
+SUMMARY:Klepp – Kolbotn 1:2
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535675.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535607@anstoss
+DTSTAMP:20260329T120000Z
+DTSTART:20260329T120000Z
+DTEND:20260329T140000Z
+SUMMARY:Kolbotn – Fyllingsdalen 5:1
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535611@anstoss
+DTSTAMP:20260425T123000Z
+DTSTART:20260425T123000Z
+DTEND:20260425T143000Z
+SUMMARY:Kolbotn – TIL 2020 0:3
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535614@anstoss
+DTSTAMP:20260503T140000Z
+DTSTART:20260503T140000Z
+DTEND:20260503T160000Z
+SUMMARY:Åsane – Kolbotn 2:1
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535614.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535618@anstoss
+DTSTAMP:20260509T120000Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Kolbotn – Bryne 0:1
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535618.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535622@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Start – Kolbotn 2:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535622.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535608@anstoss
+DTSTAMP:20260525T140000Z
+DTSTART:20260525T140000Z
+DTEND:20260525T160000Z
+SUMMARY:Arna-Bjørnar – Kolbotn 1:1
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535625@anstoss
+DTSTAMP:20260531T120000Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:Kolbotn – Odd 1:1
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535625.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535694@anstoss
+DTSTAMP:20260614T120000Z
+DTSTART:20260614T120000Z
+DTEND:20260614T140000Z
+SUMMARY:Kolbotn – Frigg Oslo FK 5:0
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535631@anstoss
+DTSTAMP:20260621T150000Z
+DTSTART:20260621T150000Z
+DTEND:20260621T170000Z
+SUMMARY:Viking FK – Kolbotn 3:1
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535700@anstoss
+DTSTAMP:20260628T120000Z
+DTSTART:20260628T120000Z
+DTEND:20260628T140000Z
+SUMMARY:Kolbotn – Grei 0:3
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535703@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:Frigg Oslo FK – Kolbotn 2:3
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535703.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535640@anstoss
+DTSTAMP:20260809T130000Z
+DTSTART:20260809T130000Z
+DTEND:20260809T150000Z
+SUMMARY:Kolbotn – Viking FK 0:6
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535709@anstoss
+DTSTAMP:20260816T120000Z
+DTSTART:20260816T120000Z
+DTEND:20260816T140000Z
+SUMMARY:Grei – Kolbotn 3:1
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535709.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535646@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:Bryne – Kolbotn (verlegt)
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535650@anstoss
+DTSTAMP:20260830T130000Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Kolbotn – Start 1:3
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535650.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535654@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:TIL 2020 – Kolbotn 2:2
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535657@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Kolbotn – Åsane
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535660@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Odd – Kolbotn
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535725@anstoss
+DTSTAMP:20261004T123000Z
+DTSTART:20261004T123000Z
+DTEND:20261004T143000Z
+SUMMARY:Kolbotn – Klepp
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535725.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535666@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Fyllingsdalen – Kolbotn
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535666.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535670@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Kolbotn – Arna-Bjørnar
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535670.ht
+ ml
+END:VEVENT
+END:VCALENDAR

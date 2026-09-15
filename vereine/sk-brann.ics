@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SK Brann
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495301@anstoss
+DTSTAMP:20260320T170000Z
+DTSTART:20260320T170000Z
+DTEND:20260320T190000Z
+SUMMARY:Molde – SK Brann 0:5
+DESCRIPTION:Toppserien · 1. Spieltag
+LOCATION:Aker Stadion\, Molde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495311@anstoss
+DTSTAMP:20260328T150000Z
+DTSTART:20260328T150000Z
+DTEND:20260328T170000Z
+SUMMARY:SK Brann – Rosenborg 1:1
+DESCRIPTION:Toppserien · 2. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495312@anstoss
+DTSTAMP:20260401T140000Z
+DTSTART:20260401T140000Z
+DTEND:20260401T160000Z
+SUMMARY:Bodø / Glimt – SK Brann 1:4
+DESCRIPTION:Toppserien · 3. Spieltag
+LOCATION:Aspmyra Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495322@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Røa – SK Brann 0:2
+DESCRIPTION:Toppserien · 4. Spieltag
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495378@anstoss
+DTSTAMP:20260428T160000Z
+DTSTART:20260428T160000Z
+DTEND:20260428T180000Z
+SUMMARY:SK Brann – Haugesund 2:0
+DESCRIPTION:Toppserien · 14. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495328@anstoss
+DTSTAMP:20260503T123000Z
+DTSTART:20260503T123000Z
+DTEND:20260503T143000Z
+SUMMARY:SK Brann – Hønefoss 6:0
+DESCRIPTION:Toppserien · 5. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495331@anstoss
+DTSTAMP:20260508T160000Z
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+SUMMARY:SK Brann – Stabæk 1:0
+DESCRIPTION:Toppserien · 6. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495338@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Haugesund – SK Brann 0:7
+DESCRIPTION:Toppserien · 7. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495342@anstoss
+DTSTAMP:20260526T160000Z
+DTSTART:20260526T160000Z
+DTEND:20260526T180000Z
+SUMMARY:SK Brann – Lyn 4:0
+DESCRIPTION:Toppserien · 8. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495348@anstoss
+DTSTAMP:20260530T120000Z
+DTSTART:20260530T120000Z
+DTEND:20260530T140000Z
+SUMMARY:Fortuna Ålesund – SK Brann 1:2
+DESCRIPTION:Toppserien · 9. Spieltag
+LOCATION:Color Line Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495359@anstoss
+DTSTAMP:20260613T140000Z
+DTSTART:20260613T140000Z
+DTEND:20260613T160000Z
+SUMMARY:Vålerenga – SK Brann 0:3
+DESCRIPTION:Toppserien · 10. Spieltag
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495361@anstoss
+DTSTAMP:20260621T120000Z
+DTSTART:20260621T120000Z
+DTEND:20260621T140000Z
+SUMMARY:SK Brann – LSK Kvinner 0:0
+DESCRIPTION:Toppserien · 11. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603951@anstoss
+DTSTAMP:20260805T080000Z
+DTSTART:20260805T080000Z
+DTEND:20260805T100000Z
+SUMMARY:SK Brann – Mitrovica 5:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612440@anstoss
+DTSTAMP:20260808T143000Z
+DTSTART:20260808T143000Z
+DTEND:20260808T163000Z
+SUMMARY:SK Brann – PAOK 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:III. Keruleti TVE\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495368@anstoss
+DTSTAMP:20260815T140000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T160000Z
+SUMMARY:Hønefoss – SK Brann 0:3
+DESCRIPTION:Toppserien · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495373@anstoss
+DTSTAMP:20260821T160000Z
+DTSTART:20260821T160000Z
+DTEND:20260821T180000Z
+SUMMARY:SK Brann – Røa 5:1
+DESCRIPTION:Toppserien · 13. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623459@anstoss
+DTSTAMP:20260825T160000Z
+DTSTART:20260825T160000Z
+DTEND:20260825T180000Z
+SUMMARY:SK Brann – Austria Wien 2:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623468@anstoss
+DTSTAMP:20260901T160000Z
+DTSTART:20260901T160000Z
+DTEND:20260901T180000Z
+SUMMARY:Austria Wien – SK Brann 4:0
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495386@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Lyn – SK Brann 0:3
+DESCRIPTION:Toppserien · 15. Spieltag
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495391@anstoss
+DTSTAMP:20260919T130000Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:SK Brann – Bodø / Glimt
+DESCRIPTION:Toppserien · 16. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495401@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Stabæk – SK Brann
+DESCRIPTION:Toppserien · 17. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495402@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:SK Brann – Fortuna Ålesund
+DESCRIPTION:Toppserien · 18. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495412@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Rosenborg – SK Brann
+DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495416@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:SK Brann – Vålerenga
+DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495421@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:LSK Kvinner – SK Brann
+DESCRIPTION:Toppserien · 21. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495428@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:SK Brann – Molde
+DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495428.ht
+ ml
+END:VEVENT
+END:VCALENDAR

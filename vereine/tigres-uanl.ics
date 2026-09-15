@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tigres UANL
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603302@anstoss
+DTSTAMP:20260802T010600Z
+DTSTART:20260802T010600Z
+DTEND:20260802T030600Z
+SUMMARY:Tigres UANL – Puebla 8:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603317@anstoss
+DTSTAMP:20260811T010600Z
+DTSTART:20260811T010600Z
+DTEND:20260811T030600Z
+SUMMARY:León – Tigres UANL 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603321@anstoss
+DTSTAMP:20260816T010600Z
+DTSTART:20260816T010600Z
+DTEND:20260816T030600Z
+SUMMARY:Tigres UANL – Juárez 1:0
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603330@anstoss
+DTSTAMP:20260823T000000Z
+DTSTART:20260823T000000Z
+DTEND:20260823T020000Z
+SUMMARY:Cruz Azul – Tigres UANL 0:3
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603338@anstoss
+DTSTAMP:20260830T010600Z
+DTSTART:20260830T010600Z
+DTEND:20260830T030600Z
+SUMMARY:Tigres UANL – Pachuca 2:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603351@anstoss
+DTSTAMP:20260907T000600Z
+DTSTART:20260907T000600Z
+DTEND:20260907T020600Z
+SUMMARY:Tigres UANL – Santos Laguna 3:0
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603360@anstoss
+DTSTAMP:20260913T230000Z
+DTSTART:20260913T230000Z
+DTEND:20260914T010000Z
+SUMMARY:América – Tigres UANL 5:2
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603370@anstoss
+DTSTAMP:20260922T000000Z
+DTSTART:20260922T000000Z
+DTEND:20260922T020000Z
+SUMMARY:Toluca – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603377@anstoss
+DTSTAMP:20260928T000600Z
+DTSTART:20260928T000600Z
+DTEND:20260928T020600Z
+SUMMARY:Tigres UANL – Atlético San Luis
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603382@anstoss
+DTSTAMP:20261003T010000Z
+DTSTART:20261003T010000Z
+DTEND:20261003T030000Z
+SUMMARY:Pumas UNAM – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603395@anstoss
+DTSTAMP:20261019T000600Z
+DTSTART:20261019T000600Z
+DTEND:20261019T020600Z
+SUMMARY:Tigres UANL – Querétaro
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603405@anstoss
+DTSTAMP:20261026T000000Z
+DTSTART:20261026T000000Z
+DTEND:20261026T020000Z
+SUMMARY:Tigres UANL – Monterrey
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603409@anstoss
+DTSTAMP:20261031T010600Z
+DTSTART:20261031T010600Z
+DTEND:20261031T030600Z
+SUMMARY:Atlas – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Colomos\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603417@anstoss
+DTSTAMP:20261105T214500Z
+DTSTART:20261105T214500Z
+DTEND:20261105T234500Z
+SUMMARY:Atlante – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603417.ht
+ ml
+END:VEVENT
+END:VCALENDAR

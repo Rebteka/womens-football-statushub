@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting CP
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558479@anstoss
+DTSTAMP:20260805T123000Z
+DTSTART:20260805T123000Z
+DTEND:20260805T143000Z
+SUMMARY:Sporting CP – SeaSters Odesa 5:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Sportklub Niederosterreich\, Sankt Polten
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612442@anstoss
+DTSTAMP:20260808T160000Z
+DTSTART:20260808T160000Z
+DTEND:20260808T180000Z
+SUMMARY:St. Pölten – Sporting CP 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610739@anstoss
+DTSTAMP:20260912T170000Z
+DTSTART:20260912T170000Z
+DTEND:20260912T190000Z
+SUMMARY:Sporting CP – Vitoria Guimaraes 2:0
+DESCRIPTION:1a Divisão - Women · 1. Spieltag
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610770@anstoss
+DTSTAMP:20260918T173000Z
+DTSTART:20260918T173000Z
+DTEND:20260918T193000Z
+SUMMARY:Sporting CP – Marítimo
+DESCRIPTION:1a Divisão - Women · 11. Spieltag
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610888@anstoss
+DTSTAMP:20260927T134500Z
+DTSTART:20260927T134500Z
+DTEND:20260927T154500Z
+SUMMARY:Sporting Braga – Sporting CP
+DESCRIPTION:1a Divisão - Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610749@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Sporting CP – Torreense
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610752@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SL Benfica – Sporting CP
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610752.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610754@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Sporting CP – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610799@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Porto – Sporting CP
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610799.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610762@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Sporting CP – Racing Power
+DESCRIPTION:1a Divisão - Women · 8. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610764@anstoss
+DTSTAMP:20270117T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Rio Ave – Sporting CP
+DESCRIPTION:1a Divisão - Women · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610768@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Vitoria Guimaraes – Sporting CP
+DESCRIPTION:1a Divisão - Women · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610741@anstoss
+DTSTAMP:20270207T150000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Marítimo – Sporting CP
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610897@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Sporting CP – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 12. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610777@anstoss
+DTSTAMP:20270327T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Torreense – Sporting CP
+DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610777.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610781@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Sporting CP – SL Benfica
+DESCRIPTION:1a Divisão - Women · 14. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610781.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610784@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Valadares Gaia – Sporting CP
+DESCRIPTION:1a Divisão - Women · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610784.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610807@anstoss
+DTSTAMP:20270509T140000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Sporting CP – Porto
+DESCRIPTION:1a Divisão - Women · 16. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610807.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610788@anstoss
+DTSTAMP:20270516T140000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Racing Power – Sporting CP
+DESCRIPTION:1a Divisão - Women · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610792@anstoss
+DTSTAMP:20270523T140000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Sporting CP – Rio Ave
+DESCRIPTION:1a Divisão - Women · 18. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610792.ht
+ ml
+END:VEVENT
+END:VCALENDAR

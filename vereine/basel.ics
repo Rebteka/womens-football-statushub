@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Basel
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1581750@anstoss
+DTSTAMP:20260808T170000Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:Luzern – Basel 1:2
+DESCRIPTION:Women's Super League (Schweiz) · 1. Spieltag
+LOCATION:Stadion Allmend\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581754@anstoss
+DTSTAMP:20260814T170000Z
+DTSTART:20260814T170000Z
+DTEND:20260814T190000Z
+SUMMARY:Basel – Young Boys 2:0
+DESCRIPTION:Women's Super League (Schweiz) · 2. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581762@anstoss
+DTSTAMP:20260829T140000Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:Servette Chênois – Basel 2:1
+DESCRIPTION:Women's Super League (Schweiz) · 3. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581765@anstoss
+DTSTAMP:20260904T170000Z
+DTSTART:20260904T170000Z
+DTEND:20260904T190000Z
+SUMMARY:Basel – St. Gallen 1:0
+DESCRIPTION:Women's Super League (Schweiz) · 4. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581769@anstoss
+DTSTAMP:20260909T170000Z
+DTSTART:20260909T170000Z
+DTEND:20260909T190000Z
+SUMMARY:Basel – Grasshopper 1:1
+DESCRIPTION:Women's Super League (Schweiz) · 5. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581769.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581778@anstoss
+DTSTAMP:20260913T143000Z
+DTSTART:20260913T143000Z
+DTEND:20260913T163000Z
+SUMMARY:Zürich – Basel 1:1
+DESCRIPTION:Women's Super League (Schweiz) · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581778.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581780@anstoss
+DTSTAMP:20260919T140000Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Basel – Rapperswil Jona
+DESCRIPTION:Women's Super League (Schweiz) · 7. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581788@anstoss
+DTSTAMP:20261003T160000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Yverdon – Basel
+DESCRIPTION:Women's Super League (Schweiz) · 8. Spieltag
+LOCATION:Stade Municipal\, Yverdon-les-Bains
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581789@anstoss
+DTSTAMP:20261017T150000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T170000Z
+SUMMARY:Aarau – Basel
+DESCRIPTION:Women's Super League (Schweiz) · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581794@anstoss
+DTSTAMP:20261030T180000Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Basel – Zürich
+DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581794.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581802@anstoss
+DTSTAMP:20261106T180000Z
+DTSTART:20261106T180000Z
+DTEND:20261106T200000Z
+SUMMARY:Young Boys – Basel
+DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581802.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581804@anstoss
+DTSTAMP:20261114T150000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Basel – Aarau
+DESCRIPTION:Women's Super League (Schweiz) · 12. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581804.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581810@anstoss
+DTSTAMP:20261120T180000Z
+DTSTART:20261120T180000Z
+DTEND:20261120T200000Z
+SUMMARY:Grasshopper – Basel
+DESCRIPTION:Women's Super League (Schweiz) · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581810.ht
+ ml
+END:VEVENT
+END:VCALENDAR

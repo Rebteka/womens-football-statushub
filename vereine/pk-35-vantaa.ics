@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PK-35 Vantaa
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539021@anstoss
+DTSTAMP:20260328T170000Z
+DTSTART:20260328T170000Z
+DTEND:20260328T190000Z
+SUMMARY:Ilves – PK-35 Vantaa 2:5
+DESCRIPTION:Kansallinen Liiga · 1. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539021.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539025@anstoss
+DTSTAMP:20260404T120000Z
+DTSTART:20260404T120000Z
+DTEND:20260404T140000Z
+SUMMARY:KuPS – PK-35 Vantaa 3:1
+DESCRIPTION:Kansallinen Liiga · 2. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539026@anstoss
+DTSTAMP:20260424T160000Z
+DTSTART:20260424T160000Z
+DTEND:20260424T180000Z
+SUMMARY:PK-35 Vantaa – IF Gnistan 2:3
+DESCRIPTION:Kansallinen Liiga · 3. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539032@anstoss
+DTSTAMP:20260503T110000Z
+DTSTART:20260503T110000Z
+DTEND:20260503T130000Z
+SUMMARY:HPS – PK-35 Vantaa 2:0
+DESCRIPTION:Kansallinen Liiga · 4. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539035@anstoss
+DTSTAMP:20260509T110000Z
+DTSTART:20260509T110000Z
+DTEND:20260509T130000Z
+SUMMARY:PK-35 Vantaa – Åland United 0:5
+DESCRIPTION:Kansallinen Liiga · 5. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539039@anstoss
+DTSTAMP:20260517T120000Z
+DTSTART:20260517T120000Z
+DTEND:20260517T140000Z
+SUMMARY:PK-35 Vantaa – VIFK 2:1
+DESCRIPTION:Kansallinen Liiga · 6. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539044@anstoss
+DTSTAMP:20260523T110000Z
+DTSTART:20260523T110000Z
+DTEND:20260523T130000Z
+SUMMARY:HJK – PK-35 Vantaa 5:0
+DESCRIPTION:Kansallinen Liiga · 7. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539048@anstoss
+DTSTAMP:20260531T120000Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:PK-35 Vantaa – Ilves 0:2
+DESCRIPTION:Kansallinen Liiga · 8. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539050@anstoss
+DTSTAMP:20260612T153000Z
+DTSTART:20260612T153000Z
+DTEND:20260612T173000Z
+SUMMARY:PK-35 Vantaa – KuPS 1:2
+DESCRIPTION:Kansallinen Liiga · 9. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539050.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539055@anstoss
+DTSTAMP:20260627T120000Z
+DTSTART:20260627T120000Z
+DTEND:20260627T140000Z
+SUMMARY:IF Gnistan – PK-35 Vantaa 3:0
+DESCRIPTION:Kansallinen Liiga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539055.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539058@anstoss
+DTSTAMP:20260704T110000Z
+DTSTART:20260704T110000Z
+DTEND:20260704T130000Z
+SUMMARY:PK-35 Vantaa – HPS 0:1
+DESCRIPTION:Kansallinen Liiga · 11. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539058.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539065@anstoss
+DTSTAMP:20260712T150000Z
+DTSTART:20260712T150000Z
+DTEND:20260712T170000Z
+SUMMARY:Åland United – PK-35 Vantaa 4:1
+DESCRIPTION:Kansallinen Liiga · 12. Spieltag
+LOCATION:Wiklöf Holding Arena\, Marie Harbor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539065.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539068@anstoss
+DTSTAMP:20260719T110000Z
+DTSTART:20260719T110000Z
+DTEND:20260719T130000Z
+SUMMARY:VIFK – PK-35 Vantaa 1:1
+DESCRIPTION:Kansallinen Liiga · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539068.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539071@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:PK-35 Vantaa – HJK 0:2
+DESCRIPTION:Kansallinen Liiga · 14. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539071.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612458@anstoss
+DTSTAMP:20260809T130000Z
+DTSTART:20260809T130000Z
+DTEND:20260809T150000Z
+SUMMARY:JyPK – PK-35 Vantaa 1:6
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 1. Spieltag
+LOCATION:Harjun Stadion\, Jyvaskyla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612494@anstoss
+DTSTAMP:20260814T160000Z
+DTSTART:20260814T160000Z
+DTEND:20260814T180000Z
+SUMMARY:PK-35 Vantaa – HJS Akatemia 3:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 2. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612499@anstoss
+DTSTAMP:20260823T153000Z
+DTSTART:20260823T153000Z
+DTEND:20260823T173000Z
+SUMMARY:Honka – PK-35 Vantaa 2:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 3. Spieltag
+LOCATION:Tapiolan Urheilupuisto\, Espoo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612500@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:EBK – PK-35 Vantaa 2:2
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612470@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:PK-35 Vantaa – VIFK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612474@anstoss
+DTSTAMP:20260917T160000Z
+DTSTART:20260917T160000Z
+DTEND:20260917T180000Z
+SUMMARY:PK-35 Vantaa – JyPK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612506@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:HJS Akatemia – PK-35 Vantaa
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612506.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612509@anstoss
+DTSTAMP:20261002T160000Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:PK-35 Vantaa – Honka
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612513@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:PK-35 Vantaa – EBK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612488@anstoss
+DTSTAMP:20261024T120000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:VIFK – PK-35 Vantaa
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
+ nstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612488.ht
+ ml
+END:VEVENT
+END:VCALENDAR

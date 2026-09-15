@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VfB Stuttgart
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1593111@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:TSG Hoffenheim – VfB Stuttgart 1:2
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593119@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:VfB Stuttgart – Hamburger SV 2:1
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Gazi-Stadion auf der Waldau\, Stuttgart
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593121@anstoss
+DTSTAMP:20260906T163000Z
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+SUMMARY:1. FC Nürnberg – VfB Stuttgart 3:3
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593133@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:VfB Stuttgart – VfL Wolfsburg 0:2
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593141@anstoss
+DTSTAMP:20260921T160000Z
+DTSTART:20260921T160000Z
+DTEND:20260921T180000Z
+SUMMARY:SV Werder Bremen – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629379@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:1. FFC Turbine Potsdam – VfB Stuttgart
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593147@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:VfB Stuttgart – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593150@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:FC Bayern München – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593150.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593160@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:VfB Stuttgart – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593168@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:1. FSV Mainz 05 – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593174@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:VfB Stuttgart – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593179@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SC Freiburg – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593179.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593188@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:VfB Stuttgart – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593188.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593194@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:1. FC Köln – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593194.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593202@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VfB Stuttgart – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593206@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Hamburger SV – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593217@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:VfB Stuttgart – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593217.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593225@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:VfL Wolfsburg – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593225.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593231@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VfB Stuttgart – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593231.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593238@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:1. FC Union Berlin – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593238.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593245@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:VfB Stuttgart – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593249@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Eintracht Frankfurt – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593258@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:VfB Stuttgart – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593258.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593261@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Bayer 04 Leverkusen – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593261.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593272@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:VfB Stuttgart – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593280@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:RB Leipzig – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593280.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593286@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:VfB Stuttgart – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593286.ht
+ ml
+END:VEVENT
+END:VCALENDAR

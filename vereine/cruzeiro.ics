@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cruzeiro
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522328@anstoss
+DTSTAMP:20260214T210000Z
+DTSTART:20260214T210000Z
+DTEND:20260214T230000Z
+SUMMARY:Bahia – Cruzeiro 0:2
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522339@anstoss
+DTSTAMP:20260223T220000Z
+DTSTART:20260223T220000Z
+DTEND:20260224T000000Z
+SUMMARY:Cruzeiro – Santos 1:1
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Estadio Municipal Castor Cifuentes\, Nova Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522344@anstoss
+DTSTAMP:20260314T190000Z
+DTSTART:20260314T190000Z
+DTEND:20260314T210000Z
+SUMMARY:Cruzeiro – Atlético Mineiro 3:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522349@anstoss
+DTSTAMP:20260321T000000Z
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+SUMMARY:Flamengo – Cruzeiro 1:1
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522358@anstoss
+DTSTAMP:20260326T220000Z
+DTSTART:20260326T220000Z
+DTEND:20260327T000000Z
+SUMMARY:Cruzeiro – Fluminense 3:2
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522365@anstoss
+DTSTAMP:20260331T000000Z
+DTSTART:20260331T000000Z
+DTEND:20260331T020000Z
+SUMMARY:Ferroviaria – Cruzeiro 1:1
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522373@anstoss
+DTSTAMP:20260421T220000Z
+DTSTART:20260421T220000Z
+DTEND:20260422T000000Z
+SUMMARY:Cruzeiro – Internacional RS 1:2
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522379@anstoss
+DTSTAMP:20260426T140000Z
+DTSTART:20260426T140000Z
+DTEND:20260426T160000Z
+SUMMARY:RB Bragantino – Cruzeiro 2:2
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522387@anstoss
+DTSTAMP:20260501T180000Z
+DTSTART:20260501T180000Z
+DTEND:20260501T200000Z
+SUMMARY:Juventude – Cruzeiro 0:0
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Homero Soldatelli\, Flores da Cunha
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522393@anstoss
+DTSTAMP:20260508T220000Z
+DTSTART:20260508T220000Z
+DTEND:20260509T000000Z
+SUMMARY:Cruzeiro – America Mineiro 4:0
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522397@anstoss
+DTSTAMP:20260519T000000Z
+DTSTART:20260519T000000Z
+DTEND:20260519T020000Z
+SUMMARY:Cruzeiro – Corinthians 3:2
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522467@anstoss
+DTSTAMP:20260524T180000Z
+DTSTART:20260524T180000Z
+DTEND:20260524T200000Z
+SUMMARY:Vitória BA – Cruzeiro 2:2
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522411@anstoss
+DTSTAMP:20260725T003000Z
+DTSTART:20260725T003000Z
+DTEND:20260725T023000Z
+SUMMARY:Cruzeiro – São Paulo 1:2
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522420@anstoss
+DTSTAMP:20260801T180000Z
+DTSTART:20260801T180000Z
+DTEND:20260801T200000Z
+SUMMARY:Cruzeiro – Botafogo 4:0
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522429@anstoss
+DTSTAMP:20260809T140000Z
+DTSTART:20260809T140000Z
+DTEND:20260809T160000Z
+SUMMARY:Gremio – Cruzeiro 2:0
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522429.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522476@anstoss
+DTSTAMP:20260815T210000Z
+DTSTART:20260815T210000Z
+DTEND:20260815T230000Z
+SUMMARY:Mixto – Cruzeiro 1:2
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522440@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Cruzeiro – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634045@anstoss
+DTSTAMP:20260831T221500Z
+DTSTART:20260831T221500Z
+DTEND:20260901T001500Z
+SUMMARY:Cruzeiro – Corinthians 0:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634045.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634048@anstoss
+DTSTAMP:20260907T200000Z
+DTSTART:20260907T200000Z
+DTEND:20260907T220000Z
+SUMMARY:Corinthians – Cruzeiro 3:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634048.ht
+ ml
+END:VEVENT
+END:VCALENDAR

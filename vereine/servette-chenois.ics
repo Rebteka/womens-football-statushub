@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Servette Chênois
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558459@anstoss
+DTSTAMP:20260804T070000Z
+DTSTART:20260804T070000Z
+DTEND:20260804T090000Z
+SUMMARY:Dinamo-BGU – Servette Chênois 0:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611282@anstoss
+DTSTAMP:20260807T140000Z
+DTSTART:20260807T140000Z
+DTEND:20260807T160000Z
+SUMMARY:Servette Chênois – Aktobe 4:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581756@anstoss
+DTSTAMP:20260815T140000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T160000Z
+SUMMARY:Servette Chênois – Aarau 3:0
+DESCRIPTION:Women's Super League (Schweiz) · 2. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581753@anstoss
+DTSTAMP:20260821T170000Z
+DTSTART:20260821T170000Z
+DTEND:20260821T190000Z
+SUMMARY:Young Boys – Servette Chênois 3:2
+DESCRIPTION:Women's Super League (Schweiz) · 1. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623462@anstoss
+DTSTAMP:20260826T163000Z
+DTSTART:20260826T163000Z
+DTEND:20260826T183000Z
+SUMMARY:Sparta Praha – Servette Chênois 3:2
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:epet ARENA\, Prague
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581762@anstoss
+DTSTAMP:20260829T140000Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:Servette Chênois – Basel 2:1
+DESCRIPTION:Women's Super League (Schweiz) · 3. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623472@anstoss
+DTSTAMP:20260902T164500Z
+DTSTART:20260902T164500Z
+DTEND:20260902T184500Z
+SUMMARY:Servette Chênois – Sparta Praha 3:0
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stade de Genève\, Geneva
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581766@anstoss
+DTSTAMP:20260906T140000Z
+DTSTART:20260906T140000Z
+DTEND:20260906T160000Z
+SUMMARY:Grasshopper – Servette Chênois 1:3
+DESCRIPTION:Women's Super League (Schweiz) · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581766.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581771@anstoss
+DTSTAMP:20260909T160000Z
+DTSTART:20260909T160000Z
+DTEND:20260909T180000Z
+SUMMARY:Servette Chênois – Yverdon 3:2
+DESCRIPTION:Women's Super League (Schweiz) · 5. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581771.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581775@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Rapperswil Jona – Servette Chênois 1:2
+DESCRIPTION:Women's Super League (Schweiz) · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581775.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581782@anstoss
+DTSTAMP:20260918T170000Z
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+SUMMARY:Servette Chênois – Zürich
+DESCRIPTION:Women's Super League (Schweiz) · 7. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581782.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638334@anstoss
+DTSTAMP:20260923T164500Z
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+SUMMARY:Servette Chênois – Lyon
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638315@anstoss
+DTSTAMP:20261001T164500Z
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+SUMMARY:Køge – Servette Chênois
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Koge Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581786@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:St. Gallen – Servette Chênois
+DESCRIPTION:Women's Super League (Schweiz) · 8. Spieltag
+LOCATION:Espenmoos\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581786.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581790@anstoss
+DTSTAMP:20261016T170000Z
+DTSTART:20261016T170000Z
+DTEND:20261016T190000Z
+SUMMARY:Servette Chênois – Luzern
+DESCRIPTION:Women's Super League (Schweiz) · 9. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581790.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638335@anstoss
+DTSTAMP:20261028T174500Z
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+SUMMARY:Servette Chênois – OH Leuven
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581797@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART:20261101T150000Z
+DTEND:20261101T170000Z
+SUMMARY:Servette Chênois – Rapperswil Jona
+DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581797.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581803@anstoss
+DTSTAMP:20261107T170000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+SUMMARY:Zürich – Servette Chênois
+DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581803.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638291@anstoss
+DTSTAMP:20261110T200000Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Roma – Servette Chênois
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581805@anstoss
+DTSTAMP:20261114T150000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Luzern – Servette Chênois
+DESCRIPTION:Women's Super League (Schweiz) · 12. Spieltag
+LOCATION:Stadion Allmend\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581805.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638297@anstoss
+DTSTAMP:20261119T200000Z
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+SUMMARY:Barcelona – Servette Chênois
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581812@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
+SUMMARY:Servette Chênois – St. Gallen
+DESCRIPTION:Women's Super League (Schweiz) · 13. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581812.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638336@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Servette Chênois – Paris FC
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638336.ht
+ ml
+END:VEVENT
+END:VCALENDAR

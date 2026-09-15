@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bristol City
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1609376@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Sunderland – Bristol City 4:1
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609377@anstoss
+DTSTAMP:20260912T161500Z
+DTSTART:20260912T161500Z
+DTEND:20260912T181500Z
+SUMMARY:Bristol City – Newcastle United 0:1
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609387@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Watford – Bristol City
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609389@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Burnley – Bristol City
+DESCRIPTION:Women's Championship · 4. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609396@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Bristol City – Southampton
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609402@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Bristol City – Wolverhampton
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609408@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Ipswich Town – Bristol City
+DESCRIPTION:Women's Championship · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609413@anstoss
+DTSTAMP:20261114T180000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:Sheffield United – Bristol City
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609424@anstoss
+DTSTAMP:20261221T170000Z
+DTSTART:20261221T170000Z
+DTEND:20261221T190000Z
+SUMMARY:Bristol City – Nottingham Forest
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609425@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bristol City – Leicester City FC
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609433@anstoss
+DTSTAMP:20270124T120000Z
+DTSTART:20270124T120000Z
+DTEND:20270124T140000Z
+SUMMARY:Durham – Bristol City
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609433.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609441@anstoss
+DTSTAMP:20270127T193000Z
+DTSTART:20270127T193000Z
+DTEND:20270127T213000Z
+SUMMARY:Southampton – Bristol City
+DESCRIPTION:Women's Championship · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609441.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609443@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Bristol City – Sheffield United
+DESCRIPTION:Women's Championship · 13. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609450@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Bristol City – Watford
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609450.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609458@anstoss
+DTSTAMP:20270214T140000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Nottingham Forest – Bristol City
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609461@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Bristol City – Sunderland
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609472@anstoss
+DTSTAMP:20270321T140000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Wolverhampton – Bristol City
+DESCRIPTION:Women's Championship · 17. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609476@anstoss
+DTSTAMP:20270328T130000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T150000Z
+SUMMARY:Bristol City – Ipswich Town
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609479@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Bristol City – Burnley
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609490@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART:20270411T140000Z
+DTEND:20270411T160000Z
+SUMMARY:Leicester City FC – Bristol City
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609492@anstoss
+DTSTAMP:20270501T163000Z
+DTSTART:20270501T163000Z
+DTEND:20270501T183000Z
+SUMMARY:Bristol City – Durham
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609498@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Newcastle United – Bristol City
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609498.ht
+ ml
+END:VEVENT
+END:VCALENDAR

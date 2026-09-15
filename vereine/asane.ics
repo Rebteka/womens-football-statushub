@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Åsane
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535674@anstoss
+DTSTAMP:20260321T150000Z
+DTSTART:20260321T150000Z
+DTEND:20260321T170000Z
+SUMMARY:Grei – Åsane 0:1
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535674.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535676@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Åsane – Klepp 7:0
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535676.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535609@anstoss
+DTSTAMP:20260419T140000Z
+DTSTART:20260419T140000Z
+DTEND:20260419T160000Z
+SUMMARY:Bryne – Åsane 0:0
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535612@anstoss
+DTSTAMP:20260425T140000Z
+DTSTART:20260425T140000Z
+DTEND:20260425T160000Z
+SUMMARY:Start – Åsane 2:2
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535612.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535614@anstoss
+DTSTAMP:20260503T140000Z
+DTSTART:20260503T140000Z
+DTEND:20260503T160000Z
+SUMMARY:Åsane – Kolbotn 2:1
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535614.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535619@anstoss
+DTSTAMP:20260509T150000Z
+DTSTART:20260509T150000Z
+DTEND:20260509T170000Z
+SUMMARY:Odd – Åsane 2:2
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535619.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535623@anstoss
+DTSTAMP:20260516T110000Z
+DTSTART:20260516T110000Z
+DTEND:20260516T130000Z
+SUMMARY:Åsane – Arna-Bjørnar 2:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535623.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535691@anstoss
+DTSTAMP:20260531T130000Z
+DTSTART:20260531T130000Z
+DTEND:20260531T150000Z
+SUMMARY:Frigg Oslo FK – Åsane 0:1
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535691.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535628@anstoss
+DTSTAMP:20260613T130000Z
+DTSTART:20260613T130000Z
+DTEND:20260613T150000Z
+SUMMARY:Åsane – Fyllingsdalen 1:0
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535632@anstoss
+DTSTAMP:20260621T140000Z
+DTSTART:20260621T140000Z
+DTEND:20260621T160000Z
+SUMMARY:TIL 2020 – Åsane 0:2
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535637@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Fyllingsdalen – Åsane 1:2
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535641@anstoss
+DTSTAMP:20260808T113000Z
+DTSTART:20260808T113000Z
+DTEND:20260808T133000Z
+SUMMARY:Åsane – TIL 2020 1:0
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535643@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Viking FK – Åsane 0:1
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535651@anstoss
+DTSTAMP:20260830T130000Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Arna-Bjørnar – Åsane 2:0
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535634@anstoss
+DTSTAMP:20260904T150000Z
+DTSTART:20260904T150000Z
+DTEND:20260904T170000Z
+SUMMARY:Åsane – Viking FK 1:1
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535634.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535716@anstoss
+DTSTAMP:20260913T113000Z
+DTSTART:20260913T113000Z
+DTEND:20260913T133000Z
+SUMMARY:Åsane – Frigg Oslo FK 4:0
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535712@anstoss
+DTSTAMP:20260916T150000Z
+DTSTART:20260916T150000Z
+DTEND:20260916T170000Z
+SUMMARY:Åsane – Grei
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535657@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Kolbotn – Åsane
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535661@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Åsane – Start
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535663@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Åsane – Odd
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535728@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Klepp – Åsane
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535728.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535671@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Åsane – Bryne
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535671.ht
+ ml
+END:VEVENT
+END:VCALENDAR

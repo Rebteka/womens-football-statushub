@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Turkey
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523822@anstoss
+DTSTAMP:20260303T140000Z
+DTSTART:20260303T140000Z
+DTEND:20260303T160000Z
+SUMMARY:Turkey – Malta 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Pendik Stadyumu\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523822.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523847@anstoss
+DTSTAMP:20260307T190000Z
+DTSTART:20260307T190000Z
+DTEND:20260307T210000Z
+SUMMARY:Nordirland – Turkey 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Mourneview Park\, Lurgan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523847.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523871@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Schweiz – Turkey 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Letzigrund Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523896@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Turkey – Schweiz 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Sinop Sehir Stadyumu\, Sinop
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523922@anstoss
+DTSTAMP:20260605T170000Z
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+SUMMARY:Turkey – Nordirland 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Pendik Stadyumu\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523922.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523947@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Malta – Turkey 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557257@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Turkey – Slovenia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557257.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557269@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Slovenia – Turkey
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557269.ht
+ ml
+END:VEVENT
+END:VCALENDAR

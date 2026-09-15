@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Braga
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1610886@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Sporting Braga – Marítimo 5:0
+DESCRIPTION:1a Divisão - Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610887@anstoss
+DTSTAMP:20260921T193000Z
+DTSTART:20260921T193000Z
+DTEND:20260921T213000Z
+SUMMARY:Porto – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610887.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610888@anstoss
+DTSTAMP:20260927T134500Z
+DTSTART:20260927T134500Z
+DTEND:20260927T154500Z
+SUMMARY:Sporting Braga – Sporting CP
+DESCRIPTION:1a Divisão - Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610889@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Racing Power – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610890@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Sporting Braga – Torreense
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610891@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Rio Ave – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610892@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Sporting Braga – SL Benfica
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610893@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Sporting Braga – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610894@anstoss
+DTSTAMP:20270117T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Valadares Gaia – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610895@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Marítimo – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610896@anstoss
+DTSTAMP:20270207T150000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Sporting Braga – Porto
+DESCRIPTION:1a Divisão - Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610897@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Sporting CP – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 12. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610898@anstoss
+DTSTAMP:20270327T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Sporting Braga – Racing Power
+DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610899@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Torreense – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610900@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Sporting Braga – Rio Ave
+DESCRIPTION:1a Divisão - Women · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610901@anstoss
+DTSTAMP:20270509T140000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:SL Benfica – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610902@anstoss
+DTSTAMP:20270516T140000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Vitoria Guimaraes – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610903@anstoss
+DTSTAMP:20270523T140000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Sporting Braga – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610903.ht
+ ml
+END:VEVENT
+END:VCALENDAR

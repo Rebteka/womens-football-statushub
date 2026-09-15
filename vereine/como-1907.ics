@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Como 1907
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1601248@anstoss
+DTSTAMP:20260926T160000Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:Como 1907 – AC Milan
+DESCRIPTION:Serie A Femminile · 1. Spieltag
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601258@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Napoli – Como 1907
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601258.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601263@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Juventus – Como 1907
+DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601267@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Como 1907 – Sassuolo
+DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601267.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601277@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Ternana – Como 1907
+DESCRIPTION:Serie A Femminile · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601277.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601279@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Como 1907 – Roma
+DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601279.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601285@anstoss
+DTSTAMP:20261114T140000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Como 1907 – Como
+DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601292@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Fiorentina – Como 1907
+DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601298@anstoss
+DTSTAMP:20261212T140000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Como 1907 – Parma
+DESCRIPTION:Serie A Femminile · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601304@anstoss
+DTSTAMP:20270116T140000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Inter Mailand – Como 1907
+DESCRIPTION:Serie A Femminile · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601310@anstoss
+DTSTAMP:20270123T140000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Como 1907 – Lazio
+DESCRIPTION:Serie A Femminile · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601314@anstoss
+DTSTAMP:20270130T140000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:AC Milan – Como 1907
+DESCRIPTION:Serie A Femminile · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601320@anstoss
+DTSTAMP:20270206T140000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Como 1907 – Napoli
+DESCRIPTION:Serie A Femminile · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601327@anstoss
+DTSTAMP:20270213T140000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Como 1907 – Juventus
+DESCRIPTION:Serie A Femminile · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601336@anstoss
+DTSTAMP:20270220T140000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Sassuolo – Como 1907
+DESCRIPTION:Serie A Femminile · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601339@anstoss
+DTSTAMP:20270313T140000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Como 1907 – Ternana
+DESCRIPTION:Serie A Femminile · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601344@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Roma – Como 1907
+DESCRIPTION:Serie A Femminile · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601351@anstoss
+DTSTAMP:20270403T130000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Como – Como 1907
+DESCRIPTION:Serie A Femminile · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601357@anstoss
+DTSTAMP:20270410T130000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Como 1907 – Fiorentina
+DESCRIPTION:Serie A Femminile · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601366@anstoss
+DTSTAMP:20270501T130000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Parma – Como 1907
+DESCRIPTION:Serie A Femminile · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601370@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Como 1907 – Inter Mailand
+DESCRIPTION:Serie A Femminile · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601377@anstoss
+DTSTAMP:20270515T130000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Lazio – Como 1907
+DESCRIPTION:Serie A Femminile · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601377.ht
+ ml
+END:VEVENT
+END:VCALENDAR

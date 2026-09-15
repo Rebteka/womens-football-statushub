@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Olimpia Cluj
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1622616@anstoss
+DTSTAMP:20260823T100000Z
+DTSTART:20260823T100000Z
+DTEND:20260823T120000Z
+SUMMARY:Univ. Craiova – Olimpia Cluj 2:6
+DESCRIPTION:Liga 1 Feminin · 1. Spieltag
+LOCATION:Stadionul Ion Oblemenco\, Craiova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623481@anstoss
+DTSTAMP:20260830T080000Z
+DTSTART:20260830T080000Z
+DTEND:20260830T100000Z
+SUMMARY:FC Rapid Bucuresti – Olimpia Cluj 1:6
+DESCRIPTION:Liga 1 Feminin · 2. Spieltag
+LOCATION:Superbet Arena - Giulesti\, Bucharest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623487@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Olimpia Cluj – Csikszereda MC 3:2
+DESCRIPTION:Liga 1 Feminin · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623491@anstoss
+DTSTAMP:20260915T100000Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:SSU Poli Timişoara – Olimpia Cluj 1:0
+DESCRIPTION:Liga 1 Feminin · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623495@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
+SUMMARY:Olimpia Cluj – Farul Constanţa
+DESCRIPTION:Liga 1 Feminin · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623499@anstoss
+DTSTAMP:20260927T080000Z
+DTSTART:20260927T080000Z
+DTEND:20260927T100000Z
+SUMMARY:Vasas Femina – Olimpia Cluj
+DESCRIPTION:Liga 1 Feminin · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623503@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Olimpia Cluj – Gloria Bistrița-Năsăud
+DESCRIPTION:Liga 1 Feminin · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623507@anstoss
+DTSTAMP:20261021T080000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Olimpia Cluj – Univ. Craiova
+DESCRIPTION:Liga 1 Feminin · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623510@anstoss
+DTSTAMP:20261025T090000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Olimpia Cluj – FC Rapid Bucuresti
+DESCRIPTION:Liga 1 Feminin · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623510.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623513@anstoss
+DTSTAMP:20261101T090000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Csikszereda MC – Olimpia Cluj
+DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stadionul Municipal\, Miercurea Ciuc
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623519@anstoss
+DTSTAMP:20261108T090000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Olimpia Cluj – SSU Poli Timişoara
+DESCRIPTION:Liga 1 Feminin · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623519.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623521@anstoss
+DTSTAMP:20261115T090000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Farul Constanţa – Olimpia Cluj
+DESCRIPTION:Liga 1 Feminin · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623521.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623526@anstoss
+DTSTAMP:20261122T090000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Olimpia Cluj – Vasas Femina
+DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623531@anstoss
+DTSTAMP:20261209T090000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Gloria Bistrița-Năsăud – Olimpia Cluj
+DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623531.ht
+ ml
+END:VEVENT
+END:VCALENDAR

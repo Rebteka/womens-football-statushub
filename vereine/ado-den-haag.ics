@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ADO Den Haag
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1575051@anstoss
+DTSTAMP:20260816T144500Z
+DTSTART:20260816T144500Z
+DTEND:20260816T164500Z
+SUMMARY:AZ – ADO Den Haag 2:1
+DESCRIPTION:Eredivisie Women · 1. Spieltag
+LOCATION:AFAS Trainingscomplex\, Wijdewormer
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575051.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575059@anstoss
+DTSTAMP:20260823T144500Z
+DTSTART:20260823T144500Z
+DTEND:20260823T164500Z
+SUMMARY:ADO Den Haag – Twente 1:7
+DESCRIPTION:Eredivisie Women · 2. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575059.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575063@anstoss
+DTSTAMP:20260906T144500Z
+DTSTART:20260906T144500Z
+DTEND:20260906T164500Z
+SUMMARY:PEC Zwolle – ADO Den Haag 2:4
+DESCRIPTION:Eredivisie Women · 3. Spieltag
+LOCATION:Sportpark Ceintuurbaan\, Zwolle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575063.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575067@anstoss
+DTSTAMP:20260913T144500Z
+DTSTART:20260913T144500Z
+DTEND:20260913T164500Z
+SUMMARY:De Graafschap – ADO Den Haag 2:3
+DESCRIPTION:Eredivisie Women · 4. Spieltag
+LOCATION:De Vijverberg\, Doetinchem
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575067.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575074@anstoss
+DTSTAMP:20260920T144500Z
+DTSTART:20260920T144500Z
+DTEND:20260920T164500Z
+SUMMARY:ADO Den Haag – Heerenveen
+DESCRIPTION:Eredivisie Women · 5. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575074.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575076@anstoss
+DTSTAMP:20260926T143000Z
+DTSTART:20260926T143000Z
+DTEND:20260926T163000Z
+SUMMARY:Ajax – ADO Den Haag
+DESCRIPTION:Eredivisie Women · 6. Spieltag
+LOCATION:Sportcomplex De Toekomst\, Ouder-Amstel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575081@anstoss
+DTSTAMP:20261004T144500Z
+DTSTART:20261004T144500Z
+DTEND:20261004T164500Z
+SUMMARY:ADO Den Haag – PSV/Eindhoven
+DESCRIPTION:Eredivisie Women · 7. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575081.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575089@anstoss
+DTSTAMP:20261025T154500Z
+DTSTART:20261025T154500Z
+DTEND:20261025T174500Z
+SUMMARY:Utrecht – ADO Den Haag
+DESCRIPTION:Eredivisie Women · 8. Spieltag
+LOCATION:Sportcomplex Zoudenbalch\, Utrecht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575092@anstoss
+DTSTAMP:20261101T154500Z
+DTSTART:20261101T154500Z
+DTEND:20261101T174500Z
+SUMMARY:ADO Den Haag – Feyenoord
+DESCRIPTION:Eredivisie Women · 9. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575092.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575097@anstoss
+DTSTAMP:20261115T111500Z
+DTSTART:20261115T111500Z
+DTEND:20261115T131500Z
+SUMMARY:ADO Den Haag – De Graafschap
+DESCRIPTION:Eredivisie Women · 10. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575097.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575100@anstoss
+DTSTAMP:20261122T111500Z
+DTSTART:20261122T111500Z
+DTEND:20261122T131500Z
+SUMMARY:Heerenveen – ADO Den Haag
+DESCRIPTION:Eredivisie Women · 11. Spieltag
+LOCATION:Sportpark Skoatterwald\, Heerenveen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575100.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575107@anstoss
+DTSTAMP:20261220T154500Z
+DTSTART:20261220T154500Z
+DTEND:20261220T174500Z
+SUMMARY:ADO Den Haag – PEC Zwolle
+DESCRIPTION:Eredivisie Women · 12. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575107.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575114@anstoss
+DTSTAMP:20270117T154500Z
+DTSTART:20270117T154500Z
+DTEND:20270117T174500Z
+SUMMARY:Twente – ADO Den Haag
+DESCRIPTION:Eredivisie Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575116@anstoss
+DTSTAMP:20270124T154500Z
+DTSTART:20270124T154500Z
+DTEND:20270124T174500Z
+SUMMARY:ADO Den Haag – AZ
+DESCRIPTION:Eredivisie Women · 14. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575124@anstoss
+DTSTAMP:20270131T154500Z
+DTSTART:20270131T154500Z
+DTEND:20270131T174500Z
+SUMMARY:PSV/Eindhoven – ADO Den Haag
+DESCRIPTION:Eredivisie Women · 15. Spieltag
+LOCATION:De Herdgang\, Eindhoven
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575125@anstoss
+DTSTAMP:20270207T111500Z
+DTSTART:20270207T111500Z
+DTEND:20270207T131500Z
+SUMMARY:ADO Den Haag – Utrecht
+DESCRIPTION:Eredivisie Women · 16. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575130@anstoss
+DTSTAMP:20270214T111500Z
+DTSTART:20270214T111500Z
+DTEND:20270214T131500Z
+SUMMARY:Feyenoord – ADO Den Haag
+DESCRIPTION:Eredivisie Women · 17. Spieltag
+LOCATION:Sportcomplex Varkenoord 1\, Rotterdam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1575137@anstoss
+DTSTAMP:20270221T154500Z
+DTSTART:20270221T154500Z
+DTEND:20270221T174500Z
+SUMMARY:ADO Den Haag – Ajax
+DESCRIPTION:Eredivisie Women · 18. Spieltag
+LOCATION:WerkTalent Stadion\, Den Haag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1575137.ht
+ ml
+END:VEVENT
+END:VCALENDAR

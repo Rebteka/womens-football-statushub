@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Papua New Guinea
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526390@anstoss
+DTSTAMP:20260227T000000Z
+DTSTART:20260227T000000Z
+DTEND:20260227T020000Z
+SUMMARY:Papua New Guinea – Vanuatu 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526396@anstoss
+DTSTAMP:20260305T000000Z
+DTSTART:20260305T000000Z
+DTEND:20260305T020000Z
+SUMMARY:New Caledonia – Papua New Guinea 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526394@anstoss
+DTSTAMP:20260308T000000Z
+DTSTART:20260308T000000Z
+DTEND:20260308T020000Z
+SUMMARY:Papua New Guinea – Fiji 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530895@anstoss
+DTSTAMP:20260411T001000Z
+DTSTART:20260411T001000Z
+DTEND:20260411T021000Z
+SUMMARY:Papua New Guinea – American Samoa 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+LOCATION:Waikato Stadium\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540446@anstoss
+DTSTAMP:20260415T071000Z
+DTSTART:20260415T071000Z
+DTEND:20260415T091000Z
+SUMMARY:New Zealand – Papua New Guinea 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Finale
+LOCATION:North Harbour Stadium\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638243@anstoss
+DTSTAMP:20261128T140000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Uzbekistan – Papua New Guinea
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 1. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638244@anstoss
+DTSTAMP:20261201T140000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Papua New Guinea – Chinese Taipei
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 2. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638248@anstoss
+DTSTAMP:20261205T140000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Papua New Guinea – Ghana
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 3. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638248.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valadares Gaia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1610794@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Valadares Gaia – Porto 1:3
+DESCRIPTION:1a Divisão - Women · 1. Spieltag
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610794.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610742@anstoss
+DTSTAMP:20260919T140000Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Racing Power – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610747@anstoss
+DTSTAMP:20260926T100000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+SUMMARY:Valadares Gaia – Rio Ave
+DESCRIPTION:1a Divisão - Women · 3. Spieltag
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610747.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610750@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Vitoria Guimaraes – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610753@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Valadares Gaia – Marítimo
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610754@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Sporting CP – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610759@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Valadares Gaia – Torreense
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610759.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610761@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:SL Benfica – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610894@anstoss
+DTSTAMP:20270117T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Valadares Gaia – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610802@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Porto – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610802.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610772@anstoss
+DTSTAMP:20270207T150000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Valadares Gaia – Racing Power
+DESCRIPTION:1a Divisão - Women · 11. Spieltag
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610772.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610774@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Rio Ave – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610774.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610778@anstoss
+DTSTAMP:20270327T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Valadares Gaia – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610778.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610779@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Marítimo – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610784@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Valadares Gaia – Sporting CP
+DESCRIPTION:1a Divisão - Women · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610784.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610786@anstoss
+DTSTAMP:20270509T140000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Torreense – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610786.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610790@anstoss
+DTSTAMP:20270516T140000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Valadares Gaia – SL Benfica
+DESCRIPTION:1a Divisão - Women · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610790.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610903@anstoss
+DTSTAMP:20270523T140000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Sporting Braga – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610903.ht
+ ml
+END:VEVENT
+END:VCALENDAR

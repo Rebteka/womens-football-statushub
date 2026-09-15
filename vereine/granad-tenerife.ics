@@ -1,0 +1,322 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Granad. Tenerife
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1573562@anstoss
+DTSTAMP:20260830T170000Z
+DTSTART:20260830T170000Z
+DTEND:20260830T190000Z
+SUMMARY:Barcelona – Granad. Tenerife 5:0
+DESCRIPTION:Liga F · 1. Spieltag
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573562.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573569@anstoss
+DTSTAMP:20260906T104500Z
+DTSTART:20260906T104500Z
+DTEND:20260906T124500Z
+SUMMARY:Granad. Tenerife – Deportivo de La Coruña 0:0
+DESCRIPTION:Liga F · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573569.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573583@anstoss
+DTSTAMP:20260913T100000Z
+DTSTART:20260913T100000Z
+DTEND:20260913T120000Z
+SUMMARY:Real Sociedad – Granad. Tenerife 1:1
+DESCRIPTION:Liga F · 3. Spieltag
+LOCATION:Instalaciones de Zubieta\, Lasarte-Oria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573587@anstoss
+DTSTAMP:20260920T100000Z
+DTSTART:20260920T100000Z
+DTEND:20260920T120000Z
+SUMMARY:Granad. Tenerife – Sevilla
+DESCRIPTION:Liga F · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573599@anstoss
+DTSTAMP:20260927T100000Z
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+SUMMARY:Valencia – Granad. Tenerife
+DESCRIPTION:Liga F · 5. Spieltag
+LOCATION:Estadio Antonio Puchades\, Valencia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573601@anstoss
+DTSTAMP:20261004T150000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Granad. Tenerife – Edf Logrono
+DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573611@anstoss
+DTSTAMP:20261018T150000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:FC Levante Badalona – Granad. Tenerife
+DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Estadi Municipal de Badalona\, Badalona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573622@anstoss
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Real Madrid – Granad. Tenerife
+DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573622.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573626@anstoss
+DTSTAMP:20261101T160000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Granad. Tenerife – Athletic Club
+DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573635@anstoss
+DTSTAMP:20261108T160000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Granad. Tenerife – Deportivo Alavés
+DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573642@anstoss
+DTSTAMP:20261115T160000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Espanyol – Granad. Tenerife
+DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Ciutat Esportiva Dani Jarque
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573650@anstoss
+DTSTAMP:20261122T160000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Granad. Tenerife – Madrid CFF
+DESCRIPTION:Liga F · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573650.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573657@anstoss
+DTSTAMP:20261209T160000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Atletico Madrid – Granad. Tenerife
+DESCRIPTION:Liga F · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573665@anstoss
+DTSTAMP:20261213T160000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Granad. Tenerife – Eibar
+DESCRIPTION:Liga F · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573676@anstoss
+DTSTAMP:20270110T160000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Granada – Granad. Tenerife
+DESCRIPTION:Liga F · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Ciudad Deportiva del Granada
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573676.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573682@anstoss
+DTSTAMP:20270117T160000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Granad. Tenerife – FC Levante Badalona
+DESCRIPTION:Liga F · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573682.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573688@anstoss
+DTSTAMP:20270124T160000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Athletic Club – Granad. Tenerife
+DESCRIPTION:Liga F · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Lezama Facilities\, Lezama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573688.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573698@anstoss
+DTSTAMP:20270131T160000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Granad. Tenerife – Real Madrid
+DESCRIPTION:Liga F · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573698.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573706@anstoss
+DTSTAMP:20270207T160000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Edf Logrono – Granad. Tenerife
+DESCRIPTION:Liga F · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573716@anstoss
+DTSTAMP:20270214T160000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Granad. Tenerife – Valencia
+DESCRIPTION:Liga F · 20. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573720@anstoss
+DTSTAMP:20270221T160000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Deportivo Alavés – Granad. Tenerife
+DESCRIPTION:Liga F · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Mendizorrotza\, Vitoria-Gasteiz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573720.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573735@anstoss
+DTSTAMP:20270314T160000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Sevilla – Granad. Tenerife
+DESCRIPTION:Liga F · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Jesus Navas\, Sevilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573735.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573739@anstoss
+DTSTAMP:20270321T160000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Granad. Tenerife – Atletico Madrid
+DESCRIPTION:Liga F · 23. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573739.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573750@anstoss
+DTSTAMP:20270328T150000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Madrid CFF – Granad. Tenerife
+DESCRIPTION:Liga F · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Fernando Torres\, Fuenlabrada
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573754@anstoss
+DTSTAMP:20270404T150000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Granad. Tenerife – Real Sociedad
+DESCRIPTION:Liga F · 25. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573763@anstoss
+DTSTAMP:20270411T150000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Granad. Tenerife – Barcelona
+DESCRIPTION:Liga F · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573771@anstoss
+DTSTAMP:20270502T150000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Eibar – Granad. Tenerife
+DESCRIPTION:Liga F · 27. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573771.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573779@anstoss
+DTSTAMP:20270509T150000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Granad. Tenerife – Espanyol
+DESCRIPTION:Liga F · 28. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573786@anstoss
+DTSTAMP:20270519T150000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Deportivo de La Coruña – Granad. Tenerife
+DESCRIPTION:Liga F · 29. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Municipal de Riazor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573786.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573795@anstoss
+DTSTAMP:20270523T150000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Granad. Tenerife – Granada
+DESCRIPTION:Liga F · 30. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573795.ht
+ ml
+END:VEVENT
+END:VCALENDAR

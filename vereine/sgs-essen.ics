@@ -1,0 +1,291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SGS Essen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1606985@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:SGS Essen – Eintracht Frankfurt II 3:1
+DESCRIPTION:2. Frauen-Bundesliga · 1. Spieltag
+LOCATION:Stadion Essen\, Essen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606985.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606987@anstoss
+DTSTAMP:20260808T120000Z
+DTSTART:20260808T120000Z
+DTEND:20260808T140000Z
+SUMMARY:FC Carl Zeiss Jena – SGS Essen 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 2. Spieltag
+LOCATION:Ernst-Abbe-Sportfeld\, Jena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606995@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:TSG Hoffenheim II – SGS Essen 1:4
+DESCRIPTION:2. Frauen-Bundesliga · 3. Spieltag
+LOCATION:Dietmar-Hopp-Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607004@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:SGS Essen – Borussia Mönchengladbach 5:1
+DESCRIPTION:2. Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607009@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:1. FFC Turbine Potsdam – SGS Essen 0:1
+DESCRIPTION:2. Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607009.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607016@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:SGS Essen – FC Ingolstadt 04 1:1
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607017@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:FC Viktoria Berlin – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629381@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Schalke – SGS Essen
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607028@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:SGS Essen – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607029@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:SG 99 Andernach – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607040@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SGS Essen – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607040.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607045@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:SC Sand – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607045.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607052@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
+SUMMARY:SGS Essen – Hertha BSC
+DESCRIPTION:2. Frauen-Bundesliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607052.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607149@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:1. FC Köln II – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607149.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607059@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Eintracht Frankfurt II – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607059.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607070@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:SGS Essen – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607070.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607076@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SGS Essen – TSG Hoffenheim II
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607077@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Borussia Mönchengladbach – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607077.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607088@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T150000Z
+SUMMARY:SGS Essen – 1. FFC Turbine Potsdam
+DESCRIPTION:2. Frauen-Bundesliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607088.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607092@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:FC Ingolstadt 04 – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607092.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607100@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART:20270314T130000Z
+DTEND:20270314T150000Z
+SUMMARY:SGS Essen – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607100.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607104@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T150000Z
+SUMMARY:SV Meppen – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607104.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607112@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART:20270328T120000Z
+DTEND:20270328T140000Z
+SUMMARY:SGS Essen – SG 99 Andernach
+DESCRIPTION:2. Frauen-Bundesliga · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607115@anstoss
+DTSTAMP:20270404T120000Z
+DTSTART:20270404T120000Z
+DTEND:20270404T140000Z
+SUMMARY:VfL Bochum – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607124@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:SGS Essen – SC Sand
+DESCRIPTION:2. Frauen-Bundesliga · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607126@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Hertha BSC – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607162@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:SGS Essen – 1. FC Köln II
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607162.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JEF United
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560925@anstoss
+DTSTAMP:20260823T090000Z
+DTSTART:20260823T090000Z
+DTEND:20260823T110000Z
+SUMMARY:Tokyo Verdy Beleza – JEF United 2:1
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560925.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560932@anstoss
+DTSTAMP:20260830T090000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T110000Z
+SUMMARY:JEF United – Cerezo Osaka 1:3
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560932.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560938@anstoss
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T110000Z
+SUMMARY:JEF United – Vegalta Sendai 2:0
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560938.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560945@anstoss
+DTSTAMP:20261018T040000Z
+DTSTART:20261018T040000Z
+DTEND:20261018T060000Z
+SUMMARY:JEF United – Urawa Reds
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560950@anstoss
+DTSTAMP:20261021T030000Z
+DTSTART:20261021T030000Z
+DTEND:20261021T050000Z
+SUMMARY:INAC Kobe Leonessa – JEF United
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560955@anstoss
+DTSTAMP:20261024T040000Z
+DTSTART:20261024T040000Z
+DTEND:20261024T060000Z
+SUMMARY:Albirex Niigata – JEF United
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560965@anstoss
+DTSTAMP:20261031T040000Z
+DTSTART:20261031T040000Z
+DTEND:20261031T060000Z
+SUMMARY:JEF United – Nojima Stella
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560965.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560967@anstoss
+DTSTAMP:20261108T033000Z
+DTSTART:20261108T033000Z
+DTEND:20261108T053000Z
+SUMMARY:JEF United – Omiya Ardija Ventus
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560977@anstoss
+DTSTAMP:20261114T050000Z
+DTSTART:20261114T050000Z
+DTEND:20261114T070000Z
+SUMMARY:Sanfrecce Hiroshima – JEF United
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560977.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560981@anstoss
+DTSTAMP:20261118T040000Z
+DTSTART:20261118T040000Z
+DTEND:20261118T060000Z
+SUMMARY:JEF United – Parceiro Nagano
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560990@anstoss
+DTSTAMP:20261121T100000Z
+DTSTART:20261121T100000Z
+DTEND:20261121T120000Z
+SUMMARY:Elfen Saitama – JEF United
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560993@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:JEF United – Tokyo Verdy Beleza
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560999@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:JEF United – Albirex Niigata
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561004@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Vegalta Sendai – JEF United
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561011@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Omiya Ardija Ventus – JEF United
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561011.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561020@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Urawa Reds – JEF United
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561023@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:JEF United – Sanfrecce Hiroshima
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561029@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Parceiro Nagano – JEF United
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561036@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:JEF United – Elfen Saitama
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561040@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Cerezo Osaka – JEF United
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561040.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561048@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Nojima Stella – JEF United
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561053@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:JEF United – INAC Kobe Leonessa
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561053.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ferencváros
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603953@anstoss
+DTSTAMP:20260805T143000Z
+DTSTART:20260805T143000Z
+DTEND:20260805T163000Z
+SUMMARY:Ferencváros – PAOK 2:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Hevizi uti Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612429@anstoss
+DTSTAMP:20260808T080000Z
+DTSTART:20260808T080000Z
+DTEND:20260808T100000Z
+SUMMARY:Ferencváros – Mitrovica 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:III. Keruleti TVE\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612429.ht
+ ml
+END:VEVENT
+END:VCALENDAR

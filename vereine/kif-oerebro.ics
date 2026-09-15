@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KIF Örebro
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501356@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:KIF Örebro – Elfsborg 0:3
+DESCRIPTION:Elitettan · 1. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501365@anstoss
+DTSTAMP:20260406T100000Z
+DTSTART:20260406T100000Z
+DTEND:20260406T120000Z
+SUMMARY:Umeå – KIF Örebro 2:2
+DESCRIPTION:Elitettan · 2. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501370@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Sandviken – KIF Örebro 1:5
+DESCRIPTION:Elitettan · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501377@anstoss
+DTSTAMP:20260503T110000Z
+DTSTART:20260503T110000Z
+DTEND:20260503T130000Z
+SUMMARY:KIF Örebro – Trelleborg 2:1
+DESCRIPTION:Elitettan · 4. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501383@anstoss
+DTSTAMP:20260508T170000Z
+DTSTART:20260508T170000Z
+DTEND:20260508T190000Z
+SUMMARY:Linköping – KIF Örebro 3:2
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503700@anstoss
+DTSTAMP:20260516T110000Z
+DTSTART:20260516T110000Z
+DTEND:20260516T130000Z
+SUMMARY:KIF Örebro – Enskede 4:3
+DESCRIPTION:Elitettan · 6. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501398@anstoss
+DTSTAMP:20260522T170000Z
+DTSTART:20260522T170000Z
+DTEND:20260522T190000Z
+SUMMARY:Örebro SK – KIF Örebro 0:3
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501405@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:KIF Örebro – Alingsås 2:0
+DESCRIPTION:Elitettan · 8. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501411@anstoss
+DTSTAMP:20260614T140000Z
+DTSTART:20260614T140000Z
+DTEND:20260614T160000Z
+SUMMARY:KIF Örebro – Häcken II 3:0
+DESCRIPTION:Elitettan · 9. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501418@anstoss
+DTSTAMP:20260618T163000Z
+DTSTART:20260618T163000Z
+DTEND:20260618T183000Z
+SUMMARY:Jitex – KIF Örebro 0:1
+DESCRIPTION:Elitettan · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501423@anstoss
+DTSTAMP:20260725T140000Z
+DTSTART:20260725T140000Z
+DTEND:20260725T160000Z
+SUMMARY:Gamla Upsala – KIF Örebro 1:2
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501433@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:KIF Örebro – Husqvarna 2:1
+DESCRIPTION:Elitettan · 12. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501433.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501436@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:Göteborg – KIF Örebro 3:0
+DESCRIPTION:Elitettan · 13. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501447@anstoss
+DTSTAMP:20260815T110000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T130000Z
+SUMMARY:KIF Örebro – Örebro SK 1:0
+DESCRIPTION:Elitettan · 14. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501450@anstoss
+DTSTAMP:20260821T163000Z
+DTSTART:20260821T163000Z
+DTEND:20260821T183000Z
+SUMMARY:Elfsborg – KIF Örebro 0:2
+DESCRIPTION:Elitettan · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501450.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501461@anstoss
+DTSTAMP:20260829T110000Z
+DTSTART:20260829T110000Z
+DTEND:20260829T130000Z
+SUMMARY:KIF Örebro – Umeå 2:1
+DESCRIPTION:Elitettan · 16. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501469@anstoss
+DTSTAMP:20260905T120000Z
+DTSTART:20260905T120000Z
+DTEND:20260905T140000Z
+SUMMARY:Trelleborg – KIF Örebro 2:2
+DESCRIPTION:Elitettan · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501473@anstoss
+DTSTAMP:20260912T120000Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:Husqvarna – KIF Örebro 2:1
+DESCRIPTION:Elitettan · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501481@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:KIF Örebro – Göteborg
+DESCRIPTION:Elitettan · 19. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503714@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Enskede – KIF Örebro
+DESCRIPTION:Elitettan · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501496@anstoss
+DTSTAMP:20261003T140000Z
+DTSTART:20261003T140000Z
+DTEND:20261003T160000Z
+SUMMARY:KIF Örebro – Sandviken
+DESCRIPTION:Elitettan · 21. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501502@anstoss
+DTSTAMP:20261017T140000Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:KIF Örebro – Jitex
+DESCRIPTION:Elitettan · 22. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501506@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Alingsås – KIF Örebro
+DESCRIPTION:Elitettan · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501506.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501516@anstoss
+DTSTAMP:20261031T120000Z
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
+SUMMARY:KIF Örebro – Gamla Upsala
+DESCRIPTION:Elitettan · 24. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501516.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501523@anstoss
+DTSTAMP:20261106T180000Z
+DTSTART:20261106T180000Z
+DTEND:20261106T200000Z
+SUMMARY:KIF Örebro – Linköping
+DESCRIPTION:Elitettan · 25. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501530@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Häcken II – KIF Örebro
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501530.ht
+ ml
+END:VEVENT
+END:VCALENDAR

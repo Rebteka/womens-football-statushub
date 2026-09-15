@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UKS Łódź
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1581683@anstoss
+DTSTAMP:20260731T150000Z
+DTSTART:20260731T150000Z
+DTEND:20260731T170000Z
+SUMMARY:Czarni Sosnowiec – UKS Łódź 5:0
+DESCRIPTION:Ekstraliga Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581683.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581694@anstoss
+DTSTAMP:20260808T150000Z
+DTSTART:20260808T150000Z
+DTEND:20260808T170000Z
+SUMMARY:Slask Wroclaw – UKS Łódź 1:1
+DESCRIPTION:Ekstraliga Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581700@anstoss
+DTSTAMP:20260815T100000Z
+DTSTART:20260815T100000Z
+DTEND:20260815T120000Z
+SUMMARY:UKS Łódź – Sleza Wroclaw 0:0
+DESCRIPTION:Ekstraliga Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581706@anstoss
+DTSTAMP:20260822T140000Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:UKS Łódź – Akademia Piłkarska LG 1:2
+DESCRIPTION:Ekstraliga Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581718@anstoss
+DTSTAMP:20260926T100000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+SUMMARY:UKS Łódź – Pogon Szczecin
+DESCRIPTION:Ekstraliga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581718.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581721@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:Legia – UKS Łódź
+DESCRIPTION:Ekstraliga Women · 7. Spieltag
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581730@anstoss
+DTSTAMP:20261017T100000Z
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+SUMMARY:UKS Łódź – Rekord Bielsko-Biala
+DESCRIPTION:Ekstraliga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581730.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581732@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Górnik Łęczna – UKS Łódź
+DESCRIPTION:Ekstraliga Women · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581708@anstoss
+DTSTAMP:20261104T160000Z
+DTSTART:20261104T160000Z
+DTEND:20261104T180000Z
+SUMMARY:GKS Katowice – UKS Łódź
+DESCRIPTION:Ekstraliga Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581708.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581742@anstoss
+DTSTAMP:20261108T110000Z
+DTSTART:20261108T110000Z
+DTEND:20261108T130000Z
+SUMMARY:UKS Łódź – Lech Poznan
+DESCRIPTION:Ekstraliga Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581748@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:UJ Krakow – UKS Łódź
+DESCRIPTION:Ekstraliga Women · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581748.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Samoa
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526387@anstoss
+DTSTAMP:20251128T210000Z
+DTSTART:20251128T210000Z
+DTEND:20251128T230000Z
+SUMMARY:Tonga – American Samoa 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526389@anstoss
+DTSTAMP:20251201T220000Z
+DTSTART:20251201T220000Z
+DTEND:20251202T000000Z
+SUMMARY:American Samoa – Cook Islands 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526392@anstoss
+DTSTAMP:20260227T060000Z
+DTSTART:20260227T060000Z
+DTEND:20260227T080000Z
+SUMMARY:Solomon Islands – American Samoa 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526400@anstoss
+DTSTAMP:20260302T020000Z
+DTSTART:20260302T020000Z
+DTEND:20260302T040000Z
+SUMMARY:American Samoa – Samoa 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526397@anstoss
+DTSTAMP:20260305T020000Z
+DTSTART:20260305T020000Z
+DTEND:20260305T040000Z
+SUMMARY:American Samoa – New Zealand 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530895@anstoss
+DTSTAMP:20260411T001000Z
+DTSTART:20260411T001000Z
+DTEND:20260411T021000Z
+SUMMARY:Papua New Guinea – American Samoa 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+LOCATION:Waikato Stadium\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530895.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:1. Division Women 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535601@anstoss
+DTSTAMP:20260321T120000Z
+DTSTART:20260321T120000Z
+DTEND:20260321T140000Z
+SUMMARY:Arna-Bjørnar – Odd 1:0
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535602@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:Bryne – Viking FK 0:4
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535673@anstoss
+DTSTAMP:20260321T140000Z
+DTSTART:20260321T140000Z
+DTEND:20260321T160000Z
+SUMMARY:TIL 2020 – Frigg Oslo FK 3:0
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535673.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535674@anstoss
+DTSTAMP:20260321T150000Z
+DTSTART:20260321T150000Z
+DTEND:20260321T170000Z
+SUMMARY:Grei – Åsane 0:1
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535674.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535603@anstoss
+DTSTAMP:20260322T120000Z
+DTSTART:20260322T120000Z
+DTEND:20260322T140000Z
+SUMMARY:Fyllingsdalen – Start 1:3
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535675@anstoss
+DTSTAMP:20260322T150000Z
+DTSTART:20260322T150000Z
+DTEND:20260322T170000Z
+SUMMARY:Klepp – Kolbotn 1:2
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535675.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535676@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Åsane – Klepp 7:0
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535676.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535604@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Viking FK – Arna-Bjørnar 0:0
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535606@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Start – Bryne 2:0
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535607@anstoss
+DTSTAMP:20260329T120000Z
+DTSTART:20260329T120000Z
+DTEND:20260329T140000Z
+SUMMARY:Kolbotn – Fyllingsdalen 5:1
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535605@anstoss
+DTSTAMP:20260329T120000Z
+DTSTART:20260329T120000Z
+DTEND:20260329T140000Z
+SUMMARY:Odd – TIL 2020 0:1
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535605.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535677@anstoss
+DTSTAMP:20260329T120000Z
+DTSTART:20260329T120000Z
+DTEND:20260329T140000Z
+SUMMARY:Frigg Oslo FK – Grei 1:5
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535677.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535678@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Grei – Viking FK 1:3
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535678.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535680@anstoss
+DTSTAMP:20260419T104500Z
+DTSTART:20260419T104500Z
+DTEND:20260419T124500Z
+SUMMARY:Fyllingsdalen – Frigg Oslo FK 2:0
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535680.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535679@anstoss
+DTSTAMP:20260419T110000Z
+DTSTART:20260419T110000Z
+DTEND:20260419T130000Z
+SUMMARY:Klepp – Odd 1:2
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535679.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535610@anstoss
+DTSTAMP:20260419T110000Z
+DTSTART:20260419T110000Z
+DTEND:20260419T130000Z
+SUMMARY:TIL 2020 – Start 0:0
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535610.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535609@anstoss
+DTSTAMP:20260419T140000Z
+DTSTART:20260419T140000Z
+DTEND:20260419T160000Z
+SUMMARY:Bryne – Åsane 0:0
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535681@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Viking FK – Klepp 5:0
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535681.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535611@anstoss
+DTSTAMP:20260425T123000Z
+DTSTART:20260425T123000Z
+DTEND:20260425T143000Z
+SUMMARY:Kolbotn – TIL 2020 0:3
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535682@anstoss
+DTSTAMP:20260425T130000Z
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+SUMMARY:Frigg Oslo FK – Arna-Bjørnar 0:3
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535682.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535612@anstoss
+DTSTAMP:20260425T140000Z
+DTSTART:20260425T140000Z
+DTEND:20260425T160000Z
+SUMMARY:Start – Åsane 2:2
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535612.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535683@anstoss
+DTSTAMP:20260426T120000Z
+DTSTART:20260426T120000Z
+DTEND:20260426T140000Z
+SUMMARY:Grei – Fyllingsdalen 3:1
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535683.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535613@anstoss
+DTSTAMP:20260426T130000Z
+DTSTART:20260426T130000Z
+DTEND:20260426T150000Z
+SUMMARY:Odd – Bryne 1:1
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535613.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535615@anstoss
+DTSTAMP:20260501T120000Z
+DTSTART:20260501T120000Z
+DTEND:20260501T140000Z
+SUMMARY:Arna-Bjørnar – Fyllingsdalen 2:1
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535615.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535616@anstoss
+DTSTAMP:20260502T111500Z
+DTSTART:20260502T111500Z
+DTEND:20260502T131500Z
+SUMMARY:TIL 2020 – Viking FK 1:2
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535617@anstoss
+DTSTAMP:20260502T120000Z
+DTSTART:20260502T120000Z
+DTEND:20260502T140000Z
+SUMMARY:Start – Odd 2:1
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535617.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535684@anstoss
+DTSTAMP:20260503T113000Z
+DTSTART:20260503T113000Z
+DTEND:20260503T133000Z
+SUMMARY:Bryne – Frigg Oslo FK 2:0
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535684.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535685@anstoss
+DTSTAMP:20260503T114500Z
+DTSTART:20260503T114500Z
+DTEND:20260503T134500Z
+SUMMARY:Klepp – Grei 5:4
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535685.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535614@anstoss
+DTSTAMP:20260503T140000Z
+DTSTART:20260503T140000Z
+DTEND:20260503T160000Z
+SUMMARY:Åsane – Kolbotn 2:1
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535614.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535621@anstoss
+DTSTAMP:20260509T110000Z
+DTSTART:20260509T110000Z
+DTEND:20260509T130000Z
+SUMMARY:Fyllingsdalen – TIL 2020 1:7
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535621.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535618@anstoss
+DTSTAMP:20260509T120000Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Kolbotn – Bryne 0:1
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535618.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535686@anstoss
+DTSTAMP:20260509T120000Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Grei – Arna-Bjørnar 2:4
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535687@anstoss
+DTSTAMP:20260509T123000Z
+DTSTART:20260509T123000Z
+DTEND:20260509T143000Z
+SUMMARY:Frigg Oslo FK – Klepp 3:2
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535687.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535620@anstoss
+DTSTAMP:20260509T130000Z
+DTSTART:20260509T130000Z
+DTEND:20260509T150000Z
+SUMMARY:Viking FK – Start 3:4
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535620.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535619@anstoss
+DTSTAMP:20260509T150000Z
+DTSTART:20260509T150000Z
+DTEND:20260509T170000Z
+SUMMARY:Odd – Åsane 2:2
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535619.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535688@anstoss
+DTSTAMP:20260515T141500Z
+DTSTART:20260515T141500Z
+DTEND:20260515T161500Z
+SUMMARY:Viking FK – Frigg Oslo FK 3:0
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535688.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535622@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Start – Kolbotn 2:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535622.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535624@anstoss
+DTSTAMP:20260515T163000Z
+DTSTART:20260515T163000Z
+DTEND:20260515T183000Z
+SUMMARY:Odd – Fyllingsdalen 2:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535690@anstoss
+DTSTAMP:20260516T110000Z
+DTSTART:20260516T110000Z
+DTEND:20260516T130000Z
+SUMMARY:TIL 2020 – Grei 1:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535690.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535623@anstoss
+DTSTAMP:20260516T110000Z
+DTSTART:20260516T110000Z
+DTEND:20260516T130000Z
+SUMMARY:Åsane – Arna-Bjørnar 2:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535623.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535689@anstoss
+DTSTAMP:20260523T120000Z
+DTSTART:20260523T120000Z
+DTEND:20260523T140000Z
+SUMMARY:Bryne – Klepp 1:2
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535689.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535608@anstoss
+DTSTAMP:20260525T140000Z
+DTSTART:20260525T140000Z
+DTEND:20260525T160000Z
+SUMMARY:Arna-Bjørnar – Kolbotn 1:1
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535693@anstoss
+DTSTAMP:20260530T113000Z
+DTSTART:20260530T113000Z
+DTEND:20260530T133000Z
+SUMMARY:Grei – Bryne 0:2
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535693.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535626@anstoss
+DTSTAMP:20260530T140000Z
+DTSTART:20260530T140000Z
+DTEND:20260530T160000Z
+SUMMARY:Fyllingsdalen – Viking FK 1:5
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535692@anstoss
+DTSTAMP:20260531T120000Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:Klepp – Start 0:2
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535625@anstoss
+DTSTAMP:20260531T120000Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:Kolbotn – Odd 1:1
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535625.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535627@anstoss
+DTSTAMP:20260531T130000Z
+DTSTART:20260531T130000Z
+DTEND:20260531T150000Z
+SUMMARY:Arna-Bjørnar – TIL 2020 1:3
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535627.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535691@anstoss
+DTSTAMP:20260531T130000Z
+DTSTART:20260531T130000Z
+DTEND:20260531T150000Z
+SUMMARY:Frigg Oslo FK – Åsane 0:1
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535691.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535629@anstoss
+DTSTAMP:20260613T110000Z
+DTSTART:20260613T110000Z
+DTEND:20260613T130000Z
+SUMMARY:Odd – Viking FK 3:3
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535628@anstoss
+DTSTAMP:20260613T130000Z
+DTSTART:20260613T130000Z
+DTEND:20260613T150000Z
+SUMMARY:Åsane – Fyllingsdalen 1:0
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535694@anstoss
+DTSTAMP:20260614T120000Z
+DTSTART:20260614T120000Z
+DTEND:20260614T140000Z
+SUMMARY:Kolbotn – Frigg Oslo FK 5:0
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535630@anstoss
+DTSTAMP:20260614T120000Z
+DTSTART:20260614T120000Z
+DTEND:20260614T140000Z
+SUMMARY:Bryne – TIL 2020 2:1
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535630.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535695@anstoss
+DTSTAMP:20260614T130000Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:Klepp – Arna-Bjørnar 1:9
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535695.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535696@anstoss
+DTSTAMP:20260614T130000Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:Start – Grei 4:2
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535697@anstoss
+DTSTAMP:20260620T150000Z
+DTSTART:20260620T150000Z
+DTEND:20260620T170000Z
+SUMMARY:Fyllingsdalen – Klepp 2:0
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535698@anstoss
+DTSTAMP:20260621T120000Z
+DTSTART:20260621T120000Z
+DTEND:20260621T140000Z
+SUMMARY:Grei – Odd 1:3
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535698.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535699@anstoss
+DTSTAMP:20260621T130000Z
+DTSTART:20260621T130000Z
+DTEND:20260621T150000Z
+SUMMARY:Frigg Oslo FK – Start 1:3
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535699.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535633@anstoss
+DTSTAMP:20260621T133000Z
+DTSTART:20260621T133000Z
+DTEND:20260621T153000Z
+SUMMARY:Arna-Bjørnar – Bryne 3:0
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535632@anstoss
+DTSTAMP:20260621T140000Z
+DTSTART:20260621T140000Z
+DTEND:20260621T160000Z
+SUMMARY:TIL 2020 – Åsane 0:2
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535631@anstoss
+DTSTAMP:20260621T150000Z
+DTSTART:20260621T150000Z
+DTEND:20260621T170000Z
+SUMMARY:Viking FK – Kolbotn 3:1
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535636@anstoss
+DTSTAMP:20260627T110000Z
+DTSTART:20260627T110000Z
+DTEND:20260627T130000Z
+SUMMARY:Bryne – Fyllingsdalen 0:1
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535701@anstoss
+DTSTAMP:20260627T120000Z
+DTSTART:20260627T120000Z
+DTEND:20260627T140000Z
+SUMMARY:Odd – Frigg Oslo FK 1:0
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535701.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535700@anstoss
+DTSTAMP:20260628T120000Z
+DTSTART:20260628T120000Z
+DTEND:20260628T140000Z
+SUMMARY:Kolbotn – Grei 0:3
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535635@anstoss
+DTSTAMP:20260628T120000Z
+DTSTART:20260628T120000Z
+DTEND:20260628T140000Z
+SUMMARY:Start – Arna-Bjørnar 1:0
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535638@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:Viking FK – Odd 3:0
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535638.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535639@anstoss
+DTSTAMP:20260801T123000Z
+DTSTART:20260801T123000Z
+DTEND:20260801T143000Z
+SUMMARY:TIL 2020 – Bryne 4:1
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535703@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:Frigg Oslo FK – Kolbotn 2:3
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535703.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535704@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Arna-Bjørnar – Klepp 6:0
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535705@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Grei – Start 1:3
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535705.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535637@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Fyllingsdalen – Åsane 1:2
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535641@anstoss
+DTSTAMP:20260808T113000Z
+DTSTART:20260808T113000Z
+DTEND:20260808T133000Z
+SUMMARY:Åsane – TIL 2020 1:0
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535642@anstoss
+DTSTAMP:20260808T130000Z
+DTSTART:20260808T130000Z
+DTEND:20260808T150000Z
+SUMMARY:Bryne – Arna-Bjørnar 2:6
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535706@anstoss
+DTSTAMP:20260809T110000Z
+DTSTART:20260809T110000Z
+DTEND:20260809T130000Z
+SUMMARY:Klepp – Fyllingsdalen 5:4
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535708@anstoss
+DTSTAMP:20260809T110000Z
+DTSTART:20260809T110000Z
+DTEND:20260809T130000Z
+SUMMARY:Start – Frigg Oslo FK 5:0
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535708.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535707@anstoss
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T140000Z
+SUMMARY:Odd – Grei 1:0
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535707.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535640@anstoss
+DTSTAMP:20260809T130000Z
+DTSTART:20260809T130000Z
+DTEND:20260809T150000Z
+SUMMARY:Kolbotn – Viking FK 0:6
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535643@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Viking FK – Åsane 0:1
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535645@anstoss
+DTSTAMP:20260815T133000Z
+DTSTART:20260815T133000Z
+DTEND:20260815T153000Z
+SUMMARY:Fyllingsdalen – Bryne 1:0
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535644@anstoss
+DTSTAMP:20260816T110000Z
+DTSTART:20260816T110000Z
+DTEND:20260816T130000Z
+SUMMARY:Arna-Bjørnar – Start 3:0
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535711@anstoss
+DTSTAMP:20260816T110000Z
+DTSTART:20260816T110000Z
+DTEND:20260816T130000Z
+SUMMARY:TIL 2020 – Klepp 5:0
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535711.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535709@anstoss
+DTSTAMP:20260816T120000Z
+DTSTART:20260816T120000Z
+DTEND:20260816T140000Z
+SUMMARY:Grei – Kolbotn 3:1
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535709.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535710@anstoss
+DTSTAMP:20260816T120000Z
+DTSTART:20260816T120000Z
+DTEND:20260816T140000Z
+SUMMARY:Frigg Oslo FK – Odd 1:1
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535710.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535648@anstoss
+DTSTAMP:20260822T130000Z
+DTSTART:20260822T130000Z
+DTEND:20260822T150000Z
+SUMMARY:Start – Viking FK 5:2
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535648.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535649@anstoss
+DTSTAMP:20260823T110000Z
+DTSTART:20260823T110000Z
+DTEND:20260823T130000Z
+SUMMARY:TIL 2020 – Fyllingsdalen 2:1
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535649.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535713@anstoss
+DTSTAMP:20260823T113000Z
+DTSTART:20260823T113000Z
+DTEND:20260823T133000Z
+SUMMARY:Klepp – Frigg Oslo FK 1:2
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535647@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:Odd – Arna-Bjørnar 0:3
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535646@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:Bryne – Kolbotn (verlegt)
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535714@anstoss
+DTSTAMP:20260830T110000Z
+DTSTART:20260830T110000Z
+DTEND:20260830T130000Z
+SUMMARY:Frigg Oslo FK – Bryne 1:0
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535715@anstoss
+DTSTAMP:20260830T121500Z
+DTSTART:20260830T121500Z
+DTEND:20260830T141500Z
+SUMMARY:Grei – Klepp 4:0
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535715.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535650@anstoss
+DTSTAMP:20260830T130000Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Kolbotn – Start 1:3
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535650.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535651@anstoss
+DTSTAMP:20260830T130000Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Arna-Bjørnar – Åsane 2:0
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535652@anstoss
+DTSTAMP:20260831T130000Z
+DTSTART:20260831T130000Z
+DTEND:20260831T150000Z
+SUMMARY:Viking FK – TIL 2020 1:0
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535653@anstoss
+DTSTAMP:20260904T140000Z
+DTSTART:20260904T140000Z
+DTEND:20260904T160000Z
+SUMMARY:Fyllingsdalen – Odd 4:2
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535634@anstoss
+DTSTAMP:20260904T150000Z
+DTSTART:20260904T150000Z
+DTEND:20260904T170000Z
+SUMMARY:Åsane – Viking FK 1:1
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535634.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535702@anstoss
+DTSTAMP:20260905T103000Z
+DTSTART:20260905T103000Z
+DTEND:20260905T123000Z
+SUMMARY:Klepp – TIL 2020 0:2
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535702.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535656@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Odd – Start 0:1
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535656.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535716@anstoss
+DTSTAMP:20260913T113000Z
+DTSTART:20260913T113000Z
+DTEND:20260913T133000Z
+SUMMARY:Åsane – Frigg Oslo FK 4:0
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535717@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Klepp – Viking FK 0:5
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535717.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535718@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Bryne – Grei 5:0
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535718.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535654@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:TIL 2020 – Kolbotn 2:2
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535655@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Fyllingsdalen – Arna-Bjørnar 4:2
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535655.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535712@anstoss
+DTSTAMP:20260916T150000Z
+DTSTART:20260916T150000Z
+DTEND:20260916T170000Z
+SUMMARY:Åsane – Grei
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535658@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Viking FK – Fyllingsdalen
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535659@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Bryne – Odd
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535719@anstoss
+DTSTAMP:20260920T113000Z
+DTSTART:20260920T113000Z
+DTEND:20260920T133000Z
+SUMMARY:Arna-Bjørnar – Frigg Oslo FK
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535719.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535721@anstoss
+DTSTAMP:20260920T123000Z
+DTSTART:20260920T123000Z
+DTEND:20260920T143000Z
+SUMMARY:Grei – TIL 2020
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535657@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Kolbotn – Åsane
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535720@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Start – Klepp
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535720.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535724@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Klepp – Bryne
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535724.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535660@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Odd – Kolbotn
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535722@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Frigg Oslo FK – Viking FK
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535722.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535723@anstoss
+DTSTAMP:20260927T103000Z
+DTSTART:20260927T103000Z
+DTEND:20260927T123000Z
+SUMMARY:Fyllingsdalen – Grei
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535723.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535662@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:TIL 2020 – Arna-Bjørnar
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535661@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Åsane – Start
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535726@anstoss
+DTSTAMP:20261003T093000Z
+DTSTART:20261003T093000Z
+DTEND:20261003T113000Z
+SUMMARY:Arna-Bjørnar – Grei
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535726.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535663@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Åsane – Odd
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535664@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Viking FK – Bryne
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535664.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535665@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Start – TIL 2020
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535727@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Frigg Oslo FK – Fyllingsdalen
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535727.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535725@anstoss
+DTSTAMP:20261004T123000Z
+DTSTART:20261004T123000Z
+DTEND:20261004T143000Z
+SUMMARY:Kolbotn – Klepp
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535725.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535668@anstoss
+DTSTAMP:20261017T110000Z
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
+SUMMARY:TIL 2020 – Odd
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535668.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535667@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Arna-Bjørnar – Viking FK
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535667.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535669@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Bryne – Start
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535729@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Grei – Frigg Oslo FK
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535729.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535728@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Klepp – Åsane
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535728.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535666@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Fyllingsdalen – Kolbotn
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535666.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535670@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Kolbotn – Arna-Bjørnar
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535670.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535671@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Åsane – Bryne
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535671.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535731@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Odd – Klepp
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535731.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535730@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Viking FK – Grei
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535730.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535672@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Start – Fyllingsdalen
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535672.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535732@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Frigg Oslo FK – TIL 2020
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535732.ht
+ ml
+END:VEVENT
+END:VCALENDAR

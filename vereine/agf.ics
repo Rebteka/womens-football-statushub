@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AGF
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1582089@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:ASA Aarhus – AGF 3:1
+DESCRIPTION:Kvindeliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582094@anstoss
+DTSTAMP:20260802T093000Z
+DTSTART:20260802T093000Z
+DTEND:20260802T113000Z
+SUMMARY:AGF – KoldingQ 0:4
+DESCRIPTION:Kvindeliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582094.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582099@anstoss
+DTSTAMP:20260816T093000Z
+DTSTART:20260816T093000Z
+DTEND:20260816T113000Z
+SUMMARY:AGF – Brøndby 0:3
+DESCRIPTION:Kvindeliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582099.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582105@anstoss
+DTSTAMP:20260819T170000Z
+DTSTART:20260819T170000Z
+DTEND:20260819T190000Z
+SUMMARY:Fortuna Hjørring – AGF 3:0
+DESCRIPTION:Kvindeliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582105.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582109@anstoss
+DTSTAMP:20260829T110000Z
+DTSTART:20260829T110000Z
+DTEND:20260829T130000Z
+SUMMARY:AGF – Køge 0:2
+DESCRIPTION:Kvindeliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582109.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582118@anstoss
+DTSTAMP:20260905T110000Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:Midtjylland – AGF 2:1
+DESCRIPTION:Kvindeliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582119@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:AGF – FC Copenhagen 4:2
+DESCRIPTION:Kvindeliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582124@anstoss
+DTSTAMP:20260922T170000Z
+DTSTART:20260922T170000Z
+DTEND:20260922T190000Z
+SUMMARY:AGF – Nordsjælland
+DESCRIPTION:Kvindeliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582133@anstoss
+DTSTAMP:20260929T160000Z
+DTSTART:20260929T160000Z
+DTEND:20260929T180000Z
+SUMMARY:Odense Q – AGF
+DESCRIPTION:Kvindeliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582136@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:KoldingQ – AGF
+DESCRIPTION:Kvindeliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582139@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:AGF – ASA Aarhus
+DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582147@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Nordsjælland – AGF
+DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582149@anstoss
+DTSTAMP:20261101T130000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:AGF – Midtjylland
+DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582149.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582155@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Køge – AGF
+DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582159@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:AGF – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582165@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Brøndby – AGF
+DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582165.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582169@anstoss
+DTSTAMP:20261209T130000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:AGF – Odense Q
+DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582169.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582176@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC Copenhagen – AGF
+DESCRIPTION:Kvindeliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582176.ht
+ ml
+END:VEVENT
+END:VCALENDAR

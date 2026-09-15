@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Legacy
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508357@anstoss
+DTSTAMP:20260314T163000Z
+DTSTART:20260314T163000Z
+DTEND:20260314T183000Z
+SUMMARY:Boston Legacy – NJ/NY Gotham FC 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508367@anstoss
+DTSTAMP:20260321T200000Z
+DTSTART:20260321T200000Z
+DTEND:20260321T220000Z
+SUMMARY:Houston Dash – Boston Legacy 3:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508378@anstoss
+DTSTAMP:20260328T160000Z
+DTSTART:20260328T160000Z
+DTEND:20260328T180000Z
+SUMMARY:Boston Legacy – Utah Royals 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508385@anstoss
+DTSTAMP:20260403T230000Z
+DTSTART:20260403T230000Z
+DTEND:20260404T010000Z
+SUMMARY:Boston Legacy – San Diego Wave 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508396@anstoss
+DTSTAMP:20260425T223000Z
+DTSTART:20260425T223000Z
+DTEND:20260426T003000Z
+SUMMARY:Chicago Red Stars – Boston Legacy 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508402@anstoss
+DTSTAMP:20260429T230000Z
+DTSTART:20260429T230000Z
+DTEND:20260430T010000Z
+SUMMARY:Boston Legacy – North Carolina Courage 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508410@anstoss
+DTSTAMP:20260503T190000Z
+DTSTART:20260503T190000Z
+DTEND:20260503T210000Z
+SUMMARY:Boston Legacy – Denver Summit 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508416@anstoss
+DTSTAMP:20260509T223000Z
+DTSTART:20260509T223000Z
+DTEND:20260510T003000Z
+SUMMARY:NJ/NY Gotham FC – Boston Legacy 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508422@anstoss
+DTSTAMP:20260512T230000Z
+DTSTART:20260512T230000Z
+DTEND:20260513T010000Z
+SUMMARY:Boston Legacy – Orlando Pride 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508424@anstoss
+DTSTAMP:20260516T020000Z
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+SUMMARY:Bay FC – Boston Legacy 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park\, San Jose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508434@anstoss
+DTSTAMP:20260523T000000Z
+DTSTART:20260523T000000Z
+DTEND:20260523T020000Z
+SUMMARY:Boston Legacy – Seattle Reign FC 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508434.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508443@anstoss
+DTSTAMP:20260530T173000Z
+DTSTART:20260530T173000Z
+DTEND:20260530T193000Z
+SUMMARY:Kansas City – Boston Legacy 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508454@anstoss
+DTSTAMP:20260705T160000Z
+DTSTART:20260705T160000Z
+DTEND:20260705T180000Z
+SUMMARY:Boston Legacy – Bay FC 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508454.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508457@anstoss
+DTSTAMP:20260711T000000Z
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:Boston Legacy – Chicago Red Stars 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508466@anstoss
+DTSTAMP:20260715T230000Z
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+SUMMARY:Orlando Pride – Boston Legacy 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508474@anstoss
+DTSTAMP:20260719T230000Z
+DTSTART:20260719T230000Z
+DTEND:20260720T010000Z
+SUMMARY:Boston Legacy – Washington Spirit 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508478@anstoss
+DTSTAMP:20260725T210000Z
+DTSTART:20260725T210000Z
+DTEND:20260725T230000Z
+SUMMARY:Boston Legacy – Kansas City 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508493@anstoss
+DTSTAMP:20260803T010000Z
+DTSTART:20260803T010000Z
+DTEND:20260803T030000Z
+SUMMARY:Denver Summit – Boston Legacy 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508500@anstoss
+DTSTAMP:20260809T200000Z
+DTSTART:20260809T200000Z
+DTEND:20260809T220000Z
+SUMMARY:Boston Legacy – Portland Thorns 3:4
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium\, Pawtucket
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508507@anstoss
+DTSTAMP:20260815T223000Z
+DTSTART:20260815T223000Z
+DTEND:20260816T003000Z
+SUMMARY:Racing Louisville – Boston Legacy 4:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508515@anstoss
+DTSTAMP:20260822T233000Z
+DTSTART:20260822T233000Z
+DTEND:20260823T013000Z
+SUMMARY:North Carolina Courage – Boston Legacy 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508515.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508529@anstoss
+DTSTAMP:20260901T000000Z
+DTSTART:20260901T000000Z
+DTEND:20260901T020000Z
+SUMMARY:Boston Legacy – Angel City 2:5
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508529.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508530@anstoss
+DTSTAMP:20260905T013000Z
+DTSTART:20260905T013000Z
+DTEND:20260905T033000Z
+SUMMARY:Utah Royals – Boston Legacy 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508544@anstoss
+DTSTAMP:20260913T170000Z
+DTSTART:20260913T170000Z
+DTEND:20260913T190000Z
+SUMMARY:Washington Spirit – Boston Legacy 0:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508552@anstoss
+DTSTAMP:20260920T180000Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:Boston Legacy – Houston Dash
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centreville Bank Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508552.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508558@anstoss
+DTSTAMP:20260926T003000Z
+DTSTART:20260926T003000Z
+DTEND:20260926T023000Z
+SUMMARY:Seattle Reign FC – Boston Legacy
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508558.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508568@anstoss
+DTSTAMP:20261004T004500Z
+DTSTART:20261004T004500Z
+DTEND:20261004T024500Z
+SUMMARY:Portland Thorns – Boston Legacy
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508568.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508572@anstoss
+DTSTAMP:20261017T000000Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Boston Legacy – Racing Louisville
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508572.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508587@anstoss
+DTSTAMP:20261025T230000Z
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+SUMMARY:San Diego Wave – Boston Legacy
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508587.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508588@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Angel City – Boston Legacy
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508588.ht
+ ml
+END:VEVENT
+END:VCALENDAR

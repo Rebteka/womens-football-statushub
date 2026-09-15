@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Malmö FF
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495437@anstoss
+DTSTAMP:20260329T130000Z
+DTSTART:20260329T130000Z
+DTEND:20260329T150000Z
+SUMMARY:Malmö FF – Uppsala 3:0
+DESCRIPTION:Damallsvenskan · 1. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495437.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495441@anstoss
+DTSTAMP:20260406T130000Z
+DTSTART:20260406T130000Z
+DTEND:20260406T150000Z
+SUMMARY:Norrköping – Malmö FF 1:1
+DESCRIPTION:Damallsvenskan · 2. Spieltag
+LOCATION:Platinumcars Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495441.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495450@anstoss
+DTSTAMP:20260426T130000Z
+DTSTART:20260426T130000Z
+DTEND:20260426T150000Z
+SUMMARY:Malmö FF – Brommapojkarna 2:0
+DESCRIPTION:Damallsvenskan · 3. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495450.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495457@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:Rosengård – Malmö FF 0:1
+DESCRIPTION:Damallsvenskan · 4. Spieltag
+LOCATION:Malmo IP
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495463@anstoss
+DTSTAMP:20260511T160000Z
+DTSTART:20260511T160000Z
+DTEND:20260511T180000Z
+SUMMARY:Malmö FF – Häcken 1:2
+DESCRIPTION:Damallsvenskan · 5. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495470@anstoss
+DTSTAMP:20260520T170000Z
+DTSTART:20260520T170000Z
+DTEND:20260520T190000Z
+SUMMARY:Hammarby – Malmö FF 2:1
+DESCRIPTION:Damallsvenskan · 6. Spieltag
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495474@anstoss
+DTSTAMP:20260523T110000Z
+DTSTART:20260523T110000Z
+DTEND:20260523T130000Z
+SUMMARY:AIK – Malmö FF 2:2
+DESCRIPTION:Damallsvenskan · 7. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495483@anstoss
+DTSTAMP:20260531T130000Z
+DTSTART:20260531T130000Z
+DTEND:20260531T150000Z
+SUMMARY:Malmö FF – Växjö 3:0
+DESCRIPTION:Damallsvenskan · 8. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495489@anstoss
+DTSTAMP:20260613T120000Z
+DTSTART:20260613T120000Z
+DTEND:20260613T140000Z
+SUMMARY:Eskilstuna United – Malmö FF 1:1
+DESCRIPTION:Damallsvenskan · 9. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495495@anstoss
+DTSTAMP:20260617T170000Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:Djurgården – Malmö FF 0:1
+DESCRIPTION:Damallsvenskan · 10. Spieltag
+LOCATION:Stockholms Olympiastadion\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495503@anstoss
+DTSTAMP:20260627T120000Z
+DTSTART:20260627T120000Z
+DTEND:20260627T140000Z
+SUMMARY:Malmö FF – Kristianstad 6:0
+DESCRIPTION:Damallsvenskan · 11. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495522@anstoss
+DTSTAMP:20260727T170000Z
+DTSTART:20260727T170000Z
+DTEND:20260727T190000Z
+SUMMARY:Vittsjö – Malmö FF 1:0
+DESCRIPTION:Damallsvenskan · 13. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495522.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495513@anstoss
+DTSTAMP:20260731T160000Z
+DTSTART:20260731T160000Z
+DTEND:20260731T180000Z
+SUMMARY:Malmö FF – Piteå 0:0
+DESCRIPTION:Damallsvenskan · 12. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558467@anstoss
+DTSTAMP:20260805T110000Z
+DTSTART:20260805T110000Z
+DTEND:20260805T130000Z
+SUMMARY:Vålerenga – Malmö FF 0:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612443@anstoss
+DTSTAMP:20260808T170000Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:Eintracht Frankfurt – Malmö FF 2:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495528@anstoss
+DTSTAMP:20260815T110000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T130000Z
+SUMMARY:Uppsala – Malmö FF 0:6
+DESCRIPTION:Damallsvenskan · 14. Spieltag
+LOCATION:Studenternas IP\, Uppsala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495528.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495534@anstoss
+DTSTAMP:20260821T160000Z
+DTSTART:20260821T160000Z
+DTEND:20260821T180000Z
+SUMMARY:Malmö FF – Hammarby 1:1
+DESCRIPTION:Damallsvenskan · 15. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495534.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495543@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Växjö – Malmö FF 0:4
+DESCRIPTION:Damallsvenskan · 16. Spieltag
+LOCATION:Spiris Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495546@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Häcken – Malmö FF 1:1
+DESCRIPTION:Damallsvenskan · 17. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495546.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495554@anstoss
+DTSTAMP:20260912T130000Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:Malmö FF – Eskilstuna United 1:0
+DESCRIPTION:Damallsvenskan · 18. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495554.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495561@anstoss
+DTSTAMP:20260918T170000Z
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+SUMMARY:Malmö FF – Djurgården
+DESCRIPTION:Damallsvenskan · 19. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495561.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495567@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Brommapojkarna – Malmö FF
+DESCRIPTION:Damallsvenskan · 20. Spieltag
+LOCATION:Grimsta IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495567.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495575@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Malmö FF – Rosengård
+DESCRIPTION:Damallsvenskan · 21. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495575.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495583@anstoss
+DTSTAMP:20261017T120000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:Malmö FF – AIK
+DESCRIPTION:Damallsvenskan · 22. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495589@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
+SUMMARY:Kristianstad – Malmö FF
+DESCRIPTION:Damallsvenskan · 23. Spieltag
+LOCATION:Kristianstad Arena\, Kristianstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495589.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495596@anstoss
+DTSTAMP:20261102T170000Z
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
+SUMMARY:Malmö FF – Norrköping
+DESCRIPTION:Damallsvenskan · 24. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495596.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495603@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Piteå – Malmö FF
+DESCRIPTION:Damallsvenskan · 25. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495611@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Malmö FF – Vittsjö
+DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495611.ht
+ ml
+END:VEVENT
+END:VCALENDAR

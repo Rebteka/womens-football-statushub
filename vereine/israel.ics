@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Israel
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523825@anstoss
+DTSTAMP:20260303T183000Z
+DTSTART:20260303T183000Z
+DTEND:20260303T203000Z
+SUMMARY:Israel – Belgien 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523825.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523850@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Belgien – Israel 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523850.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523876@anstoss
+DTSTAMP:20260414T171500Z
+DTSTART:20260414T171500Z
+DTEND:20260414T191500Z
+SUMMARY:Israel – Luxembourg 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523901@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Luxembourg – Israel 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523926@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Scotland – Israel 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Bozsik Arena\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523926.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523951@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Israel – Scotland 1:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Bozsik Arena\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557250@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Israel – Schweiz
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557271@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Schweiz – Israel
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557271.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Budućnost
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558456@anstoss
+DTSTAMP:20260722T080000Z
+DTSTART:20260722T080000Z
+DTEND:20260722T100000Z
+SUMMARY:Neftçi Bakı – Budućnost 0:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600537@anstoss
+DTSTAMP:20260725T080000Z
+DTSTART:20260725T080000Z
+DTEND:20260725T100000Z
+SUMMARY:Budućnost – Hapoel Jerusalem 0:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600537.ht
+ ml
+END:VEVENT
+END:VCALENDAR

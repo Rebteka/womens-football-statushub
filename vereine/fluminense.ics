@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fluminense
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522447@anstoss
+DTSTAMP:20260214T180000Z
+DTSTART:20260214T180000Z
+DTEND:20260214T200000Z
+SUMMARY:Fluminense – Vitória BA 1:0
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522335@anstoss
+DTSTAMP:20260221T003000Z
+DTSTART:20260221T003000Z
+DTEND:20260221T023000Z
+SUMMARY:Corinthians – Fluminense 2:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522345@anstoss
+DTSTAMP:20260314T210000Z
+DTSTART:20260314T210000Z
+DTEND:20260314T230000Z
+SUMMARY:Gremio – Fluminense 0:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522350@anstoss
+DTSTAMP:20260323T230000Z
+DTSTART:20260323T230000Z
+DTEND:20260324T010000Z
+SUMMARY:Fluminense – São Paulo 0:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522358@anstoss
+DTSTAMP:20260326T220000Z
+DTSTART:20260326T220000Z
+DTEND:20260327T000000Z
+SUMMARY:Cruzeiro – Fluminense 3:2
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522368@anstoss
+DTSTAMP:20260401T180000Z
+DTSTART:20260401T180000Z
+DTEND:20260401T200000Z
+SUMMARY:Fluminense – Juventude 1:0
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522370@anstoss
+DTSTAMP:20260421T190000Z
+DTSTART:20260421T190000Z
+DTEND:20260421T210000Z
+SUMMARY:Fluminense – Palmeiras 1:2
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522460@anstoss
+DTSTAMP:20260426T190000Z
+DTSTART:20260426T190000Z
+DTEND:20260426T210000Z
+SUMMARY:Mixto – Fluminense 0:2
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522389@anstoss
+DTSTAMP:20260501T190000Z
+DTSTART:20260501T190000Z
+DTEND:20260501T210000Z
+SUMMARY:Atlético Mineiro – Fluminense 1:1
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Estadio Municipal Castor Cifuentes\, Nova Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522394@anstoss
+DTSTAMP:20260509T190000Z
+DTSTART:20260509T190000Z
+DTEND:20260509T210000Z
+SUMMARY:Fluminense – Santos 0:2
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522399@anstoss
+DTSTAMP:20260516T000000Z
+DTSTART:20260516T000000Z
+DTEND:20260516T020000Z
+SUMMARY:Flamengo – Fluminense 1:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522407@anstoss
+DTSTAMP:20260523T190000Z
+DTSTART:20260523T190000Z
+DTEND:20260523T210000Z
+SUMMARY:Fluminense – Bahia 3:3
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522414@anstoss
+DTSTAMP:20260724T230000Z
+DTSTART:20260724T230000Z
+DTEND:20260725T010000Z
+SUMMARY:Internacional RS – Fluminense 1:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522423@anstoss
+DTSTAMP:20260801T180000Z
+DTSTART:20260801T180000Z
+DTEND:20260801T200000Z
+SUMMARY:Fluminense – RB Bragantino 2:1
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522431@anstoss
+DTSTAMP:20260810T210000Z
+DTSTART:20260810T210000Z
+DTEND:20260810T230000Z
+SUMMARY:Botafogo – Fluminense 1:2
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Estadio Olimpico Nilton Santos\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522431.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522438@anstoss
+DTSTAMP:20260815T180000Z
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+SUMMARY:Fluminense – America Mineiro 4:1
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522442@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Ferroviaria – Fluminense 1:1
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522442.ht
+ ml
+END:VEVENT
+END:VCALENDAR

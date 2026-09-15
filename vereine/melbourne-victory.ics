@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Melbourne Victory
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1632104@anstoss
+DTSTAMP:20261017T040000Z
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+SUMMARY:Western Sydney Wanderers – Melbourne Victory
+DESCRIPTION:A-League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632104.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632111@anstoss
+DTSTAMP:20261024T231500Z
+DTSTART:20261024T231500Z
+DTEND:20261025T011500Z
+SUMMARY:Wellington Phoenix – Melbourne Victory
+DESCRIPTION:A-League Women · 2. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632116@anstoss
+DTSTAMP:20261101T064500Z
+DTSTART:20261101T064500Z
+DTEND:20261101T084500Z
+SUMMARY:Melbourne Victory – Newcastle Jets FC
+DESCRIPTION:A-League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632120@anstoss
+DTSTAMP:20261107T060000Z
+DTSTART:20261107T060000Z
+DTEND:20261107T080000Z
+SUMMARY:Brisbane Roar FC – Melbourne Victory
+DESCRIPTION:A-League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632123@anstoss
+DTSTAMP:20261114T040000Z
+DTSTART:20261114T040000Z
+DTEND:20261114T060000Z
+SUMMARY:Melbourne Victory – Adelaide United
+DESCRIPTION:A-League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632123.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632131@anstoss
+DTSTAMP:20261122T040000Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:Melbourne Victory – Perth Glory FC
+DESCRIPTION:A-League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632131.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632138@anstoss
+DTSTAMP:20261219T060000Z
+DTSTART:20261219T060000Z
+DTEND:20261219T080000Z
+SUMMARY:Melbourne City – Melbourne Victory
+DESCRIPTION:A-League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632145@anstoss
+DTSTAMP:20261229T055000Z
+DTSTART:20261229T055000Z
+DTEND:20261229T075000Z
+SUMMARY:Melbourne Victory – Wellington Phoenix
+DESCRIPTION:A-League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632150@anstoss
+DTSTAMP:20270102T060000Z
+DTSTART:20270102T060000Z
+DTEND:20270102T080000Z
+SUMMARY:Canberra United – Melbourne Victory
+DESCRIPTION:A-League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632150.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632155@anstoss
+DTSTAMP:20270109T060000Z
+DTSTART:20270109T060000Z
+DTEND:20270109T080000Z
+SUMMARY:Melbourne Victory – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632158@anstoss
+DTSTAMP:20270115T055000Z
+DTSTART:20270115T055000Z
+DTEND:20270115T075000Z
+SUMMARY:Melbourne Victory – Central Coast Mariners
+DESCRIPTION:A-League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632164@anstoss
+DTSTAMP:20270123T070000Z
+DTSTART:20270123T070000Z
+DTEND:20270123T090000Z
+SUMMARY:Sydney FC – Melbourne Victory
+DESCRIPTION:A-League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632164.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632170@anstoss
+DTSTAMP:20270130T060000Z
+DTSTART:20270130T060000Z
+DTEND:20270130T080000Z
+SUMMARY:Melbourne Victory – Brisbane Roar FC
+DESCRIPTION:A-League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632170.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632174@anstoss
+DTSTAMP:20270206T055000Z
+DTSTART:20270206T055000Z
+DTEND:20270206T075000Z
+SUMMARY:Adelaide United – Melbourne Victory
+DESCRIPTION:A-League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632174.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632182@anstoss
+DTSTAMP:20270214T060000Z
+DTSTART:20270214T060000Z
+DTEND:20270214T080000Z
+SUMMARY:Newcastle Jets FC – Melbourne Victory
+DESCRIPTION:A-League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632182.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632186@anstoss
+DTSTAMP:20270221T060000Z
+DTSTART:20270221T060000Z
+DTEND:20270221T080000Z
+SUMMARY:Melbourne Victory – Melbourne City
+DESCRIPTION:A-League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632192@anstoss
+DTSTAMP:20270314T040000Z
+DTSTART:20270314T040000Z
+DTEND:20270314T060000Z
+SUMMARY:Melbourne Victory – Canberra United
+DESCRIPTION:A-League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632192.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632199@anstoss
+DTSTAMP:20270327T040000Z
+DTSTART:20270327T040000Z
+DTEND:20270327T060000Z
+SUMMARY:Central Coast Mariners – Melbourne Victory
+DESCRIPTION:A-League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632199.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632207@anstoss
+DTSTAMP:20270404T090000Z
+DTSTART:20270404T090000Z
+DTEND:20270404T110000Z
+SUMMARY:Perth Glory FC – Melbourne Victory
+DESCRIPTION:A-League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632210@anstoss
+DTSTAMP:20270410T070000Z
+DTSTART:20270410T070000Z
+DTEND:20270410T090000Z
+SUMMARY:Melbourne Victory – Sydney FC
+DESCRIPTION:A-League Women · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632210.ht
+ ml
+END:VEVENT
+END:VCALENDAR

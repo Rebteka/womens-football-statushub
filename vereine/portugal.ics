@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portugal
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523823@anstoss
+DTSTAMP:20260303T184500Z
+DTSTART:20260303T184500Z
+DTEND:20260303T204500Z
+SUMMARY:Portugal – Finnland 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523823.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523848@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Portugal – Slowakei 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523848.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523873@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Latvia – Portugal 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523873.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523898@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Slowakei – Portugal 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523923@anstoss
+DTSTAMP:20260605T190000Z
+DTSTART:20260605T190000Z
+DTEND:20260605T210000Z
+SUMMARY:Portugal – Latvia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Estadio Antonio Coimbra da Mota\, Estoril
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523923.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523948@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Finnland – Portugal 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523948.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557254@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Nordirland – Portugal
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557266@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Portugal – Nordirland
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557266.ht
+ ml
+END:VEVENT
+END:VCALENDAR

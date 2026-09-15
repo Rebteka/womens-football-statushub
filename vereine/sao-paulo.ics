@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:São Paulo
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522332@anstoss
+DTSTAMP:20260216T233000Z
+DTSTART:20260216T233000Z
+DTEND:20260217T013000Z
+SUMMARY:Internacional RS – São Paulo 1:2
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522340@anstoss
+DTSTAMP:20260224T000000Z
+DTSTART:20260224T000000Z
+DTEND:20260224T020000Z
+SUMMARY:São Paulo – Bahia 2:1
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522343@anstoss
+DTSTAMP:20260314T190000Z
+DTSTART:20260314T190000Z
+DTEND:20260314T210000Z
+SUMMARY:São Paulo – Ferroviaria 0:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522350@anstoss
+DTSTAMP:20260323T230000Z
+DTSTART:20260323T230000Z
+DTEND:20260324T010000Z
+SUMMARY:Fluminense – São Paulo 0:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522356@anstoss
+DTSTAMP:20260328T003000Z
+DTSTART:20260328T003000Z
+DTEND:20260328T023000Z
+SUMMARY:São Paulo – Palmeiras 3:0
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522364@anstoss
+DTSTAMP:20260330T220000Z
+DTSTART:20260330T220000Z
+DTEND:20260331T000000Z
+SUMMARY:Atlético Mineiro – São Paulo 1:2
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522372@anstoss
+DTSTAMP:20260420T220000Z
+DTSTART:20260420T220000Z
+DTEND:20260421T000000Z
+SUMMARY:São Paulo – Gremio 3:1
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522378@anstoss
+DTSTAMP:20260427T210000Z
+DTSTART:20260427T210000Z
+DTEND:20260427T230000Z
+SUMMARY:America Mineiro – São Paulo 0:0
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522384@anstoss
+DTSTAMP:20260505T000000Z
+DTSTART:20260505T000000Z
+DTEND:20260505T020000Z
+SUMMARY:São Paulo – Flamengo 2:1
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522390@anstoss
+DTSTAMP:20260512T003000Z
+DTSTART:20260512T003000Z
+DTEND:20260512T023000Z
+SUMMARY:Corinthians – São Paulo 2:1
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522400@anstoss
+DTSTAMP:20260518T230000Z
+DTSTART:20260518T230000Z
+DTEND:20260519T010000Z
+SUMMARY:São Paulo – Juventude 1:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522405@anstoss
+DTSTAMP:20260525T203000Z
+DTSTART:20260525T203000Z
+DTEND:20260525T223000Z
+SUMMARY:São Paulo – Santos 3:0
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522411@anstoss
+DTSTAMP:20260725T003000Z
+DTSTART:20260725T003000Z
+DTEND:20260725T023000Z
+SUMMARY:Cruzeiro – São Paulo 1:2
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522471@anstoss
+DTSTAMP:20260802T000000Z
+DTSTART:20260802T000000Z
+DTEND:20260802T020000Z
+SUMMARY:Vitória BA – São Paulo 1:3
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522427@anstoss
+DTSTAMP:20260809T210000Z
+DTSTART:20260809T210000Z
+DTEND:20260809T230000Z
+SUMMARY:São Paulo – RB Bragantino 1:0
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522427.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522435@anstoss
+DTSTAMP:20260816T140000Z
+DTSTART:20260816T140000Z
+DTEND:20260816T160000Z
+SUMMARY:Botafogo – São Paulo 1:5
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:Estadio Olimpico Nilton Santos\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522478@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:São Paulo – Mixto 1:0
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634047@anstoss
+DTSTAMP:20260829T193000Z
+DTSTART:20260829T193000Z
+DTEND:20260829T213000Z
+SUMMARY:Gremio – São Paulo 0:0
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Estadio Alfredo Jaconi\, Caxias do Sul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634051@anstoss
+DTSTAMP:20260905T193000Z
+DTSTART:20260905T193000Z
+DTEND:20260905T213000Z
+SUMMARY:São Paulo – Gremio 2:0
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634051.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638746@anstoss
+DTSTAMP:20260912T193000Z
+DTSTART:20260912T193000Z
+DTEND:20260912T213000Z
+SUMMARY:Flamengo – São Paulo 1:3
+DESCRIPTION:Brasileiro Women · Halbfinale
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638748@anstoss
+DTSTAMP:20260919T193000Z
+DTSTART:20260919T193000Z
+DTEND:20260919T213000Z
+SUMMARY:São Paulo – Flamengo
+DESCRIPTION:Brasileiro Women · Halbfinale
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638748.ht
+ ml
+END:VEVENT
+END:VCALENDAR

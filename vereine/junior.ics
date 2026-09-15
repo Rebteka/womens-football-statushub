@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Junior
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518010@anstoss
+DTSTAMP:20260213T220000Z
+DTSTART:20260213T220000Z
+DTEND:20260214T000000Z
+SUMMARY:América de Cali – Junior 3:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524350@anstoss
+DTSTAMP:20260301T220000Z
+DTSTART:20260301T220000Z
+DTEND:20260302T000000Z
+SUMMARY:Junior – Llaneros 0:0
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524355@anstoss
+DTSTAMP:20260310T200000Z
+DTSTART:20260310T200000Z
+DTEND:20260310T220000Z
+SUMMARY:Once Caldas – Junior 1:2
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524364@anstoss
+DTSTAMP:20260316T200000Z
+DTSTART:20260316T200000Z
+DTEND:20260316T220000Z
+SUMMARY:Junior – La Equidad 1:2
+DESCRIPTION:Liga Femenina · 4. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524368@anstoss
+DTSTAMP:20260322T200000Z
+DTSTART:20260322T200000Z
+DTEND:20260322T220000Z
+SUMMARY:Deportivo Pasto – Junior 0:0
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Departamental Libertad\, Pasto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524381@anstoss
+DTSTAMP:20260330T210000Z
+DTSTART:20260330T210000Z
+DTEND:20260330T230000Z
+SUMMARY:Junior – Atlético Nacional 1:2
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524389@anstoss
+DTSTAMP:20260415T220000Z
+DTSTART:20260415T220000Z
+DTEND:20260416T000000Z
+SUMMARY:Junior – Independiente Medellín 3:2
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525692@anstoss
+DTSTAMP:20260423T203000Z
+DTSTART:20260423T203000Z
+DTEND:20260423T223000Z
+SUMMARY:Deportivo Cali – Junior 2:0
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525704@anstoss
+DTSTAMP:20260501T203000Z
+DTSTART:20260501T203000Z
+DTEND:20260501T223000Z
+SUMMARY:Llaneros – Junior 2:1
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525713@anstoss
+DTSTAMP:20260511T213000Z
+DTSTART:20260511T213000Z
+DTEND:20260511T233000Z
+SUMMARY:Junior – Santa Fe 1:1
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525722@anstoss
+DTSTAMP:20260516T200000Z
+DTSTART:20260516T200000Z
+DTEND:20260516T220000Z
+SUMMARY:Real Santander – Junior 1:1
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525722.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525729@anstoss
+DTSTAMP:20260524T213000Z
+DTSTART:20260524T213000Z
+DTEND:20260524T233000Z
+SUMMARY:Junior – Fortaleza 0:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525729.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525738@anstoss
+DTSTAMP:20260529T003000Z
+DTSTART:20260529T003000Z
+DTEND:20260529T023000Z
+SUMMARY:Orsomarso – Junior 5:1
+DESCRIPTION:Liga Femenina · 13. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525738.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525746@anstoss
+DTSTAMP:20260725T213000Z
+DTSTART:20260725T213000Z
+DTEND:20260725T233000Z
+SUMMARY:Junior – Millonarios 0:0
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525752@anstoss
+DTSTAMP:20260803T210000Z
+DTSTART:20260803T210000Z
+DTEND:20260803T230000Z
+SUMMARY:Junior – Atlético Bucaramanga 0:1
+DESCRIPTION:Liga Femenina · 15. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525752.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525760@anstoss
+DTSTAMP:20260809T210000Z
+DTSTART:20260809T210000Z
+DTEND:20260809T230000Z
+SUMMARY:Internacional Palmira – Junior 2:1
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525760.ht
+ ml
+END:VEVENT
+END:VCALENDAR

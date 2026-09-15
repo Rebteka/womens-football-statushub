@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Parceiro Nagano
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560928@anstoss
+DTSTAMP:20260823T090000Z
+DTSTART:20260823T090000Z
+DTEND:20260823T110000Z
+SUMMARY:Vegalta Sendai – Parceiro Nagano 2:1
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560933@anstoss
+DTSTAMP:20260829T090000Z
+DTSTART:20260829T090000Z
+DTEND:20260829T110000Z
+SUMMARY:Parceiro Nagano – Tokyo Verdy Beleza 1:4
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560933.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560961@anstoss
+DTSTAMP:20260902T100000Z
+DTSTART:20260902T100000Z
+DTEND:20260902T120000Z
+SUMMARY:INAC Kobe Leonessa – Parceiro Nagano 2:2
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560961.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560941@anstoss
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T110000Z
+SUMMARY:Elfen Saitama – Parceiro Nagano 0:0
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560941.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560943@anstoss
+DTSTAMP:20261017T040000Z
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+SUMMARY:Albirex Niigata – Parceiro Nagano
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560943.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560959@anstoss
+DTSTAMP:20261025T050000Z
+DTSTART:20261025T050000Z
+DTEND:20261025T070000Z
+SUMMARY:Sanfrecce Hiroshima – Parceiro Nagano
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560952@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART:20261028T100000Z
+DTEND:20261028T120000Z
+SUMMARY:Parceiro Nagano – Omiya Ardija Ventus
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560970@anstoss
+DTSTAMP:20261107T050000Z
+DTSTART:20261107T050000Z
+DTEND:20261107T070000Z
+SUMMARY:Parceiro Nagano – Cerezo Osaka
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560976@anstoss
+DTSTAMP:20261114T050000Z
+DTSTART:20261114T050000Z
+DTEND:20261114T070000Z
+SUMMARY:Parceiro Nagano – Nojima Stella
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560976.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560981@anstoss
+DTSTAMP:20261118T040000Z
+DTSTART:20261118T040000Z
+DTEND:20261118T060000Z
+SUMMARY:JEF United – Parceiro Nagano
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560989@anstoss
+DTSTAMP:20261123T050000Z
+DTSTART:20261123T050000Z
+DTEND:20261123T070000Z
+SUMMARY:Parceiro Nagano – Urawa Reds
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560991@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cerezo Osaka – Parceiro Nagano
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560997@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Tokyo Verdy Beleza – Parceiro Nagano
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560997.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561005@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Nojima Stella – Parceiro Nagano
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561012@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Parceiro Nagano – INAC Kobe Leonessa
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561019@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Parceiro Nagano – Elfen Saitama
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561026@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Omiya Ardija Ventus – Parceiro Nagano
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561029@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Parceiro Nagano – JEF United
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561037@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Parceiro Nagano – Sanfrecce Hiroshima
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561037.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561044@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Urawa Reds – Parceiro Nagano
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561049@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Parceiro Nagano – Albirex Niigata
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561049.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561054@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Parceiro Nagano – Vegalta Sendai
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561054.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Slovan Bratislava
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1566658@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Slovan Bratislava – Z. Moravce-Vrable 2:0
+DESCRIPTION:I Liga - Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566593@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:Spartak Myjava – Slovan Bratislava 5:1
+DESCRIPTION:I Liga - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566593.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566597@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Slovan Bratislava – Dukla Banská Bystrica 7:0
+DESCRIPTION:I Liga - Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566600@anstoss
+DTSTAMP:20260905T130000Z
+DTSTART:20260905T130000Z
+DTEND:20260905T150000Z
+SUMMARY:Slovan Bratislava – Tatran Prešov 5:1
+DESCRIPTION:I Liga - Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566600.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566602@anstoss
+DTSTAMP:20260912T120000Z
+DTSTART:20260912T120000Z
+DTEND:20260912T140000Z
+SUMMARY:Petržalka – Slovan Bratislava 1:6
+DESCRIPTION:I Liga - Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566602.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566608@anstoss
+DTSTAMP:20260919T130000Z
+DTSTART:20260919T130000Z
+DTEND:20260919T150000Z
+SUMMARY:Slovan Bratislava – Ružomberok
+DESCRIPTION:I Liga - Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566610@anstoss
+DTSTAMP:20260926T090000Z
+DTSTART:20260926T090000Z
+DTEND:20260926T110000Z
+SUMMARY:Komárno – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566610.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566616@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART:20261003T130000Z
+DTEND:20261003T150000Z
+SUMMARY:Slovan Bratislava – Trenčín
+DESCRIPTION:I Liga - Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566620@anstoss
+DTSTAMP:20261017T090000Z
+DTSTART:20261017T090000Z
+DTEND:20261017T110000Z
+SUMMARY:Spartak Trnava – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 9. Spieltag
+LOCATION:City Arena Trnava\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566620.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566667@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
+SUMMARY:Z. Moravce-Vrable – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566667.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566629@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Slovan Bratislava – Spartak Myjava
+DESCRIPTION:I Liga - Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566631@anstoss
+DTSTAMP:20261107T133000Z
+DTSTART:20261107T133000Z
+DTEND:20261107T153000Z
+SUMMARY:Dukla Banská Bystrica – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566636@anstoss
+DTSTAMP:20261114T133000Z
+DTSTART:20261114T133000Z
+DTEND:20261114T153000Z
+SUMMARY:Tatran Prešov – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566640@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:Slovan Bratislava – Petržalka
+DESCRIPTION:I Liga - Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566644@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART:20270213T100000Z
+DTEND:20270213T120000Z
+SUMMARY:Ružomberok – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566648@anstoss
+DTSTAMP:20270220T140000Z
+DTSTART:20270220T140000Z
+DTEND:20270220T160000Z
+SUMMARY:Slovan Bratislava – Komárno
+DESCRIPTION:I Liga - Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566648.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566653@anstoss
+DTSTAMP:20270313T143000Z
+DTSTART:20270313T143000Z
+DTEND:20270313T163000Z
+SUMMARY:Trenčín – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566653.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566657@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART:20270320T140000Z
+DTEND:20270320T160000Z
+SUMMARY:Slovan Bratislava – Spartak Trnava
+DESCRIPTION:I Liga - Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566657.ht
+ ml
+END:VEVENT
+END:VCALENDAR

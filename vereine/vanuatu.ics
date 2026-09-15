@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vanuatu
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526390@anstoss
+DTSTAMP:20260227T000000Z
+DTSTART:20260227T000000Z
+DTEND:20260227T020000Z
+SUMMARY:Papua New Guinea – Vanuatu 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526393@anstoss
+DTSTAMP:20260302T000000Z
+DTSTART:20260302T000000Z
+DTEND:20260302T020000Z
+SUMMARY:New Caledonia – Vanuatu 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526398@anstoss
+DTSTAMP:20260305T033000Z
+DTSTART:20260305T033000Z
+DTEND:20260305T053000Z
+SUMMARY:Vanuatu – Fiji 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526398.ht
+ ml
+END:VEVENT
+END:VCALENDAR

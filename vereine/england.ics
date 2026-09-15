@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:England
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523816@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Ukraine – England 1:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Mardan Antalyaspor\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523816.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523841@anstoss
+DTSTAMP:20260307T123000Z
+DTSTART:20260307T123000Z
+DTEND:20260307T143000Z
+SUMMARY:England – Island 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523841.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523865@anstoss
+DTSTAMP:20260414T180000Z
+DTSTART:20260414T180000Z
+DTEND:20260414T200000Z
+SUMMARY:England – Spanien 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Wembley Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523891@anstoss
+DTSTAMP:20260418T163000Z
+DTSTART:20260418T163000Z
+DTEND:20260418T183000Z
+SUMMARY:Island – England 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523915@anstoss
+DTSTAMP:20260605T190000Z
+DTSTART:20260605T190000Z
+DTEND:20260605T210000Z
+SUMMARY:Spanien – England 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Estadi Mallorca Son Moix\, Palma de Mallorca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523941@anstoss
+DTSTAMP:20260609T190000Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:England – Ukraine 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523941.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557248@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Greece – England
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557259@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:England – Greece
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557259.ht
+ ml
+END:VEVENT
+END:VCALENDAR

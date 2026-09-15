@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Krylya Sovetov
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529890@anstoss
+DTSTAMP:20260314T140000Z
+DTSTART:20260314T140000Z
+DTEND:20260314T160000Z
+SUMMARY:Chertanovo – Krylya Sovetov 0:1
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529899@anstoss
+DTSTAMP:20260321T110000Z
+DTSTART:20260321T110000Z
+DTEND:20260321T130000Z
+SUMMARY:Lokomotiv Moskva – Krylya Sovetov 5:0
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529904@anstoss
+DTSTAMP:20260328T100000Z
+DTSTART:20260328T100000Z
+DTEND:20260328T120000Z
+SUMMARY:Krylya Sovetov – Yenisey 2:0
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529908@anstoss
+DTSTAMP:20260403T163000Z
+DTSTART:20260403T163000Z
+DTEND:20260403T183000Z
+SUMMARY:Zenit – Krylya Sovetov 5:1
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529915@anstoss
+DTSTAMP:20260424T140000Z
+DTSTART:20260424T140000Z
+DTEND:20260424T160000Z
+SUMMARY:Krylya Sovetov – CSKA Moskva 2:0
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529924@anstoss
+DTSTAMP:20260502T130000Z
+DTSTART:20260502T130000Z
+DTEND:20260502T150000Z
+SUMMARY:Ryazan – Krylya Sovetov 1:1
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529924.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529927@anstoss
+DTSTAMP:20260510T110000Z
+DTSTART:20260510T110000Z
+DTEND:20260510T130000Z
+SUMMARY:Dinamo Moskva – Krylya Sovetov 0:1
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529927.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529932@anstoss
+DTSTAMP:20260516T090000Z
+DTSTART:20260516T090000Z
+DTEND:20260516T110000Z
+SUMMARY:Krylya Sovetov – Zvezda Perm 2:0
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529932.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529940@anstoss
+DTSTAMP:20260523T090000Z
+DTSTART:20260523T090000Z
+DTEND:20260523T110000Z
+SUMMARY:Krylya Sovetov – Krasnodar 1:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529948@anstoss
+DTSTAMP:20260530T133000Z
+DTSTART:20260530T133000Z
+DTEND:20260530T153000Z
+SUMMARY:Spartak Moskva – Krylya Sovetov 1:0
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529948.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529958@anstoss
+DTSTAMP:20260627T130000Z
+DTSTART:20260627T130000Z
+DTEND:20260627T150000Z
+SUMMARY:Krylya Sovetov – Rostov 4:0
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529963@anstoss
+DTSTAMP:20260711T130000Z
+DTSTART:20260711T130000Z
+DTEND:20260711T150000Z
+SUMMARY:Krylya Sovetov – Rubin Kazan 2:0
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529963.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529969@anstoss
+DTSTAMP:20260718T130000Z
+DTSTART:20260718T130000Z
+DTEND:20260718T150000Z
+SUMMARY:Krylya Sovetov – Chertanovo 1:1
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529975@anstoss
+DTSTAMP:20260801T100000Z
+DTSTART:20260801T100000Z
+DTEND:20260801T120000Z
+SUMMARY:CSKA Moskva – Krylya Sovetov 4:1
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529975.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529981@anstoss
+DTSTAMP:20260808T060000Z
+DTSTART:20260808T060000Z
+DTEND:20260808T080000Z
+SUMMARY:Yenisey – Krylya Sovetov 0:4
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529993@anstoss
+DTSTAMP:20260904T130000Z
+DTSTART:20260904T130000Z
+DTEND:20260904T150000Z
+SUMMARY:Krylya Sovetov – Dinamo Moskva 0:1
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530000@anstoss
+DTSTAMP:20260912T100000Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Krylya Sovetov – Ryazan 2:1
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530005@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Krylya Sovetov – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530015@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Zvezda Perm – Krylya Sovetov
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530018@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Krasnodar – Krylya Sovetov
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530023@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Krylya Sovetov – Zenit
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530031@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Krylya Sovetov – Spartak Moskva
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530035@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Rostov – Krylya Sovetov
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530044@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Rubin Kazan – Krylya Sovetov
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530044.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Greece
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523812@anstoss
+DTSTAMP:20260303T163000Z
+DTSTART:20260303T163000Z
+DTEND:20260303T183000Z
+SUMMARY:Greece – Georgia 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523812.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523837@anstoss
+DTSTAMP:20260307T183000Z
+DTSTART:20260307T183000Z
+DTEND:20260307T203000Z
+SUMMARY:Greece – Faroe Islands 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523837.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523862@anstoss
+DTSTAMP:20260414T160000Z
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+SUMMARY:Faroe Islands – Greece 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523862.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523937@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Georgia – Greece 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523937.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557248@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Greece – England
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557259@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:England – Greece
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557259.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1459 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Women's Championship 2026/27
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1609371@anstoss
+DTSTAMP:20260904T183000Z
+DTSTART:20260904T183000Z
+DTEND:20260904T203000Z
+SUMMARY:Watford – Burnley 0:0
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Vicarage Road\, Watford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609372@anstoss
+DTSTAMP:20260906T110000Z
+DTSTART:20260906T110000Z
+DTEND:20260906T130000Z
+SUMMARY:Durham – Southampton 1:3
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609376@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Sunderland – Bristol City 4:1
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609375@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Sheffield United – Leicester City FC 0:1
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609373@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Ipswich Town – Nottingham Forest 1:1
+DESCRIPTION:Women's Championship · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609374@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Newcastle United – Wolverhampton 2:0
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609377@anstoss
+DTSTAMP:20260912T161500Z
+DTSTART:20260912T161500Z
+DTEND:20260912T181500Z
+SUMMARY:Bristol City – Newcastle United 0:1
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609381@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Wolverhampton – Sheffield United 3:1
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609378@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Burnley – Sunderland 1:2
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:Turf Moor\, Burnley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609379@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Nottingham Forest – Watford 2:2
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609380@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Southampton – Ipswich Town 0:0
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:Silverlake Stadium\, Eastleigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609382@anstoss
+DTSTAMP:20260913T140000Z
+DTSTART:20260913T140000Z
+DTEND:20260913T160000Z
+SUMMARY:Leicester City FC – Durham 4:2
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609383@anstoss
+DTSTAMP:20260918T183000Z
+DTSTART:20260918T183000Z
+DTEND:20260918T203000Z
+SUMMARY:Wolverhampton – Burnley
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609384@anstoss
+DTSTAMP:20260920T110000Z
+DTSTART:20260920T110000Z
+DTEND:20260920T130000Z
+SUMMARY:Durham – Nottingham Forest
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609386@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Sunderland – Southampton
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609387@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Watford – Bristol City
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609385@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Newcastle United – Sheffield United
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609388@anstoss
+DTSTAMP:20260920T140000Z
+DTSTART:20260920T140000Z
+DTEND:20260920T160000Z
+SUMMARY:Leicester City FC – Ipswich Town
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609389@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Burnley – Bristol City
+DESCRIPTION:Women's Championship · 4. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609392@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Sheffield United – Durham
+DESCRIPTION:Women's Championship · 4. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609390@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Ipswich Town – Wolverhampton
+DESCRIPTION:Women's Championship · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609393@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Southampton – Nottingham Forest
+DESCRIPTION:Women's Championship · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609394@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Watford – Sunderland
+DESCRIPTION:Women's Championship · 4. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609391@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Newcastle United – Leicester City FC
+DESCRIPTION:Women's Championship · 4. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609395@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Durham – Newcastle United
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609396@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Bristol City – Southampton
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609399@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Sunderland – Leicester City FC
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609398@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Sheffield United – Ipswich Town
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609400@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Wolverhampton – Watford
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609397@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Nottingham Forest – Burnley
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609401@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
+SUMMARY:Watford – Durham
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609402@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Bristol City – Wolverhampton
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609404@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Ipswich Town – Sunderland
+DESCRIPTION:Women's Championship · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609403@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Burnley – Sheffield United
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609405@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Nottingham Forest – Newcastle United
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609406@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:Leicester City FC – Southampton
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609407@anstoss
+DTSTAMP:20261108T120000Z
+DTSTART:20261108T120000Z
+DTEND:20261108T140000Z
+SUMMARY:Durham – Sunderland
+DESCRIPTION:Women's Championship · 7. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609408@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Ipswich Town – Bristol City
+DESCRIPTION:Women's Championship · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609411@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Wolverhampton – Nottingham Forest
+DESCRIPTION:Women's Championship · 7. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609410@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Southampton – Sheffield United
+DESCRIPTION:Women's Championship · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609410.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609409@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Newcastle United – Burnley
+DESCRIPTION:Women's Championship · 7. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609412@anstoss
+DTSTAMP:20261108T150000Z
+DTSTART:20261108T150000Z
+DTEND:20261108T170000Z
+SUMMARY:Leicester City FC – Watford
+DESCRIPTION:Women's Championship · 7. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609413@anstoss
+DTSTAMP:20261114T180000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:Sheffield United – Bristol City
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609416@anstoss
+DTSTAMP:20261115T140000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Sunderland – Newcastle United
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609418@anstoss
+DTSTAMP:20261115T140000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Wolverhampton – Durham
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609414@anstoss
+DTSTAMP:20261115T140000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Burnley – Southampton
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609415@anstoss
+DTSTAMP:20261115T140000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Nottingham Forest – Leicester City FC
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609417@anstoss
+DTSTAMP:20261115T140000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Watford – Ipswich Town
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609419@anstoss
+DTSTAMP:20261220T120000Z
+DTSTART:20261220T120000Z
+DTEND:20261220T140000Z
+SUMMARY:Durham – Ipswich Town
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609421@anstoss
+DTSTAMP:20261220T140000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Sheffield United – Sunderland
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609422@anstoss
+DTSTAMP:20261220T140000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Southampton – Wolverhampton
+DESCRIPTION:Women's Championship · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609420@anstoss
+DTSTAMP:20261220T140000Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Newcastle United – Watford
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609423@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART:20261220T150000Z
+DTEND:20261220T170000Z
+SUMMARY:Leicester City FC – Burnley
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609424@anstoss
+DTSTAMP:20261221T170000Z
+DTSTART:20261221T170000Z
+DTEND:20261221T190000Z
+SUMMARY:Bristol City – Nottingham Forest
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609425@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bristol City – Leicester City FC
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609429@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Sunderland – Wolverhampton
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609429.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609427@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Ipswich Town – Newcastle United
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609427.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609426@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Burnley – Durham
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609428@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Nottingham Forest – Sheffield United
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609428.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609430@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Watford – Southampton
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609431@anstoss
+DTSTAMP:20270122T190000Z
+DTSTART:20270122T190000Z
+DTEND:20270122T210000Z
+SUMMARY:Burnley – Ipswich Town
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609431.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609432@anstoss
+DTSTAMP:20270123T180000Z
+DTSTART:20270123T180000Z
+DTEND:20270123T200000Z
+SUMMARY:Sheffield United – Watford
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609433@anstoss
+DTSTAMP:20270124T120000Z
+DTSTART:20270124T120000Z
+DTEND:20270124T140000Z
+SUMMARY:Durham – Bristol City
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609433.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609436@anstoss
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Wolverhampton – Leicester City FC
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609435@anstoss
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Nottingham Forest – Sunderland
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609434@anstoss
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
+SUMMARY:Newcastle United – Southampton
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609434.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609438@anstoss
+DTSTAMP:20270127T190000Z
+DTSTART:20270127T190000Z
+DTEND:20270127T210000Z
+SUMMARY:Sunderland – Burnley
+DESCRIPTION:Women's Championship · 12. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609437@anstoss
+DTSTAMP:20270127T190000Z
+DTSTART:20270127T190000Z
+DTEND:20270127T210000Z
+SUMMARY:Durham – Sheffield United
+DESCRIPTION:Women's Championship · 12. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609437.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609440@anstoss
+DTSTAMP:20270127T193000Z
+DTSTART:20270127T193000Z
+DTEND:20270127T213000Z
+SUMMARY:Leicester City FC – Nottingham Forest
+DESCRIPTION:Women's Championship · 12. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609439@anstoss
+DTSTAMP:20270127T193000Z
+DTSTART:20270127T193000Z
+DTEND:20270127T213000Z
+SUMMARY:Ipswich Town – Watford
+DESCRIPTION:Women's Championship · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609439.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609442@anstoss
+DTSTAMP:20270127T193000Z
+DTSTART:20270127T193000Z
+DTEND:20270127T213000Z
+SUMMARY:Wolverhampton – Newcastle United
+DESCRIPTION:Women's Championship · 12. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609441@anstoss
+DTSTAMP:20270127T193000Z
+DTSTART:20270127T193000Z
+DTEND:20270127T213000Z
+SUMMARY:Southampton – Bristol City
+DESCRIPTION:Women's Championship · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609441.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609443@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Bristol City – Sheffield United
+DESCRIPTION:Women's Championship · 13. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609446@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Sunderland – Durham
+DESCRIPTION:Women's Championship · 13. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609444@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Nottingham Forest – Ipswich Town
+DESCRIPTION:Women's Championship · 13. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609444.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609445@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Southampton – Burnley
+DESCRIPTION:Women's Championship · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609447@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Watford – Wolverhampton
+DESCRIPTION:Women's Championship · 13. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609448@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART:20270131T150000Z
+DTEND:20270131T170000Z
+SUMMARY:Leicester City FC – Newcastle United
+DESCRIPTION:Women's Championship · 13. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609448.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609449@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART:20270207T130000Z
+DTEND:20270207T150000Z
+SUMMARY:Ipswich Town – Durham
+DESCRIPTION:Women's Championship · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609449.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609450@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Bristol City – Watford
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609450.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609453@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Sheffield United – Southampton
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609454@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Wolverhampton – Sunderland
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609454.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609451@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Burnley – Leicester City FC
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609452@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Newcastle United – Nottingham Forest
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609452.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609455@anstoss
+DTSTAMP:20270212T193000Z
+DTSTART:20270212T193000Z
+DTEND:20270212T213000Z
+SUMMARY:Watford – Leicester City FC
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609456@anstoss
+DTSTAMP:20270213T180000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T200000Z
+SUMMARY:Sheffield United – Burnley
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609457@anstoss
+DTSTAMP:20270214T120000Z
+DTSTART:20270214T120000Z
+DTEND:20270214T140000Z
+SUMMARY:Durham – Wolverhampton
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609460@anstoss
+DTSTAMP:20270214T140000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Sunderland – Ipswich Town
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609458@anstoss
+DTSTAMP:20270214T140000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Nottingham Forest – Bristol City
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609459@anstoss
+DTSTAMP:20270214T140000Z
+DTSTART:20270214T140000Z
+DTEND:20270214T160000Z
+SUMMARY:Southampton – Newcastle United
+DESCRIPTION:Women's Championship · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609461@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Bristol City – Sunderland
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609463@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Ipswich Town – Sheffield United
+DESCRIPTION:Women's Championship · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609462@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Burnley – Watford
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609465@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Nottingham Forest – Southampton
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609464@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Newcastle United – Durham
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609466@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART:20270314T150000Z
+DTEND:20270314T170000Z
+SUMMARY:Leicester City FC – Wolverhampton
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609467@anstoss
+DTSTAMP:20270320T180000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T200000Z
+SUMMARY:Sheffield United – Newcastle United
+DESCRIPTION:Women's Championship · 17. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609468@anstoss
+DTSTAMP:20270321T120000Z
+DTSTART:20270321T120000Z
+DTEND:20270321T140000Z
+SUMMARY:Durham – Leicester City FC
+DESCRIPTION:Women's Championship · 17. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609471@anstoss
+DTSTAMP:20270321T140000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Sunderland – Nottingham Forest
+DESCRIPTION:Women's Championship · 17. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609469@anstoss
+DTSTAMP:20270321T140000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Ipswich Town – Burnley
+DESCRIPTION:Women's Championship · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609472@anstoss
+DTSTAMP:20270321T140000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Wolverhampton – Bristol City
+DESCRIPTION:Women's Championship · 17. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609470@anstoss
+DTSTAMP:20270321T140000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Southampton – Watford
+DESCRIPTION:Women's Championship · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609473@anstoss
+DTSTAMP:20270326T193000Z
+DTSTART:20270326T193000Z
+DTEND:20270326T213000Z
+SUMMARY:Watford – Nottingham Forest
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609474@anstoss
+DTSTAMP:20270327T140000Z
+DTSTART:20270327T140000Z
+DTEND:20270327T160000Z
+SUMMARY:Burnley – Wolverhampton
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609475@anstoss
+DTSTAMP:20270328T110000Z
+DTSTART:20270328T110000Z
+DTEND:20270328T130000Z
+SUMMARY:Southampton – Durham
+DESCRIPTION:Women's Championship · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609476@anstoss
+DTSTAMP:20270328T130000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T150000Z
+SUMMARY:Bristol City – Ipswich Town
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609477@anstoss
+DTSTAMP:20270328T130000Z
+DTSTART:20270328T130000Z
+DTEND:20270328T150000Z
+SUMMARY:Newcastle United – Sunderland
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609478@anstoss
+DTSTAMP:20270328T140000Z
+DTSTART:20270328T140000Z
+DTEND:20270328T160000Z
+SUMMARY:Leicester City FC – Sheffield United
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609479@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Bristol City – Burnley
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609482@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Sunderland – Sheffield United
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609480@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Ipswich Town – Leicester City FC
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609484@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Wolverhampton – Southampton
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609481@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Nottingham Forest – Durham
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609481.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609483@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Watford – Newcastle United
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609485@anstoss
+DTSTAMP:20270410T170000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T190000Z
+SUMMARY:Sheffield United – Wolverhampton
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609486@anstoss
+DTSTAMP:20270411T110000Z
+DTSTART:20270411T110000Z
+DTEND:20270411T130000Z
+SUMMARY:Durham – Watford
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609487@anstoss
+DTSTAMP:20270411T130000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Burnley – Nottingham Forest
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609489@anstoss
+DTSTAMP:20270411T130000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Southampton – Sunderland
+DESCRIPTION:Women's Championship · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609488@anstoss
+DTSTAMP:20270411T130000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Newcastle United – Ipswich Town
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609488.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609490@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART:20270411T140000Z
+DTEND:20270411T160000Z
+SUMMARY:Leicester City FC – Bristol City
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609491@anstoss
+DTSTAMP:20270501T110000Z
+DTSTART:20270501T110000Z
+DTEND:20270501T130000Z
+SUMMARY:Watford – Sheffield United
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:Grosvenor Vale\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609492@anstoss
+DTSTAMP:20270501T163000Z
+DTSTART:20270501T163000Z
+DTEND:20270501T183000Z
+SUMMARY:Bristol City – Durham
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609494@anstoss
+DTSTAMP:20270502T130000Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Ipswich Town – Southampton
+DESCRIPTION:Women's Championship · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609493@anstoss
+DTSTAMP:20270502T130000Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Burnley – Newcastle United
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609495@anstoss
+DTSTAMP:20270502T130000Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Nottingham Forest – Wolverhampton
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609496@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART:20270502T140000Z
+DTEND:20270502T160000Z
+SUMMARY:Leicester City FC – Sunderland
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609501@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Sunderland – Watford
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609497@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Durham – Burnley
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609499@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Sheffield United – Nottingham Forest
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609502@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Wolverhampton – Ipswich Town
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609500@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Southampton – Leicester City FC
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609498@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Newcastle United – Bristol City
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609498.ht
+ ml
+END:VEVENT
+END:VCALENDAR

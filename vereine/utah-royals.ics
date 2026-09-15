@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Utah Royals
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508358@anstoss
+DTSTAMP:20260314T200000Z
+DTSTART:20260314T200000Z
+DTEND:20260314T220000Z
+SUMMARY:Kansas City – Utah Royals 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508371@anstoss
+DTSTAMP:20260322T230000Z
+DTSTART:20260322T230000Z
+DTEND:20260323T010000Z
+SUMMARY:Utah Royals – San Diego Wave 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Rio Tinto Stadium\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508373@anstoss
+DTSTAMP:20260325T230000Z
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+SUMMARY:Washington Spirit – Utah Royals 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field\, Washington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508378@anstoss
+DTSTAMP:20260328T160000Z
+DTSTART:20260328T160000Z
+DTEND:20260328T180000Z
+SUMMARY:Boston Legacy – Utah Royals 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium\, Foxborough
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508388@anstoss
+DTSTAMP:20260404T010000Z
+DTSTART:20260404T010000Z
+DTEND:20260404T030000Z
+SUMMARY:Utah Royals – Chicago Red Stars 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Rio Tinto Stadium\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508400@anstoss
+DTSTAMP:20260427T000000Z
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+SUMMARY:Seattle Reign FC – Utah Royals 0:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lumen Field\, Seattle
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508408@anstoss
+DTSTAMP:20260503T004500Z
+DTSTART:20260503T004500Z
+DTEND:20260503T024500Z
+SUMMARY:Angel City – Utah Royals 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium\, Los Angeles
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508413@anstoss
+DTSTAMP:20260507T020000Z
+DTSTART:20260507T020000Z
+DTEND:20260507T040000Z
+SUMMARY:Utah Royals – Houston Dash 2:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Rio Tinto Stadium\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508420@anstoss
+DTSTAMP:20260510T200000Z
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+SUMMARY:Bay FC – Utah Royals 0:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park\, San Jose
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508430@anstoss
+DTSTAMP:20260518T000000Z
+DTSTART:20260518T000000Z
+DTEND:20260518T020000Z
+SUMMARY:Utah Royals – Racing Louisville 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508436@anstoss
+DTSTAMP:20260523T223000Z
+DTSTART:20260523T223000Z
+DTEND:20260524T003000Z
+SUMMARY:Utah Royals – Denver Summit 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508444@anstoss
+DTSTAMP:20260530T200000Z
+DTSTART:20260530T200000Z
+DTEND:20260530T220000Z
+SUMMARY:Portland Thorns – Utah Royals 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park\, Portland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508444.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508455@anstoss
+DTSTAMP:20260705T210000Z
+DTSTART:20260705T210000Z
+DTEND:20260705T230000Z
+SUMMARY:Chicago Red Stars – Utah Royals 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:SeatGeek Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508460@anstoss
+DTSTAMP:20260711T020000Z
+DTSTART:20260711T020000Z
+DTEND:20260711T040000Z
+SUMMARY:Utah Royals – NJ/NY Gotham FC 1:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508473@anstoss
+DTSTAMP:20260719T004500Z
+DTSTART:20260719T004500Z
+DTEND:20260719T024500Z
+SUMMARY:Utah Royals – Orlando Pride 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508479@anstoss
+DTSTAMP:20260725T234500Z
+DTSTART:20260725T234500Z
+DTEND:20260726T014500Z
+SUMMARY:North Carolina Courage – Utah Royals 1:4
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508484@anstoss
+DTSTAMP:20260730T010000Z
+DTSTART:20260730T010000Z
+DTEND:20260730T030000Z
+SUMMARY:Utah Royals – Washington Spirit 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508492@anstoss
+DTSTAMP:20260802T230000Z
+DTSTART:20260802T230000Z
+DTEND:20260803T010000Z
+SUMMARY:Utah Royals – Portland Thorns 5:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508496@anstoss
+DTSTAMP:20260809T020000Z
+DTSTART:20260809T020000Z
+DTEND:20260809T040000Z
+SUMMARY:Denver Summit – Utah Royals 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508506@anstoss
+DTSTAMP:20260815T020000Z
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:Utah Royals – Bay FC 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508506.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508513@anstoss
+DTSTAMP:20260822T020000Z
+DTSTART:20260822T020000Z
+DTEND:20260822T040000Z
+SUMMARY:San Diego Wave – Utah Royals 4:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508525@anstoss
+DTSTAMP:20260829T230000Z
+DTSTART:20260829T230000Z
+DTEND:20260830T010000Z
+SUMMARY:Orlando Pride – Utah Royals 1:2
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508525.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508530@anstoss
+DTSTAMP:20260905T013000Z
+DTSTART:20260905T013000Z
+DTEND:20260905T033000Z
+SUMMARY:Utah Royals – Boston Legacy 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508530.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508543@anstoss
+DTSTAMP:20260913T004500Z
+DTSTART:20260913T004500Z
+DTEND:20260913T024500Z
+SUMMARY:Houston Dash – Utah Royals 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508555@anstoss
+DTSTAMP:20260920T230000Z
+DTSTART:20260920T230000Z
+DTEND:20260921T010000Z
+SUMMARY:Utah Royals – Angel City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508563@anstoss
+DTSTAMP:20260927T230000Z
+DTSTART:20260927T230000Z
+DTEND:20260928T010000Z
+SUMMARY:Utah Royals – North Carolina Courage
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508563.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508566@anstoss
+DTSTAMP:20261003T200000Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Racing Louisville – Utah Royals
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508574@anstoss
+DTSTAMP:20261017T223000Z
+DTSTART:20261017T223000Z
+DTEND:20261018T003000Z
+SUMMARY:Utah Royals – Kansas City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508574.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508581@anstoss
+DTSTAMP:20261024T013000Z
+DTSTART:20261024T013000Z
+DTEND:20261024T033000Z
+SUMMARY:Utah Royals – Seattle Reign FC
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508581.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508590@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:NJ/NY Gotham FC – Utah Royals
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508590.ht
+ ml
+END:VEVENT
+END:VCALENDAR

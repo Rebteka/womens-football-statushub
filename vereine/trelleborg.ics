@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trelleborg
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501353@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Häcken II – Trelleborg 2:4
+DESCRIPTION:Elitettan · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501364@anstoss
+DTSTAMP:20260404T120000Z
+DTSTART:20260404T120000Z
+DTEND:20260404T140000Z
+SUMMARY:Trelleborg – Sandviken 1:0
+DESCRIPTION:Elitettan · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503697@anstoss
+DTSTAMP:20260426T120000Z
+DTSTART:20260426T120000Z
+DTEND:20260426T140000Z
+SUMMARY:Trelleborg – Enskede 1:3
+DESCRIPTION:Elitettan · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501377@anstoss
+DTSTAMP:20260503T110000Z
+DTSTART:20260503T110000Z
+DTEND:20260503T130000Z
+SUMMARY:KIF Örebro – Trelleborg 2:1
+DESCRIPTION:Elitettan · 4. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501386@anstoss
+DTSTAMP:20260509T130000Z
+DTSTART:20260509T130000Z
+DTEND:20260509T150000Z
+SUMMARY:Trelleborg – Alingsås 1:0
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501391@anstoss
+DTSTAMP:20260516T130000Z
+DTSTART:20260516T130000Z
+DTEND:20260516T150000Z
+SUMMARY:Jitex – Trelleborg 4:1
+DESCRIPTION:Elitettan · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501400@anstoss
+DTSTAMP:20260523T120000Z
+DTSTART:20260523T120000Z
+DTEND:20260523T140000Z
+SUMMARY:Trelleborg – Husqvarna 3:0
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501407@anstoss
+DTSTAMP:20260530T100000Z
+DTSTART:20260530T100000Z
+DTEND:20260530T120000Z
+SUMMARY:Umeå – Trelleborg 0:2
+DESCRIPTION:Elitettan · 8. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501413@anstoss
+DTSTAMP:20260614T120000Z
+DTSTART:20260614T120000Z
+DTEND:20260614T140000Z
+SUMMARY:Trelleborg – Örebro SK 2:1
+DESCRIPTION:Elitettan · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501415@anstoss
+DTSTAMP:20260621T140000Z
+DTSTART:20260621T140000Z
+DTEND:20260621T160000Z
+SUMMARY:Göteborg – Trelleborg 3:1
+DESCRIPTION:Elitettan · 10. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501428@anstoss
+DTSTAMP:20260725T130000Z
+DTSTART:20260725T130000Z
+DTEND:20260725T150000Z
+SUMMARY:Trelleborg – Linköping 1:1
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501428.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501430@anstoss
+DTSTAMP:20260801T130000Z
+DTSTART:20260801T130000Z
+DTEND:20260801T150000Z
+SUMMARY:Elfsborg – Trelleborg 0:0
+DESCRIPTION:Elitettan · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501442@anstoss
+DTSTAMP:20260808T120000Z
+DTSTART:20260808T120000Z
+DTEND:20260808T140000Z
+SUMMARY:Trelleborg – Gamla Upsala 4:4
+DESCRIPTION:Elitettan · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501444@anstoss
+DTSTAMP:20260816T120000Z
+DTSTART:20260816T120000Z
+DTEND:20260816T140000Z
+SUMMARY:Gamla Upsala – Trelleborg 0:1
+DESCRIPTION:Elitettan · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501444.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501455@anstoss
+DTSTAMP:20260822T120000Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:Trelleborg – Göteborg 0:4
+DESCRIPTION:Elitettan · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501460@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Husqvarna – Trelleborg 1:0
+DESCRIPTION:Elitettan · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501469@anstoss
+DTSTAMP:20260905T120000Z
+DTSTART:20260905T120000Z
+DTEND:20260905T140000Z
+SUMMARY:Trelleborg – KIF Örebro 2:2
+DESCRIPTION:Elitettan · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501476@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Sandviken – Trelleborg 0:0
+DESCRIPTION:Elitettan · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501483@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Trelleborg – Häcken II
+DESCRIPTION:Elitettan · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501485@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:Alingsås – Trelleborg
+DESCRIPTION:Elitettan · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501497@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Trelleborg – Elfsborg
+DESCRIPTION:Elitettan · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501497.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503716@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Enskede – Trelleborg
+DESCRIPTION:Elitettan · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501512@anstoss
+DTSTAMP:20261024T110000Z
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
+SUMMARY:Trelleborg – Umeå
+DESCRIPTION:Elitettan · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501512.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501517@anstoss
+DTSTAMP:20261031T150000Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Linköping – Trelleborg
+DESCRIPTION:Elitettan · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501517.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501524@anstoss
+DTSTAMP:20261108T120000Z
+DTSTART:20261108T120000Z
+DTEND:20261108T140000Z
+SUMMARY:Örebro SK – Trelleborg
+DESCRIPTION:Elitettan · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501524.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501533@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Trelleborg – Jitex
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501533.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cruz Azul
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603300@anstoss
+DTSTAMP:20260801T010000Z
+DTSTART:20260801T010000Z
+DTEND:20260801T030000Z
+SUMMARY:Cruz Azul – Atlas 3:1
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603310@anstoss
+DTSTAMP:20260808T220000Z
+DTSTART:20260808T220000Z
+DTEND:20260809T000000Z
+SUMMARY:América – Cruz Azul 10:0
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603318@anstoss
+DTSTAMP:20260815T010000Z
+DTSTART:20260815T010000Z
+DTEND:20260815T030000Z
+SUMMARY:Cruz Azul – Atlante 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603330@anstoss
+DTSTAMP:20260823T000000Z
+DTSTART:20260823T000000Z
+DTEND:20260823T020000Z
+SUMMARY:Cruz Azul – Tigres UANL 0:3
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603339@anstoss
+DTSTAMP:20260830T031000Z
+DTSTART:20260830T031000Z
+DTEND:20260830T051000Z
+SUMMARY:Juárez – Cruz Azul 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603350@anstoss
+DTSTAMP:20260906T220000Z
+DTSTART:20260906T220000Z
+DTEND:20260907T000000Z
+SUMMARY:Querétaro – Cruz Azul 0:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603354@anstoss
+DTSTAMP:20260912T010000Z
+DTSTART:20260912T010000Z
+DTEND:20260912T030000Z
+SUMMARY:Cruz Azul – Pumas UNAM 3:2
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603371@anstoss
+DTSTAMP:20260922T010600Z
+DTSTART:20260922T010600Z
+DTEND:20260922T030600Z
+SUMMARY:Santos Laguna – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603372@anstoss
+DTSTAMP:20260926T010000Z
+DTSTART:20260926T010000Z
+DTEND:20260926T030000Z
+SUMMARY:Cruz Azul – Guadalajara
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603387@anstoss
+DTSTAMP:20261004T031000Z
+DTSTART:20261004T031000Z
+DTEND:20261004T051000Z
+SUMMARY:Necaxa – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603391@anstoss
+DTSTAMP:20261018T010000Z
+DTSTART:20261018T010000Z
+DTEND:20261018T030000Z
+SUMMARY:Monterrey – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603402@anstoss
+DTSTAMP:20261025T020000Z
+DTSTART:20261025T020000Z
+DTEND:20261025T040000Z
+SUMMARY:Cruz Azul – Toluca
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603411@anstoss
+DTSTAMP:20261031T230000Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Tijuana – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603423@anstoss
+DTSTAMP:20261107T010000Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Cruz Azul – León
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603423.ht
+ ml
+END:VEVENT
+END:VCALENDAR

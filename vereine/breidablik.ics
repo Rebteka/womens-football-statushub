@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Breidablik
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1332842@anstoss
+DTSTAMP:20250415T180000Z
+DTSTART:20250415T180000Z
+DTEND:20250415T200000Z
+SUMMARY:Breidablik – Stjarnan 6:1
+DESCRIPTION:Úrvalsdeild Women · 1. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332842.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332849@anstoss
+DTSTAMP:20250422T180000Z
+DTSTART:20250422T180000Z
+DTEND:20250422T200000Z
+SUMMARY:Thróttur Reykjavík – Breidablik 2:2
+DESCRIPTION:Úrvalsdeild Women · 2. Spieltag
+LOCATION:AVIS völlurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332849.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332916@anstoss
+DTSTAMP:20250429T180000Z
+DTSTART:20250429T180000Z
+DTEND:20250429T200000Z
+SUMMARY:Breidablik – Fram 7:1
+DESCRIPTION:Úrvalsdeild Women · 3. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332854@anstoss
+DTSTAMP:20250503T140000Z
+DTSTART:20250503T140000Z
+DTEND:20250503T160000Z
+SUMMARY:Breidablik – Víkingur Reykjavík 4:0
+DESCRIPTION:Úrvalsdeild Women · 4. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332854.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332858@anstoss
+DTSTAMP:20250508T163000Z
+DTSTART:20250508T163000Z
+DTEND:20250508T183000Z
+SUMMARY:Tindastóll – Breidablik 1:5
+DESCRIPTION:Úrvalsdeild Women · 5. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332858.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332862@anstoss
+DTSTAMP:20250516T180000Z
+DTSTART:20250516T180000Z
+DTEND:20250516T200000Z
+SUMMARY:Breidablik – Valur 4:0
+DESCRIPTION:Úrvalsdeild Women · 6. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332862.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332866@anstoss
+DTSTAMP:20250523T180000Z
+DTSTART:20250523T180000Z
+DTEND:20250523T200000Z
+SUMMARY:FH – Breidablik 2:1
+DESCRIPTION:Úrvalsdeild Women · 7. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332866.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332871@anstoss
+DTSTAMP:20250607T140000Z
+DTSTART:20250607T140000Z
+DTEND:20250607T160000Z
+SUMMARY:Breidablik – Fjard / Hött / Leiknir 6:0
+DESCRIPTION:Úrvalsdeild Women · 8. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332877@anstoss
+DTSTAMP:20250616T170000Z
+DTSTART:20250616T170000Z
+DTEND:20250616T190000Z
+SUMMARY:Thór / KA – Breidablik 0:2
+DESCRIPTION:Úrvalsdeild Women · 9. Spieltag
+LOCATION:Boginn\, Akureyri
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332877.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332878@anstoss
+DTSTAMP:20250621T140000Z
+DTSTART:20250621T140000Z
+DTEND:20250621T160000Z
+SUMMARY:Stjarnan – Breidablik 0:3
+DESCRIPTION:Úrvalsdeild Women · 10. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332878.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332883@anstoss
+DTSTAMP:20250724T180000Z
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+SUMMARY:Breidablik – Thróttur Reykjavík 3:1
+DESCRIPTION:Úrvalsdeild Women · 11. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332883.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332898@anstoss
+DTSTAMP:20250728T180000Z
+DTSTART:20250728T180000Z
+DTEND:20250728T200000Z
+SUMMARY:Valur – Breidablik (verlegt)
+DESCRIPTION:Úrvalsdeild Women · 15. Spieltag
+LOCATION:N1-völlurinn Hlíðarenda\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332925@anstoss
+DTSTAMP:20250807T180000Z
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+SUMMARY:Fram – Breidablik 1:6
+DESCRIPTION:Úrvalsdeild Women · 12. Spieltag
+LOCATION:Lambhagavöllurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332925.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332893@anstoss
+DTSTAMP:20250812T180000Z
+DTSTART:20250812T180000Z
+DTEND:20250812T200000Z
+SUMMARY:Víkingur Reykjavík – Breidablik 2:4
+DESCRIPTION:Úrvalsdeild Women · 13. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332895@anstoss
+DTSTAMP:20250820T180000Z
+DTSTART:20250820T180000Z
+DTEND:20250820T200000Z
+SUMMARY:Breidablik – Tindastóll 5:0
+DESCRIPTION:Úrvalsdeild Women · 14. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332904@anstoss
+DTSTAMP:20250904T191500Z
+DTSTART:20250904T191500Z
+DTEND:20250904T211500Z
+SUMMARY:Breidablik – FH 2:1
+DESCRIPTION:Úrvalsdeild Women · 16. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332908@anstoss
+DTSTAMP:20250914T140000Z
+DTSTART:20250914T140000Z
+DTEND:20250914T160000Z
+SUMMARY:Fjard / Hött / Leiknir – Breidablik 1:5
+DESCRIPTION:Úrvalsdeild Women · 17. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332910@anstoss
+DTSTAMP:20250920T140000Z
+DTSTART:20250920T140000Z
+DTEND:20250920T160000Z
+SUMMARY:Breidablik – Thór / KA 9:2
+DESCRIPTION:Úrvalsdeild Women · 18. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544337@anstoss
+DTSTAMP:20250925T180000Z
+DTSTART:20250925T180000Z
+DTEND:20250925T200000Z
+SUMMARY:Breidablik – Stjarnan 1:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544341@anstoss
+DTSTAMP:20250930T180000Z
+DTSTART:20250930T180000Z
+DTEND:20250930T200000Z
+SUMMARY:Thróttur Reykjavík – Breidablik 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544343@anstoss
+DTSTAMP:20251003T180000Z
+DTSTART:20251003T180000Z
+DTEND:20251003T200000Z
+SUMMARY:Breidablik – Víkingur Reykjavík 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544351@anstoss
+DTSTAMP:20251011T140000Z
+DTSTART:20251011T140000Z
+DTEND:20251011T160000Z
+SUMMARY:Valur – Breidablik 1:1
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544355@anstoss
+DTSTAMP:20251018T140000Z
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+SUMMARY:Breidablik – FH 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558458@anstoss
+DTSTAMP:20260804T140000Z
+DTSTART:20260804T140000Z
+DTEND:20260804T160000Z
+SUMMARY:Breidablik – Aktobe 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611281@anstoss
+DTSTAMP:20260807T070000Z
+DTSTART:20260807T070000Z
+DTEND:20260807T090000Z
+SUMMARY:Breidablik – Dinamo-BGU 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Sp
+ iel um Platz 3
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611281.ht
+ ml
+END:VEVENT
+END:VCALENDAR

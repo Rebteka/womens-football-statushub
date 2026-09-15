@@ -1,0 +1,291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HJK
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539018@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:VIFK – HJK 0:1
+DESCRIPTION:Kansallinen Liiga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539022@anstoss
+DTSTAMP:20260402T160000Z
+DTSTART:20260402T160000Z
+DTEND:20260402T180000Z
+SUMMARY:HJK – Åland United 3:2
+DESCRIPTION:Kansallinen Liiga · 2. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539028@anstoss
+DTSTAMP:20260425T130000Z
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+SUMMARY:HJK – Ilves 2:1
+DESCRIPTION:Kansallinen Liiga · 3. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539030@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:KuPS – HJK 2:1
+DESCRIPTION:Kansallinen Liiga · 4. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539036@anstoss
+DTSTAMP:20260509T130000Z
+DTSTART:20260509T130000Z
+DTEND:20260509T150000Z
+SUMMARY:HJK – IF Gnistan 5:0
+DESCRIPTION:Kansallinen Liiga · 5. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539040@anstoss
+DTSTAMP:20260517T140000Z
+DTSTART:20260517T140000Z
+DTEND:20260517T160000Z
+SUMMARY:HPS – HJK 1:2
+DESCRIPTION:Kansallinen Liiga · 6. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539040.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539044@anstoss
+DTSTAMP:20260523T110000Z
+DTSTART:20260523T110000Z
+DTEND:20260523T130000Z
+SUMMARY:HJK – PK-35 Vantaa 5:0
+DESCRIPTION:Kansallinen Liiga · 7. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539046@anstoss
+DTSTAMP:20260529T153000Z
+DTSTART:20260529T153000Z
+DTEND:20260529T173000Z
+SUMMARY:HJK – VIFK 4:0
+DESCRIPTION:Kansallinen Liiga · 8. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539051@anstoss
+DTSTAMP:20260612T160000Z
+DTSTART:20260612T160000Z
+DTEND:20260612T180000Z
+SUMMARY:Åland United – HJK 2:3
+DESCRIPTION:Kansallinen Liiga · 9. Spieltag
+LOCATION:Wiklöf Holding Arena\, Marie Harbor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539051.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539056@anstoss
+DTSTAMP:20260627T153000Z
+DTSTART:20260627T153000Z
+DTEND:20260627T173000Z
+SUMMARY:Ilves – HJK 1:3
+DESCRIPTION:Kansallinen Liiga · 10. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539056.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539060@anstoss
+DTSTAMP:20260704T140000Z
+DTSTART:20260704T140000Z
+DTEND:20260704T160000Z
+SUMMARY:HJK – KuPS 2:0
+DESCRIPTION:Kansallinen Liiga · 11. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539060.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539064@anstoss
+DTSTAMP:20260712T130000Z
+DTSTART:20260712T130000Z
+DTEND:20260712T150000Z
+SUMMARY:IF Gnistan – HJK 0:1
+DESCRIPTION:Kansallinen Liiga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539064.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539069@anstoss
+DTSTAMP:20260719T130000Z
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:HJK – HPS 4:0
+DESCRIPTION:Kansallinen Liiga · 13. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539069.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539071@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:PK-35 Vantaa – HJK 0:2
+DESCRIPTION:Kansallinen Liiga · 14. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539071.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558463@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Racing – HJK 0:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612444@anstoss
+DTSTAMP:20260808T170000Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:PSV/Eindhoven – HJK 3:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612444.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612459@anstoss
+DTSTAMP:20260812T160000Z
+DTSTART:20260812T160000Z
+DTEND:20260812T180000Z
+SUMMARY:IF Gnistan – HJK 1:3
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612462@anstoss
+DTSTAMP:20260817T153000Z
+DTSTART:20260817T153000Z
+DTEND:20260817T173000Z
+SUMMARY:HJK – KuPS 0:1
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 2. Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612463@anstoss
+DTSTAMP:20260821T160000Z
+DTSTART:20260821T160000Z
+DTEND:20260821T180000Z
+SUMMARY:HPS – HJK 3:3
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 3. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612466@anstoss
+DTSTAMP:20260829T160000Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:HJK – Åland United 2:1
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 4. Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612471@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Ilves – HJK
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612477@anstoss
+DTSTAMP:20260919T150000Z
+DTSTART:20260919T150000Z
+DTEND:20260919T170000Z
+SUMMARY:HJK – IF Gnistan
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612480@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:KuPS – HJK
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612483@anstoss
+DTSTAMP:20261004T153000Z
+DTSTART:20261004T153000Z
+DTEND:20261004T173000Z
+SUMMARY:HJK – HPS
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612484@anstoss
+DTSTAMP:20261017T150000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T170000Z
+SUMMARY:Åland United – HJK
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612489@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HJK – Ilves
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag ·
+  Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612489.ht
+ ml
+END:VEVENT
+END:VCALENDAR

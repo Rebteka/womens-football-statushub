@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Finnland
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523823@anstoss
+DTSTAMP:20260303T184500Z
+DTSTART:20260303T184500Z
+DTEND:20260303T204500Z
+SUMMARY:Portugal – Finnland 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523823.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523849@anstoss
+DTSTAMP:20260307T123000Z
+DTSTART:20260307T123000Z
+DTEND:20260307T143000Z
+SUMMARY:Finnland – Latvia 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523849.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523874@anstoss
+DTSTAMP:20260414T153000Z
+DTSTART:20260414T153000Z
+DTEND:20260414T173000Z
+SUMMARY:Finnland – Slowakei 4:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523899@anstoss
+DTSTAMP:20260418T170000Z
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+SUMMARY:Latvia – Finnland 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523924@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Slowakei – Finnland 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523924.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523948@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Finnland – Portugal 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523948.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557247@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Finnland – Serbia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557268@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Serbia – Finnland
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557268.ht
+ ml
+END:VEVENT
+END:VCALENDAR

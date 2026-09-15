@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santos Laguna
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603308@anstoss
+DTSTAMP:20260804T010600Z
+DTSTART:20260804T010600Z
+DTEND:20260804T030600Z
+SUMMARY:Santos Laguna – América 0:3
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603311@anstoss
+DTSTAMP:20260808T230000Z
+DTSTART:20260808T230000Z
+DTEND:20260809T010000Z
+SUMMARY:Querétaro – Santos Laguna 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603326@anstoss
+DTSTAMP:20260818T010600Z
+DTSTART:20260818T010600Z
+DTEND:20260818T030600Z
+SUMMARY:Santos Laguna – Monterrey 1:4
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603329@anstoss
+DTSTAMP:20260823T010600Z
+DTSTART:20260823T010600Z
+DTEND:20260823T030600Z
+SUMMARY:Juárez – Santos Laguna 3:2
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603329.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603344@anstoss
+DTSTAMP:20260901T010600Z
+DTSTART:20260901T010600Z
+DTEND:20260901T030600Z
+SUMMARY:Santos Laguna – Atlante 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603351@anstoss
+DTSTAMP:20260907T000600Z
+DTSTART:20260907T000600Z
+DTEND:20260907T020600Z
+SUMMARY:Tigres UANL – Santos Laguna 3:0
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603359@anstoss
+DTSTAMP:20260913T230000Z
+DTSTART:20260913T230000Z
+DTEND:20260914T010000Z
+SUMMARY:Atlético San Luis – Santos Laguna 2:3
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603371@anstoss
+DTSTAMP:20260922T010600Z
+DTSTART:20260922T010600Z
+DTEND:20260922T030600Z
+SUMMARY:Santos Laguna – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603374@anstoss
+DTSTAMP:20260926T230000Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:Pachuca – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603381@anstoss
+DTSTAMP:20261002T230000Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+SUMMARY:Santos Laguna – Puebla
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603397@anstoss
+DTSTAMP:20261020T000000Z
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
+SUMMARY:Toluca – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603407@anstoss
+DTSTAMP:20261027T010600Z
+DTSTART:20261027T010600Z
+DTEND:20261027T030600Z
+SUMMARY:Santos Laguna – León
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603413@anstoss
+DTSTAMP:20261101T031000Z
+DTSTART:20261101T031000Z
+DTEND:20261101T051000Z
+SUMMARY:Necaxa – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603420@anstoss
+DTSTAMP:20261106T031000Z
+DTSTART:20261106T031000Z
+DTEND:20261106T051000Z
+SUMMARY:Santos Laguna – Tijuana
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603420.ht
+ ml
+END:VEVENT
+END:VCALENDAR

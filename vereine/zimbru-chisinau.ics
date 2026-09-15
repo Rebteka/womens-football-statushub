@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zimbru Chisinau
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558472@anstoss
+DTSTAMP:20260722T143000Z
+DTSTART:20260722T143000Z
+DTEND:20260722T163000Z
+SUMMARY:Mitrovica – Zimbru Chisinau 10:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Kampi Nacional\, Hajvalia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600540@anstoss
+DTSTAMP:20260725T143000Z
+DTSTART:20260725T143000Z
+DTEND:20260725T163000Z
+SUMMARY:KÍ – Zimbru Chisinau 4:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Kampi Nacional Hajvalia\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600540.ht
+ ml
+END:VEVENT
+END:VCALENDAR

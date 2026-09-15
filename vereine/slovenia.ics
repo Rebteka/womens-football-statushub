@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Slovenia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523813@anstoss
+DTSTAMP:20260303T164500Z
+DTSTART:20260303T164500Z
+DTEND:20260303T184500Z
+SUMMARY:Deutschland – Slovenia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Rudolf-Harbig-Stadion\, Dresden
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523813.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523839@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Slovenia – Österreich 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Bonifika\, Koper
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523839.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523864@anstoss
+DTSTAMP:20260414T160000Z
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+SUMMARY:Norwegen – Slovenia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523889@anstoss
+DTSTAMP:20260418T150000Z
+DTSTART:20260418T150000Z
+DTEND:20260418T170000Z
+SUMMARY:Slovenia – Norwegen 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Mestni stadion Ptuj\, Ptuj
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523914@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Österreich – Slovenia 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Sportclub-Platz\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523914.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523938@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Slovenia – Deutschland 0:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stadion Stozice\, Ljubljana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523938.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557257@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Turkey – Slovenia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557257.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557269@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Slovenia – Turkey
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557269.ht
+ ml
+END:VEVENT
+END:VCALENDAR

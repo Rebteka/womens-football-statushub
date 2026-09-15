@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Le Havre
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1580928@anstoss
+DTSTAMP:20260905T190000Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:Marseille – Le Havre 1:0
+DESCRIPTION:Première Ligue · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581002@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Toulouse – Le Havre 1:2
+DESCRIPTION:Première Ligue · 2. Spieltag
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580933@anstoss
+DTSTAMP:20260918T170000Z
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+SUMMARY:Le Havre – Lyon
+DESCRIPTION:Première Ligue · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580933.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581004@anstoss
+DTSTAMP:20261003T160000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Le Havre – Saint-Malo
+DESCRIPTION:Première Ligue · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580941@anstoss
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Montpellier – Le Havre
+DESCRIPTION:Première Ligue · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580941.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585114@anstoss
+DTSTAMP:20261024T160000Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Le Havre – Lens
+DESCRIPTION:Première Ligue · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580949@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Strasbourg – Le Havre
+DESCRIPTION:Première Ligue · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580952@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Paris Saint Germain – Le Havre
+DESCRIPTION:Première Ligue · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580953@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Le Havre – Paris FC
+DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580956@anstoss
+DTSTAMP:20261121T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Le Havre – Nantes
+DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580959@anstoss
+DTSTAMP:20261212T160000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:FC Fleury 91 – Le Havre
+DESCRIPTION:Première Ligue · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581018@anstoss
+DTSTAMP:20261219T160000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Le Havre – Toulouse
+DESCRIPTION:Première Ligue · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580966@anstoss
+DTSTAMP:20270116T160000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Le Havre – Marseille
+DESCRIPTION:Première Ligue · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580969@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Lyon – Le Havre
+DESCRIPTION:Première Ligue · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580969.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580973@anstoss
+DTSTAMP:20270206T160000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Le Havre – Strasbourg
+DESCRIPTION:Première Ligue · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581026@anstoss
+DTSTAMP:20270220T160000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Saint-Malo – Le Havre
+DESCRIPTION:Première Ligue · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585125@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Lens – Le Havre
+DESCRIPTION:Première Ligue · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Degouve-Brabant Stadium\, Arras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580982@anstoss
+DTSTAMP:20270320T160000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Le Havre – Montpellier
+DESCRIPTION:Première Ligue · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580982.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580986@anstoss
+DTSTAMP:20270327T160000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Le Havre – FC Fleury 91
+DESCRIPTION:Première Ligue · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580991@anstoss
+DTSTAMP:20270407T150000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Paris FC – Le Havre
+DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580994@anstoss
+DTSTAMP:20270501T150000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Nantes – Le Havre
+DESCRIPTION:Première Ligue · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Marcel Saupin\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580994.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580997@anstoss
+DTSTAMP:20270504T150000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Le Havre – Paris Saint Germain
+DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580997.ht
+ ml
+END:VEVENT
+END:VCALENDAR

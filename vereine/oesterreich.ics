@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Österreich
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523814@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Österreich – Norwegen 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523814.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523839@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Slovenia – Österreich 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Bonifika\, Koper
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523839.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523863@anstoss
+DTSTAMP:20260414T161500Z
+DTSTART:20260414T161500Z
+DTEND:20260414T181500Z
+SUMMARY:Deutschland – Österreich 5:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523888@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Österreich – Deutschland 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Josko Arena\, Ried
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523914@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Österreich – Slovenia 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Sportclub-Platz\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523914.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523939@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Norwegen – Österreich 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523939.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557252@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Kosovo – Österreich
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557258@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Österreich – Kosovo
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557258.ht
+ ml
+END:VEVENT
+END:VCALENDAR

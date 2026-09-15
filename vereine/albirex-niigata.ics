@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Albirex Niigata
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1560926@anstoss
+DTSTAMP:20260823T090000Z
+DTSTART:20260823T090000Z
+DTEND:20260823T110000Z
+SUMMARY:Cerezo Osaka – Albirex Niigata 1:1
+DESCRIPTION:WE League · 1. Spieltag
+LOCATION:Yodoko Sakura Stadium\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560926.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560931@anstoss
+DTSTAMP:20260830T090000Z
+DTSTART:20260830T090000Z
+DTEND:20260830T110000Z
+SUMMARY:Albirex Niigata – Vegalta Sendai 3:2
+DESCRIPTION:WE League · 2. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560931.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560940@anstoss
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T110000Z
+SUMMARY:Omiya Ardija Ventus – Albirex Niigata 2:1
+DESCRIPTION:WE League · 3. Spieltag
+LOCATION:NACK5 Stadium Omiya\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560943@anstoss
+DTSTAMP:20261017T040000Z
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+SUMMARY:Albirex Niigata – Parceiro Nagano
+DESCRIPTION:WE League · 4. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560943.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560951@anstoss
+DTSTAMP:20261021T093000Z
+DTSTART:20261021T093000Z
+DTEND:20261021T113000Z
+SUMMARY:Nojima Stella – Albirex Niigata
+DESCRIPTION:WE League · 5. Spieltag
+LOCATION:Sagamihara Gion Stadium\, Sagamihara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560955@anstoss
+DTSTAMP:20261024T040000Z
+DTSTART:20261024T040000Z
+DTEND:20261024T060000Z
+SUMMARY:Albirex Niigata – JEF United
+DESCRIPTION:WE League · 6. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560962@anstoss
+DTSTAMP:20261101T040000Z
+DTSTART:20261101T040000Z
+DTEND:20261101T060000Z
+SUMMARY:Albirex Niigata – Urawa Reds
+DESCRIPTION:WE League · 7. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560973@anstoss
+DTSTAMP:20261114T060000Z
+DTSTART:20261114T060000Z
+DTEND:20261114T080000Z
+SUMMARY:Tokyo Verdy Beleza – Albirex Niigata
+DESCRIPTION:WE League · 9. Spieltag
+LOCATION:Ajinomoto Stadium\, Tokyo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560973.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560979@anstoss
+DTSTAMP:20261118T100000Z
+DTSTART:20261118T100000Z
+DTEND:20261118T120000Z
+SUMMARY:Albirex Niigata – Elfen Saitama
+DESCRIPTION:WE League · 10. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560985@anstoss
+DTSTAMP:20261123T040000Z
+DTSTART:20261123T040000Z
+DTEND:20261123T060000Z
+SUMMARY:Albirex Niigata – Sanfrecce Hiroshima
+DESCRIPTION:WE League · 11. Spieltag
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560985.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560972@anstoss
+DTSTAMP:20261209T030000Z
+DTSTART:20261209T030000Z
+DTEND:20261209T050000Z
+SUMMARY:INAC Kobe Leonessa – Albirex Niigata
+DESCRIPTION:WE League · 8. Spieltag
+LOCATION:Noevir Stadium\, Kobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560995@anstoss
+DTSTAMP:20270206T100000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Elfen Saitama – Albirex Niigata
+DESCRIPTION:WE League · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Kumagaya Athletic Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560995.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1560999@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:JEF United – Albirex Niigata
+DESCRIPTION:WE League · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Fukuda Denshi Arena\, Chiba
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1560999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561008@anstoss
+DTSTAMP:20270220T100000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Urawa Reds – Albirex Niigata
+DESCRIPTION:WE League · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Urawa Komaba Stadium\, Saitama
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561014@anstoss
+DTSTAMP:20270313T100000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Sanfrecce Hiroshima – Albirex Niigata
+DESCRIPTION:WE League · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Hiroshima Big Arch\, Hiroshima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561015@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Albirex Niigata – Omiya Ardija Ventus
+DESCRIPTION:WE League · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561024@anstoss
+DTSTAMP:20270327T100000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Vegalta Sendai – Albirex Niigata
+DESCRIPTION:WE League · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Yurtec Stadium Sendai\, Sendai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561027@anstoss
+DTSTAMP:20270403T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Albirex Niigata – Nojima Stella
+DESCRIPTION:WE League · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561033@anstoss
+DTSTAMP:20270410T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Albirex Niigata – Tokyo Verdy Beleza
+DESCRIPTION:WE League · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561039@anstoss
+DTSTAMP:20270429T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Albirex Niigata – INAC Kobe Leonessa
+DESCRIPTION:WE League · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561049@anstoss
+DTSTAMP:20270509T090000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Parceiro Nagano – Albirex Niigata
+DESCRIPTION:WE League · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Nagano U Stadium\, Nagano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561049.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1561051@anstoss
+DTSTAMP:20270515T090000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Albirex Niigata – Cerezo Osaka
+DESCRIPTION:WE League · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Denka Big Swan Stadium\, Niigata
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1561051.ht
+ ml
+END:VEVENT
+END:VCALENDAR

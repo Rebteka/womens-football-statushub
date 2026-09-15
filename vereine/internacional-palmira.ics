@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Internacional Palmira
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518013@anstoss
+DTSTAMP:20260216T210000Z
+DTSTART:20260216T210000Z
+DTEND:20260216T230000Z
+SUMMARY:Internacional Palmira – La Equidad 1:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524349@anstoss
+DTSTAMP:20260301T220000Z
+DTSTART:20260301T220000Z
+DTEND:20260302T000000Z
+SUMMARY:Deportivo Pasto – Internacional Palmira 2:3
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Departamental Libertad\, Pasto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524357@anstoss
+DTSTAMP:20260310T210000Z
+DTSTART:20260310T210000Z
+DTEND:20260310T230000Z
+SUMMARY:Internacional Palmira – Independiente Medellín 0:0
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524361@anstoss
+DTSTAMP:20260316T200000Z
+DTSTART:20260316T200000Z
+DTEND:20260316T220000Z
+SUMMARY:Real Santander – Internacional Palmira 1:2
+DESCRIPTION:Liga Femenina · 4. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524370@anstoss
+DTSTAMP:20260322T210000Z
+DTSTART:20260322T210000Z
+DTEND:20260322T230000Z
+SUMMARY:Internacional Palmira – Millonarios 1:1
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524378@anstoss
+DTSTAMP:20260329T210000Z
+DTSTART:20260329T210000Z
+DTEND:20260329T230000Z
+SUMMARY:Deportivo Cali – Internacional Palmira 0:1
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524387@anstoss
+DTSTAMP:20260412T203000Z
+DTSTART:20260412T203000Z
+DTEND:20260412T223000Z
+SUMMARY:Llaneros – Internacional Palmira 2:0
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525696@anstoss
+DTSTAMP:20260423T210000Z
+DTSTART:20260423T210000Z
+DTEND:20260423T230000Z
+SUMMARY:Internacional Palmira – Fortaleza 3:1
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525706@anstoss
+DTSTAMP:20260503T200000Z
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+SUMMARY:Orsomarso – Internacional Palmira 0:0
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525712@anstoss
+DTSTAMP:20260511T200000Z
+DTSTART:20260511T200000Z
+DTEND:20260511T220000Z
+SUMMARY:Internacional Palmira – Atlético Nacional 0:1
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525718@anstoss
+DTSTAMP:20260515T200000Z
+DTSTART:20260515T200000Z
+DTEND:20260515T220000Z
+SUMMARY:Atlético Bucaramanga – Internacional Palmira 0:1
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Cancha Marte - UMT\, Bucaramanga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525718.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525728@anstoss
+DTSTAMP:20260523T200000Z
+DTSTART:20260523T200000Z
+DTEND:20260523T220000Z
+SUMMARY:Internacional Palmira – Santa Fe 0:2
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525728.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525732@anstoss
+DTSTAMP:20260529T210000Z
+DTSTART:20260529T210000Z
+DTEND:20260529T230000Z
+SUMMARY:América de Cali – Internacional Palmira 5:0
+DESCRIPTION:Liga Femenina · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525745@anstoss
+DTSTAMP:20260725T210000Z
+DTSTART:20260725T210000Z
+DTEND:20260725T230000Z
+SUMMARY:Internacional Palmira – Orsomarso 1:1
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525754@anstoss
+DTSTAMP:20260802T200000Z
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+SUMMARY:Once Caldas – Internacional Palmira 0:0
+DESCRIPTION:Liga Femenina · 15. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525760@anstoss
+DTSTAMP:20260809T210000Z
+DTSTART:20260809T210000Z
+DTEND:20260809T230000Z
+SUMMARY:Internacional Palmira – Junior 2:1
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525760.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632310@anstoss
+DTSTAMP:20260824T213000Z
+DTSTART:20260824T213000Z
+DTEND:20260824T233000Z
+SUMMARY:Internacional Palmira – Atlético Nacional 3:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 1. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632314@anstoss
+DTSTAMP:20260827T220000Z
+DTSTART:20260827T220000Z
+DTEND:20260828T000000Z
+SUMMARY:La Equidad – Internacional Palmira 3:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 2. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632317@anstoss
+DTSTAMP:20260830T201500Z
+DTSTART:20260830T201500Z
+DTEND:20260830T221500Z
+SUMMARY:Millonarios – Internacional Palmira 2:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637607@anstoss
+DTSTAMP:20260903T200000Z
+DTSTART:20260903T200000Z
+DTEND:20260903T220000Z
+SUMMARY:Internacional Palmira – Millonarios 2:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 4. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638208@anstoss
+DTSTAMP:20260908T213000Z
+DTSTART:20260908T213000Z
+DTEND:20260908T233000Z
+SUMMARY:Internacional Palmira – La Equidad 1:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 5. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638208.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638743@anstoss
+DTSTAMP:20260913T000000Z
+DTSTART:20260913T000000Z
+DTEND:20260913T020000Z
+SUMMARY:Atlético Nacional – Internacional Palmira 3:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 6. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638743.ht
+ ml
+END:VEVENT
+END:VCALENDAR

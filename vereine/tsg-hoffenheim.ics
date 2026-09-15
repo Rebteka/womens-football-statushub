@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TSG Hoffenheim
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1593111@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:TSG Hoffenheim – VfB Stuttgart 1:2
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593118@anstoss
+DTSTAMP:20260828T163000Z
+DTSTART:20260828T163000Z
+DTEND:20260828T183000Z
+SUMMARY:1. FC Köln – TSG Hoffenheim 1:0
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593124@anstoss
+DTSTAMP:20260904T163000Z
+DTSTART:20260904T163000Z
+DTEND:20260904T183000Z
+SUMMARY:TSG Hoffenheim – Bayer 04 Leverkusen 1:2
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593129@anstoss
+DTSTAMP:20260913T140000Z
+DTSTART:20260913T140000Z
+DTEND:20260913T160000Z
+SUMMARY:Eintracht Frankfurt – TSG Hoffenheim 4:2
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593129.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593138@anstoss
+DTSTAMP:20260918T163000Z
+DTSTART:20260918T163000Z
+DTEND:20260918T183000Z
+SUMMARY:TSG Hoffenheim – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593138.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629373@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Greuther Furth – TSG Hoffenheim
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593142@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:1. FC Nürnberg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593155@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:SV Werder Bremen – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593158@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:TSG Hoffenheim – 1. FSV Mainz 05
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593169@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:1. FC Union Berlin – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593169.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593172@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:TSG Hoffenheim – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593177@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FC Bayern München – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593177.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593187@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:TSG Hoffenheim – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593187.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593196@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:RB Leipzig – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593196.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593202@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:VfB Stuttgart – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593207@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:TSG Hoffenheim – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593212@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Bayer 04 Leverkusen – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593212.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593222@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:TSG Hoffenheim – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593222.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593232@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:VfL Wolfsburg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593232.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593236@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:TSG Hoffenheim – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593236.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593243@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:TSG Hoffenheim – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593252@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:1. FSV Mainz 05 – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593256@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:TSG Hoffenheim – 1. FC Union Berlin
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593264@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:SC Freiburg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593271@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:TSG Hoffenheim – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593271.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593277@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Hamburger SV – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593277.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593285@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:TSG Hoffenheim – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593285.ht
+ ml
+END:VEVENT
+END:VCALENDAR

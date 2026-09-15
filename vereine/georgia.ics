@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Georgia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523812@anstoss
+DTSTAMP:20260303T163000Z
+DTSTART:20260303T163000Z
+DTEND:20260303T183000Z
+SUMMARY:Greece – Georgia 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523812.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523887@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Faroe Islands – Georgia 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523887.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523912@anstoss
+DTSTAMP:20260605T133000Z
+DTSTART:20260605T133000Z
+DTEND:20260605T153000Z
+SUMMARY:Georgia – Faroe Islands 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:David Petriashvili Stadium\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523937@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Georgia – Greece 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523937.ht
+ ml
+END:VEVENT
+END:VCALENDAR

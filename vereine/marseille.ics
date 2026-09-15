@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marseille
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1580928@anstoss
+DTSTAMP:20260905T190000Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:Marseille – Le Havre 1:0
+DESCRIPTION:Première Ligue · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585110@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Marseille – Lens 2:1
+DESCRIPTION:Première Ligue · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580934@anstoss
+DTSTAMP:20260919T190000Z
+DTSTART:20260919T190000Z
+DTEND:20260919T210000Z
+SUMMARY:Montpellier – Marseille
+DESCRIPTION:Première Ligue · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580934.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580939@anstoss
+DTSTAMP:20261003T163000Z
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+SUMMARY:Strasbourg – Marseille
+DESCRIPTION:Première Ligue · 4. Spieltag
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580939.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580940@anstoss
+DTSTAMP:20261017T190000Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:Marseille – FC Fleury 91
+DESCRIPTION:Première Ligue · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580943@anstoss
+DTSTAMP:20261024T190000Z
+DTSTART:20261024T190000Z
+DTEND:20261024T210000Z
+SUMMARY:Lyon – Marseille
+DESCRIPTION:Première Ligue · 6. Spieltag
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580943.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580946@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Marseille – Nantes
+DESCRIPTION:Première Ligue · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580946.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581012@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Saint-Malo – Marseille
+DESCRIPTION:Première Ligue · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580954@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Marseille – Paris Saint Germain
+DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581016@anstoss
+DTSTAMP:20261121T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Toulouse – Marseille
+DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580962@anstoss
+DTSTAMP:20261212T160000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Paris FC – Marseille
+DESCRIPTION:Première Ligue · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580964@anstoss
+DTSTAMP:20261219T160000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Marseille – Montpellier
+DESCRIPTION:Première Ligue · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580964.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580966@anstoss
+DTSTAMP:20270116T160000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Le Havre – Marseille
+DESCRIPTION:Première Ligue · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580970@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Marseille – Strasbourg
+DESCRIPTION:Première Ligue · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580970.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580974@anstoss
+DTSTAMP:20270206T160000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Marseille – Lyon
+DESCRIPTION:Première Ligue · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580974.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580978@anstoss
+DTSTAMP:20270220T160000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Nantes – Marseille
+DESCRIPTION:Première Ligue · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Marcel Saupin\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580978.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580981@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Paris Saint Germain – Marseille
+DESCRIPTION:Première Ligue · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581029@anstoss
+DTSTAMP:20270320T160000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Marseille – Saint-Malo
+DESCRIPTION:Première Ligue · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581030@anstoss
+DTSTAMP:20270327T160000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Marseille – Toulouse
+DESCRIPTION:Première Ligue · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580990@anstoss
+DTSTAMP:20270407T150000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:FC Fleury 91 – Marseille
+DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580993@anstoss
+DTSTAMP:20270501T150000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Marseille – Paris FC
+DESCRIPTION:Première Ligue · 21. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585130@anstoss
+DTSTAMP:20270504T150000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Lens – Marseille
+DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Degouve-Brabant Stadium\, Arras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585130.ht
+ ml
+END:VEVENT
+END:VCALENDAR

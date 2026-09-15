@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Polen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523820@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Polen – Niederlande 2:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Polsat Plus Arena\, Gdansk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523844@anstoss
+DTSTAMP:20260307T201000Z
+DTSTART:20260307T201000Z
+DTEND:20260307T221000Z
+SUMMARY:Frankreich – Polen 4:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523844.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523870@anstoss
+DTSTAMP:20260414T160000Z
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+SUMMARY:Polen – Republic of Ireland 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Polsat Plus Arena\, Gdansk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523895@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Republic of Ireland – Polen 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523919@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Polen – Frankreich 0:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Polsat Plus Arena\, Gdansk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523919.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523945@anstoss
+DTSTAMP:20260609T190000Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:Niederlande – Polen 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Asito Stadium\, Almelo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557244@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Belgien – Polen
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557265@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Polen – Belgien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557265.ht
+ ml
+END:VEVENT
+END:VCALENDAR

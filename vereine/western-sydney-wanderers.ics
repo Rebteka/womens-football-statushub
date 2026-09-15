@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Western Sydney Wanderers
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1632104@anstoss
+DTSTAMP:20261017T040000Z
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+SUMMARY:Western Sydney Wanderers – Melbourne Victory
+DESCRIPTION:A-League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632104.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632108@anstoss
+DTSTAMP:20261024T031500Z
+DTSTART:20261024T031500Z
+DTEND:20261024T051500Z
+SUMMARY:Western Sydney Wanderers – Brisbane Roar FC
+DESCRIPTION:A-League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632115@anstoss
+DTSTAMP:20261101T040000Z
+DTSTART:20261101T040000Z
+DTEND:20261101T060000Z
+SUMMARY:Canberra United – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632115.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632127@anstoss
+DTSTAMP:20261120T055000Z
+DTSTART:20261120T055000Z
+DTEND:20261120T075000Z
+SUMMARY:Western Sydney Wanderers – Wellington Phoenix
+DESCRIPTION:A-League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632133@anstoss
+DTSTAMP:20261211T080000Z
+DTSTART:20261211T080000Z
+DTEND:20261211T100000Z
+SUMMARY:Western Sydney Wanderers – Newcastle Jets FC
+DESCRIPTION:A-League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632139@anstoss
+DTSTAMP:20261219T090000Z
+DTSTART:20261219T090000Z
+DTEND:20261219T110000Z
+SUMMARY:Perth Glory FC – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632144@anstoss
+DTSTAMP:20261228T060000Z
+DTSTART:20261228T060000Z
+DTEND:20261228T080000Z
+SUMMARY:Western Sydney Wanderers – Canberra United
+DESCRIPTION:A-League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632151@anstoss
+DTSTAMP:20270102T070000Z
+DTSTART:20270102T070000Z
+DTEND:20270102T090000Z
+SUMMARY:Western Sydney Wanderers – Adelaide United
+DESCRIPTION:A-League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632151.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632152@anstoss
+DTSTAMP:20270106T063000Z
+DTSTART:20270106T063000Z
+DTEND:20270106T083000Z
+SUMMARY:Melbourne City – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632155@anstoss
+DTSTAMP:20270109T060000Z
+DTSTART:20270109T060000Z
+DTEND:20270109T080000Z
+SUMMARY:Melbourne Victory – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632155.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632163@anstoss
+DTSTAMP:20270123T060000Z
+DTSTART:20270123T060000Z
+DTEND:20270123T080000Z
+SUMMARY:Central Coast Mariners – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632163.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632169@anstoss
+DTSTAMP:20270130T055000Z
+DTSTART:20270130T055000Z
+DTEND:20270130T075000Z
+SUMMARY:Western Sydney Wanderers – Sydney FC
+DESCRIPTION:A-League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632169.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632173@anstoss
+DTSTAMP:20270206T060000Z
+DTSTART:20270206T060000Z
+DTEND:20270206T080000Z
+SUMMARY:Wellington Phoenix – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 15. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632173.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632179@anstoss
+DTSTAMP:20270213T070000Z
+DTSTART:20270213T070000Z
+DTEND:20270213T090000Z
+SUMMARY:Western Sydney Wanderers – Melbourne City
+DESCRIPTION:A-League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632179.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632185@anstoss
+DTSTAMP:20270220T070000Z
+DTSTART:20270220T070000Z
+DTEND:20270220T090000Z
+SUMMARY:Brisbane Roar FC – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632185.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632190@anstoss
+DTSTAMP:20270313T060000Z
+DTSTART:20270313T060000Z
+DTEND:20270313T080000Z
+SUMMARY:Adelaide United – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632190.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632194@anstoss
+DTSTAMP:20270320T031500Z
+DTSTART:20270320T031500Z
+DTEND:20270320T051500Z
+SUMMARY:Western Sydney Wanderers – Perth Glory FC
+DESCRIPTION:A-League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632194.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632202@anstoss
+DTSTAMP:20270328T040000Z
+DTSTART:20270328T040000Z
+DTEND:20270328T060000Z
+SUMMARY:Newcastle Jets FC – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632206@anstoss
+DTSTAMP:20270404T050000Z
+DTSTART:20270404T050000Z
+DTEND:20270404T070000Z
+SUMMARY:Sydney FC – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632206.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632211@anstoss
+DTSTAMP:20270411T021500Z
+DTSTART:20270411T021500Z
+DTEND:20270411T041500Z
+SUMMARY:Western Sydney Wanderers – Central Coast Mariners
+DESCRIPTION:A-League Women · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632211.ht
+ ml
+END:VEVENT
+END:VCALENDAR

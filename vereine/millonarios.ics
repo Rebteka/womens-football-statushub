@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Millonarios
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518015@anstoss
+DTSTAMP:20260216T200000Z
+DTSTART:20260216T200000Z
+DTEND:20260216T220000Z
+SUMMARY:Millonarios – Orsomarso 2:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524343@anstoss
+DTSTAMP:20260221T221500Z
+DTSTART:20260221T221500Z
+DTEND:20260222T001500Z
+SUMMARY:La Equidad – Millonarios 2:3
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524354@anstoss
+DTSTAMP:20260310T220000Z
+DTSTART:20260310T220000Z
+DTEND:20260311T000000Z
+SUMMARY:Atlético Nacional – Millonarios 2:1
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524366@anstoss
+DTSTAMP:20260317T223000Z
+DTSTART:20260317T223000Z
+DTEND:20260318T003000Z
+SUMMARY:Millonarios – Once Caldas 3:0
+DESCRIPTION:Liga Femenina · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524370@anstoss
+DTSTAMP:20260322T210000Z
+DTSTART:20260322T210000Z
+DTEND:20260322T230000Z
+SUMMARY:Internacional Palmira – Millonarios 1:1
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524377@anstoss
+DTSTAMP:20260330T221500Z
+DTSTART:20260330T221500Z
+DTEND:20260331T001500Z
+SUMMARY:Millonarios – Atlético Bucaramanga 6:0
+DESCRIPTION:Liga Femenina · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524385@anstoss
+DTSTAMP:20260411T200000Z
+DTSTART:20260411T200000Z
+DTEND:20260411T220000Z
+SUMMARY:Deportivo Pasto – Millonarios 1:2
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Departamental Libertad\, Pasto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525697@anstoss
+DTSTAMP:20260423T220000Z
+DTSTART:20260423T220000Z
+DTEND:20260424T000000Z
+SUMMARY:Millonarios – Llaneros 4:0
+DESCRIPTION:Liga Femenina · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525707@anstoss
+DTSTAMP:20260503T173000Z
+DTSTART:20260503T173000Z
+DTEND:20260503T193000Z
+SUMMARY:Santa Fe – Millonarios 0:0
+DESCRIPTION:Liga Femenina · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525707.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525714@anstoss
+DTSTAMP:20260511T214500Z
+DTSTART:20260511T214500Z
+DTEND:20260511T234500Z
+SUMMARY:Millonarios – América de Cali 0:0
+DESCRIPTION:Liga Femenina · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525719@anstoss
+DTSTAMP:20260515T200000Z
+DTSTART:20260515T200000Z
+DTEND:20260515T220000Z
+SUMMARY:Fortaleza – Millonarios 0:3
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525719.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525730@anstoss
+DTSTAMP:20260523T230000Z
+DTSTART:20260523T230000Z
+DTEND:20260524T010000Z
+SUMMARY:Millonarios – Real Santander 0:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525730.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525737@anstoss
+DTSTAMP:20260604T203000Z
+DTSTART:20260604T203000Z
+DTEND:20260604T223000Z
+SUMMARY:Millonarios – Independiente Medellín 3:1
+DESCRIPTION:Liga Femenina · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525746@anstoss
+DTSTAMP:20260725T213000Z
+DTSTART:20260725T213000Z
+DTEND:20260725T233000Z
+SUMMARY:Junior – Millonarios 0:0
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525753@anstoss
+DTSTAMP:20260804T222000Z
+DTSTART:20260804T222000Z
+DTEND:20260805T002000Z
+SUMMARY:Millonarios – Santa Fe 1:0
+DESCRIPTION:Liga Femenina · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525757@anstoss
+DTSTAMP:20260809T200000Z
+DTSTART:20260809T200000Z
+DTEND:20260809T220000Z
+SUMMARY:Deportivo Cali – Millonarios 1:3
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632311@anstoss
+DTSTAMP:20260824T230000Z
+DTSTART:20260824T230000Z
+DTEND:20260825T010000Z
+SUMMARY:Millonarios – La Equidad 2:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632313@anstoss
+DTSTAMP:20260827T210000Z
+DTSTART:20260827T210000Z
+DTEND:20260827T230000Z
+SUMMARY:Atlético Nacional – Millonarios 0:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 2. Spieltag
+LOCATION:Estadio Atanasio Girardot
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632317@anstoss
+DTSTAMP:20260830T201500Z
+DTSTART:20260830T201500Z
+DTEND:20260830T221500Z
+SUMMARY:Millonarios – Internacional Palmira 2:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637607@anstoss
+DTSTAMP:20260903T200000Z
+DTSTART:20260903T200000Z
+DTEND:20260903T220000Z
+SUMMARY:Internacional Palmira – Millonarios 2:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 4. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638211@anstoss
+DTSTAMP:20260909T230000Z
+DTSTART:20260909T230000Z
+DTEND:20260910T010000Z
+SUMMARY:Millonarios – Atlético Nacional 2:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638211.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638744@anstoss
+DTSTAMP:20260913T000000Z
+DTSTART:20260913T000000Z
+DTEND:20260913T020000Z
+SUMMARY:La Equidad – Millonarios 0:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 6. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638744.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639698@anstoss
+DTSTAMP:20260918T000000Z
+DTSTART:20260918T000000Z
+DTEND:20260918T020000Z
+SUMMARY:Santa Fe – Millonarios
+DESCRIPTION:Liga Femenina · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639698.ht
+ ml
+END:VEVENT
+END:VCALENDAR

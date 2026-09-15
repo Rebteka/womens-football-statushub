@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gent
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1557285@anstoss
+DTSTAMP:20260906T150000Z
+DTSTART:20260906T150000Z
+DTEND:20260906T170000Z
+SUMMARY:OH Leuven – Gent 6:1
+DESCRIPTION:Super League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557285.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557290@anstoss
+DTSTAMP:20260912T173000Z
+DTSTART:20260912T173000Z
+DTEND:20260912T193000Z
+SUMMARY:Gent – Anderlecht 0:2
+DESCRIPTION:Super League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557293@anstoss
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:RAAL La Louviere – Gent
+DESCRIPTION:Super League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557295@anstoss
+DTSTAMP:20260925T180000Z
+DTSTART:20260925T180000Z
+DTEND:20260925T200000Z
+SUMMARY:Genk – Gent
+DESCRIPTION:Super League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557301@anstoss
+DTSTAMP:20261003T173000Z
+DTSTART:20261003T173000Z
+DTEND:20261003T193000Z
+SUMMARY:Gent – Zulte-Waregem
+DESCRIPTION:Super League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557303@anstoss
+DTSTAMP:20261017T173000Z
+DTSTART:20261017T173000Z
+DTEND:20261017T193000Z
+SUMMARY:Gent – Standard Liege
+DESCRIPTION:Super League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557307@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Club Brugge – Gent
+DESCRIPTION:Super League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557313@anstoss
+DTSTAMP:20261107T183000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T203000Z
+SUMMARY:Gent – RAAL La Louviere
+DESCRIPTION:Super League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557318@anstoss
+DTSTAMP:20261114T150000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:Zulte-Waregem – Gent
+DESCRIPTION:Super League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557319@anstoss
+DTSTAMP:20261121T183000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T203000Z
+SUMMARY:Gent – Genk
+DESCRIPTION:Super League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557326@anstoss
+DTSTAMP:20261212T180000Z
+DTSTART:20261212T180000Z
+DTEND:20261212T200000Z
+SUMMARY:Anderlecht – Gent
+DESCRIPTION:Super League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557328@anstoss
+DTSTAMP:20261219T123000Z
+DTSTART:20261219T123000Z
+DTEND:20261219T143000Z
+SUMMARY:Gent – Club Brugge
+DESCRIPTION:Super League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557334@anstoss
+DTSTAMP:20270109T183000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T203000Z
+SUMMARY:Standard Liege – Gent
+DESCRIPTION:Super League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557336@anstoss
+DTSTAMP:20270116T183000Z
+DTSTART:20270116T183000Z
+DTEND:20270116T203000Z
+SUMMARY:Gent – OH Leuven
+DESCRIPTION:Super League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557341@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:RAAL La Louviere – Gent
+DESCRIPTION:Super League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557343@anstoss
+DTSTAMP:20270130T150000Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Club Brugge – Gent
+DESCRIPTION:Super League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557347@anstoss
+DTSTAMP:20270206T183000Z
+DTSTART:20270206T183000Z
+DTEND:20270206T203000Z
+SUMMARY:Gent – Anderlecht
+DESCRIPTION:Super League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557352@anstoss
+DTSTAMP:20270213T190000Z
+DTSTART:20270213T190000Z
+DTEND:20270213T210000Z
+SUMMARY:OH Leuven – Gent
+DESCRIPTION:Super League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557356@anstoss
+DTSTAMP:20270220T183000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T203000Z
+SUMMARY:Gent – Zulte-Waregem
+DESCRIPTION:Super League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557359@anstoss
+DTSTAMP:20270313T183000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T203000Z
+SUMMARY:Gent – Standard Liege
+DESCRIPTION:Super League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557364@anstoss
+DTSTAMP:20270319T190000Z
+DTSTART:20270319T190000Z
+DTEND:20270319T210000Z
+SUMMARY:Genk – Gent
+DESCRIPTION:Super League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557364.ht
+ ml
+END:VEVENT
+END:VCALENDAR

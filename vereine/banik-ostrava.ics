@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Baník Ostrava
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1627626@anstoss
+DTSTAMP:20260816T123000Z
+DTSTART:20260816T123000Z
+DTEND:20260816T143000Z
+SUMMARY:Slovácko – Baník Ostrava 1:1
+DESCRIPTION:1. Liga Women · 1. Spieltag
+LOCATION:Mestsky stadion Miroslava Valenty\, Uherske Hradiste
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627629@anstoss
+DTSTAMP:20260822T110000Z
+DTSTART:20260822T110000Z
+DTEND:20260822T130000Z
+SUMMARY:Baník Ostrava – Slavia Praha 0:6
+DESCRIPTION:1. Liga Women · 2. Spieltag
+LOCATION:Bazaly
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627633@anstoss
+DTSTAMP:20260829T123000Z
+DTSTART:20260829T123000Z
+DTEND:20260829T143000Z
+SUMMARY:Viktoria Plzeň – Baník Ostrava 1:0
+DESCRIPTION:1. Liga Women · 3. Spieltag
+LOCATION:Stadium Dobrany\, Dobrany - PJ
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627636@anstoss
+DTSTAMP:20260905T120000Z
+DTSTART:20260905T120000Z
+DTEND:20260905T140000Z
+SUMMARY:Prague Raptors – Baník Ostrava 3:0
+DESCRIPTION:1. Liga Women · 4. Spieltag
+LOCATION:Satalice Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627640@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Baník Ostrava – Horní Heršpice 7:0
+DESCRIPTION:1. Liga Women · 5. Spieltag
+LOCATION:Bazaly
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627643@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:Sparta Praha – Baník Ostrava
+DESCRIPTION:1. Liga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627648@anstoss
+DTSTAMP:20260926T090000Z
+DTSTART:20260926T090000Z
+DTEND:20260926T110000Z
+SUMMARY:Baník Ostrava – Slovan Liberec
+DESCRIPTION:1. Liga Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627648.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627654@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Baník Ostrava – Slovácko
+DESCRIPTION:1. Liga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627655@anstoss
+DTSTAMP:20261024T120000Z
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
+SUMMARY:Slavia Praha – Baník Ostrava
+DESCRIPTION:1. Liga Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627655.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627661@anstoss
+DTSTAMP:20261031T103000Z
+DTSTART:20261031T103000Z
+DTEND:20261031T123000Z
+SUMMARY:Baník Ostrava – Viktoria Plzeň
+DESCRIPTION:1. Liga Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627664@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Baník Ostrava – Prague Raptors
+DESCRIPTION:1. Liga Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627664.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627668@anstoss
+DTSTAMP:20270220T130000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Horní Heršpice – Baník Ostrava
+DESCRIPTION:1. Liga Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627668.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627673@anstoss
+DTSTAMP:20270313T133000Z
+DTSTART:20270313T133000Z
+DTEND:20270313T153000Z
+SUMMARY:Baník Ostrava – Sparta Praha
+DESCRIPTION:1. Liga Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627673.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627676@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART:20270320T140000Z
+DTEND:20270320T160000Z
+SUMMARY:Slovan Liberec – Baník Ostrava
+DESCRIPTION:1. Liga Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627676.ht
+ ml
+END:VEVENT
+END:VCALENDAR

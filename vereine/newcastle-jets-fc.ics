@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newcastle Jets FC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1632103@anstoss
+DTSTAMP:20261017T040000Z
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+SUMMARY:Newcastle Jets FC – Perth Glory FC
+DESCRIPTION:A-League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632103.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632116@anstoss
+DTSTAMP:20261101T064500Z
+DTSTART:20261101T064500Z
+DTEND:20261101T084500Z
+SUMMARY:Melbourne Victory – Newcastle Jets FC
+DESCRIPTION:A-League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632119@anstoss
+DTSTAMP:20261107T040000Z
+DTSTART:20261107T040000Z
+DTEND:20261107T060000Z
+SUMMARY:Newcastle Jets FC – Central Coast Mariners
+DESCRIPTION:A-League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632119.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632122@anstoss
+DTSTAMP:20261114T040000Z
+DTSTART:20261114T040000Z
+DTEND:20261114T060000Z
+SUMMARY:Melbourne City – Newcastle Jets FC
+DESCRIPTION:A-League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632128@anstoss
+DTSTAMP:20261121T040000Z
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+SUMMARY:Newcastle Jets FC – Adelaide United
+DESCRIPTION:A-League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632133@anstoss
+DTSTAMP:20261211T080000Z
+DTSTART:20261211T080000Z
+DTEND:20261211T100000Z
+SUMMARY:Western Sydney Wanderers – Newcastle Jets FC
+DESCRIPTION:A-League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632133.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632137@anstoss
+DTSTAMP:20261219T060000Z
+DTSTART:20261219T060000Z
+DTEND:20261219T080000Z
+SUMMARY:Canberra United – Newcastle Jets FC
+DESCRIPTION:A-League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632148@anstoss
+DTSTAMP:20270101T060000Z
+DTSTART:20270101T060000Z
+DTEND:20270101T080000Z
+SUMMARY:Newcastle Jets FC – Wellington Phoenix
+DESCRIPTION:A-League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632148.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632156@anstoss
+DTSTAMP:20270110T060000Z
+DTSTART:20270110T060000Z
+DTEND:20270110T080000Z
+SUMMARY:Newcastle Jets FC – Melbourne City
+DESCRIPTION:A-League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632160@anstoss
+DTSTAMP:20270116T055000Z
+DTSTART:20270116T055000Z
+DTEND:20270116T075000Z
+SUMMARY:Sydney FC – Newcastle Jets FC
+DESCRIPTION:A-League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632167@anstoss
+DTSTAMP:20270124T060000Z
+DTSTART:20270124T060000Z
+DTEND:20270124T080000Z
+SUMMARY:Newcastle Jets FC – Brisbane Roar FC
+DESCRIPTION:A-League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632171@anstoss
+DTSTAMP:20270130T090000Z
+DTSTART:20270130T090000Z
+DTEND:20270130T110000Z
+SUMMARY:Perth Glory FC – Newcastle Jets FC
+DESCRIPTION:A-League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632171.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632176@anstoss
+DTSTAMP:20270207T060000Z
+DTSTART:20270207T060000Z
+DTEND:20270207T080000Z
+SUMMARY:Central Coast Mariners – Newcastle Jets FC
+DESCRIPTION:A-League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632176.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632182@anstoss
+DTSTAMP:20270214T060000Z
+DTSTART:20270214T060000Z
+DTEND:20270214T080000Z
+SUMMARY:Newcastle Jets FC – Melbourne Victory
+DESCRIPTION:A-League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632182.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632183@anstoss
+DTSTAMP:20270220T060000Z
+DTSTART:20270220T060000Z
+DTEND:20270220T080000Z
+SUMMARY:Newcastle Jets FC – Canberra United
+DESCRIPTION:A-League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632183.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632191@anstoss
+DTSTAMP:20270314T020000Z
+DTSTART:20270314T020000Z
+DTEND:20270314T040000Z
+SUMMARY:Wellington Phoenix – Newcastle Jets FC
+DESCRIPTION:A-League Women · 18. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632196@anstoss
+DTSTAMP:20270320T060000Z
+DTSTART:20270320T060000Z
+DTEND:20270320T080000Z
+SUMMARY:Newcastle Jets FC – Sydney FC
+DESCRIPTION:A-League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632196.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632202@anstoss
+DTSTAMP:20270328T040000Z
+DTSTART:20270328T040000Z
+DTEND:20270328T060000Z
+SUMMARY:Newcastle Jets FC – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632202.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632203@anstoss
+DTSTAMP:20270402T055000Z
+DTSTART:20270402T055000Z
+DTEND:20270402T075000Z
+SUMMARY:Adelaide United – Newcastle Jets FC
+DESCRIPTION:A-League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632203.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632209@anstoss
+DTSTAMP:20270410T070000Z
+DTSTART:20270410T070000Z
+DTEND:20270410T090000Z
+SUMMARY:Brisbane Roar FC – Newcastle Jets FC
+DESCRIPTION:A-League Women · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632209.ht
+ ml
+END:VEVENT
+END:VCALENDAR

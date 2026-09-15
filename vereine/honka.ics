@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Honka
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1612493@anstoss
+DTSTAMP:20260809T130000Z
+DTSTART:20260809T130000Z
+DTEND:20260809T150000Z
+SUMMARY:EBK – Honka 0:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612496@anstoss
+DTSTAMP:20260816T144500Z
+DTSTART:20260816T144500Z
+DTEND:20260816T164500Z
+SUMMARY:VIFK – Honka 0:2
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612499@anstoss
+DTSTAMP:20260823T153000Z
+DTSTART:20260823T153000Z
+DTEND:20260823T173000Z
+SUMMARY:Honka – PK-35 Vantaa 2:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 3. Spieltag
+LOCATION:Tapiolan Urheilupuisto\, Espoo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612501@anstoss
+DTSTAMP:20260830T153000Z
+DTSTART:20260830T153000Z
+DTEND:20260830T173000Z
+SUMMARY:Honka – HJS Akatemia 1:3
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 4. Spieltag
+LOCATION:Tapiolan Urheilupuisto\, Espoo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612501.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612502@anstoss
+DTSTAMP:20260911T153000Z
+DTSTART:20260911T153000Z
+DTEND:20260911T173000Z
+SUMMARY:JyPK – Honka
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612502.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612505@anstoss
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Honka – EBK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612505.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612508@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Honka – VIFK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612508.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612509@anstoss
+DTSTAMP:20261002T160000Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:PK-35 Vantaa – Honka
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612509.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612512@anstoss
+DTSTAMP:20261017T120000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:HJS Akatemia – Honka
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612512.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612515@anstoss
+DTSTAMP:20261024T120000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Honka – JyPK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
+ nstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612515.ht
+ ml
+END:VEVENT
+END:VCALENDAR

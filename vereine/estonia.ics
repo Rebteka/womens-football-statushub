@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Estonia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523827@anstoss
+DTSTAMP:20260303T120000Z
+DTSTART:20260303T120000Z
+DTEND:20260303T140000Z
+SUMMARY:Bosnia-Herzegovina – Estonia 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523827.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523853@anstoss
+DTSTAMP:20260307T150000Z
+DTSTART:20260307T150000Z
+DTEND:20260307T170000Z
+SUMMARY:Lithuania – Estonia 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Raudondvario stadionas\, Raudondvario
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523853.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523878@anstoss
+DTSTAMP:20260414T150000Z
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+SUMMARY:Estonia – Liechtenstein 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:A. Le Coq Arena\, Tallinn
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523878.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523902@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Estonia – Lithuania 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:A. Le Coq Arena\, Tallinn
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523928@anstoss
+DTSTAMP:20260605T170000Z
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+SUMMARY:Liechtenstein – Estonia 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Rheinpark Stadion\, Vaduz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523952@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Estonia – Bosnia-Herzegovina 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Parnu Rannastaadion\, Parnu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523952.ht
+ ml
+END:VEVENT
+END:VCALENDAR

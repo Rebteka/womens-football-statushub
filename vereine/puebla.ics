@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Puebla
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603302@anstoss
+DTSTAMP:20260802T010600Z
+DTSTART:20260802T010600Z
+DTEND:20260802T030600Z
+SUMMARY:Tigres UANL – Puebla 8:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603314@anstoss
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Puebla – Guadalajara 1:4
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603319@anstoss
+DTSTAMP:20260815T214500Z
+DTSTART:20260815T214500Z
+DTEND:20260815T234500Z
+SUMMARY:América – Puebla 5:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603331@anstoss
+DTSTAMP:20260823T180000Z
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+SUMMARY:Puebla – Atlético San Luis 2:5
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603340@anstoss
+DTSTAMP:20260830T180000Z
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+SUMMARY:Puebla – Necaxa 4:1
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603353@anstoss
+DTSTAMP:20260908T010600Z
+DTSTART:20260908T010600Z
+DTEND:20260908T030600Z
+SUMMARY:León – Puebla 5:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603358@anstoss
+DTSTAMP:20260913T180000Z
+DTSTART:20260913T180000Z
+DTEND:20260913T200000Z
+SUMMARY:Puebla – Querétaro 2:6
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603365@anstoss
+DTSTAMP:20260920T180000Z
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+SUMMARY:Pumas UNAM – Puebla
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603376@anstoss
+DTSTAMP:20260927T180000Z
+DTSTART:20260927T180000Z
+DTEND:20260927T200000Z
+SUMMARY:Puebla – Monterrey
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603381@anstoss
+DTSTAMP:20261002T230000Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+SUMMARY:Santos Laguna – Puebla
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603390@anstoss
+DTSTAMP:20261017T180000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Puebla – Tijuana
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603399@anstoss
+DTSTAMP:20261024T010600Z
+DTSTART:20261024T010600Z
+DTEND:20261024T030600Z
+SUMMARY:Atlas – Puebla
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Colomos\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603414@anstoss
+DTSTAMP:20261101T180000Z
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+SUMMARY:Puebla – Juárez
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603421@anstoss
+DTSTAMP:20261106T230000Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:Pachuca – Puebla
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603421.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RB Bragantino
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522330@anstoss
+DTSTAMP:20260215T200000Z
+DTSTART:20260215T200000Z
+DTEND:20260215T220000Z
+SUMMARY:RB Bragantino – Ferroviaria 2:0
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522334@anstoss
+DTSTAMP:20260221T000000Z
+DTSTART:20260221T000000Z
+DTEND:20260221T020000Z
+SUMMARY:Flamengo – RB Bragantino 4:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522346@anstoss
+DTSTAMP:20260314T180000Z
+DTSTART:20260314T180000Z
+DTEND:20260314T200000Z
+SUMMARY:Internacional RS – RB Bragantino 1:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522354@anstoss
+DTSTAMP:20260322T200000Z
+DTSTART:20260322T200000Z
+DTEND:20260322T220000Z
+SUMMARY:RB Bragantino – Juventude 2:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522361@anstoss
+DTSTAMP:20260328T200000Z
+DTSTART:20260328T200000Z
+DTEND:20260328T220000Z
+SUMMARY:RB Bragantino – Bahia 1:2
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522362@anstoss
+DTSTAMP:20260401T000000Z
+DTSTART:20260401T000000Z
+DTEND:20260401T020000Z
+SUMMARY:Corinthians – RB Bragantino (verlegt)
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533886@anstoss
+DTSTAMP:20260404T000000Z
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+SUMMARY:Corinthians – RB Bragantino 5:1
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522458@anstoss
+DTSTAMP:20260421T140000Z
+DTSTART:20260421T140000Z
+DTEND:20260421T160000Z
+SUMMARY:RB Bragantino – Mixto 3:1
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522379@anstoss
+DTSTAMP:20260426T140000Z
+DTSTART:20260426T140000Z
+DTEND:20260426T160000Z
+SUMMARY:RB Bragantino – Cruzeiro 2:2
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522379.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522388@anstoss
+DTSTAMP:20260503T210000Z
+DTSTART:20260503T210000Z
+DTEND:20260503T230000Z
+SUMMARY:Botafogo – RB Bragantino 0:3
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Estadio Olimpico Nilton Santos\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522395@anstoss
+DTSTAMP:20260510T200000Z
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+SUMMARY:RB Bragantino – Gremio 0:3
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522401@anstoss
+DTSTAMP:20260517T210000Z
+DTSTART:20260517T210000Z
+DTEND:20260517T230000Z
+SUMMARY:Santos – RB Bragantino 0:1
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Estadio Urbano Caldeira\, Santos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522404@anstoss
+DTSTAMP:20260524T180000Z
+DTSTART:20260524T180000Z
+DTEND:20260524T200000Z
+SUMMARY:RB Bragantino – Palmeiras 1:2
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522417@anstoss
+DTSTAMP:20260725T200000Z
+DTSTART:20260725T200000Z
+DTEND:20260725T220000Z
+SUMMARY:RB Bragantino – Atlético Mineiro 2:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522417.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522423@anstoss
+DTSTAMP:20260801T180000Z
+DTSTART:20260801T180000Z
+DTEND:20260801T200000Z
+SUMMARY:Fluminense – RB Bragantino 2:1
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522427@anstoss
+DTSTAMP:20260809T210000Z
+DTSTART:20260809T210000Z
+DTEND:20260809T230000Z
+SUMMARY:São Paulo – RB Bragantino 1:0
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522427.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522475@anstoss
+DTSTAMP:20260815T200000Z
+DTSTART:20260815T200000Z
+DTEND:20260815T220000Z
+SUMMARY:RB Bragantino – Vitória BA 6:2
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522445@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:America Mineiro – RB Bragantino 1:2
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522445.ht
+ ml
+END:VEVENT
+END:VCALENDAR

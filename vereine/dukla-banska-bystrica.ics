@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dukla Banská Bystrica
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1566589@anstoss
+DTSTAMP:20260815T160000Z
+DTSTART:20260815T160000Z
+DTEND:20260815T180000Z
+SUMMARY:Spartak Myjava – Dukla Banská Bystrica 11:0
+DESCRIPTION:I Liga - Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566589.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566591@anstoss
+DTSTAMP:20260822T123000Z
+DTSTART:20260822T123000Z
+DTEND:20260822T143000Z
+SUMMARY:Dukla Banská Bystrica – Komárno 2:3
+DESCRIPTION:I Liga - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566591.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566597@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Slovan Bratislava – Dukla Banská Bystrica 7:0
+DESCRIPTION:I Liga - Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566599@anstoss
+DTSTAMP:20260905T123000Z
+DTSTART:20260905T123000Z
+DTEND:20260905T143000Z
+SUMMARY:Dukla Banská Bystrica – Trenčín 2:2
+DESCRIPTION:I Liga - Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566604@anstoss
+DTSTAMP:20260912T123000Z
+DTSTART:20260912T123000Z
+DTEND:20260912T143000Z
+SUMMARY:Tatran Prešov – Dukla Banská Bystrica 2:0
+DESCRIPTION:I Liga - Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566606@anstoss
+DTSTAMP:20260919T123000Z
+DTSTART:20260919T123000Z
+DTEND:20260919T143000Z
+SUMMARY:Dukla Banská Bystrica – Spartak Trnava
+DESCRIPTION:I Liga - Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566611@anstoss
+DTSTAMP:20260926T123000Z
+DTSTART:20260926T123000Z
+DTEND:20260926T143000Z
+SUMMARY:Petržalka – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566665@anstoss
+DTSTAMP:20261003T123000Z
+DTSTART:20261003T123000Z
+DTEND:20261003T143000Z
+SUMMARY:Dukla Banská Bystrica – Z. Moravce-Vrable
+DESCRIPTION:I Liga - Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566619@anstoss
+DTSTAMP:20261017T090000Z
+DTSTART:20261017T090000Z
+DTEND:20261017T110000Z
+SUMMARY:Ružomberok – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566619.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566624@anstoss
+DTSTAMP:20261024T123000Z
+DTSTART:20261024T123000Z
+DTEND:20261024T143000Z
+SUMMARY:Dukla Banská Bystrica – Spartak Myjava
+DESCRIPTION:I Liga - Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566626@anstoss
+DTSTAMP:20261031T100000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Komárno – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566626.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566631@anstoss
+DTSTAMP:20261107T133000Z
+DTSTART:20261107T133000Z
+DTEND:20261107T153000Z
+SUMMARY:Dukla Banská Bystrica – Slovan Bratislava
+DESCRIPTION:I Liga - Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566637@anstoss
+DTSTAMP:20261114T143000Z
+DTSTART:20261114T143000Z
+DTEND:20261114T163000Z
+SUMMARY:Trenčín – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566637.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566639@anstoss
+DTSTAMP:20261121T133000Z
+DTSTART:20261121T133000Z
+DTEND:20261121T153000Z
+SUMMARY:Dukla Banská Bystrica – Tatran Prešov
+DESCRIPTION:I Liga - Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566645@anstoss
+DTSTAMP:20270213T100000Z
+DTSTART:20270213T100000Z
+DTEND:20270213T120000Z
+SUMMARY:Spartak Trnava – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 15. Spieltag
+LOCATION:City Arena Trnava\, Trnava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566645.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566646@anstoss
+DTSTAMP:20270220T133000Z
+DTSTART:20270220T133000Z
+DTEND:20270220T153000Z
+SUMMARY:Dukla Banská Bystrica – Petržalka
+DESCRIPTION:I Liga - Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566646.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566674@anstoss
+DTSTAMP:20270313T140000Z
+DTSTART:20270313T140000Z
+DTEND:20270313T160000Z
+SUMMARY:Z. Moravce-Vrable – Dukla Banská Bystrica
+DESCRIPTION:I Liga - Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566674.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566655@anstoss
+DTSTAMP:20270320T133000Z
+DTSTART:20270320T133000Z
+DTEND:20270320T153000Z
+SUMMARY:Dukla Banská Bystrica – Ružomberok
+DESCRIPTION:I Liga - Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566655.ht
+ ml
+END:VEVENT
+END:VCALENDAR

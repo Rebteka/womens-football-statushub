@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toulouse
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1580999@anstoss
+DTSTAMP:20260905T160000Z
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+SUMMARY:Montpellier – Toulouse 5:1
+DESCRIPTION:Première Ligue · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580999.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581002@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Toulouse – Le Havre 1:2
+DESCRIPTION:Première Ligue · 2. Spieltag
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585111@anstoss
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:Lens – Toulouse
+DESCRIPTION:Première Ligue · 3. Spieltag
+LOCATION:Degouve-Brabant Stadium\, Arras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581005@anstoss
+DTSTAMP:20261003T160000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Lyon – Toulouse
+DESCRIPTION:Première Ligue · 4. Spieltag
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581007@anstoss
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Toulouse – Paris FC
+DESCRIPTION:Première Ligue · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581008@anstoss
+DTSTAMP:20261024T160000Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:FC Fleury 91 – Toulouse
+DESCRIPTION:Première Ligue · 6. Spieltag
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581008.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581010@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Toulouse – Saint-Malo
+DESCRIPTION:Première Ligue · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581011@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Nantes – Toulouse
+DESCRIPTION:Première Ligue · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Marcel Saupin\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581011.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581014@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Strasbourg – Toulouse
+DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581016@anstoss
+DTSTAMP:20261121T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Toulouse – Marseille
+DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581017@anstoss
+DTSTAMP:20261212T160000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Toulouse – Paris Saint Germain
+DESCRIPTION:Première Ligue · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581018@anstoss
+DTSTAMP:20261219T160000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Le Havre – Toulouse
+DESCRIPTION:Première Ligue · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581021@anstoss
+DTSTAMP:20270116T160000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Toulouse – Montpellier
+DESCRIPTION:Première Ligue · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581021.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581022@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Saint-Malo – Toulouse
+DESCRIPTION:Première Ligue · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581024@anstoss
+DTSTAMP:20270206T160000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Toulouse – FC Fleury 91
+DESCRIPTION:Première Ligue · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581025@anstoss
+DTSTAMP:20270220T160000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Paris FC – Toulouse
+DESCRIPTION:Première Ligue · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581028@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Toulouse – Lyon
+DESCRIPTION:Première Ligue · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581028.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585126@anstoss
+DTSTAMP:20270320T160000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Toulouse – Lens
+DESCRIPTION:Première Ligue · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585126.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581030@anstoss
+DTSTAMP:20270327T160000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Marseille – Toulouse
+DESCRIPTION:Première Ligue · 19. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581032@anstoss
+DTSTAMP:20270407T150000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Toulouse – Nantes
+DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581033@anstoss
+DTSTAMP:20270501T150000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Paris Saint Germain – Toulouse
+DESCRIPTION:Première Ligue · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581033.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581036@anstoss
+DTSTAMP:20270504T150000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Toulouse – Strasbourg
+DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581036.ht
+ ml
+END:VEVENT
+END:VCALENDAR

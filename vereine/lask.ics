@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LASK
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1574590@anstoss
+DTSTAMP:20260801T150000Z
+DTSTART:20260801T150000Z
+DTEND:20260801T170000Z
+SUMMARY:Kleinmünchen / BW Linz – LASK 2:3
+DESCRIPTION:Frauenliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574590.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574594@anstoss
+DTSTAMP:20260807T160000Z
+DTSTART:20260807T160000Z
+DTEND:20260807T180000Z
+SUMMARY:LASK – Sturm Graz 0:2
+DESCRIPTION:Frauenliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574594.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574598@anstoss
+DTSTAMP:20260814T173000Z
+DTSTART:20260814T173000Z
+DTEND:20260814T193000Z
+SUMMARY:Austria Wien – LASK 2:0
+DESCRIPTION:Frauenliga · 3. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574598.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574604@anstoss
+DTSTAMP:20260822T103000Z
+DTSTART:20260822T103000Z
+DTEND:20260822T123000Z
+SUMMARY:LASK – St. Pölten 0:2
+DESCRIPTION:Frauenliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574610@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Rheindorf Altach – LASK 2:2
+DESCRIPTION:Frauenliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574610.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574616@anstoss
+DTSTAMP:20260912T130000Z
+DTSTART:20260912T130000Z
+DTEND:20260912T150000Z
+SUMMARY:SK Rapid – LASK 2:1
+DESCRIPTION:Frauenliga · 6. Spieltag
+LOCATION:Allianz Stadion\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574616.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574619@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:LASK – Salzburg
+DESCRIPTION:Frauenliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574619.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574623@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:First Vienna – LASK
+DESCRIPTION:Frauenliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574623.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574629@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:LASK – Südburgenland
+DESCRIPTION:Frauenliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574629.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574633@anstoss
+DTSTAMP:20261017T120000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:LASK – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574641@anstoss
+DTSTAMP:20261023T160000Z
+DTSTART:20261023T160000Z
+DTEND:20261023T180000Z
+SUMMARY:Sturm Graz – LASK
+DESCRIPTION:Frauenliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574641.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574644@anstoss
+DTSTAMP:20261101T113000Z
+DTSTART:20261101T113000Z
+DTEND:20261101T133000Z
+SUMMARY:LASK – Austria Wien
+DESCRIPTION:Frauenliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574651@anstoss
+DTSTAMP:20261114T130000Z
+DTSTART:20261114T130000Z
+DTEND:20261114T150000Z
+SUMMARY:St. Pölten – LASK
+DESCRIPTION:Frauenliga · 13. Spieltag
+LOCATION:NV Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574654@anstoss
+DTSTAMP:20261122T120000Z
+DTSTART:20261122T120000Z
+DTEND:20261122T140000Z
+SUMMARY:LASK – Rheindorf Altach
+DESCRIPTION:Frauenliga · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574659@anstoss
+DTSTAMP:20270313T120000Z
+DTSTART:20270313T120000Z
+DTEND:20270313T140000Z
+SUMMARY:LASK – SK Rapid
+DESCRIPTION:Frauenliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574665@anstoss
+DTSTAMP:20270320T120000Z
+DTSTART:20270320T120000Z
+DTEND:20270320T140000Z
+SUMMARY:Salzburg – LASK
+DESCRIPTION:Frauenliga · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574669@anstoss
+DTSTAMP:20270403T110000Z
+DTSTART:20270403T110000Z
+DTEND:20270403T130000Z
+SUMMARY:LASK – First Vienna
+DESCRIPTION:Frauenliga · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574677@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:Südburgenland – LASK
+DESCRIPTION:Frauenliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574677.ht
+ ml
+END:VEVENT
+END:VCALENDAR

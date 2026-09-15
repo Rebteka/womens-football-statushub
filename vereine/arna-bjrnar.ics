@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arna-Bjørnar
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535601@anstoss
+DTSTAMP:20260321T120000Z
+DTSTART:20260321T120000Z
+DTEND:20260321T140000Z
+SUMMARY:Arna-Bjørnar – Odd 1:0
+DESCRIPTION:1. Division Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535601.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535604@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Viking FK – Arna-Bjørnar 0:0
+DESCRIPTION:1. Division Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535604.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535682@anstoss
+DTSTAMP:20260425T130000Z
+DTSTART:20260425T130000Z
+DTEND:20260425T150000Z
+SUMMARY:Frigg Oslo FK – Arna-Bjørnar 0:3
+DESCRIPTION:1. Division Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535682.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535615@anstoss
+DTSTAMP:20260501T120000Z
+DTSTART:20260501T120000Z
+DTEND:20260501T140000Z
+SUMMARY:Arna-Bjørnar – Fyllingsdalen 2:1
+DESCRIPTION:1. Division Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535615.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535686@anstoss
+DTSTAMP:20260509T120000Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Grei – Arna-Bjørnar 2:4
+DESCRIPTION:1. Division Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535623@anstoss
+DTSTAMP:20260516T110000Z
+DTSTART:20260516T110000Z
+DTEND:20260516T130000Z
+SUMMARY:Åsane – Arna-Bjørnar 2:1
+DESCRIPTION:1. Division Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535623.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535608@anstoss
+DTSTAMP:20260525T140000Z
+DTSTART:20260525T140000Z
+DTEND:20260525T160000Z
+SUMMARY:Arna-Bjørnar – Kolbotn 1:1
+DESCRIPTION:1. Division Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535608.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535627@anstoss
+DTSTAMP:20260531T130000Z
+DTSTART:20260531T130000Z
+DTEND:20260531T150000Z
+SUMMARY:Arna-Bjørnar – TIL 2020 1:3
+DESCRIPTION:1. Division Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535627.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535695@anstoss
+DTSTAMP:20260614T130000Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:Klepp – Arna-Bjørnar 1:9
+DESCRIPTION:1. Division Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535695.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535633@anstoss
+DTSTAMP:20260621T133000Z
+DTSTART:20260621T133000Z
+DTEND:20260621T153000Z
+SUMMARY:Arna-Bjørnar – Bryne 3:0
+DESCRIPTION:1. Division Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535635@anstoss
+DTSTAMP:20260628T120000Z
+DTSTART:20260628T120000Z
+DTEND:20260628T140000Z
+SUMMARY:Start – Arna-Bjørnar 1:0
+DESCRIPTION:1. Division Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535704@anstoss
+DTSTAMP:20260802T130000Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Arna-Bjørnar – Klepp 6:0
+DESCRIPTION:1. Division Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535642@anstoss
+DTSTAMP:20260808T130000Z
+DTSTART:20260808T130000Z
+DTEND:20260808T150000Z
+SUMMARY:Bryne – Arna-Bjørnar 2:6
+DESCRIPTION:1. Division Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535644@anstoss
+DTSTAMP:20260816T110000Z
+DTSTART:20260816T110000Z
+DTEND:20260816T130000Z
+SUMMARY:Arna-Bjørnar – Start 3:0
+DESCRIPTION:1. Division Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535647@anstoss
+DTSTAMP:20260823T140000Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:Odd – Arna-Bjørnar 0:3
+DESCRIPTION:1. Division Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535651@anstoss
+DTSTAMP:20260830T130000Z
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Arna-Bjørnar – Åsane 2:0
+DESCRIPTION:1. Division Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535655@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Fyllingsdalen – Arna-Bjørnar 4:2
+DESCRIPTION:1. Division Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535655.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535719@anstoss
+DTSTAMP:20260920T113000Z
+DTSTART:20260920T113000Z
+DTEND:20260920T133000Z
+SUMMARY:Arna-Bjørnar – Frigg Oslo FK
+DESCRIPTION:1. Division Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535719.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535662@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:TIL 2020 – Arna-Bjørnar
+DESCRIPTION:1. Division Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535726@anstoss
+DTSTAMP:20261003T093000Z
+DTSTART:20261003T093000Z
+DTEND:20261003T113000Z
+SUMMARY:Arna-Bjørnar – Grei
+DESCRIPTION:1. Division Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535726.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535667@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Arna-Bjørnar – Viking FK
+DESCRIPTION:1. Division Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535667.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535670@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Kolbotn – Arna-Bjørnar
+DESCRIPTION:1. Division Women · 22. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535670.ht
+ ml
+END:VEVENT
+END:VCALENDAR

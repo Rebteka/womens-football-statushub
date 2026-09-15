@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IF Gnistan
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539020@anstoss
+DTSTAMP:20260328T150000Z
+DTSTART:20260328T150000Z
+DTEND:20260328T170000Z
+SUMMARY:Åland United – IF Gnistan 6:1
+DESCRIPTION:Kansallinen Liiga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539024@anstoss
+DTSTAMP:20260404T110000Z
+DTSTART:20260404T110000Z
+DTEND:20260404T130000Z
+SUMMARY:IF Gnistan – HPS 1:2
+DESCRIPTION:Kansallinen Liiga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539026@anstoss
+DTSTAMP:20260424T160000Z
+DTSTART:20260424T160000Z
+DTEND:20260424T180000Z
+SUMMARY:PK-35 Vantaa – IF Gnistan 2:3
+DESCRIPTION:Kansallinen Liiga · 3. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539031@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:IF Gnistan – VIFK 6:0
+DESCRIPTION:Kansallinen Liiga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539036@anstoss
+DTSTAMP:20260509T130000Z
+DTSTART:20260509T130000Z
+DTEND:20260509T150000Z
+SUMMARY:HJK – IF Gnistan 5:0
+DESCRIPTION:Kansallinen Liiga · 5. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539038@anstoss
+DTSTAMP:20260517T100000Z
+DTSTART:20260517T100000Z
+DTEND:20260517T120000Z
+SUMMARY:IF Gnistan – Ilves 2:3
+DESCRIPTION:Kansallinen Liiga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539042@anstoss
+DTSTAMP:20260522T153000Z
+DTSTART:20260522T153000Z
+DTEND:20260522T173000Z
+SUMMARY:KuPS – IF Gnistan 2:1
+DESCRIPTION:Kansallinen Liiga · 7. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539042.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539047@anstoss
+DTSTAMP:20260531T110000Z
+DTSTART:20260531T110000Z
+DTEND:20260531T130000Z
+SUMMARY:IF Gnistan – Åland United 1:4
+DESCRIPTION:Kansallinen Liiga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539047.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539052@anstoss
+DTSTAMP:20260613T140000Z
+DTSTART:20260613T140000Z
+DTEND:20260613T160000Z
+SUMMARY:HPS – IF Gnistan 4:0
+DESCRIPTION:Kansallinen Liiga · 9. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539052.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539055@anstoss
+DTSTAMP:20260627T120000Z
+DTSTART:20260627T120000Z
+DTEND:20260627T140000Z
+SUMMARY:IF Gnistan – PK-35 Vantaa 3:0
+DESCRIPTION:Kansallinen Liiga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539055.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539061@anstoss
+DTSTAMP:20260705T130000Z
+DTSTART:20260705T130000Z
+DTEND:20260705T150000Z
+SUMMARY:VIFK – IF Gnistan 0:1
+DESCRIPTION:Kansallinen Liiga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539061.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539064@anstoss
+DTSTAMP:20260712T130000Z
+DTSTART:20260712T130000Z
+DTEND:20260712T150000Z
+SUMMARY:IF Gnistan – HJK 0:1
+DESCRIPTION:Kansallinen Liiga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539064.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539066@anstoss
+DTSTAMP:20260718T110000Z
+DTSTART:20260718T110000Z
+DTEND:20260718T130000Z
+SUMMARY:Ilves – IF Gnistan 2:2
+DESCRIPTION:Kansallinen Liiga · 13. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539066.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539072@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:IF Gnistan – KuPS 0:1
+DESCRIPTION:Kansallinen Liiga · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539072.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612459@anstoss
+DTSTAMP:20260812T160000Z
+DTSTART:20260812T160000Z
+DTEND:20260812T180000Z
+SUMMARY:IF Gnistan – HJK 1:3
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612460@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Ilves – IF Gnistan 1:2
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 2. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612465@anstoss
+DTSTAMP:20260823T100000Z
+DTSTART:20260823T100000Z
+DTEND:20260823T120000Z
+SUMMARY:IF Gnistan – Åland United 2:3
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612468@anstoss
+DTSTAMP:20260829T153000Z
+DTSTART:20260829T153000Z
+DTEND:20260829T173000Z
+SUMMARY:KuPS – IF Gnistan 2:0
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 4. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612472@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:IF Gnistan – HPS
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612477@anstoss
+DTSTAMP:20260919T150000Z
+DTSTART:20260919T150000Z
+DTEND:20260919T170000Z
+SUMMARY:HJK – IF Gnistan
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612478@anstoss
+DTSTAMP:20260926T100000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+SUMMARY:IF Gnistan – Ilves
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612482@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:Åland United – IF Gnistan
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612485@anstoss
+DTSTAMP:20261018T110000Z
+DTSTART:20261018T110000Z
+DTEND:20261018T130000Z
+SUMMARY:IF Gnistan – KuPS
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612485.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612490@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:HPS – IF Gnistan
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 10. Spieltag ·
+  Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612490.ht
+ ml
+END:VEVENT
+END:VCALENDAR

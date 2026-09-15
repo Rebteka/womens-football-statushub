@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rapperswil Jona
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1581751@anstoss
+DTSTAMP:20260808T160000Z
+DTSTART:20260808T160000Z
+DTEND:20260808T180000Z
+SUMMARY:Rapperswil Jona – St. Gallen 4:1
+DESCRIPTION:Women's Super League (Schweiz) · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581755@anstoss
+DTSTAMP:20260816T143000Z
+DTSTART:20260816T143000Z
+DTEND:20260816T163000Z
+SUMMARY:Grasshopper – Rapperswil Jona 6:0
+DESCRIPTION:Women's Super League (Schweiz) · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581755.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581761@anstoss
+DTSTAMP:20260829T160000Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:Rapperswil Jona – Young Boys 1:1
+DESCRIPTION:Women's Super League (Schweiz) · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581767@anstoss
+DTSTAMP:20260905T160000Z
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+SUMMARY:Rapperswil Jona – Zürich 2:4
+DESCRIPTION:Women's Super League (Schweiz) · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581767.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581770@anstoss
+DTSTAMP:20260909T180000Z
+DTSTART:20260909T180000Z
+DTEND:20260909T200000Z
+SUMMARY:Luzern – Rapperswil Jona 2:0
+DESCRIPTION:Women's Super League (Schweiz) · 5. Spieltag
+LOCATION:Stadion Allmend\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581775@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Rapperswil Jona – Servette Chênois 1:2
+DESCRIPTION:Women's Super League (Schweiz) · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581775.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581780@anstoss
+DTSTAMP:20260919T140000Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Basel – Rapperswil Jona
+DESCRIPTION:Women's Super League (Schweiz) · 7. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581785@anstoss
+DTSTAMP:20261003T160000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Rapperswil Jona – Aarau
+DESCRIPTION:Women's Super League (Schweiz) · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581785.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581792@anstoss
+DTSTAMP:20261018T123000Z
+DTSTART:20261018T123000Z
+DTEND:20261018T143000Z
+SUMMARY:Yverdon – Rapperswil Jona
+DESCRIPTION:Women's Super League (Schweiz) · 9. Spieltag
+LOCATION:Stade Municipal\, Yverdon-les-Bains
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581792.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581797@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART:20261101T150000Z
+DTEND:20261101T170000Z
+SUMMARY:Servette Chênois – Rapperswil Jona
+DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581797.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581801@anstoss
+DTSTAMP:20261107T170000Z
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+SUMMARY:Rapperswil Jona – Luzern
+DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581801.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581806@anstoss
+DTSTAMP:20261113T180000Z
+DTSTART:20261113T180000Z
+DTEND:20261113T200000Z
+SUMMARY:Rapperswil Jona – Grasshopper
+DESCRIPTION:Women's Super League (Schweiz) · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581806.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581809@anstoss
+DTSTAMP:20261121T160000Z
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
+SUMMARY:Aarau – Rapperswil Jona
+DESCRIPTION:Women's Super League (Schweiz) · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581809.ht
+ ml
+END:VEVENT
+END:VCALENDAR

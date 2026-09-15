@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stabæk
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495304@anstoss
+DTSTAMP:20260321T130000Z
+DTSTART:20260321T130000Z
+DTEND:20260321T150000Z
+SUMMARY:Stabæk – Lyn 0:1
+DESCRIPTION:Toppserien · 1. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495306@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:Fortuna Ålesund – Stabæk 2:2
+DESCRIPTION:Toppserien · 2. Spieltag
+LOCATION:Color Line Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495314@anstoss
+DTSTAMP:20260401T140000Z
+DTSTART:20260401T140000Z
+DTEND:20260401T160000Z
+SUMMARY:LSK Kvinner – Stabæk 0:3
+DESCRIPTION:Toppserien · 3. Spieltag
+LOCATION:LKS-Hallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495323@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Stabæk – Vålerenga 0:0
+DESCRIPTION:Toppserien · 4. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495380@anstoss
+DTSTAMP:20260429T160000Z
+DTSTART:20260429T160000Z
+DTEND:20260429T180000Z
+SUMMARY:Vålerenga – Stabæk 3:1
+DESCRIPTION:Toppserien · 14. Spieltag
+LOCATION:Intility Arena\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495329@anstoss
+DTSTAMP:20260503T160000Z
+DTSTART:20260503T160000Z
+DTEND:20260503T180000Z
+SUMMARY:Bodø / Glimt – Stabæk 0:4
+DESCRIPTION:Toppserien · 5. Spieltag
+LOCATION:Aspmyra Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495329.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495331@anstoss
+DTSTAMP:20260508T160000Z
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+SUMMARY:SK Brann – Stabæk 1:0
+DESCRIPTION:Toppserien · 6. Spieltag
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495340@anstoss
+DTSTAMP:20260515T160000Z
+DTSTART:20260515T160000Z
+DTEND:20260515T180000Z
+SUMMARY:Stabæk – Rosenborg 1:2
+DESCRIPTION:Toppserien · 7. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495346@anstoss
+DTSTAMP:20260526T160000Z
+DTSTART:20260526T160000Z
+DTEND:20260526T180000Z
+SUMMARY:Stabæk – Haugesund 3:0
+DESCRIPTION:Toppserien · 8. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495351@anstoss
+DTSTAMP:20260529T160000Z
+DTSTART:20260529T160000Z
+DTEND:20260529T180000Z
+SUMMARY:Hønefoss – Stabæk 1:2
+DESCRIPTION:Toppserien · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495358@anstoss
+DTSTAMP:20260613T113000Z
+DTSTART:20260613T113000Z
+DTEND:20260613T133000Z
+SUMMARY:Stabæk – Molde 2:1
+DESCRIPTION:Toppserien · 10. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495365@anstoss
+DTSTAMP:20260620T140000Z
+DTSTART:20260620T140000Z
+DTEND:20260620T160000Z
+SUMMARY:Stabæk – Røa 0:1
+DESCRIPTION:Toppserien · 11. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495367@anstoss
+DTSTAMP:20260815T120000Z
+DTSTART:20260815T120000Z
+DTEND:20260815T140000Z
+SUMMARY:Haugesund – Stabæk 1:1
+DESCRIPTION:Toppserien · 12. Spieltag
+LOCATION:Haugesund Stadion\, Haugesund
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495376@anstoss
+DTSTAMP:20260822T140000Z
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Stabæk – Bodø / Glimt 7:1
+DESCRIPTION:Toppserien · 13. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495389@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Stabæk – LSK Kvinner 5:1
+DESCRIPTION:Toppserien · 15. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495394@anstoss
+DTSTAMP:20260917T160000Z
+DTSTART:20260917T160000Z
+DTEND:20260917T180000Z
+SUMMARY:Rosenborg – Stabæk
+DESCRIPTION:Toppserien · 16. Spieltag
+LOCATION:Koteng Arena\, Trondheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495401@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Stabæk – SK Brann
+DESCRIPTION:Toppserien · 17. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495405@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Molde – Stabæk
+DESCRIPTION:Toppserien · 18. Spieltag
+LOCATION:Aker Stadion\, Molde
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495413@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Stabæk – Hønefoss
+DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495419@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Røa – Stabæk
+DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Roabanen\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495424@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+SUMMARY:Stabæk – Fortuna Ålesund
+DESCRIPTION:Toppserien · 21. Spieltag
+LOCATION:Nadderud Stadion\, Bekkestua
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495424.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495430@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Lyn – Stabæk
+DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Kringsja kunstgress\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495430.ht
+ ml
+END:VEVENT
+END:VCALENDAR

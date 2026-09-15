@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SC Freiburg
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1593110@anstoss
+DTSTAMP:20260823T163000Z
+DTSTART:20260823T163000Z
+DTEND:20260823T183000Z
+SUMMARY:Hamburger SV – SC Freiburg 1:1
+DESCRIPTION:Frauen-Bundesliga · 1. Spieltag
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593117@anstoss
+DTSTAMP:20260829T100000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T120000Z
+SUMMARY:SC Freiburg – 1. FC Union Berlin 1:0
+DESCRIPTION:Frauen-Bundesliga · 2. Spieltag
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593122@anstoss
+DTSTAMP:20260906T140000Z
+DTSTART:20260906T140000Z
+DTEND:20260906T160000Z
+SUMMARY:FC Bayern München – SC Freiburg 4:1
+DESCRIPTION:Frauen-Bundesliga · 3. Spieltag
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593130@anstoss
+DTSTAMP:20260913T163000Z
+DTSTART:20260913T163000Z
+DTEND:20260913T183000Z
+SUMMARY:SC Freiburg – 1. FSV Mainz 05 3:0
+DESCRIPTION:Frauen-Bundesliga · 4. Spieltag
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593136@anstoss
+DTSTAMP:20260920T140000Z
+DTSTART:20260920T140000Z
+DTEND:20260920T160000Z
+SUMMARY:SC Freiburg – Bayer 04 Leverkusen
+DESCRIPTION:Frauen-Bundesliga · 5. Spieltag
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629367@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:SG 99 Andernach – SC Freiburg
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593145@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:1. FC Köln – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593151@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:SC Freiburg – RB Leipzig
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593151.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593161@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SV Werder Bremen – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Weserstadion Platz 11\, Bremen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593166@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:SC Freiburg – 1. FC Nürnberg
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593166.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593172@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:TSG Hoffenheim – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Dietmar-Hopp Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593179@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SC Freiburg – VfB Stuttgart
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593179.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593186@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:SC Freiburg – VfL Wolfsburg
+DESCRIPTION:Frauen-Bundesliga · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593186.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593192@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Eintracht Frankfurt – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593192.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593200@anstoss
+DTSTAMP:20270117T130000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:SC Freiburg – Hamburger SV
+DESCRIPTION:Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593200.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593210@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:1. FC Union Berlin – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593210.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593214@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SC Freiburg – FC Bayern München
+DESCRIPTION:Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593214.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593223@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. FSV Mainz 05 – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593223.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593227@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Bayer 04 Leverkusen – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593227.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593234@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:SC Freiburg – 1. FC Köln
+DESCRIPTION:Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593234.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593244@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:RB Leipzig – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593250@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:SC Freiburg – SV Werder Bremen
+DESCRIPTION:Frauen-Bundesliga · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593254@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:1. FC Nürnberg – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593264@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:SC Freiburg – TSG Hoffenheim
+DESCRIPTION:Frauen-Bundesliga · 23. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593272@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:VfB Stuttgart – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 24. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593281@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:VfL Wolfsburg – SC Freiburg
+DESCRIPTION:Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offen
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1593284@anstoss
+DTSTAMP:20270523T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:SC Freiburg – Eintracht Frankfurt
+DESCRIPTION:Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1593284.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Horní Heršpice
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1627625@anstoss
+DTSTAMP:20260816T110000Z
+DTSTART:20260816T110000Z
+DTEND:20260816T130000Z
+SUMMARY:Slovan Liberec – Horní Heršpice 2:0
+DESCRIPTION:1. Liga Women · 1. Spieltag
+LOCATION:Stadium Hradek\, Hradek nad Nisou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627625.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627627@anstoss
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:Horní Heršpice – Slovácko 0:1
+DESCRIPTION:1. Liga Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627627.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627632@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Slavia Praha – Horní Heršpice 9:0
+DESCRIPTION:1. Liga Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627632.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627635@anstoss
+DTSTAMP:20260905T090000Z
+DTSTART:20260905T090000Z
+DTEND:20260905T110000Z
+SUMMARY:Horní Heršpice – Viktoria Plzeň 0:2
+DESCRIPTION:1. Liga Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627635.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627640@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Baník Ostrava – Horní Heršpice 7:0
+DESCRIPTION:1. Liga Women · 5. Spieltag
+LOCATION:Bazaly
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627640.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627644@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Prague Raptors – Horní Heršpice
+DESCRIPTION:1. Liga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627647@anstoss
+DTSTAMP:20260926T090000Z
+DTSTART:20260926T090000Z
+DTEND:20260926T110000Z
+SUMMARY:Horní Heršpice – Sparta Praha
+DESCRIPTION:1. Liga Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627647.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627652@anstoss
+DTSTAMP:20261017T110000Z
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
+SUMMARY:Horní Heršpice – Slovan Liberec
+DESCRIPTION:1. Liga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627658@anstoss
+DTSTAMP:20261025T133000Z
+DTSTART:20261025T133000Z
+DTEND:20261025T153000Z
+SUMMARY:Slovácko – Horní Heršpice
+DESCRIPTION:1. Liga Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627659@anstoss
+DTSTAMP:20261031T100000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Horní Heršpice – Slavia Praha
+DESCRIPTION:1. Liga Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627659.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627665@anstoss
+DTSTAMP:20261107T153000Z
+DTSTART:20261107T153000Z
+DTEND:20261107T173000Z
+SUMMARY:Viktoria Plzeň – Horní Heršpice
+DESCRIPTION:1. Liga Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627665.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627668@anstoss
+DTSTAMP:20270220T130000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Horní Heršpice – Baník Ostrava
+DESCRIPTION:1. Liga Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627668.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627672@anstoss
+DTSTAMP:20270313T133000Z
+DTSTART:20270313T133000Z
+DTEND:20270313T153000Z
+SUMMARY:Horní Heršpice – Prague Raptors
+DESCRIPTION:1. Liga Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627672.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627677@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART:20270320T140000Z
+DTEND:20270320T160000Z
+SUMMARY:Sparta Praha – Horní Heršpice
+DESCRIPTION:1. Liga Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627677.ht
+ ml
+END:VEVENT
+END:VCALENDAR

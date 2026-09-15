@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pachuca
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603301@anstoss
+DTSTAMP:20260801T230000Z
+DTSTART:20260801T230000Z
+DTEND:20260802T010000Z
+SUMMARY:Juárez – Pachuca 1:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603309@anstoss
+DTSTAMP:20260808T010600Z
+DTSTART:20260808T010600Z
+DTEND:20260808T030600Z
+SUMMARY:Atlas – Pachuca 1:1
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603320@anstoss
+DTSTAMP:20260815T230000Z
+DTSTART:20260815T230000Z
+DTEND:20260816T010000Z
+SUMMARY:Pachuca – Pumas UNAM 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603332@anstoss
+DTSTAMP:20260823T220000Z
+DTSTART:20260823T220000Z
+DTEND:20260824T000000Z
+SUMMARY:Pachuca – Guadalajara 3:1
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603338@anstoss
+DTSTAMP:20260830T010600Z
+DTSTART:20260830T010600Z
+DTEND:20260830T030600Z
+SUMMARY:Tigres UANL – Pachuca 2:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Universitario\, San Nicolas de los Garza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603349@anstoss
+DTSTAMP:20260906T010600Z
+DTSTART:20260906T010600Z
+DTEND:20260906T030600Z
+SUMMARY:Tijuana – Pachuca 3:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603362@anstoss
+DTSTAMP:20260915T010000Z
+DTSTART:20260915T010000Z
+DTEND:20260915T030000Z
+SUMMARY:Pachuca – León 0:1
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603367@anstoss
+DTSTAMP:20260920T230000Z
+DTSTART:20260920T230000Z
+DTEND:20260921T010000Z
+SUMMARY:Atlético San Luis – Pachuca
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603374@anstoss
+DTSTAMP:20260926T230000Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:Pachuca – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603389@anstoss
+DTSTAMP:20261005T010600Z
+DTSTART:20261005T010600Z
+DTEND:20261005T030600Z
+SUMMARY:Pachuca – Toluca
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603396@anstoss
+DTSTAMP:20261019T010000Z
+DTSTART:20261019T010000Z
+DTEND:20261019T030000Z
+SUMMARY:América – Pachuca
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603401@anstoss
+DTSTAMP:20261024T230000Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Pachuca – Necaxa
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603412@anstoss
+DTSTAMP:20261101T010600Z
+DTSTART:20261101T010600Z
+DTEND:20261101T030600Z
+SUMMARY:Querétaro – Pachuca
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603412.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603421@anstoss
+DTSTAMP:20261106T230000Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:Pachuca – Puebla
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603421.ht
+ ml
+END:VEVENT
+END:VCALENDAR

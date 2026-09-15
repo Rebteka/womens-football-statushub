@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VIFK
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1539018@anstoss
+DTSTAMP:20260328T120000Z
+DTSTART:20260328T120000Z
+DTEND:20260328T140000Z
+SUMMARY:VIFK – HJK 0:1
+DESCRIPTION:Kansallinen Liiga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539018.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539023@anstoss
+DTSTAMP:20260403T120000Z
+DTSTART:20260403T120000Z
+DTEND:20260403T140000Z
+SUMMARY:Ilves – VIFK 3:0
+DESCRIPTION:Kansallinen Liiga · 2. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539023.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539029@anstoss
+DTSTAMP:20260425T150000Z
+DTSTART:20260425T150000Z
+DTEND:20260425T170000Z
+SUMMARY:VIFK – KuPS 1:2
+DESCRIPTION:Kansallinen Liiga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539031@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:IF Gnistan – VIFK 6:0
+DESCRIPTION:Kansallinen Liiga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539037@anstoss
+DTSTAMP:20260510T110000Z
+DTSTART:20260510T110000Z
+DTEND:20260510T130000Z
+SUMMARY:VIFK – HPS 2:3
+DESCRIPTION:Kansallinen Liiga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539037.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539039@anstoss
+DTSTAMP:20260517T120000Z
+DTSTART:20260517T120000Z
+DTEND:20260517T140000Z
+SUMMARY:PK-35 Vantaa – VIFK 2:1
+DESCRIPTION:Kansallinen Liiga · 6. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539039.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539045@anstoss
+DTSTAMP:20260521T140000Z
+DTSTART:20260521T140000Z
+DTEND:20260521T160000Z
+SUMMARY:VIFK – Åland United 0:2
+DESCRIPTION:Kansallinen Liiga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539045.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539046@anstoss
+DTSTAMP:20260529T153000Z
+DTSTART:20260529T153000Z
+DTEND:20260529T173000Z
+SUMMARY:HJK – VIFK 4:0
+DESCRIPTION:Kansallinen Liiga · 8. Spieltag
+LOCATION:Helsinki Football Stadium\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539053@anstoss
+DTSTAMP:20260614T110000Z
+DTSTART:20260614T110000Z
+DTEND:20260614T130000Z
+SUMMARY:VIFK – Ilves 0:3
+DESCRIPTION:Kansallinen Liiga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539053.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539054@anstoss
+DTSTAMP:20260627T120000Z
+DTSTART:20260627T120000Z
+DTEND:20260627T140000Z
+SUMMARY:KuPS – VIFK 5:1
+DESCRIPTION:Kansallinen Liiga · 10. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539054.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539061@anstoss
+DTSTAMP:20260705T130000Z
+DTSTART:20260705T130000Z
+DTEND:20260705T150000Z
+SUMMARY:VIFK – IF Gnistan 0:1
+DESCRIPTION:Kansallinen Liiga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539061.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539063@anstoss
+DTSTAMP:20260712T120000Z
+DTSTART:20260712T120000Z
+DTEND:20260712T140000Z
+SUMMARY:HPS – VIFK 1:1
+DESCRIPTION:Kansallinen Liiga · 12. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539063.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539068@anstoss
+DTSTAMP:20260719T110000Z
+DTSTART:20260719T110000Z
+DTEND:20260719T130000Z
+SUMMARY:VIFK – PK-35 Vantaa 1:1
+DESCRIPTION:Kansallinen Liiga · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539068.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539070@anstoss
+DTSTAMP:20260725T090000Z
+DTSTART:20260725T090000Z
+DTEND:20260725T110000Z
+SUMMARY:Åland United – VIFK 6:1
+DESCRIPTION:Kansallinen Liiga · 14. Spieltag
+LOCATION:Wiklöf Holding Arena\, Marie Harbor
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539070.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612492@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:HJS Akatemia – VIFK 0:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612492.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612496@anstoss
+DTSTAMP:20260816T144500Z
+DTSTART:20260816T144500Z
+DTEND:20260816T164500Z
+SUMMARY:VIFK – Honka 0:2
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612498@anstoss
+DTSTAMP:20260823T130000Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:EBK – VIFK 3:2
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612467@anstoss
+DTSTAMP:20260829T150000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:VIFK – JyPK 3:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612470@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:PK-35 Vantaa – VIFK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612504@anstoss
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:VIFK – HJS Akatemia
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612504.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612508@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Honka – VIFK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612508.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612510@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:VIFK – EBK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612510.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612486@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:JyPK – VIFK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612486.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612488@anstoss
+DTSTAMP:20261024T120000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:VIFK – PK-35 Vantaa
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
+ nstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612488.ht
+ ml
+END:VEVENT
+END:VCALENDAR

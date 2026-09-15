@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Glentoran BU
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1535371@anstoss
+DTSTAMP:20260501T184500Z
+DTSTART:20260501T184500Z
+DTEND:20260501T204500Z
+SUMMARY:Glentoran BU – Lisburn Rangers 5:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535376@anstoss
+DTSTAMP:20260517T160000Z
+DTSTART:20260517T160000Z
+DTEND:20260517T180000Z
+SUMMARY:Glentoran BU – Lisburn Ladies 7:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535381@anstoss
+DTSTAMP:20260522T184500Z
+DTSTART:20260522T184500Z
+DTEND:20260522T204500Z
+SUMMARY:Glentoran BU – Larne 5:0
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535391@anstoss
+DTSTAMP:20260619T190000Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:Crusaders – Glentoran BU 2:4
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535393@anstoss
+DTSTAMP:20260628T140000Z
+DTSTART:20260628T140000Z
+DTEND:20260628T160000Z
+SUMMARY:Glentoran BU – Derry City 3:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535400@anstoss
+DTSTAMP:20260710T184500Z
+DTSTART:20260710T184500Z
+DTEND:20260710T204500Z
+SUMMARY:Linfield – Glentoran BU 2:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558455@anstoss
+DTSTAMP:20260722T120000Z
+DTSTART:20260722T120000Z
+DTEND:20260722T140000Z
+SUMMARY:Glentoran BU – Riga 1:4
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600539@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:Glentoran BU – Pyunik 4:2
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535407@anstoss
+DTSTAMP:20260731T184500Z
+DTSTART:20260731T184500Z
+DTEND:20260731T204500Z
+SUMMARY:Derry City – Glentoran BU 0:1
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:The Ryan McBride Brandywell Stadium\, Derry
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535386@anstoss
+DTSTAMP:20260803T190000Z
+DTSTART:20260803T190000Z
+DTEND:20260803T210000Z
+SUMMARY:Cliftonville – Glentoran BU 3:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535411@anstoss
+DTSTAMP:20260807T184500Z
+DTSTART:20260807T184500Z
+DTEND:20260807T204500Z
+SUMMARY:Glentoran BU – Crusaders 5:1
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535416@anstoss
+DTSTAMP:20260814T184500Z
+DTSTART:20260814T184500Z
+DTEND:20260814T204500Z
+SUMMARY:Larne – Glentoran BU 1:7
+DESCRIPTION:Premiership Women · Gruppenphase
+LOCATION:Inver Park\, Larne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535399@anstoss
+DTSTAMP:20260818T184500Z
+DTSTART:20260818T184500Z
+DTEND:20260818T204500Z
+SUMMARY:Lisburn Ladies – Glentoran BU 0:6
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535419@anstoss
+DTSTAMP:20260830T150000Z
+DTSTART:20260830T150000Z
+DTEND:20260830T170000Z
+SUMMARY:Glentoran BU – Cliftonville 1:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535423@anstoss
+DTSTAMP:20260904T190000Z
+DTSTART:20260904T190000Z
+DTEND:20260904T210000Z
+SUMMARY:Lisburn Ladies – Glentoran BU 0:4
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535403@anstoss
+DTSTAMP:20260907T190000Z
+DTSTART:20260907T190000Z
+DTEND:20260907T210000Z
+SUMMARY:Glentoran BU – Linfield 4:2
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638750@anstoss
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Glentoran BU – Linfield
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638750.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638754@anstoss
+DTSTAMP:20260927T153000Z
+DTSTART:20260927T153000Z
+DTEND:20260927T173000Z
+SUMMARY:Glentoran BU – Lisburn Ladies
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638757@anstoss
+DTSTAMP:20261004T170000Z
+DTSTART:20261004T170000Z
+DTEND:20261004T190000Z
+SUMMARY:Cliftonville – Glentoran BU
+DESCRIPTION:Premiership Women · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638757.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kleinmünchen / BW Linz
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1574590@anstoss
+DTSTAMP:20260801T150000Z
+DTSTART:20260801T150000Z
+DTEND:20260801T170000Z
+SUMMARY:Kleinmünchen / BW Linz – LASK 2:3
+DESCRIPTION:Frauenliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574590.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574595@anstoss
+DTSTAMP:20260808T150000Z
+DTSTART:20260808T150000Z
+DTEND:20260808T170000Z
+SUMMARY:Salzburg – Kleinmünchen / BW Linz 2:0
+DESCRIPTION:Frauenliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574595.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574599@anstoss
+DTSTAMP:20260815T130000Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Kleinmünchen / BW Linz – First Vienna 0:2
+DESCRIPTION:Frauenliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574599.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574607@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Südburgenland – Kleinmünchen / BW Linz 0:1
+DESCRIPTION:Frauenliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574609@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:Kleinmünchen / BW Linz – SK Rapid 1:1
+DESCRIPTION:Frauenliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574614@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Kleinmünchen / BW Linz – Sturm Graz 0:4
+DESCRIPTION:Frauenliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574614.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574618@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Austria Wien – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 7. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574618.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574624@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Kleinmünchen / BW Linz – St. Pölten
+DESCRIPTION:Frauenliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574624.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574631@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Rheindorf Altach – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574631.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574633@anstoss
+DTSTAMP:20261017T120000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:LASK – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574633.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574639@anstoss
+DTSTAMP:20261024T120000Z
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
+SUMMARY:Kleinmünchen / BW Linz – Salzburg
+DESCRIPTION:Frauenliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574639.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574643@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:First Vienna – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574643.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574649@anstoss
+DTSTAMP:20261114T130000Z
+DTSTART:20261114T130000Z
+DTEND:20261114T150000Z
+SUMMARY:Kleinmünchen / BW Linz – Südburgenland
+DESCRIPTION:Frauenliga · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574649.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574656@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
+SUMMARY:SK Rapid – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 14. Spieltag
+LOCATION:Allianz Stadion\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574656.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574662@anstoss
+DTSTAMP:20270312T173000Z
+DTSTART:20270312T173000Z
+DTEND:20270312T193000Z
+SUMMARY:Sturm Graz – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574662.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574664@anstoss
+DTSTAMP:20270321T160000Z
+DTSTART:20270321T160000Z
+DTEND:20270321T180000Z
+SUMMARY:Kleinmünchen / BW Linz – Austria Wien
+DESCRIPTION:Frauenliga · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574664.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574672@anstoss
+DTSTAMP:20270402T184500Z
+DTSTART:20270402T184500Z
+DTEND:20270402T204500Z
+SUMMARY:St. Pölten – Kleinmünchen / BW Linz
+DESCRIPTION:Frauenliga · 17. Spieltag
+LOCATION:NV Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574672.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1574674@anstoss
+DTSTAMP:20270411T150000Z
+DTSTART:20270411T150000Z
+DTEND:20270411T170000Z
+SUMMARY:Kleinmünchen / BW Linz – Rheindorf Altach
+DESCRIPTION:Frauenliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574674.ht
+ ml
+END:VEVENT
+END:VCALENDAR

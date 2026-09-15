@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Piteå
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1495438@anstoss
+DTSTAMP:20260329T120000Z
+DTSTART:20260329T120000Z
+DTEND:20260329T140000Z
+SUMMARY:Piteå – Kristianstad 2:3
+DESCRIPTION:Damallsvenskan · 1. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495443@anstoss
+DTSTAMP:20260405T130000Z
+DTSTART:20260405T130000Z
+DTEND:20260405T150000Z
+SUMMARY:Uppsala – Piteå 0:0
+DESCRIPTION:Damallsvenskan · 2. Spieltag
+LOCATION:Studenternas IP\, Uppsala
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495451@anstoss
+DTSTAMP:20260426T120000Z
+DTSTART:20260426T120000Z
+DTEND:20260426T140000Z
+SUMMARY:Piteå – Vittsjö 1:0
+DESCRIPTION:Damallsvenskan · 3. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495458@anstoss
+DTSTAMP:20260503T110000Z
+DTSTART:20260503T110000Z
+DTEND:20260503T130000Z
+SUMMARY:Växjö – Piteå 1:2
+DESCRIPTION:Damallsvenskan · 4. Spieltag
+LOCATION:Visma Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495464@anstoss
+DTSTAMP:20260510T110000Z
+DTSTART:20260510T110000Z
+DTEND:20260510T130000Z
+SUMMARY:Piteå – Rosengård 2:1
+DESCRIPTION:Damallsvenskan · 5. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495467@anstoss
+DTSTAMP:20260517T130000Z
+DTSTART:20260517T130000Z
+DTEND:20260517T150000Z
+SUMMARY:AIK – Piteå 2:1
+DESCRIPTION:Damallsvenskan · 6. Spieltag
+LOCATION:Skytteholms IP\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495479@anstoss
+DTSTAMP:20260522T160000Z
+DTSTART:20260522T160000Z
+DTEND:20260522T180000Z
+SUMMARY:Piteå – Djurgården 0:1
+DESCRIPTION:Damallsvenskan · 7. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495484@anstoss
+DTSTAMP:20260530T130000Z
+DTSTART:20260530T130000Z
+DTEND:20260530T150000Z
+SUMMARY:Norrköping – Piteå 1:2
+DESCRIPTION:Damallsvenskan · 8. Spieltag
+LOCATION:Norrkopings Idrottspark
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495484.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495491@anstoss
+DTSTAMP:20260613T103000Z
+DTSTART:20260613T103000Z
+DTEND:20260613T123000Z
+SUMMARY:Piteå – Brommapojkarna 1:2
+DESCRIPTION:Damallsvenskan · 9. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495491.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495496@anstoss
+DTSTAMP:20260618T140000Z
+DTSTART:20260618T140000Z
+DTEND:20260618T160000Z
+SUMMARY:Eskilstuna United – Piteå 2:0
+DESCRIPTION:Damallsvenskan · 10. Spieltag
+LOCATION:Tunavallen\, Eskilstuna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495496.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495505@anstoss
+DTSTAMP:20260625T160000Z
+DTSTART:20260625T160000Z
+DTEND:20260625T180000Z
+SUMMARY:Piteå – Hammarby 1:1
+DESCRIPTION:Damallsvenskan · 11. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495505.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495513@anstoss
+DTSTAMP:20260731T160000Z
+DTSTART:20260731T160000Z
+DTEND:20260731T180000Z
+SUMMARY:Malmö FF – Piteå 0:0
+DESCRIPTION:Damallsvenskan · 12. Spieltag
+LOCATION:Eleda Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495520@anstoss
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T140000Z
+SUMMARY:Piteå – Häcken 1:4
+DESCRIPTION:Damallsvenskan · 13. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495520.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495524@anstoss
+DTSTAMP:20260816T170000Z
+DTSTART:20260816T170000Z
+DTEND:20260816T190000Z
+SUMMARY:Hammarby – Piteå 5:0
+DESCRIPTION:Damallsvenskan · 14. Spieltag
+LOCATION:Hammarby IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495524.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495535@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Piteå – Uppsala 5:1
+DESCRIPTION:Damallsvenskan · 15. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495535.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495539@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:Brommapojkarna – Piteå 1:1
+DESCRIPTION:Damallsvenskan · 16. Spieltag
+LOCATION:Grimsta IP\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495549@anstoss
+DTSTAMP:20260905T103000Z
+DTSTART:20260905T103000Z
+DTEND:20260905T123000Z
+SUMMARY:Piteå – Växjö 2:0
+DESCRIPTION:Damallsvenskan · 17. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495549.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495555@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Piteå – AIK 0:1
+DESCRIPTION:Damallsvenskan · 18. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495555.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495560@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:Kristianstad – Piteå
+DESCRIPTION:Damallsvenskan · 19. Spieltag
+LOCATION:Kristianstad Arena\, Kristianstad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495560.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495570@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Rosengård – Piteå
+DESCRIPTION:Damallsvenskan · 20. Spieltag
+LOCATION:Malmo IP
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495570.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495576@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Piteå – Norrköping
+DESCRIPTION:Damallsvenskan · 21. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495576.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495579@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Djurgården – Piteå
+DESCRIPTION:Damallsvenskan · 22. Spieltag
+LOCATION:Stockholms Olympiastadion\, Stockholm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495579.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495592@anstoss
+DTSTAMP:20261025T120000Z
+DTSTART:20261025T120000Z
+DTEND:20261025T140000Z
+SUMMARY:Vittsjö – Piteå
+DESCRIPTION:Damallsvenskan · 23. Spieltag
+LOCATION:Vittsjo\, Vittsjo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495592.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495597@anstoss
+DTSTAMP:20261031T120000Z
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
+SUMMARY:Piteå – Eskilstuna United
+DESCRIPTION:Damallsvenskan · 24. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495603@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Piteå – Malmö FF
+DESCRIPTION:Damallsvenskan · 25. Spieltag
+LOCATION:LF Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495603.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1495608@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Häcken – Piteå
+DESCRIPTION:Damallsvenskan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1495608.ht
+ ml
+END:VEVENT
+END:VCALENDAR

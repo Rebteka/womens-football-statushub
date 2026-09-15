@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Palmeiras
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522327@anstoss
+DTSTAMP:20260214T000000Z
+DTSTART:20260214T000000Z
+DTEND:20260214T020000Z
+SUMMARY:Palmeiras – America Mineiro 4:0
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522333@anstoss
+DTSTAMP:20260220T220000Z
+DTSTART:20260220T220000Z
+DTEND:20260221T000000Z
+SUMMARY:Gremio – Palmeiras 1:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522341@anstoss
+DTSTAMP:20260314T003000Z
+DTSTART:20260314T003000Z
+DTEND:20260314T023000Z
+SUMMARY:Palmeiras – Corinthians 3:2
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522451@anstoss
+DTSTAMP:20260322T140000Z
+DTSTART:20260322T140000Z
+DTEND:20260322T160000Z
+SUMMARY:Palmeiras – Vitória BA 6:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522356@anstoss
+DTSTAMP:20260328T003000Z
+DTSTART:20260328T003000Z
+DTEND:20260328T023000Z
+SUMMARY:São Paulo – Palmeiras 3:0
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522363@anstoss
+DTSTAMP:20260331T003000Z
+DTSTART:20260331T003000Z
+DTEND:20260331T023000Z
+SUMMARY:Palmeiras – Flamengo 1:1
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522370@anstoss
+DTSTAMP:20260421T190000Z
+DTSTART:20260421T190000Z
+DTEND:20260421T210000Z
+SUMMARY:Fluminense – Palmeiras 1:2
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522377@anstoss
+DTSTAMP:20260427T230000Z
+DTSTART:20260427T230000Z
+DTEND:20260428T010000Z
+SUMMARY:Palmeiras – Santos 0:0
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522377.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522385@anstoss
+DTSTAMP:20260502T190000Z
+DTSTART:20260502T190000Z
+DTEND:20260502T210000Z
+SUMMARY:Bahia – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522391@anstoss
+DTSTAMP:20260512T000000Z
+DTSTART:20260512T000000Z
+DTEND:20260512T020000Z
+SUMMARY:Palmeiras – Atlético Mineiro 4:1
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522398@anstoss
+DTSTAMP:20260519T000000Z
+DTSTART:20260519T000000Z
+DTEND:20260519T020000Z
+SUMMARY:Palmeiras – Botafogo 3:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522404@anstoss
+DTSTAMP:20260524T180000Z
+DTSTART:20260524T180000Z
+DTEND:20260524T200000Z
+SUMMARY:RB Bragantino – Palmeiras 1:2
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522404.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522470@anstoss
+DTSTAMP:20260725T190000Z
+DTSTART:20260725T190000Z
+DTEND:20260725T210000Z
+SUMMARY:Mixto – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522419@anstoss
+DTSTAMP:20260802T140000Z
+DTSTART:20260802T140000Z
+DTEND:20260802T160000Z
+SUMMARY:Palmeiras – Internacional RS 2:1
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Nubank Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522426@anstoss
+DTSTAMP:20260808T190000Z
+DTSTART:20260808T190000Z
+DTEND:20260808T210000Z
+SUMMARY:Ferroviaria – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522434@anstoss
+DTSTAMP:20260816T140000Z
+DTSTART:20260816T140000Z
+DTEND:20260816T160000Z
+SUMMARY:Palmeiras – Juventude 3:0
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:Nubank Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522434.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522440@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Cruzeiro – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634044@anstoss
+DTSTAMP:20260901T003000Z
+DTSTART:20260901T003000Z
+DTEND:20260901T023000Z
+SUMMARY:Bahia – Palmeiras 1:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634050@anstoss
+DTSTAMP:20260905T003000Z
+DTSTART:20260905T003000Z
+DTEND:20260905T023000Z
+SUMMARY:Palmeiras – Bahia 1:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Nubank Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634050.ht
+ ml
+END:VEVENT
+END:VCALENDAR

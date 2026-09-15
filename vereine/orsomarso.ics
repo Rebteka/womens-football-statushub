@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Orsomarso
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518015@anstoss
+DTSTAMP:20260216T200000Z
+DTSTART:20260216T200000Z
+DTEND:20260216T220000Z
+SUMMARY:Millonarios – Orsomarso 2:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524348@anstoss
+DTSTAMP:20260301T200000Z
+DTSTART:20260301T200000Z
+DTEND:20260301T220000Z
+SUMMARY:Orsomarso – Deportivo Cali 1:1
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524358@anstoss
+DTSTAMP:20260310T220000Z
+DTSTART:20260310T220000Z
+DTEND:20260311T000000Z
+SUMMARY:América de Cali – Orsomarso 1:0
+DESCRIPTION:Liga Femenina · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524360@anstoss
+DTSTAMP:20260315T200000Z
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+SUMMARY:Orsomarso – Santa Fe 1:0
+DESCRIPTION:Liga Femenina · 4. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524374@anstoss
+DTSTAMP:20260325T203000Z
+DTSTART:20260325T203000Z
+DTEND:20260325T223000Z
+SUMMARY:Llaneros – Orsomarso 1:1
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524376@anstoss
+DTSTAMP:20260329T200000Z
+DTSTART:20260329T200000Z
+DTEND:20260329T220000Z
+SUMMARY:Orsomarso – Fortaleza 1:1
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524386@anstoss
+DTSTAMP:20260412T203000Z
+DTSTART:20260412T203000Z
+DTEND:20260412T223000Z
+SUMMARY:Atlético Bucaramanga – Orsomarso 1:1
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Cancha Marte - UMT\, Bucaramanga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525698@anstoss
+DTSTAMP:20260426T200000Z
+DTSTART:20260426T200000Z
+DTEND:20260426T220000Z
+SUMMARY:Orsomarso – Atlético Nacional 1:0
+DESCRIPTION:Liga Femenina · 8. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525698.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525706@anstoss
+DTSTAMP:20260503T200000Z
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+SUMMARY:Orsomarso – Internacional Palmira 0:0
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525706.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525715@anstoss
+DTSTAMP:20260511T210000Z
+DTSTART:20260511T210000Z
+DTEND:20260511T230000Z
+SUMMARY:Once Caldas – Orsomarso 1:1
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525715.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525721@anstoss
+DTSTAMP:20260517T200000Z
+DTSTART:20260517T200000Z
+DTEND:20260517T220000Z
+SUMMARY:Orsomarso – La Equidad 1:2
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525726@anstoss
+DTSTAMP:20260524T210000Z
+DTSTART:20260524T210000Z
+DTEND:20260524T230000Z
+SUMMARY:Independiente Medellín – Orsomarso 2:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525726.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525738@anstoss
+DTSTAMP:20260529T003000Z
+DTSTART:20260529T003000Z
+DTEND:20260529T023000Z
+SUMMARY:Orsomarso – Junior 5:1
+DESCRIPTION:Liga Femenina · 13. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525738.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525745@anstoss
+DTSTAMP:20260725T210000Z
+DTSTART:20260725T210000Z
+DTEND:20260725T230000Z
+SUMMARY:Internacional Palmira – Orsomarso 1:1
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Francisco Rivera Escobar\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525755@anstoss
+DTSTAMP:20260801T203000Z
+DTSTART:20260801T203000Z
+DTEND:20260801T223000Z
+SUMMARY:Real Santander – Orsomarso 0:1
+DESCRIPTION:Liga Femenina · 15. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525755.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525762@anstoss
+DTSTAMP:20260820T200000Z
+DTSTART:20260820T200000Z
+DTEND:20260820T220000Z
+SUMMARY:Orsomarso – Deportivo Pasto 3:0
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Estadio Municipal Raul Miranda\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632312@anstoss
+DTSTAMP:20260825T230000Z
+DTSTART:20260825T230000Z
+DTEND:20260826T010000Z
+SUMMARY:Santa Fe – Orsomarso 3:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632315@anstoss
+DTSTAMP:20260829T200000Z
+DTSTART:20260829T200000Z
+DTEND:20260829T220000Z
+SUMMARY:Orsomarso – América de Cali 0:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 2. Spieltag
+LOCATION:Estadio Municipal Raul Miranda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632319@anstoss
+DTSTAMP:20260901T200000Z
+DTSTART:20260901T200000Z
+DTEND:20260901T220000Z
+SUMMARY:Orsomarso – Deportivo Cali 0:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 3. Spieltag
+LOCATION:Estadio Municipal Raul Miranda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1637609@anstoss
+DTSTAMP:20260904T210000Z
+DTSTART:20260904T210000Z
+DTEND:20260904T230000Z
+SUMMARY:Deportivo Cali – Orsomarso 1:0
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 4. Spieltag
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637609.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638209@anstoss
+DTSTAMP:20260909T200000Z
+DTSTART:20260909T200000Z
+DTEND:20260909T220000Z
+SUMMARY:América de Cali – Orsomarso 3:1
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638209.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638742@anstoss
+DTSTAMP:20260912T203000Z
+DTSTART:20260912T203000Z
+DTEND:20260912T223000Z
+SUMMARY:Orsomarso – Santa Fe 1:2
+DESCRIPTION:Liga Femenina · Aufstiegsrunde · 6. Spieltag
+LOCATION:Estadio Municipal Raul Miranda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638742.ht
+ ml
+END:VEVENT
+END:VCALENDAR

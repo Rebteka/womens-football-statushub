@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Inter Mailand
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1623461@anstoss
+DTSTAMP:20260826T160000Z
+DTSTART:20260826T160000Z
+DTEND:20260826T180000Z
+SUMMARY:VfL Wolfsburg – Inter Mailand 2:0
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623470@anstoss
+DTSTAMP:20260902T163000Z
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+SUMMARY:Inter Mailand – VfL Wolfsburg 3:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638309@anstoss
+DTSTAMP:20260922T164500Z
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+SUMMARY:Inter Mailand – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601249@anstoss
+DTSTAMP:20260927T110000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T130000Z
+SUMMARY:Inter Mailand – Fiorentina
+DESCRIPTION:Serie A Femminile · 1. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638293@anstoss
+DTSTAMP:20261001T164500Z
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+SUMMARY:Austria Wien – Inter Mailand
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601256@anstoss
+DTSTAMP:20261003T130000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Como – Inter Mailand
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ferruccio\, Seregno
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601262@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Inter Mailand – Parma
+DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601270@anstoss
+DTSTAMP:20261024T130000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Napoli – Inter Mailand
+DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Piccolo\, Cercola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638324@anstoss
+DTSTAMP:20261028T200000Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Lyon – Inter Mailand
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601275@anstoss
+DTSTAMP:20261031T140000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Inter Mailand – Lazio
+DESCRIPTION:Serie A Femminile · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601275.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601278@anstoss
+DTSTAMP:20261107T140000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:AC Milan – Inter Mailand
+DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Centro Sportivo Peppino Vismara\, Milan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601278.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638308@anstoss
+DTSTAMP:20261110T200000Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Inter Mailand – Manchester City
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601287@anstoss
+DTSTAMP:20261114T140000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Inter Mailand – Juventus
+DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638333@anstoss
+DTSTAMP:20261118T174500Z
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+SUMMARY:Real Madrid – Inter Mailand
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601295@anstoss
+DTSTAMP:20261121T140000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Ternana – Inter Mailand
+DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Libero Liberati\, Terni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601297@anstoss
+DTSTAMP:20261212T140000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Roma – Inter Mailand
+DESCRIPTION:Serie A Femminile · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638307@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Inter Mailand – Arsenal
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601304@anstoss
+DTSTAMP:20270116T140000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Inter Mailand – Como 1907
+DESCRIPTION:Serie A Femminile · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601313@anstoss
+DTSTAMP:20270123T140000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Sassuolo – Inter Mailand
+DESCRIPTION:Serie A Femminile · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Enzo Ricci\, Sassuolo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601317@anstoss
+DTSTAMP:20270130T140000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Fiorentina – Inter Mailand
+DESCRIPTION:Serie A Femminile · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601321@anstoss
+DTSTAMP:20270206T140000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Inter Mailand – Como
+DESCRIPTION:Serie A Femminile · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601331@anstoss
+DTSTAMP:20270213T140000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Parma – Inter Mailand
+DESCRIPTION:Serie A Femminile · 14. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ennio Tardini\, Parma
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601335@anstoss
+DTSTAMP:20270220T140000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Inter Mailand – Napoli
+DESCRIPTION:Serie A Femminile · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601341@anstoss
+DTSTAMP:20270313T140000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Lazio – Inter Mailand
+DESCRIPTION:Serie A Femminile · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Campo Mirko Fersini\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601347@anstoss
+DTSTAMP:20270320T140000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Inter Mailand – AC Milan
+DESCRIPTION:Serie A Femminile · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601352@anstoss
+DTSTAMP:20270403T130000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Juventus – Inter Mailand
+DESCRIPTION:Serie A Femminile · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601358@anstoss
+DTSTAMP:20270410T130000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Inter Mailand – Ternana
+DESCRIPTION:Serie A Femminile · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601364@anstoss
+DTSTAMP:20270501T130000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Inter Mailand – Roma
+DESCRIPTION:Serie A Femminile · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601370@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Como 1907 – Inter Mailand
+DESCRIPTION:Serie A Femminile · 21. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1601376@anstoss
+DTSTAMP:20270515T130000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Inter Mailand – Sassuolo
+DESCRIPTION:Serie A Femminile · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1601376.ht
+ ml
+END:VEVENT
+END:VCALENDAR

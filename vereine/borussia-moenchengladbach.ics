@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Borussia Mönchengladbach
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1606982@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:Borussia Mönchengladbach – FC Carl Zeiss Jena 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 1. Spieltag
+LOCATION:Grenzlandstadion\, Monchengladbach
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606982.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606990@anstoss
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T140000Z
+SUMMARY:1. FFC Turbine Potsdam – Borussia Mönchengladbach 1:4
+DESCRIPTION:2. Frauen-Bundesliga · 2. Spieltag
+LOCATION:Karl-Liebknecht-Stadion\, Potsdam-Babelsberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606990.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566679@anstoss
+DTSTAMP:20260815T133000Z
+DTSTART:20260815T133000Z
+DTEND:20260815T153000Z
+SUMMARY:MSV Duisburg – Borussia Mönchengladbach 1:2
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 64
+LOCATION:Schauinsland-Reisen-Arena\, Duisburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566679.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606993@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:Borussia Mönchengladbach – SC Sand 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 3. Spieltag
+LOCATION:Grenzlandstadion\, Monchengladbach
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607004@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:SGS Essen – Borussia Mönchengladbach 5:1
+DESCRIPTION:2. Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607005@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:Borussia Mönchengladbach – Hertha BSC 2:3
+DESCRIPTION:2. Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607005.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607012@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Borussia Mönchengladbach – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607022@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:FC Ingolstadt 04 – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629369@anstoss
+DTSTAMP:20260927T130000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:Borussia Mönchengladbach – FC Bayern München
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607024@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Borussia Mönchengladbach – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607031@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Eintracht Frankfurt II – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607035@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Borussia Mönchengladbach – TSG Hoffenheim II
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607035.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607147@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:1. FC Köln II – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607049@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
+SUMMARY:Borussia Mönchengladbach – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607049.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607053@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SG 99 Andernach – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607053.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607061@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC Carl Zeiss Jena – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607061.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607067@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:Borussia Mönchengladbach – 1. FFC Turbine Potsdam
+DESCRIPTION:2. Frauen-Bundesliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607067.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607075@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SC Sand – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607075.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607077@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Borussia Mönchengladbach – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607077.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607084@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T150000Z
+SUMMARY:Hertha BSC – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607084.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607089@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:VfL Bochum – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607096@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART:20270314T130000Z
+DTEND:20270314T150000Z
+SUMMARY:Borussia Mönchengladbach – FC Ingolstadt 04
+DESCRIPTION:2. Frauen-Bundesliga · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607096.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607106@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T150000Z
+SUMMARY:FC Viktoria Berlin – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607106.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607108@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART:20270328T120000Z
+DTEND:20270328T140000Z
+SUMMARY:Borussia Mönchengladbach – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607116@anstoss
+DTSTAMP:20270404T120000Z
+DTSTART:20270404T120000Z
+DTEND:20270404T140000Z
+SUMMARY:TSG Hoffenheim II – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607160@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:Borussia Mönchengladbach – 1. FC Köln II
+DESCRIPTION:2. Frauen-Bundesliga · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607128@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:SV Meppen – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607128.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607131@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Borussia Mönchengladbach – SG 99 Andernach
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607131.ht
+ ml
+END:VEVENT
+END:VCALENDAR

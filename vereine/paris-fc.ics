@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paris FC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1580929@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Paris FC – Nantes 2:0
+DESCRIPTION:Première Ligue · 1. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580930@anstoss
+DTSTAMP:20260912T113000Z
+DTSTART:20260912T113000Z
+DTEND:20260912T133000Z
+SUMMARY:Lyon – Paris FC 7:1
+DESCRIPTION:Première Ligue · 2. Spieltag
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580930.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580936@anstoss
+DTSTAMP:20260918T170000Z
+DTSTART:20260918T170000Z
+DTEND:20260918T190000Z
+SUMMARY:Strasbourg – Paris FC
+DESCRIPTION:Première Ligue · 3. Spieltag
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580936.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638296@anstoss
+DTSTAMP:20260923T190000Z
+DTSTART:20260923T190000Z
+DTEND:20260923T210000Z
+SUMMARY:Barcelona – Paris FC
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638326@anstoss
+DTSTAMP:20260930T164500Z
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+SUMMARY:Paris FC – Arsenal
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585112@anstoss
+DTSTAMP:20261003T190000Z
+DTSTART:20261003T190000Z
+DTEND:20261003T210000Z
+SUMMARY:Paris FC – Lens
+DESCRIPTION:Première Ligue · 4. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581007@anstoss
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Toulouse – Paris FC
+DESCRIPTION:Première Ligue · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581009@anstoss
+DTSTAMP:20261024T160000Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Saint-Malo – Paris FC
+DESCRIPTION:Première Ligue · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581009.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638325@anstoss
+DTSTAMP:20261029T174500Z
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+SUMMARY:Paris FC – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580948@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Paris FC – Paris Saint Germain
+DESCRIPTION:Première Ligue · 7. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580948.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580951@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Paris FC – Montpellier
+DESCRIPTION:Première Ligue · 8. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638332@anstoss
+DTSTAMP:20261110T174500Z
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+SUMMARY:Real Madrid – Paris FC
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580953@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Le Havre – Paris FC
+DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638327@anstoss
+DTSTAMP:20261119T174500Z
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+SUMMARY:Paris FC – Køge
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580958@anstoss
+DTSTAMP:20261121T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Paris FC – FC Fleury 91
+DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580962@anstoss
+DTSTAMP:20261212T160000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Paris FC – Marseille
+DESCRIPTION:Première Ligue · 11. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638336@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Servette Chênois – Paris FC
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1585120@anstoss
+DTSTAMP:20261219T160000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Lens – Paris FC
+DESCRIPTION:Première Ligue · 12. Spieltag · Anstosszeit noch offen
+LOCATION:Degouve-Brabant Stadium\, Arras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1585120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580967@anstoss
+DTSTAMP:20270116T160000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Paris FC – Lyon
+DESCRIPTION:Première Ligue · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580967.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580971@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Montpellier – Paris FC
+DESCRIPTION:Première Ligue · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580971.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580975@anstoss
+DTSTAMP:20270206T160000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Paris Saint Germain – Paris FC
+DESCRIPTION:Première Ligue · 15. Spieltag · Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580975.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581025@anstoss
+DTSTAMP:20270220T160000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Paris FC – Toulouse
+DESCRIPTION:Première Ligue · 16. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580979@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:FC Fleury 91 – Paris FC
+DESCRIPTION:Première Ligue · 17. Spieltag · Anstosszeit noch offen
+LOCATION:Terrain Walter Felder\, Fleury Merogis
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580983@anstoss
+DTSTAMP:20270320T160000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Nantes – Paris FC
+DESCRIPTION:Première Ligue · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Marcel Saupin\, Nantes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580983.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580989@anstoss
+DTSTAMP:20270327T160000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Paris FC – Strasbourg
+DESCRIPTION:Première Ligue · 19. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580991@anstoss
+DTSTAMP:20270407T150000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Paris FC – Le Havre
+DESCRIPTION:Première Ligue · 20. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580991.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1580993@anstoss
+DTSTAMP:20270501T150000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Marseille – Paris FC
+DESCRIPTION:Première Ligue · 21. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1580993.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581035@anstoss
+DTSTAMP:20270504T150000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Paris FC – Saint-Malo
+DESCRIPTION:Première Ligue · 22. Spieltag · Anstosszeit noch offen
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581035.ht
+ ml
+END:VEVENT
+END:VCALENDAR

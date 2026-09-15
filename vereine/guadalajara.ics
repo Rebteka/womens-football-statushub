@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Guadalajara
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603306@anstoss
+DTSTAMP:20260802T230600Z
+DTSTART:20260802T230600Z
+DTEND:20260803T010600Z
+SUMMARY:Guadalajara – Querétaro 3:1
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603314@anstoss
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Puebla – Guadalajara 1:4
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603323@anstoss
+DTSTAMP:20260816T230000Z
+DTSTART:20260816T230000Z
+DTEND:20260817T010000Z
+SUMMARY:Guadalajara – Atlético San Luis 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603332@anstoss
+DTSTAMP:20260823T220000Z
+DTSTART:20260823T220000Z
+DTEND:20260824T000000Z
+SUMMARY:Pachuca – Guadalajara 3:1
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603343@anstoss
+DTSTAMP:20260830T230600Z
+DTSTART:20260830T230600Z
+DTEND:20260831T010600Z
+SUMMARY:Guadalajara – Pumas UNAM 0:2
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603345@anstoss
+DTSTAMP:20260905T020600Z
+DTSTART:20260905T020600Z
+DTEND:20260905T040600Z
+SUMMARY:Atlas – Guadalajara 0:4
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603356@anstoss
+DTSTAMP:20260912T230700Z
+DTSTART:20260912T230700Z
+DTEND:20260913T010700Z
+SUMMARY:Guadalajara – Monterrey 2:3
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603364@anstoss
+DTSTAMP:20260919T230600Z
+DTSTART:20260919T230600Z
+DTEND:20260920T010600Z
+SUMMARY:Tijuana – Guadalajara
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603372@anstoss
+DTSTAMP:20260926T010000Z
+DTSTART:20260926T010000Z
+DTEND:20260926T030000Z
+SUMMARY:Cruz Azul – Guadalajara
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603388@anstoss
+DTSTAMP:20261004T230000Z
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+SUMMARY:Guadalajara – Juárez
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603393@anstoss
+DTSTAMP:20261018T180600Z
+DTSTART:20261018T180600Z
+DTEND:20261018T200600Z
+SUMMARY:Guadalajara – Necaxa
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603406@anstoss
+DTSTAMP:20261026T214500Z
+DTSTART:20261026T214500Z
+DTEND:20261026T234500Z
+SUMMARY:Atlante – Guadalajara
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603408@anstoss
+DTSTAMP:20261031T000000Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:Toluca – Guadalajara
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603425@anstoss
+DTSTAMP:20261107T031000Z
+DTSTART:20261107T031000Z
+DTEND:20261107T051000Z
+SUMMARY:Guadalajara – América
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603425.ht
+ ml
+END:VEVENT
+END:VCALENDAR

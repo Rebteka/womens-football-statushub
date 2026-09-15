@@ -1,0 +1,1547 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UEFA Women's Champions League 2026
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558456@anstoss
+DTSTAMP:20260722T080000Z
+DTSTART:20260722T080000Z
+DTEND:20260722T100000Z
+SUMMARY:Neftçi Bakı – Budućnost 0:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558468@anstoss
+DTSTAMP:20260722T090000Z
+DTSTART:20260722T090000Z
+DTEND:20260722T110000Z
+SUMMARY:Athlone WFC – ZFK Skopje 2014 4:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Zaglebiowski Park Sportowy\, Sosnowiec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558455@anstoss
+DTSTAMP:20260722T120000Z
+DTSTART:20260722T120000Z
+DTEND:20260722T140000Z
+SUMMARY:Glentoran BU – Riga 1:4
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558472@anstoss
+DTSTAMP:20260722T143000Z
+DTSTART:20260722T143000Z
+DTEND:20260722T163000Z
+SUMMARY:Mitrovica – Zimbru Chisinau 10:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Kampi Nacional\, Hajvalia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558471@anstoss
+DTSTAMP:20260722T143000Z
+DTSTART:20260722T143000Z
+DTEND:20260722T163000Z
+SUMMARY:KÍ – Ludogorets 0:3
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stadiumi Zahir Pajaziti\, Podujeve
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558473@anstoss
+DTSTAMP:20260722T153000Z
+DTSTART:20260722T153000Z
+DTEND:20260722T173000Z
+SUMMARY:PAOK – Hapoel Jerusalem 3:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558470@anstoss
+DTSTAMP:20260722T160000Z
+DTSTART:20260722T160000Z
+DTEND:20260722T180000Z
+SUMMARY:Flora – Mgarr 0:4
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stadium Myjava\, Myjava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558469@anstoss
+DTSTAMP:20260722T160000Z
+DTSTART:20260722T160000Z
+DTEND:20260722T180000Z
+SUMMARY:Czarni Sosnowiec – Lusso 7:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Zaglebiowski Park Sportowy\, Sosnowiec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558474@anstoss
+DTSTAMP:20260722T180000Z
+DTSTART:20260722T180000Z
+DTEND:20260722T200000Z
+SUMMARY:Pyunik – Wrexham 2:4
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600537@anstoss
+DTSTAMP:20260725T080000Z
+DTSTART:20260725T080000Z
+DTEND:20260725T100000Z
+SUMMARY:Budućnost – Hapoel Jerusalem 0:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600537.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600538@anstoss
+DTSTAMP:20260725T090000Z
+DTSTART:20260725T090000Z
+DTEND:20260725T110000Z
+SUMMARY:Lusso – ZFK Skopje 2014 2:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Zaglebiowski Park Sportowy\, Sosnowiec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600538.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600539@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:Glentoran BU – Pyunik 4:2
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600539.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600540@anstoss
+DTSTAMP:20260725T143000Z
+DTSTART:20260725T143000Z
+DTEND:20260725T163000Z
+SUMMARY:KÍ – Zimbru Chisinau 4:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Kampi Nacional Hajvalia\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600540.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600541@anstoss
+DTSTAMP:20260725T153000Z
+DTSTART:20260725T153000Z
+DTEND:20260725T173000Z
+SUMMARY:PAOK – Neftçi Bakı 3:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600541.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600542@anstoss
+DTSTAMP:20260725T160000Z
+DTSTART:20260725T160000Z
+DTEND:20260725T180000Z
+SUMMARY:Athlone WFC – Czarni Sosnowiec 1:3
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Zaglebiowski Park Sportowy\, Sosnowiec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600542.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600543@anstoss
+DTSTAMP:20260725T170000Z
+DTSTART:20260725T170000Z
+DTEND:20260725T190000Z
+SUMMARY:Spartak Myjava – Mgarr 6:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadium Myjava\, Myjava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600543.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600544@anstoss
+DTSTAMP:20260725T170000Z
+DTSTART:20260725T170000Z
+DTEND:20260725T190000Z
+SUMMARY:Riga – Wrexham 4:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600544.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600545@anstoss
+DTSTAMP:20260725T180000Z
+DTSTART:20260725T180000Z
+DTEND:20260725T200000Z
+SUMMARY:Mitrovica – Ludogorets 2:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600545.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558459@anstoss
+DTSTAMP:20260804T070000Z
+DTSTART:20260804T070000Z
+DTEND:20260804T090000Z
+SUMMARY:Dinamo-BGU – Servette Chênois 0:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558458@anstoss
+DTSTAMP:20260804T140000Z
+DTSTART:20260804T140000Z
+DTEND:20260804T160000Z
+SUMMARY:Breidablik – Aktobe 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603951@anstoss
+DTSTAMP:20260805T080000Z
+DTSTART:20260805T080000Z
+DTEND:20260805T100000Z
+SUMMARY:SK Brann – Mitrovica 5:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558475@anstoss
+DTSTAMP:20260805T090000Z
+DTSTART:20260805T090000Z
+DTEND:20260805T110000Z
+SUMMARY:Austria Wien – Hajduk Split 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Sportni park Radenci\, Radenci
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558464@anstoss
+DTSTAMP:20260805T110000Z
+DTSTART:20260805T110000Z
+DTEND:20260805T130000Z
+SUMMARY:SFK 2000 – PSV/Eindhoven 2:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558467@anstoss
+DTSTAMP:20260805T110000Z
+DTSTART:20260805T110000Z
+DTEND:20260805T130000Z
+SUMMARY:Vålerenga – Malmö FF 0:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558478@anstoss
+DTSTAMP:20260805T110000Z
+DTSTART:20260805T110000Z
+DTEND:20260805T130000Z
+SUMMARY:Metalist 1925 – Fenerbahce 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558478.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558479@anstoss
+DTSTAMP:20260805T123000Z
+DTSTART:20260805T123000Z
+DTEND:20260805T143000Z
+SUMMARY:Sporting CP – SeaSters Odesa 5:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Sportklub Niederosterreich\, Sankt Polten
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558457@anstoss
+DTSTAMP:20260805T130000Z
+DTSTART:20260805T130000Z
+DTEND:20260805T150000Z
+SUMMARY:Ajax – Brøndby 2:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558460@anstoss
+DTSTAMP:20260805T133000Z
+DTSTART:20260805T133000Z
+DTEND:20260805T153000Z
+SUMMARY:Gintra-Universitetas – Hearts 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Koge Stadion\, Koge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558477@anstoss
+DTSTAMP:20260805T133000Z
+DTSTART:20260805T133000Z
+DTEND:20260805T153000Z
+SUMMARY:Hammarby – Apolonia Fier 4:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558477.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603952@anstoss
+DTSTAMP:20260805T140000Z
+DTSTART:20260805T140000Z
+DTEND:20260805T160000Z
+SUMMARY:Apollon Limassol – Czarni Sosnowiec 3:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stelios Kyriakides Stadium\, Pafos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603953@anstoss
+DTSTAMP:20260805T143000Z
+DTSTART:20260805T143000Z
+DTEND:20260805T163000Z
+SUMMARY:Ferencváros – PAOK 2:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Hevizi uti Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558466@anstoss
+DTSTAMP:20260805T160000Z
+DTSTART:20260805T160000Z
+DTEND:20260805T180000Z
+SUMMARY:St. Pölten – Young Boys 4:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:NV Arena\, Sankt Polten
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558462@anstoss
+DTSTAMP:20260805T160000Z
+DTSTART:20260805T160000Z
+DTEND:20260805T180000Z
+SUMMARY:ŽNK Mura – Farul Constanţa 1:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Mestni stadion Fazanerija\, Murska Sobota
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603954@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Køge – Riga 4:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Capelli Sport Stadion\, Koge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558476@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Eintracht Frankfurt – Omonia 8:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558463@anstoss
+DTSTAMP:20260805T170000Z
+DTSTART:20260805T170000Z
+DTEND:20260805T190000Z
+SUMMARY:Racing – HJK 0:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558480@anstoss
+DTSTAMP:20260805T180000Z
+DTSTART:20260805T180000Z
+DTEND:20260805T200000Z
+SUMMARY:OH Leuven – TSC 4:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558480.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603955@anstoss
+DTSTAMP:20260805T183000Z
+DTSTART:20260805T183000Z
+DTEND:20260805T203000Z
+SUMMARY:Vllaznia – Spartak Myjava 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stelios Kyriakides Stadium\, Pafos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558465@anstoss
+DTSTAMP:20260805T183000Z
+DTSTART:20260805T183000Z
+DTEND:20260805T203000Z
+SUMMARY:Slavia Praha – Rangers 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1558461@anstoss
+DTSTAMP:20260805T190000Z
+DTSTART:20260805T190000Z
+DTEND:20260805T210000Z
+SUMMARY:Juventus – Torreense 2:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stade La Marmora-Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611281@anstoss
+DTSTAMP:20260807T070000Z
+DTSTART:20260807T070000Z
+DTEND:20260807T090000Z
+SUMMARY:Breidablik – Dinamo-BGU 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Sp
+ iel um Platz 3
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611282@anstoss
+DTSTAMP:20260807T140000Z
+DTSTART:20260807T140000Z
+DTEND:20260807T160000Z
+SUMMARY:Servette Chênois – Aktobe 4:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611282.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612429@anstoss
+DTSTAMP:20260808T080000Z
+DTSTART:20260808T080000Z
+DTEND:20260808T100000Z
+SUMMARY:Ferencváros – Mitrovica 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:III. Keruleti TVE\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612429.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612430@anstoss
+DTSTAMP:20260808T090000Z
+DTSTART:20260808T090000Z
+DTEND:20260808T110000Z
+SUMMARY:ŽNK Mura – Hajduk Split 0:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Sportni park Radenci\, Radenci
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612431@anstoss
+DTSTAMP:20260808T100000Z
+DTSTART:20260808T100000Z
+DTEND:20260808T120000Z
+SUMMARY:Gintra-Universitetas – Riga 4:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Koge Stadion\, Koge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612431.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612433@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:SFK 2000 – Racing 4:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612433.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612434@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:Vålerenga – Omonia 2:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612434.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612432@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:Metalist 1925 – TSC 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612435@anstoss
+DTSTAMP:20260808T123000Z
+DTSTART:20260808T123000Z
+DTEND:20260808T143000Z
+SUMMARY:Young Boys – SeaSters Odesa 1:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Sportklub Niederosterreich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612439@anstoss
+DTSTAMP:20260808T133000Z
+DTSTART:20260808T133000Z
+DTEND:20260808T153000Z
+SUMMARY:Køge – Hearts 2:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Koge Stadion\, Koge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612439.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612436@anstoss
+DTSTAMP:20260808T133000Z
+DTSTART:20260808T133000Z
+DTEND:20260808T153000Z
+SUMMARY:Torreense – Apolonia Fier 5:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stade La Marmora-Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612437@anstoss
+DTSTAMP:20260808T140000Z
+DTSTART:20260808T140000Z
+DTEND:20260808T160000Z
+SUMMARY:Vllaznia – Apollon Limassol 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stelios Kyriakides Stadium\, Pafos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612437.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612440@anstoss
+DTSTAMP:20260808T143000Z
+DTSTART:20260808T143000Z
+DTEND:20260808T163000Z
+SUMMARY:SK Brann – PAOK 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:III. Keruleti TVE\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612440.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612442@anstoss
+DTSTAMP:20260808T160000Z
+DTSTART:20260808T160000Z
+DTEND:20260808T180000Z
+SUMMARY:St. Pölten – Sporting CP 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612441@anstoss
+DTSTAMP:20260808T160000Z
+DTSTART:20260808T160000Z
+DTEND:20260808T180000Z
+SUMMARY:Austria Wien – Farul Constanţa 5:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Mestni stadion Fazanerija\, Murska Sobota
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612441.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612444@anstoss
+DTSTAMP:20260808T170000Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:PSV/Eindhoven – HJK 3:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stade Achille Hammerel\, Luxembourg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612444.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612443@anstoss
+DTSTAMP:20260808T170000Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:Eintracht Frankfurt – Malmö FF 2:0
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612443.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612445@anstoss
+DTSTAMP:20260808T180000Z
+DTSTART:20260808T180000Z
+DTEND:20260808T200000Z
+SUMMARY:OH Leuven – Fenerbahce 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612446@anstoss
+DTSTAMP:20260808T183000Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Ajax – Rangers 2:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612438@anstoss
+DTSTAMP:20260808T183000Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Slavia Praha – Brøndby 1:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612447@anstoss
+DTSTAMP:20260808T183000Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Spartak Myjava – Czarni Sosnowiec 2:4
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stelios Kyriakides Stadium\, Pafos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612448@anstoss
+DTSTAMP:20260808T190000Z
+DTSTART:20260808T190000Z
+DTEND:20260808T210000Z
+SUMMARY:Juventus – Hammarby 3:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612448.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623459@anstoss
+DTSTAMP:20260825T160000Z
+DTSTART:20260825T160000Z
+DTEND:20260825T180000Z
+SUMMARY:SK Brann – Austria Wien 2:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Brann Stadion\, Bergen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623461@anstoss
+DTSTAMP:20260826T160000Z
+DTSTART:20260826T160000Z
+DTEND:20260826T180000Z
+SUMMARY:VfL Wolfsburg – Inter Mailand 2:0
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623462@anstoss
+DTSTAMP:20260826T163000Z
+DTSTART:20260826T163000Z
+DTEND:20260826T183000Z
+SUMMARY:Sparta Praha – Servette Chênois 3:2
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:epet ARENA\, Prague
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623465@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:PSV/Eindhoven – Køge 0:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:De Herdgang\, Eindhoven
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623464@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Eintracht Frankfurt – Paris Saint Germain 1:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623463@anstoss
+DTSTAMP:20260826T170000Z
+DTSTART:20260826T170000Z
+DTEND:20260826T190000Z
+SUMMARY:Czarni Sosnowiec – OH Leuven 1:4
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Zaglebiowski Park Sportowy\, Sosnowiec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623466@anstoss
+DTSTAMP:20260826T173000Z
+DTSTART:20260826T173000Z
+DTEND:20260826T193000Z
+SUMMARY:Ajax – Real Madrid 0:2
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Sportcomplex De Toekomst\, Ouder-Amstel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623460@anstoss
+DTSTAMP:20260826T174500Z
+DTSTART:20260826T174500Z
+DTEND:20260826T194500Z
+SUMMARY:Chelsea – Real Sociedad 5:2
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:The Cherry Red Records Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623460.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623467@anstoss
+DTSTAMP:20260826T184500Z
+DTSTART:20260826T184500Z
+DTEND:20260826T204500Z
+SUMMARY:St. Pölten – Juventus 0:3
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:NV Arena\, Sankt Polten
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623468@anstoss
+DTSTAMP:20260901T160000Z
+DTSTART:20260901T160000Z
+DTEND:20260901T180000Z
+SUMMARY:Austria Wien – SK Brann 4:0
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623471@anstoss
+DTSTAMP:20260902T163000Z
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+SUMMARY:Paris Saint Germain – Eintracht Frankfurt 5:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623470@anstoss
+DTSTAMP:20260902T163000Z
+DTSTART:20260902T163000Z
+DTEND:20260902T183000Z
+SUMMARY:Inter Mailand – VfL Wolfsburg 3:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623472@anstoss
+DTSTAMP:20260902T164500Z
+DTSTART:20260902T164500Z
+DTEND:20260902T184500Z
+SUMMARY:Servette Chênois – Sparta Praha 3:0
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stade de Genève\, Geneva
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623469@anstoss
+DTSTAMP:20260902T170000Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Real Sociedad – Chelsea 0:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Estadio Zubieta\, San Sebastian
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623473@anstoss
+DTSTAMP:20260902T170000Z
+DTSTART:20260902T170000Z
+DTEND:20260902T190000Z
+SUMMARY:Køge – PSV/Eindhoven 1:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Koge Stadion\, Koge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623474@anstoss
+DTSTAMP:20260902T180000Z
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+SUMMARY:OH Leuven – Czarni Sosnowiec 2:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623475@anstoss
+DTSTAMP:20260902T180000Z
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+SUMMARY:Real Madrid – Ajax 2:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Estadio Alfredo di Stefano\, Madrid
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1623476@anstoss
+DTSTAMP:20260902T183000Z
+DTSTART:20260902T183000Z
+DTEND:20260902T203000Z
+SUMMARY:Juventus – St. Pölten 1:1
+DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1623476.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638300@anstoss
+DTSTAMP:20260922T164500Z
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+SUMMARY:FC Bayern München – Manchester City
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638309@anstoss
+DTSTAMP:20260922T164500Z
+DTSTART:20260922T164500Z
+DTEND:20260922T184500Z
+SUMMARY:Inter Mailand – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638288@anstoss
+DTSTAMP:20260922T190000Z
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+SUMMARY:Arsenal – Køge
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638310@anstoss
+DTSTAMP:20260922T190000Z
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+SUMMARY:Juventus – SL Benfica
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638331@anstoss
+DTSTAMP:20260922T190000Z
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+SUMMARY:Real Madrid – Paris Saint Germain
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638317@anstoss
+DTSTAMP:20260923T164500Z
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+SUMMARY:OH Leuven – Roma
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638334@anstoss
+DTSTAMP:20260923T164500Z
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+SUMMARY:Servette Chênois – Lyon
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638303@anstoss
+DTSTAMP:20260923T190000Z
+DTSTART:20260923T190000Z
+DTEND:20260923T210000Z
+SUMMARY:Chelsea – Austria Wien
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Stamford Bridge\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638296@anstoss
+DTSTAMP:20260923T190000Z
+DTSTART:20260923T190000Z
+DTEND:20260923T210000Z
+SUMMARY:Barcelona – Paris FC
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638326@anstoss
+DTSTAMP:20260930T164500Z
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+SUMMARY:Paris FC – Arsenal
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638289@anstoss
+DTSTAMP:20260930T164500Z
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+SUMMARY:Roma – Barcelona
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638305@anstoss
+DTSTAMP:20260930T164500Z
+DTSTART:20260930T164500Z
+DTEND:20260930T184500Z
+SUMMARY:Häcken – Juventus
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638305.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638322@anstoss
+DTSTAMP:20260930T190000Z
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+SUMMARY:Lyon – Chelsea
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638337@anstoss
+DTSTAMP:20260930T190000Z
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+SUMMARY:SL Benfica – FC Bayern München
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638315@anstoss
+DTSTAMP:20261001T164500Z
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+SUMMARY:Køge – Servette Chênois
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Koge Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638315.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638293@anstoss
+DTSTAMP:20261001T164500Z
+DTSTART:20261001T164500Z
+DTEND:20261001T184500Z
+SUMMARY:Austria Wien – Inter Mailand
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638330@anstoss
+DTSTAMP:20261001T190000Z
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+SUMMARY:Paris Saint Germain – OH Leuven
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638330.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638321@anstoss
+DTSTAMP:20261001T190000Z
+DTSTART:20261001T190000Z
+DTEND:20261001T210000Z
+SUMMARY:Manchester City – Real Madrid
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 2. Spieltag
+LOCATION:Academy Stadium\, Manchester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638302@anstoss
+DTSTAMP:20261028T174500Z
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+SUMMARY:Chelsea – Roma
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Stamford Bridge\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638299@anstoss
+DTSTAMP:20261028T174500Z
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+SUMMARY:FC Bayern München – Real Madrid
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638335@anstoss
+DTSTAMP:20261028T174500Z
+DTSTART:20261028T174500Z
+DTEND:20261028T194500Z
+SUMMARY:Servette Chênois – OH Leuven
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638324@anstoss
+DTSTAMP:20261028T200000Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Lyon – Inter Mailand
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638324.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638287@anstoss
+DTSTAMP:20261028T200000Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Arsenal – SL Benfica
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638287.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638325@anstoss
+DTSTAMP:20261029T174500Z
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+SUMMARY:Paris FC – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638294@anstoss
+DTSTAMP:20261029T174500Z
+DTSTART:20261029T174500Z
+DTEND:20261029T194500Z
+SUMMARY:Austria Wien – Juventus
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638294.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638319@anstoss
+DTSTAMP:20261029T200000Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Manchester City – Paris Saint Germain
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+LOCATION:Academy Stadium\, Manchester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638319.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638313@anstoss
+DTSTAMP:20261029T200000Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Køge – Barcelona
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638332@anstoss
+DTSTAMP:20261110T174500Z
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+SUMMARY:Real Madrid – Paris FC
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638304@anstoss
+DTSTAMP:20261110T174500Z
+DTSTART:20261110T174500Z
+DTEND:20261110T194500Z
+SUMMARY:Häcken – Chelsea
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638328@anstoss
+DTSTAMP:20261110T200000Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Paris Saint Germain – FC Bayern München
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638291@anstoss
+DTSTAMP:20261110T200000Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Roma – Servette Chênois
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638308@anstoss
+DTSTAMP:20261110T200000Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Inter Mailand – Manchester City
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638318@anstoss
+DTSTAMP:20261111T174500Z
+DTSTART:20261111T174500Z
+DTEND:20261111T194500Z
+SUMMARY:OH Leuven – Køge
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638295@anstoss
+DTSTAMP:20261111T174500Z
+DTSTART:20261111T174500Z
+DTEND:20261111T194500Z
+SUMMARY:Barcelona – Arsenal
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638295.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638311@anstoss
+DTSTAMP:20261111T200000Z
+DTSTART:20261111T200000Z
+DTEND:20261111T220000Z
+SUMMARY:Juventus – Lyon
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638339@anstoss
+DTSTAMP:20261111T200000Z
+DTSTART:20261111T200000Z
+DTEND:20261111T220000Z
+SUMMARY:SL Benfica – Austria Wien
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 4. Spieltag
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638333@anstoss
+DTSTAMP:20261118T174500Z
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+SUMMARY:Real Madrid – Inter Mailand
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638306@anstoss
+DTSTAMP:20261118T174500Z
+DTSTART:20261118T174500Z
+DTEND:20261118T194500Z
+SUMMARY:Häcken – Manchester City
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Nordic Wellness Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638306.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638301@anstoss
+DTSTAMP:20261118T200000Z
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+SUMMARY:Chelsea – Paris Saint Germain
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Stamford Bridge\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638301.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638312@anstoss
+DTSTAMP:20261118T200000Z
+DTSTART:20261118T200000Z
+DTEND:20261118T220000Z
+SUMMARY:Juventus – OH Leuven
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Stadio Vittorio Pozzo\, Biella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638327@anstoss
+DTSTAMP:20261119T174500Z
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+SUMMARY:Paris FC – Køge
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Stade Charlety\, Paris
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638292@anstoss
+DTSTAMP:20261119T174500Z
+DTSTART:20261119T174500Z
+DTEND:20261119T194500Z
+SUMMARY:Austria Wien – FC Bayern München
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Generali Arena\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638286@anstoss
+DTSTAMP:20261119T200000Z
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+SUMMARY:Arsenal – Lyon
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638286.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638297@anstoss
+DTSTAMP:20261119T200000Z
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+SUMMARY:Barcelona – Servette Chênois
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Estadi Johan Cruyff\, Barcelona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638338@anstoss
+DTSTAMP:20261119T200000Z
+DTSTART:20261119T200000Z
+DTEND:20261119T220000Z
+SUMMARY:SL Benfica – Roma
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 5. Spieltag
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638329@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Paris Saint Germain – Juventus
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Paris Saint-Germain Training Center\, Poissy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638329.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638323@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Lyon – Häcken
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Parc Olympique Lyonnais\, Lyon
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638316@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:OH Leuven – Chelsea
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638320@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Manchester City – Austria Wien
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Academy Stadium\, Manchester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638298@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:FC Bayern München – Barcelona
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638290@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Roma – Real Madrid
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Stadio Tre Fontane\, Rome
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638290.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638307@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Inter Mailand – Arsenal
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638314@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Køge – SL Benfica
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638336@anstoss
+DTSTAMP:20261216T200000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Servette Chênois – Paris FC
+DESCRIPTION:UEFA Women's Champions League · Ligaphase · 6. Spieltag · 
+ Anstosszeit noch offen
+LOCATION:Stade de la Fontenette\, Carouge
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638336.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manchester United
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1607663@anstoss
+DTSTAMP:20260904T180000Z
+DTSTART:20260904T180000Z
+DTEND:20260904T200000Z
+SUMMARY:London City Lionesses – Manchester United 2:1
+DESCRIPTION:Women's Super League · 1. Spieltag
+LOCATION:Hayes Lane\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607663.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607671@anstoss
+DTSTAMP:20260913T110000Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:Manchester United – Chelsea 0:5
+DESCRIPTION:Women's Super League · 2. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607671.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607680@anstoss
+DTSTAMP:20260919T163000Z
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:Arsenal – Manchester United
+DESCRIPTION:Women's Super League · 3. Spieltag
+LOCATION:Emirates Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607680.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607686@anstoss
+DTSTAMP:20260927T120000Z
+DTSTART:20260927T120000Z
+DTEND:20260927T140000Z
+SUMMARY:Manchester United – West Ham
+DESCRIPTION:Women's Super League · 4. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607686.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607692@anstoss
+DTSTAMP:20261003T123000Z
+DTSTART:20261003T123000Z
+DTEND:20261003T143000Z
+SUMMARY:Manchester United – Liverpool
+DESCRIPTION:Women's Super League · 5. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607700@anstoss
+DTSTAMP:20261018T130000Z
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Charlton Athletic – Manchester United
+DESCRIPTION:Women's Super League · 6. Spieltag
+LOCATION:The Valley\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607700.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607705@anstoss
+DTSTAMP:20261025T180000Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:Manchester United – Manchester City
+DESCRIPTION:Women's Super League · 7. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607705.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607712@anstoss
+DTSTAMP:20261031T124500Z
+DTSTART:20261031T124500Z
+DTEND:20261031T144500Z
+SUMMARY:Everton – Manchester United
+DESCRIPTION:Women's Super League · 8. Spieltag
+LOCATION:Walton Hall Park\, Liverpool
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607712.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607721@anstoss
+DTSTAMP:20261107T123000Z
+DTSTART:20261107T123000Z
+DTEND:20261107T143000Z
+SUMMARY:Aston Villa – Manchester United
+DESCRIPTION:Women's Super League · 9. Spieltag
+LOCATION:Bescot Stadium\, Walsall
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607728@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
+SUMMARY:Manchester United – Crystal Palace
+DESCRIPTION:Women's Super League · 10. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607728.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607734@anstoss
+DTSTAMP:20261122T140000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Birmingham City – Manchester United
+DESCRIPTION:Women's Super League · 11. Spieltag
+LOCATION:The DCS Stadium\, Birmingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607741@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
+SUMMARY:Manchester United – Brighton
+DESCRIPTION:Women's Super League · 12. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607749@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:Manchester United – Tottenham Hotspur
+DESCRIPTION:Women's Super League · 13. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607749.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607757@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART:20270110T140000Z
+DTEND:20270110T160000Z
+SUMMARY:Crystal Palace – Manchester United
+DESCRIPTION:Women's Super League · 14. Spieltag
+LOCATION:VBS Community Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607764@anstoss
+DTSTAMP:20270120T190000Z
+DTSTART:20270120T190000Z
+DTEND:20270120T210000Z
+SUMMARY:West Ham – Manchester United
+DESCRIPTION:Women's Super League · 15. Spieltag
+LOCATION:Chigwell Construction Stadium\, Essex
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607764.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607768@anstoss
+DTSTAMP:20270124T130000Z
+DTSTART:20270124T130000Z
+DTEND:20270124T150000Z
+SUMMARY:Manchester United – Everton
+DESCRIPTION:Women's Super League · 16. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607776@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART:20270131T130000Z
+DTEND:20270131T150000Z
+SUMMARY:Manchester United – London City Lionesses
+DESCRIPTION:Women's Super League · 17. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607787@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Tottenham Hotspur – Manchester United
+DESCRIPTION:Women's Super League · 18. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Brisbane Road\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607795@anstoss
+DTSTAMP:20270214T143000Z
+DTSTART:20270214T143000Z
+DTEND:20270214T163000Z
+SUMMARY:Manchester City – Manchester United
+DESCRIPTION:Women's Super League · 19. Spieltag
+LOCATION:Academy Stadium\, Manchester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607795.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607798@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART:20270314T130000Z
+DTEND:20270314T150000Z
+SUMMARY:Manchester United – Charlton Athletic
+DESCRIPTION:Women's Super League · 20. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607798.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607805@anstoss
+DTSTAMP:20270317T190000Z
+DTSTART:20270317T190000Z
+DTEND:20270317T210000Z
+SUMMARY:Liverpool – Manchester United
+DESCRIPTION:Women's Super League · 21. Spieltag
+LOCATION:St Helens Stadium\, St Helens
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607805.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607811@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART:20270328T120000Z
+DTEND:20270328T140000Z
+SUMMARY:Manchester United – Aston Villa
+DESCRIPTION:Women's Super League · 22. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607811.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607820@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Chelsea – Manchester United
+DESCRIPTION:Women's Super League · 23. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Stamford Bridge\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607825@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART:20270502T120000Z
+DTEND:20270502T140000Z
+SUMMARY:Manchester United – Birmingham City
+DESCRIPTION:Women's Super League · 24. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607825.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607831@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART:20270509T120000Z
+DTEND:20270509T140000Z
+SUMMARY:Manchester United – Arsenal
+DESCRIPTION:Women's Super League · 25. Spieltag
+LOCATION:Leigh Sports Village\, Leigh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607831.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607839@anstoss
+DTSTAMP:20270522T130000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Brighton – Manchester United
+DESCRIPTION:Women's Super League · 26. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:The Broadfield Stadium\, Crawley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607839.ht
+ ml
+END:VEVENT
+END:VCALENDAR

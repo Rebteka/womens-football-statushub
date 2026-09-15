@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chinese Taipei
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1638241@anstoss
+DTSTAMP:20261128T140000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Chinese Taipei – South Africa
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 1. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638241.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638244@anstoss
+DTSTAMP:20261201T140000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Papua New Guinea – Chinese Taipei
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 2. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638247@anstoss
+DTSTAMP:20261205T140000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Chinese Taipei – Ecuador
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 3. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638247.ht
+ ml
+END:VEVENT
+END:VCALENDAR

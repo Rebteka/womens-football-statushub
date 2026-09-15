@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Armenia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523834@anstoss
+DTSTAMP:20260303T150000Z
+DTSTART:20260303T150000Z
+DTEND:20260303T170000Z
+SUMMARY:Kazakhstan – Armenia 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Astana Arena\, Astana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523834.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523884@anstoss
+DTSTAMP:20260414T120000Z
+DTSTART:20260414T120000Z
+DTEND:20260414T140000Z
+SUMMARY:Armenia – Belarus 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Vazgen Sargsyan Republican Stadium\, Yerevan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523884.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523934@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Armenia – Kazakhstan 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:FFA Academy Stadium\, Yerevan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523934.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523959@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Belarus – Armenia 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Tengiz Burjanadze Stadium\, Gori
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523959.ht
+ ml
+END:VEVENT
+END:VCALENDAR

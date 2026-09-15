@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Racing Louisville
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1508360@anstoss
+DTSTAMP:20260314T230000Z
+DTSTART:20260314T230000Z
+DTEND:20260315T010000Z
+SUMMARY:North Carolina Courage – Racing Louisville 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:WakeMed Soccer Park\, Cary
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508365@anstoss
+DTSTAMP:20260321T000000Z
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+SUMMARY:Racing Louisville – Washington Spirit 2:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508381@anstoss
+DTSTAMP:20260328T223000Z
+DTSTART:20260328T223000Z
+DTEND:20260329T003000Z
+SUMMARY:Seattle Reign FC – Racing Louisville 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:One Spokane Stadium\, Spokane
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508387@anstoss
+DTSTAMP:20260404T003000Z
+DTSTART:20260404T003000Z
+DTEND:20260404T023000Z
+SUMMARY:Houston Dash – Racing Louisville 4:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Shell Energy Stadium\, Houston
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508393@anstoss
+DTSTAMP:20260424T213000Z
+DTSTART:20260424T213000Z
+DTEND:20260424T233000Z
+SUMMARY:Racing Louisville – Orlando Pride 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508401@anstoss
+DTSTAMP:20260429T230000Z
+DTSTART:20260429T230000Z
+DTEND:20260430T010000Z
+SUMMARY:Washington Spirit – Racing Louisville 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Audi Field\, Washington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508411@anstoss
+DTSTAMP:20260503T210000Z
+DTSTART:20260503T210000Z
+DTEND:20260503T230000Z
+SUMMARY:NJ/NY Gotham FC – Racing Louisville 1:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Sports Illustrated Stadium\, Harrison
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508414@anstoss
+DTSTAMP:20260508T223000Z
+DTSTART:20260508T223000Z
+DTEND:20260509T003000Z
+SUMMARY:Racing Louisville – Portland Thorns 3:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508430@anstoss
+DTSTAMP:20260518T000000Z
+DTSTART:20260518T000000Z
+DTEND:20260518T020000Z
+SUMMARY:Utah Royals – Racing Louisville 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:America First Field\, Sandy
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508435@anstoss
+DTSTAMP:20260523T200000Z
+DTSTART:20260523T200000Z
+DTEND:20260523T220000Z
+SUMMARY:Racing Louisville – North Carolina Courage 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508442@anstoss
+DTSTAMP:20260530T000000Z
+DTSTART:20260530T000000Z
+DTEND:20260530T020000Z
+SUMMARY:Racing Louisville – Denver Summit 0:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508442.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508456@anstoss
+DTSTAMP:20260705T230000Z
+DTSTART:20260705T230000Z
+DTEND:20260706T010000Z
+SUMMARY:Portland Thorns – Racing Louisville 4:0
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Providence Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508459@anstoss
+DTSTAMP:20260711T000000Z
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:Racing Louisville – Bay FC 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508472@anstoss
+DTSTAMP:20260719T000000Z
+DTSTART:20260719T000000Z
+DTEND:20260719T020000Z
+SUMMARY:Racing Louisville – Houston Dash 1:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508482@anstoss
+DTSTAMP:20260727T010000Z
+DTSTART:20260727T010000Z
+DTEND:20260727T030000Z
+SUMMARY:Angel City – Racing Louisville 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:BMO Stadium\, Los Angeles
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508482.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508483@anstoss
+DTSTAMP:20260730T000000Z
+DTSTART:20260730T000000Z
+DTEND:20260730T020000Z
+SUMMARY:Kansas City – Racing Louisville 5:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:CPKC Stadium\, Kansas City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508487@anstoss
+DTSTAMP:20260801T200000Z
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+SUMMARY:Racing Louisville – Chicago Red Stars 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508498@anstoss
+DTSTAMP:20260807T230000Z
+DTSTART:20260807T230000Z
+DTEND:20260808T010000Z
+SUMMARY:Orlando Pride – Racing Louisville 1:3
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Inter&Co Stadium\, Orlando
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508507@anstoss
+DTSTAMP:20260815T223000Z
+DTSTART:20260815T223000Z
+DTEND:20260816T003000Z
+SUMMARY:Racing Louisville – Boston Legacy 4:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508511@anstoss
+DTSTAMP:20260819T223000Z
+DTSTART:20260819T223000Z
+DTEND:20260820T003000Z
+SUMMARY:Racing Louisville – Seattle Reign FC 2:1
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508511.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508517@anstoss
+DTSTAMP:20260823T180000Z
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+SUMMARY:Chicago Red Stars – Racing Louisville 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Martin Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508517.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508523@anstoss
+DTSTAMP:20260829T020000Z
+DTSTART:20260829T020000Z
+DTEND:20260829T040000Z
+SUMMARY:San Diego Wave – Racing Louisville 3:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Snapdragon Stadium\, San Diego
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508523.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508532@anstoss
+DTSTAMP:20260905T223000Z
+DTSTART:20260905T223000Z
+DTEND:20260906T003000Z
+SUMMARY:Racing Louisville – Angel City 0:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium\, Louisville
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508532.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508538@anstoss
+DTSTAMP:20260911T223000Z
+DTSTART:20260911T223000Z
+DTEND:20260912T003000Z
+SUMMARY:Racing Louisville – NJ/NY Gotham FC 1:2
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508538.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508554@anstoss
+DTSTAMP:20260920T230000Z
+DTSTART:20260920T230000Z
+DTEND:20260921T010000Z
+SUMMARY:Bay FC – Racing Louisville
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:PayPal Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508554.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508556@anstoss
+DTSTAMP:20260925T223000Z
+DTSTART:20260925T223000Z
+DTEND:20260926T003000Z
+SUMMARY:Racing Louisville – San Diego Wave
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508556.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508566@anstoss
+DTSTAMP:20261003T200000Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Racing Louisville – Utah Royals
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508572@anstoss
+DTSTAMP:20261017T000000Z
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Boston Legacy – Racing Louisville
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Gillette Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508572.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508583@anstoss
+DTSTAMP:20261024T223000Z
+DTSTART:20261024T223000Z
+DTEND:20261025T003000Z
+SUMMARY:Denver Summit – Racing Louisville
+DESCRIPTION:NWSL · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508583.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1508593@anstoss
+DTSTAMP:20261101T220000Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Racing Louisville – Kansas City
+DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Lynn Family Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1508593.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yenisey
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529892@anstoss
+DTSTAMP:20260314T070000Z
+DTSTART:20260314T070000Z
+DTEND:20260314T090000Z
+SUMMARY:Yenisey – Spartak Moskva 1:5
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529898@anstoss
+DTSTAMP:20260321T060000Z
+DTSTART:20260321T060000Z
+DTEND:20260321T080000Z
+SUMMARY:Yenisey – Rubin Kazan 0:0
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529904@anstoss
+DTSTAMP:20260328T100000Z
+DTSTART:20260328T100000Z
+DTEND:20260328T120000Z
+SUMMARY:Krylya Sovetov – Yenisey 2:0
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529913@anstoss
+DTSTAMP:20260404T110000Z
+DTSTART:20260404T110000Z
+DTEND:20260404T130000Z
+SUMMARY:Ryazan – Yenisey 3:1
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529916@anstoss
+DTSTAMP:20260425T060000Z
+DTSTART:20260425T060000Z
+DTEND:20260425T080000Z
+SUMMARY:Yenisey – Chertanovo 1:2
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529922@anstoss
+DTSTAMP:20260502T060000Z
+DTSTART:20260502T060000Z
+DTEND:20260502T080000Z
+SUMMARY:Yenisey – CSKA Moskva 0:3
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529922.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529934@anstoss
+DTSTAMP:20260516T100000Z
+DTSTART:20260516T100000Z
+DTEND:20260516T120000Z
+SUMMARY:Lokomotiv Moskva – Yenisey 3:0
+DESCRIPTION:Supreme Division Women · 8. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529934.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529942@anstoss
+DTSTAMP:20260523T073000Z
+DTSTART:20260523T073000Z
+DTEND:20260523T093000Z
+SUMMARY:Zvezda Perm – Yenisey 1:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529942.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529945@anstoss
+DTSTAMP:20260530T060000Z
+DTSTART:20260530T060000Z
+DTEND:20260530T080000Z
+SUMMARY:Yenisey – Dinamo Moskva 0:1
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529952@anstoss
+DTSTAMP:20260620T170000Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:Rostov – Yenisey 1:0
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529959@anstoss
+DTSTAMP:20260628T060000Z
+DTSTART:20260628T060000Z
+DTEND:20260628T080000Z
+SUMMARY:Yenisey – Krasnodar 0:0
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529966@anstoss
+DTSTAMP:20260711T160000Z
+DTSTART:20260711T160000Z
+DTEND:20260711T180000Z
+SUMMARY:Zenit – Yenisey 4:0
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529966.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529972@anstoss
+DTSTAMP:20260718T140000Z
+DTSTART:20260718T140000Z
+DTEND:20260718T160000Z
+SUMMARY:Spartak Moskva – Yenisey 5:0
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529972.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529974@anstoss
+DTSTAMP:20260801T160000Z
+DTSTART:20260801T160000Z
+DTEND:20260801T180000Z
+SUMMARY:Chertanovo – Yenisey 3:2
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529974.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529981@anstoss
+DTSTAMP:20260808T060000Z
+DTSTART:20260808T060000Z
+DTEND:20260808T080000Z
+SUMMARY:Yenisey – Krylya Sovetov 0:4
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529981.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529987@anstoss
+DTSTAMP:20260829T060000Z
+DTSTART:20260829T060000Z
+DTEND:20260829T080000Z
+SUMMARY:Yenisey – Rostov 1:2
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529998@anstoss
+DTSTAMP:20260911T140000Z
+DTSTART:20260911T140000Z
+DTEND:20260911T160000Z
+SUMMARY:CSKA Moskva – Yenisey 1:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530007@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Rubin Kazan – Yenisey
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530013@anstoss
+DTSTAMP:20261003T100000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Yenisey – Lokomotiv Moskva
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530013.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530017@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Yenisey – Zvezda Perm
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530025@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Yenisey – Ryazan
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530025.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530030@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Dinamo Moskva – Yenisey
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530030.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530036@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Krasnodar – Yenisey
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530036.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530041@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Yenisey – Zenit
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530041.ht
+ ml
+END:VEVENT
+END:VCALENDAR

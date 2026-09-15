@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlante
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603307@anstoss
+DTSTAMP:20260803T214500Z
+DTSTART:20260803T214500Z
+DTEND:20260803T234500Z
+SUMMARY:Atlante – Necaxa 1:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603313@anstoss
+DTSTAMP:20260809T020000Z
+DTSTART:20260809T020000Z
+DTEND:20260809T040000Z
+SUMMARY:Monterrey – Atlante 3:1
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603318@anstoss
+DTSTAMP:20260815T010000Z
+DTSTART:20260815T010000Z
+DTEND:20260815T030000Z
+SUMMARY:Cruz Azul – Atlante 3:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Centenario\, Cuernavaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603318.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603334@anstoss
+DTSTAMP:20260824T214500Z
+DTSTART:20260824T214500Z
+DTEND:20260824T234500Z
+SUMMARY:Atlante – Toluca 1:2
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603344@anstoss
+DTSTAMP:20260901T010600Z
+DTSTART:20260901T010600Z
+DTEND:20260901T030600Z
+SUMMARY:Santos Laguna – Atlante 1:0
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Corona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603352@anstoss
+DTSTAMP:20260908T180000Z
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+SUMMARY:Atlante – Juárez 0:1
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603352.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603355@anstoss
+DTSTAMP:20260912T030600Z
+DTSTART:20260912T030600Z
+DTEND:20260912T050600Z
+SUMMARY:Atlas – Atlante 1:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603368@anstoss
+DTSTAMP:20260921T214500Z
+DTSTART:20260921T214500Z
+DTEND:20260921T234500Z
+SUMMARY:Atlante – Querétaro
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603368.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603378@anstoss
+DTSTAMP:20260928T214500Z
+DTSTART:20260928T214500Z
+DTEND:20260928T234500Z
+SUMMARY:Atlante – Pumas UNAM
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Banorte\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603386@anstoss
+DTSTAMP:20261004T010600Z
+DTSTART:20261004T010600Z
+DTEND:20261004T030600Z
+SUMMARY:Tijuana – Atlante
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603398@anstoss
+DTSTAMP:20261020T010600Z
+DTSTART:20261020T010600Z
+DTEND:20261020T030600Z
+SUMMARY:León – Atlante
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603406@anstoss
+DTSTAMP:20261026T214500Z
+DTSTART:20261026T214500Z
+DTEND:20261026T234500Z
+SUMMARY:Atlante – Guadalajara
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603415@anstoss
+DTSTAMP:20261101T214500Z
+DTSTART:20261101T214500Z
+DTEND:20261101T234500Z
+SUMMARY:América – Atlante
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603415.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603417@anstoss
+DTSTAMP:20261105T214500Z
+DTSTART:20261105T214500Z
+DTEND:20261105T234500Z
+SUMMARY:Atlante – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603417.ht
+ ml
+END:VEVENT
+END:VCALENDAR

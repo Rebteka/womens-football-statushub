@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Defensores
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1545994@anstoss
+DTSTAMP:20260315T181500Z
+DTSTART:20260315T181500Z
+DTEND:20260315T201500Z
+SUMMARY:UNSAAC – Defensores 1:1
+DESCRIPTION:Liga Women · Apertura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545994.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546000@anstoss
+DTSTAMP:20260322T203000Z
+DTSTART:20260322T203000Z
+DTEND:20260322T223000Z
+SUMMARY:Defensores – Alianza Lima 0:3
+DESCRIPTION:Liga Women · Apertura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546000.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546001@anstoss
+DTSTAMP:20260327T200000Z
+DTSTART:20260327T200000Z
+DTEND:20260327T220000Z
+SUMMARY:Sporting Cristal – Defensores 3:1
+DESCRIPTION:Liga Women · Apertura · 3. Spieltag
+LOCATION:Estadio Alberto Gallardo\, Lima
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546009@anstoss
+DTSTAMP:20260426T180000Z
+DTSTART:20260426T180000Z
+DTEND:20260426T200000Z
+SUMMARY:Defensores – FBC Melgar 3:2
+DESCRIPTION:Liga Women · Apertura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546009.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546014@anstoss
+DTSTAMP:20260504T140000Z
+DTSTART:20260504T140000Z
+DTEND:20260504T160000Z
+SUMMARY:Yanapuma – Defensores 3:0
+DESCRIPTION:Liga Women · Apertura · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546019@anstoss
+DTSTAMP:20260509T201500Z
+DTSTART:20260509T201500Z
+DTEND:20260509T221500Z
+SUMMARY:U. de Deportes – Defensores 7:0
+DESCRIPTION:Liga Women · Apertura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546024@anstoss
+DTSTAMP:20260517T180000Z
+DTSTART:20260517T180000Z
+DTEND:20260517T200000Z
+SUMMARY:Defensores – Carlos Mannucci 5:0
+DESCRIPTION:Liga Women · Apertura · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546029@anstoss
+DTSTAMP:20260521T181500Z
+DTSTART:20260521T181500Z
+DTEND:20260521T201500Z
+SUMMARY:Flamengo FBC – Defensores 3:0
+DESCRIPTION:Liga Women · Apertura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1546032@anstoss
+DTSTAMP:20260524T150000Z
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+SUMMARY:Defensores – Killas 1:6
+DESCRIPTION:Liga Women · Apertura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1548207@anstoss
+DTSTAMP:20260614T180000Z
+DTSTART:20260614T180000Z
+DTEND:20260614T200000Z
+SUMMARY:Defensores – Atl. Andahuaylas 0:1
+DESCRIPTION:Liga Women · Apertura · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548207.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557281@anstoss
+DTSTAMP:20260725T201500Z
+DTSTART:20260725T201500Z
+DTEND:20260725T221500Z
+SUMMARY:Defensores – UNSAAC 1:0
+DESCRIPTION:Liga Women · Clausura · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557281.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584354@anstoss
+DTSTAMP:20260802T201500Z
+DTSTART:20260802T201500Z
+DTEND:20260802T221500Z
+SUMMARY:Alianza Lima – Defensores 10:0
+DESCRIPTION:Liga Women · Clausura · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584359@anstoss
+DTSTAMP:20260806T201500Z
+DTSTART:20260806T201500Z
+DTEND:20260806T221500Z
+SUMMARY:Defensores – Sporting Cristal 2:4
+DESCRIPTION:Liga Women · Clausura · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1584364@anstoss
+DTSTAMP:20260810T150000Z
+DTSTART:20260810T150000Z
+DTEND:20260810T170000Z
+SUMMARY:FBC Melgar – Defensores 8:0
+DESCRIPTION:Liga Women · Clausura · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1584364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607658@anstoss
+DTSTAMP:20260814T200000Z
+DTSTART:20260814T200000Z
+DTEND:20260814T220000Z
+SUMMARY:Defensores – Yanapuma 2:3
+DESCRIPTION:Liga Women · Clausura · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607658.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1620979@anstoss
+DTSTAMP:20260823T201500Z
+DTSTART:20260823T201500Z
+DTEND:20260823T221500Z
+SUMMARY:Defensores – U. de Deportes 0:6
+DESCRIPTION:Liga Women · Clausura · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1620979.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1622724@anstoss
+DTSTAMP:20260828T150000Z
+DTSTART:20260828T150000Z
+DTEND:20260828T170000Z
+SUMMARY:Carlos Mannucci – Defensores 1:0
+DESCRIPTION:Liga Women · Clausura · 7. Spieltag
+LOCATION:Estadio Mansiche\, Trujillo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1622724.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629828@anstoss
+DTSTAMP:20260906T180000Z
+DTSTART:20260906T180000Z
+DTEND:20260906T200000Z
+SUMMARY:Defensores – Flamengo FBC 2:1
+DESCRIPTION:Liga Women · Clausura · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629828.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632247@anstoss
+DTSTAMP:20260911T201500Z
+DTSTART:20260911T201500Z
+DTEND:20260911T221500Z
+SUMMARY:Killas – Defensores 3:1
+DESCRIPTION:Liga Women · Clausura · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632247.ht
+ ml
+END:VEVENT
+END:VCALENDAR

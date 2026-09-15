@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PAOK
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558473@anstoss
+DTSTAMP:20260722T153000Z
+DTSTART:20260722T153000Z
+DTEND:20260722T173000Z
+SUMMARY:PAOK – Hapoel Jerusalem 3:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600541@anstoss
+DTSTAMP:20260725T153000Z
+DTSTART:20260725T153000Z
+DTEND:20260725T173000Z
+SUMMARY:PAOK – Neftçi Bakı 3:0
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Veria Stadium\, Veria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600541.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603953@anstoss
+DTSTAMP:20260805T143000Z
+DTSTART:20260805T143000Z
+DTEND:20260805T163000Z
+SUMMARY:Ferencváros – PAOK 2:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Hevizi uti Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612440@anstoss
+DTSTAMP:20260808T143000Z
+DTSTART:20260808T143000Z
+DTEND:20260808T163000Z
+SUMMARY:SK Brann – PAOK 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:III. Keruleti TVE\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612440.ht
+ ml
+END:VEVENT
+END:VCALENDAR

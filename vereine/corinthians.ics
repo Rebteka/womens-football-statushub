@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Corinthians
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522326@anstoss
+DTSTAMP:20260214T000000Z
+DTSTART:20260214T000000Z
+DTEND:20260214T020000Z
+SUMMARY:Atlético Mineiro – Corinthians 0:1
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:MRV Arena\, Belo Horizonte
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522326.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522335@anstoss
+DTSTAMP:20260221T003000Z
+DTSTART:20260221T003000Z
+DTEND:20260221T023000Z
+SUMMARY:Corinthians – Fluminense 2:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522341@anstoss
+DTSTAMP:20260314T003000Z
+DTSTART:20260314T003000Z
+DTEND:20260314T023000Z
+SUMMARY:Palmeiras – Corinthians 3:2
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522348@anstoss
+DTSTAMP:20260324T000000Z
+DTSTART:20260324T000000Z
+DTEND:20260324T020000Z
+SUMMARY:Corinthians – America Mineiro 4:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522355@anstoss
+DTSTAMP:20260327T220000Z
+DTSTART:20260327T220000Z
+DTEND:20260328T000000Z
+SUMMARY:Botafogo – Corinthians 1:3
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+LOCATION:Estadio Olimpico Nilton Santos\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522362@anstoss
+DTSTAMP:20260401T000000Z
+DTSTART:20260401T000000Z
+DTEND:20260401T020000Z
+SUMMARY:Corinthians – RB Bragantino (verlegt)
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533886@anstoss
+DTSTAMP:20260404T000000Z
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+SUMMARY:Corinthians – RB Bragantino 5:1
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522369@anstoss
+DTSTAMP:20260421T000000Z
+DTSTART:20260421T000000Z
+DTEND:20260421T020000Z
+SUMMARY:Juventude – Corinthians 0:1
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Montanha dos Vinhedos\, Bento Goncalves
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522376@anstoss
+DTSTAMP:20260425T000000Z
+DTSTART:20260425T000000Z
+DTEND:20260425T020000Z
+SUMMARY:Corinthians – Ferroviaria 3:1
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522376.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522383@anstoss
+DTSTAMP:20260501T203000Z
+DTSTART:20260501T203000Z
+DTEND:20260501T223000Z
+SUMMARY:Gremio – Corinthians 0:2
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522390@anstoss
+DTSTAMP:20260512T003000Z
+DTSTART:20260512T003000Z
+DTEND:20260512T023000Z
+SUMMARY:Corinthians – São Paulo 2:1
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522397@anstoss
+DTSTAMP:20260519T000000Z
+DTSTART:20260519T000000Z
+DTEND:20260519T020000Z
+SUMMARY:Cruzeiro – Corinthians 3:2
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522468@anstoss
+DTSTAMP:20260526T000000Z
+DTSTART:20260526T000000Z
+DTEND:20260526T020000Z
+SUMMARY:Corinthians – Mixto 4:1
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522468.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522469@anstoss
+DTSTAMP:20260726T140000Z
+DTSTART:20260726T140000Z
+DTEND:20260726T160000Z
+SUMMARY:Corinthians – Vitória BA 4:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522418@anstoss
+DTSTAMP:20260803T213000Z
+DTSTART:20260803T213000Z
+DTEND:20260803T233000Z
+SUMMARY:Flamengo – Corinthians 0:1
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522418.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522425@anstoss
+DTSTAMP:20260809T190000Z
+DTSTART:20260809T190000Z
+DTEND:20260809T210000Z
+SUMMARY:Corinthians – Santos 4:1
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522425.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522432@anstoss
+DTSTAMP:20260815T203000Z
+DTSTART:20260815T203000Z
+DTEND:20260815T223000Z
+SUMMARY:Bahia – Corinthians 1:1
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522439@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Corinthians – Internacional RS 1:3
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522439.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634045@anstoss
+DTSTAMP:20260831T221500Z
+DTSTART:20260831T221500Z
+DTEND:20260901T001500Z
+SUMMARY:Cruzeiro – Corinthians 0:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634045.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634048@anstoss
+DTSTAMP:20260907T200000Z
+DTSTART:20260907T200000Z
+DTEND:20260907T220000Z
+SUMMARY:Corinthians – Cruzeiro 3:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638745@anstoss
+DTSTAMP:20260916T003000Z
+DTSTART:20260916T003000Z
+DTEND:20260916T023000Z
+SUMMARY:Bahia – Corinthians
+DESCRIPTION:Brasileiro Women · Halbfinale
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638747@anstoss
+DTSTAMP:20260922T003000Z
+DTSTART:20260922T003000Z
+DTEND:20260922T023000Z
+SUMMARY:Corinthians – Bahia
+DESCRIPTION:Brasileiro Women · Halbfinale
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638747.ht
+ ml
+END:VEVENT
+END:VCALENDAR

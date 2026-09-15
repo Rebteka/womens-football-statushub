@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Umeå
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501355@anstoss
+DTSTAMP:20260328T110000Z
+DTSTART:20260328T110000Z
+DTEND:20260328T130000Z
+SUMMARY:Jitex – Umeå 0:4
+DESCRIPTION:Elitettan · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501365@anstoss
+DTSTAMP:20260406T100000Z
+DTSTART:20260406T100000Z
+DTEND:20260406T120000Z
+SUMMARY:Umeå – KIF Örebro 2:2
+DESCRIPTION:Elitettan · 2. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501365.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501372@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Umeå – Häcken II 4:1
+DESCRIPTION:Elitettan · 3. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503698@anstoss
+DTSTAMP:20260502T110000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+SUMMARY:Enskede – Umeå 1:1
+DESCRIPTION:Elitettan · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503698.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501381@anstoss
+DTSTAMP:20260509T110000Z
+DTSTART:20260509T110000Z
+DTEND:20260509T130000Z
+SUMMARY:Gamla Upsala – Umeå 2:3
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501381.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501393@anstoss
+DTSTAMP:20260516T120000Z
+DTSTART:20260516T120000Z
+DTEND:20260516T140000Z
+SUMMARY:Umeå – Sandviken 2:0
+DESCRIPTION:Elitettan · 6. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501394@anstoss
+DTSTAMP:20260523T110000Z
+DTSTART:20260523T110000Z
+DTEND:20260523T130000Z
+SUMMARY:Alingsås – Umeå 2:0
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501407@anstoss
+DTSTAMP:20260530T100000Z
+DTSTART:20260530T100000Z
+DTEND:20260530T120000Z
+SUMMARY:Umeå – Trelleborg 0:2
+DESCRIPTION:Elitettan · 8. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501414@anstoss
+DTSTAMP:20260614T110000Z
+DTSTART:20260614T110000Z
+DTEND:20260614T130000Z
+SUMMARY:Umeå – Linköping 1:2
+DESCRIPTION:Elitettan · 9. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501420@anstoss
+DTSTAMP:20260621T110000Z
+DTSTART:20260621T110000Z
+DTEND:20260621T130000Z
+SUMMARY:Örebro SK – Umeå 1:0
+DESCRIPTION:Elitettan · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501420.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501422@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:Elfsborg – Umeå 4:1
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501422.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501435@anstoss
+DTSTAMP:20260801T140000Z
+DTSTART:20260801T140000Z
+DTEND:20260801T160000Z
+SUMMARY:Umeå – Göteborg 1:1
+DESCRIPTION:Elitettan · 12. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501437@anstoss
+DTSTAMP:20260808T110000Z
+DTSTART:20260808T110000Z
+DTEND:20260808T130000Z
+SUMMARY:Husqvarna – Umeå 1:2
+DESCRIPTION:Elitettan · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501437.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501449@anstoss
+DTSTAMP:20260815T140000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T160000Z
+SUMMARY:Umeå – Jitex 2:0
+DESCRIPTION:Elitettan · 14. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501449.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501456@anstoss
+DTSTAMP:20260822T110000Z
+DTSTART:20260822T110000Z
+DTEND:20260822T130000Z
+SUMMARY:Umeå – Gamla Upsala 1:0
+DESCRIPTION:Elitettan · 15. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501461@anstoss
+DTSTAMP:20260829T110000Z
+DTSTART:20260829T110000Z
+DTEND:20260829T130000Z
+SUMMARY:KIF Örebro – Umeå 2:1
+DESCRIPTION:Elitettan · 16. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501470@anstoss
+DTSTAMP:20260906T100000Z
+DTSTART:20260906T100000Z
+DTEND:20260906T120000Z
+SUMMARY:Umeå – Elfsborg 1:1
+DESCRIPTION:Elitettan · 17. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501472@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Häcken II – Umeå 0:2
+DESCRIPTION:Elitettan · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503713@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:Umeå – Enskede
+DESCRIPTION:Elitettan · 19. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503713.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501490@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Sandviken – Umeå
+DESCRIPTION:Elitettan · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501490.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501498@anstoss
+DTSTAMP:20261004T110000Z
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
+SUMMARY:Umeå – Husqvarna
+DESCRIPTION:Elitettan · 21. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501503@anstoss
+DTSTAMP:20261017T100000Z
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+SUMMARY:Linköping – Umeå
+DESCRIPTION:Elitettan · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501512@anstoss
+DTSTAMP:20261024T110000Z
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
+SUMMARY:Trelleborg – Umeå
+DESCRIPTION:Elitettan · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501512.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501519@anstoss
+DTSTAMP:20261101T110000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Umeå – Örebro SK
+DESCRIPTION:Elitettan · 24. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501519.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501526@anstoss
+DTSTAMP:20261108T120000Z
+DTSTART:20261108T120000Z
+DTEND:20261108T140000Z
+SUMMARY:Umeå – Alingsås
+DESCRIPTION:Elitettan · 25. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501526.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501529@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Göteborg – Umeå
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501529.ht
+ ml
+END:VEVENT
+END:VCALENDAR

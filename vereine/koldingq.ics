@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KoldingQ
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1582091@anstoss
+DTSTAMP:20260728T170000Z
+DTSTART:20260728T170000Z
+DTEND:20260728T190000Z
+SUMMARY:KoldingQ – Fortuna Hjørring 2:6
+DESCRIPTION:Kvindeliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582091.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582094@anstoss
+DTSTAMP:20260802T093000Z
+DTSTART:20260802T093000Z
+DTEND:20260802T113000Z
+SUMMARY:AGF – KoldingQ 0:4
+DESCRIPTION:Kvindeliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582094.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582103@anstoss
+DTSTAMP:20260815T110000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T130000Z
+SUMMARY:Midtjylland – KoldingQ 3:1
+DESCRIPTION:Kvindeliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582103.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582106@anstoss
+DTSTAMP:20260819T170000Z
+DTSTART:20260819T170000Z
+DTEND:20260819T190000Z
+SUMMARY:KoldingQ – Odense Q 3:1
+DESCRIPTION:Kvindeliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582106.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582112@anstoss
+DTSTAMP:20260901T170000Z
+DTSTART:20260901T170000Z
+DTEND:20260901T190000Z
+SUMMARY:Nordsjælland – KoldingQ 4:0
+DESCRIPTION:Kvindeliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582117@anstoss
+DTSTAMP:20260908T170000Z
+DTSTART:20260908T170000Z
+DTEND:20260908T190000Z
+SUMMARY:KoldingQ – Brøndby 0:5
+DESCRIPTION:Kvindeliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582121@anstoss
+DTSTAMP:20260913T093000Z
+DTSTART:20260913T093000Z
+DTEND:20260913T113000Z
+SUMMARY:KoldingQ – ASA Aarhus 1:3
+DESCRIPTION:Kvindeliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582127@anstoss
+DTSTAMP:20260920T093000Z
+DTSTART:20260920T093000Z
+DTEND:20260920T113000Z
+SUMMARY:FC Copenhagen – KoldingQ
+DESCRIPTION:Kvindeliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582131@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Køge – KoldingQ
+DESCRIPTION:Kvindeliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582131.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582136@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:KoldingQ – AGF
+DESCRIPTION:Kvindeliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582136.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582141@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Fortuna Hjørring – KoldingQ
+DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582146@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:KoldingQ – Køge
+DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582146.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582150@anstoss
+DTSTAMP:20261101T130000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:ASA Aarhus – KoldingQ
+DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582150.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582156@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:KoldingQ – FC Copenhagen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582156.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582162@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:KoldingQ – Nordsjælland
+DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582162.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582168@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Odense Q – KoldingQ
+DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582168.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582172@anstoss
+DTSTAMP:20261209T130000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:KoldingQ – Midtjylland
+DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582172.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582175@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Brøndby – KoldingQ
+DESCRIPTION:Kvindeliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582175.ht
+ ml
+END:VEVENT
+END:VCALENDAR

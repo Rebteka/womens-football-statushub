@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tindastóll
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1332843@anstoss
+DTSTAMP:20250416T180000Z
+DTSTART:20250416T180000Z
+DTEND:20250416T200000Z
+SUMMARY:Tindastóll – Fjard / Hött / Leiknir 1:0
+DESCRIPTION:Úrvalsdeild Women · 1. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332843.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332847@anstoss
+DTSTAMP:20250421T160000Z
+DTSTART:20250421T160000Z
+DTEND:20250421T180000Z
+SUMMARY:Thór / KA – Tindastóll 2:1
+DESCRIPTION:Úrvalsdeild Women · 2. Spieltag
+LOCATION:Boginn\, Akureyri
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332847.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332853@anstoss
+DTSTAMP:20250427T170000Z
+DTSTART:20250427T170000Z
+DTEND:20250427T190000Z
+SUMMARY:Tindastóll – Stjarnan 1:2
+DESCRIPTION:Úrvalsdeild Women · 3. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332853.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332855@anstoss
+DTSTAMP:20250503T170000Z
+DTSTART:20250503T170000Z
+DTEND:20250503T190000Z
+SUMMARY:Thróttur Reykjavík – Tindastóll 1:0
+DESCRIPTION:Úrvalsdeild Women · 4. Spieltag
+LOCATION:AVIS völlurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332855.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332858@anstoss
+DTSTAMP:20250508T163000Z
+DTSTART:20250508T163000Z
+DTEND:20250508T183000Z
+SUMMARY:Tindastóll – Breidablik 1:5
+DESCRIPTION:Úrvalsdeild Women · 5. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332858.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332865@anstoss
+DTSTAMP:20250517T161500Z
+DTSTART:20250517T161500Z
+DTEND:20250517T181500Z
+SUMMARY:Víkingur Reykjavík – Tindastóll 1:4
+DESCRIPTION:Úrvalsdeild Women · 6. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332929@anstoss
+DTSTAMP:20250523T173000Z
+DTSTART:20250523T173000Z
+DTEND:20250523T193000Z
+SUMMARY:Fram – Tindastóll 1:0
+DESCRIPTION:Úrvalsdeild Women · 7. Spieltag
+LOCATION:Lambhagavöllurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332872@anstoss
+DTSTAMP:20250606T180000Z
+DTSTART:20250606T180000Z
+DTEND:20250606T200000Z
+SUMMARY:Tindastóll – Valur 2:2
+DESCRIPTION:Úrvalsdeild Women · 8. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332872.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332876@anstoss
+DTSTAMP:20250616T180000Z
+DTSTART:20250616T180000Z
+DTEND:20250616T200000Z
+SUMMARY:FH – Tindastóll 5:1
+DESCRIPTION:Úrvalsdeild Women · 9. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332880@anstoss
+DTSTAMP:20250621T170000Z
+DTSTART:20250621T170000Z
+DTEND:20250621T190000Z
+SUMMARY:Fjard / Hött / Leiknir – Tindastóll 1:4
+DESCRIPTION:Úrvalsdeild Women · 10. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332880.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332882@anstoss
+DTSTAMP:20250724T180000Z
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+SUMMARY:Tindastóll – Thór / KA 2:0
+DESCRIPTION:Úrvalsdeild Women · 11. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332886@anstoss
+DTSTAMP:20250807T180000Z
+DTSTART:20250807T180000Z
+DTEND:20250807T200000Z
+SUMMARY:Stjarnan – Tindastóll 3:0
+DESCRIPTION:Úrvalsdeild Women · 12. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332891@anstoss
+DTSTAMP:20250814T180000Z
+DTSTART:20250814T180000Z
+DTEND:20250814T200000Z
+SUMMARY:Tindastóll – Thróttur Reykjavík 1:1
+DESCRIPTION:Úrvalsdeild Women · 13. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332895@anstoss
+DTSTAMP:20250820T180000Z
+DTSTART:20250820T180000Z
+DTEND:20250820T200000Z
+SUMMARY:Breidablik – Tindastóll 5:0
+DESCRIPTION:Úrvalsdeild Women · 14. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332899@anstoss
+DTSTAMP:20250828T180000Z
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+SUMMARY:Tindastóll – Víkingur Reykjavík 1:5
+DESCRIPTION:Úrvalsdeild Women · 15. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332920@anstoss
+DTSTAMP:20250904T180000Z
+DTSTART:20250904T180000Z
+DTEND:20250904T200000Z
+SUMMARY:Tindastóll – Fram 1:0
+DESCRIPTION:Úrvalsdeild Women · 16. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332920.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332909@anstoss
+DTSTAMP:20250914T180000Z
+DTSTART:20250914T180000Z
+DTEND:20250914T200000Z
+SUMMARY:Valur – Tindastóll 6:2
+DESCRIPTION:Úrvalsdeild Women · 17. Spieltag
+LOCATION:N1-völlurinn Hlíðarenda\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332909.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332912@anstoss
+DTSTAMP:20250920T140000Z
+DTSTART:20250920T140000Z
+DTEND:20250920T160000Z
+SUMMARY:Tindastóll – FH 0:4
+DESCRIPTION:Úrvalsdeild Women · 18. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544338@anstoss
+DTSTAMP:20250925T191500Z
+DTSTART:20250925T191500Z
+DTEND:20250925T211500Z
+SUMMARY:Thór / KA – Tindastóll 3:0
+DESCRIPTION:Úrvalsdeild Women · Relegation Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544344@anstoss
+DTSTAMP:20251004T161500Z
+DTSTART:20251004T161500Z
+DTEND:20251004T181500Z
+SUMMARY:Fram – Tindastóll 3:3
+DESCRIPTION:Úrvalsdeild Women · Relegation Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544352@anstoss
+DTSTAMP:20251011T150000Z
+DTSTART:20251011T150000Z
+DTEND:20251011T170000Z
+SUMMARY:Tindastóll – Fjard / Hött / Leiknir 5:2
+DESCRIPTION:Úrvalsdeild Women · Relegation Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544352.ht
+ ml
+END:VEVENT
+END:VCALENDAR

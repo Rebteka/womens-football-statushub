@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Burnley
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1609371@anstoss
+DTSTAMP:20260904T183000Z
+DTSTART:20260904T183000Z
+DTEND:20260904T203000Z
+SUMMARY:Watford – Burnley 0:0
+DESCRIPTION:Women's Championship · 1. Spieltag
+LOCATION:Vicarage Road\, Watford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609378@anstoss
+DTSTAMP:20260913T130000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Burnley – Sunderland 1:2
+DESCRIPTION:Women's Championship · 2. Spieltag
+LOCATION:Turf Moor\, Burnley
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609383@anstoss
+DTSTAMP:20260918T183000Z
+DTSTART:20260918T183000Z
+DTEND:20260918T203000Z
+SUMMARY:Wolverhampton – Burnley
+DESCRIPTION:Women's Championship · 3. Spieltag
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609389@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Burnley – Bristol City
+DESCRIPTION:Women's Championship · 4. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609397@anstoss
+DTSTAMP:20261004T130000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:Nottingham Forest – Burnley
+DESCRIPTION:Women's Championship · 5. Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609403@anstoss
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Burnley – Sheffield United
+DESCRIPTION:Women's Championship · 6. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609409@anstoss
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Newcastle United – Burnley
+DESCRIPTION:Women's Championship · 7. Spieltag
+LOCATION:Gateshead International Stadium\, Gateshead
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609414@anstoss
+DTSTAMP:20261115T140000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Burnley – Southampton
+DESCRIPTION:Women's Championship · 8. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609423@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART:20261220T150000Z
+DTEND:20261220T170000Z
+SUMMARY:Leicester City FC – Burnley
+DESCRIPTION:Women's Championship · 9. Spieltag
+LOCATION:King Power Stadium\, Leicester
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609423.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609426@anstoss
+DTSTAMP:20270110T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Burnley – Durham
+DESCRIPTION:Women's Championship · 10. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609426.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609431@anstoss
+DTSTAMP:20270122T190000Z
+DTSTART:20270122T190000Z
+DTEND:20270122T210000Z
+SUMMARY:Burnley – Ipswich Town
+DESCRIPTION:Women's Championship · 11. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609431.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609438@anstoss
+DTSTAMP:20270127T190000Z
+DTSTART:20270127T190000Z
+DTEND:20270127T210000Z
+SUMMARY:Sunderland – Burnley
+DESCRIPTION:Women's Championship · 12. Spieltag
+LOCATION:Eppleton Colliery Welfare Ground\, Sunderland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609445@anstoss
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Southampton – Burnley
+DESCRIPTION:Women's Championship · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609445.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609451@anstoss
+DTSTAMP:20270207T140000Z
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:Burnley – Leicester City FC
+DESCRIPTION:Women's Championship · 14. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609456@anstoss
+DTSTAMP:20270213T180000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T200000Z
+SUMMARY:Sheffield United – Burnley
+DESCRIPTION:Women's Championship · 15. Spieltag
+LOCATION:Bramall Lane\, Sheffield
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609462@anstoss
+DTSTAMP:20270314T140000Z
+DTSTART:20270314T140000Z
+DTEND:20270314T160000Z
+SUMMARY:Burnley – Watford
+DESCRIPTION:Women's Championship · 16. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609462.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609469@anstoss
+DTSTAMP:20270321T140000Z
+DTSTART:20270321T140000Z
+DTEND:20270321T160000Z
+SUMMARY:Ipswich Town – Burnley
+DESCRIPTION:Women's Championship · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609474@anstoss
+DTSTAMP:20270327T140000Z
+DTSTART:20270327T140000Z
+DTEND:20270327T160000Z
+SUMMARY:Burnley – Wolverhampton
+DESCRIPTION:Women's Championship · 18. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609474.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609479@anstoss
+DTSTAMP:20270404T130000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Bristol City – Burnley
+DESCRIPTION:Women's Championship · 19. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Ashton Gate Stadium\, Bristol
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609479.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609487@anstoss
+DTSTAMP:20270411T130000Z
+DTSTART:20270411T130000Z
+DTEND:20270411T150000Z
+SUMMARY:Burnley – Nottingham Forest
+DESCRIPTION:Women's Championship · 20. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609493@anstoss
+DTSTAMP:20270502T130000Z
+DTSTART:20270502T130000Z
+DTEND:20270502T150000Z
+SUMMARY:Burnley – Newcastle United
+DESCRIPTION:Women's Championship · 21. Spieltag
+LOCATION:Lancashire County Ground\, Leyland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1609497@anstoss
+DTSTAMP:20270508T130000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Durham – Burnley
+DESCRIPTION:Women's Championship · 22. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Maiden Castle\, Durham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1609497.ht
+ ml
+END:VEVENT
+END:VCALENDAR

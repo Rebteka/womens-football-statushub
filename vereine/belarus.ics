@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belarus
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523859@anstoss
+DTSTAMP:20260307T090000Z
+DTSTART:20260307T090000Z
+DTEND:20260307T110000Z
+SUMMARY:Kazakhstan – Belarus 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Astana Arena\, Astana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523859.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523884@anstoss
+DTSTAMP:20260414T120000Z
+DTSTART:20260414T120000Z
+DTEND:20260414T140000Z
+SUMMARY:Armenia – Belarus 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Vazgen Sargsyan Republican Stadium\, Yerevan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523884.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523909@anstoss
+DTSTAMP:20260418T120000Z
+DTSTART:20260418T120000Z
+DTEND:20260418T140000Z
+SUMMARY:Belarus – Kazakhstan 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Tengiz Burjanadze Stadium\, Gori
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523909.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523959@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Belarus – Armenia 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Tengiz Burjanadze Stadium\, Gori
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557243@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Belarus – Italien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557262@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Italien – Belarus
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557262.ht
+ ml
+END:VEVENT
+END:VCALENDAR

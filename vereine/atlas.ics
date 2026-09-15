@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlas
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603300@anstoss
+DTSTAMP:20260801T010000Z
+DTSTART:20260801T010000Z
+DTEND:20260801T030000Z
+SUMMARY:Cruz Azul – Atlas 3:1
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Instalaciones La Noria Cancha 1\, Ciudad de Mexico
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603309@anstoss
+DTSTAMP:20260808T010600Z
+DTSTART:20260808T010600Z
+DTEND:20260808T030600Z
+SUMMARY:Atlas – Pachuca 1:1
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603309.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603325@anstoss
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T000000Z
+DTEND:20260818T020000Z
+SUMMARY:Toluca – Atlas 1:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603335@anstoss
+DTSTAMP:20260825T010000Z
+DTSTART:20260825T010000Z
+DTEND:20260825T030000Z
+SUMMARY:Atlas – Tijuana 2:0
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603342@anstoss
+DTSTAMP:20260830T230000Z
+DTSTART:20260830T230000Z
+DTEND:20260831T010000Z
+SUMMARY:Atlético San Luis – Atlas 6:1
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+LOCATION:Estadio Libertad Financiera
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603345@anstoss
+DTSTAMP:20260905T020600Z
+DTSTART:20260905T020600Z
+DTEND:20260905T040600Z
+SUMMARY:Atlas – Guadalajara 0:4
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603355@anstoss
+DTSTAMP:20260912T030600Z
+DTSTART:20260912T030600Z
+DTEND:20260912T050600Z
+SUMMARY:Atlas – Atlante 1:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603366@anstoss
+DTSTAMP:20260920T214500Z
+DTSTART:20260920T214500Z
+DTEND:20260920T234500Z
+SUMMARY:América – Atlas
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603366.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603373@anstoss
+DTSTAMP:20260926T180600Z
+DTSTART:20260926T180600Z
+DTEND:20260926T200600Z
+SUMMARY:Querétaro – Atlas
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio La Corregidora
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603383@anstoss
+DTSTAMP:20261003T010600Z
+DTSTART:20261003T010600Z
+DTEND:20261003T030600Z
+SUMMARY:Atlas – León
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603392@anstoss
+DTSTAMP:20261018T180000Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+SUMMARY:Pumas UNAM – Atlas
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603399@anstoss
+DTSTAMP:20261024T010600Z
+DTSTART:20261024T010600Z
+DTEND:20261024T030600Z
+SUMMARY:Atlas – Puebla
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Colomos\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603409@anstoss
+DTSTAMP:20261031T010600Z
+DTSTART:20261031T010600Z
+DTEND:20261031T030600Z
+SUMMARY:Atlas – Tigres UANL
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Colomos\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603409.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603418@anstoss
+DTSTAMP:20261105T230000Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:Necaxa – Atlas
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603418.ht
+ ml
+END:VEVENT
+END:VCALENDAR

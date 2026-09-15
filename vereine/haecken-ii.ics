@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Häcken II
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1501353@anstoss
+DTSTAMP:20260328T140000Z
+DTSTART:20260328T140000Z
+DTEND:20260328T160000Z
+SUMMARY:Häcken II – Trelleborg 2:4
+DESCRIPTION:Elitettan · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501362@anstoss
+DTSTAMP:20260404T130000Z
+DTSTART:20260404T130000Z
+DTEND:20260404T150000Z
+SUMMARY:Linköping – Häcken II 3:0
+DESCRIPTION:Elitettan · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501362.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501372@anstoss
+DTSTAMP:20260425T120000Z
+DTSTART:20260425T120000Z
+DTEND:20260425T140000Z
+SUMMARY:Umeå – Häcken II 4:1
+DESCRIPTION:Elitettan · 3. Spieltag
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501375@anstoss
+DTSTAMP:20260502T120000Z
+DTSTART:20260502T120000Z
+DTEND:20260502T140000Z
+SUMMARY:Häcken II – Alingsås 0:1
+DESCRIPTION:Elitettan · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501375.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501384@anstoss
+DTSTAMP:20260509T120000Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Örebro SK – Häcken II 2:1
+DESCRIPTION:Elitettan · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501384.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501390@anstoss
+DTSTAMP:20260515T170000Z
+DTSTART:20260515T170000Z
+DTEND:20260515T190000Z
+SUMMARY:Häcken II – Husqvarna 1:2
+DESCRIPTION:Elitettan · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501395@anstoss
+DTSTAMP:20260523T140000Z
+DTSTART:20260523T140000Z
+DTEND:20260523T160000Z
+SUMMARY:Häcken II – Elfsborg 0:1
+DESCRIPTION:Elitettan · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501403@anstoss
+DTSTAMP:20260530T110000Z
+DTSTART:20260530T110000Z
+DTEND:20260530T130000Z
+SUMMARY:Göteborg – Häcken II 2:1
+DESCRIPTION:Elitettan · 8. Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501403.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501411@anstoss
+DTSTAMP:20260614T140000Z
+DTSTART:20260614T140000Z
+DTEND:20260614T160000Z
+SUMMARY:KIF Örebro – Häcken II 3:0
+DESCRIPTION:Elitettan · 9. Spieltag
+LOCATION:Behrn Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501416@anstoss
+DTSTAMP:20260617T160000Z
+DTSTART:20260617T160000Z
+DTEND:20260617T180000Z
+SUMMARY:Häcken II – Gamla Upsala 1:2
+DESCRIPTION:Elitettan · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501416.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503705@anstoss
+DTSTAMP:20260725T130000Z
+DTSTART:20260725T130000Z
+DTEND:20260725T150000Z
+SUMMARY:Enskede – Häcken II 1:1
+DESCRIPTION:Elitettan · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503705.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501432@anstoss
+DTSTAMP:20260802T140000Z
+DTSTART:20260802T140000Z
+DTEND:20260802T160000Z
+SUMMARY:Häcken II – Sandviken 3:4
+DESCRIPTION:Elitettan · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501438@anstoss
+DTSTAMP:20260807T170000Z
+DTSTART:20260807T170000Z
+DTEND:20260807T190000Z
+SUMMARY:Jitex – Häcken II 1:0
+DESCRIPTION:Elitettan · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501438.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501446@anstoss
+DTSTAMP:20260815T140000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T160000Z
+SUMMARY:Häcken II – Linköping 1:2
+DESCRIPTION:Elitettan · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501454@anstoss
+DTSTAMP:20260822T130000Z
+DTSTART:20260822T130000Z
+DTEND:20260822T150000Z
+SUMMARY:Sandviken – Häcken II 2:3
+DESCRIPTION:Elitettan · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501454.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501458@anstoss
+DTSTAMP:20260828T163000Z
+DTSTART:20260828T163000Z
+DTEND:20260828T183000Z
+SUMMARY:Elfsborg – Häcken II 2:1
+DESCRIPTION:Elitettan · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501458.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1503711@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Häcken II – Enskede 2:0
+DESCRIPTION:Elitettan · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1503711.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501472@anstoss
+DTSTAMP:20260912T110000Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Häcken II – Umeå 0:2
+DESCRIPTION:Elitettan · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501472.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501483@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Trelleborg – Häcken II
+DESCRIPTION:Elitettan · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501483.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501487@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Häcken II – Jitex
+DESCRIPTION:Elitettan · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501487.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501494@anstoss
+DTSTAMP:20261003T120000Z
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+SUMMARY:Häcken II – Örebro SK
+DESCRIPTION:Elitettan · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501494.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501499@anstoss
+DTSTAMP:20261017T130000Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Alingsås – Häcken II
+DESCRIPTION:Elitettan · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501499.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501507@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:Gamla Upsala – Häcken II
+DESCRIPTION:Elitettan · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501514@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Häcken II – Göteborg
+DESCRIPTION:Elitettan · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501514.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501521@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Husqvarna – Häcken II
+DESCRIPTION:Elitettan · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501521.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501530@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Häcken II – KIF Örebro
+DESCRIPTION:Elitettan · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501530.ht
+ ml
+END:VEVENT
+END:VCALENDAR

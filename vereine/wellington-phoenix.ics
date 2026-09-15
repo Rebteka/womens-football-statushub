@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wellington Phoenix
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1632106@anstoss
+DTSTAMP:20261017T231500Z
+DTSTART:20261017T231500Z
+DTEND:20261018T011500Z
+SUMMARY:Wellington Phoenix – Melbourne City
+DESCRIPTION:A-League Women · 1. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632106.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632111@anstoss
+DTSTAMP:20261024T231500Z
+DTSTART:20261024T231500Z
+DTEND:20261025T011500Z
+SUMMARY:Wellington Phoenix – Melbourne Victory
+DESCRIPTION:A-League Women · 2. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632111.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632117@anstoss
+DTSTAMP:20261101T104500Z
+DTSTART:20261101T104500Z
+DTEND:20261101T124500Z
+SUMMARY:Perth Glory FC – Wellington Phoenix
+DESCRIPTION:A-League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632117.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632118@anstoss
+DTSTAMP:20261106T080000Z
+DTSTART:20261106T080000Z
+DTEND:20261106T100000Z
+SUMMARY:Adelaide United – Wellington Phoenix
+DESCRIPTION:A-League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632118.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632125@anstoss
+DTSTAMP:20261115T020000Z
+DTSTART:20261115T020000Z
+DTEND:20261115T040000Z
+SUMMARY:Wellington Phoenix – Sydney FC
+DESCRIPTION:A-League Women · 5. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632127@anstoss
+DTSTAMP:20261120T055000Z
+DTSTART:20261120T055000Z
+DTEND:20261120T075000Z
+SUMMARY:Western Sydney Wanderers – Wellington Phoenix
+DESCRIPTION:A-League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632127.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632134@anstoss
+DTSTAMP:20261212T060000Z
+DTSTART:20261212T060000Z
+DTEND:20261212T080000Z
+SUMMARY:Canberra United – Wellington Phoenix
+DESCRIPTION:A-League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632134.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632140@anstoss
+DTSTAMP:20261220T020000Z
+DTSTART:20261220T020000Z
+DTEND:20261220T040000Z
+SUMMARY:Wellington Phoenix – Brisbane Roar FC
+DESCRIPTION:A-League Women · 8. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632140.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632145@anstoss
+DTSTAMP:20261229T055000Z
+DTSTART:20261229T055000Z
+DTEND:20261229T075000Z
+SUMMARY:Melbourne Victory – Wellington Phoenix
+DESCRIPTION:A-League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632148@anstoss
+DTSTAMP:20270101T060000Z
+DTSTART:20270101T060000Z
+DTEND:20270101T080000Z
+SUMMARY:Newcastle Jets FC – Wellington Phoenix
+DESCRIPTION:A-League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632148.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632153@anstoss
+DTSTAMP:20270109T040000Z
+DTSTART:20270109T040000Z
+DTEND:20270109T060000Z
+SUMMARY:Wellington Phoenix – Central Coast Mariners
+DESCRIPTION:A-League Women · 11. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632159@anstoss
+DTSTAMP:20270116T040000Z
+DTSTART:20270116T040000Z
+DTEND:20270116T060000Z
+SUMMARY:Wellington Phoenix – Perth Glory FC
+DESCRIPTION:A-League Women · 12. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632166@anstoss
+DTSTAMP:20270124T060000Z
+DTSTART:20270124T060000Z
+DTEND:20270124T080000Z
+SUMMARY:Melbourne City – Wellington Phoenix
+DESCRIPTION:A-League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632166.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632173@anstoss
+DTSTAMP:20270206T060000Z
+DTSTART:20270206T060000Z
+DTEND:20270206T080000Z
+SUMMARY:Wellington Phoenix – Western Sydney Wanderers
+DESCRIPTION:A-League Women · 15. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632173.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632181@anstoss
+DTSTAMP:20270214T020000Z
+DTSTART:20270214T020000Z
+DTEND:20270214T040000Z
+SUMMARY:Wellington Phoenix – Adelaide United
+DESCRIPTION:A-League Women · 16. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632181.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632184@anstoss
+DTSTAMP:20270220T060000Z
+DTSTART:20270220T060000Z
+DTEND:20270220T080000Z
+SUMMARY:Sydney FC – Wellington Phoenix
+DESCRIPTION:A-League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632184.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632191@anstoss
+DTSTAMP:20270314T020000Z
+DTSTART:20270314T020000Z
+DTEND:20270314T040000Z
+SUMMARY:Wellington Phoenix – Newcastle Jets FC
+DESCRIPTION:A-League Women · 18. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632191.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632193@anstoss
+DTSTAMP:20270319T080000Z
+DTSTART:20270319T080000Z
+DTEND:20270319T100000Z
+SUMMARY:Brisbane Roar FC – Wellington Phoenix
+DESCRIPTION:A-League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632193.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632201@anstoss
+DTSTAMP:20270328T020000Z
+DTSTART:20270328T020000Z
+DTEND:20270328T040000Z
+SUMMARY:Wellington Phoenix – Canberra United
+DESCRIPTION:A-League Women · 20. Spieltag
+LOCATION:Sky Stadium\, Wellington
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632201.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1632205@anstoss
+DTSTAMP:20270403T060000Z
+DTSTART:20270403T060000Z
+DTEND:20270403T080000Z
+SUMMARY:Central Coast Mariners – Wellington Phoenix
+DESCRIPTION:A-League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1632205.ht
+ ml
+END:VEVENT
+END:VCALENDAR

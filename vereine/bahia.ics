@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bahia
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522328@anstoss
+DTSTAMP:20260214T210000Z
+DTSTART:20260214T210000Z
+DTEND:20260214T230000Z
+SUMMARY:Bahia – Cruzeiro 0:2
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522340@anstoss
+DTSTAMP:20260224T000000Z
+DTSTART:20260224T000000Z
+DTEND:20260224T020000Z
+SUMMARY:São Paulo – Bahia 2:1
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Estadio do Caninde\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533885@anstoss
+DTSTAMP:20260317T000000Z
+DTSTART:20260317T000000Z
+DTEND:20260317T020000Z
+SUMMARY:Bahia – Vitória BA 3:2
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533885.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522351@anstoss
+DTSTAMP:20260321T190000Z
+DTSTART:20260321T190000Z
+DTEND:20260321T210000Z
+SUMMARY:Bahia – Santos 3:1
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522361@anstoss
+DTSTAMP:20260328T200000Z
+DTSTART:20260328T200000Z
+DTEND:20260328T220000Z
+SUMMARY:RB Bragantino – Bahia 1:2
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522367@anstoss
+DTSTAMP:20260401T190000Z
+DTSTART:20260401T190000Z
+DTEND:20260401T210000Z
+SUMMARY:Bahia – America Mineiro 3:1
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522367.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522371@anstoss
+DTSTAMP:20260421T003000Z
+DTSTART:20260421T003000Z
+DTEND:20260421T023000Z
+SUMMARY:Flamengo – Bahia 1:3
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522371.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522380@anstoss
+DTSTAMP:20260428T210000Z
+DTSTART:20260428T210000Z
+DTEND:20260428T230000Z
+SUMMARY:Bahia – Gremio 0:2
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522385@anstoss
+DTSTAMP:20260502T190000Z
+DTSTART:20260502T190000Z
+DTEND:20260502T210000Z
+SUMMARY:Bahia – Palmeiras 0:0
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522385.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522463@anstoss
+DTSTAMP:20260509T210000Z
+DTSTART:20260509T210000Z
+DTEND:20260509T230000Z
+SUMMARY:Mixto – Bahia 1:1
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522463.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522402@anstoss
+DTSTAMP:20260516T190000Z
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+SUMMARY:Bahia – Internacional RS 3:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522407@anstoss
+DTSTAMP:20260523T190000Z
+DTSTART:20260523T190000Z
+DTEND:20260523T210000Z
+SUMMARY:Fluminense – Bahia 3:3
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522407.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522413@anstoss
+DTSTAMP:20260727T220000Z
+DTSTART:20260727T220000Z
+DTEND:20260728T000000Z
+SUMMARY:Bahia – Botafogo 2:1
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522421@anstoss
+DTSTAMP:20260802T210000Z
+DTSTART:20260802T210000Z
+DTEND:20260802T230000Z
+SUMMARY:Ferroviaria – Bahia 1:0
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522421.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522430@anstoss
+DTSTAMP:20260808T180000Z
+DTSTART:20260808T180000Z
+DTEND:20260808T200000Z
+SUMMARY:Atlético Mineiro – Bahia 0:3
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522432@anstoss
+DTSTAMP:20260815T203000Z
+DTSTART:20260815T203000Z
+DTEND:20260815T223000Z
+SUMMARY:Bahia – Corinthians 1:1
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522432.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522444@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Juventude – Bahia 2:2
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Estadio Alfredo Jaconi\, Caxias do Sul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522444.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634044@anstoss
+DTSTAMP:20260901T003000Z
+DTSTART:20260901T003000Z
+DTEND:20260901T023000Z
+SUMMARY:Bahia – Palmeiras 1:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1634050@anstoss
+DTSTAMP:20260905T003000Z
+DTSTART:20260905T003000Z
+DTEND:20260905T023000Z
+SUMMARY:Palmeiras – Bahia 1:1
+DESCRIPTION:Brasileiro Women · Viertelfinale
+LOCATION:Nubank Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1634050.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638745@anstoss
+DTSTAMP:20260916T003000Z
+DTSTART:20260916T003000Z
+DTEND:20260916T023000Z
+SUMMARY:Bahia – Corinthians
+DESCRIPTION:Brasileiro Women · Halbfinale
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638745.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638747@anstoss
+DTSTAMP:20260922T003000Z
+DTSTART:20260922T003000Z
+DTEND:20260922T023000Z
+SUMMARY:Corinthians – Bahia
+DESCRIPTION:Brasileiro Women · Halbfinale
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638747.ht
+ ml
+END:VEVENT
+END:VCALENDAR

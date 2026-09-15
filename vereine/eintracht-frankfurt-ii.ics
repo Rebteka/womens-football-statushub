@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eintracht Frankfurt II
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1606985@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:SGS Essen – Eintracht Frankfurt II 3:1
+DESCRIPTION:2. Frauen-Bundesliga · 1. Spieltag
+LOCATION:Stadion Essen\, Essen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606985.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606989@anstoss
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T140000Z
+SUMMARY:Eintracht Frankfurt II – FC Ingolstadt 04 0:1
+DESCRIPTION:2. Frauen-Bundesliga · 2. Spieltag
+LOCATION:Stadion am Brentanobad\, Frankfurt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606989.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606994@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:VfL Bochum – Eintracht Frankfurt II 4:0
+DESCRIPTION:2. Frauen-Bundesliga · 3. Spieltag
+LOCATION:Nebenplatz Ruhrstadion\, Bochum
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606994.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607002@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:SV Meppen – Eintracht Frankfurt II 5:0
+DESCRIPTION:2. Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607002.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607007@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:Eintracht Frankfurt II – FC Carl Zeiss Jena 1:0
+DESCRIPTION:2. Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607011@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:SG 99 Andernach – Eintracht Frankfurt II 0:1
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607011.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607020@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:Eintracht Frankfurt II – Hertha BSC
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607020.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607027@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:1. FFC Turbine Potsdam – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607031@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Eintracht Frankfurt II – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607146@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Eintracht Frankfurt II – 1. FC Köln II
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607146.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607044@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:TSG Hoffenheim II – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607044.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607048@anstoss
+DTSTAMP:20261114T130000Z
+DTSTART:20261114T130000Z
+DTEND:20261114T150000Z
+SUMMARY:Eintracht Frankfurt II – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607057@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SC Sand – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607057.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607059@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Eintracht Frankfurt II – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607059.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607069@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:FC Ingolstadt 04 – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607069.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607072@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Eintracht Frankfurt II – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607072.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607079@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Eintracht Frankfurt II – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607079.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607085@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T150000Z
+SUMMARY:FC Carl Zeiss Jena – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607085.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607090@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Eintracht Frankfurt II – SG 99 Andernach
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607090.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607097@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART:20270314T130000Z
+DTEND:20270314T150000Z
+SUMMARY:Hertha BSC – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607097.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607102@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T150000Z
+SUMMARY:Eintracht Frankfurt II – 1. FFC Turbine Potsdam
+DESCRIPTION:2. Frauen-Bundesliga · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607102.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607108@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART:20270328T120000Z
+DTEND:20270328T140000Z
+SUMMARY:Borussia Mönchengladbach – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607159@anstoss
+DTSTAMP:20270404T120000Z
+DTSTART:20270404T120000Z
+DTEND:20270404T140000Z
+SUMMARY:1. FC Köln II – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607159.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607120@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:Eintracht Frankfurt II – TSG Hoffenheim II
+DESCRIPTION:2. Frauen-Bundesliga · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607120.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607130@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:FC Viktoria Berlin – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607133@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Eintracht Frankfurt II – SC Sand
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607133.ht
+ ml
+END:VEVENT
+END:VCALENDAR

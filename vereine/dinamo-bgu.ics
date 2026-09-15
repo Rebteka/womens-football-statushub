@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dinamo-BGU
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558459@anstoss
+DTSTAMP:20260804T070000Z
+DTSTART:20260804T070000Z
+DTEND:20260804T090000Z
+SUMMARY:Dinamo-BGU – Servette Chênois 0:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1611281@anstoss
+DTSTAMP:20260807T070000Z
+DTSTART:20260807T070000Z
+DTEND:20260807T090000Z
+SUMMARY:Breidablik – Dinamo-BGU 3:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Sp
+ iel um Platz 3
+LOCATION:Koblandy Batyr Stadium\, Aktobe
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1611281.ht
+ ml
+END:VEVENT
+END:VCALENDAR

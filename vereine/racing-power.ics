@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Racing Power
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1610738@anstoss
+DTSTAMP:20260912T193000Z
+DTSTART:20260912T193000Z
+DTEND:20260912T213000Z
+SUMMARY:SL Benfica – Racing Power 3:0
+DESCRIPTION:1a Divisão - Women · 1. Spieltag
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610738.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610742@anstoss
+DTSTAMP:20260919T140000Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Racing Power – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610795@anstoss
+DTSTAMP:20260927T100000Z
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+SUMMARY:Porto – Racing Power
+DESCRIPTION:1a Divisão - Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610795.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610889@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Racing Power – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610751@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Racing Power – Rio Ave
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610756@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Vitoria Guimaraes – Racing Power
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610757@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Racing Power – Marítimo
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610762@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Sporting CP – Racing Power
+DESCRIPTION:1a Divisão - Women · 8. Spieltag · Anstosszeit noch offen
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610762.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610763@anstoss
+DTSTAMP:20270117T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Racing Power – Torreense
+DESCRIPTION:1a Divisão - Women · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610763.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610766@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Racing Power – SL Benfica
+DESCRIPTION:1a Divisão - Women · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610766.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610772@anstoss
+DTSTAMP:20270207T150000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Valadares Gaia – Racing Power
+DESCRIPTION:1a Divisão - Women · 11. Spieltag
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610772.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610803@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Racing Power – Porto
+DESCRIPTION:1a Divisão - Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610803.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610898@anstoss
+DTSTAMP:20270327T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Sporting Braga – Racing Power
+DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610780@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Rio Ave – Racing Power
+DESCRIPTION:1a Divisão - Women · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610780.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610782@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Racing Power – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610782.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610785@anstoss
+DTSTAMP:20270509T140000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Marítimo – Racing Power
+DESCRIPTION:1a Divisão - Women · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610785.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610788@anstoss
+DTSTAMP:20270516T140000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Racing Power – Sporting CP
+DESCRIPTION:1a Divisão - Women · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610793@anstoss
+DTSTAMP:20270523T140000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Torreense – Racing Power
+DESCRIPTION:1a Divisão - Women · 18. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610793.ht
+ ml
+END:VEVENT
+END:VCALENDAR

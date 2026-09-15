@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rumänien
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523833@anstoss
+DTSTAMP:20260303T160000Z
+DTSTART:20260303T160000Z
+DTEND:20260303T180000Z
+SUMMARY:Rumänien – Moldova 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadionul Arcul de Triumf\, Bucharest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523833.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523858@anstoss
+DTSTAMP:20260307T120000Z
+DTSTART:20260307T120000Z
+DTEND:20260307T140000Z
+SUMMARY:Cyprus – Rumänien 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Ethnikos Achnas\, Achna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523858.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523908@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Rumänien – Cyprus 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Stadionul Arcul de Triumf\, Bucharest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523933@anstoss
+DTSTAMP:20260605T150000Z
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+SUMMARY:Moldova – Rumänien 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Nisporeni stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523933.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557255@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Rumänien – Norwegen
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557255.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557264@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Norwegen – Rumänien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557264.ht
+ ml
+END:VEVENT
+END:VCALENDAR

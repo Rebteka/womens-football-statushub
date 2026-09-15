@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CSKA Moskva
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1529891@anstoss
+DTSTAMP:20260314T120000Z
+DTSTART:20260314T120000Z
+DTEND:20260314T140000Z
+SUMMARY:Rostov – CSKA Moskva 0:6
+DESCRIPTION:Supreme Division Women · 1. Spieltag
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529896@anstoss
+DTSTAMP:20260321T140000Z
+DTSTART:20260321T140000Z
+DTEND:20260321T160000Z
+SUMMARY:CSKA Moskva – Chertanovo 3:0
+DESCRIPTION:Supreme Division Women · 2. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529903@anstoss
+DTSTAMP:20260328T160000Z
+DTSTART:20260328T160000Z
+DTEND:20260328T180000Z
+SUMMARY:CSKA Moskva – Lokomotiv Moskva 2:1
+DESCRIPTION:Supreme Division Women · 3. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529903.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529910@anstoss
+DTSTAMP:20260404T100000Z
+DTSTART:20260404T100000Z
+DTEND:20260404T120000Z
+SUMMARY:CSKA Moskva – Dinamo Moskva 2:0
+DESCRIPTION:Supreme Division Women · 4. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529915@anstoss
+DTSTAMP:20260424T140000Z
+DTSTART:20260424T140000Z
+DTEND:20260424T160000Z
+SUMMARY:Krylya Sovetov – CSKA Moskva 2:0
+DESCRIPTION:Supreme Division Women · 5. Spieltag
+LOCATION:Metallurg Stadium\, Samara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529922@anstoss
+DTSTAMP:20260502T060000Z
+DTSTART:20260502T060000Z
+DTEND:20260502T080000Z
+SUMMARY:Yenisey – CSKA Moskva 0:3
+DESCRIPTION:Supreme Division Women · 6. Spieltag
+LOCATION:Football Arena Yenisei\, Krasnoyarsk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529922.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529926@anstoss
+DTSTAMP:20260510T100000Z
+DTSTART:20260510T100000Z
+DTEND:20260510T120000Z
+SUMMARY:CSKA Moskva – Zvezda Perm 4:0
+DESCRIPTION:Supreme Division Women · 7. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529926.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529941@anstoss
+DTSTAMP:20260523T150000Z
+DTSTART:20260523T150000Z
+DTEND:20260523T170000Z
+SUMMARY:Ryazan – CSKA Moskva 0:1
+DESCRIPTION:Supreme Division Women · 9. Spieltag
+LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529941.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529946@anstoss
+DTSTAMP:20260530T110000Z
+DTSTART:20260530T110000Z
+DTEND:20260530T130000Z
+SUMMARY:Krasnodar – CSKA Moskva 0:3
+DESCRIPTION:Supreme Division Women · 10. Spieltag
+LOCATION:Malaya Arena\, Krasnodar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529946.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529953@anstoss
+DTSTAMP:20260620T110000Z
+DTSTART:20260620T110000Z
+DTEND:20260620T130000Z
+SUMMARY:Rubin Kazan – CSKA Moskva 2:3
+DESCRIPTION:Supreme Division Women · 11. Spieltag
+LOCATION:Ak Bars Arena\, Kazan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529956@anstoss
+DTSTAMP:20260627T133000Z
+DTSTART:20260627T133000Z
+DTEND:20260627T153000Z
+SUMMARY:CSKA Moskva – Zenit 0:0
+DESCRIPTION:Supreme Division Women · 12. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529962@anstoss
+DTSTAMP:20260711T150000Z
+DTSTART:20260711T150000Z
+DTEND:20260711T170000Z
+SUMMARY:CSKA Moskva – Spartak Moskva 3:1
+DESCRIPTION:Supreme Division Women · 13. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529962.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529968@anstoss
+DTSTAMP:20260717T150000Z
+DTSTART:20260717T150000Z
+DTEND:20260717T170000Z
+SUMMARY:CSKA Moskva – Rostov 2:0
+DESCRIPTION:Supreme Division Women · 14. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529968.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529975@anstoss
+DTSTAMP:20260801T100000Z
+DTSTART:20260801T100000Z
+DTEND:20260801T120000Z
+SUMMARY:CSKA Moskva – Krylya Sovetov 4:1
+DESCRIPTION:Supreme Division Women · 15. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529975.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529983@anstoss
+DTSTAMP:20260809T113000Z
+DTSTART:20260809T113000Z
+DTEND:20260809T133000Z
+SUMMARY:Lokomotiv Moskva – CSKA Moskva 1:0
+DESCRIPTION:Supreme Division Women · 16. Spieltag
+LOCATION:Sapsan Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529983.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529986@anstoss
+DTSTAMP:20260829T093000Z
+DTSTART:20260829T093000Z
+DTEND:20260829T113000Z
+SUMMARY:CSKA Moskva – Rubin Kazan 4:1
+DESCRIPTION:Supreme Division Women · 17. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529986.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529997@anstoss
+DTSTAMP:20260905T083000Z
+DTSTART:20260905T083000Z
+DTEND:20260905T103000Z
+SUMMARY:Zvezda Perm – CSKA Moskva 0:6
+DESCRIPTION:Supreme Division Women · 18. Spieltag
+LOCATION:Zvezda Stadium\, Perm
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529997.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1529998@anstoss
+DTSTAMP:20260911T140000Z
+DTSTART:20260911T140000Z
+DTEND:20260911T160000Z
+SUMMARY:CSKA Moskva – Yenisey 1:0
+DESCRIPTION:Supreme Division Women · 19. Spieltag
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530004@anstoss
+DTSTAMP:20260919T100000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Chertanovo – CSKA Moskva
+DESCRIPTION:Supreme Division Women · 20. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Chertanovo Arena\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530004.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530016@anstoss
+DTSTAMP:20261018T100000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:CSKA Moskva – Ryazan
+DESCRIPTION:Supreme Division Women · 22. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530016.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530022@anstoss
+DTSTAMP:20261024T100000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Dinamo Moskva – CSKA Moskva
+DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:UTB Novogorsk-Dynamo\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530029@anstoss
+DTSTAMP:20261031T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:CSKA Moskva – Krasnodar
+DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Stadion Novye Chimki\, Khimki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530038@anstoss
+DTSTAMP:20261107T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Zenit – CSKA Moskva
+DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530045@anstoss
+DTSTAMP:20261114T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Spartak Moskva – CSKA Moskva
+DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
+ fen
+LOCATION:Cherenkov Academy Stadium\, Moscow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530045.ht
+ ml
+END:VEVENT
+END:VCALENDAR

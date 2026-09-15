@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RAAL La Louviere
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1557283@anstoss
+DTSTAMP:20260905T113000Z
+DTSTART:20260905T113000Z
+DTEND:20260905T133000Z
+SUMMARY:RAAL La Louviere – Zulte-Waregem 1:0
+DESCRIPTION:Super League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557283.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557289@anstoss
+DTSTAMP:20260912T173000Z
+DTSTART:20260912T173000Z
+DTEND:20260912T193000Z
+SUMMARY:Standard Liege – RAAL La Louviere 1:0
+DESCRIPTION:Super League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557293@anstoss
+DTSTAMP:20260919T160000Z
+DTSTART:20260919T160000Z
+DTEND:20260919T180000Z
+SUMMARY:RAAL La Louviere – Gent
+DESCRIPTION:Super League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557293.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557296@anstoss
+DTSTAMP:20260926T113000Z
+DTSTART:20260926T113000Z
+DTEND:20260926T133000Z
+SUMMARY:Anderlecht – RAAL La Louviere
+DESCRIPTION:Super League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557296.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557302@anstoss
+DTSTAMP:20261004T150000Z
+DTSTART:20261004T150000Z
+DTEND:20261004T170000Z
+SUMMARY:OH Leuven – RAAL La Louviere
+DESCRIPTION:Super League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557302.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557304@anstoss
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:RAAL La Louviere – Club Brugge
+DESCRIPTION:Super League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557308@anstoss
+DTSTAMP:20261024T113000Z
+DTSTART:20261024T113000Z
+DTEND:20261024T133000Z
+SUMMARY:Genk – RAAL La Louviere
+DESCRIPTION:Super League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557308.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557313@anstoss
+DTSTAMP:20261107T183000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T203000Z
+SUMMARY:Gent – RAAL La Louviere
+DESCRIPTION:Super League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557313.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557316@anstoss
+DTSTAMP:20261114T123000Z
+DTSTART:20261114T123000Z
+DTEND:20261114T143000Z
+SUMMARY:RAAL La Louviere – Standard Liege
+DESCRIPTION:Super League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557320@anstoss
+DTSTAMP:20261121T170000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+SUMMARY:RAAL La Louviere – OH Leuven
+DESCRIPTION:Super League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557320.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557323@anstoss
+DTSTAMP:20261212T150000Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Club Brugge – RAAL La Louviere
+DESCRIPTION:Super League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557329@anstoss
+DTSTAMP:20261219T170000Z
+DTSTART:20261219T170000Z
+DTEND:20261219T190000Z
+SUMMARY:RAAL La Louviere – Anderlecht
+DESCRIPTION:Super League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557329.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557331@anstoss
+DTSTAMP:20270109T170000Z
+DTSTART:20270109T170000Z
+DTEND:20270109T190000Z
+SUMMARY:RAAL La Louviere – Genk
+DESCRIPTION:Super League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557331.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557338@anstoss
+DTSTAMP:20270116T150000Z
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Zulte-Waregem – RAAL La Louviere
+DESCRIPTION:Super League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557338.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557341@anstoss
+DTSTAMP:20270123T160000Z
+DTSTART:20270123T160000Z
+DTEND:20270123T180000Z
+SUMMARY:RAAL La Louviere – Gent
+DESCRIPTION:Super League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557341.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557345@anstoss
+DTSTAMP:20270130T190000Z
+DTSTART:20270130T190000Z
+DTEND:20270130T210000Z
+SUMMARY:OH Leuven – RAAL La Louviere
+DESCRIPTION:Super League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557348@anstoss
+DTSTAMP:20270206T160000Z
+DTSTART:20270206T160000Z
+DTEND:20270206T180000Z
+SUMMARY:RAAL La Louviere – Genk
+DESCRIPTION:Super League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557348.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557354@anstoss
+DTSTAMP:20270213T150000Z
+DTSTART:20270213T150000Z
+DTEND:20270213T170000Z
+SUMMARY:Zulte-Waregem – RAAL La Louviere
+DESCRIPTION:Super League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557354.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557358@anstoss
+DTSTAMP:20270220T183000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T203000Z
+SUMMARY:Standard Liege – RAAL La Louviere
+DESCRIPTION:Super League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557361@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:RAAL La Louviere – Club Brugge
+DESCRIPTION:Super League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557365@anstoss
+DTSTAMP:20270320T180000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T200000Z
+SUMMARY:Anderlecht – RAAL La Louviere
+DESCRIPTION:Super League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557365.ht
+ ml
+END:VEVENT
+END:VCALENDAR

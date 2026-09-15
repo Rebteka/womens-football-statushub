@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Zealand
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526399@anstoss
+DTSTAMP:20260227T020000Z
+DTSTART:20260227T020000Z
+DTEND:20260227T040000Z
+SUMMARY:New Zealand – Samoa 8:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526395@anstoss
+DTSTAMP:20260302T060000Z
+DTSTART:20260302T060000Z
+DTEND:20260302T080000Z
+SUMMARY:New Zealand – Solomon Islands 8:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526397@anstoss
+DTSTAMP:20260305T020000Z
+DTSTART:20260305T020000Z
+DTEND:20260305T040000Z
+SUMMARY:American Samoa – New Zealand 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530894@anstoss
+DTSTAMP:20260411T041000Z
+DTSTART:20260411T041000Z
+DTEND:20260411T061000Z
+SUMMARY:New Zealand – Fiji 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+LOCATION:Waikato Stadium\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540446@anstoss
+DTSTAMP:20260415T071000Z
+DTSTART:20260415T071000Z
+DTEND:20260415T091000Z
+SUMMARY:New Zealand – Papua New Guinea 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Finale
+LOCATION:North Harbour Stadium\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540446.ht
+ ml
+END:VEVENT
+END:VCALENDAR

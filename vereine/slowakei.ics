@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Slowakei
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523824@anstoss
+DTSTAMP:20260303T150000Z
+DTSTART:20260303T150000Z
+DTEND:20260303T170000Z
+SUMMARY:Slowakei – Latvia 3:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:NTC Poprad\, Poprad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523824.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523848@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Portugal – Slowakei 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523848.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523874@anstoss
+DTSTAMP:20260414T153000Z
+DTSTART:20260414T153000Z
+DTEND:20260414T173000Z
+SUMMARY:Finnland – Slowakei 4:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523898@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Slowakei – Portugal 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523924@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Slowakei – Finnland 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523924.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523949@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Latvia – Slowakei 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557256@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Slowakei – Ukraine
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557272@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Ukraine – Slowakei
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557272.ht
+ ml
+END:VEVENT
+END:VCALENDAR

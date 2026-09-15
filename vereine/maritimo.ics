@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marítimo
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1610886@anstoss
+DTSTAMP:20260912T160000Z
+DTSTART:20260912T160000Z
+DTEND:20260912T180000Z
+SUMMARY:Sporting Braga – Marítimo 5:0
+DESCRIPTION:1a Divisão - Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610770@anstoss
+DTSTAMP:20260918T173000Z
+DTSTART:20260918T173000Z
+DTEND:20260918T193000Z
+SUMMARY:Sporting CP – Marítimo
+DESCRIPTION:1a Divisão - Women · 11. Spieltag
+LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610746@anstoss
+DTSTAMP:20260927T160000Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:Torreense – Marítimo
+DESCRIPTION:1a Divisão - Women · 3. Spieltag
+LOCATION:Estadio Manuel Marques\, Torres Vedras
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610746.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610748@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Marítimo – SL Benfica
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610748.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610753@anstoss
+DTSTAMP:20261025T150000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Valadares Gaia – Marítimo
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+LOCATION:Estadio Dr. Jorge Sampaio\, Porto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610798@anstoss
+DTSTAMP:20261101T150000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Marítimo – Porto
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610798.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610757@anstoss
+DTSTAMP:20261122T150000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Racing Power – Marítimo
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610757.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610760@anstoss
+DTSTAMP:20261220T150000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Marítimo – Rio Ave
+DESCRIPTION:1a Divisão - Women · 8. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610760.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610765@anstoss
+DTSTAMP:20270117T150000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Vitoria Guimaraes – Marítimo
+DESCRIPTION:1a Divisão - Women · 9. Spieltag · Anstosszeit noch offen
+LOCATION:Academia Vitoria SC
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610895@anstoss
+DTSTAMP:20270131T150000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Marítimo – Sporting Braga
+DESCRIPTION:1a Divisão - Women · 10. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610741@anstoss
+DTSTAMP:20270207T150000Z
+DTSTART:20270207T150000Z
+DTEND:20270207T170000Z
+SUMMARY:Marítimo – Sporting CP
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610741.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610773@anstoss
+DTSTAMP:20270314T150000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Marítimo – Torreense
+DESCRIPTION:1a Divisão - Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610773.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610776@anstoss
+DTSTAMP:20270327T150000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:SL Benfica – Marítimo
+DESCRIPTION:1a Divisão - Women · 13. Spieltag · Anstosszeit noch offen
+LOCATION:Caixa Futebol Campus\, Seixal
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610779@anstoss
+DTSTAMP:20270411T140000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Marítimo – Valadares Gaia
+DESCRIPTION:1a Divisão - Women · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610806@anstoss
+DTSTAMP:20270502T140000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Porto – Marítimo
+DESCRIPTION:1a Divisão - Women · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610806.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610785@anstoss
+DTSTAMP:20270509T140000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Marítimo – Racing Power
+DESCRIPTION:1a Divisão - Women · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610785.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610789@anstoss
+DTSTAMP:20270516T140000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Rio Ave – Marítimo
+DESCRIPTION:1a Divisão - Women · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1610791@anstoss
+DTSTAMP:20270523T140000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Marítimo – Vitoria Guimaraes
+DESCRIPTION:1a Divisão - Women · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1610791.ht
+ ml
+END:VEVENT
+END:VCALENDAR

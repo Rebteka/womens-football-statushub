@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Young Boys
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558466@anstoss
+DTSTAMP:20260805T160000Z
+DTSTART:20260805T160000Z
+DTEND:20260805T180000Z
+SUMMARY:St. Pölten – Young Boys 4:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:NV Arena\, Sankt Polten
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558466.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612435@anstoss
+DTSTAMP:20260808T123000Z
+DTSTART:20260808T123000Z
+DTEND:20260808T143000Z
+SUMMARY:Young Boys – SeaSters Odesa 1:3
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Sportklub Niederosterreich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612435.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581754@anstoss
+DTSTAMP:20260814T170000Z
+DTSTART:20260814T170000Z
+DTEND:20260814T190000Z
+SUMMARY:Basel – Young Boys 2:0
+DESCRIPTION:Women's Super League (Schweiz) · 2. Spieltag
+LOCATION:Leichtathletik Stadion St. jakob\, Basel
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581754.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581753@anstoss
+DTSTAMP:20260821T170000Z
+DTSTART:20260821T170000Z
+DTEND:20260821T190000Z
+SUMMARY:Young Boys – Servette Chênois 3:2
+DESCRIPTION:Women's Super League (Schweiz) · 1. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581753.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581761@anstoss
+DTSTAMP:20260829T160000Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:Rapperswil Jona – Young Boys 1:1
+DESCRIPTION:Women's Super League (Schweiz) · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581768@anstoss
+DTSTAMP:20260906T130000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Young Boys – Yverdon 1:1
+DESCRIPTION:Women's Super League (Schweiz) · 4. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581768.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581773@anstoss
+DTSTAMP:20260909T170000Z
+DTSTART:20260909T170000Z
+DTEND:20260909T190000Z
+SUMMARY:Zürich – Young Boys 1:1
+DESCRIPTION:Women's Super League (Schweiz) · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581773.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581776@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Young Boys – St. Gallen 4:1
+DESCRIPTION:Women's Super League (Schweiz) · 6. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581779@anstoss
+DTSTAMP:20260919T150000Z
+DTSTART:20260919T150000Z
+DTEND:20260919T170000Z
+SUMMARY:Aarau – Young Boys
+DESCRIPTION:Women's Super League (Schweiz) · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581787@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:Young Boys – Luzern
+DESCRIPTION:Women's Super League (Schweiz) · 8. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581787.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581791@anstoss
+DTSTAMP:20261017T150000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T170000Z
+SUMMARY:Young Boys – Grasshopper
+DESCRIPTION:Women's Super League (Schweiz) · 9. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581791.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581798@anstoss
+DTSTAMP:20261031T190000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T210000Z
+SUMMARY:St. Gallen – Young Boys
+DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag
+LOCATION:Espenmoos\, St. Gallen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581798.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581802@anstoss
+DTSTAMP:20261106T180000Z
+DTSTART:20261106T180000Z
+DTEND:20261106T200000Z
+SUMMARY:Young Boys – Basel
+DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag
+LOCATION:Stadion Wankdorf\, Bern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581802.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581808@anstoss
+DTSTAMP:20261114T170000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+SUMMARY:Yverdon – Young Boys
+DESCRIPTION:Women's Super League (Schweiz) · 12. Spieltag
+LOCATION:Stade Municipal\, Yverdon-les-Bains
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581808.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581811@anstoss
+DTSTAMP:20261121T180000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T200000Z
+SUMMARY:Luzern – Young Boys
+DESCRIPTION:Women's Super League (Schweiz) · 13. Spieltag
+LOCATION:Stadion Allmend\, Luzern
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581811.ht
+ ml
+END:VEVENT
+END:VCALENDAR

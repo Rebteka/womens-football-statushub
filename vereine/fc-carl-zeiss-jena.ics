@@ -1,0 +1,291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Carl Zeiss Jena
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1606982@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:Borussia Mönchengladbach – FC Carl Zeiss Jena 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 1. Spieltag
+LOCATION:Grenzlandstadion\, Monchengladbach
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606982.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606987@anstoss
+DTSTAMP:20260808T120000Z
+DTSTART:20260808T120000Z
+DTEND:20260808T140000Z
+SUMMARY:FC Carl Zeiss Jena – SGS Essen 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 2. Spieltag
+LOCATION:Ernst-Abbe-Sportfeld\, Jena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606987.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606996@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:FC Ingolstadt 04 – FC Carl Zeiss Jena 2:3
+DESCRIPTION:2. Frauen-Bundesliga · 3. Spieltag
+LOCATION:Audi Sportpark\, Ingolstadt
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606996.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607001@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:FC Carl Zeiss Jena – 1. FFC Turbine Potsdam 3:1
+DESCRIPTION:2. Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607001.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607007@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:Eintracht Frankfurt II – FC Carl Zeiss Jena 1:0
+DESCRIPTION:2. Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607007.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607014@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:FC Carl Zeiss Jena – TSG Hoffenheim II 4:1
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607019@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:SG 99 Andernach – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607019.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629372@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:Eutingen – FC Carl Zeiss Jena
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607026@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:FC Carl Zeiss Jena – SC Sand
+DESCRIPTION:2. Frauen-Bundesliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607026.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607032@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:SV Meppen – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607032.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607038@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:FC Carl Zeiss Jena – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607043@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:VfL Bochum – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607043.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607148@anstoss
+DTSTAMP:20261114T120000Z
+DTSTART:20261114T120000Z
+DTEND:20261114T140000Z
+SUMMARY:FC Carl Zeiss Jena – 1. FC Köln II
+DESCRIPTION:2. Frauen-Bundesliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607148.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607054@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Hertha BSC – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607054.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607061@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC Carl Zeiss Jena – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607061.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607070@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:SGS Essen – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607070.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607074@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:FC Carl Zeiss Jena – FC Ingolstadt 04
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607074.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607082@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. FFC Turbine Potsdam – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607082.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607085@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T150000Z
+SUMMARY:FC Carl Zeiss Jena – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607085.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607091@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:TSG Hoffenheim II – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607091.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607098@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART:20270314T130000Z
+DTEND:20270314T150000Z
+SUMMARY:FC Carl Zeiss Jena – SG 99 Andernach
+DESCRIPTION:2. Frauen-Bundesliga · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607098.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607105@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T150000Z
+SUMMARY:SC Sand – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607105.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607107@anstoss
+DTSTAMP:20270327T130000Z
+DTSTART:20270327T130000Z
+DTEND:20270327T150000Z
+SUMMARY:FC Carl Zeiss Jena – SV Meppen
+DESCRIPTION:2. Frauen-Bundesliga · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607107.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607113@anstoss
+DTSTAMP:20270403T120000Z
+DTSTART:20270403T120000Z
+DTEND:20270403T140000Z
+SUMMARY:FC Viktoria Berlin – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607113.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607122@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:FC Carl Zeiss Jena – VfL Bochum
+DESCRIPTION:2. Frauen-Bundesliga · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607161@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:1. FC Köln II – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607161.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607135@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:FC Carl Zeiss Jena – Hertha BSC
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607135.ht
+ ml
+END:VEVENT
+END:VCALENDAR

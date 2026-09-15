@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club Brugge
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1557284@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Club Brugge – Standard Liege 3:1
+DESCRIPTION:Super League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557284.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557288@anstoss
+DTSTAMP:20260912T140000Z
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Zulte-Waregem – Club Brugge 1:2
+DESCRIPTION:Super League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557288.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557292@anstoss
+DTSTAMP:20260919T140000Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Club Brugge – Genk
+DESCRIPTION:Super League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557292.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557298@anstoss
+DTSTAMP:20260926T180000Z
+DTSTART:20260926T180000Z
+DTEND:20260926T200000Z
+SUMMARY:OH Leuven – Club Brugge
+DESCRIPTION:Super League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557298.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557299@anstoss
+DTSTAMP:20261003T113000Z
+DTSTART:20261003T113000Z
+DTEND:20261003T133000Z
+SUMMARY:Club Brugge – Anderlecht
+DESCRIPTION:Super League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557304@anstoss
+DTSTAMP:20261017T160000Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:RAAL La Louviere – Club Brugge
+DESCRIPTION:Super League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557304.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557307@anstoss
+DTSTAMP:20261024T140000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Club Brugge – Gent
+DESCRIPTION:Super League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557311@anstoss
+DTSTAMP:20261107T123000Z
+DTSTART:20261107T123000Z
+DTEND:20261107T143000Z
+SUMMARY:Club Brugge – OH Leuven
+DESCRIPTION:Super League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557311.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557317@anstoss
+DTSTAMP:20261114T180000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:Anderlecht – Club Brugge
+DESCRIPTION:Super League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557317.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557321@anstoss
+DTSTAMP:20261121T183000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T203000Z
+SUMMARY:Standard Liege – Club Brugge
+DESCRIPTION:Super League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557323@anstoss
+DTSTAMP:20261212T150000Z
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Club Brugge – RAAL La Louviere
+DESCRIPTION:Super League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557323.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557328@anstoss
+DTSTAMP:20261219T123000Z
+DTSTART:20261219T123000Z
+DTEND:20261219T143000Z
+SUMMARY:Gent – Club Brugge
+DESCRIPTION:Super League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557328.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557332@anstoss
+DTSTAMP:20270109T150000Z
+DTSTART:20270109T150000Z
+DTEND:20270109T170000Z
+SUMMARY:Club Brugge – Zulte-Waregem
+DESCRIPTION:Super League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557335@anstoss
+DTSTAMP:20270116T123000Z
+DTSTART:20270116T123000Z
+DTEND:20270116T143000Z
+SUMMARY:Genk – Club Brugge
+DESCRIPTION:Super League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557339@anstoss
+DTSTAMP:20270123T150000Z
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Club Brugge – Anderlecht
+DESCRIPTION:Super League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557343@anstoss
+DTSTAMP:20270130T150000Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Club Brugge – Gent
+DESCRIPTION:Super League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557343.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557349@anstoss
+DTSTAMP:20270206T183000Z
+DTSTART:20270206T183000Z
+DTEND:20270206T203000Z
+SUMMARY:Standard Liege – Club Brugge
+DESCRIPTION:Super League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557351@anstoss
+DTSTAMP:20270212T190000Z
+DTSTART:20270212T190000Z
+DTEND:20270212T210000Z
+SUMMARY:Genk – Club Brugge
+DESCRIPTION:Super League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557351.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557355@anstoss
+DTSTAMP:20270220T150000Z
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Club Brugge – OH Leuven
+DESCRIPTION:Super League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557355.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557361@anstoss
+DTSTAMP:20270313T160000Z
+DTSTART:20270313T160000Z
+DTEND:20270313T180000Z
+SUMMARY:RAAL La Louviere – Club Brugge
+DESCRIPTION:Super League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557361.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557363@anstoss
+DTSTAMP:20270320T150000Z
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Club Brugge – Zulte-Waregem
+DESCRIPTION:Super League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557363.ht
+ ml
+END:VEVENT
+END:VCALENDAR

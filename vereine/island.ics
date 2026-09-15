@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Island
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1523815@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Spanien – Island 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Estadio Municipal de Castalia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523815.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523841@anstoss
+DTSTAMP:20260307T123000Z
+DTSTART:20260307T123000Z
+DTEND:20260307T143000Z
+SUMMARY:England – Island 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523841.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523866@anstoss
+DTSTAMP:20260414T183000Z
+DTSTART:20260414T183000Z
+DTEND:20260414T203000Z
+SUMMARY:Island – Ukraine 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523866.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523891@anstoss
+DTSTAMP:20260418T163000Z
+DTSTART:20260418T163000Z
+DTEND:20260418T183000Z
+SUMMARY:Island – England 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523916@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Ukraine – Island 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Stadion Miejski przy Solskiego 1 w Mielcu\, Mielec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523940@anstoss
+DTSTAMP:20260609T190000Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:Island – Spanien 1:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557245@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Croatia – Island
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557260@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Island – Croatia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557260.ht
+ ml
+END:VEVENT
+END:VCALENDAR

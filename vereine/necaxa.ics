@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Necaxa
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1603307@anstoss
+DTSTAMP:20260803T214500Z
+DTSTART:20260803T214500Z
+DTEND:20260803T234500Z
+SUMMARY:Atlante – Necaxa 1:0
+DESCRIPTION:Liga MX Femenil · 1. Spieltag
+LOCATION:Estadio Banorte\, Mexico City
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603307.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603312@anstoss
+DTSTAMP:20260809T010600Z
+DTSTART:20260809T010600Z
+DTEND:20260809T030600Z
+SUMMARY:Necaxa – Pumas UNAM 1:2
+DESCRIPTION:Liga MX Femenil · 2. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603312.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603322@anstoss
+DTSTAMP:20260816T031000Z
+DTSTART:20260816T031000Z
+DTEND:20260816T051000Z
+SUMMARY:Tijuana – Necaxa 5:1
+DESCRIPTION:Liga MX Femenil · 3. Spieltag
+LOCATION:Estadio Caliente\, Tijuana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603322.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603333@anstoss
+DTSTAMP:20260824T000600Z
+DTSTART:20260824T000600Z
+DTEND:20260824T020600Z
+SUMMARY:Necaxa – América 0:7
+DESCRIPTION:Liga MX Femenil · 4. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603340@anstoss
+DTSTAMP:20260830T180000Z
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+SUMMARY:Puebla – Necaxa 4:1
+DESCRIPTION:Liga MX Femenil · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603347@anstoss
+DTSTAMP:20260905T230000Z
+DTSTART:20260905T230000Z
+DTEND:20260906T010000Z
+SUMMARY:Necaxa – Atlético San Luis 0:2
+DESCRIPTION:Liga MX Femenil · 6. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603347.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603357@anstoss
+DTSTAMP:20260913T011000Z
+DTSTART:20260913T011000Z
+DTEND:20260913T031000Z
+SUMMARY:Juárez – Necaxa 1:0
+DESCRIPTION:Liga MX Femenil · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603357.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603363@anstoss
+DTSTAMP:20260919T030000Z
+DTSTART:20260919T030000Z
+DTEND:20260919T050000Z
+SUMMARY:Monterrey – Necaxa
+DESCRIPTION:Liga MX Femenil · 8. Spieltag
+LOCATION:Cancha El Barrial\, Santiago
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603363.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603380@anstoss
+DTSTAMP:20260929T010600Z
+DTSTART:20260929T010600Z
+DTEND:20260929T030600Z
+SUMMARY:Necaxa – Toluca
+DESCRIPTION:Liga MX Femenil · 9. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603387@anstoss
+DTSTAMP:20261004T031000Z
+DTSTART:20261004T031000Z
+DTEND:20261004T051000Z
+SUMMARY:Necaxa – Cruz Azul
+DESCRIPTION:Liga MX Femenil · 10. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603393@anstoss
+DTSTAMP:20261018T180600Z
+DTSTART:20261018T180600Z
+DTEND:20261018T200600Z
+SUMMARY:Guadalajara – Necaxa
+DESCRIPTION:Liga MX Femenil · 11. Spieltag
+LOCATION:Estadio Akron\, Zapopan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603401@anstoss
+DTSTAMP:20261024T230000Z
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Pachuca – Necaxa
+DESCRIPTION:Liga MX Femenil · 12. Spieltag
+LOCATION:Estadio Miguel Hidalgo\, Pachuca de Soto
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603413@anstoss
+DTSTAMP:20261101T031000Z
+DTSTART:20261101T031000Z
+DTEND:20261101T051000Z
+SUMMARY:Necaxa – Santos Laguna
+DESCRIPTION:Liga MX Femenil · 13. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603413.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603418@anstoss
+DTSTAMP:20261105T230000Z
+DTSTART:20261105T230000Z
+DTEND:20261106T010000Z
+SUMMARY:Necaxa – Atlas
+DESCRIPTION:Liga MX Femenil · 14. Spieltag
+LOCATION:Estadio Victoria\, Aguascalientes
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603418.ht
+ ml
+END:VEVENT
+END:VCALENDAR

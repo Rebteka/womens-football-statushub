@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rangers
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558465@anstoss
+DTSTAMP:20260805T183000Z
+DTSTART:20260805T183000Z
+DTEND:20260805T203000Z
+SUMMARY:Slavia Praha – Rangers 1:2
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Broadwood Stadium\, Cumbernauld
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612446@anstoss
+DTSTAMP:20260808T183000Z
+DTSTART:20260808T183000Z
+DTEND:20260808T203000Z
+SUMMARY:Ajax – Rangers 2:1
+DESCRIPTION:UEFA Women's Champions League · 2. Qualifikationsrunde · Fi
+ nale
+LOCATION:Petershill Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612446.ht
+ ml
+END:VEVENT
+END:VCALENDAR

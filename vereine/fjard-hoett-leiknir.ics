@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fjard / Hött / Leiknir
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1332843@anstoss
+DTSTAMP:20250416T180000Z
+DTSTART:20250416T180000Z
+DTEND:20250416T200000Z
+SUMMARY:Tindastóll – Fjard / Hött / Leiknir 1:0
+DESCRIPTION:Úrvalsdeild Women · 1. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332843.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332846@anstoss
+DTSTAMP:20250421T160000Z
+DTSTART:20250421T160000Z
+DTEND:20250421T180000Z
+SUMMARY:Fjard / Hött / Leiknir – Valur 0:2
+DESCRIPTION:Úrvalsdeild Women · 2. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332846.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332850@anstoss
+DTSTAMP:20250427T140000Z
+DTSTART:20250427T140000Z
+DTEND:20250427T160000Z
+SUMMARY:FH – Fjard / Hött / Leiknir 3:1
+DESCRIPTION:Úrvalsdeild Women · 3. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332850.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332917@anstoss
+DTSTAMP:20250503T140000Z
+DTSTART:20250503T140000Z
+DTEND:20250503T160000Z
+SUMMARY:Fram – Fjard / Hött / Leiknir 2:0
+DESCRIPTION:Úrvalsdeild Women · 4. Spieltag
+LOCATION:Lambhagavöllurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332860@anstoss
+DTSTAMP:20250508T180000Z
+DTSTART:20250508T180000Z
+DTEND:20250508T200000Z
+SUMMARY:Fjard / Hött / Leiknir – Thór / KA 2:5
+DESCRIPTION:Úrvalsdeild Women · 5. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332860.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332863@anstoss
+DTSTAMP:20250517T140000Z
+DTSTART:20250517T140000Z
+DTEND:20250517T160000Z
+SUMMARY:Stjarnan – Fjard / Hött / Leiknir 1:0
+DESCRIPTION:Úrvalsdeild Women · 6. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332868@anstoss
+DTSTAMP:20250525T140000Z
+DTSTART:20250525T140000Z
+DTEND:20250525T160000Z
+SUMMARY:Fjard / Hött / Leiknir – Thróttur Reykjavík 0:4
+DESCRIPTION:Úrvalsdeild Women · 7. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332868.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332871@anstoss
+DTSTAMP:20250607T140000Z
+DTSTART:20250607T140000Z
+DTEND:20250607T160000Z
+SUMMARY:Breidablik – Fjard / Hött / Leiknir 6:0
+DESCRIPTION:Úrvalsdeild Women · 8. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332874@anstoss
+DTSTAMP:20250615T140000Z
+DTSTART:20250615T140000Z
+DTEND:20250615T160000Z
+SUMMARY:Fjard / Hött / Leiknir – Víkingur Reykjavík 0:4
+DESCRIPTION:Úrvalsdeild Women · 9. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332880@anstoss
+DTSTAMP:20250621T170000Z
+DTSTART:20250621T170000Z
+DTEND:20250621T190000Z
+SUMMARY:Fjard / Hött / Leiknir – Tindastóll 1:4
+DESCRIPTION:Úrvalsdeild Women · 10. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332880.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332884@anstoss
+DTSTAMP:20250724T180000Z
+DTSTART:20250724T180000Z
+DTEND:20250724T200000Z
+SUMMARY:Valur – Fjard / Hött / Leiknir 2:1
+DESCRIPTION:Úrvalsdeild Women · 11. Spieltag
+LOCATION:N1-völlurinn Hlíðarenda\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332884.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332889@anstoss
+DTSTAMP:20250809T140000Z
+DTSTART:20250809T140000Z
+DTEND:20250809T160000Z
+SUMMARY:Fjard / Hött / Leiknir – FH 0:2
+DESCRIPTION:Úrvalsdeild Women · 12. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332926@anstoss
+DTSTAMP:20250812T180000Z
+DTSTART:20250812T180000Z
+DTEND:20250812T200000Z
+SUMMARY:Fjard / Hött / Leiknir – Fram 3:2
+DESCRIPTION:Úrvalsdeild Women · 13. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332926.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332897@anstoss
+DTSTAMP:20250821T180000Z
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+SUMMARY:Thór / KA – Fjard / Hött / Leiknir 4:0
+DESCRIPTION:Úrvalsdeild Women · 14. Spieltag
+LOCATION:VÍS völlurinn\, Akureyri
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332901@anstoss
+DTSTAMP:20250830T140000Z
+DTSTART:20250830T140000Z
+DTEND:20250830T160000Z
+SUMMARY:Fjard / Hött / Leiknir – Stjarnan 0:3
+DESCRIPTION:Úrvalsdeild Women · 15. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332905@anstoss
+DTSTAMP:20250907T140000Z
+DTSTART:20250907T140000Z
+DTEND:20250907T160000Z
+SUMMARY:Thróttur Reykjavík – Fjard / Hött / Leiknir 2:2
+DESCRIPTION:Úrvalsdeild Women · 16. Spieltag
+LOCATION:AVIS völlurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332908@anstoss
+DTSTAMP:20250914T140000Z
+DTSTART:20250914T140000Z
+DTEND:20250914T160000Z
+SUMMARY:Fjard / Hött / Leiknir – Breidablik 1:5
+DESCRIPTION:Úrvalsdeild Women · 17. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332911@anstoss
+DTSTAMP:20250920T140000Z
+DTSTART:20250920T140000Z
+DTEND:20250920T160000Z
+SUMMARY:Víkingur Reykjavík – Fjard / Hött / Leiknir 4:0
+DESCRIPTION:Úrvalsdeild Women · 18. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544339@anstoss
+DTSTAMP:20250927T191500Z
+DTSTART:20250927T191500Z
+DTEND:20250927T211500Z
+SUMMARY:Fram – Fjard / Hött / Leiknir 4:0
+DESCRIPTION:Úrvalsdeild Women · Relegation Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544345@anstoss
+DTSTAMP:20251004T163000Z
+DTSTART:20251004T163000Z
+DTEND:20251004T183000Z
+SUMMARY:Fjard / Hött / Leiknir – Thór / KA 2:3
+DESCRIPTION:Úrvalsdeild Women · Relegation Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544345.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544352@anstoss
+DTSTAMP:20251011T150000Z
+DTSTART:20251011T150000Z
+DTEND:20251011T170000Z
+SUMMARY:Tindastóll – Fjard / Hött / Leiknir 5:2
+DESCRIPTION:Úrvalsdeild Women · Relegation Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544352.ht
+ ml
+END:VEVENT
+END:VCALENDAR

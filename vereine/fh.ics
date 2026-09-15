@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FH
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1332845@anstoss
+DTSTAMP:20250416T180000Z
+DTSTART:20250416T180000Z
+DTEND:20250416T200000Z
+SUMMARY:Valur – FH 0:0
+DESCRIPTION:Úrvalsdeild Women · 1. Spieltag
+LOCATION:N1-völlurinn Hlíðarenda\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332845.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332915@anstoss
+DTSTAMP:20250422T180000Z
+DTSTART:20250422T180000Z
+DTEND:20250422T200000Z
+SUMMARY:Fram – FH 0:2
+DESCRIPTION:Úrvalsdeild Women · 2. Spieltag
+LOCATION:Lambhagavöllurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332850@anstoss
+DTSTAMP:20250427T140000Z
+DTSTART:20250427T140000Z
+DTEND:20250427T160000Z
+SUMMARY:FH – Fjard / Hött / Leiknir 3:1
+DESCRIPTION:Úrvalsdeild Women · 3. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332850.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332856@anstoss
+DTSTAMP:20250503T143000Z
+DTSTART:20250503T143000Z
+DTEND:20250503T163000Z
+SUMMARY:Thór / KA – FH 0:3
+DESCRIPTION:Úrvalsdeild Women · 4. Spieltag
+LOCATION:Boginn\, Akureyri
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332856.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332861@anstoss
+DTSTAMP:20250509T180000Z
+DTSTART:20250509T180000Z
+DTEND:20250509T200000Z
+SUMMARY:FH – Stjarnan 2:1
+DESCRIPTION:Úrvalsdeild Women · 5. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332864@anstoss
+DTSTAMP:20250517T140000Z
+DTSTART:20250517T140000Z
+DTEND:20250517T160000Z
+SUMMARY:Thróttur Reykjavík – FH 4:1
+DESCRIPTION:Úrvalsdeild Women · 6. Spieltag
+LOCATION:AVIS völlurinn\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332866@anstoss
+DTSTAMP:20250523T180000Z
+DTSTART:20250523T180000Z
+DTEND:20250523T200000Z
+SUMMARY:FH – Breidablik 2:1
+DESCRIPTION:Úrvalsdeild Women · 7. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332866.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332870@anstoss
+DTSTAMP:20250607T140000Z
+DTSTART:20250607T140000Z
+DTEND:20250607T160000Z
+SUMMARY:Víkingur Reykjavík – FH 1:4
+DESCRIPTION:Úrvalsdeild Women · 8. Spieltag
+LOCATION:Víkingsvöllur\, Reykjavík
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332876@anstoss
+DTSTAMP:20250616T180000Z
+DTSTART:20250616T180000Z
+DTEND:20250616T200000Z
+SUMMARY:FH – Tindastóll 5:1
+DESCRIPTION:Úrvalsdeild Women · 9. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332879@anstoss
+DTSTAMP:20250621T140000Z
+DTSTART:20250621T140000Z
+DTEND:20250621T160000Z
+SUMMARY:FH – Valur 1:2
+DESCRIPTION:Úrvalsdeild Women · 10. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332879.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332924@anstoss
+DTSTAMP:20250725T180000Z
+DTSTART:20250725T180000Z
+DTEND:20250725T200000Z
+SUMMARY:FH – Fram 3:1
+DESCRIPTION:Úrvalsdeild Women · 11. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332924.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332889@anstoss
+DTSTAMP:20250809T140000Z
+DTSTART:20250809T140000Z
+DTEND:20250809T160000Z
+SUMMARY:Fjard / Hött / Leiknir – FH 0:2
+DESCRIPTION:Úrvalsdeild Women · 12. Spieltag
+LOCATION:Fjarðabyggðarhöllin\, Reyðarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332890@anstoss
+DTSTAMP:20250812T180000Z
+DTSTART:20250812T180000Z
+DTEND:20250812T200000Z
+SUMMARY:FH – Thór / KA 5:3
+DESCRIPTION:Úrvalsdeild Women · 13. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332896@anstoss
+DTSTAMP:20250821T180000Z
+DTSTART:20250821T180000Z
+DTEND:20250821T200000Z
+SUMMARY:Stjarnan – FH 2:2
+DESCRIPTION:Úrvalsdeild Women · 14. Spieltag
+LOCATION:Samsung völlurinn\, Garðabær
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332900@anstoss
+DTSTAMP:20250828T180000Z
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+SUMMARY:FH – Thróttur Reykjavík 3:0
+DESCRIPTION:Úrvalsdeild Women · 15. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332904@anstoss
+DTSTAMP:20250904T191500Z
+DTSTART:20250904T191500Z
+DTEND:20250904T211500Z
+SUMMARY:Breidablik – FH 2:1
+DESCRIPTION:Úrvalsdeild Women · 16. Spieltag
+LOCATION:Kópavogsvöllur\, Kópavogur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332907@anstoss
+DTSTAMP:20250912T180000Z
+DTSTART:20250912T180000Z
+DTEND:20250912T200000Z
+SUMMARY:FH – Víkingur Reykjavík 1:2
+DESCRIPTION:Úrvalsdeild Women · 17. Spieltag
+LOCATION:Kaplakrikavöllur\, Hafnarfjörður
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1332912@anstoss
+DTSTAMP:20250920T140000Z
+DTSTART:20250920T140000Z
+DTEND:20250920T160000Z
+SUMMARY:Tindastóll – FH 0:4
+DESCRIPTION:Úrvalsdeild Women · 18. Spieltag
+LOCATION:Sauðárkróksvöllur\, Sauðárkrókur
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1332912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544335@anstoss
+DTSTAMP:20250925T161500Z
+DTSTART:20250925T161500Z
+DTEND:20250925T181500Z
+SUMMARY:FH – Valur 1:1
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544342@anstoss
+DTSTAMP:20251001T180000Z
+DTSTART:20251001T180000Z
+DTEND:20251001T200000Z
+SUMMARY:Stjarnan – FH 3:4
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544346@anstoss
+DTSTAMP:20251005T140000Z
+DTSTART:20251005T140000Z
+DTEND:20251005T160000Z
+SUMMARY:FH – Thróttur Reykjavík 4:0
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544350@anstoss
+DTSTAMP:20251011T140000Z
+DTSTART:20251011T140000Z
+DTEND:20251011T160000Z
+SUMMARY:FH – Víkingur Reykjavík 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1544355@anstoss
+DTSTAMP:20251018T140000Z
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+SUMMARY:Breidablik – FH 3:2
+DESCRIPTION:Úrvalsdeild Women · Championship Round · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544355.ht
+ ml
+END:VEVENT
+END:VCALENDAR

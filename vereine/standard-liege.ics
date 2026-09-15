@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Standard Liege
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1557284@anstoss
+DTSTAMP:20260905T140000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Club Brugge – Standard Liege 3:1
+DESCRIPTION:Super League Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557284.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557289@anstoss
+DTSTAMP:20260912T173000Z
+DTSTART:20260912T173000Z
+DTEND:20260912T193000Z
+SUMMARY:Standard Liege – RAAL La Louviere 1:0
+DESCRIPTION:Super League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557289.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557291@anstoss
+DTSTAMP:20260919T113000Z
+DTSTART:20260919T113000Z
+DTEND:20260919T133000Z
+SUMMARY:Standard Liege – OH Leuven
+DESCRIPTION:Super League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557291.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557297@anstoss
+DTSTAMP:20260926T140000Z
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:Zulte-Waregem – Standard Liege
+DESCRIPTION:Super League Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557297.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557300@anstoss
+DTSTAMP:20261003T173000Z
+DTSTART:20261003T173000Z
+DTEND:20261003T193000Z
+SUMMARY:Standard Liege – Genk
+DESCRIPTION:Super League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557300.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557303@anstoss
+DTSTAMP:20261017T173000Z
+DTSTART:20261017T173000Z
+DTEND:20261017T193000Z
+SUMMARY:Gent – Standard Liege
+DESCRIPTION:Super League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557303.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557310@anstoss
+DTSTAMP:20261024T173000Z
+DTSTART:20261024T173000Z
+DTEND:20261024T193000Z
+SUMMARY:Standard Liege – Anderlecht
+DESCRIPTION:Super League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557310.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557314@anstoss
+DTSTAMP:20261107T183000Z
+DTSTART:20261107T183000Z
+DTEND:20261107T203000Z
+SUMMARY:Standard Liege – Zulte-Waregem
+DESCRIPTION:Super League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557314.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557316@anstoss
+DTSTAMP:20261114T123000Z
+DTSTART:20261114T123000Z
+DTEND:20261114T143000Z
+SUMMARY:RAAL La Louviere – Standard Liege
+DESCRIPTION:Super League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557316.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557321@anstoss
+DTSTAMP:20261121T183000Z
+DTSTART:20261121T183000Z
+DTEND:20261121T203000Z
+SUMMARY:Standard Liege – Club Brugge
+DESCRIPTION:Super League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557321.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557325@anstoss
+DTSTAMP:20261212T123000Z
+DTSTART:20261212T123000Z
+DTEND:20261212T143000Z
+SUMMARY:OH Leuven – Standard Liege
+DESCRIPTION:Super League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557325.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557327@anstoss
+DTSTAMP:20261218T190000Z
+DTSTART:20261218T190000Z
+DTEND:20261218T210000Z
+SUMMARY:Genk – Standard Liege
+DESCRIPTION:Super League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557327.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557334@anstoss
+DTSTAMP:20270109T183000Z
+DTSTART:20270109T183000Z
+DTEND:20270109T203000Z
+SUMMARY:Standard Liege – Gent
+DESCRIPTION:Super League Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557337@anstoss
+DTSTAMP:20270116T180000Z
+DTSTART:20270116T180000Z
+DTEND:20270116T200000Z
+SUMMARY:Anderlecht – Standard Liege
+DESCRIPTION:Super League Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557342@anstoss
+DTSTAMP:20270123T183000Z
+DTSTART:20270123T183000Z
+DTEND:20270123T203000Z
+SUMMARY:Standard Liege – Zulte-Waregem
+DESCRIPTION:Super League Women · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557342.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557344@anstoss
+DTSTAMP:20270129T190000Z
+DTSTART:20270129T190000Z
+DTEND:20270129T210000Z
+SUMMARY:Genk – Standard Liege
+DESCRIPTION:Super League Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557349@anstoss
+DTSTAMP:20270206T183000Z
+DTSTART:20270206T183000Z
+DTEND:20270206T203000Z
+SUMMARY:Standard Liege – Club Brugge
+DESCRIPTION:Super League Women · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557353@anstoss
+DTSTAMP:20270213T180000Z
+DTSTART:20270213T180000Z
+DTEND:20270213T200000Z
+SUMMARY:Anderlecht – Standard Liege
+DESCRIPTION:Super League Women · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557358@anstoss
+DTSTAMP:20270220T183000Z
+DTSTART:20270220T183000Z
+DTEND:20270220T203000Z
+SUMMARY:Standard Liege – RAAL La Louviere
+DESCRIPTION:Super League Women · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557359@anstoss
+DTSTAMP:20270313T183000Z
+DTSTART:20270313T183000Z
+DTEND:20270313T203000Z
+SUMMARY:Gent – Standard Liege
+DESCRIPTION:Super League Women · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557366@anstoss
+DTSTAMP:20270320T183000Z
+DTSTART:20270320T183000Z
+DTEND:20270320T203000Z
+SUMMARY:Standard Liege – OH Leuven
+DESCRIPTION:Super League Women · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557366.ht
+ ml
+END:VEVENT
+END:VCALENDAR

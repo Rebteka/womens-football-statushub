@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Prague Raptors
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1627623@anstoss
+DTSTAMP:20260815T090000Z
+DTSTART:20260815T090000Z
+DTEND:20260815T110000Z
+SUMMARY:Sparta Praha – Prague Raptors 4:0
+DESCRIPTION:1. Liga Women · 1. Spieltag
+LOCATION:Stadium Prosek\, Prague
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627623.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627628@anstoss
+DTSTAMP:20260822T090000Z
+DTSTART:20260822T090000Z
+DTEND:20260822T110000Z
+SUMMARY:Prague Raptors – Viktoria Plzeň 1:0
+DESCRIPTION:1. Liga Women · 2. Spieltag
+LOCATION:Satalice Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627628.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627636@anstoss
+DTSTAMP:20260905T120000Z
+DTSTART:20260905T120000Z
+DTEND:20260905T140000Z
+SUMMARY:Prague Raptors – Baník Ostrava 3:0
+DESCRIPTION:1. Liga Women · 4. Spieltag
+LOCATION:Satalice Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627636.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627642@anstoss
+DTSTAMP:20260913T123000Z
+DTSTART:20260913T123000Z
+DTEND:20260913T143000Z
+SUMMARY:Slovácko – Prague Raptors 0:1
+DESCRIPTION:1. Liga Women · 5. Spieltag
+LOCATION:Stadion Na Belince\, Kunovice - UH
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627642.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627644@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Prague Raptors – Horní Heršpice
+DESCRIPTION:1. Liga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627644.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627649@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Slavia Praha – Prague Raptors
+DESCRIPTION:1. Liga Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627649.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627651@anstoss
+DTSTAMP:20261017T090000Z
+DTSTART:20261017T090000Z
+DTEND:20261017T110000Z
+SUMMARY:Prague Raptors – Sparta Praha
+DESCRIPTION:1. Liga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627651.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627657@anstoss
+DTSTAMP:20261025T093000Z
+DTSTART:20261025T093000Z
+DTEND:20261025T113000Z
+SUMMARY:Viktoria Plzeň – Prague Raptors
+DESCRIPTION:1. Liga Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627657.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627660@anstoss
+DTSTAMP:20261031T100000Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Prague Raptors – Slovan Liberec
+DESCRIPTION:1. Liga Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627660.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627664@anstoss
+DTSTAMP:20261107T120000Z
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
+SUMMARY:Baník Ostrava – Prague Raptors
+DESCRIPTION:1. Liga Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627664.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627634@anstoss
+DTSTAMP:20261114T143000Z
+DTSTART:20261114T143000Z
+DTEND:20261114T163000Z
+SUMMARY:Slovan Liberec – Prague Raptors
+DESCRIPTION:1. Liga Women · 3. Spieltag
+LOCATION:Stadium Hradek\, Hradek nad Nisou
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627634.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627669@anstoss
+DTSTAMP:20270220T130000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Prague Raptors – Slovácko
+DESCRIPTION:1. Liga Women · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627669.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627672@anstoss
+DTSTAMP:20270313T133000Z
+DTSTART:20270313T133000Z
+DTEND:20270313T153000Z
+SUMMARY:Horní Heršpice – Prague Raptors
+DESCRIPTION:1. Liga Women · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627672.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1627675@anstoss
+DTSTAMP:20270320T100000Z
+DTSTART:20270320T100000Z
+DTEND:20270320T120000Z
+SUMMARY:Prague Raptors – Slavia Praha
+DESCRIPTION:1. Liga Women · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1627675.ht
+ ml
+END:VEVENT
+END:VCALENDAR

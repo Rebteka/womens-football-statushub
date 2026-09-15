@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EBK
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1612493@anstoss
+DTSTAMP:20260809T130000Z
+DTSTART:20260809T130000Z
+DTEND:20260809T150000Z
+SUMMARY:EBK – Honka 0:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612495@anstoss
+DTSTAMP:20260816T130000Z
+DTSTART:20260816T130000Z
+DTEND:20260816T150000Z
+SUMMARY:JyPK – EBK 1:1
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 2. Spieltag
+LOCATION:Harjun Stadion\, Jyvaskyla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612495.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612498@anstoss
+DTSTAMP:20260823T130000Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:EBK – VIFK 3:2
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612500@anstoss
+DTSTAMP:20260829T130000Z
+DTSTART:20260829T130000Z
+DTEND:20260829T150000Z
+SUMMARY:EBK – PK-35 Vantaa 2:2
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612500.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612503@anstoss
+DTSTAMP:20260911T163000Z
+DTSTART:20260911T163000Z
+DTEND:20260911T183000Z
+SUMMARY:HJS Akatemia – EBK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612503.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612505@anstoss
+DTSTAMP:20260920T153000Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Honka – EBK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612505.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612507@anstoss
+DTSTAMP:20260926T130000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:EBK – JyPK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612507.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612510@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:VIFK – EBK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612510.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612513@anstoss
+DTSTAMP:20261018T140000Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:PK-35 Vantaa – EBK
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612513.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612514@anstoss
+DTSTAMP:20261024T120000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:EBK – HJS Akatemia
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 10. Spieltag · A
+ nstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612514.ht
+ ml
+END:VEVENT
+END:VCALENDAR

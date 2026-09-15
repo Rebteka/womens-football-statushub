@@ -1,0 +1,2405 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Cup - Women - Qualification Europe 2025/26
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1526387@anstoss
+DTSTAMP:20251128T210000Z
+DTSTART:20251128T210000Z
+DTEND:20251128T230000Z
+SUMMARY:Tonga – American Samoa 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526388@anstoss
+DTSTAMP:20251129T010000Z
+DTSTART:20251129T010000Z
+DTEND:20251129T030000Z
+SUMMARY:Tahiti – Cook Islands 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526388.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526389@anstoss
+DTSTAMP:20251201T220000Z
+DTSTART:20251201T220000Z
+DTEND:20251202T000000Z
+SUMMARY:American Samoa – Cook Islands 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526389.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526390@anstoss
+DTSTAMP:20260227T000000Z
+DTSTART:20260227T000000Z
+DTEND:20260227T020000Z
+SUMMARY:Papua New Guinea – Vanuatu 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526390.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526399@anstoss
+DTSTAMP:20260227T020000Z
+DTSTART:20260227T020000Z
+DTEND:20260227T040000Z
+SUMMARY:New Zealand – Samoa 8:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526399.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526391@anstoss
+DTSTAMP:20260227T040000Z
+DTSTART:20260227T040000Z
+DTEND:20260227T060000Z
+SUMMARY:Fiji – New Caledonia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526391.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526392@anstoss
+DTSTAMP:20260227T060000Z
+DTSTART:20260227T060000Z
+DTEND:20260227T080000Z
+SUMMARY:Solomon Islands – American Samoa 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526392.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526393@anstoss
+DTSTAMP:20260302T000000Z
+DTSTART:20260302T000000Z
+DTEND:20260302T020000Z
+SUMMARY:New Caledonia – Vanuatu 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526393.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526400@anstoss
+DTSTAMP:20260302T020000Z
+DTSTART:20260302T020000Z
+DTEND:20260302T040000Z
+SUMMARY:American Samoa – Samoa 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526400.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526395@anstoss
+DTSTAMP:20260302T060000Z
+DTSTART:20260302T060000Z
+DTEND:20260302T080000Z
+SUMMARY:New Zealand – Solomon Islands 8:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526395.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523829@anstoss
+DTSTAMP:20260303T100000Z
+DTSTART:20260303T100000Z
+DTEND:20260303T120000Z
+SUMMARY:Bulgaria – Croatia 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523829.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523832@anstoss
+DTSTAMP:20260303T110000Z
+DTSTART:20260303T110000Z
+DTEND:20260303T130000Z
+SUMMARY:Azerbaijan – North Macedonia 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Dalga Arena\, Baku
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523832.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523827@anstoss
+DTSTAMP:20260303T120000Z
+DTSTART:20260303T120000Z
+DTEND:20260303T140000Z
+SUMMARY:Bosnia-Herzegovina – Estonia 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523827.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523811@anstoss
+DTSTAMP:20260303T130000Z
+DTSTART:20260303T130000Z
+DTEND:20260303T150000Z
+SUMMARY:Montenegro – Albania 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadion Gradski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523811.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523822@anstoss
+DTSTAMP:20260303T140000Z
+DTSTART:20260303T140000Z
+DTEND:20260303T160000Z
+SUMMARY:Turkey – Malta 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Pendik Stadyumu\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523822.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523824@anstoss
+DTSTAMP:20260303T150000Z
+DTSTART:20260303T150000Z
+DTEND:20260303T170000Z
+SUMMARY:Slowakei – Latvia 3:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:NTC Poprad\, Poprad
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523824.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523834@anstoss
+DTSTAMP:20260303T150000Z
+DTSTART:20260303T150000Z
+DTEND:20260303T170000Z
+SUMMARY:Kazakhstan – Armenia 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Astana Arena\, Astana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523834.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523830@anstoss
+DTSTAMP:20260303T160000Z
+DTSTART:20260303T160000Z
+DTEND:20260303T180000Z
+SUMMARY:Kosovo – Gibraltar 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523830.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523833@anstoss
+DTSTAMP:20260303T160000Z
+DTSTART:20260303T160000Z
+DTEND:20260303T180000Z
+SUMMARY:Rumänien – Moldova 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadionul Arcul de Triumf\, Bucharest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523833.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523812@anstoss
+DTSTAMP:20260303T163000Z
+DTSTART:20260303T163000Z
+DTEND:20260303T183000Z
+SUMMARY:Greece – Georgia 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523812.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523813@anstoss
+DTSTAMP:20260303T164500Z
+DTSTART:20260303T164500Z
+DTEND:20260303T184500Z
+SUMMARY:Deutschland – Slovenia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Rudolf-Harbig-Stadion\, Dresden
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523813.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523814@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Österreich – Norwegen 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523814.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523816@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Ukraine – England 1:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Mardan Antalyaspor\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523816.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523818@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Dänemark – Serbia 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Nordstern Arena Horsens\, Horsens
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523818.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523820@anstoss
+DTSTAMP:20260303T170000Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Polen – Niederlande 2:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Polsat Plus Arena\, Gdansk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523820.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523817@anstoss
+DTSTAMP:20260303T171500Z
+DTSTART:20260303T171500Z
+DTEND:20260303T191500Z
+SUMMARY:Italien – Schweden 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stadio Oreste Granillo\, Reggio Calabria
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523817.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523810@anstoss
+DTSTAMP:20260303T173000Z
+DTSTART:20260303T173000Z
+DTEND:20260303T193000Z
+SUMMARY:Tschechien – Wales 2:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Mestsky stadion Miroslava Valenty\, Uherske Hradiste
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523810.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523815@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Spanien – Island 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Estadio Municipal de Castalia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523815.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523821@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Schweiz – Nordirland 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stade de la Tuiliere\, Lausanne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523821.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523828@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Liechtenstein – Lithuania 1:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Rheinpark Stadion\, Vaduz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523828.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523831@anstoss
+DTSTAMP:20260303T180000Z
+DTSTART:20260303T180000Z
+DTEND:20260303T200000Z
+SUMMARY:Andorra – Hungary 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523831.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523825@anstoss
+DTSTAMP:20260303T183000Z
+DTSTART:20260303T183000Z
+DTEND:20260303T203000Z
+SUMMARY:Israel – Belgien 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523825.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523826@anstoss
+DTSTAMP:20260303T183000Z
+DTSTART:20260303T183000Z
+DTEND:20260303T203000Z
+SUMMARY:Luxembourg – Scotland 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Stade Emile Mayrisch\, Esch-sur-Alzette
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523826.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523823@anstoss
+DTSTAMP:20260303T184500Z
+DTSTART:20260303T184500Z
+DTEND:20260303T204500Z
+SUMMARY:Portugal – Finnland 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523823.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523819@anstoss
+DTSTAMP:20260303T193000Z
+DTSTART:20260303T193000Z
+DTEND:20260303T213000Z
+SUMMARY:Republic of Ireland – Frankreich 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 1
+ . Spieltag
+LOCATION:Tallaght Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523819.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526396@anstoss
+DTSTAMP:20260305T000000Z
+DTSTART:20260305T000000Z
+DTEND:20260305T020000Z
+SUMMARY:New Caledonia – Papua New Guinea 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526397@anstoss
+DTSTAMP:20260305T020000Z
+DTSTART:20260305T020000Z
+DTEND:20260305T040000Z
+SUMMARY:American Samoa – New Zealand 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526397.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526398@anstoss
+DTSTAMP:20260305T033000Z
+DTSTART:20260305T033000Z
+DTEND:20260305T053000Z
+SUMMARY:Vanuatu – Fiji 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526401@anstoss
+DTSTAMP:20260305T060000Z
+DTSTART:20260305T060000Z
+DTEND:20260305T080000Z
+SUMMARY:Samoa – Solomon Islands 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523859@anstoss
+DTSTAMP:20260307T090000Z
+DTSTART:20260307T090000Z
+DTEND:20260307T110000Z
+SUMMARY:Kazakhstan – Belarus 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Astana Arena\, Astana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523859.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523852@anstoss
+DTSTAMP:20260307T120000Z
+DTSTART:20260307T120000Z
+DTEND:20260307T140000Z
+SUMMARY:Bosnia-Herzegovina – Liechtenstein 13:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523852.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523858@anstoss
+DTSTAMP:20260307T120000Z
+DTSTART:20260307T120000Z
+DTEND:20260307T140000Z
+SUMMARY:Cyprus – Rumänien 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Ethnikos Achnas\, Achna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523858.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523841@anstoss
+DTSTAMP:20260307T123000Z
+DTSTART:20260307T123000Z
+DTEND:20260307T143000Z
+SUMMARY:England – Island 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:City Ground\, Nottingham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523841.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523849@anstoss
+DTSTAMP:20260307T123000Z
+DTSTART:20260307T123000Z
+DTEND:20260307T143000Z
+SUMMARY:Finnland – Latvia 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523849.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523856@anstoss
+DTSTAMP:20260307T133000Z
+DTSTART:20260307T133000Z
+DTEND:20260307T153000Z
+SUMMARY:Hungary – Azerbaijan 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Pancho Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523856.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523857@anstoss
+DTSTAMP:20260307T140000Z
+DTSTART:20260307T140000Z
+DTEND:20260307T160000Z
+SUMMARY:North Macedonia – Andorra 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Stadion Petar Milosevski\, Bitola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523857.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523843@anstoss
+DTSTAMP:20260307T150000Z
+DTSTART:20260307T150000Z
+DTEND:20260307T170000Z
+SUMMARY:Serbia – Schweden 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Sports Center of FA of Serbia\, Stara Pazova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523843.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523853@anstoss
+DTSTAMP:20260307T150000Z
+DTSTART:20260307T150000Z
+DTEND:20260307T170000Z
+SUMMARY:Lithuania – Estonia 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Raudondvario stadionas\, Raudondvario
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523853.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523839@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Slovenia – Österreich 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Bonifika\, Koper
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523839.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523848@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Portugal – Slowakei 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523848.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523850@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Belgien – Israel 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523850.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523854@anstoss
+DTSTAMP:20260307T160000Z
+DTSTART:20260307T160000Z
+DTEND:20260307T180000Z
+SUMMARY:Croatia – Kosovo 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Stadion Branko Cavlovic-Cavlek\, Karlovac
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523854.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523835@anstoss
+DTSTAMP:20260307T163000Z
+DTSTART:20260307T163000Z
+DTEND:20260307T183000Z
+SUMMARY:Wales – Montenegro 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Parc y Scarlets\, Llanelli
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523835.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523836@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:Albania – Tschechien 1:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Loro Borici Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523836.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523838@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:Norwegen – Deutschland 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Lyse Arena\, Stavanger
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523838.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523840@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:Ukraine – Spanien 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Mardan Antalyaspor\, Antalya
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523840.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523851@anstoss
+DTSTAMP:20260307T170000Z
+DTSTART:20260307T170000Z
+DTEND:20260307T190000Z
+SUMMARY:Scotland – Luxembourg 7:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Hampden Park\, Glasgow
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523851.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523842@anstoss
+DTSTAMP:20260307T171500Z
+DTSTART:20260307T171500Z
+DTEND:20260307T191500Z
+SUMMARY:Italien – Dänemark 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Stadio Romeo Menti\, Vicenza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523842.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523846@anstoss
+DTSTAMP:20260307T180000Z
+DTSTART:20260307T180000Z
+DTEND:20260307T200000Z
+SUMMARY:Malta – Schweiz 1:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523846.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523855@anstoss
+DTSTAMP:20260307T180000Z
+DTSTART:20260307T180000Z
+DTEND:20260307T200000Z
+SUMMARY:Gibraltar – Bulgaria 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Europa point stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523855.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523837@anstoss
+DTSTAMP:20260307T183000Z
+DTSTART:20260307T183000Z
+DTEND:20260307T203000Z
+SUMMARY:Greece – Faroe Islands 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Theodoros Vardinogiannis Stadium\, Heraklion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523837.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523847@anstoss
+DTSTAMP:20260307T190000Z
+DTSTART:20260307T190000Z
+DTEND:20260307T210000Z
+SUMMARY:Nordirland – Turkey 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Mourneview Park\, Lurgan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523847.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523845@anstoss
+DTSTAMP:20260307T194500Z
+DTSTART:20260307T194500Z
+DTEND:20260307T214500Z
+SUMMARY:Niederlande – Republic of Ireland 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+LOCATION:Stadion Galgenwaard\, Utrecht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523845.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523844@anstoss
+DTSTAMP:20260307T201000Z
+DTSTART:20260307T201000Z
+DTEND:20260307T221000Z
+SUMMARY:Frankreich – Polen 4:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 2
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523844.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1526394@anstoss
+DTSTAMP:20260308T000000Z
+DTSTART:20260308T000000Z
+DTEND:20260308T020000Z
+SUMMARY:Papua New Guinea – Fiji 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Zweite Phase · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526394.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530895@anstoss
+DTSTAMP:20260411T001000Z
+DTSTART:20260411T001000Z
+DTEND:20260411T021000Z
+SUMMARY:Papua New Guinea – American Samoa 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+LOCATION:Waikato Stadium\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530894@anstoss
+DTSTAMP:20260411T041000Z
+DTSTART:20260411T041000Z
+DTEND:20260411T061000Z
+SUMMARY:New Zealand – Fiji 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+LOCATION:Waikato Stadium\, Hamilton
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523884@anstoss
+DTSTAMP:20260414T120000Z
+DTSTART:20260414T120000Z
+DTEND:20260414T140000Z
+SUMMARY:Armenia – Belarus 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Vazgen Sargsyan Republican Stadium\, Yerevan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523884.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523880@anstoss
+DTSTAMP:20260414T140000Z
+DTSTART:20260414T140000Z
+DTEND:20260414T160000Z
+SUMMARY:Bulgaria – Kosovo 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523880.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523881@anstoss
+DTSTAMP:20260414T140000Z
+DTSTART:20260414T140000Z
+DTEND:20260414T160000Z
+SUMMARY:North Macedonia – Hungary 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Stadion Petar Milosevski\, Bitola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523883@anstoss
+DTSTAMP:20260414T140000Z
+DTSTART:20260414T140000Z
+DTEND:20260414T160000Z
+SUMMARY:Moldova – Cyprus 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Nisporeni stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523883.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523877@anstoss
+DTSTAMP:20260414T150000Z
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+SUMMARY:Lithuania – Bosnia-Herzegovina 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:LSC sporto kompleksas Druskininkai\, Druskininkai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523877.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523878@anstoss
+DTSTAMP:20260414T150000Z
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+SUMMARY:Estonia – Liechtenstein 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:A. Le Coq Arena\, Tallinn
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523878.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523861@anstoss
+DTSTAMP:20260414T153000Z
+DTSTART:20260414T153000Z
+DTEND:20260414T173000Z
+SUMMARY:Tschechien – Montenegro 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Letni stadion na Zadnich Vinohradech\, Chomutov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523861.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523874@anstoss
+DTSTAMP:20260414T153000Z
+DTSTART:20260414T153000Z
+DTEND:20260414T173000Z
+SUMMARY:Finnland – Slowakei 4:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Bolt Arena\, Helsinki
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523862@anstoss
+DTSTAMP:20260414T160000Z
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+SUMMARY:Faroe Islands – Greece 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523862.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523864@anstoss
+DTSTAMP:20260414T160000Z
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+SUMMARY:Norwegen – Slovenia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523864.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523870@anstoss
+DTSTAMP:20260414T160000Z
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+SUMMARY:Polen – Republic of Ireland 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Polsat Plus Arena\, Gdansk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523863@anstoss
+DTSTAMP:20260414T161500Z
+DTSTART:20260414T161500Z
+DTEND:20260414T181500Z
+SUMMARY:Deutschland – Österreich 5:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523863.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523867@anstoss
+DTSTAMP:20260414T161500Z
+DTSTART:20260414T161500Z
+DTEND:20260414T181500Z
+SUMMARY:Serbia – Italien 0:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523867.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523868@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Schweden – Dänemark 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523868.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523871@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Schweiz – Turkey 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Letzigrund Stadion
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523873@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Latvia – Portugal 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523873.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523879@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Gibraltar – Croatia 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Europa point stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523879.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523882@anstoss
+DTSTAMP:20260414T170000Z
+DTSTART:20260414T170000Z
+DTEND:20260414T190000Z
+SUMMARY:Andorra – Azerbaijan 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523876@anstoss
+DTSTAMP:20260414T171500Z
+DTSTART:20260414T171500Z
+DTEND:20260414T191500Z
+SUMMARY:Israel – Luxembourg 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523865@anstoss
+DTSTAMP:20260414T180000Z
+DTSTART:20260414T180000Z
+DTEND:20260414T200000Z
+SUMMARY:England – Spanien 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Wembley Stadium\, London
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523872@anstoss
+DTSTAMP:20260414T180000Z
+DTSTART:20260414T180000Z
+DTEND:20260414T200000Z
+SUMMARY:Nordirland – Malta 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Mourneview Park\, Lurgan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523872.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523860@anstoss
+DTSTAMP:20260414T181500Z
+DTSTART:20260414T181500Z
+DTEND:20260414T201500Z
+SUMMARY:Wales – Albania 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523860.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523866@anstoss
+DTSTAMP:20260414T183000Z
+DTSTART:20260414T183000Z
+DTEND:20260414T203000Z
+SUMMARY:Island – Ukraine 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523866.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523875@anstoss
+DTSTAMP:20260414T183000Z
+DTSTART:20260414T183000Z
+DTEND:20260414T203000Z
+SUMMARY:Scotland – Belgien 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Easter Road\, Edinburgh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523875.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523869@anstoss
+DTSTAMP:20260414T184500Z
+DTSTART:20260414T184500Z
+DTEND:20260414T204500Z
+SUMMARY:Niederlande – Frankreich 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 3
+ . Spieltag
+LOCATION:Rat Verlegh Stadion\, Breda
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523869.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1540446@anstoss
+DTSTAMP:20260415T071000Z
+DTSTART:20260415T071000Z
+DTEND:20260415T091000Z
+SUMMARY:New Zealand – Papua New Guinea 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Finale
+LOCATION:North Harbour Stadium\, Auckland
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540446.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523909@anstoss
+DTSTAMP:20260418T120000Z
+DTSTART:20260418T120000Z
+DTEND:20260418T140000Z
+SUMMARY:Belarus – Kazakhstan 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Tengiz Burjanadze Stadium\, Gori
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523909.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523892@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Dänemark – Italien 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Parken Stadium\, Copenhagen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523892.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523906@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Hungary – North Macedonia 7:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Pancho Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523906.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523907@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Azerbaijan – Andorra 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Bank Respublika Arena
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523907.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523908@anstoss
+DTSTAMP:20260418T130000Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Rumänien – Cyprus 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Stadionul Arcul de Triumf\, Bucharest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523908.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523886@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Montenegro – Tschechien 1:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Stadion Gradski
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523886.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523890@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Spanien – Ukraine 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523890.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523893@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Schweden – Serbia 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Strawberry Arena\, Solna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523893.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523895@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Republic of Ireland – Polen 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Aviva Stadium\, Dublin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523895.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523898@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Slowakei – Portugal 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523898.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523902@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Estonia – Lithuania 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:A. Le Coq Arena\, Tallinn
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523902.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523903@anstoss
+DTSTAMP:20260418T140000Z
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+SUMMARY:Liechtenstein – Bosnia-Herzegovina 0:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Rheinpark Stadion\, Vaduz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523903.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523904@anstoss
+DTSTAMP:20260418T143000Z
+DTSTART:20260418T143000Z
+DTEND:20260418T163000Z
+SUMMARY:Croatia – Gibraltar 9:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Gradski Stadion\, Sinj
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523904.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523889@anstoss
+DTSTAMP:20260418T150000Z
+DTSTART:20260418T150000Z
+DTEND:20260418T170000Z
+SUMMARY:Slovenia – Norwegen 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Mestni stadion Ptuj\, Ptuj
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523889.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523885@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Albania – Wales 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Elbasan Arena\, Elbasani
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523885.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523887@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Faroe Islands – Georgia 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523887.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523888@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Österreich – Deutschland 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Josko Arena\, Ried
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523888.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523896@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Turkey – Schweiz 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Sinop Sehir Stadyumu\, Sinop
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523896.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523901@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Luxembourg – Israel 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523901.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523905@anstoss
+DTSTAMP:20260418T160000Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Kosovo – Bulgaria 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523905.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523891@anstoss
+DTSTAMP:20260418T163000Z
+DTSTART:20260418T163000Z
+DTEND:20260418T183000Z
+SUMMARY:Island – England 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523891.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523897@anstoss
+DTSTAMP:20260418T170000Z
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+SUMMARY:Malta – Nordirland 2:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523897.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523899@anstoss
+DTSTAMP:20260418T170000Z
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+SUMMARY:Latvia – Finnland 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523899.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523900@anstoss
+DTSTAMP:20260418T183000Z
+DTSTART:20260418T183000Z
+DTEND:20260418T203000Z
+SUMMARY:Belgien – Scotland 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523900.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523894@anstoss
+DTSTAMP:20260418T191000Z
+DTSTART:20260418T191000Z
+DTEND:20260418T211000Z
+SUMMARY:Frankreich – Niederlande 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 4
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523894.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523912@anstoss
+DTSTAMP:20260605T133000Z
+DTSTART:20260605T133000Z
+DTEND:20260605T153000Z
+SUMMARY:Georgia – Faroe Islands 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:David Petriashvili Stadium\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523912.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523924@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Slowakei – Finnland 0:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523924.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523931@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Azerbaijan – Hungary 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Mehdi Huseynzade Stadium\, Sumqayit
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523931.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523934@anstoss
+DTSTAMP:20260605T140000Z
+DTSTART:20260605T140000Z
+DTEND:20260605T160000Z
+SUMMARY:Armenia – Kazakhstan 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:FFA Academy Stadium\, Yerevan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523934.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523927@anstoss
+DTSTAMP:20260605T150000Z
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+SUMMARY:Bosnia-Herzegovina – Lithuania 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:FF BH Football Training Centre\, Zenica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523927.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523930@anstoss
+DTSTAMP:20260605T150000Z
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+SUMMARY:Bulgaria – Gibraltar 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Stadion Aleksandar Shalamanov\, Sofia
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523930.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523933@anstoss
+DTSTAMP:20260605T150000Z
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+SUMMARY:Moldova – Rumänien 0:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Nisporeni stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523933.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523911@anstoss
+DTSTAMP:20260605T153000Z
+DTSTART:20260605T153000Z
+DTEND:20260605T173000Z
+SUMMARY:Tschechien – Albania 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Stadium Viktoria Zizkov\, Prague
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523911.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523910@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Montenegro – Wales 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Podgorica City Stadium\, Podgorica
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523910.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523914@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Österreich – Slovenia 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Sportclub-Platz\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523914.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523916@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Ukraine – Island 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Stadion Miejski przy Solskiego 1 w Mielcu\, Mielec
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523916.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523919@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Polen – Frankreich 0:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Polsat Plus Arena\, Gdansk
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523919.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523926@anstoss
+DTSTAMP:20260605T160000Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Scotland – Israel 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Bozsik Arena\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523926.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523917@anstoss
+DTSTAMP:20260605T161500Z
+DTSTART:20260605T161500Z
+DTEND:20260605T181500Z
+SUMMARY:Italien – Serbia 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523917.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523922@anstoss
+DTSTAMP:20260605T170000Z
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+SUMMARY:Turkey – Nordirland 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Pendik Stadyumu\, Istanbul
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523922.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523928@anstoss
+DTSTAMP:20260605T170000Z
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+SUMMARY:Liechtenstein – Estonia 0:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Rheinpark Stadion\, Vaduz
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523928.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523929@anstoss
+DTSTAMP:20260605T170000Z
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+SUMMARY:Kosovo – Croatia 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Stadiumi Fadil Vokrri\, Pristina
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523929.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523918@anstoss
+DTSTAMP:20260605T171500Z
+DTSTART:20260605T171500Z
+DTEND:20260605T191500Z
+SUMMARY:Dänemark – Schweden 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Nature Energy Park\, Odense
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523918.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523921@anstoss
+DTSTAMP:20260605T173000Z
+DTSTART:20260605T173000Z
+DTEND:20260605T193000Z
+SUMMARY:Schweiz – Malta 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:AIL Arena\, Lugano
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523921.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523932@anstoss
+DTSTAMP:20260605T173000Z
+DTSTART:20260605T173000Z
+DTEND:20260605T193000Z
+SUMMARY:Andorra – North Macedonia 0:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Estadi Nacional\, Andorra la Vella
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523932.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523925@anstoss
+DTSTAMP:20260605T181500Z
+DTSTART:20260605T181500Z
+DTEND:20260605T201500Z
+SUMMARY:Belgien – Luxembourg 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Den Dreef\, Heverlee
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523925.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523920@anstoss
+DTSTAMP:20260605T183000Z
+DTSTART:20260605T183000Z
+DTEND:20260605T203000Z
+SUMMARY:Republic of Ireland – Niederlande 3:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Pairc Ui Chaoimh\, Cork
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523920.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523913@anstoss
+DTSTAMP:20260605T183500Z
+DTSTART:20260605T183500Z
+DTEND:20260605T203500Z
+SUMMARY:Deutschland – Norwegen 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:RheinEnergieStadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523913.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523915@anstoss
+DTSTAMP:20260605T190000Z
+DTSTART:20260605T190000Z
+DTEND:20260605T210000Z
+SUMMARY:Spanien – England 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Estadi Mallorca Son Moix\, Palma de Mallorca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523915.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523923@anstoss
+DTSTAMP:20260605T190000Z
+DTSTART:20260605T190000Z
+DTEND:20260605T210000Z
+SUMMARY:Portugal – Latvia 5:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 5
+ . Spieltag
+LOCATION:Estadio Antonio Coimbra da Mota\, Estoril
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523923.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523938@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Slovenia – Deutschland 0:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stadion Stozice\, Ljubljana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523938.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523939@anstoss
+DTSTAMP:20260609T160000Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Norwegen – Österreich 2:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523939.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523935@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Wales – Tschechien 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Cardiff City Stadium\, Cardiff
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523935.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523936@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Albania – Montenegro 5:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Loro Borici Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523936.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523937@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Georgia – Greece 2:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Mikheil Meskhi Stadium 2\, Tbilisi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523937.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523942@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Schweden – Italien 2:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Gamla Ullevi
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523942.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523943@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Serbia – Dänemark 1:4
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Sports Center of FA of Serbia\, Stara Pazova
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523943.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523946@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Nordirland – Schweiz 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Mourneview Park\, Lurgan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523946.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523947@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Malta – Turkey 0:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Centenary Stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523947.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523948@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Finnland – Portugal 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Tammelan Stadion\, Tampere
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523948.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523949@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Latvia – Slowakei 1:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Daugavas stadions\, Riga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523949.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523950@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Luxembourg – Belgien 0:7
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523950.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523951@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Israel – Scotland 1:5
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Bozsik Arena\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523951.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523952@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Estonia – Bosnia-Herzegovina 1:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Parnu Rannastaadion\, Parnu
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523952.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523953@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Lithuania – Liechtenstein 2:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:LSC sporto kompleksas Druskininkai\, Druskininkai
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523953.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523954@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Croatia – Bulgaria 4:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stadion Aldo Drosina\, Pula
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523954.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523955@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Gibraltar – Kosovo 0:8
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Europa point stadium
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523955.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523956@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Hungary – Andorra 6:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Illovszky Rudolf Stadion\, Budapest
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523956.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523957@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:North Macedonia – Azerbaijan 1:3
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stadion Petar Milosevski\, Bitola
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523957.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523958@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Cyprus – Moldova 0:2
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Antonis Papadopoulos Stadium\, Larnaca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523958.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523959@anstoss
+DTSTAMP:20260609T170000Z
+DTSTART:20260609T170000Z
+DTEND:20260609T190000Z
+SUMMARY:Belarus – Armenia 6:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Tengiz Burjanadze Stadium\, Gori
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523959.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523940@anstoss
+DTSTAMP:20260609T190000Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:Island – Spanien 1:6
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523940.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523941@anstoss
+DTSTAMP:20260609T190000Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:England – Ukraine 3:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523941.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523944@anstoss
+DTSTAMP:20260609T190000Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:Frankreich – Republic of Ireland 1:0
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Stade des Alpes\, Grenoble
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523944.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1523945@anstoss
+DTSTAMP:20260609T190000Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:Niederlande – Polen 3:1
+DESCRIPTION:World Cup - Women - Qualification Europe · Gruppenphase · 6
+ . Spieltag
+LOCATION:Asito Stadium\, Almelo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1523945.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557242@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Albania – Wales
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557242.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557243@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Belarus – Italien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557244@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Belgien – Polen
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557245@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Croatia – Island
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557246@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Tschechien – Scotland
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557246.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557247@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Finnland – Serbia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557248@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Greece – England
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557249@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Hungary – Niederlande
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557249.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557250@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Israel – Schweiz
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557250.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557251@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Kazakhstan – Republic of Ireland
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557251.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557252@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Kosovo – Österreich
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557252.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557253@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Lithuania – Schweden
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557253.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557254@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Nordirland – Portugal
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557254.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557255@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Rumänien – Norwegen
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557255.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557256@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Slowakei – Ukraine
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557256.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557257@anstoss
+DTSTAMP:20261009T130000Z
+DTSTART:20261009T130000Z
+DTEND:20261009T150000Z
+SUMMARY:Turkey – Slovenia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557257.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557258@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Österreich – Kosovo
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557258.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557259@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:England – Greece
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557259.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557260@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Island – Croatia
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557260.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557261@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Republic of Ireland – Kazakhstan
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557261.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557262@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Italien – Belarus
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557262.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557263@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Niederlande – Hungary
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557263.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557264@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Norwegen – Rumänien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557264.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557265@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Polen – Belgien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557265.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557266@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Portugal – Nordirland
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557266.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557267@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Scotland – Tschechien
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557267.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557268@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Serbia – Finnland
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557268.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557269@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Slovenia – Turkey
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557269.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557270@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Schweden – Lithuania
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557270.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557271@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Schweiz – Israel
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557271.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557272@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Ukraine – Slowakei
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557272.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1557273@anstoss
+DTSTAMP:20261013T130000Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Wales – Albania
+DESCRIPTION:World Cup - Women - Qualification Europe · Halbfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1557273.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638241@anstoss
+DTSTAMP:20261128T140000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Chinese Taipei – South Africa
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 1. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638241.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638242@anstoss
+DTSTAMP:20261128T140000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Ghana – Ecuador
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 1. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638242.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638243@anstoss
+DTSTAMP:20261128T140000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Uzbekistan – Papua New Guinea
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 1. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638243.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638244@anstoss
+DTSTAMP:20261201T140000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Papua New Guinea – Chinese Taipei
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 2. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638244.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638245@anstoss
+DTSTAMP:20261201T140000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:South Africa – Ecuador
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 2. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638245.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638246@anstoss
+DTSTAMP:20261201T140000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Uzbekistan – Ghana
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 2. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638246.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638247@anstoss
+DTSTAMP:20261205T140000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Chinese Taipei – Ecuador
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 3. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638247.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638248@anstoss
+DTSTAMP:20261205T140000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Papua New Guinea – Ghana
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 3. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638248.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638249@anstoss
+DTSTAMP:20261205T140000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:South Africa – Uzbekistan
+DESCRIPTION:World Cup - Women - Qualification Europe · Qualifikation · 
+ Aufstiegsrunde · 3. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638249.ht
+ ml
+END:VEVENT
+END:VCALENDAR

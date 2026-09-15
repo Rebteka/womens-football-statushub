@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nordsjælland
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1582093@anstoss
+DTSTAMP:20260726T093000Z
+DTSTART:20260726T093000Z
+DTEND:20260726T113000Z
+SUMMARY:Nordsjælland – Odense Q 0:1
+DESCRIPTION:Kvindeliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582093.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582095@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:Brøndby – Nordsjælland 1:1
+DESCRIPTION:Kvindeliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582095.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582100@anstoss
+DTSTAMP:20260815T110000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T130000Z
+SUMMARY:ASA Aarhus – Nordsjælland 1:3
+DESCRIPTION:Kvindeliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582100.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582108@anstoss
+DTSTAMP:20260823T093000Z
+DTSTART:20260823T093000Z
+DTEND:20260823T113000Z
+SUMMARY:Nordsjælland – FC Copenhagen 9:1
+DESCRIPTION:Kvindeliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582108.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582112@anstoss
+DTSTAMP:20260901T170000Z
+DTSTART:20260901T170000Z
+DTEND:20260901T190000Z
+SUMMARY:Nordsjælland – KoldingQ 4:0
+DESCRIPTION:Kvindeliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582112.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582116@anstoss
+DTSTAMP:20260905T110000Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:Køge – Nordsjælland 4:6
+DESCRIPTION:Kvindeliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582116.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582122@anstoss
+DTSTAMP:20260915T170000Z
+DTSTART:20260915T170000Z
+DTEND:20260915T190000Z
+SUMMARY:Nordsjælland – Midtjylland 2:1
+DESCRIPTION:Kvindeliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582122.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582124@anstoss
+DTSTAMP:20260922T170000Z
+DTSTART:20260922T170000Z
+DTEND:20260922T190000Z
+SUMMARY:AGF – Nordsjælland
+DESCRIPTION:Kvindeliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582124.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582130@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Fortuna Hjørring – Nordsjælland
+DESCRIPTION:Kvindeliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582137@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Nordsjælland – Køge
+DESCRIPTION:Kvindeliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582143@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Midtjylland – Nordsjælland
+DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582147@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Nordsjælland – AGF
+DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582152@anstoss
+DTSTAMP:20261101T130000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:FC Copenhagen – Nordsjælland
+DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582152.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582158@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Nordsjælland – ASA Aarhus
+DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582162@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:KoldingQ – Nordsjælland
+DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582162.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582167@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Nordsjælland – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582167.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582173@anstoss
+DTSTAMP:20261209T130000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Nordsjælland – Brøndby
+DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582173.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582178@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Odense Q – Nordsjælland
+DESCRIPTION:Kvindeliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582178.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Neom SC
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1619336@anstoss
+DTSTAMP:20260910T173000Z
+DTSTART:20260910T173000Z
+DTEND:20260910T193000Z
+SUMMARY:Al Nassr – Neom SC 3:0
+DESCRIPTION:Premier League Women · 1. Spieltag
+LOCATION:Al Nassr Stadium\, Riyadh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619340@anstoss
+DTSTAMP:20260917T160000Z
+DTSTART:20260917T160000Z
+DTEND:20260917T180000Z
+SUMMARY:Neom SC – Al-Ula
+DESCRIPTION:Premier League Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619340.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619344@anstoss
+DTSTAMP:20260924T171500Z
+DTSTART:20260924T171500Z
+DTEND:20260924T191500Z
+SUMMARY:Neom SC – Al Ahli SC
+DESCRIPTION:Premier League Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619344.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619349@anstoss
+DTSTAMP:20261002T150500Z
+DTSTART:20261002T150500Z
+DTEND:20261002T170500Z
+SUMMARY:Al Qadisiya – Neom SC
+DESCRIPTION:Premier League Women · 4. Spieltag
+LOCATION:Prince Saud bin Jalawi Stadium\, Dammam
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619349.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619353@anstoss
+DTSTAMP:20261023T153000Z
+DTSTART:20261023T153000Z
+DTEND:20261023T173000Z
+SUMMARY:Neom SC – Al Taraji
+DESCRIPTION:Premier League Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619358@anstoss
+DTSTAMP:20261030T164500Z
+DTSTART:20261030T164500Z
+DTEND:20261030T184500Z
+SUMMARY:Al Ittihad – Neom SC
+DESCRIPTION:Premier League Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619358.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619360@anstoss
+DTSTAMP:20261105T164500Z
+DTSTART:20261105T164500Z
+DTEND:20261105T184500Z
+SUMMARY:Neom SC – Al Hilal
+DESCRIPTION:Premier League Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619364@anstoss
+DTSTAMP:20261210T163500Z
+DTSTART:20261210T163500Z
+DTEND:20261210T183500Z
+SUMMARY:Neom SC – Al Nassr
+DESCRIPTION:Premier League Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619364.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619370@anstoss
+DTSTAMP:20270212T190000Z
+DTSTART:20270212T190000Z
+DTEND:20270212T210000Z
+SUMMARY:Al-Ula – Neom SC
+DESCRIPTION:Premier League Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619370.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619372@anstoss
+DTSTAMP:20270318T172500Z
+DTSTART:20270318T172500Z
+DTEND:20270318T192500Z
+SUMMARY:Al Ahli SC – Neom SC
+DESCRIPTION:Premier League Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619372.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619378@anstoss
+DTSTAMP:20270326T173000Z
+DTSTART:20270326T173000Z
+DTEND:20270326T193000Z
+SUMMARY:Neom SC – Al Qadisiya
+DESCRIPTION:Premier League Women · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619378.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619383@anstoss
+DTSTAMP:20270403T153500Z
+DTSTART:20270403T153500Z
+DTEND:20270403T173500Z
+SUMMARY:Al Taraji – Neom SC
+DESCRIPTION:Premier League Women · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619383.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619387@anstoss
+DTSTAMP:20270506T174500Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Neom SC – Al Ittihad
+DESCRIPTION:Premier League Women · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1619388@anstoss
+DTSTAMP:20270512T174500Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Al Hilal – Neom SC
+DESCRIPTION:Premier League Women · 14. Spieltag · Anstosszeit noch offe
+ n
+LOCATION:Kingdom Arena\, Riyadh
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1619388.ht
+ ml
+END:VEVENT
+END:VCALENDAR

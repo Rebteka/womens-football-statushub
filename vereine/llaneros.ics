@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Llaneros
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1518014@anstoss
+DTSTAMP:20260218T220000Z
+DTSTART:20260218T220000Z
+DTEND:20260219T000000Z
+SUMMARY:Llaneros – Deportivo Pasto 2:0
+DESCRIPTION:Liga Femenina · 1. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1518014.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524350@anstoss
+DTSTAMP:20260301T220000Z
+DTSTART:20260301T220000Z
+DTEND:20260302T000000Z
+SUMMARY:Junior – Llaneros 0:0
+DESCRIPTION:Liga Femenina · 2. Spieltag
+LOCATION:Estadio Romelio Martinez\, Barranquilla
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524350.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524356@anstoss
+DTSTAMP:20260310T203000Z
+DTSTART:20260310T203000Z
+DTEND:20260310T223000Z
+SUMMARY:Llaneros – Fortaleza 0:2
+DESCRIPTION:Liga Femenina · 3. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524356.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524359@anstoss
+DTSTAMP:20260315T200000Z
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+SUMMARY:Independiente Medellín – Llaneros 2:1
+DESCRIPTION:Liga Femenina · 4. Spieltag
+LOCATION:Estadio Polideportivo Sur\, Envigado
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524359.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524374@anstoss
+DTSTAMP:20260325T203000Z
+DTSTART:20260325T203000Z
+DTEND:20260325T223000Z
+SUMMARY:Llaneros – Orsomarso 1:1
+DESCRIPTION:Liga Femenina · 5. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524374.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524380@anstoss
+DTSTAMP:20260330T200000Z
+DTSTART:20260330T200000Z
+DTEND:20260330T220000Z
+SUMMARY:Real Santander – Llaneros 0:0
+DESCRIPTION:Liga Femenina · 6. Spieltag
+LOCATION:Estadio Alvaro Gomez Hurtado\, Floridablanca
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524380.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1524387@anstoss
+DTSTAMP:20260412T203000Z
+DTSTART:20260412T203000Z
+DTEND:20260412T223000Z
+SUMMARY:Llaneros – Internacional Palmira 2:0
+DESCRIPTION:Liga Femenina · 7. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1524387.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525697@anstoss
+DTSTAMP:20260423T220000Z
+DTSTART:20260423T220000Z
+DTEND:20260424T000000Z
+SUMMARY:Millonarios – Llaneros 4:0
+DESCRIPTION:Liga Femenina · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525697.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525704@anstoss
+DTSTAMP:20260501T203000Z
+DTSTART:20260501T203000Z
+DTEND:20260501T223000Z
+SUMMARY:Llaneros – Junior 2:1
+DESCRIPTION:Liga Femenina · 9. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525711@anstoss
+DTSTAMP:20260508T170000Z
+DTSTART:20260508T170000Z
+DTEND:20260508T190000Z
+SUMMARY:La Equidad – Llaneros 2:0
+DESCRIPTION:Liga Femenina · 10. Spieltag
+LOCATION:Estadio Metropolitano de Techo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525711.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525720@anstoss
+DTSTAMP:20260515T203000Z
+DTSTART:20260515T203000Z
+DTEND:20260515T223000Z
+SUMMARY:Llaneros – Deportivo Cali 0:5
+DESCRIPTION:Liga Femenina · 11. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525720.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525731@anstoss
+DTSTAMP:20260522T200000Z
+DTSTART:20260522T200000Z
+DTEND:20260522T220000Z
+SUMMARY:Once Caldas – Llaneros 0:0
+DESCRIPTION:Liga Femenina · 12. Spieltag
+LOCATION:Estadio Palogrande\, Manizales
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525731.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525736@anstoss
+DTSTAMP:20260528T203000Z
+DTSTART:20260528T203000Z
+DTEND:20260528T223000Z
+SUMMARY:Llaneros – Santa Fe 1:4
+DESCRIPTION:Liga Femenina · 13. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525736.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525740@anstoss
+DTSTAMP:20260725T200000Z
+DTSTART:20260725T200000Z
+DTEND:20260725T220000Z
+SUMMARY:Atlético Bucaramanga – Llaneros 3:0
+DESCRIPTION:Liga Femenina · 14. Spieltag
+LOCATION:Cancha Marte - UMT\, Bucaramanga
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525740.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525748@anstoss
+DTSTAMP:20260803T011500Z
+DTSTART:20260803T011500Z
+DTEND:20260803T031500Z
+SUMMARY:América de Cali – Llaneros 4:1
+DESCRIPTION:Liga Femenina · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525748.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1525761@anstoss
+DTSTAMP:20260808T203000Z
+DTSTART:20260808T203000Z
+DTEND:20260808T223000Z
+SUMMARY:Llaneros – Atlético Nacional 1:5
+DESCRIPTION:Liga Femenina · 16. Spieltag
+LOCATION:Estadio Bello Horizonte\, Villavicencio
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525761.ht
+ ml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Internacional RS
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522332@anstoss
+DTSTAMP:20260216T233000Z
+DTSTART:20260216T233000Z
+DTEND:20260217T013000Z
+SUMMARY:Internacional RS – São Paulo 1:2
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522336@anstoss
+DTSTAMP:20260221T180000Z
+DTSTART:20260221T180000Z
+DTEND:20260221T200000Z
+SUMMARY:America Mineiro – Internacional RS 0:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522346@anstoss
+DTSTAMP:20260314T180000Z
+DTSTART:20260314T180000Z
+DTEND:20260314T200000Z
+SUMMARY:Internacional RS – RB Bragantino 1:1
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522346.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522353@anstoss
+DTSTAMP:20260321T180000Z
+DTSTART:20260321T180000Z
+DTEND:20260321T200000Z
+SUMMARY:Atlético Mineiro – Internacional RS 0:1
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522353.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522360@anstoss
+DTSTAMP:20260328T190000Z
+DTSTART:20260328T190000Z
+DTEND:20260328T210000Z
+SUMMARY:Internacional RS – Gremio 1:2
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522360.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522456@anstoss
+DTSTAMP:20260403T190000Z
+DTSTART:20260403T190000Z
+DTEND:20260403T210000Z
+SUMMARY:Mixto – Internacional RS 0:0
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522456.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522373@anstoss
+DTSTAMP:20260421T220000Z
+DTSTART:20260421T220000Z
+DTEND:20260422T000000Z
+SUMMARY:Cruzeiro – Internacional RS 1:2
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522373.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522382@anstoss
+DTSTAMP:20260425T220000Z
+DTSTART:20260425T220000Z
+DTEND:20260426T000000Z
+SUMMARY:Internacional RS – Juventude 1:0
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522386@anstoss
+DTSTAMP:20260501T190000Z
+DTSTART:20260501T190000Z
+DTEND:20260501T210000Z
+SUMMARY:Santos – Internacional RS 0:3
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+LOCATION:Estadio Urbano Caldeira\, Santos
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522386.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522396@anstoss
+DTSTAMP:20260511T210000Z
+DTSTART:20260511T210000Z
+DTEND:20260511T230000Z
+SUMMARY:Internacional RS – Botafogo 1:0
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522402@anstoss
+DTSTAMP:20260516T190000Z
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+SUMMARY:Bahia – Internacional RS 3:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Estadio Alberto Oliveira\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522406@anstoss
+DTSTAMP:20260523T003000Z
+DTSTART:20260523T003000Z
+DTEND:20260523T023000Z
+SUMMARY:Internacional RS – Flamengo 0:1
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522414@anstoss
+DTSTAMP:20260724T230000Z
+DTSTART:20260724T230000Z
+DTEND:20260725T010000Z
+SUMMARY:Internacional RS – Fluminense 1:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522414.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522419@anstoss
+DTSTAMP:20260802T140000Z
+DTSTART:20260802T140000Z
+DTEND:20260802T160000Z
+SUMMARY:Palmeiras – Internacional RS 2:1
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Nubank Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522419.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522473@anstoss
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Vitória BA – Internacional RS 2:2
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522436@anstoss
+DTSTAMP:20260815T220000Z
+DTSTART:20260815T220000Z
+DTEND:20260816T000000Z
+SUMMARY:Internacional RS – Ferroviaria 1:2
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+LOCATION:SESC Protasio Alves\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522436.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522439@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Corinthians – Internacional RS 1:3
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522439.ht
+ ml
+END:VEVENT
+END:VCALENDAR

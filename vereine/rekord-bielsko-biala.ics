@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rekord Bielsko-Biala
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1581684@anstoss
+DTSTAMP:20260801T130000Z
+DTSTART:20260801T130000Z
+DTEND:20260801T150000Z
+SUMMARY:GKS Katowice – Rekord Bielsko-Biala 3:1
+DESCRIPTION:Ekstraliga Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581684.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581692@anstoss
+DTSTAMP:20260809T100000Z
+DTSTART:20260809T100000Z
+DTEND:20260809T120000Z
+SUMMARY:Rekord Bielsko-Biala – Legia 1:4
+DESCRIPTION:Ekstraliga Women · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581696@anstoss
+DTSTAMP:20260816T100000Z
+DTSTART:20260816T100000Z
+DTEND:20260816T120000Z
+SUMMARY:Górnik Łęczna – Rekord Bielsko-Biala 5:1
+DESCRIPTION:Ekstraliga Women · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581704@anstoss
+DTSTAMP:20260822T150000Z
+DTSTART:20260822T150000Z
+DTEND:20260822T170000Z
+SUMMARY:Rekord Bielsko-Biala – UJ Krakow 1:1
+DESCRIPTION:Ekstraliga Women · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581711@anstoss
+DTSTAMP:20260830T100000Z
+DTSTART:20260830T100000Z
+DTEND:20260830T120000Z
+SUMMARY:Slask Wroclaw – Rekord Bielsko-Biala 1:1
+DESCRIPTION:Ekstraliga Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581711.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581716@anstoss
+DTSTAMP:20260927T100000Z
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+SUMMARY:Rekord Bielsko-Biala – Akademia Piłkarska LG
+DESCRIPTION:Ekstraliga Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581722@anstoss
+DTSTAMP:20261003T150000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:Pogon Szczecin – Rekord Bielsko-Biala
+DESCRIPTION:Ekstraliga Women · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581722.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581730@anstoss
+DTSTAMP:20261017T100000Z
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+SUMMARY:UKS Łódź – Rekord Bielsko-Biala
+DESCRIPTION:Ekstraliga Women · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581730.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581734@anstoss
+DTSTAMP:20261031T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Rekord Bielsko-Biala – Lech Poznan
+DESCRIPTION:Ekstraliga Women · 9. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581734.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581737@anstoss
+DTSTAMP:20261107T160000Z
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
+SUMMARY:Czarni Sosnowiec – Rekord Bielsko-Biala
+DESCRIPTION:Ekstraliga Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581746@anstoss
+DTSTAMP:20261114T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Rekord Bielsko-Biala – Sleza Wroclaw
+DESCRIPTION:Ekstraliga Women · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581746.ht
+ ml
+END:VEVENT
+END:VCALENDAR

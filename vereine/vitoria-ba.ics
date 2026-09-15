@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vitória BA
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1522447@anstoss
+DTSTAMP:20260214T180000Z
+DTSTART:20260214T180000Z
+DTEND:20260214T200000Z
+SUMMARY:Fluminense – Vitória BA 1:0
+DESCRIPTION:Brasileiro Women · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522447.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522448@anstoss
+DTSTAMP:20260223T180000Z
+DTSTART:20260223T180000Z
+DTEND:20260223T200000Z
+SUMMARY:Vitória BA – Mixto 2:2
+DESCRIPTION:Brasileiro Women · 2. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522448.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533885@anstoss
+DTSTAMP:20260317T000000Z
+DTSTART:20260317T000000Z
+DTEND:20260317T020000Z
+SUMMARY:Bahia – Vitória BA 3:2
+DESCRIPTION:Brasileiro Women · 3. Spieltag
+LOCATION:Estadio Joia da Princesa\, Feira de Santana
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533885.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522451@anstoss
+DTSTAMP:20260322T140000Z
+DTSTART:20260322T140000Z
+DTEND:20260322T160000Z
+SUMMARY:Palmeiras – Vitória BA 6:0
+DESCRIPTION:Brasileiro Women · 4. Spieltag
+LOCATION:Allianz Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522451.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522453@anstoss
+DTSTAMP:20260327T180000Z
+DTSTART:20260327T180000Z
+DTEND:20260327T200000Z
+SUMMARY:Vitória BA – Atlético Mineiro 0:3
+DESCRIPTION:Brasileiro Women · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522453.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522455@anstoss
+DTSTAMP:20260403T220000Z
+DTSTART:20260403T220000Z
+DTEND:20260404T000000Z
+SUMMARY:Gremio – Vitória BA 3:0
+DESCRIPTION:Brasileiro Women · 6. Spieltag
+LOCATION:Francisco Novelletto Neto\, Porto Alegre
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522455.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522459@anstoss
+DTSTAMP:20260425T190000Z
+DTSTART:20260425T190000Z
+DTEND:20260425T210000Z
+SUMMARY:Flamengo – Vitória BA 3:1
+DESCRIPTION:Brasileiro Women · 8. Spieltag
+LOCATION:Estadio Luso Brasileiro\, Rio de Janeiro
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522459.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522461@anstoss
+DTSTAMP:20260502T180000Z
+DTSTART:20260502T180000Z
+DTEND:20260502T200000Z
+SUMMARY:America Mineiro – Vitória BA 0:0
+DESCRIPTION:Brasileiro Women · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522461.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522464@anstoss
+DTSTAMP:20260511T180000Z
+DTSTART:20260511T180000Z
+DTEND:20260511T200000Z
+SUMMARY:Vitória BA – Juventude 0:3
+DESCRIPTION:Brasileiro Women · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522464.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522465@anstoss
+DTSTAMP:20260518T220000Z
+DTSTART:20260518T220000Z
+DTEND:20260519T000000Z
+SUMMARY:Ferroviaria – Vitória BA 2:0
+DESCRIPTION:Brasileiro Women · 11. Spieltag
+LOCATION:Arena Fonte Luminosa\, Araraquara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522465.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522467@anstoss
+DTSTAMP:20260524T180000Z
+DTSTART:20260524T180000Z
+DTEND:20260524T200000Z
+SUMMARY:Vitória BA – Cruzeiro 2:2
+DESCRIPTION:Brasileiro Women · 12. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522467.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522457@anstoss
+DTSTAMP:20260717T180000Z
+DTSTART:20260717T180000Z
+DTEND:20260717T200000Z
+SUMMARY:Vitória BA – Botafogo 2:0
+DESCRIPTION:Brasileiro Women · 7. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522457.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522469@anstoss
+DTSTAMP:20260726T140000Z
+DTSTART:20260726T140000Z
+DTEND:20260726T160000Z
+SUMMARY:Corinthians – Vitória BA 4:0
+DESCRIPTION:Brasileiro Women · 13. Spieltag
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522469.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522471@anstoss
+DTSTAMP:20260802T000000Z
+DTSTART:20260802T000000Z
+DTEND:20260802T020000Z
+SUMMARY:Vitória BA – São Paulo 1:3
+DESCRIPTION:Brasileiro Women · 14. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522471.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522473@anstoss
+DTSTAMP:20260809T180000Z
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+SUMMARY:Vitória BA – Internacional RS 2:2
+DESCRIPTION:Brasileiro Women · 15. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522473.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522475@anstoss
+DTSTAMP:20260815T200000Z
+DTSTART:20260815T200000Z
+DTEND:20260815T220000Z
+SUMMARY:RB Bragantino – Vitória BA 6:2
+DESCRIPTION:Brasileiro Women · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522475.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1522477@anstoss
+DTSTAMP:20260822T210000Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:Vitória BA – Santos 1:2
+DESCRIPTION:Brasileiro Women · 17. Spieltag
+LOCATION:Barradao\, Salvador
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1522477.ht
+ ml
+END:VEVENT
+END:VCALENDAR

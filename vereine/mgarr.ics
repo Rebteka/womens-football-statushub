@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mgarr
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1558470@anstoss
+DTSTAMP:20260722T160000Z
+DTSTART:20260722T160000Z
+DTEND:20260722T180000Z
+SUMMARY:Flora – Mgarr 0:4
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Ha
+ lbfinale
+LOCATION:Stadium Myjava\, Myjava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1558470.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1600543@anstoss
+DTSTAMP:20260725T170000Z
+DTSTART:20260725T170000Z
+DTEND:20260725T190000Z
+SUMMARY:Spartak Myjava – Mgarr 6:1
+DESCRIPTION:UEFA Women's Champions League · 1. Qualifikationsrunde · Fi
+ nale
+LOCATION:Stadium Myjava\, Myjava
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1600543.ht
+ ml
+END:VEVENT
+END:VCALENDAR

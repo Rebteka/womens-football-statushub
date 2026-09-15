@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Viktoria Berlin
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1606983@anstoss
+DTSTAMP:20260802T120000Z
+DTSTART:20260802T120000Z
+DTEND:20260802T140000Z
+SUMMARY:TSG Hoffenheim II – FC Viktoria Berlin 1:3
+DESCRIPTION:2. Frauen-Bundesliga · 1. Spieltag
+LOCATION:Dietmar-Hopp-Stadion\, Sinsheim
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606983.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606992@anstoss
+DTSTAMP:20260809T120000Z
+DTSTART:20260809T120000Z
+DTEND:20260809T140000Z
+SUMMARY:FC Viktoria Berlin – VfL Bochum 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 2. Spieltag
+LOCATION:Ostpreussendamm 3-17\, Berlin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606992.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566690@anstoss
+DTSTAMP:20260816T120000Z
+DTSTART:20260816T120000Z
+DTEND:20260816T140000Z
+SUMMARY:Warbeyen – FC Viktoria Berlin 1:3
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 64
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566690.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1606998@anstoss
+DTSTAMP:20260823T120000Z
+DTSTART:20260823T120000Z
+DTEND:20260823T140000Z
+SUMMARY:FC Viktoria Berlin – SG 99 Andernach 2:1
+DESCRIPTION:2. Frauen-Bundesliga · 3. Spieltag
+LOCATION:Ostpreussendamm 3-17\, Berlin
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1606998.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607140@anstoss
+DTSTAMP:20260830T120000Z
+DTSTART:20260830T120000Z
+DTEND:20260830T140000Z
+SUMMARY:1. FC Köln II – FC Viktoria Berlin 0:2
+DESCRIPTION:2. Frauen-Bundesliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607140.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607010@anstoss
+DTSTAMP:20260906T120000Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:FC Viktoria Berlin – SV Meppen 1:0
+DESCRIPTION:2. Frauen-Bundesliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607015@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:SC Sand – FC Viktoria Berlin 1:2
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607015.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607017@anstoss
+DTSTAMP:20260919T120000Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:FC Viktoria Berlin – SGS Essen
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607017.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1629382@anstoss
+DTSTAMP:20260927T120000Z
+DTSTART:20260927T120000Z
+DTEND:20260927T140000Z
+SUMMARY:FC Viktoria Berlin – Bayer 04 Leverkusen
+DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1629382.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607024@anstoss
+DTSTAMP:20261004T120000Z
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Borussia Mönchengladbach – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607024.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607034@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:FC Viktoria Berlin – FC Ingolstadt 04
+DESCRIPTION:2. Frauen-Bundesliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607034.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607038@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:FC Carl Zeiss Jena – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607038.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607046@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:FC Viktoria Berlin – Hertha BSC
+DESCRIPTION:2. Frauen-Bundesliga · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607046.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607048@anstoss
+DTSTAMP:20261114T130000Z
+DTSTART:20261114T130000Z
+DTEND:20261114T150000Z
+SUMMARY:Eintracht Frankfurt II – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607048.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607058@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:FC Viktoria Berlin – 1. FFC Turbine Potsdam
+DESCRIPTION:2. Frauen-Bundesliga · 13. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607058.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607064@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:FC Viktoria Berlin – TSG Hoffenheim II
+DESCRIPTION:2. Frauen-Bundesliga · 14. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607064.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607068@anstoss
+DTSTAMP:20261220T130000Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:VfL Bochum – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607068.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607071@anstoss
+DTSTAMP:20270131T130000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:SG 99 Andernach – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 16. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607071.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607153@anstoss
+DTSTAMP:20270207T130000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:FC Viktoria Berlin – 1. FC Köln II
+DESCRIPTION:2. Frauen-Bundesliga · 17. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607086@anstoss
+DTSTAMP:20270214T130000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T150000Z
+SUMMARY:SV Meppen – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607086.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607094@anstoss
+DTSTAMP:20270221T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:FC Viktoria Berlin – SC Sand
+DESCRIPTION:2. Frauen-Bundesliga · 19. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607094.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607100@anstoss
+DTSTAMP:20270314T130000Z
+DTSTART:20270314T130000Z
+DTEND:20270314T150000Z
+SUMMARY:SGS Essen – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607100.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607106@anstoss
+DTSTAMP:20270321T130000Z
+DTSTART:20270321T130000Z
+DTEND:20270321T150000Z
+SUMMARY:FC Viktoria Berlin – Borussia Mönchengladbach
+DESCRIPTION:2. Frauen-Bundesliga · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607106.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607110@anstoss
+DTSTAMP:20270328T120000Z
+DTSTART:20270328T120000Z
+DTEND:20270328T140000Z
+SUMMARY:FC Ingolstadt 04 – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607113@anstoss
+DTSTAMP:20270403T120000Z
+DTSTART:20270403T120000Z
+DTEND:20270403T140000Z
+SUMMARY:FC Viktoria Berlin – FC Carl Zeiss Jena
+DESCRIPTION:2. Frauen-Bundesliga · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607113.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607121@anstoss
+DTSTAMP:20270411T120000Z
+DTSTART:20270411T120000Z
+DTEND:20270411T140000Z
+SUMMARY:Hertha BSC – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607130@anstoss
+DTSTAMP:20270502T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:FC Viktoria Berlin – Eintracht Frankfurt II
+DESCRIPTION:2. Frauen-Bundesliga · 25. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607130.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1607136@anstoss
+DTSTAMP:20270509T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:1. FFC Turbine Potsdam – FC Viktoria Berlin
+DESCRIPTION:2. Frauen-Bundesliga · 26. Spieltag · Anstosszeit noch offe
+ n
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607136.ht
+ ml
+END:VEVENT
+END:VCALENDAR

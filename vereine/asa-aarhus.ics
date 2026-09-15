@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASA Aarhus
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1582089@anstoss
+DTSTAMP:20260725T110000Z
+DTSTART:20260725T110000Z
+DTEND:20260725T130000Z
+SUMMARY:ASA Aarhus – AGF 3:1
+DESCRIPTION:Kvindeliga · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582097@anstoss
+DTSTAMP:20260801T110000Z
+DTSTART:20260801T110000Z
+DTEND:20260801T130000Z
+SUMMARY:Køge – ASA Aarhus 4:0
+DESCRIPTION:Kvindeliga · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582097.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582100@anstoss
+DTSTAMP:20260815T110000Z
+DTSTART:20260815T110000Z
+DTEND:20260815T130000Z
+SUMMARY:ASA Aarhus – Nordsjælland 1:3
+DESCRIPTION:Kvindeliga · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582100.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582107@anstoss
+DTSTAMP:20260822T110000Z
+DTSTART:20260822T110000Z
+DTEND:20260822T130000Z
+SUMMARY:Midtjylland – ASA Aarhus 4:1
+DESCRIPTION:Kvindeliga · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582107.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582110@anstoss
+DTSTAMP:20260829T110000Z
+DTSTART:20260829T110000Z
+DTEND:20260829T130000Z
+SUMMARY:ASA Aarhus – Fortuna Hjørring 2:1
+DESCRIPTION:Kvindeliga · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582110.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582114@anstoss
+DTSTAMP:20260905T110000Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:FC Copenhagen – ASA Aarhus 1:0
+DESCRIPTION:Kvindeliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582114.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582121@anstoss
+DTSTAMP:20260913T093000Z
+DTSTART:20260913T093000Z
+DTEND:20260913T113000Z
+SUMMARY:KoldingQ – ASA Aarhus 1:3
+DESCRIPTION:Kvindeliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582121.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582125@anstoss
+DTSTAMP:20260919T110000Z
+DTSTART:20260919T110000Z
+DTEND:20260919T130000Z
+SUMMARY:ASA Aarhus – Odense Q
+DESCRIPTION:Kvindeliga · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582125.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582129@anstoss
+DTSTAMP:20260926T110000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Brøndby – ASA Aarhus
+DESCRIPTION:Kvindeliga · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582129.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582134@anstoss
+DTSTAMP:20261003T110000Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:ASA Aarhus – Midtjylland
+DESCRIPTION:Kvindeliga · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582134.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582139@anstoss
+DTSTAMP:20261018T120000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:AGF – ASA Aarhus
+DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582139.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582148@anstoss
+DTSTAMP:20261025T130000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Odense Q – ASA Aarhus
+DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582148.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582150@anstoss
+DTSTAMP:20261101T130000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:ASA Aarhus – KoldingQ
+DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582150.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582158@anstoss
+DTSTAMP:20261108T130000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Nordsjælland – ASA Aarhus
+DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582158.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582160@anstoss
+DTSTAMP:20261115T130000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ASA Aarhus – Brøndby
+DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582160.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582164@anstoss
+DTSTAMP:20261122T130000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ASA Aarhus – FC Copenhagen
+DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582164.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582170@anstoss
+DTSTAMP:20261209T130000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Fortuna Hjørring – ASA Aarhus
+DESCRIPTION:Kvindeliga · 17. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582170.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582174@anstoss
+DTSTAMP:20261213T130000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:ASA Aarhus – Køge
+DESCRIPTION:Kvindeliga · 18. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582174.ht
+ ml
+END:VEVENT
+END:VCALENDAR

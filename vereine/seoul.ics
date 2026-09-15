@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seoul
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1533688@anstoss
+DTSTAMP:20260404T050000Z
+DTSTART:20260404T050000Z
+DTEND:20260404T070000Z
+SUMMARY:Suwon FMC – Seoul 2:1
+DESCRIPTION:WK-League · 1. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533688.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533690@anstoss
+DTSTAMP:20260410T100000Z
+DTSTART:20260410T100000Z
+DTEND:20260410T120000Z
+SUMMARY:Incheon Red Angels – Seoul 1:0
+DESCRIPTION:WK-League · 2. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533690.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533694@anstoss
+DTSTAMP:20260417T100000Z
+DTSTART:20260417T100000Z
+DTEND:20260417T120000Z
+SUMMARY:Seoul – Gumi Sportstoto 2:1
+DESCRIPTION:WK-League · 3. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533694.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533699@anstoss
+DTSTAMP:20260424T100000Z
+DTSTART:20260424T100000Z
+DTEND:20260424T120000Z
+SUMMARY:Seoul – Changnyeong 0:2
+DESCRIPTION:WK-League · 4. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533699.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533704@anstoss
+DTSTAMP:20260502T050000Z
+DTSTART:20260502T050000Z
+DTEND:20260502T070000Z
+SUMMARY:Boeun Sangmu – Seoul 3:0
+DESCRIPTION:WK-League · 5. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533704.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533708@anstoss
+DTSTAMP:20260505T050000Z
+DTSTART:20260505T050000Z
+DTEND:20260505T070000Z
+SUMMARY:Gyeongju – Seoul 0:1
+DESCRIPTION:WK-League · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533708.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533709@anstoss
+DTSTAMP:20260508T100000Z
+DTSTART:20260508T100000Z
+DTEND:20260508T120000Z
+SUMMARY:Hwacheon KSPO – Seoul 1:0
+DESCRIPTION:WK-League · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533709.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533720@anstoss
+DTSTAMP:20260527T100000Z
+DTSTART:20260527T100000Z
+DTEND:20260527T120000Z
+SUMMARY:Seoul – Incheon Red Angels 2:1
+DESCRIPTION:WK-League · 9. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533720.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533724@anstoss
+DTSTAMP:20260531T100000Z
+DTSTART:20260531T100000Z
+DTEND:20260531T120000Z
+SUMMARY:Gumi Sportstoto – Seoul 3:1
+DESCRIPTION:WK-League · 10. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533724.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533727@anstoss
+DTSTAMP:20260613T073000Z
+DTSTART:20260613T073000Z
+DTEND:20260613T093000Z
+SUMMARY:Changnyeong – Seoul 1:2
+DESCRIPTION:WK-League · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533727.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533732@anstoss
+DTSTAMP:20260617T100000Z
+DTSTART:20260617T100000Z
+DTEND:20260617T120000Z
+SUMMARY:Seoul – Boeun Sangmu 2:1
+DESCRIPTION:WK-League · 12. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533732.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533733@anstoss
+DTSTAMP:20260620T100000Z
+DTSTART:20260620T100000Z
+DTEND:20260620T120000Z
+SUMMARY:Seoul – Gyeongju 1:3
+DESCRIPTION:WK-League · 13. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533733.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533714@anstoss
+DTSTAMP:20260701T100000Z
+DTSTART:20260701T100000Z
+DTEND:20260701T120000Z
+SUMMARY:Seoul – Suwon FMC 0:3
+DESCRIPTION:WK-League · 8. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533714.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533742@anstoss
+DTSTAMP:20260710T100000Z
+DTSTART:20260710T100000Z
+DTEND:20260710T120000Z
+SUMMARY:Seoul – Suwon FMC 0:3
+DESCRIPTION:WK-League · 15. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533742.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533747@anstoss
+DTSTAMP:20260718T100000Z
+DTSTART:20260718T100000Z
+DTEND:20260718T120000Z
+SUMMARY:Incheon Red Angels – Seoul 0:2
+DESCRIPTION:WK-League · 16. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533747.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533751@anstoss
+DTSTAMP:20260724T100000Z
+DTSTART:20260724T100000Z
+DTEND:20260724T120000Z
+SUMMARY:Seoul – Gumi Sportstoto 0:3
+DESCRIPTION:WK-League · 17. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533751.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533756@anstoss
+DTSTAMP:20260801T100000Z
+DTSTART:20260801T100000Z
+DTEND:20260801T120000Z
+SUMMARY:Seoul – Changnyeong 3:1
+DESCRIPTION:WK-League · 18. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533756.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533760@anstoss
+DTSTAMP:20260808T103000Z
+DTSTART:20260808T103000Z
+DTEND:20260808T123000Z
+SUMMARY:Boeun Sangmu – Seoul 2:1
+DESCRIPTION:WK-League · 19. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533760.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533761@anstoss
+DTSTAMP:20260814T100000Z
+DTSTART:20260814T100000Z
+DTEND:20260814T120000Z
+SUMMARY:Seoul – Gyeongju 0:0
+DESCRIPTION:WK-League · 20. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533761.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533765@anstoss
+DTSTAMP:20260821T100000Z
+DTSTART:20260821T100000Z
+DTEND:20260821T120000Z
+SUMMARY:Hwacheon KSPO – Seoul 0:0
+DESCRIPTION:WK-League · 21. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533765.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533770@anstoss
+DTSTAMP:20260828T100000Z
+DTSTART:20260828T100000Z
+DTEND:20260828T120000Z
+SUMMARY:Suwon FMC – Seoul 2:1
+DESCRIPTION:WK-League · 22. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533770.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533776@anstoss
+DTSTAMP:20260902T100000Z
+DTSTART:20260902T100000Z
+DTEND:20260902T120000Z
+SUMMARY:Seoul – Incheon Red Angels 1:0
+DESCRIPTION:WK-League · 23. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533776.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533779@anstoss
+DTSTAMP:20260905T100000Z
+DTSTART:20260905T100000Z
+DTEND:20260905T120000Z
+SUMMARY:Gumi Sportstoto – Seoul 0:2
+DESCRIPTION:WK-League · 24. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533779.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533737@anstoss
+DTSTAMP:20260914T100000Z
+DTSTART:20260914T100000Z
+DTEND:20260914T120000Z
+SUMMARY:Seoul – Hwacheon KSPO 0:0
+DESCRIPTION:WK-League · 14. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533737.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533783@anstoss
+DTSTAMP:20261003T050000Z
+DTSTART:20261003T050000Z
+DTEND:20261003T070000Z
+SUMMARY:Changnyeong – Seoul
+DESCRIPTION:WK-League · 25. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533783.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533788@anstoss
+DTSTAMP:20261007T100000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Seoul – Boeun Sangmu
+DESCRIPTION:WK-League · 26. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533788.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533789@anstoss
+DTSTAMP:20261028T100000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Gyeongju – Seoul
+DESCRIPTION:WK-League · 27. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1533795@anstoss
+DTSTAMP:20261031T050000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Seoul – Hwacheon KSPO
+DESCRIPTION:WK-League · 28. Spieltag · Anstosszeit noch offen
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533795.ht
+ ml
+END:VEVENT
+END:VCALENDAR
