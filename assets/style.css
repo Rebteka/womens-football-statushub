@@ -137,6 +137,11 @@ h3 { font-size: 1.02rem; }
 .pill-finished { background: var(--brand-soft); color: var(--brand-ink); }
 .pill-postponed, .pill-cancelled { background: var(--zone-bottom); color: var(--loss); }
 .live-dot { display: inline-block; width: .6rem; height: .6rem; border-radius: 50%; background: var(--live); margin-right: .4rem; animation: pulse 1.6s infinite; }
+.live-dot.is-stale { background: var(--ink-3); animation: none; }
+.pill-stale { background: var(--line); color: var(--ink-2); text-transform: none; letter-spacing: 0; }
+.match-live.is-stale { border-color: var(--line); }
+.match-live.is-stale .score b { color: var(--ink-2); }
+.section > h2 small[data-live-note] { font-weight: 500; color: var(--ink-3); font-size: .8rem; }
 @keyframes pulse { 50% { opacity: .55; } }
 
 /* Empty state */

@@ -8,9 +8,56 @@
 
   /* ---------- Datenstand (nicht in jede Seite gebacken, damit unveraenderte Seiten stabil bleiben) ---------- */
   var stand = document.querySelector("[data-stand]");
-  if (stand) {
-    fetch(base + "/assets/meta.json", { cache: "no-cache" }).then(function (r) { return r.json(); }).then(function (m) {
-      if (m.stand_label) stand.textContent = m.stand_label + " \u00b7 Zeiten in Europe/Berlin";
+  var STALE_MIN = 30;
+  function fmtTime(d) { return d.toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Berlin" }); }
+  function markStaleLive(generatedAt) {
+    // Eingebackene "Live"-Zustaende sind nach 30 Minuten nur noch ein alter Zwischenstand
+    var age = (Date.now() - new Date(generatedAt).getTime()) / 60000;
+    if (age < STALE_MIN) return;
+    var label = "Stand " + fmtTime(new Date(generatedAt));
+    document.querySelectorAll(".match-live:not(.is-fresh)").forEach(function (card) {
+      card.classList.add("is-stale");
+      var pill = card.querySelector(".pill-live");
+      if (pill) { pill.textContent = label; pill.classList.remove("pill-live"); pill.classList.add("pill-stale"); }
+    });
+    var note = document.querySelector("[data-live-note]");
+    if (note) note.textContent = "(" + label + " – kein Live-Ticker aktiv)";
+    document.querySelectorAll(".live-dot").forEach(function (d) { d.classList.add("is-stale"); });
+  }
+  fetch(base + "/assets/meta.json", { cache: "no-cache" }).then(function (r) { return r.json(); }).then(function (m) {
+    if (stand && m.stand_label) stand.textContent = m.stand_label + " \u00b7 Zeiten in Europe/Berlin";
+    if (m.generated_at) markStaleLive(m.generated_at);
+  }).catch(function () {});
+
+  /* ---------- Live-Ticker (optional): assets/live.json aktualisiert Karten in place ---------- */
+  var cards = document.querySelectorAll("[data-fixture]");
+  if (cards.length) {
+    fetch(base + "/assets/live.json", { cache: "no-cache" }).then(function (r) { return r.ok ? r.json() : null; }).then(function (live) {
+      if (!live || !live.matches || (Date.now() - new Date(live.generated_at).getTime()) / 60000 > 25) return;
+      var byId = {};
+      live.matches.forEach(function (m) { byId[m.fixture_id] = m; });
+      cards.forEach(function (card) {
+        var m = byId[card.dataset.fixture];
+        if (!m) return;
+        var isLive = ["1H", "2H", "HT", "ET", "BT", "P", "LIVE", "INT"].indexOf(m.status) !== -1;
+        var isFinished = ["FT", "AET", "PEN"].indexOf(m.status) !== -1;
+        if (!isLive && !isFinished) return;
+        card.classList.remove("match-scheduled", "match-live", "match-finished", "is-stale");
+        card.classList.add(isLive ? "match-live" : "match-finished", "is-fresh");
+        var score = card.querySelector("[data-score]");
+        if (score && m.gh !== null && m.gh !== undefined) {
+          var hw = isFinished && m.gh > m.ga ? " win" : "", aw = isFinished && m.ga > m.gh ? " win" : "";
+          score.innerHTML = '<span class="score"><b class="' + hw + '">' + m.gh + '</b><b class="' + aw + '">' + m.ga + "</b></span>";
+        }
+        var pill = card.querySelector("[data-pill]");
+        if (pill) {
+          var txt = isFinished ? "Beendet" : m.status === "HT" ? "Halbzeit" : m.elapsed ? m.elapsed + "'" : "Live";
+          pill.innerHTML = '<span class="pill ' + (isLive ? "pill-live" : "pill-finished") + '">' + txt + "</span>";
+        }
+      });
+      var note = document.querySelector("[data-live-note]");
+      if (note) note.textContent = "(Live-Stand " + fmtTime(new Date(live.generated_at)) + ")";
+      document.querySelectorAll(".live-dot").forEach(function (d) { d.classList.remove("is-stale"); });
     }).catch(function () {});
   }
 
