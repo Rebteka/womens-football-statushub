@@ -1,0 +1,27 @@
+# Anstoss Live-Ticker – laeuft im oeffentlichen Ergebnis-Repo (kostenlose Actions-Minuten).
+# Ohne Kernspiel im Fenster endet der Job nach wenigen Sekunden ohne API-Aufruf.
+# Quelle/Versionierung: Hauptrepo experiment/redesign/ticker/
+name: Live-Ticker
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-ticker
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zwischenstaende holen (nur bei laufendem Spiel)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python3 .github/scripts/live_ticker.py
