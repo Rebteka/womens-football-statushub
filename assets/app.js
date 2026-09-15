@@ -194,6 +194,15 @@
     input.addEventListener("input", function () {
       var q = input.value.trim().toLowerCase();
       items.forEach(function (el) { el.classList.toggle("is-hidden", q && el.dataset.club.indexOf(q) === -1); });
+      // Liga-Ueberschriften ohne sichtbare Treffer mit ausblenden
+      document.querySelectorAll(".comp-group-title").forEach(function (h) {
+        var grid = h.nextElementSibling;
+        h.style.display = grid && grid.querySelector("[data-club]:not(.is-hidden)") ? "" : "none";
+      });
+      document.querySelectorAll("main section.section").forEach(function (sec) {
+        var any = sec.querySelector("[data-club]:not(.is-hidden)");
+        sec.style.display = sec.querySelector("[data-club]") && !any ? "none" : "";
+      });
     });
   });
 

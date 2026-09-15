@@ -141,6 +141,7 @@ h3 { font-size: 1.02rem; }
 @media (prefers-color-scheme: dark) { .pill-moved { background: #3d3410; color: #f1d27a; } }
 .live-dot { display: inline-block; width: .6rem; height: .6rem; border-radius: 50%; background: var(--live); margin-right: .4rem; animation: pulse 1.6s infinite; }
 .live-dot.is-stale { background: var(--ink-3); animation: none; }
+@media (prefers-reduced-motion: reduce) { .pill-live, .live-dot { animation: none; } html { scroll-behavior: auto; } }
 .pill-stale { background: var(--line); color: var(--ink-2); text-transform: none; letter-spacing: 0; }
 .match-live.is-stale { border-color: var(--line); }
 .match-live.is-stale .score b { color: var(--ink-2); }
