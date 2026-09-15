@@ -238,6 +238,10 @@ h3 { font-size: 1.02rem; }
 .legal h3 { margin: 1.1rem 0 .3rem; }
 .fav-matches { margin-top: .6rem; }
 .linklike { font: inherit; background: none; border: 0; padding: 0; color: var(--brand); text-decoration: underline; cursor: pointer; }
+.jump { display: flex; gap: .4rem; flex-wrap: wrap; margin: .25rem 0 1rem; }
+.jump a { font-size: .85rem; font-weight: 600; padding: .35rem .8rem; border-radius: 999px; border: 1px solid var(--line); background: var(--card); color: var(--ink-2); }
+.jump a:hover { text-decoration: none; border-color: var(--brand); color: var(--brand); }
+section[id], div[id="kalender"] { scroll-margin-top: 6.5rem; }
 .sb-score span { color: var(--ink-3); margin: 0 .15rem; }
 .sb-score .pill { font-size: .7rem; }
 .sb-score p { font-size: .85rem; margin: 0; font-weight: 500; }
