@@ -33,15 +33,19 @@
   var cards = document.querySelectorAll("[data-fixture]");
   if (cards.length) {
     fetch(base + "/assets/live.json", { cache: "no-cache" }).then(function (r) { return r.ok ? r.json() : null; }).then(function (live) {
-      if (!live || !live.matches || (Date.now() - new Date(live.generated_at).getTime()) / 60000 > 25) return;
+      if (!live || !live.matches) return;
+      // Zwischenstaende nur wenn frisch (<25 min); Endstaende sind endgueltig und gelten immer
+      var fresh = (Date.now() - new Date(live.generated_at).getTime()) / 60000 < 25;
       var byId = {};
       live.matches.forEach(function (m) { byId[m.fixture_id] = m; });
+      var anyLive = false;
       cards.forEach(function (card) {
         var m = byId[card.dataset.fixture];
         if (!m) return;
-        var isLive = ["1H", "2H", "HT", "ET", "BT", "P", "LIVE", "INT"].indexOf(m.status) !== -1;
+        var isLive = fresh && ["1H", "2H", "HT", "ET", "BT", "P", "LIVE", "INT"].indexOf(m.status) !== -1;
         var isFinished = ["FT", "AET", "PEN"].indexOf(m.status) !== -1;
         if (!isLive && !isFinished) return;
+        anyLive = anyLive || isLive;
         card.classList.remove("match-scheduled", "match-live", "match-finished", "is-stale");
         card.classList.add(isLive ? "match-live" : "match-finished", "is-fresh");
         var score = card.querySelector("[data-score]");
@@ -56,8 +60,8 @@
         }
       });
       var note = document.querySelector("[data-live-note]");
-      if (note) note.textContent = "(Live-Stand " + fmtTime(new Date(live.generated_at)) + ")";
-      document.querySelectorAll(".live-dot").forEach(function (d) { d.classList.remove("is-stale"); });
+      if (note && anyLive) note.textContent = "(Live-Stand " + fmtTime(new Date(live.generated_at)) + ")";
+      if (anyLive) document.querySelectorAll(".live-dot").forEach(function (d) { d.classList.remove("is-stale"); });
     }).catch(function () {});
   }
 
