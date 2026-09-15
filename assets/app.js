@@ -200,8 +200,14 @@
         h.style.display = grid && grid.querySelector("[data-club]:not(.is-hidden)") ? "" : "none";
       });
       document.querySelectorAll("main section.section").forEach(function (sec) {
-        var any = sec.querySelector("[data-club]:not(.is-hidden)");
-        sec.style.display = sec.querySelector("[data-club]") && !any ? "none" : "";
+        var any = sec.querySelector("[data-club]:not(.is-hidden), .card:not(.is-hidden)");
+        sec.style.display = sec.querySelector("[data-club], .card") && !any ? "none" : "";
+      });
+      // Archiv-Klappen mit Treffern oeffnen, ohne Treffer ausblenden
+      document.querySelectorAll("details.archive").forEach(function (d) {
+        var hit = d.querySelector(".card:not(.is-hidden)");
+        d.style.display = hit ? "" : "none";
+        if (q && hit) d.open = true;
       });
     });
   });
