@@ -73,11 +73,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1629368.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593146@anstoss
-DTSTAMP:20261004T120000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261003T120000Z
+SEQUENCE:1
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
 SUMMARY:RB Leipzig – 1. FSV Mainz 05
-DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Neuer Termin (vorher 04.1
+ 0. 14:00)
 LOCATION:Red Bull Arena\, Leipzig
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593146.ht
  ml
@@ -118,10 +120,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593173@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:RB Leipzig – Eintracht Frankfurt
-DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag
 LOCATION:Red Bull Arena\, Leipzig
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593173.ht
  ml

@@ -72,11 +72,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1629377.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593147@anstoss
-DTSTAMP:20261004T120000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261004T140000Z
+SEQUENCE:1
+DTSTART:20261004T140000Z
+DTEND:20261004T160000Z
 SUMMARY:VfB Stuttgart – 1. FC Union Berlin
-DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Neuer Termin (vorher 04.1
+ 0. 14:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593147.ht
  ml
 END:VEVENT
@@ -114,10 +116,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593175@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:SV Werder Bremen – 1. FC Union Berlin
-DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag
 LOCATION:Weserstadion Platz 11\, Bremen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593175.ht
  ml

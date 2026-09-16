@@ -74,11 +74,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1629378.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593148@anstoss
-DTSTAMP:20261004T120000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261004T114500Z
+SEQUENCE:1
+DTSTART:20261004T114500Z
+DTEND:20261004T134500Z
 SUMMARY:VfL Wolfsburg – Hamburger SV
-DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 6. Spieltag · Neuer Termin (vorher 04.1
+ 0. 14:00)
 LOCATION:AOK Stadion\, Wolfsburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593148.ht
  ml
@@ -119,10 +121,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593171@anstoss
 DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
 SUMMARY:Hamburger SV – 1. FSV Mainz 05
-DESCRIPTION:Frauen-Bundesliga · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 10. Spieltag
 LOCATION:Volksparkstadion\, Hamburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593171.ht
  ml
