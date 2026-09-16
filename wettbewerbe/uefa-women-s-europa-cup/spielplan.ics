@@ -375,16 +375,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638404.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638399@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:Eintracht Frankfurt – FH
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638399.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1638405@anstoss
 DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
@@ -392,6 +382,16 @@ DTEND:20260923T180000Z
 SUMMARY:Slovan Liberec – Rosenborg
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638399@anstoss
+DTSTAMP:20260923T160000Z
+DTSTART:20260923T160000Z
+DTEND:20260923T180000Z
+SUMMARY:FH – Eintracht Frankfurt
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638399.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
