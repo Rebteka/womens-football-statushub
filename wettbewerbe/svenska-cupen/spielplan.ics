@@ -221,6 +221,30 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638737.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1636791@anstoss
+DTSTAMP:20260922T170000Z
+SEQUENCE:1
+DTSTART:20260922T170000Z
+DTEND:20260922T190000Z
+SUMMARY:KIF Örebro – AIK
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636791.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636789@anstoss
+DTSTAMP:20260922T170000Z
+SEQUENCE:1
+DTSTART:20260922T170000Z
+DTEND:20260922T190000Z
+SUMMARY:Husqvarna – Växjö
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636789.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1636786@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
@@ -228,16 +252,6 @@ DTEND:20260923T190000Z
 SUMMARY:Gamla Upsala – Hammarby (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636786.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1636791@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:KIF Örebro – AIK
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636791.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -318,16 +332,6 @@ DTEND:20260923T190000Z
 SUMMARY:Eskilsminne – Rosengård
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636785.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1636789@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Husqvarna – Växjö
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636789.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
