@@ -251,42 +251,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495412@anstoss
 DTSTAMP:20261017T130000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
 SUMMARY:Rosenborg – SK Brann
-DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 19. Spieltag
 LOCATION:Koteng Arena\, Trondheim
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495412.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495417@anstoss
-DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T140000Z
+SEQUENCE:1
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
 SUMMARY:Hønefoss – Rosenborg
-DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 20. Spieltag · Neuer Termin (vorher 24.10. 15:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495417.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495423@anstoss
-DTSTAMP:20261101T140000Z
-DTSTART:20261101T140000Z
-DTEND:20261101T160000Z
+DTSTAMP:20261101T133000Z
+SEQUENCE:1
+DTSTART:20261101T133000Z
+DTEND:20261101T153000Z
 SUMMARY:Rosenborg – Røa
-DESCRIPTION:Toppserien · 21. Spieltag
+DESCRIPTION:Toppserien · 21. Spieltag · Neuer Termin (vorher 01.11. 15:
+ 00)
 LOCATION:Koteng Arena\, Trondheim
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495423.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495427@anstoss
-DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T120000Z
+SEQUENCE:1
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
 SUMMARY:Bodø / Glimt – Rosenborg
-DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 22. Spieltag · Neuer Termin (vorher 07.11. 15:
+ 00)
 LOCATION:Aspmyra Stadion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495427.ht
  ml

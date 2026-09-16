@@ -198,43 +198,51 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495403.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495413@anstoss
-DTSTAMP:20261017T130000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTAMP:20261017T110000Z
+SEQUENCE:1
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
 SUMMARY:Stabæk – Hønefoss
-DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 19. Spieltag · Neuer Termin (vorher 17.10. 15:
+ 00)
 LOCATION:Nadderud Stadion\, Bekkestua
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495413.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495417@anstoss
-DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T140000Z
+SEQUENCE:1
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
 SUMMARY:Hønefoss – Rosenborg
-DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 20. Spieltag · Neuer Termin (vorher 24.10. 15:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495417.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495420@anstoss
-DTSTAMP:20261031T140000Z
-DTSTART:20261031T140000Z
-DTEND:20261031T160000Z
+DTSTAMP:20261031T130000Z
+SEQUENCE:1
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
 SUMMARY:Haugesund – Hønefoss
-DESCRIPTION:Toppserien · 21. Spieltag
+DESCRIPTION:Toppserien · 21. Spieltag · Neuer Termin (vorher 31.10. 15:
+ 00)
 LOCATION:Haugesund Stadion\, Haugesund
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495420.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495429@anstoss
-DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T120000Z
+SEQUENCE:1
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
 SUMMARY:Hønefoss – LSK Kvinner
-DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 22. Spieltag · Neuer Termin (vorher 07.11. 15:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495429.ht
  ml
 END:VEVENT

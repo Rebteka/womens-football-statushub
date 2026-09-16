@@ -139,11 +139,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581808.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581813@anstoss
-DTSTAMP:20261121T170000Z
-DTSTART:20261121T170000Z
-DTEND:20261121T190000Z
+DTSTAMP:20261122T153000Z
+SEQUENCE:1
+DTSTART:20261122T153000Z
+DTEND:20261122T173000Z
 SUMMARY:Zürich – Yverdon
-DESCRIPTION:Women's Super League (Schweiz) · 13. Spieltag
+DESCRIPTION:Women's Super League (Schweiz) · 13. Spieltag · Neuer Termi
+ n (vorher 21.11. 18:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581813.ht
  ml
 END:VEVENT

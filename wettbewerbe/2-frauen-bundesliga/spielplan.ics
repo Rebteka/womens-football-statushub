@@ -388,6 +388,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607015.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1607012@anstoss
+DTSTAMP:20260913T120000Z
+DTSTART:20260913T120000Z
+DTEND:20260913T140000Z
+SUMMARY:Borussia Mönchengladbach – VfL Bochum 2:1
+DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607012.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607016@anstoss
 DTSTAMP:20260913T120000Z
 DTSTART:20260913T120000Z
@@ -435,16 +445,6 @@ DTEND:20260913T140000Z
 SUMMARY:1. FC Köln II – 1. FFC Turbine Potsdam 1:2
 DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607142.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1607012@anstoss
-DTSTAMP:20260913T120000Z
-DTSTART:20260913T120000Z
-DTEND:20260913T140000Z
-SUMMARY:Borussia Mönchengladbach – VfL Bochum
-DESCRIPTION:2. Frauen-Bundesliga · 6. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1607012.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

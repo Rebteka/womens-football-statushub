@@ -64,11 +64,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573593.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573606@anstoss
-DTSTAMP:20261004T150000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261003T100000Z
+SEQUENCE:1
+DTSTART:20261003T100000Z
+DTEND:20261003T120000Z
 SUMMARY:Sevilla – FC Levante Badalona
-DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 6. Spieltag · Neuer Termin (vorher 04.10. 17:00)
 LOCATION:Estadio Jesus Navas\, Sevilla
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573606.ht
  ml

@@ -132,11 +132,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574650.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1574654@anstoss
-DTSTAMP:20261122T120000Z
-DTSTART:20261122T120000Z
-DTEND:20261122T140000Z
+DTSTAMP:20261121T120000Z
+SEQUENCE:1
+DTSTART:20261121T120000Z
+DTEND:20261121T140000Z
 SUMMARY:LASK – Rheindorf Altach
-DESCRIPTION:Frauenliga · 14. Spieltag
+DESCRIPTION:Frauenliga · 14. Spieltag · Neuer Termin (vorher 22.11. 13:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574654.ht
  ml
 END:VEVENT

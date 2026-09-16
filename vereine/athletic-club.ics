@@ -64,11 +64,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573592.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573605@anstoss
-DTSTAMP:20261004T150000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261003T160000Z
+SEQUENCE:1
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
 SUMMARY:Madrid CFF – Athletic Club
-DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 6. Spieltag · Neuer Termin (vorher 04.10. 17:00)
 LOCATION:Estadio Fernando Torres\, Fuenlabrada
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573605.ht
  ml

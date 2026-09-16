@@ -86,10 +86,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573600@anstoss
 DTSTAMP:20261004T150000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTART:20261004T150000Z
+DTEND:20261004T170000Z
 SUMMARY:Barcelona – Real Madrid
-DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 6. Spieltag
 LOCATION:Estadi Johan Cruyff\, Barcelona
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573600.ht
  ml

@@ -63,11 +63,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573598.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573604@anstoss
-DTSTAMP:20261004T150000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261004T100000Z
+SEQUENCE:1
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
 SUMMARY:Granada – Eibar
-DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 6. Spieltag · Neuer Termin (vorher 04.10. 17:00)
 LOCATION:Ciudad Deportiva del Granada
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573604.ht
  ml

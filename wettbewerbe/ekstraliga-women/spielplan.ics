@@ -301,16 +301,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581714.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1581715@anstoss
-DTSTAMP:20260926T150000Z
-DTSTART:20260926T150000Z
-DTEND:20260926T170000Z
-SUMMARY:Slask Wroclaw – Lech Poznan
-DESCRIPTION:Ekstraliga Women · 6. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1581715.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1581716@anstoss
 DTSTAMP:20260927T100000Z
 DTSTART:20260927T100000Z
@@ -318,6 +308,18 @@ DTEND:20260927T120000Z
 SUMMARY:Rekord Bielsko-Biala – Akademia Piłkarska LG
 DESCRIPTION:Ekstraliga Women · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581716.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581715@anstoss
+DTSTAMP:20260927T100000Z
+SEQUENCE:1
+DTSTART:20260927T100000Z
+DTEND:20260927T120000Z
+SUMMARY:Slask Wroclaw – Lech Poznan
+DESCRIPTION:Ekstraliga Women · 6. Spieltag · Neuer Termin (vorher 26.09
+ . 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581715.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -371,16 +373,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581723.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1581724@anstoss
-DTSTAMP:20261003T150000Z
-DTSTART:20261003T150000Z
-DTEND:20261003T170000Z
-SUMMARY:UJ Krakow – Sleza Wroclaw
-DESCRIPTION:Ekstraliga Women · 7. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1581724.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1581721@anstoss
 DTSTAMP:20261003T150000Z
 DTSTART:20261003T150000Z
@@ -389,6 +381,18 @@ SUMMARY:Legia – UKS Łódź
 DESCRIPTION:Ekstraliga Women · 7. Spieltag
 LOCATION:Stadion Wojska Polskiego\, Warsaw
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581724@anstoss
+DTSTAMP:20261004T153000Z
+SEQUENCE:1
+DTSTART:20261004T153000Z
+DTEND:20261004T173000Z
+SUMMARY:UJ Krakow – Sleza Wroclaw
+DESCRIPTION:Ekstraliga Women · 7. Spieltag · Neuer Termin (vorher 03.10
+ . 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581724.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

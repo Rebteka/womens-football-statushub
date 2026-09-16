@@ -63,11 +63,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573599.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573607@anstoss
-DTSTAMP:20261004T150000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261004T173000Z
+SEQUENCE:1
+DTSTART:20261004T173000Z
+DTEND:20261004T193000Z
 SUMMARY:Valencia – Real Sociedad
-DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 6. Spieltag · Neuer Termin (vorher 04.10. 17:00)
 LOCATION:Estadio Antonio Puchades\, Valencia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573607.ht
  ml

@@ -273,44 +273,52 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495407.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495411@anstoss
-DTSTAMP:20261017T130000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTAMP:20261017T110000Z
+SEQUENCE:1
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
 SUMMARY:LSK Kvinner – Vålerenga
-DESCRIPTION:Toppserien · 19. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 19. Spieltag · Neuer Termin (vorher 17.10. 15:
+ 00)
 LOCATION:LKS-Hallen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495411.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495416@anstoss
-DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTAMP:20261024T120000Z
+SEQUENCE:1
+DTSTART:20261024T120000Z
+DTEND:20261024T140000Z
 SUMMARY:SK Brann – Vålerenga
-DESCRIPTION:Toppserien · 20. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 20. Spieltag · Neuer Termin (vorher 24.10. 15:
+ 00)
 LOCATION:Brann Stadion\, Bergen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495416.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495425@anstoss
-DTSTAMP:20261031T140000Z
-DTSTART:20261031T140000Z
-DTEND:20261031T160000Z
+DTSTAMP:20261102T170000Z
+SEQUENCE:1
+DTSTART:20261102T170000Z
+DTEND:20261102T190000Z
 SUMMARY:Vålerenga – Lyn
-DESCRIPTION:Toppserien · 21. Spieltag
+DESCRIPTION:Toppserien · 21. Spieltag · Neuer Termin (vorher 31.10. 15:
+ 00)
 LOCATION:Intility Arena\, Oslo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495425.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1495426@anstoss
-DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T120000Z
+SEQUENCE:1
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
 SUMMARY:Fortuna Ålesund – Vålerenga
-DESCRIPTION:Toppserien · 22. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Toppserien · 22. Spieltag · Neuer Termin (vorher 07.11. 15:
+ 00)
 LOCATION:Color Line Stadion
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495426.ht
  ml

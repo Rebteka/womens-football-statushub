@@ -63,11 +63,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573594.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573602@anstoss
-DTSTAMP:20261004T150000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261003T140000Z
+SEQUENCE:1
+DTSTART:20261003T140000Z
+DTEND:20261003T160000Z
 SUMMARY:Deportivo de La Coruña – Atletico Madrid
-DESCRIPTION:Liga F · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 6. Spieltag · Neuer Termin (vorher 04.10. 17:00)
 LOCATION:Estadio Municipal de Riazor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573602.ht
  ml

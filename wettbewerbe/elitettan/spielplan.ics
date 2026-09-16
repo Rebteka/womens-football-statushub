@@ -1488,6 +1488,19 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501496.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1501498@anstoss
+DTSTAMP:20261004T100000Z
+SEQUENCE:1
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Umeå – Husqvarna
+DESCRIPTION:Elitettan · 21. Spieltag · Neuer Termin (vorher 04.10. 13:0
+ 0)
+LOCATION:Umea Energi Arena\, Umea
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501498.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1501493@anstoss
 DTSTAMP:20261004T110000Z
 DTSTART:20261004T110000Z
@@ -1496,17 +1509,6 @@ SUMMARY:Göteborg – Alingsås
 DESCRIPTION:Elitettan · 21. Spieltag
 LOCATION:Gamla Ullevi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501493.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1501498@anstoss
-DTSTAMP:20261004T110000Z
-DTSTART:20261004T110000Z
-DTEND:20261004T130000Z
-SUMMARY:Umeå – Husqvarna
-DESCRIPTION:Elitettan · 21. Spieltag
-LOCATION:Umea Energi Arena\, Umea
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1501498.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

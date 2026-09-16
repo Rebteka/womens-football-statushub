@@ -668,6 +668,18 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574657.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1574654@anstoss
+DTSTAMP:20261121T120000Z
+SEQUENCE:1
+DTSTART:20261121T120000Z
+DTEND:20261121T140000Z
+SUMMARY:LASK – Rheindorf Altach
+DESCRIPTION:Frauenliga · 14. Spieltag · Neuer Termin (vorher 22.11. 13:
+ 00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574654.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1574655@anstoss
 DTSTAMP:20261121T130000Z
 DTSTART:20261121T130000Z
@@ -675,16 +687,6 @@ DTEND:20261121T150000Z
 SUMMARY:Salzburg – St. Pölten
 DESCRIPTION:Frauenliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574655.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1574654@anstoss
-DTSTAMP:20261122T120000Z
-DTSTART:20261122T120000Z
-DTEND:20261122T140000Z
-SUMMARY:LASK – Rheindorf Altach
-DESCRIPTION:Frauenliga · 14. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1574654.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
