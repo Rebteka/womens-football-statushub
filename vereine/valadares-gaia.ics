@@ -20,11 +20,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1610794.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610742@anstoss
-DTSTAMP:20260919T140000Z
-DTSTART:20260919T140000Z
-DTEND:20260919T160000Z
+DTSTAMP:20260920T150000Z
+SEQUENCE:1
+DTSTART:20260920T150000Z
+DTEND:20260920T170000Z
 SUMMARY:Racing Power – Valadares Gaia
-DESCRIPTION:1a Divisão - Women · 2. Spieltag
+DESCRIPTION:1a Divisão - Women · 2. Spieltag · Neuer Termin (vorher 19
+ .09. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610742.ht
  ml
 END:VEVENT
