@@ -208,8 +208,9 @@ UID:fixture-1612473@anstoss
 DTSTAMP:20260913T140000Z
 DTSTART:20260913T140000Z
 DTEND:20260913T160000Z
-SUMMARY:Åland United – KuPS
+SUMMARY:Åland United – KuPS 0:2
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
+LOCATION:Wiklöf Holding Arena\, Marie Harbor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612473.ht
  ml
 END:VEVENT
@@ -220,6 +221,7 @@ DTSTART:20260919T110000Z
 DTEND:20260919T130000Z
 SUMMARY:KuPS – HPS
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612475.ht
  ml
 END:VEVENT

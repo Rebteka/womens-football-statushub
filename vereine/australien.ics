@@ -298,6 +298,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1628973.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1640029@anstoss
+DTSTAMP:20261013T190000Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Haiti – Australien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640029.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1638588@anstoss
 DTSTAMP:20261128T083500Z
 DTSTART:20261128T083500Z

@@ -205,4 +205,15 @@ LOCATION:Centenary Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523947.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640025@anstoss
+DTSTAMP:20261009T170000Z
+DTSTART:20261009T170000Z
+DTEND:20261009T190000Z
+SUMMARY:Malta – Luxembourg
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640025.ht
+ ml
+END:VEVENT
 END:VCALENDAR

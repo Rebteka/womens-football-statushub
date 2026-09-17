@@ -161,25 +161,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1545446.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638583@anstoss
+UID:fixture-1638586@anstoss
 DTSTAMP:20261009T200000Z
+SEQUENCE:1
 DTSTART:20261009T200000Z
 DTEND:20261009T220000Z
 SUMMARY:Jamaica – Mexiko
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638583.ht
+  Women · Neuer Termin (vorher 13.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638586.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638586@anstoss
+UID:fixture-1638583@anstoss
 DTSTAMP:20261013T200000Z
+SEQUENCE:1
 DTSTART:20261013T200000Z
 DTEND:20261013T220000Z
 SUMMARY:Jamaica – Mexiko
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638586.ht
+  Women · Neuer Termin (vorher 09.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638583.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

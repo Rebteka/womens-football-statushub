@@ -140,25 +140,38 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1523955.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638581@anstoss
+UID:fixture-1628975@anstoss
 DTSTAMP:20261007T120000Z
+SEQUENCE:1
 DTSTART:20261007T120000Z
 DTEND:20261007T140000Z
 SUMMARY:Liechtenstein – Gibraltar
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
+  Women · Neuer Termin (vorher 10.10. 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1628975.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638581@anstoss
+DTSTAMP:20261010T140000Z
+SEQUENCE:1
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Liechtenstein – Gibraltar
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women · Neuer Termin (vorher 07.10. 14:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638581.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1628975@anstoss
-DTSTAMP:20261010T150000Z
-DTSTART:20261010T150000Z
-DTEND:20261010T170000Z
-SUMMARY:Liechtenstein – Gibraltar
+UID:fixture-1640032@anstoss
+DTSTAMP:20261205T130000Z
+DTSTART:20261205T130000Z
+DTEND:20261205T150000Z
+SUMMARY:San Marino – Gibraltar
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1628975.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640032.ht
  ml
 END:VEVENT
 END:VCALENDAR

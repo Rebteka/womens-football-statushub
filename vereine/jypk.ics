@@ -54,8 +54,9 @@ UID:fixture-1612502@anstoss
 DTSTAMP:20260911T153000Z
 DTSTART:20260911T153000Z
 DTEND:20260911T173000Z
-SUMMARY:JyPK – Honka
+SUMMARY:JyPK – Honka 0:3
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
+LOCATION:Harjun Stadion\, Jyvaskyla
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612502.ht
  ml
 END:VEVENT

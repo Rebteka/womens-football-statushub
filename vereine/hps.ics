@@ -208,7 +208,7 @@ UID:fixture-1612472@anstoss
 DTSTAMP:20260912T160000Z
 DTSTART:20260912T160000Z
 DTEND:20260912T180000Z
-SUMMARY:IF Gnistan – HPS
+SUMMARY:IF Gnistan – HPS 1:3
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612472.ht
  ml
@@ -220,6 +220,7 @@ DTSTART:20260919T110000Z
 DTEND:20260919T130000Z
 SUMMARY:KuPS – HPS
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612475.ht
  ml
 END:VEVENT

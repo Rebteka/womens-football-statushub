@@ -262,4 +262,14 @@ LOCATION:Estadio Alberto Gallardo\, Lima
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1634305.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640091@anstoss
+DTSTAMP:20260927T200000Z
+DTSTART:20260927T200000Z
+DTEND:20260927T220000Z
+SUMMARY:Alianza Lima – FBC Melgar
+DESCRIPTION:Liga Women · Clausura · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640091.ht
+ ml
+END:VEVENT
 END:VCALENDAR

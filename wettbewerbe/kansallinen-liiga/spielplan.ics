@@ -868,8 +868,9 @@ UID:fixture-1612502@anstoss
 DTSTAMP:20260911T153000Z
 DTSTART:20260911T153000Z
 DTEND:20260911T173000Z
-SUMMARY:JyPK – Honka
+SUMMARY:JyPK – Honka 0:3
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
+LOCATION:Harjun Stadion\, Jyvaskyla
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612502.ht
  ml
 END:VEVENT
@@ -878,7 +879,7 @@ UID:fixture-1612503@anstoss
 DTSTAMP:20260911T163000Z
 DTSTART:20260911T163000Z
 DTEND:20260911T183000Z
-SUMMARY:HJS Akatemia – EBK
+SUMMARY:HJS Akatemia – EBK 1:0
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612503.ht
  ml
@@ -888,7 +889,7 @@ UID:fixture-1612470@anstoss
 DTSTAMP:20260912T110000Z
 DTSTART:20260912T110000Z
 DTEND:20260912T130000Z
-SUMMARY:PK-35 Vantaa – VIFK
+SUMMARY:PK-35 Vantaa – VIFK 5:1
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 5. Spieltag
 LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612470.ht
@@ -899,7 +900,7 @@ UID:fixture-1612471@anstoss
 DTSTAMP:20260912T110000Z
 DTSTART:20260912T110000Z
 DTEND:20260912T130000Z
-SUMMARY:Ilves – HJK
+SUMMARY:Ilves – HJK 2:5
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
 LOCATION:Kaupin urheilupuisto\, Tampere
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612471.ht
@@ -910,7 +911,7 @@ UID:fixture-1612472@anstoss
 DTSTAMP:20260912T160000Z
 DTSTART:20260912T160000Z
 DTEND:20260912T180000Z
-SUMMARY:IF Gnistan – HPS
+SUMMARY:IF Gnistan – HPS 1:3
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612472.ht
  ml
@@ -920,8 +921,9 @@ UID:fixture-1612473@anstoss
 DTSTAMP:20260913T140000Z
 DTSTART:20260913T140000Z
 DTEND:20260913T160000Z
-SUMMARY:Åland United – KuPS
+SUMMARY:Åland United – KuPS 0:2
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
+LOCATION:Wiklöf Holding Arena\, Marie Harbor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612473.ht
  ml
 END:VEVENT
@@ -942,6 +944,7 @@ DTSTART:20260919T110000Z
 DTEND:20260919T130000Z
 SUMMARY:KuPS – HPS
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612475.ht
  ml
 END:VEVENT
@@ -952,6 +955,7 @@ DTSTART:20260919T120000Z
 DTEND:20260919T140000Z
 SUMMARY:Ilves – Åland United
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612476.ht
  ml
 END:VEVENT
@@ -962,6 +966,7 @@ DTSTART:20260919T150000Z
 DTEND:20260919T170000Z
 SUMMARY:HJK – IF Gnistan
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+LOCATION:Bolt Arena\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612477.ht
  ml
 END:VEVENT

@@ -205,4 +205,15 @@ LOCATION:Loro Borici Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523936.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640028@anstoss
+DTSTAMP:20261013T170000Z
+DTSTART:20261013T170000Z
+DTEND:20261013T190000Z
+SUMMARY:Luxembourg – Montenegro
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640028.ht
+ ml
+END:VEVENT
 END:VCALENDAR

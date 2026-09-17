@@ -208,7 +208,7 @@ UID:fixture-1612471@anstoss
 DTSTAMP:20260912T110000Z
 DTSTART:20260912T110000Z
 DTEND:20260912T130000Z
-SUMMARY:Ilves – HJK
+SUMMARY:Ilves – HJK 2:5
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 5. Spieltag
 LOCATION:Kaupin urheilupuisto\, Tampere
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612471.ht
@@ -221,6 +221,7 @@ DTSTART:20260919T120000Z
 DTEND:20260919T140000Z
 SUMMARY:Ilves – Åland United
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
+LOCATION:Kaupin urheilupuisto\, Tampere
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612476.ht
  ml
 END:VEVENT

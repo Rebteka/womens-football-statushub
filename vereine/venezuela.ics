@@ -160,4 +160,26 @@ LOCATION:Estadio Centenario\, Montevideo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483048.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640027@anstoss
+DTSTAMP:20261010T200000Z
+DTSTART:20261010T200000Z
+DTEND:20261010T220000Z
+SUMMARY:Venezuela – Kolumbien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640027.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640030@anstoss
+DTSTAMP:20261013T200000Z
+DTSTART:20261013T200000Z
+DTEND:20261013T220000Z
+SUMMARY:Venezuela – Kolumbien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640030.ht
+ ml
+END:VEVENT
 END:VCALENDAR

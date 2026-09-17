@@ -206,25 +206,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1523956.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638582@anstoss
+UID:fixture-1638585@anstoss
 DTSTAMP:20261009T100000Z
+SEQUENCE:1
 DTSTART:20261009T100000Z
 DTEND:20261009T120000Z
 SUMMARY:Andorra – Faroe Islands
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638582.ht
+  Women · Neuer Termin (vorher 12.10. 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638585.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638585@anstoss
+UID:fixture-1638582@anstoss
 DTSTAMP:20261012T150000Z
+SEQUENCE:1
 DTSTART:20261012T150000Z
 DTEND:20261012T170000Z
 SUMMARY:Andorra – Faroe Islands
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638585.ht
+  Women · Neuer Termin (vorher 09.10. 12:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638582.ht
  ml
 END:VEVENT
 END:VCALENDAR

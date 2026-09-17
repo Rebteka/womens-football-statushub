@@ -17,4 +17,26 @@ DESCRIPTION:Coppa Italia · 1st Round
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1471086.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640031@anstoss
+DTSTAMP:20261128T130000Z
+DTSTART:20261128T130000Z
+DTEND:20261128T150000Z
+SUMMARY:San Marino – Liechtenstein
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640032@anstoss
+DTSTAMP:20261205T130000Z
+DTSTART:20261205T130000Z
+DTEND:20261205T150000Z
+SUMMARY:San Marino – Gibraltar
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640032.ht
+ ml
+END:VEVENT
 END:VCALENDAR

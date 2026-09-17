@@ -457,25 +457,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1523940.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1604194@anstoss
+UID:fixture-1604195@anstoss
 DTSTAMP:20261010T183000Z
+SEQUENCE:1
 DTSTART:20261010T183000Z
 DTEND:20261010T203000Z
 SUMMARY:USA – Spanien
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
+  Women · Neuer Termin (vorher 14.10. 01:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604195.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1604195@anstoss
+UID:fixture-1604194@anstoss
 DTSTAMP:20261013T230000Z
+SEQUENCE:1
 DTSTART:20261013T230000Z
 DTEND:20261014T010000Z
 SUMMARY:USA – Spanien
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1604195.ht
+  Women · Neuer Termin (vorher 10.10. 20:30)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
  ml
 END:VEVENT
 END:VCALENDAR
