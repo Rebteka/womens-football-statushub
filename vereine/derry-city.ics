@@ -157,11 +157,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1535422.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638749@anstoss
-DTSTAMP:20260918T184500Z
-DTSTART:20260918T184500Z
-DTEND:20260918T204500Z
+DTSTAMP:20260918T190000Z
+SEQUENCE:1
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
 SUMMARY:Derry City – Lisburn Ladies
-DESCRIPTION:Premiership Women · Gruppenphase
+DESCRIPTION:Premiership Women · Gruppenphase · Neuer Termin (vorher 18.
+ 09. 20:45)
 LOCATION:The Ryan McBride Brandywell Stadium\, Derry
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638749.ht
  ml
