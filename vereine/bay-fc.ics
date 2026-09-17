@@ -256,7 +256,7 @@ DTSTART:20260913T000000Z
 DTEND:20260913T020000Z
 SUMMARY:Seattle Reign FC – Bay FC 2:0
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Lumen Field
+LOCATION:Lumen Field\, Seattle
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508540.ht
  ml
 END:VEVENT
@@ -265,8 +265,9 @@ UID:fixture-1508546@anstoss
 DTSTAMP:20260917T013000Z
 DTSTART:20260917T013000Z
 DTEND:20260917T033000Z
-SUMMARY:Denver Summit – Bay FC
+SUMMARY:Denver Summit – Bay FC 2:2
 DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508546.ht
  ml
 END:VEVENT

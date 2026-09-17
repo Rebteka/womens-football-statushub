@@ -1685,16 +1685,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1503718.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1501515@anstoss
-DTSTAMP:20261031T130000Z
-DTSTART:20261031T130000Z
-DTEND:20261031T150000Z
-SUMMARY:Jitex – Sandviken
-DESCRIPTION:Elitettan · 24. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1501515.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1501514@anstoss
 DTSTAMP:20261031T130000Z
 DTSTART:20261031T130000Z
@@ -1723,6 +1713,18 @@ SUMMARY:Umeå – Örebro SK
 DESCRIPTION:Elitettan · 24. Spieltag
 LOCATION:Umea Energi Arena\, Umea
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501519.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1501515@anstoss
+DTSTAMP:20261101T130000Z
+SEQUENCE:1
+DTSTART:20261101T130000Z
+DTEND:20261101T150000Z
+SUMMARY:Jitex – Sandviken
+DESCRIPTION:Elitettan · 24. Spieltag · Neuer Termin (vorher 31.10. 14:0
+ 0)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1501515.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

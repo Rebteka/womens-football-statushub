@@ -179,7 +179,7 @@ DTSTART:20260322T230000Z
 DTEND:20260323T010000Z
 SUMMARY:Utah Royals – San Diego Wave 1:2
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Rio Tinto Stadium\, Sandy
+LOCATION:America First Field\, Sandy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508371.ht
  ml
 END:VEVENT
@@ -212,7 +212,7 @@ DTSTART:20260326T000000Z
 DTEND:20260326T020000Z
 SUMMARY:Chicago Red Stars – Orlando Pride 0:3
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+LOCATION:SeatGeek Stadium\, Evanston
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508374.ht
  ml
 END:VEVENT
@@ -2014,7 +2014,7 @@ DTSTART:20260911T223000Z
 DTEND:20260912T003000Z
 SUMMARY:Racing Louisville – NJ/NY Gotham FC 1:2
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Lynn Family Stadium
+LOCATION:Lynn Family Stadium\, Louisville
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508538.ht
  ml
 END:VEVENT
@@ -2025,7 +2025,7 @@ DTSTART:20260912T000000Z
 DTEND:20260912T020000Z
 SUMMARY:Kansas City – Orlando Pride 2:2
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:CPKC Stadium
+LOCATION:CPKC Stadium\, Kansas City
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508539.ht
  ml
 END:VEVENT
@@ -2036,7 +2036,7 @@ DTSTART:20260912T020000Z
 DTEND:20260912T040000Z
 SUMMARY:Angel City – Denver Summit 3:3
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:BMO Stadium
+LOCATION:BMO Stadium\, Los Angeles
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508541.ht
  ml
 END:VEVENT
@@ -2047,7 +2047,7 @@ DTSTART:20260912T223000Z
 DTEND:20260913T003000Z
 SUMMARY:San Diego Wave – North Carolina Courage 2:1
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Snapdragon Stadium
+LOCATION:Snapdragon Stadium\, San Diego
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508542.ht
  ml
 END:VEVENT
@@ -2058,7 +2058,7 @@ DTSTART:20260913T000000Z
 DTEND:20260913T020000Z
 SUMMARY:Seattle Reign FC – Bay FC 2:0
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Lumen Field
+LOCATION:Lumen Field\, Seattle
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508540.ht
  ml
 END:VEVENT
@@ -2069,7 +2069,7 @@ DTSTART:20260913T004500Z
 DTEND:20260913T024500Z
 SUMMARY:Houston Dash – Utah Royals 0:1
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Shell Energy Stadium
+LOCATION:Shell Energy Stadium\, Houston
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508543.ht
  ml
 END:VEVENT
@@ -2080,7 +2080,7 @@ DTSTART:20260913T170000Z
 DTEND:20260913T190000Z
 SUMMARY:Washington Spirit – Boston Legacy 0:3
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Audi Field
+LOCATION:Audi Field\, Washington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508544.ht
  ml
 END:VEVENT
@@ -2091,7 +2091,7 @@ DTSTART:20260913T230000Z
 DTEND:20260914T010000Z
 SUMMARY:Portland Thorns – Chicago Red Stars 1:1
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Providence Park
+LOCATION:Providence Park\, Portland
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508545.ht
  ml
 END:VEVENT
@@ -2100,8 +2100,9 @@ UID:fixture-1508546@anstoss
 DTSTAMP:20260917T013000Z
 DTSTART:20260917T013000Z
 DTEND:20260917T033000Z
-SUMMARY:Denver Summit – Bay FC
+SUMMARY:Denver Summit – Bay FC 2:2
 DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium\, Commerce City
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508546.ht
  ml
 END:VEVENT
@@ -2110,9 +2111,9 @@ UID:fixture-1508547@anstoss
 DTSTAMP:20260917T020000Z
 DTSTART:20260917T020000Z
 DTEND:20260917T040000Z
-SUMMARY:Angel City – Seattle Reign FC
+SUMMARY:Angel City – Seattle Reign FC 3:1
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:BMO Stadium
+LOCATION:BMO Stadium\, Los Angeles
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508547.ht
  ml
 END:VEVENT
@@ -2155,6 +2156,7 @@ DTSTART:20260920T004500Z
 DTEND:20260920T024500Z
 SUMMARY:Denver Summit – Seattle Reign FC
 DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Centennial Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508551.ht
  ml
 END:VEVENT
@@ -2362,7 +2364,7 @@ DTSTART:20261004T200000Z
 DTEND:20261004T220000Z
 SUMMARY:Chicago Red Stars – Denver Summit
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:SeatGeek Stadium
+LOCATION:Martin Stadium
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508570.ht
  ml
 END:VEVENT

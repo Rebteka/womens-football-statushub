@@ -262,11 +262,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501511.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1501515@anstoss
-DTSTAMP:20261031T130000Z
-DTSTART:20261031T130000Z
-DTEND:20261031T150000Z
+DTSTAMP:20261101T130000Z
+SEQUENCE:1
+DTSTART:20261101T130000Z
+DTEND:20261101T150000Z
 SUMMARY:Jitex – Sandviken
-DESCRIPTION:Elitettan · 24. Spieltag
+DESCRIPTION:Elitettan · 24. Spieltag · Neuer Termin (vorher 31.10. 14:0
+ 0)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501515.ht
  ml
 END:VEVENT

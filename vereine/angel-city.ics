@@ -256,7 +256,7 @@ DTSTART:20260912T020000Z
 DTEND:20260912T040000Z
 SUMMARY:Angel City – Denver Summit 3:3
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:BMO Stadium
+LOCATION:BMO Stadium\, Los Angeles
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508541.ht
  ml
 END:VEVENT
@@ -265,9 +265,9 @@ UID:fixture-1508547@anstoss
 DTSTAMP:20260917T020000Z
 DTSTART:20260917T020000Z
 DTEND:20260917T040000Z
-SUMMARY:Angel City – Seattle Reign FC
+SUMMARY:Angel City – Seattle Reign FC 3:1
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:BMO Stadium
+LOCATION:BMO Stadium\, Los Angeles
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508547.ht
  ml
 END:VEVENT

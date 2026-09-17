@@ -36,7 +36,7 @@ DTSTART:20260326T000000Z
 DTEND:20260326T020000Z
 SUMMARY:Chicago Red Stars – Orlando Pride 0:3
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston
+LOCATION:SeatGeek Stadium\, Evanston
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508374.ht
  ml
 END:VEVENT
@@ -266,7 +266,7 @@ DTSTART:20260912T000000Z
 DTEND:20260912T020000Z
 SUMMARY:Kansas City – Orlando Pride 2:2
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:CPKC Stadium
+LOCATION:CPKC Stadium\, Kansas City
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508539.ht
  ml
 END:VEVENT
