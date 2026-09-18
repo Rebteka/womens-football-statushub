@@ -70,11 +70,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566609.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1566610@anstoss
-DTSTAMP:20260926T090000Z
-DTSTART:20260926T090000Z
-DTEND:20260926T110000Z
+DTSTAMP:20260926T120000Z
+SEQUENCE:1
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
 SUMMARY:Komárno – Slovan Bratislava
-DESCRIPTION:I Liga - Women · 7. Spieltag
+DESCRIPTION:I Liga - Women · 7. Spieltag · Neuer Termin (vorher 26.09. 
+ 11:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566610.ht
  ml
 END:VEVENT
