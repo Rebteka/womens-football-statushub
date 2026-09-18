@@ -209,4 +209,15 @@ DESCRIPTION:Liga Women · Clausura · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1634304.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640464@anstoss
+DTSTAMP:20260926T201500Z
+DTSTART:20260926T201500Z
+DTEND:20260926T221500Z
+SUMMARY:Carlos Mannucci – Yanapuma
+DESCRIPTION:Liga Women · Clausura · 11. Spieltag
+LOCATION:Estadio Mansiche\, Trujillo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640464.ht
+ ml
+END:VEVENT
 END:VCALENDAR

@@ -221,4 +221,14 @@ DESCRIPTION:Liga Women · Clausura · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1634304.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1640462@anstoss
+DTSTAMP:20260926T180000Z
+DTSTART:20260926T180000Z
+DTEND:20260926T200000Z
+SUMMARY:Atl. Andahuaylas – Defensores
+DESCRIPTION:Liga Women · Clausura · 11. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640462.ht
+ ml
+END:VEVENT
 END:VCALENDAR
