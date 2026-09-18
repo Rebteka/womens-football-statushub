@@ -273,12 +273,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1508547.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1508555@anstoss
-DTSTAMP:20260920T230000Z
-DTSTART:20260920T230000Z
-DTEND:20260921T010000Z
+DTSTAMP:20260920T230500Z
+SEQUENCE:1
+DTSTART:20260920T230500Z
+DTEND:20260921T010500Z
 SUMMARY:Utah Royals – Angel City
-DESCRIPTION:NWSL · Gruppenphase
-LOCATION:America First Field
+DESCRIPTION:NWSL · Gruppenphase · Neuer Termin (vorher 21.09. 01:00)
+LOCATION:Rio Tinto Stadium\, Sandy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508555.ht
  ml
 END:VEVENT

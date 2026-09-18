@@ -273,12 +273,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1508543.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1508552@anstoss
-DTSTAMP:20260920T180000Z
-DTSTART:20260920T180000Z
-DTEND:20260920T200000Z
+DTSTAMP:20260920T180500Z
+SEQUENCE:1
+DTSTART:20260920T180500Z
+DTEND:20260920T200500Z
 SUMMARY:Boston Legacy – Houston Dash
-DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Centreville Bank Stadium
+DESCRIPTION:NWSL · Gruppenphase · Neuer Termin (vorher 20.09. 20:00)
+LOCATION:Centreville Bank Stadium\, Pawtucket
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508552.ht
  ml
 END:VEVENT

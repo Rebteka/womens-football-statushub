@@ -273,12 +273,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1508544.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1508553@anstoss
-DTSTAMP:20260920T210000Z
-DTSTART:20260920T210000Z
-DTEND:20260920T230000Z
+DTSTAMP:20260920T210500Z
+SEQUENCE:1
+DTSTART:20260920T210500Z
+DTEND:20260920T230500Z
 SUMMARY:Chicago Red Stars – Washington Spirit
-DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Martin Stadium
+DESCRIPTION:NWSL · Gruppenphase · Neuer Termin (vorher 20.09. 23:00)
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, IL
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508553.ht
  ml
 END:VEVENT
