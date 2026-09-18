@@ -104,10 +104,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601257@anstoss
 DTSTAMP:20261003T130000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTART:20261003T130000Z
+DTEND:20261003T150000Z
 SUMMARY:Fiorentina – Sassuolo
-DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 2. Spieltag
 LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601257.ht
  ml
@@ -115,10 +115,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601261@anstoss
 DTSTAMP:20261017T130000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
 SUMMARY:Como – Fiorentina
-DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 3. Spieltag
 LOCATION:Stadio Ferruccio\, Seregno
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601261.ht
  ml

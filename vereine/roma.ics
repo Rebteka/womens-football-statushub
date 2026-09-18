@@ -157,22 +157,26 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638289.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601255@anstoss
-DTSTAMP:20261003T130000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20261003T160000Z
+SEQUENCE:1
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
 SUMMARY:Roma – Lazio
-DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Neuer Termin (vorher 03.1
+ 0. 15:00)
 LOCATION:Stadio Tre Fontane\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601255.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601260@anstoss
-DTSTAMP:20261017T130000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTAMP:20261018T130000Z
+SEQUENCE:1
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
 SUMMARY:Roma – AC Milan
-DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 3. Spieltag · Neuer Termin (vorher 17.1
+ 0. 15:00)
 LOCATION:Stadio Tre Fontane\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601260.ht
  ml

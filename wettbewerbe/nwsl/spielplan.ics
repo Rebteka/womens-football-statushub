@@ -2102,7 +2102,7 @@ DTSTART:20260917T013000Z
 DTEND:20260917T033000Z
 SUMMARY:Denver Summit – Bay FC 2:2
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Centennial Stadium\, Commerce City
+LOCATION:Centennial Stadium\, Commerce City\, CO
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508546.ht
  ml
 END:VEVENT
@@ -2113,7 +2113,7 @@ DTSTART:20260917T020000Z
 DTEND:20260917T040000Z
 SUMMARY:Angel City – Seattle Reign FC 3:1
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:BMO Stadium\, Los Angeles
+LOCATION:Banc of California Stadium\, Los Angeles
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508547.ht
  ml
 END:VEVENT
@@ -2124,7 +2124,7 @@ DTSTART:20260919T020000Z
 DTEND:20260919T040000Z
 SUMMARY:San Diego Wave – Kansas City
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Snapdragon Stadium
+LOCATION:Snapdragon Stadium\, San Diego
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508548.ht
  ml
 END:VEVENT
@@ -2135,6 +2135,7 @@ DTSTART:20260919T200000Z
 DTEND:20260919T220000Z
 SUMMARY:Orlando Pride – Portland Thorns
 DESCRIPTION:NWSL · Gruppenphase
+LOCATION:Exploria Stadium\, Orlando
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508549.ht
  ml
 END:VEVENT
@@ -2145,7 +2146,7 @@ DTSTART:20260919T223000Z
 DTEND:20260920T003000Z
 SUMMARY:North Carolina Courage – NJ/NY Gotham FC
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:WakeMed Soccer Park
+LOCATION:WakeMed Soccer Park\, Kari
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508550.ht
  ml
 END:VEVENT

@@ -63,11 +63,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1601253.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601256@anstoss
-DTSTAMP:20261003T130000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20261004T160000Z
+SEQUENCE:1
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
 SUMMARY:Como – Inter Mailand
-DESCRIPTION:Serie A Femminile · 2. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 2. Spieltag · Neuer Termin (vorher 03.1
+ 0. 15:00)
 LOCATION:Stadio Ferruccio\, Seregno
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601256.ht
  ml
@@ -75,10 +77,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601261@anstoss
 DTSTAMP:20261017T130000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
 SUMMARY:Como – Fiorentina
-DESCRIPTION:Serie A Femminile · 3. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 3. Spieltag
 LOCATION:Stadio Ferruccio\, Seregno
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601261.ht
  ml
