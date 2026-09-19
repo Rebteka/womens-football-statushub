@@ -586,7 +586,7 @@ UID:fixture-1638751@anstoss
 DTSTAMP:20260918T190000Z
 DTSTART:20260918T190000Z
 DTEND:20260918T210000Z
-SUMMARY:Cliftonville – Lisburn Ladies
+SUMMARY:Cliftonville – Lisburn Ladies 3:1
 DESCRIPTION:Premiership Women · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638751.ht
  ml
@@ -596,7 +596,7 @@ UID:fixture-1638752@anstoss
 DTSTAMP:20260918T190000Z
 DTSTART:20260918T190000Z
 DTEND:20260918T210000Z
-SUMMARY:Crusaders – Larne
+SUMMARY:Crusaders – Larne 3:2
 DESCRIPTION:Premiership Women · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638752.ht
  ml
@@ -604,12 +604,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638749@anstoss
 DTSTAMP:20260918T190000Z
-SEQUENCE:1
 DTSTART:20260918T190000Z
 DTEND:20260918T210000Z
-SUMMARY:Derry City – Lisburn Ladies
-DESCRIPTION:Premiership Women · Gruppenphase · Neuer Termin (vorher 18.
- 09. 20:45)
+SUMMARY:Derry City – Lisburn Ladies 3:3
+DESCRIPTION:Premiership Women · Gruppenphase
 LOCATION:The Ryan McBride Brandywell Stadium\, Derry
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638749.ht
  ml
