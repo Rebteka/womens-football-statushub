@@ -260,6 +260,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566662.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1566607@anstoss
+DTSTAMP:20260919T123000Z
+DTSTART:20260919T123000Z
+DTEND:20260919T143000Z
+SUMMARY:Tatran Prešov – Petržalka 7:0
+DESCRIPTION:I Liga - Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566607.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1566606@anstoss
 DTSTAMP:20260919T123000Z
 DTSTART:20260919T123000Z
@@ -270,21 +280,11 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566606.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1566607@anstoss
-DTSTAMP:20260919T123000Z
-DTSTART:20260919T123000Z
-DTEND:20260919T143000Z
-SUMMARY:Tatran Prešov – Petržalka
-DESCRIPTION:I Liga - Women · 6. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1566607.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1566608@anstoss
 DTSTAMP:20260919T130000Z
 DTSTART:20260919T130000Z
 DTEND:20260919T150000Z
-SUMMARY:Slovan Bratislava – Ružomberok
+SUMMARY:Slovan Bratislava – Ružomberok 7:0
 DESCRIPTION:I Liga - Women · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566608.ht
  ml

@@ -208,12 +208,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530004@anstoss
 DTSTAMP:20260919T140000Z
-SEQUENCE:1
 DTSTART:20260919T140000Z
 DTEND:20260919T160000Z
-SUMMARY:Chertanovo – CSKA Moskva
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Neuer Termin (vorhe
- r 19.09. 12:00)
+SUMMARY:Chertanovo – CSKA Moskva 0:4
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Chertanovo Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530004.ht
  ml

@@ -197,12 +197,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530009@anstoss
 DTSTAMP:20260919T123000Z
-SEQUENCE:1
 DTSTART:20260919T123000Z
 DTEND:20260919T143000Z
-SUMMARY:Zenit – Dinamo Moskva
-DESCRIPTION:Supreme Division Women · 20. Spieltag · Neuer Termin (vorhe
- r 19.09. 12:00)
+SUMMARY:Zenit – Dinamo Moskva 3:0
+DESCRIPTION:Supreme Division Women · 20. Spieltag
 LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530009.ht
  ml
