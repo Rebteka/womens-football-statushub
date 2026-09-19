@@ -363,16 +363,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581722.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1581723@anstoss
-DTSTAMP:20261003T150000Z
-DTSTART:20261003T150000Z
-DTEND:20261003T170000Z
-SUMMARY:Slask Wroclaw – Czarni Sosnowiec
-DESCRIPTION:Ekstraliga Women · 7. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1581723.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1581721@anstoss
 DTSTAMP:20261003T150000Z
 DTSTART:20261003T150000Z
@@ -381,6 +371,18 @@ SUMMARY:Legia – UKS Łódź
 DESCRIPTION:Ekstraliga Women · 7. Spieltag
 LOCATION:Stadion Wojska Polskiego\, Warsaw
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581721.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581723@anstoss
+DTSTAMP:20261004T100000Z
+SEQUENCE:1
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Slask Wroclaw – Czarni Sosnowiec
+DESCRIPTION:Ekstraliga Women · 7. Spieltag · Neuer Termin (vorher 03.10
+ . 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581723.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -436,17 +438,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581727.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1581728@anstoss
-DTSTAMP:20261017T150000Z
-DTSTART:20261017T150000Z
-DTEND:20261017T170000Z
-SUMMARY:Legia – Górnik Łęczna
-DESCRIPTION:Ekstraliga Women · 8. Spieltag
-LOCATION:Stadion Wojska Polskiego\, Warsaw
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1581728.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1581729@anstoss
 DTSTAMP:20261017T163000Z
 DTSTART:20261017T163000Z
@@ -454,6 +445,19 @@ DTEND:20261017T183000Z
 SUMMARY:Sleza Wroclaw – Slask Wroclaw
 DESCRIPTION:Ekstraliga Women · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581729.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581728@anstoss
+DTSTAMP:20261018T101500Z
+SEQUENCE:1
+DTSTART:20261018T101500Z
+DTEND:20261018T121500Z
+SUMMARY:Legia – Górnik Łęczna
+DESCRIPTION:Ekstraliga Women · 8. Spieltag · Neuer Termin (vorher 17.10
+ . 17:00)
+LOCATION:Stadion Wojska Polskiego\, Warsaw
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581728.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

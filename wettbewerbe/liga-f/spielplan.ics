@@ -534,88 +534,96 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573607.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1573612@anstoss
+DTSTAMP:20261017T100000Z
+SEQUENCE:1
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+SUMMARY:Edf Logrono – Granada
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573612.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573611@anstoss
+DTSTAMP:20261017T100000Z
+SEQUENCE:1
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+SUMMARY:FC Levante Badalona – Granad. Tenerife
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
+LOCATION:Estadi Municipal de Badalona\, Badalona
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573611.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1573609@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T143000Z
+SEQUENCE:1
+DTSTART:20261017T143000Z
+DTEND:20261017T163000Z
 SUMMARY:Athletic Club – Valencia
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
 LOCATION:Lezama Facilities\, Lezama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573609.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1573610@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Atletico Madrid – Madrid CFF
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1573610.ht
+UID:fixture-1573614@anstoss
+DTSTAMP:20261017T183000Z
+SEQUENCE:1
+DTSTART:20261017T183000Z
+DTEND:20261017T203000Z
+SUMMARY:Real Madrid – Espanyol
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573614.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573615@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T100000Z
+SEQUENCE:1
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Real Sociedad – Barcelona
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
 LOCATION:Instalaciones de Zubieta\, Lasarte-Oria
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573615.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1573612@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Edf Logrono – Granada
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1573612.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1573614@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Real Madrid – Espanyol
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1573614.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1573613@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Eibar – Deportivo de La Coruña
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
-LOCATION:Estadio Municipal de Ipurua\, Eibar
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1573613.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1573608@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T100000Z
+SEQUENCE:1
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Deportivo Alavés – Sevilla
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
 LOCATION:Estadio Mendizorrotza\, Vitoria-Gasteiz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573608.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1573611@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:FC Levante Badalona – Granad. Tenerife
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
-LOCATION:Estadi Municipal de Badalona\, Badalona
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1573611.ht
+UID:fixture-1573613@anstoss
+DTSTAMP:20261018T140000Z
+SEQUENCE:1
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Eibar – Deportivo de La Coruña
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
+LOCATION:Estadio Municipal de Ipurua\, Eibar
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573613.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1573610@anstoss
+DTSTAMP:20261018T160000Z
+SEQUENCE:1
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
+SUMMARY:Atletico Madrid – Madrid CFF
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1573610.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

@@ -102,11 +102,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581789.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581796@anstoss
-DTSTAMP:20261031T170000Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
+DTSTAMP:20261031T150000Z
+SEQUENCE:1
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
 SUMMARY:Luzern – Aarau
-DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag
+DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag · Neuer Termi
+ n (vorher 31.10. 18:00)
 LOCATION:Stadion Allmend\, Luzern
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581796.ht
  ml

@@ -115,11 +115,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573600.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573614@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T183000Z
+SEQUENCE:1
+DTSTART:20261017T183000Z
+DTEND:20261017T203000Z
 SUMMARY:Real Madrid – Espanyol
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573614.ht
  ml
 END:VEVENT

@@ -69,11 +69,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581720.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581728@anstoss
-DTSTAMP:20261017T150000Z
-DTSTART:20261017T150000Z
-DTEND:20261017T170000Z
+DTSTAMP:20261018T101500Z
+SEQUENCE:1
+DTSTART:20261018T101500Z
+DTEND:20261018T121500Z
 SUMMARY:Legia – Górnik Łęczna
-DESCRIPTION:Ekstraliga Women · 8. Spieltag
+DESCRIPTION:Ekstraliga Women · 8. Spieltag · Neuer Termin (vorher 17.10
+ . 17:00)
 LOCATION:Stadion Wojska Polskiego\, Warsaw
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581728.ht
  ml

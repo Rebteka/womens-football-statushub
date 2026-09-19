@@ -208,11 +208,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530012@anstoss
 DTSTAMP:20261003T100000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTART:20261003T100000Z
+DTEND:20261003T120000Z
 SUMMARY:Rostov – Krasnodar
-DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 21. Spieltag
 LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530012.ht
  ml

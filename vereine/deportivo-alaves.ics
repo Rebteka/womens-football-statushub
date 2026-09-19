@@ -75,11 +75,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573603.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573608@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T100000Z
+SEQUENCE:1
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Deportivo Alavés – Sevilla
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
 LOCATION:Estadio Mendizorrotza\, Vitoria-Gasteiz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573608.ht
  ml

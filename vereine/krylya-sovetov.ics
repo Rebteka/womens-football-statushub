@@ -207,12 +207,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1530005.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530015@anstoss
-DTSTAMP:20261003T100000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20261003T090000Z
+SEQUENCE:1
+DTSTART:20261003T090000Z
+DTEND:20261003T110000Z
 SUMMARY:Zvezda Perm – Krylya Sovetov
-DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Neuer Termin (vorhe
+ r 03.10. 12:00)
 LOCATION:Zvezda Stadium\, Perm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530015.ht
  ml

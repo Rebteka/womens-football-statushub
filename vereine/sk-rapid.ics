@@ -82,11 +82,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574625.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1574628@anstoss
-DTSTAMP:20261004T150000Z
-DTSTART:20261004T150000Z
-DTEND:20261004T170000Z
+DTSTAMP:20261004T110000Z
+SEQUENCE:1
+DTSTART:20261004T110000Z
+DTEND:20261004T130000Z
 SUMMARY:Austria Wien – SK Rapid
-DESCRIPTION:Frauenliga · 9. Spieltag
+DESCRIPTION:Frauenliga · 9. Spieltag · Neuer Termin (vorher 04.10. 17:0
+ 0)
 LOCATION:Generali Arena\, Vienna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574628.ht
  ml

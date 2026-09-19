@@ -108,11 +108,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581792.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581795@anstoss
-DTSTAMP:20261031T170000Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
+DTSTAMP:20261031T193000Z
+SEQUENCE:1
+DTSTART:20261031T193000Z
+DTEND:20261031T213000Z
 SUMMARY:Grasshopper – Yverdon
-DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag
+DESCRIPTION:Women's Super League (Schweiz) · 10. Spieltag · Neuer Termi
+ n (vorher 31.10. 18:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581795.ht
  ml
 END:VEVENT

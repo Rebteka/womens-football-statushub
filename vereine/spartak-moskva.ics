@@ -229,12 +229,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1530008.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530014@anstoss
-DTSTAMP:20261003T100000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20261003T113000Z
+SEQUENCE:1
+DTSTART:20261003T113000Z
+DTEND:20261003T133000Z
 SUMMARY:Spartak Moskva – Zenit
-DESCRIPTION:Supreme Division Women · 21. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Neuer Termin (vorhe
+ r 03.10. 12:00)
 LOCATION:Cherenkov Academy Stadium\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530014.ht
  ml

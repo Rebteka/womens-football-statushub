@@ -73,11 +73,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573601.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573612@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T100000Z
+SEQUENCE:1
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
 SUMMARY:Edf Logrono – Granada
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573612.ht
  ml
 END:VEVENT

@@ -73,11 +73,12 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1573602.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573610@anstoss
-DTSTAMP:20261018T150000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T160000Z
+SEQUENCE:1
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
 SUMMARY:Atletico Madrid – Madrid CFF
-DESCRIPTION:Liga F · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 7. Spieltag · Neuer Termin (vorher 18.10. 17:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573610.ht
  ml
 END:VEVENT
