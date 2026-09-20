@@ -71,11 +71,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581724.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581726@anstoss
-DTSTAMP:20261017T150000Z
-DTSTART:20261017T150000Z
-DTEND:20261017T170000Z
+DTSTAMP:20261018T110000Z
+SEQUENCE:1
+DTSTART:20261018T110000Z
+DTEND:20261018T130000Z
 SUMMARY:GKS Katowice – UJ Krakow
-DESCRIPTION:Ekstraliga Women · 8. Spieltag
+DESCRIPTION:Ekstraliga Women · 8. Spieltag · Neuer Termin (vorher 17.10
+ . 17:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581726.ht
  ml
 END:VEVENT
