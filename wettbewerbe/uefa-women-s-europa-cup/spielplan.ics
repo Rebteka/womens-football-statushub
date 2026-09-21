@@ -293,6 +293,7 @@ DTEND:20260923T120000Z
 SUMMARY:Metalist 1925 – Torreense
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
  · Neuer Termin (vorher 23.09. 18:00)
+LOCATION:Stadion Olimpiets\, Lyubotyn
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
  ml
 END:VEVENT
@@ -305,6 +306,7 @@ DTEND:20260923T150000Z
 SUMMARY:PAOK – Spartak Myjava
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
  · Neuer Termin (vorher 23.09. 18:00)
+LOCATION:Toumba Stadium\, Thessaloniki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638407.ht
  ml
 END:VEVENT
@@ -317,6 +319,7 @@ DTEND:20260923T170000Z
 SUMMARY:Slovan Liberec – Rosenborg
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
  · Neuer Termin (vorher 23.09. 18:00)
+LOCATION:Stadion u Nisy\, Liberec
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
  ml
 END:VEVENT
@@ -329,6 +332,7 @@ DTEND:20260923T173000Z
 SUMMARY:HJK – SK Brann
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
  · Neuer Termin (vorher 23.09. 18:00)
+LOCATION:Bolt Arena\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638404.ht
  ml
 END:VEVENT
@@ -339,6 +343,7 @@ DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
 SUMMARY:Brøndby – Sporting CP
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+LOCATION:Brøndby Stadion\, Copenhagen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638398.ht
  ml
 END:VEVENT
@@ -359,6 +364,7 @@ DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
 SUMMARY:Breidablik – Czarni Sosnowiec
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+LOCATION:Kópavogsvöllur\, Kopavogur
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638397.ht
  ml
 END:VEVENT
@@ -369,6 +375,7 @@ DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
 SUMMARY:Sparta Praha – Farul Constanţa
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+LOCATION:TC Strahov\, Prague
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638409.ht
  ml
 END:VEVENT
