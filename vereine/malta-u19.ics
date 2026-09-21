@@ -8,47 +8,47 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1529303@anstoss
+UID:fixture-1529306@anstoss
 DTSTAMP:20260228T100000Z
 DTSTART:20260228T100000Z
 DTEND:20260228T120000Z
 SUMMARY:Malta U19 – Romania U19 0:5
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1529303.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529306.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1529306@anstoss
+UID:fixture-1529303@anstoss
 DTSTAMP:20260302T130000Z
 DTSTART:20260302T130000Z
 DTEND:20260302T150000Z
 SUMMARY:Malta U19 – Romania U19 1:8
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1529306.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529303.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1548464@anstoss
+UID:fixture-1548475@anstoss
 DTSTAMP:20260603T180000Z
 DTSTART:20260603T180000Z
 DTEND:20260603T200000Z
 SUMMARY:Malta U19 – Saudi Arabia U20 4:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1548464.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548475.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1548475@anstoss
+UID:fixture-1548464@anstoss
 DTSTAMP:20260606T130000Z
 DTSTART:20260606T130000Z
 DTEND:20260606T150000Z
 SUMMARY:Malta U19 – Saudi Arabia U20 3:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1548475.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548464.ht
  ml
 END:VEVENT
 END:VCALENDAR

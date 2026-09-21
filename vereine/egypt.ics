@@ -8,91 +8,91 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1528259@anstoss
+UID:fixture-1528260@anstoss
 DTSTAMP:20260228T184500Z
 DTSTART:20260228T184500Z
 DTEND:20260228T204500Z
 SUMMARY:Egypt – Algeria 0:3
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1528259.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528260.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1528260@anstoss
+UID:fixture-1528259@anstoss
 DTSTAMP:20260302T193000Z
 DTSTART:20260302T193000Z
 DTEND:20260302T213000Z
 SUMMARY:Egypt – Algeria 2:3
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1528260.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1528259.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540592@anstoss
+UID:fixture-1540598@anstoss
 DTSTAMP:20260414T160000Z
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 SUMMARY:Saudi-Arabien – Egypt 1:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540592.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540598.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540598@anstoss
+UID:fixture-1540592@anstoss
 DTSTAMP:20260418T160000Z
 DTSTART:20260418T160000Z
 DTEND:20260418T180000Z
 SUMMARY:Saudi-Arabien – Egypt 0:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540598.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540592.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1546556@anstoss
+UID:fixture-1550872@anstoss
 DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Egypt – Tunisia 1:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1546556.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550872.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1550872@anstoss
+UID:fixture-1546556@anstoss
 DTSTAMP:20260608T160000Z
 DTSTART:20260608T160000Z
 DTEND:20260608T180000Z
 SUMMARY:Egypt – Tunisia 2:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1550872.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546556.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1583659@anstoss
+UID:fixture-1583661@anstoss
 DTSTAMP:20260708T170000Z
 DTSTART:20260708T170000Z
 DTEND:20260708T190000Z
 SUMMARY:Egypt – Senegal 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1583659.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583661.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1583661@anstoss
+UID:fixture-1583659@anstoss
 DTSTAMP:20260711T170000Z
 DTSTART:20260711T170000Z
 DTEND:20260711T190000Z
 SUMMARY:Egypt – Senegal 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1583661.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583659.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

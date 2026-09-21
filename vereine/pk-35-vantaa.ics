@@ -218,8 +218,9 @@ UID:fixture-1612474@anstoss
 DTSTAMP:20260917T160000Z
 DTSTART:20260917T160000Z
 DTEND:20260917T180000Z
-SUMMARY:PK-35 Vantaa – JyPK
+SUMMARY:PK-35 Vantaa – JyPK 6:0
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612474.ht
  ml
 END:VEVENT

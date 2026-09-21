@@ -286,17 +286,18 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1514114.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1514115@anstoss
-DTSTAMP:20260418T010000Z
-DTSTART:20260418T010000Z
-DTEND:20260418T030000Z
-SUMMARY:USA – Japan 3:0
+DTSTAMP:20260415T020000Z
+DTSTART:20260415T020000Z
+DTEND:20260415T040000Z
+SUMMARY:USA – Japan 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
+LOCATION:Lumen Field
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514115.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1539392@anstoss
+UID:fixture-1542896@anstoss
 DTSTAMP:20260606T065000Z
 DTSTART:20260606T065000Z
 DTEND:20260606T085000Z
@@ -304,19 +305,19 @@ SUMMARY:Japan – South Africa 5:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Yanmar Stadium Nagai\, Osaka
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1539392.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542896.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542896@anstoss
+UID:fixture-1539392@anstoss
 DTSTAMP:20260609T063000Z
 DTSTART:20260609T063000Z
 DTEND:20260609T083000Z
 SUMMARY:Japan – South Africa 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-LOCATION:J-GREEN Sakai
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542896.ht
+LOCATION:J-GREEN Sakai\, Osaka
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539392.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

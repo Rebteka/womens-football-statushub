@@ -285,33 +285,51 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1626970.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638408@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:PSV/Eindhoven – Fortuna Hjørring
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638408.ht
+UID:fixture-1638400@anstoss
+DTSTAMP:20260923T100000Z
+SEQUENCE:1
+DTSTART:20260923T100000Z
+DTEND:20260923T120000Z
+SUMMARY:Metalist 1925 – Torreense
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638396@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:Ajax – Aktobe
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638396.ht
+UID:fixture-1638407@anstoss
+DTSTAMP:20260923T130000Z
+SEQUENCE:1
+DTSTART:20260923T130000Z
+DTEND:20260923T150000Z
+SUMMARY:PAOK – Spartak Myjava
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638407.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638410@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:St. Pölten – Malmö FF
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638410.ht
+UID:fixture-1638405@anstoss
+DTSTAMP:20260923T150000Z
+SEQUENCE:1
+DTSTART:20260923T150000Z
+DTEND:20260923T170000Z
+SUMMARY:Slovan Liberec – Rosenborg
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638404@anstoss
+DTSTAMP:20260923T153000Z
+SEQUENCE:1
+DTSTART:20260923T153000Z
+DTEND:20260923T173000Z
+SUMMARY:HJK – SK Brann
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638404.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -345,16 +363,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638397.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638407@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:PAOK – Spartak Myjava
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638407.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1638409@anstoss
 DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
@@ -362,26 +370,6 @@ DTEND:20260923T180000Z
 SUMMARY:Sparta Praha – Farul Constanţa
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638409.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1638404@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:HJK – SK Brann
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638404.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1638405@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:Slovan Liberec – Rosenborg
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -395,43 +383,15 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638399.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638402@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:Hammarby – Rangers
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638402.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1638401@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:Feyenoord – Vålerenga
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638401.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1638403@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:Hearts – Real Sociedad
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638403.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1638400@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
-SUMMARY:Metalist 1925 – Torreense
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
+UID:fixture-1638410@anstoss
+DTSTAMP:20260923T164500Z
+SEQUENCE:1
+DTSTART:20260923T164500Z
+DTEND:20260923T184500Z
+SUMMARY:St. Pölten – Malmö FF
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638410.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -442,6 +402,66 @@ DTEND:20260923T190000Z
 SUMMARY:VfL Wolfsburg – Sturm Graz
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638411.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638408@anstoss
+DTSTAMP:20260923T170000Z
+SEQUENCE:1
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:PSV/Eindhoven – Fortuna Hjørring
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638408.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638402@anstoss
+DTSTAMP:20260923T170000Z
+SEQUENCE:1
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Hammarby – Rangers
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638402.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638401@anstoss
+DTSTAMP:20260923T170000Z
+SEQUENCE:1
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Feyenoord – Vålerenga
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638401.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638396@anstoss
+DTSTAMP:20260923T173000Z
+SEQUENCE:1
+DTSTART:20260923T173000Z
+DTEND:20260923T193000Z
+SUMMARY:Ajax – Aktobe
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638396.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1638403@anstoss
+DTSTAMP:20260923T180000Z
+SEQUENCE:1
+DTSTART:20260923T180000Z
+DTEND:20260923T200000Z
+SUMMARY:Hearts – Real Sociedad
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638403.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

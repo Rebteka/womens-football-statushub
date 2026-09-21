@@ -230,11 +230,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495391.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638404@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
+DTSTAMP:20260923T153000Z
+SEQUENCE:1
+DTSTART:20260923T153000Z
+DTEND:20260923T173000Z
 SUMMARY:HJK – SK Brann
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638404.ht
  ml
 END:VEVENT

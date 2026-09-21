@@ -233,17 +233,18 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1514114.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1514115@anstoss
-DTSTAMP:20260418T010000Z
-DTSTART:20260418T010000Z
-DTEND:20260418T030000Z
-SUMMARY:USA – Japan 3:0
+DTSTAMP:20260415T020000Z
+DTSTART:20260415T020000Z
+DTEND:20260415T040000Z
+SUMMARY:USA – Japan 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
+LOCATION:Lumen Field
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1514115.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542895@anstoss
+UID:fixture-1542897@anstoss
 DTSTAMP:20260606T213000Z
 DTSTART:20260606T213000Z
 DTEND:20260606T233000Z
@@ -251,18 +252,19 @@ SUMMARY:Brasilien – USA 2:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Neo Quimica Arena\, Sao Paulo
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542897@anstoss
+UID:fixture-1542895@anstoss
 DTSTAMP:20260610T003000Z
 DTSTART:20260610T003000Z
 DTEND:20260610T023000Z
 SUMMARY:Brasilien – USA 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
+LOCATION:Neo Quimica Arena\, Fortaleza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

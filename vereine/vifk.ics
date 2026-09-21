@@ -207,12 +207,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612504@anstoss
 DTSTAMP:20260920T130000Z
-SEQUENCE:1
 DTSTART:20260920T130000Z
 DTEND:20260920T150000Z
-SUMMARY:VIFK – HJS Akatemia
-DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag · Ne
- uer Termin (vorher 20.09. 15:00)
+SUMMARY:VIFK – HJS Akatemia 3:4
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612504.ht
  ml
 END:VEVENT

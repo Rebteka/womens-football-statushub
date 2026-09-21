@@ -966,7 +966,7 @@ DTSTART:20260922T164500Z
 DTEND:20260922T184500Z
 SUMMARY:Inter Mailand – Häcken
 DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
-LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
+LOCATION:Felice Chinetti Stadium\, Varese
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638309.ht
  ml
 END:VEVENT
@@ -977,7 +977,7 @@ DTSTART:20260922T190000Z
 DTEND:20260922T210000Z
 SUMMARY:Arsenal – Køge
 DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
-LOCATION:Emirates Stadium\, London
+LOCATION:Meadow Park\, Borehamwood
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638288.ht
  ml
 END:VEVENT
@@ -988,7 +988,7 @@ DTSTART:20260922T190000Z
 DTEND:20260922T210000Z
 SUMMARY:Juventus – SL Benfica
 DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
-LOCATION:Stadio Vittorio Pozzo\, Biella
+LOCATION:Juventus Center\, Turin
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638310.ht
  ml
 END:VEVENT
@@ -999,6 +999,7 @@ DTSTART:20260922T190000Z
 DTEND:20260922T210000Z
 SUMMARY:Real Madrid – Paris Saint Germain
 DESCRIPTION:UEFA Women's Champions League · Ligaphase · 1. Spieltag
+LOCATION:Ciudad Real Madrid\, Madrid
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638331.ht
  ml
 END:VEVENT

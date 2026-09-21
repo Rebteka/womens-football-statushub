@@ -932,8 +932,9 @@ UID:fixture-1612474@anstoss
 DTSTAMP:20260917T160000Z
 DTSTART:20260917T160000Z
 DTEND:20260917T180000Z
-SUMMARY:PK-35 Vantaa – JyPK
+SUMMARY:PK-35 Vantaa – JyPK 6:0
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+LOCATION:Myyrmaaen jalkapallostadion\, Vantaa
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612474.ht
  ml
 END:VEVENT
@@ -942,7 +943,7 @@ UID:fixture-1612475@anstoss
 DTSTAMP:20260919T110000Z
 DTSTART:20260919T110000Z
 DTEND:20260919T130000Z
-SUMMARY:KuPS – HPS
+SUMMARY:KuPS – HPS 0:0
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
 LOCATION:Savon Sanomat Areena\, Kuopio
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612475.ht
@@ -953,7 +954,7 @@ UID:fixture-1612476@anstoss
 DTSTAMP:20260919T120000Z
 DTSTART:20260919T120000Z
 DTEND:20260919T140000Z
-SUMMARY:Ilves – Åland United
+SUMMARY:Ilves – Åland United 2:3
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
 LOCATION:Kaupin urheilupuisto\, Tampere
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612476.ht
@@ -964,7 +965,7 @@ UID:fixture-1612477@anstoss
 DTSTAMP:20260919T150000Z
 DTSTART:20260919T150000Z
 DTEND:20260919T170000Z
-SUMMARY:HJK – IF Gnistan
+SUMMARY:HJK – IF Gnistan 6:1
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 6. Spieltag
 LOCATION:Bolt Arena\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612477.ht
@@ -973,12 +974,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612504@anstoss
 DTSTAMP:20260920T130000Z
-SEQUENCE:1
 DTSTART:20260920T130000Z
 DTEND:20260920T150000Z
-SUMMARY:VIFK – HJS Akatemia
-DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag · Ne
- uer Termin (vorher 20.09. 15:00)
+SUMMARY:VIFK – HJS Akatemia 3:4
+DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612504.ht
  ml
 END:VEVENT
@@ -987,17 +986,18 @@ UID:fixture-1612505@anstoss
 DTSTAMP:20260920T153000Z
 DTSTART:20260920T153000Z
 DTEND:20260920T173000Z
-SUMMARY:Honka – EBK
+SUMMARY:Honka – EBK 1:1
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+LOCATION:Tapiolan Urheilupuisto\, Espoo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612505.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612478@anstoss
-DTSTAMP:20260926T093000Z
+DTSTAMP:20260926T100000Z
 SEQUENCE:1
-DTSTART:20260926T093000Z
-DTEND:20260926T113000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
 SUMMARY:IF Gnistan – Ilves
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag · 
  Neuer Termin (vorher 26.09. 12:00)

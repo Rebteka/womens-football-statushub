@@ -65,8 +65,9 @@ UID:fixture-1612505@anstoss
 DTSTAMP:20260920T153000Z
 DTSTART:20260920T153000Z
 DTEND:20260920T173000Z
-SUMMARY:Honka – EBK
+SUMMARY:Honka – EBK 1:1
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 6. Spieltag
+LOCATION:Tapiolan Urheilupuisto\, Espoo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612505.ht
  ml
 END:VEVENT

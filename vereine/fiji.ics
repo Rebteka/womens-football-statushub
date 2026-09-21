@@ -63,25 +63,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1530894.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1548459@anstoss
+UID:fixture-1546833@anstoss
 DTSTAMP:20260603T080000Z
 DTSTART:20260603T080000Z
 DTEND:20260603T100000Z
 SUMMARY:Hong Kong – Fiji 3:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1548459.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546833.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1546833@anstoss
+UID:fixture-1548459@anstoss
 DTSTAMP:20260606T100000Z
 DTSTART:20260606T100000Z
 DTEND:20260606T120000Z
 SUMMARY:Hong Kong – Fiji 3:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1546833.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548459.ht
  ml
 END:VEVENT
 END:VCALENDAR

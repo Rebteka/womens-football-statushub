@@ -42,40 +42,41 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1526974.ht
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540260@anstoss
+UID:fixture-1540262@anstoss
 DTSTAMP:20260414T123000Z
 DTSTART:20260414T123000Z
 DTEND:20260414T143000Z
 SUMMARY:Russland – Russia U19 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540260.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540262.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540262@anstoss
+UID:fixture-1540260@anstoss
 DTSTAMP:20260417T123000Z
 DTSTART:20260417T123000Z
 DTEND:20260417T143000Z
 SUMMARY:Russland – Russia U19 0:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540262.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540260.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1545734@anstoss
+UID:fixture-1545739@anstoss
 DTSTAMP:20260603T113500Z
 DTSTART:20260603T113500Z
 DTEND:20260603T133500Z
 SUMMARY:China – Russland 1:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1545734.ht
+LOCATION:Tazi Lake Football Training Centre\, Wuhan
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545739.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1545739@anstoss
+UID:fixture-1545734@anstoss
 DTSTAMP:20260607T110000Z
 DTSTART:20260607T110000Z
 DTEND:20260607T130000Z
@@ -83,7 +84,7 @@ SUMMARY:China – Russland 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Tazi Lake Football Training Centre\, Wuhan
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1545739.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1545734.ht
  ml
 END:VEVENT
 END:VCALENDAR

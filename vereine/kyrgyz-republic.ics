@@ -75,47 +75,47 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1372418.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1529308@anstoss
+UID:fixture-1529318@anstoss
 DTSTAMP:20260302T190000Z
 DTSTART:20260302T190000Z
 DTEND:20260302T210000Z
 SUMMARY:Saudi-Arabien – Kyrgyz Republic 2:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1529308.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529318.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1529318@anstoss
+UID:fixture-1529308@anstoss
 DTSTAMP:20260306T190000Z
 DTSTART:20260306T190000Z
 DTEND:20260306T210000Z
 SUMMARY:Saudi-Arabien – Kyrgyz Republic 3:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1529318.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529308.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1550870@anstoss
+UID:fixture-1550867@anstoss
 DTSTAMP:20260604T160000Z
 DTSTART:20260604T160000Z
 DTEND:20260604T180000Z
 SUMMARY:Bahrain – Kyrgyz Republic 0:5
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1550870.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550867.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1550867@anstoss
+UID:fixture-1550870@anstoss
 DTSTAMP:20260607T160000Z
 DTSTART:20260607T160000Z
 DTEND:20260607T180000Z
 SUMMARY:Bahrain – Kyrgyz Republic 0:4
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1550867.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550870.ht
  ml
 END:VEVENT
 END:VCALENDAR

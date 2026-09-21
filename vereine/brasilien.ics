@@ -310,7 +310,7 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1526991.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542895@anstoss
+UID:fixture-1542897@anstoss
 DTSTAMP:20260606T213000Z
 DTSTART:20260606T213000Z
 DTEND:20260606T233000Z
@@ -318,18 +318,19 @@ SUMMARY:Brasilien – USA 2:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Neo Quimica Arena\, Sao Paulo
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542897@anstoss
+UID:fixture-1542895@anstoss
 DTSTAMP:20260610T003000Z
 DTSTART:20260610T003000Z
 DTEND:20260610T023000Z
 SUMMARY:Brasilien – USA 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
+LOCATION:Neo Quimica Arena\, Fortaleza
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
  ml
 END:VEVENT
 END:VCALENDAR

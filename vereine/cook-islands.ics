@@ -28,25 +28,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1526389.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1550868@anstoss
+UID:fixture-1583656@anstoss
 DTSTAMP:20260603T230000Z
 DTSTART:20260603T230000Z
 DTEND:20260604T010000Z
 SUMMARY:Cook Islands – Afghanistan 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1550868.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583656.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1583656@anstoss
+UID:fixture-1550868@anstoss
 DTSTAMP:20260607T230000Z
 DTSTART:20260607T230000Z
 DTEND:20260608T010000Z
 SUMMARY:Cook Islands – Afghanistan 3:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1583656.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550868.ht
  ml
 END:VEVENT
 END:VCALENDAR

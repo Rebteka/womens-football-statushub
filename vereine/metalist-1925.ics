@@ -68,11 +68,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1626964.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638400@anstoss
-DTSTAMP:20260923T160000Z
-DTSTART:20260923T160000Z
-DTEND:20260923T180000Z
+DTSTAMP:20260923T100000Z
+SEQUENCE:1
+DTSTART:20260923T100000Z
+DTEND:20260923T120000Z
 SUMMARY:Metalist 1925 – Torreense
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 23.09. 18:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
  ml
 END:VEVENT

@@ -41,25 +41,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1529315.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540260@anstoss
+UID:fixture-1540262@anstoss
 DTSTAMP:20260414T123000Z
 DTSTART:20260414T123000Z
 DTEND:20260414T143000Z
 SUMMARY:Russland – Russia U19 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540260.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540262.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540262@anstoss
+UID:fixture-1540260@anstoss
 DTSTAMP:20260417T123000Z
 DTSTART:20260417T123000Z
 DTEND:20260417T143000Z
 SUMMARY:Russland – Russia U19 0:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540262.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540260.ht
  ml
 END:VEVENT
 END:VCALENDAR

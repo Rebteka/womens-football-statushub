@@ -260,6 +260,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566662.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1566606@anstoss
+DTSTAMP:20260919T123000Z
+DTSTART:20260919T123000Z
+DTEND:20260919T143000Z
+SUMMARY:Dukla Banská Bystrica – Spartak Trnava 0:1
+DESCRIPTION:I Liga - Women · 6. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566606.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1566607@anstoss
 DTSTAMP:20260919T123000Z
 DTSTART:20260919T123000Z
@@ -267,16 +277,6 @@ DTEND:20260919T143000Z
 SUMMARY:Tatran Prešov – Petržalka 7:0
 DESCRIPTION:I Liga - Women · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566607.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1566606@anstoss
-DTSTAMP:20260919T123000Z
-DTSTART:20260919T123000Z
-DTEND:20260919T143000Z
-SUMMARY:Dukla Banská Bystrica – Spartak Trnava
-DESCRIPTION:I Liga - Women · 6. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1566606.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -294,7 +294,7 @@ UID:fixture-1566663@anstoss
 DTSTAMP:20260919T130000Z
 DTSTART:20260919T130000Z
 DTEND:20260919T150000Z
-SUMMARY:Z. Moravce-Vrable – Trenčín
+SUMMARY:Z. Moravce-Vrable – Trenčín 2:1
 DESCRIPTION:I Liga - Women · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566663.ht
  ml
@@ -304,7 +304,7 @@ UID:fixture-1566609@anstoss
 DTSTAMP:20260919T160000Z
 DTSTART:20260919T160000Z
 DTEND:20260919T180000Z
-SUMMARY:Spartak Myjava – Komárno
+SUMMARY:Spartak Myjava – Komárno 8:0
 DESCRIPTION:I Liga - Women · 6. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566609.ht
  ml

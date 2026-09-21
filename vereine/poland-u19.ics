@@ -8,25 +8,25 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1525764@anstoss
+UID:fixture-1525765@anstoss
 DTSTAMP:20260304T133000Z
 DTSTART:20260304T133000Z
 DTEND:20260304T153000Z
 SUMMARY:Italy U19 – Poland U19 0:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1525764.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525765.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1525765@anstoss
+UID:fixture-1525764@anstoss
 DTSTAMP:20260307T100000Z
 DTSTART:20260307T100000Z
 DTEND:20260307T120000Z
 SUMMARY:Italy U19 – Poland U19 0:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1525765.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525764.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

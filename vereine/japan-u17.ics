@@ -41,25 +41,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1512644.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1583657@anstoss
+UID:fixture-1583658@anstoss
 DTSTAMP:20260703T080000Z
 DTSTART:20260703T080000Z
 DTEND:20260703T100000Z
 SUMMARY:Japan U17 – United States W U17 5:3
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1583657.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583658.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1583658@anstoss
+UID:fixture-1583657@anstoss
 DTSTAMP:20260706T080000Z
 DTSTART:20260706T080000Z
 DTEND:20260706T100000Z
 SUMMARY:Japan U17 – United States W U17 2:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1583658.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583657.ht
  ml
 END:VEVENT
 END:VCALENDAR
