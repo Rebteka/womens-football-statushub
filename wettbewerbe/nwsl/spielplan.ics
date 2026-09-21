@@ -2175,11 +2175,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1508553@anstoss
 DTSTAMP:20260920T210500Z
-SEQUENCE:1
 DTSTART:20260920T210500Z
 DTEND:20260920T230500Z
-SUMMARY:Chicago Red Stars – Washington Spirit
-DESCRIPTION:NWSL · Gruppenphase · Neuer Termin (vorher 20.09. 23:00)
+SUMMARY:Chicago Red Stars – Washington Spirit 0:3
+DESCRIPTION:NWSL · Gruppenphase
 LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, IL
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508553.ht
  ml
@@ -2190,8 +2189,8 @@ DTSTAMP:20260920T230500Z
 SEQUENCE:1
 DTSTART:20260920T230500Z
 DTEND:20260921T010500Z
-SUMMARY:Utah Royals – Angel City
-DESCRIPTION:NWSL · Gruppenphase · Neuer Termin (vorher 21.09. 01:00)
+SUMMARY:Utah Royals – Angel City 0:3
+DESCRIPTION:NWSL · Gruppenphase
 LOCATION:Rio Tinto Stadium\, Sandy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508555.ht
  ml
@@ -2202,8 +2201,8 @@ DTSTAMP:20260920T230500Z
 SEQUENCE:1
 DTSTART:20260920T230500Z
 DTEND:20260921T010500Z
-SUMMARY:Bay FC – Racing Louisville
-DESCRIPTION:NWSL · Gruppenphase · Neuer Termin (vorher 21.09. 01:00)
+SUMMARY:Bay FC – Racing Louisville 2:0
+DESCRIPTION:NWSL · Gruppenphase
 LOCATION:Avaya Stadium\, San Jose
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508554.ht
  ml
