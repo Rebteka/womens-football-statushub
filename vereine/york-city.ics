@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Anstoss//Frauenfussball//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:York City LFC
+X-WR-CALNAME:York City
 X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
@@ -12,7 +12,7 @@ UID:fixture-1483391@anstoss
 DTSTAMP:20251026T140000Z
 DTSTART:20251026T140000Z
 DTEND:20251026T160000Z
-SUMMARY:York City LFC – Leeds Modernians 1:0
+SUMMARY:York City – Leeds Modernians 1:0
 DESCRIPTION:FA Cup · 1st Round
 LOCATION:LNER Community Stadium\, York
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483391.ht
@@ -23,7 +23,7 @@ UID:fixture-1487293@anstoss
 DTSTAMP:20251123T140000Z
 DTSTART:20251123T140000Z
 DTEND:20251123T160000Z
-SUMMARY:York City LFC – Wroxham 3:1
+SUMMARY:York City – Wroxham 3:1
 DESCRIPTION:FA Cup · 2nd Round
 LOCATION:LNER Community Stadium\, York
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1487293.ht
@@ -34,7 +34,7 @@ UID:fixture-1488468@anstoss
 DTSTAMP:20251214T140000Z
 DTSTART:20251214T140000Z
 DTEND:20251214T160000Z
-SUMMARY:Altrincham – York City LFC 0:3
+SUMMARY:Altrincham – York City 0:3
 DESCRIPTION:FA Cup · 3rd Round
 LOCATION:Moss Lane\, Altrincham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1488468.ht
@@ -45,7 +45,7 @@ UID:fixture-1501253@anstoss
 DTSTAMP:20260118T130000Z
 DTSTART:20260118T130000Z
 DTEND:20260118T150000Z
-SUMMARY:Chatham Town – York City LFC 3:0
+SUMMARY:Chatham Town – York City 3:0
 DESCRIPTION:FA Cup · Round 4
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501253.ht
  ml
