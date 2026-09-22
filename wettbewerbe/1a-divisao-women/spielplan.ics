@@ -106,12 +106,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610887@anstoss
 DTSTAMP:20260921T170000Z
-SEQUENCE:1
 DTSTART:20260921T170000Z
 DTEND:20260921T190000Z
-SUMMARY:Porto – Sporting Braga
-DESCRIPTION:1a Divisão - Women · 2. Spieltag · Neuer Termin (vorher 21
- .09. 21:30)
+SUMMARY:Porto – Sporting Braga 1:1
+DESCRIPTION:1a Divisão - Women · 2. Spieltag
 LOCATION:Estadio Luis Filipe Menezes\, Vila Nova de Gaia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610887.ht
  ml
