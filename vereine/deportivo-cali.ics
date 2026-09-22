@@ -333,4 +333,25 @@ LOCATION:Estadio Deportivo Cali\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639893.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641153@anstoss
+DTSTAMP:20260924T000000Z
+DTSTART:20260924T000000Z
+DTEND:20260924T020000Z
+SUMMARY:Santa Fe – Deportivo Cali
+DESCRIPTION:Liga Femenina · Finale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641154@anstoss
+DTSTAMP:20260926T230000Z
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:Deportivo Cali – Santa Fe
+DESCRIPTION:Liga Femenina · Finale
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641154.ht
+ ml
+END:VEVENT
 END:VCALENDAR
