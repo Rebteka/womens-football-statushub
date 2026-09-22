@@ -342,4 +342,26 @@ DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628978.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641089@anstoss
+DTSTAMP:20261129T045500Z
+DTSTART:20261129T045500Z
+DTEND:20261129T065500Z
+SUMMARY:Japan – Brasilien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641091@anstoss
+DTSTAMP:20261205T060000Z
+DTSTART:20261205T060000Z
+DTEND:20261205T080000Z
+SUMMARY:Japan – Brasilien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641091.ht
+ ml
+END:VEVENT
 END:VCALENDAR

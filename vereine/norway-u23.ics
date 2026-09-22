@@ -62,4 +62,15 @@ DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1548470.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641086@anstoss
+DTSTAMP:20261012T183000Z
+DTSTART:20261012T183000Z
+DTEND:20261012T203000Z
+SUMMARY:England U23 – Norway U23
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641086.ht
+ ml
+END:VEVENT
 END:VCALENDAR

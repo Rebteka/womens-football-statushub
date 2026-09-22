@@ -51,4 +51,15 @@ DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540802.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641090@anstoss
+DTSTAMP:20261130T160000Z
+DTSTART:20261130T160000Z
+DTEND:20261130T180000Z
+SUMMARY:England U23 – Belgium U23
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641090.ht
+ ml
+END:VEVENT
 END:VCALENDAR

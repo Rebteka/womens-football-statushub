@@ -333,4 +333,48 @@ LOCATION:Neo Quimica Arena\, Fortaleza
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641085@anstoss
+DTSTAMP:20261010T193000Z
+DTSTART:20261010T193000Z
+DTEND:20261010T213000Z
+SUMMARY:Brasilien – Argentina
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641085.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641088@anstoss
+DTSTAMP:20261013T233000Z
+DTSTART:20261013T233000Z
+DTEND:20261014T013000Z
+SUMMARY:Brasilien – Argentina
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641088.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641089@anstoss
+DTSTAMP:20261129T045500Z
+DTSTART:20261129T045500Z
+DTEND:20261129T065500Z
+SUMMARY:Japan – Brasilien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641091@anstoss
+DTSTAMP:20261205T060000Z
+DTSTART:20261205T060000Z
+DTEND:20261205T080000Z
+SUMMARY:Japan – Brasilien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641091.ht
+ ml
+END:VEVENT
 END:VCALENDAR

@@ -51,4 +51,26 @@ DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540591.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641080@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Botswana – Namibia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641080.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641083@anstoss
+DTSTAMP:20260930T120000Z
+DTSTART:20260930T120000Z
+DTEND:20260930T140000Z
+SUMMARY:Botswana – Namibia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641083.ht
+ ml
+END:VEVENT
 END:VCALENDAR

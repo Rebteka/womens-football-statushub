@@ -62,4 +62,37 @@ DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1540593.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641076@anstoss
+DTSTAMP:20260923T040000Z
+DTSTART:20260923T040000Z
+DTEND:20260923T060000Z
+SUMMARY:Vanuatu – New Caledonia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641078@anstoss
+DTSTAMP:20260926T040000Z
+DTSTART:20260926T040000Z
+DTEND:20260926T060000Z
+SUMMARY:New Caledonia – Solomon Islands
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641078.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641082@anstoss
+DTSTAMP:20260929T070000Z
+DTSTART:20260929T070000Z
+DTEND:20260929T090000Z
+SUMMARY:Fiji – New Caledonia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641082.ht
+ ml
+END:VEVENT
 END:VCALENDAR

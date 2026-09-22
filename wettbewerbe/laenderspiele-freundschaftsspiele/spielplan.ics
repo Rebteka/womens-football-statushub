@@ -3721,6 +3721,94 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1640024.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641076@anstoss
+DTSTAMP:20260923T040000Z
+DTSTART:20260923T040000Z
+DTEND:20260923T060000Z
+SUMMARY:Vanuatu – New Caledonia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641076.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641077@anstoss
+DTSTAMP:20260923T070000Z
+DTSTART:20260923T070000Z
+DTEND:20260923T090000Z
+SUMMARY:Fiji – Solomon Islands
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641077.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641078@anstoss
+DTSTAMP:20260926T040000Z
+DTSTART:20260926T040000Z
+DTEND:20260926T060000Z
+SUMMARY:New Caledonia – Solomon Islands
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641078.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641079@anstoss
+DTSTAMP:20260926T070000Z
+DTSTART:20260926T070000Z
+DTEND:20260926T090000Z
+SUMMARY:Papua New Guinea – Vanuatu
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641079.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641080@anstoss
+DTSTAMP:20260926T120000Z
+DTSTART:20260926T120000Z
+DTEND:20260926T140000Z
+SUMMARY:Botswana – Namibia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641080.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641081@anstoss
+DTSTAMP:20260929T040000Z
+DTSTART:20260929T040000Z
+DTEND:20260929T060000Z
+SUMMARY:Papua New Guinea – Solomon Islands
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641081.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641082@anstoss
+DTSTAMP:20260929T070000Z
+DTSTART:20260929T070000Z
+DTEND:20260929T090000Z
+SUMMARY:Fiji – New Caledonia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641082.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641083@anstoss
+DTSTAMP:20260930T120000Z
+DTSTART:20260930T120000Z
+DTEND:20260930T140000Z
+SUMMARY:Botswana – Namibia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641083.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1628975@anstoss
 DTSTAMP:20261007T120000Z
 SEQUENCE:1
@@ -3825,6 +3913,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1628977.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641084@anstoss
+DTSTAMP:20261010T013000Z
+DTSTART:20261010T013000Z
+DTEND:20261010T033000Z
+SUMMARY:Paraguay – El Salvador
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641084.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1638581@anstoss
 DTSTAMP:20261010T140000Z
 SEQUENCE:1
@@ -3871,6 +3970,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1628976.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641085@anstoss
+DTSTAMP:20261010T193000Z
+DTSTART:20261010T193000Z
+DTEND:20261010T213000Z
+SUMMARY:Brasilien – Argentina
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641085.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1640027@anstoss
 DTSTAMP:20261010T200000Z
 DTSTART:20261010T200000Z
@@ -3906,6 +4016,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638582.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641086@anstoss
+DTSTAMP:20261012T183000Z
+DTSTART:20261012T183000Z
+DTEND:20261012T203000Z
+SUMMARY:England U23 – Norway U23
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641086.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1628974@anstoss
 DTSTAMP:20261012T193000Z
 SEQUENCE:1
@@ -3915,6 +4036,17 @@ SUMMARY:Kanada – Dänemark
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women · Neuer Termin (vorher 10.10. 01:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1628974.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641087@anstoss
+DTSTAMP:20261013T020000Z
+DTSTART:20261013T020000Z
+DTEND:20261013T040000Z
+SUMMARY:Paraguay – El Salvador
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641087.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -3998,6 +4130,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641088@anstoss
+DTSTAMP:20261013T233000Z
+DTSTART:20261013T233000Z
+DTEND:20261014T013000Z
+SUMMARY:Brasilien – Argentina
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641088.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1638584@anstoss
 DTSTAMP:20261014T003000Z
 SEQUENCE:1
@@ -4029,6 +4172,39 @@ SUMMARY:San Marino – Liechtenstein
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1640031.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641089@anstoss
+DTSTAMP:20261129T045500Z
+DTSTART:20261129T045500Z
+DTEND:20261129T065500Z
+SUMMARY:Japan – Brasilien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641089.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641090@anstoss
+DTSTAMP:20261130T160000Z
+DTSTART:20261130T160000Z
+DTEND:20261130T180000Z
+SUMMARY:England U23 – Belgium U23
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641090.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641091@anstoss
+DTSTAMP:20261205T060000Z
+DTSTART:20261205T060000Z
+DTEND:20261205T080000Z
+SUMMARY:Japan – Brasilien
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641091.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

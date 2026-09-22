@@ -229,4 +229,26 @@ LOCATION:Estadio Defensores del Chaco
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1483046.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641084@anstoss
+DTSTAMP:20261010T013000Z
+DTSTART:20261010T013000Z
+DTEND:20261010T033000Z
+SUMMARY:Paraguay – El Salvador
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641084.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641087@anstoss
+DTSTAMP:20261013T020000Z
+DTSTART:20261013T020000Z
+DTEND:20261013T040000Z
+SUMMARY:Paraguay – El Salvador
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641087.ht
+ ml
+END:VEVENT
 END:VCALENDAR
