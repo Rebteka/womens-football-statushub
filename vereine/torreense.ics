@@ -80,13 +80,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638400@anstoss
 DTSTAMP:20260923T100000Z
-SEQUENCE:1
 DTSTART:20260923T100000Z
 DTEND:20260923T120000Z
-SUMMARY:Metalist 1925 – Torreense
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
- · Neuer Termin (vorher 23.09. 18:00)
-LOCATION:Stadion Olimpiets\, Lyubotyn
+SUMMARY:Metalist 1925 – Torreense 1:2
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+LOCATION:Zimbru\, Chisinau
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638400.ht
  ml
 END:VEVENT
@@ -113,32 +111,38 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638426.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610749@anstoss
-DTSTAMP:20261018T140000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T160000Z
+SEQUENCE:1
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
 SUMMARY:Sporting CP – Torreense
-DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Neuer Termin (vorher 18
+ .10. 16:00)
 LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610749.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610890@anstoss
-DTSTAMP:20261025T150000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T170000Z
+SEQUENCE:1
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
 SUMMARY:Sporting Braga – Torreense
-DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Neuer Termin (vorher 25
+ .10. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610890.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610755@anstoss
-DTSTAMP:20261101T150000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261102T181500Z
+SEQUENCE:1
+DTSTART:20261102T181500Z
+DTEND:20261102T201500Z
 SUMMARY:Torreense – SL Benfica
-DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Neuer Termin (vorher 01
+ .11. 16:00)
 LOCATION:Estadio Manuel Marques\, Torres Vedras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610755.ht
  ml
@@ -146,10 +150,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610759@anstoss
 DTSTAMP:20261122T150000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
 SUMMARY:Valadares Gaia – Torreense
-DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 7. Spieltag
 LOCATION:Estadio Dr. Jorge Sampaio\, Porto
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610759.ht
  ml

@@ -40,31 +40,35 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1610795.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610889@anstoss
-DTSTAMP:20261018T140000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T100000Z
+SEQUENCE:1
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
 SUMMARY:Racing Power – Sporting Braga
-DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Neuer Termin (vorher 18
+ .10. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610889.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610751@anstoss
 DTSTAMP:20261025T150000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
 SUMMARY:Racing Power – Rio Ave
-DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 5. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610751.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610756@anstoss
-DTSTAMP:20261101T150000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261031T150000Z
+SEQUENCE:1
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
 SUMMARY:Vitoria Guimaraes – Racing Power
-DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Neuer Termin (vorher 01
+ .11. 16:00)
 LOCATION:Academia Vitoria SC
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610756.ht
  ml
@@ -72,10 +76,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610757@anstoss
 DTSTAMP:20261122T150000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
 SUMMARY:Racing Power – Marítimo
-DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 7. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610757.ht
  ml
 END:VEVENT

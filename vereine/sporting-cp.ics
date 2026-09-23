@@ -85,44 +85,52 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638424.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610749@anstoss
-DTSTAMP:20261018T140000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T160000Z
+SEQUENCE:1
+DTSTART:20261018T160000Z
+DTEND:20261018T180000Z
 SUMMARY:Sporting CP – Torreense
-DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Neuer Termin (vorher 18
+ .10. 16:00)
 LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610749.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610752@anstoss
-DTSTAMP:20261025T150000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T143000Z
+SEQUENCE:1
+DTSTART:20261024T143000Z
+DTEND:20261024T163000Z
 SUMMARY:SL Benfica – Sporting CP
-DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Neuer Termin (vorher 25
+ .10. 16:00)
 LOCATION:Caixa Futebol Campus\, Seixal
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610752.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610754@anstoss
-DTSTAMP:20261101T150000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261101T173000Z
+SEQUENCE:1
+DTSTART:20261101T173000Z
+DTEND:20261101T193000Z
 SUMMARY:Sporting CP – Valadares Gaia
-DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Neuer Termin (vorher 01
+ .11. 16:00)
 LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610754.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610799@anstoss
-DTSTAMP:20261122T150000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261122T200000Z
+SEQUENCE:1
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
 SUMMARY:Porto – Sporting CP
-DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Neuer Termin (vorher 22
+ .11. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610799.ht
  ml
 END:VEVENT

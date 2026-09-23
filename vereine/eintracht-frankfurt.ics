@@ -71,7 +71,7 @@ DTSTART:20260902T163000Z
 DTEND:20260902T183000Z
 SUMMARY:Paris Saint Germain – Eintracht Frankfurt 5:1
 DESCRIPTION:UEFA Women's Champions League · 3. Qualifikationsrunde
-LOCATION:Paris Saint-Germain Training Center\, Poissy
+LOCATION:Campus PSG\, Poissy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623471.ht
  ml
 END:VEVENT
@@ -132,7 +132,7 @@ UID:fixture-1638418@anstoss
 DTSTAMP:20260930T160000Z
 DTSTART:20260930T160000Z
 DTEND:20260930T180000Z
-SUMMARY:FH – Eintracht Frankfurt
+SUMMARY:Eintracht Frankfurt – FH
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638418.ht
  ml

@@ -41,42 +41,46 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1610746.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610748@anstoss
-DTSTAMP:20261018T140000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T100000Z
+SEQUENCE:1
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Marítimo – SL Benfica
-DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Neuer Termin (vorher 18
+ .10. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610748.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610753@anstoss
 DTSTAMP:20261025T150000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
 SUMMARY:Valadares Gaia – Marítimo
-DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 5. Spieltag
 LOCATION:Estadio Dr. Jorge Sampaio\, Porto
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610753.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610798@anstoss
-DTSTAMP:20261101T150000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261101T110000Z
+SEQUENCE:1
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
 SUMMARY:Marítimo – Porto
-DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Neuer Termin (vorher 01
+ .11. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610798.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610757@anstoss
 DTSTAMP:20261122T150000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
 SUMMARY:Racing Power – Marítimo
-DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 7. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610757.ht
  ml
 END:VEVENT

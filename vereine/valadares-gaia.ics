@@ -41,11 +41,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1610747.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610750@anstoss
-DTSTAMP:20261018T140000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T140000Z
+SEQUENCE:1
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
 SUMMARY:Vitoria Guimaraes – Valadares Gaia
-DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Neuer Termin (vorher 18
+ .10. 16:00)
 LOCATION:Academia Vitoria SC
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610750.ht
  ml
@@ -53,21 +55,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610753@anstoss
 DTSTAMP:20261025T150000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
 SUMMARY:Valadares Gaia – Marítimo
-DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 5. Spieltag
 LOCATION:Estadio Dr. Jorge Sampaio\, Porto
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610753.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610754@anstoss
-DTSTAMP:20261101T150000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261101T173000Z
+SEQUENCE:1
+DTSTART:20261101T173000Z
+DTEND:20261101T193000Z
 SUMMARY:Sporting CP – Valadares Gaia
-DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Neuer Termin (vorher 01
+ .11. 16:00)
 LOCATION:CGD Stadium Aurelio Pereira\, Alcochete
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610754.ht
  ml
@@ -75,10 +79,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610759@anstoss
 DTSTAMP:20261122T150000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
 SUMMARY:Valadares Gaia – Torreense
-DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 7. Spieltag
 LOCATION:Estadio Dr. Jorge Sampaio\, Porto
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610759.ht
  ml

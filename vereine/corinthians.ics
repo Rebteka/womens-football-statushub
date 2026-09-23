@@ -270,11 +270,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638747.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1641144@anstoss
-DTSTAMP:20260927T200000Z
-DTSTART:20260927T200000Z
-DTEND:20260927T220000Z
+DTSTAMP:20260926T193000Z
+SEQUENCE:1
+DTSTART:20260926T193000Z
+DTEND:20260926T213000Z
 SUMMARY:Corinthians – São Paulo
-DESCRIPTION:Brasileiro Women · Finale
+DESCRIPTION:Brasileiro Women · Finale · Neuer Termin (vorher 27.09. 22:
+ 00)
 LOCATION:Neo Quimica Arena\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1641144.ht
  ml

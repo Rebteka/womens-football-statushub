@@ -52,21 +52,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638337.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610748@anstoss
-DTSTAMP:20261018T140000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T100000Z
+SEQUENCE:1
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
 SUMMARY:Marítimo – SL Benfica
-DESCRIPTION:1a Divisão - Women · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 4. Spieltag · Neuer Termin (vorher 18
+ .10. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610748.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610752@anstoss
-DTSTAMP:20261025T150000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T143000Z
+SEQUENCE:1
+DTSTART:20261024T143000Z
+DTEND:20261024T163000Z
 SUMMARY:SL Benfica – Sporting CP
-DESCRIPTION:1a Divisão - Women · 5. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 5. Spieltag · Neuer Termin (vorher 25
+ .10. 16:00)
 LOCATION:Caixa Futebol Campus\, Seixal
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610752.ht
  ml
@@ -84,11 +88,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638287.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610755@anstoss
-DTSTAMP:20261101T150000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261102T181500Z
+SEQUENCE:1
+DTSTART:20261102T181500Z
+DTEND:20261102T201500Z
 SUMMARY:Torreense – SL Benfica
-DESCRIPTION:1a Divisão - Women · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 6. Spieltag · Neuer Termin (vorher 01
+ .11. 16:00)
 LOCATION:Estadio Manuel Marques\, Torres Vedras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610755.ht
  ml
@@ -117,11 +123,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638338.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1610892@anstoss
-DTSTAMP:20261122T150000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261123T190000Z
+SEQUENCE:1
+DTSTART:20261123T190000Z
+DTEND:20261123T210000Z
 SUMMARY:Sporting Braga – SL Benfica
-DESCRIPTION:1a Divisão - Women · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:1a Divisão - Women · 7. Spieltag · Neuer Termin (vorher 22
+ .11. 16:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1610892.ht
  ml
 END:VEVENT
