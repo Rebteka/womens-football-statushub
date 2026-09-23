@@ -478,6 +478,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1607143.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1607022@anstoss
+DTSTAMP:20260920T120000Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:FC Ingolstadt 04 – Borussia Mönchengladbach 0:0
+DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1607022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1607019@anstoss
 DTSTAMP:20260920T120000Z
 DTSTART:20260920T120000Z
@@ -505,16 +515,6 @@ DTEND:20260920T140000Z
 SUMMARY:TSG Hoffenheim II – 1. FFC Turbine Potsdam 4:0
 DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607021.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1607022@anstoss
-DTSTAMP:20260920T120000Z
-DTSTART:20260920T120000Z
-DTEND:20260920T140000Z
-SUMMARY:FC Ingolstadt 04 – Borussia Mönchengladbach
-DESCRIPTION:2. Frauen-Bundesliga · 7. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1607022.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

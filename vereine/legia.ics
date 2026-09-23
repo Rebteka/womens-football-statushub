@@ -72,11 +72,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581714.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581721@anstoss
-DTSTAMP:20261003T150000Z
-DTSTART:20261003T150000Z
-DTEND:20261003T170000Z
+DTSTAMP:20261004T150000Z
+SEQUENCE:1
+DTSTART:20261004T150000Z
+DTEND:20261004T170000Z
 SUMMARY:Legia – UKS Łódź
-DESCRIPTION:Ekstraliga Women · 7. Spieltag
+DESCRIPTION:Ekstraliga Women · 7. Spieltag · Neuer Termin (vorher 03.10
+ . 17:00)
 LOCATION:Stadion Wojska Polskiego\, Warsaw
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581721.ht
  ml

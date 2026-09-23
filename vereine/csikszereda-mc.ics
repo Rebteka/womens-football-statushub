@@ -117,11 +117,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1623501.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623505@anstoss
-DTSTAMP:20261021T080000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
+DTSTAMP:20261021T100000Z
+SEQUENCE:1
+DTSTART:20261021T100000Z
+DTEND:20261021T120000Z
 SUMMARY:Csikszereda MC – Gloria Bistrița-Năsăud
-DESCRIPTION:Liga 1 Feminin · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 8. Spieltag · Neuer Termin (vorher 21.10. 
+ 10:00)
 LOCATION:Stadionul Municipal\, Miercurea Ciuc
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623505.ht
  ml
@@ -129,64 +131,74 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623511@anstoss
 DTSTAMP:20261025T090000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T090000Z
+DTEND:20261025T110000Z
 SUMMARY:Univ. Craiova – Csikszereda MC
-DESCRIPTION:Liga 1 Feminin · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 9. Spieltag
 LOCATION:Stadionul Ion Oblemenco\, Craiova
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623511.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623513@anstoss
-DTSTAMP:20261101T090000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261031T110000Z
+SEQUENCE:1
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:Csikszereda MC – Olimpia Cluj
-DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Neuer Termin (vorher 01.11.
+  10:00)
 LOCATION:Stadionul Municipal\, Miercurea Ciuc
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623513.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623517@anstoss
-DTSTAMP:20261108T090000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261107T110000Z
+SEQUENCE:1
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Csikszereda MC – FC Rapid Bucuresti
-DESCRIPTION:Liga 1 Feminin · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 11. Spieltag · Neuer Termin (vorher 08.11.
+  10:00)
 LOCATION:Stadionul Municipal\, Miercurea Ciuc
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623517.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623523@anstoss
-DTSTAMP:20261115T090000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T110000Z
+SEQUENCE:1
+DTSTART:20261115T110000Z
+DTEND:20261115T130000Z
 SUMMARY:SSU Poli Timişoara – Csikszereda MC
-DESCRIPTION:Liga 1 Feminin · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 12. Spieltag · Neuer Termin (vorher 15.11.
+  10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623523.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623525@anstoss
-DTSTAMP:20261122T090000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261122T110000Z
+SEQUENCE:1
+DTSTART:20261122T110000Z
+DTEND:20261122T130000Z
 SUMMARY:Csikszereda MC – Farul Constanţa
-DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Neuer Termin (vorher 22.11.
+  10:00)
 LOCATION:Stadionul Municipal\, Miercurea Ciuc
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623525.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623532@anstoss
-DTSTAMP:20261209T090000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261203T090000Z
+SEQUENCE:1
+DTSTART:20261203T090000Z
+DTEND:20261203T110000Z
 SUMMARY:Vasas Femina – Csikszereda MC
-DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Neuer Termin (vorher 09.12.
+  10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623532.ht
  ml
 END:VEVENT

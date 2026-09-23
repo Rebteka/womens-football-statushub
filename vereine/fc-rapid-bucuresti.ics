@@ -84,42 +84,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623506@anstoss
 DTSTAMP:20261021T080000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
+DTSTART:20261021T080000Z
+DTEND:20261021T100000Z
 SUMMARY:FC Rapid Bucuresti – Farul Constanţa
-DESCRIPTION:Liga 1 Feminin · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 8. Spieltag
 LOCATION:Superbet Arena - Giulesti\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623506.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623510@anstoss
-DTSTAMP:20261025T090000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261025T130000Z
+SEQUENCE:1
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:Olimpia Cluj – FC Rapid Bucuresti
-DESCRIPTION:Liga 1 Feminin · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 9. Spieltag · Neuer Termin (vorher 25.10. 
+ 10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623510.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623515@anstoss
-DTSTAMP:20261101T090000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261101T130000Z
+SEQUENCE:1
+DTSTART:20261101T130000Z
+DTEND:20261101T150000Z
 SUMMARY:FC Rapid Bucuresti – Vasas Femina
-DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Neuer Termin (vorher 01.11.
+  10:00)
 LOCATION:Superbet Arena - Giulesti\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623515.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623517@anstoss
-DTSTAMP:20261108T090000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261107T110000Z
+SEQUENCE:1
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Csikszereda MC – FC Rapid Bucuresti
-DESCRIPTION:Liga 1 Feminin · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 11. Spieltag · Neuer Termin (vorher 08.11.
+  10:00)
 LOCATION:Stadionul Municipal\, Miercurea Ciuc
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623517.ht
  ml
@@ -127,31 +133,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623522@anstoss
 DTSTAMP:20261115T090000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T090000Z
+DTEND:20261115T110000Z
 SUMMARY:FC Rapid Bucuresti – Gloria Bistrița-Năsăud
-DESCRIPTION:Liga 1 Feminin · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 12. Spieltag
 LOCATION:Superbet Arena - Giulesti\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623522.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623527@anstoss
-DTSTAMP:20261122T090000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261121T120000Z
+SEQUENCE:1
+DTSTART:20261121T120000Z
+DTEND:20261121T140000Z
 SUMMARY:SSU Poli Timişoara – FC Rapid Bucuresti
-DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Neuer Termin (vorher 22.11.
+  10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623527.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623530@anstoss
-DTSTAMP:20261209T090000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261202T090000Z
+SEQUENCE:1
+DTSTART:20261202T090000Z
+DTEND:20261202T110000Z
 SUMMARY:FC Rapid Bucuresti – Univ. Craiova
-DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Neuer Termin (vorher 09.12.
+  10:00)
 LOCATION:Superbet Arena - Giulesti\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623530.ht
  ml

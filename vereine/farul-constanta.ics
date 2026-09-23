@@ -125,10 +125,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623506@anstoss
 DTSTAMP:20261021T080000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
+DTSTART:20261021T080000Z
+DTEND:20261021T100000Z
 SUMMARY:FC Rapid Bucuresti – Farul Constanţa
-DESCRIPTION:Liga 1 Feminin · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 8. Spieltag
 LOCATION:Superbet Arena - Giulesti\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623506.ht
  ml
@@ -136,62 +136,70 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623512@anstoss
 DTSTAMP:20261025T090000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T090000Z
+DTEND:20261025T110000Z
 SUMMARY:Vasas Femina – Farul Constanţa
-DESCRIPTION:Liga 1 Feminin · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623512.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623514@anstoss
-DTSTAMP:20261101T090000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261101T110000Z
+SEQUENCE:1
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
 SUMMARY:Farul Constanţa – Gloria Bistrița-Năsăud
-DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 10. Spieltag · Neuer Termin (vorher 01.11.
+  10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623514.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623520@anstoss
 DTSTAMP:20261108T090000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T090000Z
+DTEND:20261108T110000Z
 SUMMARY:Univ. Craiova – Farul Constanţa
-DESCRIPTION:Liga 1 Feminin · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 11. Spieltag
 LOCATION:Stadionul Ion Oblemenco\, Craiova
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623520.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623521@anstoss
-DTSTAMP:20261115T090000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261114T110000Z
+SEQUENCE:1
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Farul Constanţa – Olimpia Cluj
-DESCRIPTION:Liga 1 Feminin · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 12. Spieltag · Neuer Termin (vorher 15.11.
+  10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623521.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623525@anstoss
-DTSTAMP:20261122T090000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTAMP:20261122T110000Z
+SEQUENCE:1
+DTSTART:20261122T110000Z
+DTEND:20261122T130000Z
 SUMMARY:Csikszereda MC – Farul Constanţa
-DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 13. Spieltag · Neuer Termin (vorher 22.11.
+  10:00)
 LOCATION:Stadionul Municipal\, Miercurea Ciuc
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623525.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623529@anstoss
-DTSTAMP:20261209T090000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261203T110000Z
+SEQUENCE:1
+DTSTART:20261203T110000Z
+DTEND:20261203T130000Z
 SUMMARY:Farul Constanţa – SSU Poli Timişoara
-DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga 1 Feminin · 14. Spieltag · Neuer Termin (vorher 09.12.
+  10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623529.ht
  ml
 END:VEVENT
