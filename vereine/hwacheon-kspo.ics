@@ -248,6 +248,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1533737.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1533795@anstoss
+DTSTAMP:20260923T070000Z
+SEQUENCE:1
+DTSTART:20260923T070000Z
+DTEND:20260923T090000Z
+SUMMARY:Seoul – Hwacheon KSPO 1:1
+DESCRIPTION:WK-League · 28. Spieltag
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533795.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1533781@anstoss
 DTSTAMP:20261002T100000Z
 DTSTART:20261002T100000Z
@@ -275,16 +286,6 @@ DTEND:20261028T120000Z
 SUMMARY:Hwacheon KSPO – Gumi Sportstoto
 DESCRIPTION:WK-League · 27. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1533790.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1533795@anstoss
-DTSTAMP:20261031T050000Z
-DTSTART:20261031T050000Z
-DTEND:20261031T070000Z
-SUMMARY:Seoul – Hwacheon KSPO
-DESCRIPTION:WK-League · 28. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1533795.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
