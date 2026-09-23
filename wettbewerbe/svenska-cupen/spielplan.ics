@@ -244,10 +244,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1636794@anstoss
 DTSTAMP:20260923T160000Z
-SEQUENCE:1
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
-SUMMARY:Sandviken – Umeå 0:1
+SUMMARY:Sandviken – Umeå 2:6
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636794.ht
  ml
@@ -255,12 +254,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1636796@anstoss
 DTSTAMP:20260923T160000Z
-SEQUENCE:1
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
-SUMMARY:Värnamo – Kristianstad 0:1
+SUMMARY:Värnamo – Kristianstad 0:8
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636796.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636785@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Eskilsminne – Rosengård 0:3
+DESCRIPTION:Svenska Cupen · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636785.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -278,7 +286,7 @@ UID:fixture-1636792@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Linköping – Norrköping
+SUMMARY:Linköping – Norrköping (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636792.ht
  ml
@@ -288,7 +296,7 @@ UID:fixture-1636782@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Alingsås – Elfsborg
+SUMMARY:Alingsås – Elfsborg (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636782.ht
  ml
@@ -298,7 +306,7 @@ UID:fixture-1636790@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Jitex – Vittsjö
+SUMMARY:Jitex – Vittsjö (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636790.ht
  ml
@@ -308,7 +316,7 @@ UID:fixture-1636783@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Älvsjö AIK – Djurgården
+SUMMARY:Älvsjö AIK – Djurgården (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636783.ht
  ml
@@ -318,7 +326,7 @@ UID:fixture-1636793@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Örebro SK – Eskilstuna United
+SUMMARY:Örebro SK – Eskilstuna United (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636793.ht
  ml
@@ -328,19 +336,9 @@ UID:fixture-1636784@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Enskede – Brommapojkarna
+SUMMARY:Enskede – Brommapojkarna (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636784.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1636785@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Eskilsminne – Rosengård
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636785.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -348,7 +346,7 @@ UID:fixture-1636795@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Sunnanå – Piteå
+SUMMARY:Sunnanå – Piteå (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636795.ht
  ml
@@ -358,7 +356,7 @@ UID:fixture-1636788@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
 DTEND:20260923T190000Z
-SUMMARY:Hu Ge – Uppsala
+SUMMARY:Hu Ge – Uppsala (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636788.ht
  ml

@@ -219,10 +219,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1636796@anstoss
 DTSTAMP:20260923T160000Z
-SEQUENCE:1
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
-SUMMARY:Värnamo – Kristianstad 0:1
+SUMMARY:Värnamo – Kristianstad 0:8
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636796.ht
  ml

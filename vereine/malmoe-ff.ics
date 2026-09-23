@@ -254,12 +254,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638410@anstoss
 DTSTAMP:20260923T164500Z
-SEQUENCE:1
 DTSTART:20260923T164500Z
 DTEND:20260923T184500Z
-SUMMARY:St. Pölten – Malmö FF
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
- · Neuer Termin (vorher 23.09. 18:00)
+SUMMARY:St. Pölten – Malmö FF 0:2
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:Voithplatz\, Sankt Polten
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638410.ht
  ml
