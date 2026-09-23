@@ -51,4 +51,26 @@ LOCATION:Estadio Metropolitano de Techo\, Bogotá\, D.C.
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1304035.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641688@anstoss
+DTSTAMP:20260828T100000Z
+DTSTART:20260828T100000Z
+DTEND:20260828T120000Z
+SUMMARY:Poland U20 – Nigeria U20 0:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641688.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641691@anstoss
+DTSTAMP:20260901T140000Z
+DTSTART:20260901T140000Z
+DTEND:20260901T160000Z
+SUMMARY:Nigeria U20 – Korea Republic U20 1:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641691.ht
+ ml
+END:VEVENT
 END:VCALENDAR

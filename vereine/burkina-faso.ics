@@ -30,58 +30,58 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1140645.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1529312@anstoss
+UID:fixture-1529301@anstoss
 DTSTAMP:20260227T220000Z
 DTSTART:20260227T220000Z
 DTEND:20260228T000000Z
 SUMMARY:Morocco – Burkina Faso 5:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1529312.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529301.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1529301@anstoss
+UID:fixture-1529312@anstoss
 DTSTAMP:20260303T220000Z
 DTSTART:20260303T220000Z
 DTEND:20260304T000000Z
 SUMMARY:Morocco – Burkina Faso 1:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1529301.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529312.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540263@anstoss
+UID:fixture-1540257@anstoss
 DTSTAMP:20260413T170000Z
 DTSTART:20260413T170000Z
 DTEND:20260413T190000Z
 SUMMARY:Senegal – Burkina Faso 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540263.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540257.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540257@anstoss
+UID:fixture-1540263@anstoss
 DTSTAMP:20260416T170000Z
 DTSTART:20260416T170000Z
 DTEND:20260416T190000Z
 SUMMARY:Senegal – Burkina Faso 3:3
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540257.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540263.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1548480@anstoss
+UID:fixture-1548466@anstoss
 DTSTAMP:20260604T160000Z
 DTSTART:20260604T160000Z
 DTEND:20260604T180000Z
 SUMMARY:Burkina Faso – Mali 0:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1548480.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548466.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -97,14 +97,14 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1545738.ht
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1548466@anstoss
+UID:fixture-1548480@anstoss
 DTSTAMP:20260607T160000Z
 DTSTART:20260607T160000Z
 DTEND:20260607T180000Z
 SUMMARY:Burkina Faso – Mali 2:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1548466.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548480.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

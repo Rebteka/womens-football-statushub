@@ -119,7 +119,7 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1503002.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1526978@anstoss
+UID:fixture-1526973@anstoss
 DTSTAMP:20260304T220000Z
 DTSTART:20260304T220000Z
 DTEND:20260305T000000Z
@@ -127,11 +127,11 @@ SUMMARY:Paraguay – Chile 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Estadio Carfem
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1526978.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526973.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1526973@anstoss
+UID:fixture-1526978@anstoss
 DTSTAMP:20260307T220000Z
 DTSTART:20260307T220000Z
 DTEND:20260308T000000Z
@@ -139,7 +139,7 @@ SUMMARY:Paraguay – Chile 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Estadio Carfem
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1526973.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526978.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

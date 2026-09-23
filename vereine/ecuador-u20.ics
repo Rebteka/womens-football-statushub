@@ -8,25 +8,25 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1512642@anstoss
+UID:fixture-1512639@anstoss
 DTSTAMP:20260123T230000Z
 DTSTART:20260123T230000Z
 DTEND:20260124T010000Z
 SUMMARY:Uruguay U20 – Ecuador U20 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1512642.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512639.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1512639@anstoss
+UID:fixture-1512642@anstoss
 DTSTAMP:20260125T123000Z
 DTSTART:20260125T123000Z
 DTEND:20260125T143000Z
 SUMMARY:Uruguay U20 – Ecuador U20 1:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1512639.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1512642.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

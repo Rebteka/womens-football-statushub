@@ -73,25 +73,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1540261.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1550872@anstoss
+UID:fixture-1546556@anstoss
 DTSTAMP:20260605T160000Z
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
 SUMMARY:Egypt – Tunisia 1:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1550872.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1546556.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1546556@anstoss
+UID:fixture-1550872@anstoss
 DTSTAMP:20260608T160000Z
 DTSTART:20260608T160000Z
 DTEND:20260608T180000Z
 SUMMARY:Egypt – Tunisia 2:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1546556.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1550872.ht
  ml
 END:VEVENT
 END:VCALENDAR

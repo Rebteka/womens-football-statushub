@@ -19,6 +19,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1548460.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641679@anstoss
+DTSTAMP:20260606T140000Z
+DTSTART:20260606T140000Z
+DTEND:20260606T160000Z
+SUMMARY:Portugal U20 – Finland U23 1:0
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641679.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1548485@anstoss
 DTSTAMP:20260609T100000Z
 DTSTART:20260609T100000Z

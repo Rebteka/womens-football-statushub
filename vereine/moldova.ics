@@ -194,4 +194,26 @@ LOCATION:Antonis Papadopoulos Stadium\, Larnaca
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523958.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641695@anstoss
+DTSTAMP:20261009T140000Z
+DTSTART:20261009T140000Z
+DTEND:20261009T160000Z
+SUMMARY:Moldova – Georgia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641695.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641697@anstoss
+DTSTAMP:20261012T140000Z
+DTSTART:20261012T140000Z
+DTEND:20261012T160000Z
+SUMMARY:Moldova – Georgia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641697.ht
+ ml
+END:VEVENT
 END:VCALENDAR

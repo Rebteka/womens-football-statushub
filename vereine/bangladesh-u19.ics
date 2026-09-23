@@ -19,14 +19,14 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1520288.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1520290@anstoss
+UID:fixture-1517916@anstoss
 DTSTAMP:20260202T061500Z
 DTSTART:20260202T061500Z
 DTEND:20260202T081500Z
 SUMMARY:Bangladesh U19 – India U17 2:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1520290.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517916.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -41,14 +41,14 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1517919.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1517916@anstoss
+UID:fixture-1520290@anstoss
 DTSTAMP:20260207T081500Z
 DTSTART:20260207T081500Z
 DTEND:20260207T101500Z
 SUMMARY:Bangladesh U19 – India U17 0:4
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1517916.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1520290.ht
  ml
 END:VEVENT
 END:VCALENDAR

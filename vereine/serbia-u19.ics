@@ -8,25 +8,25 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1529320@anstoss
+UID:fixture-1533345@anstoss
 DTSTAMP:20260304T110000Z
 DTSTART:20260304T110000Z
 DTEND:20260304T130000Z
 SUMMARY:Serbia U19 – Greece U19 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1529320.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533345.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1533345@anstoss
+UID:fixture-1529320@anstoss
 DTSTAMP:20260307T100000Z
 DTSTART:20260307T100000Z
 DTEND:20260307T120000Z
 SUMMARY:Serbia U19 – Greece U19 1:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1533345.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1529320.ht
  ml
 END:VEVENT
 END:VCALENDAR

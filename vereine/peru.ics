@@ -85,25 +85,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1483028.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1526977@anstoss
+UID:fixture-1526972@anstoss
 DTSTAMP:20260304T203000Z
 DTSTART:20260304T203000Z
 DTEND:20260304T223000Z
 SUMMARY:Peru – El Salvador 0:4
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1526977.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526972.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1526972@anstoss
+UID:fixture-1526977@anstoss
 DTSTAMP:20260307T203000Z
 DTSTART:20260307T203000Z
 DTEND:20260307T223000Z
 SUMMARY:Peru – El Salvador 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1526972.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526977.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -161,27 +161,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1483047.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638736@anstoss
+UID:fixture-1638734@anstoss
 DTSTAMP:20261009T200000Z
 SEQUENCE:1
 DTSTART:20261009T200000Z
 DTEND:20261009T220000Z
 SUMMARY:Peru – Philippines
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 13.10. 21:00)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638736.ht
+  Women · Neuer Termin (vorher 09.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638734.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638734@anstoss
+UID:fixture-1638736@anstoss
 DTSTAMP:20261013T190000Z
 SEQUENCE:1
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Peru – Philippines
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 09.10. 22:00)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638734.ht
+  Women · Neuer Termin (vorher 13.10. 21:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638736.ht
  ml
 END:VEVENT
 END:VCALENDAR

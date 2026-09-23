@@ -8,25 +8,25 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1517961@anstoss
+UID:fixture-1517960@anstoss
 DTSTAMP:20260204T100000Z
 DTSTART:20260204T100000Z
 DTEND:20260204T120000Z
 SUMMARY:Uzbekistan U20 – Azerbaijan U19 2:3
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1517961.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517960.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1517960@anstoss
+UID:fixture-1517961@anstoss
 DTSTAMP:20260207T100000Z
 DTSTART:20260207T100000Z
 DTEND:20260207T120000Z
 SUMMARY:Uzbekistan U20 – Azerbaijan U19 4:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1517960.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1517961.ht
  ml
 END:VEVENT
 END:VCALENDAR

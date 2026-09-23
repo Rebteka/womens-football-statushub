@@ -40,4 +40,15 @@ LOCATION:Estadio Olímpico Pascual Guerrero\, Santiago de Cali
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1205423.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641689@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Ghana U20 – Mexico U20 1:2
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641689.ht
+ ml
+END:VEVENT
 END:VCALENDAR

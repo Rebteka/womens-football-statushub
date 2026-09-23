@@ -8,69 +8,69 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1540263@anstoss
+UID:fixture-1540257@anstoss
 DTSTAMP:20260413T170000Z
 DTSTART:20260413T170000Z
 DTEND:20260413T190000Z
 SUMMARY:Senegal – Burkina Faso 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540263.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540257.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1540257@anstoss
+UID:fixture-1540263@anstoss
 DTSTAMP:20260416T170000Z
 DTSTART:20260416T170000Z
 DTEND:20260416T190000Z
 SUMMARY:Senegal – Burkina Faso 3:3
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1540257.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1540263.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1548481@anstoss
+UID:fixture-1548471@anstoss
 DTSTAMP:20260605T150000Z
 DTSTART:20260605T150000Z
 DTEND:20260605T170000Z
 SUMMARY:Nigeria – Senegal 2:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1548481.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548471.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1548471@anstoss
+UID:fixture-1548481@anstoss
 DTSTAMP:20260608T150000Z
 DTSTART:20260608T150000Z
 DTEND:20260608T170000Z
 SUMMARY:Nigeria – Senegal 3:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1548471.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1548481.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1583661@anstoss
+UID:fixture-1583659@anstoss
 DTSTAMP:20260708T170000Z
 DTSTART:20260708T170000Z
 DTEND:20260708T190000Z
 SUMMARY:Egypt – Senegal 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1583661.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583659.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1583659@anstoss
+UID:fixture-1583661@anstoss
 DTSTAMP:20260711T170000Z
 DTSTART:20260711T170000Z
 DTEND:20260711T190000Z
 SUMMARY:Egypt – Senegal 1:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1583659.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1583661.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

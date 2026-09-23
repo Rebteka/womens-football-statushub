@@ -273,6 +273,18 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1514113.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641692@anstoss
+DTSTAMP:20260411T213000Z
+DTSTART:20260411T213000Z
+DTEND:20260411T233000Z
+SUMMARY:USA – Japan 2:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+LOCATION:PayPal Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1514114@anstoss
 DTSTAMP:20260415T020000Z
 DTSTART:20260415T020000Z
@@ -297,7 +309,19 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1514115.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542896@anstoss
+UID:fixture-1641693@anstoss
+DTSTAMP:20260415T020000Z
+DTSTART:20260415T020000Z
+DTEND:20260415T040000Z
+SUMMARY:USA – Japan 0:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641693.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1539392@anstoss
 DTSTAMP:20260606T065000Z
 DTSTART:20260606T065000Z
 DTEND:20260606T085000Z
@@ -305,11 +329,11 @@ SUMMARY:Japan – South Africa 5:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Yanmar Stadium Nagai\, Osaka
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542896.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1539392.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1539392@anstoss
+UID:fixture-1542896@anstoss
 DTSTAMP:20260609T063000Z
 DTSTART:20260609T063000Z
 DTEND:20260609T083000Z
@@ -317,7 +341,7 @@ SUMMARY:Japan – South Africa 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:J-GREEN Sakai\, Osaka
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1539392.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542896.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -343,25 +367,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1628978.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1641089@anstoss
+UID:fixture-1641091@anstoss
 DTSTAMP:20261129T045500Z
+SEQUENCE:1
 DTSTART:20261129T045500Z
 DTEND:20261129T065500Z
 SUMMARY:Japan – Brasilien
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1641089.ht
+  Women · Neuer Termin (vorher 05.12. 07:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641091.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1641091@anstoss
+UID:fixture-1641089@anstoss
 DTSTAMP:20261205T060000Z
+SEQUENCE:1
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
 SUMMARY:Japan – Brasilien
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1641091.ht
+  Women · Neuer Termin (vorher 29.11. 05:55)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641089.ht
  ml
 END:VEVENT
 END:VCALENDAR

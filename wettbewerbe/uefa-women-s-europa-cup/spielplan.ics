@@ -298,12 +298,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638407@anstoss
 DTSTAMP:20260923T130000Z
-SEQUENCE:1
 DTSTART:20260923T130000Z
 DTEND:20260923T150000Z
-SUMMARY:PAOK – Spartak Myjava
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
- · Neuer Termin (vorher 23.09. 18:00)
+SUMMARY:PAOK – Spartak Myjava 2:3
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:Toumba Stadium\, Thessaloniki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638407.ht
  ml
@@ -314,9 +312,8 @@ DTSTAMP:20260923T150000Z
 SEQUENCE:1
 DTSTART:20260923T150000Z
 DTEND:20260923T170000Z
-SUMMARY:Slovan Liberec – Rosenborg
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
- · Neuer Termin (vorher 23.09. 18:00)
+SUMMARY:Slovan Liberec – Rosenborg 3:1
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:Stadion u Nisy\, Liberec
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638405.ht
  ml
@@ -327,9 +324,8 @@ DTSTAMP:20260923T153000Z
 SEQUENCE:1
 DTSTART:20260923T153000Z
 DTEND:20260923T173000Z
-SUMMARY:HJK – SK Brann
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
- · Neuer Termin (vorher 23.09. 18:00)
+SUMMARY:HJK – SK Brann 0:0
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:Bolt Arena\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638404.ht
  ml
@@ -339,7 +335,7 @@ UID:fixture-1638398@anstoss
 DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
-SUMMARY:Brøndby – Sporting CP
+SUMMARY:Brøndby – Sporting CP 1:0
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:Brøndby Stadion\, Copenhagen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638398.ht
@@ -350,7 +346,7 @@ UID:fixture-1638397@anstoss
 DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
-SUMMARY:Breidablik – Czarni Sosnowiec
+SUMMARY:Breidablik – Czarni Sosnowiec 0:1
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:Kópavogsvöllur\, Kopavogur
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638397.ht
@@ -361,7 +357,7 @@ UID:fixture-1638409@anstoss
 DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
-SUMMARY:Sparta Praha – Farul Constanţa
+SUMMARY:Sparta Praha – Farul Constanţa 0:0
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:TC Strahov\, Prague
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638409.ht
@@ -372,7 +368,7 @@ UID:fixture-1638399@anstoss
 DTSTAMP:20260923T160000Z
 DTSTART:20260923T160000Z
 DTEND:20260923T180000Z
-SUMMARY:FH – Eintracht Frankfurt
+SUMMARY:FH – Eintracht Frankfurt 0:0
 DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638399.ht
  ml

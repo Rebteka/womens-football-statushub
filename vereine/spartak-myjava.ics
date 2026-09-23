@@ -106,12 +106,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638407@anstoss
 DTSTAMP:20260923T130000Z
-SEQUENCE:1
 DTSTART:20260923T130000Z
 DTEND:20260923T150000Z
-SUMMARY:PAOK – Spartak Myjava
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
- · Neuer Termin (vorher 23.09. 18:00)
+SUMMARY:PAOK – Spartak Myjava 2:3
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
 LOCATION:Toumba Stadium\, Thessaloniki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638407.ht
  ml

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Armenia U19
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1641684@anstoss
+DTSTAMP:20260818T140000Z
+DTSTART:20260818T140000Z
+DTEND:20260818T160000Z
+SUMMARY:Armenia U19 – Georgia U19 0:4
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641684.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641685@anstoss
+DTSTAMP:20260821T070000Z
+DTSTART:20260821T070000Z
+DTEND:20260821T090000Z
+SUMMARY:Armenia U19 – Georgia U19 0:4
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641685.ht
+ ml
+END:VEVENT
+END:VCALENDAR

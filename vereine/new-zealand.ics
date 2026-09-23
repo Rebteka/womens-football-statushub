@@ -151,27 +151,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1544819.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638587@anstoss
+UID:fixture-1638584@anstoss
 DTSTAMP:20261010T210000Z
 SEQUENCE:1
 DTSTART:20261010T210000Z
 DTEND:20261010T230000Z
 SUMMARY:Panama – New Zealand
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 14.10. 02:30)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638587.ht
+  Women · Neuer Termin (vorher 10.10. 23:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638584.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638584@anstoss
+UID:fixture-1638587@anstoss
 DTSTAMP:20261014T003000Z
 SEQUENCE:1
 DTSTART:20261014T003000Z
 DTEND:20261014T023000Z
 SUMMARY:Panama – New Zealand
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 10.10. 23:00)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638584.ht
+  Women · Neuer Termin (vorher 14.10. 02:30)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638587.ht
  ml
 END:VEVENT
 END:VCALENDAR

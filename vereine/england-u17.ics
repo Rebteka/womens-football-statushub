@@ -86,25 +86,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1544864.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1637475@anstoss
+UID:fixture-1637473@anstoss
 DTSTAMP:20260910T143000Z
 DTSTART:20260910T143000Z
 DTEND:20260910T163000Z
 SUMMARY:Finland U17 – England U17 2:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1637475.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637473.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1637473@anstoss
+UID:fixture-1637475@anstoss
 DTSTAMP:20260913T100000Z
 DTSTART:20260913T100000Z
 DTEND:20260913T120000Z
 SUMMARY:Finland U17 – England U17 2:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1637473.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637475.ht
  ml
 END:VEVENT
 END:VCALENDAR

@@ -8,21 +8,10 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1525430@anstoss
+UID:fixture-1525429@anstoss
 DTSTAMP:20260217T133000Z
 DTSTART:20260217T133000Z
 DTEND:20260217T153000Z
-SUMMARY:Italy U17 – Switzerland U17 1:1
-DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1525430.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1525429@anstoss
-DTSTAMP:20260219T100000Z
-DTSTART:20260219T100000Z
-DTEND:20260219T120000Z
 SUMMARY:Italy U17 – Switzerland U17 1:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
@@ -30,14 +19,36 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1525429.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1525430@anstoss
+DTSTAMP:20260219T100000Z
+DTSTART:20260219T100000Z
+DTEND:20260219T120000Z
+SUMMARY:Italy U17 – Switzerland U17 1:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1525430.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1640022@anstoss
+DTSTAMP:20260915T130000Z
+DTSTART:20260915T130000Z
+DTEND:20260915T150000Z
+SUMMARY:Italy U17 – Hungary U17 2:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1640022.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641676@anstoss
 DTSTAMP:20260917T090000Z
 DTSTART:20260917T090000Z
 DTEND:20260917T110000Z
 SUMMARY:Italy U17 – Hungary U17 2:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1640022.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641676.ht
  ml
 END:VEVENT
 END:VCALENDAR

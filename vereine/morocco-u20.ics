@@ -73,4 +73,15 @@ DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1529316.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641680@anstoss
+DTSTAMP:20260607T180000Z
+DTSTART:20260607T180000Z
+DTEND:20260607T200000Z
+SUMMARY:Morocco U20 – Benin U20 2:2
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641680.ht
+ ml
+END:VEVENT
 END:VCALENDAR

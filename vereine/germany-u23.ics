@@ -52,25 +52,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1540804.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1533350@anstoss
+UID:fixture-1533349@anstoss
 DTSTAMP:20260604T160000Z
 DTSTART:20260604T160000Z
 DTEND:20260604T180000Z
 SUMMARY:Germany U23 – Denmark U23 2:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1533350.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533349.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1533349@anstoss
+UID:fixture-1533350@anstoss
 DTSTAMP:20260608T181500Z
 DTSTART:20260608T181500Z
 DTEND:20260608T201500Z
 SUMMARY:Germany U23 – Denmark U23 2:2
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1533349.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1533350.ht
  ml
 END:VEVENT
 END:VCALENDAR

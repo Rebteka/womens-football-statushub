@@ -41,6 +41,28 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1526398.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641674@anstoss
+DTSTAMP:20260917T040000Z
+DTSTART:20260917T040000Z
+DTEND:20260917T060000Z
+SUMMARY:Solomon Islands – Vanuatu 1:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641674.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641678@anstoss
+DTSTAMP:20260920T070000Z
+DTSTART:20260920T070000Z
+DTEND:20260920T090000Z
+SUMMARY:Fiji – Vanuatu 0:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641678.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1641076@anstoss
 DTSTAMP:20260923T040000Z
 DTSTART:20260923T040000Z

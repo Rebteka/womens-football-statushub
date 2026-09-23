@@ -52,25 +52,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1516497.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1637471@anstoss
+UID:fixture-1637472@anstoss
 DTSTAMP:20260908T150000Z
 DTSTART:20260908T150000Z
 DTEND:20260908T170000Z
 SUMMARY:Chile U20 – Uruguay U20 3:0
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1637471.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637472.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1637472@anstoss
+UID:fixture-1637471@anstoss
 DTSTAMP:20260910T130000Z
 DTSTART:20260910T130000Z
 DTEND:20260910T150000Z
 SUMMARY:Chile U20 – Uruguay U20 2:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1637472.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1637471.ht
  ml
 END:VEVENT
 END:VCALENDAR

@@ -138,4 +138,26 @@ DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1550863.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641681@anstoss
+DTSTAMP:20260609T110000Z
+DTSTART:20260609T110000Z
+DTEND:20260609T130000Z
+SUMMARY:Poland U20 – Mexico U20 2:0
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641681.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641689@anstoss
+DTSTAMP:20260829T120000Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Ghana U20 – Mexico U20 1:2
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641689.ht
+ ml
+END:VEVENT
 END:VCALENDAR

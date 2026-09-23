@@ -163,7 +163,7 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1503001.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1526978@anstoss
+UID:fixture-1526973@anstoss
 DTSTAMP:20260304T220000Z
 DTSTART:20260304T220000Z
 DTEND:20260305T000000Z
@@ -171,11 +171,11 @@ SUMMARY:Paraguay – Chile 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Estadio Carfem
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1526978.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526973.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1526973@anstoss
+UID:fixture-1526978@anstoss
 DTSTAMP:20260307T220000Z
 DTSTART:20260307T220000Z
 DTEND:20260308T000000Z
@@ -183,7 +183,7 @@ SUMMARY:Paraguay – Chile 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Estadio Carfem
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1526973.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1526978.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -230,25 +230,27 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1483046.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1641084@anstoss
+UID:fixture-1641087@anstoss
 DTSTAMP:20261010T013000Z
+SEQUENCE:1
 DTSTART:20261010T013000Z
 DTEND:20261010T033000Z
 SUMMARY:Paraguay – El Salvador
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1641084.ht
+  Women · Neuer Termin (vorher 13.10. 04:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641087.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1641087@anstoss
+UID:fixture-1641084@anstoss
 DTSTAMP:20261013T020000Z
+SEQUENCE:1
 DTSTART:20261013T020000Z
 DTEND:20261013T040000Z
 SUMMARY:Paraguay – El Salvador
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1641087.ht
+  Women · Neuer Termin (vorher 10.10. 03:30)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641084.ht
  ml
 END:VEVENT
 END:VCALENDAR

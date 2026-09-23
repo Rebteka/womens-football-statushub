@@ -220,6 +220,18 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1514113.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1641692@anstoss
+DTSTAMP:20260411T213000Z
+DTSTART:20260411T213000Z
+DTEND:20260411T233000Z
+SUMMARY:USA – Japan 2:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+LOCATION:PayPal Park
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641692.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1514114@anstoss
 DTSTAMP:20260415T020000Z
 DTSTART:20260415T020000Z
@@ -244,7 +256,19 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1514115.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542897@anstoss
+UID:fixture-1641693@anstoss
+DTSTAMP:20260415T020000Z
+DTSTART:20260415T020000Z
+DTEND:20260415T040000Z
+SUMMARY:USA – Japan 0:1
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+LOCATION:Lumen Field
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641693.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1542895@anstoss
 DTSTAMP:20260606T213000Z
 DTSTART:20260606T213000Z
 DTEND:20260606T233000Z
@@ -252,11 +276,11 @@ SUMMARY:Brasilien – USA 2:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Neo Quimica Arena\, Sao Paulo
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1542895@anstoss
+UID:fixture-1542897@anstoss
 DTSTAMP:20260610T003000Z
 DTSTART:20260610T003000Z
 DTEND:20260610T023000Z
@@ -264,31 +288,31 @@ SUMMARY:Brasilien – USA 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:Neo Quimica Arena\, Fortaleza
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1542895.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1542897.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1604195@anstoss
+UID:fixture-1604194@anstoss
 DTSTAMP:20261010T183000Z
 SEQUENCE:1
 DTSTART:20261010T183000Z
 DTEND:20261010T203000Z
 SUMMARY:USA – Spanien
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 14.10. 01:00)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1604195.ht
+  Women · Neuer Termin (vorher 10.10. 20:30)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1604194@anstoss
+UID:fixture-1604195@anstoss
 DTSTAMP:20261013T230000Z
 SEQUENCE:1
 DTSTART:20261013T230000Z
 DTEND:20261014T010000Z
 SUMMARY:USA – Spanien
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 10.10. 20:30)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1604194.ht
+  Women · Neuer Termin (vorher 14.10. 01:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1604195.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

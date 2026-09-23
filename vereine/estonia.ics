@@ -172,4 +172,26 @@ LOCATION:Parnu Rannastaadion\, Parnu
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1523952.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641696@anstoss
+DTSTAMP:20261009T160000Z
+DTSTART:20261009T160000Z
+DTEND:20261009T180000Z
+SUMMARY:Estonia – Czech Republic U23
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641696.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641698@anstoss
+DTSTAMP:20261128T130000Z
+DTSTART:20261128T130000Z
+DTEND:20261128T150000Z
+SUMMARY:Faroe Islands – Estonia
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641698.ht
+ ml
+END:VEVENT
 END:VCALENDAR

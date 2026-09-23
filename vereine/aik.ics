@@ -219,12 +219,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1636791@anstoss
 DTSTAMP:20260922T170000Z
-SEQUENCE:1
 DTSTART:20260922T170000Z
 DTEND:20260922T190000Z
-SUMMARY:KIF Örebro – AIK
-DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
- )
+SUMMARY:KIF Örebro – AIK 0:2
+DESCRIPTION:Svenska Cupen · Round 2
+LOCATION:Behrn Arena\, Orebro
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636791.ht
  ml
 END:VEVENT

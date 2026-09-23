@@ -203,4 +203,15 @@ DESCRIPTION:WM-Qualifikation Europa · Halbfinale
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1557270.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1641699@anstoss
+DTSTAMP:20261128T130000Z
+DTSTART:20261128T130000Z
+DTEND:20261128T150000Z
+SUMMARY:Latvia – Lithuania
+DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
+  Women
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1641699.ht
+ ml
+END:VEVENT
 END:VCALENDAR

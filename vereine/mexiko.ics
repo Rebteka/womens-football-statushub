@@ -162,7 +162,7 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1488323.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1544317@anstoss
+UID:fixture-1544316@anstoss
 DTSTAMP:20260606T091500Z
 DTSTART:20260606T091500Z
 DTEND:20260606T111500Z
@@ -170,11 +170,11 @@ SUMMARY:Australien – Mexiko 0:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:McDonald Jones Stadium\, Newcastle
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1544317.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544316.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1544316@anstoss
+UID:fixture-1544317@anstoss
 DTSTAMP:20260609T090000Z
 DTSTART:20260609T090000Z
 DTEND:20260609T110000Z
@@ -182,31 +182,31 @@ SUMMARY:Australien – Mexiko 3:1
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
   Women
 LOCATION:CommBank Stadium\, Sydney
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1544316.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1544317.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638586@anstoss
+UID:fixture-1638583@anstoss
 DTSTAMP:20261009T200000Z
 SEQUENCE:1
 DTSTART:20261009T200000Z
 DTEND:20261009T220000Z
 SUMMARY:Jamaica – Mexiko
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 13.10. 22:00)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638586.ht
+  Women · Neuer Termin (vorher 09.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638583.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1638583@anstoss
+UID:fixture-1638586@anstoss
 DTSTAMP:20261013T200000Z
 SEQUENCE:1
 DTSTART:20261013T200000Z
 DTEND:20261013T220000Z
 SUMMARY:Jamaica – Mexiko
 DESCRIPTION:Länderspiele (Freundschaftsspiele) · Friendly International
-  Women · Neuer Termin (vorher 09.10. 22:00)
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1638583.ht
+  Women · Neuer Termin (vorher 13.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1638586.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
