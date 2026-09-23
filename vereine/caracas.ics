@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Caracas
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1639871@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Corinthians – Caracas
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639869@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Colo-Colo – Caracas
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639869.ht
+ ml
+END:VEVENT
+END:VCALENDAR

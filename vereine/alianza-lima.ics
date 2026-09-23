@@ -8,39 +8,6 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1479287@anstoss
-DTSTAMP:20251002T190000Z
-DTSTART:20251002T190000Z
-DTEND:20251002T210000Z
-SUMMARY:Boca Juniors – Alianza Lima 0:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 1. Spieltag
-LOCATION:Estadio Nuevo Francisco Urbano\, Moron
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479287.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1479294@anstoss
-DTSTAMP:20251005T230000Z
-DTSTART:20251005T230000Z
-DTEND:20251006T010000Z
-SUMMARY:Alianza Lima – Ferroviaria 1:2
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 2. Spieltag
-LOCATION:Estadio Florencio Sola\, Buenos Aires
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479294.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1479297@anstoss
-DTSTAMP:20251008T190000Z
-DTSTART:20251008T190000Z
-DTEND:20251008T210000Z
-SUMMARY:Alianza Lima – ADIFFEM 1:1
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 3. Spieltag
-LOCATION:Estadio Nuevo Francisco Urbano\, Moron
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479297.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1545995@anstoss
 DTSTAMP:20260315T203000Z
 DTSTART:20260315T203000Z

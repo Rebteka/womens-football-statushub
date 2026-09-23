@@ -8,50 +8,6 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1479391@anstoss
-DTSTAMP:20251003T230000Z
-DTSTART:20251003T230000Z
-DTEND:20251004T010000Z
-SUMMARY:São Paulo – San Lorenzo 2:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 1. Spieltag
-LOCATION:Estadio do Caninde\, Sao Paulo
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479391.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1479295@anstoss
-DTSTAMP:20251006T230000Z
-DTSTART:20251006T230000Z
-DTEND:20251007T010000Z
-SUMMARY:São Paulo – Colo-Colo 0:1
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 2. Spieltag
-LOCATION:Estadio do Caninde\, Sao Paulo
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479295.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1479300@anstoss
-DTSTAMP:20251009T230000Z
-DTSTART:20251009T230000Z
-DTEND:20251010T010000Z
-SUMMARY:Olimpia – São Paulo 0:1
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 3. Spieltag
-LOCATION:Estadio Florencio Sola\, Buenos Aires
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479300.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1481287@anstoss
-DTSTAMP:20251012T230000Z
-DTSTART:20251012T230000Z
-DTEND:20251013T010000Z
-SUMMARY:Deportivo Cali – São Paulo 2:0
-DESCRIPTION:Copa Libertadores Femenina · Viertelfinale
-LOCATION:Estadio Florencio Sola\, Buenos Aires
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1481287.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1522332@anstoss
 DTSTAMP:20260216T233000Z
 DTSTART:20260216T233000Z

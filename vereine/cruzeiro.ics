@@ -205,4 +205,34 @@ LOCATION:Neo Quimica Arena\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1634048.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639874@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Cruzeiro – Olimpia
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639873@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Cruzeiro – Bolivar
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639873.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639872@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Cruzeiro – LDU Quito
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639872.ht
+ ml
+END:VEVENT
 END:VCALENDAR

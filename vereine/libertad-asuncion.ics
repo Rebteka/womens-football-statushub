@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anstoss//Frauenfussball//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Libertad Asuncion
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:fixture-1639881@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Libertad Asuncion – Universidad de Chile
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639881.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639880@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Libertad Asuncion – Club Nacional de Football
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639880.ht
+ ml
+END:VEVENT
+END:VCALENDAR

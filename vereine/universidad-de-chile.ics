@@ -8,36 +8,23 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1479390@anstoss
-DTSTAMP:20251003T230000Z
-DTSTART:20251003T230000Z
-DTEND:20251004T010000Z
-SUMMARY:Club Nacional de Football – Universidad de Chile 0:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 1. Spieltag
-LOCATION:Estadio Nuevo Francisco Urbano\, Moron
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479390.ht
+UID:fixture-1639868@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Club Nacional de Football – Universidad de Chile
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639868.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1479394@anstoss
-DTSTAMP:20251006T230000Z
-DTSTART:20251006T230000Z
-DTEND:20251007T010000Z
-SUMMARY:Libertad Limpeño – Universidad de Chile 0:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 2. Spieltag
-LOCATION:Estadio Florencio Sola\, Buenos Aires
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479394.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1479396@anstoss
-DTSTAMP:20251009T190000Z
-DTSTART:20251009T190000Z
-DTEND:20251009T210000Z
-SUMMARY:Universidad de Chile – Deportivo Cali 0:2
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 3. Spieltag
-LOCATION:Estadio Florencio Sola\, Buenos Aires
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479396.ht
+UID:fixture-1639881@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Libertad Asuncion – Universidad de Chile
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639881.ht
  ml
 END:VEVENT
 END:VCALENDAR

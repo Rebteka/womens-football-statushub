@@ -251,4 +251,34 @@ DESCRIPTION:Liga Women · Clausura · 11. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1640463.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639876@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Dragonas IDV – U. de Deportes
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639882@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:U. de Deportes – Palmeiras
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639865@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Belgrano – U. de Deportes
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639865.ht
+ ml
+END:VEVENT
 END:VCALENDAR

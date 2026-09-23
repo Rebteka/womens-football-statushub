@@ -213,4 +213,34 @@ LOCATION:Nubank Parque\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1634050.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639877@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Dragonas IDV – Palmeiras
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639877.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639882@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:U. de Deportes – Palmeiras
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639882.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639866@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Belgrano – Palmeiras
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639866.ht
+ ml
+END:VEVENT
 END:VCALENDAR

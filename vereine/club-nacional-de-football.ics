@@ -8,36 +8,23 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1479390@anstoss
-DTSTAMP:20251003T230000Z
-DTSTART:20251003T230000Z
-DTEND:20251004T010000Z
-SUMMARY:Club Nacional de Football – Universidad de Chile 0:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 1. Spieltag
-LOCATION:Estadio Nuevo Francisco Urbano\, Moron
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479390.ht
+UID:fixture-1639868@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Club Nacional de Football – Universidad de Chile
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639868.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1479392@anstoss
-DTSTAMP:20251006T190000Z
-DTSTART:20251006T190000Z
-DTEND:20251006T210000Z
-SUMMARY:Deportivo Cali – Club Nacional de Football 1:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 2. Spieltag
-LOCATION:Estadio Deportivo Cali\, Palmira
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479392.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1479395@anstoss
-DTSTAMP:20251009T190000Z
-DTSTART:20251009T190000Z
-DTEND:20251009T210000Z
-SUMMARY:Libertad Limpeño – Club Nacional de Football 0:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 3. Spieltag
-LOCATION:Estadio Nuevo Francisco Urbano\, Moron
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479395.ht
+UID:fixture-1639880@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Libertad Asuncion – Club Nacional de Football
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639880.ht
  ml
 END:VEVENT
 END:VCALENDAR

@@ -8,36 +8,33 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1479290@anstoss
-DTSTAMP:20251003T190000Z
-DTSTART:20251003T190000Z
-DTEND:20251003T210000Z
-SUMMARY:Colo-Colo – Olimpia 2:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 1. Spieltag
-LOCATION:Estadio Florencio Sola\, Buenos Aires
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479290.ht
+UID:fixture-1639874@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Cruzeiro – Olimpia
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639874.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1479393@anstoss
-DTSTAMP:20251006T190000Z
-DTSTART:20251006T190000Z
-DTEND:20251006T210000Z
-SUMMARY:San Lorenzo – Olimpia 1:0
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 2. Spieltag
-LOCATION:Estadio Nuevo Francisco Urbano\, Moron
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479393.ht
+UID:fixture-1639867@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:Bolivar – Olimpia
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639867.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1479300@anstoss
-DTSTAMP:20251009T230000Z
-DTSTART:20251009T230000Z
-DTEND:20251010T010000Z
-SUMMARY:Olimpia – São Paulo 0:1
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · 3. Spieltag
-LOCATION:Estadio Florencio Sola\, Buenos Aires
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1479300.ht
+UID:fixture-1639879@anstoss
+DTSTAMP:20261015T200000Z
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+SUMMARY:LDU Quito – Olimpia
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639879.ht
  ml
 END:VEVENT
 END:VCALENDAR

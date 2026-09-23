@@ -61,11 +61,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1623495.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623499@anstoss
-DTSTAMP:20260927T080000Z
-DTSTART:20260927T080000Z
-DTEND:20260927T100000Z
+DTSTAMP:20260927T120000Z
+SEQUENCE:1
+DTSTART:20260927T120000Z
+DTEND:20260927T140000Z
 SUMMARY:Vasas Femina – Olimpia Cluj
-DESCRIPTION:Liga 1 Feminin · 6. Spieltag
+DESCRIPTION:Liga 1 Feminin · 6. Spieltag · Neuer Termin (vorher 27.09. 
+ 10:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623499.ht
  ml
 END:VEVENT
