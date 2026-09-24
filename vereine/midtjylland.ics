@@ -109,51 +109,61 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1582134.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582143@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261018T093000Z
+SEQUENCE:1
+DTSTART:20261018T093000Z
+DTEND:20261018T113000Z
 SUMMARY:Midtjylland – Nordsjælland
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582143.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582144@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T110000Z
+SEQUENCE:1
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
 SUMMARY:Brøndby – Midtjylland
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582144.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582149@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261103T180000Z
+SEQUENCE:1
+DTSTART:20261103T180000Z
+DTEND:20261103T200000Z
 SUMMARY:AGF – Midtjylland
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582149.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582157@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261110T180000Z
+SEQUENCE:1
+DTSTART:20261110T180000Z
+DTEND:20261110T200000Z
 SUMMARY:Midtjylland – Odense Q
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582157.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582161@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T120000Z
+SEQUENCE:1
+DTSTART:20261115T120000Z
+DTEND:20261115T140000Z
 SUMMARY:FC Copenhagen – Midtjylland
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582161.ht
  ml
 END:VEVENT

@@ -364,11 +364,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566613.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1566665@anstoss
-DTSTAMP:20261003T123000Z
-DTSTART:20261003T123000Z
-DTEND:20261003T143000Z
+DTSTAMP:20261003T110000Z
+SEQUENCE:1
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
 SUMMARY:Dukla Banská Bystrica – Z. Moravce-Vrable
-DESCRIPTION:I Liga - Women · 8. Spieltag
+DESCRIPTION:I Liga - Women · 8. Spieltag · Neuer Termin (vorher 03.10. 
+ 14:30)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566665.ht
  ml
 END:VEVENT
@@ -394,11 +396,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566615.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1566616@anstoss
-DTSTAMP:20261003T130000Z
-DTSTART:20261003T130000Z
-DTEND:20261003T150000Z
+DTSTAMP:20261003T134500Z
+SEQUENCE:1
+DTSTART:20261003T134500Z
+DTEND:20261003T154500Z
 SUMMARY:Slovan Bratislava – Trenčín
-DESCRIPTION:I Liga - Women · 8. Spieltag
+DESCRIPTION:I Liga - Women · 8. Spieltag · Neuer Termin (vorher 03.10. 
+ 15:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566616.ht
  ml
 END:VEVENT

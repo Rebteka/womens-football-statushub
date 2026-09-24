@@ -79,11 +79,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566611.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1566665@anstoss
-DTSTAMP:20261003T123000Z
-DTSTART:20261003T123000Z
-DTEND:20261003T143000Z
+DTSTAMP:20261003T110000Z
+SEQUENCE:1
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
 SUMMARY:Dukla Banská Bystrica – Z. Moravce-Vrable
-DESCRIPTION:I Liga - Women · 8. Spieltag
+DESCRIPTION:I Liga - Women · 8. Spieltag · Neuer Termin (vorher 03.10. 
+ 14:30)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566665.ht
  ml
 END:VEVENT

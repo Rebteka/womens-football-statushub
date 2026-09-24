@@ -1806,11 +1806,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1641144.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1641145@anstoss
-DTSTAMP:20261004T200000Z
-DTSTART:20261004T200000Z
-DTEND:20261004T220000Z
+DTSTAMP:20261003T193000Z
+SEQUENCE:1
+DTSTART:20261003T193000Z
+DTEND:20261003T213000Z
 SUMMARY:São Paulo – Corinthians
-DESCRIPTION:Brasileiro Women · Finale
+DESCRIPTION:Brasileiro Women · Finale · Neuer Termin (vorher 04.10. 22:
+ 00)
 LOCATION:Estadio do Caninde\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1641145.ht
  ml

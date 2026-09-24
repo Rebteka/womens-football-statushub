@@ -134,6 +134,7 @@ DTSTART:20260926T130000Z
 DTEND:20260926T150000Z
 SUMMARY:St. Pölten – Kleinmünchen / BW Linz
 DESCRIPTION:Frauenliga · 8. Spieltag
+LOCATION:NV Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574624.ht
  ml
 END:VEVENT
@@ -191,6 +192,19 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574646.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1574597@anstoss
+DTSTAMP:20261104T180000Z
+SEQUENCE:1
+DTSTART:20261104T180000Z
+DTEND:20261104T200000Z
+SUMMARY:SK Rapid – St. Pölten
+DESCRIPTION:Frauenliga · 2. Spieltag · Neuer Termin (vorher 13.12. 17:0
+ 0)
+LOCATION:Allianz Stadion\, Vienna
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1574597.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1574651@anstoss
 DTSTAMP:20261114T130000Z
 DTSTART:20261114T130000Z
@@ -209,17 +223,6 @@ DTEND:20261121T150000Z
 SUMMARY:Salzburg – St. Pölten
 DESCRIPTION:Frauenliga · 14. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574655.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1574597@anstoss
-DTSTAMP:20261213T160000Z
-DTSTART:20261213T160000Z
-DTEND:20261213T180000Z
-SUMMARY:SK Rapid – St. Pölten
-DESCRIPTION:Frauenliga · 2. Spieltag
-LOCATION:Allianz Stadion\, Vienna
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1574597.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -245,11 +248,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574667.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1574672@anstoss
-DTSTAMP:20270402T184500Z
-DTSTART:20270402T184500Z
-DTEND:20270402T204500Z
-SUMMARY:St. Pölten – Kleinmünchen / BW Linz
-DESCRIPTION:Frauenliga · 17. Spieltag
+DTSTAMP:20270404T110000Z
+SEQUENCE:1
+DTSTART:20270404T110000Z
+DTEND:20270404T130000Z
+SUMMARY:Kleinmünchen / BW Linz – St. Pölten
+DESCRIPTION:Frauenliga · 17. Spieltag · Neuer Termin (vorher 02.04. 20:
+ 45)
 LOCATION:NV Arena
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574672.ht
  ml

@@ -109,51 +109,61 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1582134.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582139@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T110000Z
+SEQUENCE:1
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
 SUMMARY:AGF – ASA Aarhus
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582139.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582148@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261025T103000Z
+SEQUENCE:1
+DTSTART:20261025T103000Z
+DTEND:20261025T123000Z
 SUMMARY:Odense Q – ASA Aarhus
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582148.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582150@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261031T120000Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
 SUMMARY:ASA Aarhus – KoldingQ
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582150.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582158@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T103000Z
+SEQUENCE:1
+DTSTART:20261108T103000Z
+DTEND:20261108T123000Z
 SUMMARY:Nordsjælland – ASA Aarhus
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582158.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582160@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T103000Z
+SEQUENCE:1
+DTSTART:20261115T103000Z
+DTEND:20261115T123000Z
 SUMMARY:ASA Aarhus – Brøndby
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582160.ht
  ml
 END:VEVENT

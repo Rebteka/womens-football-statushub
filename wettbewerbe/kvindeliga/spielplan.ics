@@ -469,16 +469,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1582136.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1582137@anstoss
-DTSTAMP:20261003T110000Z
-DTSTART:20261003T110000Z
-DTEND:20261003T130000Z
-SUMMARY:Nordsjælland – Køge
-DESCRIPTION:Kvindeliga · 10. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1582137.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1582134@anstoss
 DTSTAMP:20261003T110000Z
 DTSTART:20261003T110000Z
@@ -509,252 +499,314 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1582138.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1582137@anstoss
+DTSTAMP:20261004T120000Z
+SEQUENCE:1
+DTSTART:20261004T120000Z
+DTEND:20261004T140000Z
+SUMMARY:Nordsjælland – Køge
+DESCRIPTION:Kvindeliga · 10. Spieltag · Neuer Termin (vorher 03.10. 13:
+ 00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582137.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1582141@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T110000Z
+SEQUENCE:1
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
 SUMMARY:Fortuna Hjørring – KoldingQ
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582141.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1582142@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Køge – Brøndby
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1582142.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1582139@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T110000Z
+SEQUENCE:1
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
 SUMMARY:AGF – ASA Aarhus
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582139.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1582143@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Midtjylland – Nordsjælland
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1582143.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1582140@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T110000Z
+SEQUENCE:1
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
 SUMMARY:FC Copenhagen – Odense Q
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582140.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1582143@anstoss
+DTSTAMP:20261018T093000Z
+SEQUENCE:1
+DTSTART:20261018T093000Z
+DTEND:20261018T113000Z
+SUMMARY:Midtjylland – Nordsjælland
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582142@anstoss
+DTSTAMP:20261020T170000Z
+SEQUENCE:1
+DTSTART:20261020T170000Z
+DTEND:20261020T190000Z
+SUMMARY:Køge – Brøndby
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1582144@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T110000Z
+SEQUENCE:1
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
 SUMMARY:Brøndby – Midtjylland
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582144.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582145@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T110000Z
+SEQUENCE:1
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
 SUMMARY:Fortuna Hjørring – FC Copenhagen
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582145.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582146@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261024T110000Z
+SEQUENCE:1
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
 SUMMARY:KoldingQ – Køge
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582146.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1582147@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Nordsjælland – AGF
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1582147.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1582148@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261025T103000Z
+SEQUENCE:1
+DTSTART:20261025T103000Z
+DTEND:20261025T123000Z
 SUMMARY:Odense Q – ASA Aarhus
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582148.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1582147@anstoss
+DTSTAMP:20261027T180000Z
+SEQUENCE:1
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
+SUMMARY:Nordsjælland – AGF
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582147.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1582151@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261031T120000Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
 SUMMARY:Brøndby – Odense Q
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582151.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1582153@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Køge – Fortuna Hjørring
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1582153.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1582149@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:AGF – Midtjylland
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1582149.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1582150@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261031T120000Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
 SUMMARY:ASA Aarhus – KoldingQ
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582150.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582152@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261031T120000Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T140000Z
 SUMMARY:FC Copenhagen – Nordsjælland
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582152.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1582153@anstoss
+DTSTAMP:20261101T103000Z
+SEQUENCE:1
+DTSTART:20261101T103000Z
+DTEND:20261101T123000Z
+SUMMARY:Køge – Fortuna Hjørring
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582153.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1582149@anstoss
+DTSTAMP:20261103T180000Z
+SEQUENCE:1
+DTSTART:20261103T180000Z
+DTEND:20261103T200000Z
+SUMMARY:AGF – Midtjylland
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1582149.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1582154@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261107T120000Z
+SEQUENCE:1
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
 SUMMARY:Fortuna Hjørring – Brøndby
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582154.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582156@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261107T120000Z
+SEQUENCE:1
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
 SUMMARY:KoldingQ – FC Copenhagen
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582156.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582155@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261107T120000Z
+SEQUENCE:1
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
 SUMMARY:Køge – AGF
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582155.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582158@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261108T103000Z
+SEQUENCE:1
+DTSTART:20261108T103000Z
+DTEND:20261108T123000Z
 SUMMARY:Nordsjælland – ASA Aarhus
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582158.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582157@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261110T180000Z
+SEQUENCE:1
+DTSTART:20261110T180000Z
+DTEND:20261110T200000Z
 SUMMARY:Midtjylland – Odense Q
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582157.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582162@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261114T120000Z
+SEQUENCE:1
+DTSTART:20261114T120000Z
+DTEND:20261114T140000Z
 SUMMARY:KoldingQ – Nordsjælland
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582162.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582163@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261114T120000Z
+SEQUENCE:1
+DTSTART:20261114T120000Z
+DTEND:20261114T140000Z
 SUMMARY:Odense Q – Køge
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582163.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582159@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261114T120000Z
+SEQUENCE:1
+DTSTART:20261114T120000Z
+DTEND:20261114T140000Z
 SUMMARY:AGF – Fortuna Hjørring
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582159.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582160@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T103000Z
+SEQUENCE:1
+DTSTART:20261115T103000Z
+DTEND:20261115T123000Z
 SUMMARY:ASA Aarhus – Brøndby
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582160.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582161@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261115T120000Z
+SEQUENCE:1
+DTSTART:20261115T120000Z
+DTEND:20261115T140000Z
 SUMMARY:FC Copenhagen – Midtjylland
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582161.ht
  ml
 END:VEVENT

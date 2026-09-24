@@ -101,11 +101,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574634.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1574638@anstoss
-DTSTAMP:20261025T160000Z
-DTSTART:20261025T160000Z
-DTEND:20261025T180000Z
+DTSTAMP:20261024T110000Z
+SEQUENCE:1
+DTSTART:20261024T110000Z
+DTEND:20261024T130000Z
 SUMMARY:Austria Wien – Rheindorf Altach
-DESCRIPTION:Frauenliga · 11. Spieltag
+DESCRIPTION:Frauenliga · 11. Spieltag · Neuer Termin (vorher 25.10. 17:
+ 00)
 LOCATION:Generali Arena\, Vienna
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574638.ht
  ml

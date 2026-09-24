@@ -110,51 +110,61 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1582136.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582139@anstoss
-DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T110000Z
+SEQUENCE:1
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
 SUMMARY:AGF – ASA Aarhus
-DESCRIPTION:Kvindeliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 11. Spieltag · Neuer Termin (vorher 18.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582139.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582147@anstoss
-DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTAMP:20261027T180000Z
+SEQUENCE:1
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
 SUMMARY:Nordsjælland – AGF
-DESCRIPTION:Kvindeliga · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 12. Spieltag · Neuer Termin (vorher 25.10. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582147.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582149@anstoss
-DTSTAMP:20261101T130000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTAMP:20261103T180000Z
+SEQUENCE:1
+DTSTART:20261103T180000Z
+DTEND:20261103T200000Z
 SUMMARY:AGF – Midtjylland
-DESCRIPTION:Kvindeliga · 13. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 13. Spieltag · Neuer Termin (vorher 01.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582149.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582155@anstoss
-DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261107T120000Z
+SEQUENCE:1
+DTSTART:20261107T120000Z
+DTEND:20261107T140000Z
 SUMMARY:Køge – AGF
-DESCRIPTION:Kvindeliga · 14. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 14. Spieltag · Neuer Termin (vorher 08.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582155.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582159@anstoss
-DTSTAMP:20261115T130000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261114T120000Z
+SEQUENCE:1
+DTSTART:20261114T120000Z
+DTEND:20261114T140000Z
 SUMMARY:AGF – Fortuna Hjørring
-DESCRIPTION:Kvindeliga · 15. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 15. Spieltag · Neuer Termin (vorher 15.11. 14:
+ 00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582159.ht
  ml
 END:VEVENT

@@ -193,17 +193,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1612650.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1612651@anstoss
-DTSTAMP:20261018T130000Z
-DTSTART:20261018T130000Z
-DTEND:20261018T150000Z
-SUMMARY:Wolverhampton – Ipswich Town
-DESCRIPTION:League Cup (England) · Gruppenphase
-LOCATION:New Bucks Head\, Telford
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1612651.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1612648@anstoss
 DTSTAMP:20261018T130000Z
 DTSTART:20261018T130000Z
@@ -234,6 +223,19 @@ SUMMARY:Bristol City – Southampton
 DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Ashton Gate Stadium\, Bristol
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612652.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1612651@anstoss
+DTSTAMP:20261018T140000Z
+SEQUENCE:1
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Wolverhampton – Ipswich Town
+DESCRIPTION:League Cup (England) · Gruppenphase · Neuer Termin (vorher 
+ 18.10. 15:00)
+LOCATION:New Bucks Head\, Telford
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1612651.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

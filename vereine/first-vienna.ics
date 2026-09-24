@@ -131,11 +131,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1574643.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1574652@anstoss
-DTSTAMP:20261113T173000Z
-DTSTART:20261113T173000Z
-DTEND:20261113T193000Z
+DTSTAMP:20261113T170000Z
+SEQUENCE:1
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
 SUMMARY:Sturm Graz – First Vienna
-DESCRIPTION:Frauenliga · 13. Spieltag
+DESCRIPTION:Frauenliga · 13. Spieltag · Neuer Termin (vorher 13.11. 18:
+ 30)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1574652.ht
  ml
 END:VEVENT
