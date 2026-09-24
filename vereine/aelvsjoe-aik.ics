@@ -19,11 +19,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1610913.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1636783@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
+DTSTAMP:20260930T180000Z
+SEQUENCE:1
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
 SUMMARY:Älvsjö AIK – Djurgården
-DESCRIPTION:Svenska Cupen · Round 2
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636783.ht
  ml
 END:VEVENT

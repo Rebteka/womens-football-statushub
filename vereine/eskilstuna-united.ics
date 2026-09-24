@@ -217,16 +217,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495559.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1636793@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Örebro SK – Eskilstuna United
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636793.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1495566@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z
@@ -235,6 +225,18 @@ SUMMARY:Hammarby – Eskilstuna United
 DESCRIPTION:Damallsvenskan · 20. Spieltag
 LOCATION:Hammarby IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495566.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636793@anstoss
+DTSTAMP:20260930T170000Z
+SEQUENCE:1
+DTSTART:20260930T170000Z
+DTEND:20260930T190000Z
+SUMMARY:Örebro SK – Eskilstuna United
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636793.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

@@ -217,16 +217,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495563.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1636788@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Hu Ge – Uppsala
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636788.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1495571@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z
@@ -235,6 +225,18 @@ SUMMARY:Uppsala – Djurgården
 DESCRIPTION:Damallsvenskan · 20. Spieltag
 LOCATION:Studenternas IP\, Uppsala
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495571.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636788@anstoss
+DTSTAMP:20260929T170000Z
+SEQUENCE:1
+DTSTART:20260929T170000Z
+DTEND:20260929T190000Z
+SUMMARY:Hu Ge – Uppsala
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636788.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

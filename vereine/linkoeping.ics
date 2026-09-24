@@ -210,16 +210,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501482.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1636792@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Linköping – Norrköping
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636792.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1501489@anstoss
 DTSTAMP:20260925T170000Z
 DTSTART:20260925T170000Z
@@ -227,6 +217,18 @@ DTEND:20260925T190000Z
 SUMMARY:Örebro SK – Linköping
 DESCRIPTION:Elitettan · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501489.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636792@anstoss
+DTSTAMP:20260929T170000Z
+SEQUENCE:1
+DTSTART:20260929T170000Z
+DTEND:20260929T190000Z
+SUMMARY:Linköping – Norrköping
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636792.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
