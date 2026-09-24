@@ -1,1 +1,1 @@
-{"league_ids": [82, 525, 947, 1034, 1137], "matches": []}
+{"league_ids": [82, 525, 947, 1034, 1137], "matches": [{"fixture_id": 1629375, "league_id": 947, "kickoff_utc": "2026-09-26T12:00:00Z", "home": "FC Ingolstadt 04", "away": "1. FSV Mainz 05"}, {"fixture_id": 1629367, "league_id": 947, "kickoff_utc": "2026-09-26T12:00:00Z", "home": "SG 99 Andernach", "away": "SC Freiburg"}, {"fixture_id": 1629374, "league_id": 947, "kickoff_utc": "2026-09-26T12:00:00Z", "home": "Hertha BSC", "away": "1. FC Köln"}]}
