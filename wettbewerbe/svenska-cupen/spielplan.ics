@@ -272,16 +272,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1636785.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1636786@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Gamla Upsala – Hammarby (verlegt)
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636786.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1636792@anstoss
 DTSTAMP:20260923T170000Z
 DTSTART:20260923T170000Z
@@ -339,6 +329,16 @@ DTEND:20260923T190000Z
 SUMMARY:Enskede – Brommapojkarna (verlegt)
 DESCRIPTION:Svenska Cupen · Round 2
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1636784.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636786@anstoss
+DTSTAMP:20260923T170000Z
+DTSTART:20260923T170000Z
+DTEND:20260923T190000Z
+SUMMARY:Gamla Upsala – Hammarby (verlegt)
+DESCRIPTION:Svenska Cupen · Round 2
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636786.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

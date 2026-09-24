@@ -67,7 +67,7 @@ UID:fixture-1612638@anstoss
 DTSTAMP:20260923T183000Z
 DTSTART:20260923T183000Z
 DTEND:20260923T203000Z
-SUMMARY:Leicester City FC – London City Lionesses
+SUMMARY:Leicester City FC – London City Lionesses 0:2
 DESCRIPTION:League Cup (England) · Gruppenphase
 LOCATION:Meadow Lane\, Nottingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612638.ht
@@ -80,7 +80,7 @@ DTSTART:20260926T160000Z
 DTEND:20260926T180000Z
 SUMMARY:London City Lionesses – Brighton
 DESCRIPTION:Women's Super League · 4. Spieltag
-LOCATION:Hayes Lane\, London
+LOCATION:Princes Park\, Dartford
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607685.ht
  ml
 END:VEVENT

@@ -2223,7 +2223,7 @@ DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
 SUMMARY:NJ/NY Gotham FC – Chicago Red Stars
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Sports Illustrated Stadium
+LOCATION:Sports Illustrated Stadium\, Harrison
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508557.ht
  ml
 END:VEVENT
@@ -2234,7 +2234,7 @@ DTSTART:20260926T003000Z
 DTEND:20260926T023000Z
 SUMMARY:Seattle Reign FC – Boston Legacy
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Lumen Field
+LOCATION:Lumen Field\, Seattle
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508558.ht
  ml
 END:VEVENT
@@ -2256,7 +2256,7 @@ DTSTART:20260926T223000Z
 DTEND:20260927T003000Z
 SUMMARY:Washington Spirit – Angel City
 DESCRIPTION:NWSL · Gruppenphase
-LOCATION:Audi Field
+LOCATION:Audi Field\, Washington
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1508560.ht
  ml
 END:VEVENT
