@@ -189,7 +189,7 @@ DTSTART:20261101T120000Z
 DTEND:20261101T140000Z
 SUMMARY:London City Lionesses – Manchester City
 DESCRIPTION:Women's Super League · 8. Spieltag
-LOCATION:Hayes Lane\, London
+LOCATION:Copperjax Community Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607717.ht
  ml
 END:VEVENT
@@ -299,7 +299,7 @@ DTSTART:20270120T193000Z
 DTEND:20270120T213000Z
 SUMMARY:Birmingham City – Manchester City
 DESCRIPTION:Women's Super League · 15. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607765.ht
  ml
 END:VEVENT
@@ -400,7 +400,7 @@ DTSTART:20270430T180000Z
 DTEND:20270430T200000Z
 SUMMARY:Everton – Manchester City
 DESCRIPTION:Women's Super League · 24. Spieltag
-LOCATION:Walton Hall Park\, Liverpool
+LOCATION:Goodison Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607824.ht
  ml
 END:VEVENT

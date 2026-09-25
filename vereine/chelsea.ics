@@ -377,7 +377,7 @@ DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
 SUMMARY:London City Lionesses – Chelsea
 DESCRIPTION:Women's Super League · 19. Spieltag
-LOCATION:Hayes Lane\, London
+LOCATION:Copperjax Community Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607794.ht
  ml
 END:VEVENT
@@ -388,7 +388,7 @@ DTSTART:20270313T123000Z
 DTEND:20270313T143000Z
 SUMMARY:Birmingham City – Chelsea
 DESCRIPTION:Women's Super League · 20. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607796.ht
  ml
 END:VEVENT
@@ -455,7 +455,7 @@ DTSTART:20270522T130000Z
 DTEND:20270522T150000Z
 SUMMARY:Everton – Chelsea
 DESCRIPTION:Women's Super League · 26. Spieltag
-LOCATION:Walton Hall Park\, Liverpool
+LOCATION:Goodison Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607840.ht
  ml
 END:VEVENT

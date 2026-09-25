@@ -156,7 +156,7 @@ DTSTART:20261025T140000Z
 DTEND:20261025T160000Z
 SUMMARY:Birmingham City – Charlton Athletic
 DESCRIPTION:Women's Super League · 7. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607706.ht
  ml
 END:VEVENT
@@ -367,7 +367,7 @@ DTEND;VALUE=DATE:20270405
 SUMMARY:London City Lionesses – Charlton Athletic
 DESCRIPTION:Women's Super League · 23. Spieltag · Anstosszeit noch offe
  n
-LOCATION:Hayes Lane\, London
+LOCATION:Copperjax Community Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607822.ht
  ml
 END:VEVENT

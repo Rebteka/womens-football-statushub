@@ -157,7 +157,7 @@ DTSTART:20261101T140000Z
 DTEND:20261101T160000Z
 SUMMARY:Birmingham City – Tottenham Hotspur
 DESCRIPTION:Women's Super League · 8. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607714.ht
  ml
 END:VEVENT
@@ -311,7 +311,7 @@ DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
 SUMMARY:Everton – Tottenham Hotspur
 DESCRIPTION:Women's Super League · 19. Spieltag
-LOCATION:Walton Hall Park\, Liverpool
+LOCATION:Goodison Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607792.ht
  ml
 END:VEVENT
@@ -367,7 +367,7 @@ DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
 SUMMARY:London City Lionesses – Tottenham Hotspur
 DESCRIPTION:Women's Super League · 24. Spieltag
-LOCATION:Hayes Lane\, London
+LOCATION:Copperjax Community Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607828.ht
  ml
 END:VEVENT

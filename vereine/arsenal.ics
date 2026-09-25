@@ -245,7 +245,7 @@ DTSTART:20261212T123000Z
 DTEND:20261212T143000Z
 SUMMARY:Everton – Arsenal
 DESCRIPTION:Women's Super League · 12. Spieltag
-LOCATION:Walton Hall Park\, Liverpool
+LOCATION:Goodison Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607740.ht
  ml
 END:VEVENT
@@ -300,7 +300,7 @@ DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
 SUMMARY:London City Lionesses – Arsenal
 DESCRIPTION:Women's Super League · 16. Spieltag
-LOCATION:Hayes Lane\, London
+LOCATION:Copperjax Community Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607773.ht
  ml
 END:VEVENT
@@ -323,7 +323,7 @@ DTEND;VALUE=DATE:20270208
 SUMMARY:Birmingham City – Arsenal
 DESCRIPTION:Women's Super League · 18. Spieltag · Anstosszeit noch offe
  n
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607783.ht
  ml
 END:VEVENT

@@ -66,7 +66,7 @@ DTSTART:20260913T130000Z
 DTEND:20260913T150000Z
 SUMMARY:Birmingham City – Brighton 2:2
 DESCRIPTION:Women's Super League · 2. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607672.ht
  ml
 END:VEVENT
@@ -99,7 +99,7 @@ DTSTART:20260927T130000Z
 DTEND:20260927T150000Z
 SUMMARY:Birmingham City – Crystal Palace
 DESCRIPTION:Women's Super League · 4. Spieltag
-LOCATION:The DCS Stadium\, Stratford-upon-Avon
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607687.ht
  ml
 END:VEVENT
@@ -120,7 +120,7 @@ DTSTART:20261004T130000Z
 DTEND:20261004T150000Z
 SUMMARY:Everton – Birmingham City
 DESCRIPTION:Women's Super League · 5. Spieltag
-LOCATION:Walton Hall Park\, Liverpool
+LOCATION:Goodison Park\, Liverpool
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607695.ht
  ml
 END:VEVENT
@@ -153,7 +153,7 @@ DTSTART:20261025T140000Z
 DTEND:20261025T160000Z
 SUMMARY:Birmingham City – Charlton Athletic
 DESCRIPTION:Women's Super League · 7. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607706.ht
  ml
 END:VEVENT
@@ -175,7 +175,7 @@ DTSTART:20261101T140000Z
 DTEND:20261101T160000Z
 SUMMARY:Birmingham City – Tottenham Hotspur
 DESCRIPTION:Women's Super League · 8. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607714.ht
  ml
 END:VEVENT
@@ -186,7 +186,7 @@ DTSTART:20261107T120000Z
 DTEND:20261107T140000Z
 SUMMARY:London City Lionesses – Birmingham City
 DESCRIPTION:Women's Super League · 9. Spieltag
-LOCATION:Hayes Lane\, London
+LOCATION:Copperjax Community Stadium\, London
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607720.ht
  ml
 END:VEVENT
@@ -218,7 +218,7 @@ DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Birmingham City – Manchester United
 DESCRIPTION:Women's Super League · 11. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607734.ht
  ml
 END:VEVENT
@@ -272,7 +272,7 @@ DTSTART:20270120T193000Z
 DTEND:20270120T213000Z
 SUMMARY:Birmingham City – Manchester City
 DESCRIPTION:Women's Super League · 15. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607765.ht
  ml
 END:VEVENT
@@ -294,7 +294,7 @@ DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
 SUMMARY:Birmingham City – Aston Villa
 DESCRIPTION:Women's Super League · 17. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607777.ht
  ml
 END:VEVENT
@@ -306,7 +306,7 @@ DTEND;VALUE=DATE:20270208
 SUMMARY:Birmingham City – Arsenal
 DESCRIPTION:Women's Super League · 18. Spieltag · Anstosszeit noch offe
  n
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607783.ht
  ml
 END:VEVENT
@@ -328,7 +328,7 @@ DTSTART:20270313T123000Z
 DTEND:20270313T143000Z
 SUMMARY:Birmingham City – Chelsea
 DESCRIPTION:Women's Super League · 20. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607796.ht
  ml
 END:VEVENT
@@ -350,7 +350,7 @@ DTSTART:20270328T130000Z
 DTEND:20270328T150000Z
 SUMMARY:Birmingham City – London City Lionesses
 DESCRIPTION:Women's Super League · 22. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607813.ht
  ml
 END:VEVENT
@@ -384,7 +384,7 @@ DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
 SUMMARY:Birmingham City – Everton
 DESCRIPTION:Women's Super League · 25. Spieltag
-LOCATION:The DCS Stadium\, Birmingham
+LOCATION:St. Andrew's @ Knighthead Park\, Birmingham
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1607833.ht
  ml
 END:VEVENT
