@@ -132,11 +132,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566669.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1566670@anstoss
-DTSTAMP:20261114T100000Z
-DTSTART:20261114T100000Z
-DTEND:20261114T120000Z
+DTSTAMP:20261114T140000Z
+SEQUENCE:1
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Ružomberok – Z. Moravce-Vrable
-DESCRIPTION:I Liga - Women · 13. Spieltag
+DESCRIPTION:I Liga - Women · 13. Spieltag · Neuer Termin (vorher 14.11.
+  11:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566670.ht
  ml
 END:VEVENT

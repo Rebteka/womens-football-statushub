@@ -72,11 +72,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581719.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581727@anstoss
-DTSTAMP:20261017T150000Z
-DTSTART:20261017T150000Z
-DTEND:20261017T170000Z
+DTSTAMP:20261017T100000Z
+SEQUENCE:1
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
 SUMMARY:Lech Poznan – Pogon Szczecin
-DESCRIPTION:Ekstraliga Women · 8. Spieltag
+DESCRIPTION:Ekstraliga Women · 8. Spieltag · Neuer Termin (vorher 17.10
+ . 17:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581727.ht
  ml
 END:VEVENT

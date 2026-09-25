@@ -91,11 +91,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1566665.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1566619@anstoss
-DTSTAMP:20261017T090000Z
-DTSTART:20261017T090000Z
-DTEND:20261017T110000Z
+DTSTAMP:20261017T130000Z
+SEQUENCE:1
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
 SUMMARY:Ružomberok – Dukla Banská Bystrica
-DESCRIPTION:I Liga - Women · 9. Spieltag
+DESCRIPTION:I Liga - Women · 9. Spieltag · Neuer Termin (vorher 17.10. 
+ 11:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566619.ht
  ml
 END:VEVENT

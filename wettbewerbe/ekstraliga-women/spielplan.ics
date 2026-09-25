@@ -412,6 +412,18 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581730.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1581727@anstoss
+DTSTAMP:20261017T100000Z
+SEQUENCE:1
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+SUMMARY:Lech Poznan – Pogon Szczecin
+DESCRIPTION:Ekstraliga Women · 8. Spieltag · Neuer Termin (vorher 17.10
+ . 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581727.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1581725@anstoss
 DTSTAMP:20261017T150000Z
 DTSTART:20261017T150000Z
@@ -419,16 +431,6 @@ DTEND:20261017T170000Z
 SUMMARY:Czarni Sosnowiec – Akademia Piłkarska LG
 DESCRIPTION:Ekstraliga Women · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581725.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1581727@anstoss
-DTSTAMP:20261017T150000Z
-DTSTART:20261017T150000Z
-DTEND:20261017T170000Z
-SUMMARY:Lech Poznan – Pogon Szczecin
-DESCRIPTION:Ekstraliga Women · 8. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1581727.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
