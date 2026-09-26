@@ -124,11 +124,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1623502.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1623506@anstoss
-DTSTAMP:20261021T080000Z
-DTSTART:20261021T080000Z
-DTEND:20261021T100000Z
+DTSTAMP:20261021T120000Z
+SEQUENCE:1
+DTSTART:20261021T120000Z
+DTEND:20261021T140000Z
 SUMMARY:FC Rapid Bucuresti – Farul Constanţa
-DESCRIPTION:Liga 1 Feminin · 8. Spieltag
+DESCRIPTION:Liga 1 Feminin · 8. Spieltag · Neuer Termin (vorher 21.10. 
+ 10:00)
 LOCATION:Superbet Arena - Giulesti\, Bucharest
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1623506.ht
  ml
