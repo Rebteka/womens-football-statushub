@@ -1380,7 +1380,7 @@ UID:fixture-1501486@anstoss
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
 DTEND:20260926T130000Z
-SUMMARY:Göteborg – Elfsborg
+SUMMARY:Göteborg – Elfsborg 1:1
 DESCRIPTION:Elitettan · 20. Spieltag
 LOCATION:Gamla Ullevi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501486.ht
@@ -1391,7 +1391,7 @@ UID:fixture-1503714@anstoss
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
 DTEND:20260926T130000Z
-SUMMARY:Enskede – KIF Örebro
+SUMMARY:Enskede – KIF Örebro 1:1
 DESCRIPTION:Elitettan · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1503714.ht
  ml
@@ -1401,7 +1401,7 @@ UID:fixture-1501490@anstoss
 DTSTAMP:20260926T120000Z
 DTSTART:20260926T120000Z
 DTEND:20260926T140000Z
-SUMMARY:Sandviken – Umeå
+SUMMARY:Sandviken – Umeå 0:0
 DESCRIPTION:Elitettan · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501490.ht
  ml
@@ -1411,7 +1411,7 @@ UID:fixture-1501487@anstoss
 DTSTAMP:20260926T120000Z
 DTSTART:20260926T120000Z
 DTEND:20260926T140000Z
-SUMMARY:Häcken II – Jitex
+SUMMARY:Häcken II – Jitex 0:0
 DESCRIPTION:Elitettan · 20. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501487.ht
  ml
