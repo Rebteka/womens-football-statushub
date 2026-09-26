@@ -1354,17 +1354,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1530015.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1530012@anstoss
-DTSTAMP:20261003T100000Z
-DTSTART:20261003T100000Z
-DTEND:20261003T120000Z
-SUMMARY:Rostov – Krasnodar
-DESCRIPTION:Supreme Division Women · 21. Spieltag
-LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1530012.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1530011@anstoss
 DTSTAMP:20261003T100000Z
 DTSTART:20261003T100000Z
@@ -1399,6 +1388,19 @@ DESCRIPTION:Supreme Division Women · 21. Spieltag · Neuer Termin (vorhe
  r 03.10. 12:00)
 LOCATION:Chertanovo Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530010.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1530012@anstoss
+DTSTAMP:20261003T160000Z
+SEQUENCE:1
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Rostov – Krasnodar
+DESCRIPTION:Supreme Division Women · 21. Spieltag · Neuer Termin (vorhe
+ r 03.10. 12:00)
+LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1530012.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
