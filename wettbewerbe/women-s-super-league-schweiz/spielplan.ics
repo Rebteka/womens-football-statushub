@@ -554,16 +554,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581802.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1581799@anstoss
-DTSTAMP:20261107T160000Z
-DTSTART:20261107T160000Z
-DTEND:20261107T180000Z
-SUMMARY:Aarau – Yverdon
-DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1581799.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1581801@anstoss
 DTSTAMP:20261107T170000Z
 DTSTART:20261107T170000Z
@@ -595,6 +585,18 @@ SUMMARY:Grasshopper – St. Gallen
 DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag · Neuer Termi
  n (vorher 07.11. 18:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581800.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1581799@anstoss
+DTSTAMP:20261108T133000Z
+SEQUENCE:1
+DTSTART:20261108T133000Z
+DTEND:20261108T153000Z
+SUMMARY:Aarau – Yverdon
+DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag · Neuer Termi
+ n (vorher 07.11. 17:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1581799.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

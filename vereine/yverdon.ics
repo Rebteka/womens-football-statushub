@@ -120,11 +120,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1581795.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581799@anstoss
-DTSTAMP:20261107T160000Z
-DTSTART:20261107T160000Z
-DTEND:20261107T180000Z
+DTSTAMP:20261108T133000Z
+SEQUENCE:1
+DTSTART:20261108T133000Z
+DTEND:20261108T153000Z
 SUMMARY:Aarau – Yverdon
-DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag
+DESCRIPTION:Women's Super League (Schweiz) · 11. Spieltag · Neuer Termi
+ n (vorher 07.11. 17:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581799.ht
  ml
 END:VEVENT

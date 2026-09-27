@@ -100,17 +100,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1603379.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1603383@anstoss
-DTSTAMP:20261003T010600Z
-DTSTART:20261003T010600Z
-DTEND:20261003T030600Z
-SUMMARY:Atlas – León
-DESCRIPTION:Liga MX Femenil · 10. Spieltag
-LOCATION:Estadio Jalisco\, Guadalajara
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1603383.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1603398@anstoss
 DTSTAMP:20261020T010600Z
 DTSTART:20261020T010600Z
@@ -118,6 +107,19 @@ DTEND:20261020T030600Z
 SUMMARY:León – Atlante
 DESCRIPTION:Liga MX Femenil · 11. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1603398.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603383@anstoss
+DTSTAMP:20261023T010600Z
+SEQUENCE:1
+DTSTART:20261023T010600Z
+DTEND:20261023T030600Z
+SUMMARY:Atlas – León
+DESCRIPTION:Liga MX Femenil · 10. Spieltag · Neuer Termin (vorher 03.10
+ . 03:06)
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603383.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

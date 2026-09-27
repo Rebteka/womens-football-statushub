@@ -816,7 +816,7 @@ UID:fixture-1603375@anstoss
 DTSTAMP:20260927T010600Z
 DTSTART:20260927T010600Z
 DTEND:20260927T030600Z
-SUMMARY:Juárez – Tijuana
+SUMMARY:Juárez – Tijuana 5:1
 DESCRIPTION:Liga MX Femenil · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1603375.ht
  ml
@@ -893,17 +893,6 @@ DTEND:20261003T030000Z
 SUMMARY:Pumas UNAM – Tigres UANL
 DESCRIPTION:Liga MX Femenil · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1603382.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1603383@anstoss
-DTSTAMP:20261003T010600Z
-DTSTART:20261003T010600Z
-DTEND:20261003T030600Z
-SUMMARY:Atlas – León
-DESCRIPTION:Liga MX Femenil · 10. Spieltag
-LOCATION:Estadio Jalisco\, Guadalajara
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1603383.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -1068,14 +1057,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1603398.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1603399@anstoss
-DTSTAMP:20261024T010600Z
-DTSTART:20261024T010600Z
-DTEND:20261024T030600Z
-SUMMARY:Atlas – Puebla
-DESCRIPTION:Liga MX Femenil · 12. Spieltag
-LOCATION:Estadio Colomos\, Zapopan
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1603399.ht
+UID:fixture-1603383@anstoss
+DTSTAMP:20261023T010600Z
+SEQUENCE:1
+DTSTART:20261023T010600Z
+DTEND:20261023T030600Z
+SUMMARY:Atlas – León
+DESCRIPTION:Liga MX Femenil · 10. Spieltag · Neuer Termin (vorher 03.10
+ . 03:06)
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603383.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -1152,6 +1143,19 @@ SUMMARY:Atlante – Guadalajara
 DESCRIPTION:Liga MX Femenil · 12. Spieltag
 LOCATION:Estadio Banorte\, Mexico City
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1603406.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1603399@anstoss
+DTSTAMP:20261026T230000Z
+SEQUENCE:1
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+SUMMARY:Atlas – Puebla
+DESCRIPTION:Liga MX Femenil · 12. Spieltag · Neuer Termin (vorher 24.10
+ . 03:06)
+LOCATION:Estadio Jalisco\, Guadalajara
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1603399.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
