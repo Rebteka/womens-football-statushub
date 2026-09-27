@@ -1038,16 +1038,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1535659.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1535719@anstoss
-DTSTAMP:20260920T113000Z
-DTSTART:20260920T113000Z
-DTEND:20260920T133000Z
-SUMMARY:Arna-Bjørnar – Frigg Oslo FK (verlegt)
-DESCRIPTION:1. Division Women · 18. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1535719.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1535721@anstoss
 DTSTAMP:20260920T123000Z
 DTSTART:20260920T123000Z
@@ -1137,6 +1127,18 @@ DTEND:20260927T130000Z
 SUMMARY:Åsane – Start
 DESCRIPTION:1. Division Women · 19. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1535661.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1535719@anstoss
+DTSTAMP:20260930T140000Z
+SEQUENCE:1
+DTSTART:20260930T140000Z
+DTEND:20260930T160000Z
+SUMMARY:Arna-Bjørnar – Frigg Oslo FK
+DESCRIPTION:1. Division Women · 18. Spieltag · Neuer Termin (vorher 20.
+ 09. 13:30)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1535719.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

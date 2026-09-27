@@ -244,12 +244,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1640463@anstoss
 DTSTAMP:20260926T201500Z
-SEQUENCE:1
 DTSTART:20260926T201500Z
 DTEND:20260926T221500Z
-SUMMARY:UNSAAC – U. de Deportes
-DESCRIPTION:Liga Women · Clausura · 11. Spieltag · Neuer Termin (vorhe
- r 26.09. 20:00)
+SUMMARY:UNSAAC – U. de Deportes 2:5
+DESCRIPTION:Liga Women · Clausura · 11. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1640463.ht
  ml
 END:VEVENT
