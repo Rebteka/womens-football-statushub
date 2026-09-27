@@ -267,7 +267,7 @@ UID:fixture-1495567@anstoss
 DTSTAMP:20260927T110000Z
 DTSTART:20260927T110000Z
 DTEND:20260927T130000Z
-SUMMARY:Brommapojkarna – Malmö FF
+SUMMARY:Brommapojkarna – Malmö FF 2:1
 DESCRIPTION:Damallsvenskan · 20. Spieltag
 LOCATION:Grimsta IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495567.ht
@@ -275,11 +275,13 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495567.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638419@anstoss
-DTSTAMP:20260930T160000Z
-DTSTART:20260930T160000Z
-DTEND:20260930T180000Z
+DTSTAMP:20260930T170000Z
+SEQUENCE:1
+DTSTART:20260930T170000Z
+DTEND:20260930T190000Z
 SUMMARY:Malmö FF – St. Pölten
-DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale
+DESCRIPTION:UEFA Women's Europa Cup · 1. Qualifikationsrunde · Finale 
+ · Neuer Termin (vorher 30.09. 18:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638419.ht
  ml
 END:VEVENT
