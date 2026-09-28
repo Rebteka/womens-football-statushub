@@ -209,16 +209,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1501479.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1636782@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Alingsås – Elfsborg (verlegt)
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636782.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1501485@anstoss
 DTSTAMP:20260926T140000Z
 DTSTART:20260926T140000Z
@@ -237,6 +227,18 @@ SUMMARY:Göteborg – Alingsås
 DESCRIPTION:Elitettan · 21. Spieltag
 LOCATION:Gamla Ullevi
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1501493.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636782@anstoss
+DTSTAMP:20261008T163000Z
+SEQUENCE:1
+DTSTART:20261008T163000Z
+DTEND:20261008T183000Z
+SUMMARY:Alingsås – Elfsborg
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636782.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

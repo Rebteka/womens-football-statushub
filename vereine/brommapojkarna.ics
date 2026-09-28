@@ -217,16 +217,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1495563.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1636784@anstoss
-DTSTAMP:20260923T170000Z
-DTSTART:20260923T170000Z
-DTEND:20260923T190000Z
-SUMMARY:Enskede – Brommapojkarna
-DESCRIPTION:Svenska Cupen · Round 2
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1636784.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1495567@anstoss
 DTSTAMP:20260927T110000Z
 DTSTART:20260927T110000Z
@@ -246,6 +236,18 @@ SUMMARY:Hammarby – Brommapojkarna
 DESCRIPTION:Damallsvenskan · 21. Spieltag
 LOCATION:Hammarby IP\, Stockholm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1495574.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1636784@anstoss
+DTSTAMP:20261008T170000Z
+SEQUENCE:1
+DTSTART:20261008T170000Z
+DTEND:20261008T190000Z
+SUMMARY:Enskede – Brommapojkarna
+DESCRIPTION:Svenska Cupen · Round 2 · Neuer Termin (vorher 23.09. 19:00
+ )
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1636784.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
