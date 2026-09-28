@@ -293,17 +293,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1641145.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1639871@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Corinthians – Caracas
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-LOCATION:Neo Quimica Arena\, Sao Paulo
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639871.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1639870@anstoss
 DTSTAMP:20261015T200000Z
 DTSTART:20261015T200000Z
@@ -312,6 +301,29 @@ SUMMARY:Corinthians – Colo-Colo
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
 LOCATION:Neo Quimica Arena\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639870.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639871@anstoss
+DTSTAMP:20261019T000000Z
+SEQUENCE:1
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+SUMMARY:Corinthians – Caracas
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642145@anstoss
+DTSTAMP:20261021T200000Z
+DTSTART:20261021T200000Z
+DTEND:20261021T220000Z
+SUMMARY:Santa Fe – Corinthians
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642145.ht
  ml
 END:VEVENT
 END:VCALENDAR

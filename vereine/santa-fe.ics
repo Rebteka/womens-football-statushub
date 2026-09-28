@@ -276,4 +276,34 @@ LOCATION:Estadio Deportivo Cali\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1641154.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642141@anstoss
+DTSTAMP:20261016T000000Z
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+SUMMARY:Caracas – Santa Fe
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642143@anstoss
+DTSTAMP:20261018T200000Z
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Colo-Colo – Santa Fe
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642145@anstoss
+DTSTAMP:20261021T200000Z
+DTSTART:20261021T200000Z
+DTEND:20261021T220000Z
+SUMMARY:Santa Fe – Corinthians
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642145.ht
+ ml
+END:VEVENT
 END:VCALENDAR

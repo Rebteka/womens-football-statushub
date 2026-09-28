@@ -9,21 +9,37 @@ REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
 UID:fixture-1639868@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261017T000000Z
+SEQUENCE:1
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
 SUMMARY:Club Nacional de Football – Universidad de Chile
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639868.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1639880@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Libertad Asuncion – Club Nacional de Football
+UID:fixture-1642144@anstoss
+DTSTAMP:20261019T200000Z
+DTSTART:20261019T200000Z
+DTEND:20261019T220000Z
+SUMMARY:Deportivo Cali – Club Nacional de Football
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639880@anstoss
+DTSTAMP:20261022T200000Z
+SEQUENCE:1
+DTSTART:20261022T200000Z
+DTEND:20261022T220000Z
+SUMMARY:Libertad Asuncion – Club Nacional de Football
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+LOCATION:Estadio Tigo La Huerta
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639880.ht
  ml
 END:VEVENT

@@ -19,21 +19,25 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1639875.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1639866@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261018T200000Z
+SEQUENCE:1
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
 SUMMARY:Belgrano – Palmeiras
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639866.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1639865@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261022T000000Z
+SEQUENCE:1
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
 SUMMARY:Belgrano – U. de Deportes
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639865.ht
  ml
 END:VEVENT

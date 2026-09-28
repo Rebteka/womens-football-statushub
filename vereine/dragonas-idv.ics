@@ -8,26 +8,6 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1639877@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Dragonas IDV – Palmeiras
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639877.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639876@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Dragonas IDV – U. de Deportes
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639876.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1639875@anstoss
 DTSTAMP:20261015T200000Z
 DTSTART:20261015T200000Z
@@ -35,6 +15,31 @@ DTEND:20261015T220000Z
 SUMMARY:Dragonas IDV – Belgrano
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639875.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639876@anstoss
+DTSTAMP:20261019T000000Z
+SEQUENCE:1
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+SUMMARY:Dragonas IDV – U. de Deportes
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639877@anstoss
+DTSTAMP:20261022T000000Z
+SEQUENCE:1
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
+SUMMARY:Palmeiras – Dragonas IDV
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+LOCATION:Nubank Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639877.ht
  ml
 END:VEVENT
 END:VCALENDAR

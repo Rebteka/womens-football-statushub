@@ -8,17 +8,6 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1639871@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Corinthians – Caracas
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-LOCATION:Neo Quimica Arena\, Sao Paulo
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639871.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1639870@anstoss
 DTSTAMP:20261015T200000Z
 DTSTART:20261015T200000Z
@@ -27,56 +16,6 @@ SUMMARY:Corinthians – Colo-Colo
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
 LOCATION:Neo Quimica Arena\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639870.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639874@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Cruzeiro – Olimpia
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639874.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639873@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Cruzeiro – Bolivar
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639873.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639872@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Cruzeiro – LDU Quito
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639872.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639877@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Dragonas IDV – Palmeiras
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639877.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639876@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Dragonas IDV – U. de Deportes
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639876.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
@@ -90,103 +29,261 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1639875.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1639869@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Colo-Colo – Caracas
+UID:fixture-1642141@anstoss
+DTSTAMP:20261016T000000Z
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+SUMMARY:Caracas – Santa Fe
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639869.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639868@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Club Nacional de Football – Universidad de Chile
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639868.ht
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642141.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1639882@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261016T000000Z
+SEQUENCE:1
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
 SUMMARY:U. de Deportes – Palmeiras
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639882.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1639866@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Belgrano – Palmeiras
+UID:fixture-1642142@anstoss
+DTSTAMP:20261016T200000Z
+DTSTART:20261016T200000Z
+DTEND:20261016T220000Z
+SUMMARY:Deportivo Cali – Libertad Asuncion
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639866.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-UID:fixture-1639865@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Belgrano – U. de Deportes
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639865.ht
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642142.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1639867@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261016T200000Z
+SEQUENCE:1
+DTSTART:20261016T200000Z
+DTEND:20261016T220000Z
 SUMMARY:Bolivar – Olimpia
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639867.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1639879@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:LDU Quito – Olimpia
+UID:fixture-1639872@anstoss
+DTSTAMP:20261017T000000Z
+SEQUENCE:1
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Cruzeiro – LDU Quito
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639872.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639868@anstoss
+DTSTAMP:20261017T000000Z
+SEQUENCE:1
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+SUMMARY:Club Nacional de Football – Universidad de Chile
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639868.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642143@anstoss
+DTSTAMP:20261018T200000Z
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Colo-Colo – Santa Fe
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642143.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639866@anstoss
+DTSTAMP:20261018T200000Z
+SEQUENCE:1
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Belgrano – Palmeiras
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639866.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639871@anstoss
+DTSTAMP:20261019T000000Z
+SEQUENCE:1
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+SUMMARY:Corinthians – Caracas
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+LOCATION:Neo Quimica Arena\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639871.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639876@anstoss
+DTSTAMP:20261019T000000Z
+SEQUENCE:1
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+SUMMARY:Dragonas IDV – U. de Deportes
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639876.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639873@anstoss
+DTSTAMP:20261019T200000Z
+SEQUENCE:1
+DTSTART:20261019T200000Z
+DTEND:20261019T220000Z
+SUMMARY:Cruzeiro – Bolivar
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639873.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642144@anstoss
+DTSTAMP:20261019T200000Z
+DTSTART:20261019T200000Z
+DTEND:20261019T220000Z
+SUMMARY:Deportivo Cali – Club Nacional de Football
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639879@anstoss
+DTSTAMP:20261020T000000Z
+SEQUENCE:1
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
+SUMMARY:LDU Quito – Olimpia
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639879.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1639878@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:LDU Quito – Bolivar
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639878.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1639881@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261020T000000Z
+SEQUENCE:1
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
 SUMMARY:Libertad Asuncion – Universidad de Chile
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+LOCATION:Estadio Tigo La Huerta
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639881.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1639880@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Libertad Asuncion – Club Nacional de Football
+UID:fixture-1642145@anstoss
+DTSTAMP:20261021T200000Z
+DTSTART:20261021T200000Z
+DTEND:20261021T220000Z
+SUMMARY:Santa Fe – Corinthians
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642145.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639869@anstoss
+DTSTAMP:20261021T200000Z
+SEQUENCE:1
+DTSTART:20261021T200000Z
+DTEND:20261021T220000Z
+SUMMARY:Colo-Colo – Caracas
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639869.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639877@anstoss
+DTSTAMP:20261022T000000Z
+SEQUENCE:1
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
+SUMMARY:Palmeiras – Dragonas IDV
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+LOCATION:Nubank Parque\, Sao Paulo
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639877.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639865@anstoss
+DTSTAMP:20261022T000000Z
+SEQUENCE:1
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
+SUMMARY:Belgrano – U. de Deportes
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639865.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642146@anstoss
+DTSTAMP:20261022T200000Z
+DTSTART:20261022T200000Z
+DTEND:20261022T220000Z
+SUMMARY:Universidad de Chile – Deportivo Cali
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642146.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639880@anstoss
+DTSTAMP:20261022T200000Z
+SEQUENCE:1
+DTSTART:20261022T200000Z
+DTEND:20261022T220000Z
+SUMMARY:Libertad Asuncion – Club Nacional de Football
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+LOCATION:Estadio Tigo La Huerta
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639880.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639874@anstoss
+DTSTAMP:20261023T000000Z
+SEQUENCE:1
+DTSTART:20261023T000000Z
+DTEND:20261023T020000Z
+SUMMARY:Olimpia – Cruzeiro
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639874.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639878@anstoss
+DTSTAMP:20261023T000000Z
+SEQUENCE:1
+DTSTART:20261023T000000Z
+DTEND:20261023T020000Z
+SUMMARY:LDU Quito – Bolivar
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639878.ht
  ml
 END:VEVENT
 END:VCALENDAR

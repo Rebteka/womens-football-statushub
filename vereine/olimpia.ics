@@ -8,33 +8,39 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1639874@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Cruzeiro – Olimpia
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1639874.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1639867@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261016T200000Z
+SEQUENCE:1
+DTSTART:20261016T200000Z
+DTEND:20261016T220000Z
 SUMMARY:Bolivar – Olimpia
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639867.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1639879@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261020T000000Z
+SEQUENCE:1
+DTSTART:20261020T000000Z
+DTEND:20261020T020000Z
 SUMMARY:LDU Quito – Olimpia
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639879.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639874@anstoss
+DTSTAMP:20261023T000000Z
+SEQUENCE:1
+DTSTART:20261023T000000Z
+DTEND:20261023T020000Z
+SUMMARY:Olimpia – Cruzeiro
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1639874.ht
  ml
 END:VEVENT
 END:VCALENDAR

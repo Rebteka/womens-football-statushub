@@ -288,4 +288,36 @@ LOCATION:Estadio Deportivo Cali\, Palmira
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1641154.ht
  ml
 END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642142@anstoss
+DTSTAMP:20261016T200000Z
+DTSTART:20261016T200000Z
+DTEND:20261016T220000Z
+SUMMARY:Deportivo Cali – Libertad Asuncion
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642142.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642144@anstoss
+DTSTAMP:20261019T200000Z
+DTSTART:20261019T200000Z
+DTEND:20261019T220000Z
+SUMMARY:Deportivo Cali – Club Nacional de Football
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+LOCATION:Estadio Deportivo Cali\, Palmira
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642144.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642146@anstoss
+DTSTAMP:20261022T200000Z
+DTSTART:20261022T200000Z
+DTEND:20261022T220000Z
+SUMMARY:Universidad de Chile – Deportivo Cali
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642146.ht
+ ml
+END:VEVENT
 END:VCALENDAR

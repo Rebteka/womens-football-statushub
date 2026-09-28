@@ -8,23 +8,37 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:fixture-1639871@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
-SUMMARY:Corinthians – Caracas
+UID:fixture-1642141@anstoss
+DTSTAMP:20261016T000000Z
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+SUMMARY:Caracas – Santa Fe
 DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642141.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1639871@anstoss
+DTSTAMP:20261019T000000Z
+SEQUENCE:1
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+SUMMARY:Corinthians – Caracas
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 LOCATION:Neo Quimica Arena\, Sao Paulo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639871.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1639869@anstoss
-DTSTAMP:20261015T200000Z
-DTSTART:20261015T200000Z
-DTEND:20261015T220000Z
+DTSTAMP:20261021T200000Z
+SEQUENCE:1
+DTSTART:20261021T200000Z
+DTEND:20261021T220000Z
 SUMMARY:Colo-Colo – Caracas
-DESCRIPTION:Copa Libertadores Femenina · Gruppenphase
+DESCRIPTION:Copa Libertadores Femenina · Gruppenphase · Neuer Termin (v
+ orher 15.10. 22:00)
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1639869.ht
  ml
 END:VEVENT
