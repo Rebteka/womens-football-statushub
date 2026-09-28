@@ -115,16 +115,6 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1638407.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-1566613@anstoss
-DTSTAMP:20260926T133000Z
-DTSTART:20260926T133000Z
-DTEND:20260926T153000Z
-SUMMARY:Trenčín – Spartak Myjava (verlegt)
-DESCRIPTION:I Liga - Women · 7. Spieltag
-URL:https://rebteka.github.io/womens-football-statushub/spiele/1566613.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 UID:fixture-1638420@anstoss
 DTSTAMP:20260930T160000Z
 DTSTART:20260930T160000Z
@@ -152,6 +142,18 @@ DTEND:20261017T150000Z
 SUMMARY:Z. Moravce-Vrable – Spartak Myjava
 DESCRIPTION:I Liga - Women · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1566666.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1566613@anstoss
+DTSTAMP:20261021T130000Z
+SEQUENCE:1
+DTSTART:20261021T130000Z
+DTEND:20261021T150000Z
+SUMMARY:Trenčín – Spartak Myjava
+DESCRIPTION:I Liga - Women · 7. Spieltag · Neuer Termin (vorher 26.09. 
+ 15:30)
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1566613.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
