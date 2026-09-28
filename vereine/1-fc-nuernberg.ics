@@ -107,6 +107,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1593156.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1642332@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:1. FC Nürnberg – Eintracht Frankfurt
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1593166@anstoss
 DTSTAMP:20261108T130000Z
 DTSTART;VALUE=DATE:20261108

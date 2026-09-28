@@ -108,6 +108,16 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1593161.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1642337@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:1. FSV Mainz 05 – SV Werder Bremen
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1593164@anstoss
 DTSTAMP:20261108T130000Z
 DTSTART;VALUE=DATE:20261108

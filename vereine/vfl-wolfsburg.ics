@@ -163,6 +163,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1593162.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1642339@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:VfL Wolfsburg – TSG Hoffenheim
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1593165@anstoss
 DTSTAMP:20261108T130000Z
 DTSTART;VALUE=DATE:20261108

@@ -108,6 +108,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1593156.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1642333@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:FC Bayern München – Bayer 04 Leverkusen
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1593163@anstoss
 DTSTAMP:20261108T130000Z
 DTSTART;VALUE=DATE:20261108

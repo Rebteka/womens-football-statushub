@@ -995,12 +995,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1612478@anstoss
 DTSTAMP:20260926T093000Z
-SEQUENCE:1
 DTSTART:20260926T093000Z
 DTEND:20260926T113000Z
-SUMMARY:IF Gnistan – Ilves
-DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag · 
- Neuer Termin (vorher 26.09. 12:00)
+SUMMARY:IF Gnistan – Ilves 0:3
+DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612478.ht
  ml
 END:VEVENT
@@ -1009,8 +1007,9 @@ UID:fixture-1612480@anstoss
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
 DTEND:20260926T130000Z
-SUMMARY:KuPS – HJK
+SUMMARY:KuPS – HJK 0:1
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag
+LOCATION:Savon Sanomat Areena\, Kuopio
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612480.ht
  ml
 END:VEVENT
@@ -1019,8 +1018,9 @@ UID:fixture-1612479@anstoss
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
 DTEND:20260926T130000Z
-SUMMARY:HPS – Åland United
+SUMMARY:HPS – Åland United 1:0
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612479.ht
  ml
 END:VEVENT
@@ -1029,7 +1029,7 @@ UID:fixture-1612506@anstoss
 DTSTAMP:20260926T120000Z
 DTSTART:20260926T120000Z
 DTEND:20260926T140000Z
-SUMMARY:HJS Akatemia – PK-35 Vantaa
+SUMMARY:HJS Akatemia – PK-35 Vantaa 0:10
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 7. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612506.ht
  ml
@@ -1039,8 +1039,9 @@ UID:fixture-1612508@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z
 DTEND:20260926T150000Z
-SUMMARY:Honka – VIFK
+SUMMARY:Honka – VIFK 2:3
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 7. Spieltag
+LOCATION:Tapiolan Urheilupuisto\, Espoo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612508.ht
  ml
 END:VEVENT
@@ -1049,7 +1050,7 @@ UID:fixture-1612507@anstoss
 DTSTAMP:20260926T130000Z
 DTSTART:20260926T130000Z
 DTEND:20260926T150000Z
-SUMMARY:EBK – JyPK
+SUMMARY:EBK – JyPK 3:2
 DESCRIPTION:Kansallinen Liiga · Relegation Play-Off · 7. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612507.ht
  ml

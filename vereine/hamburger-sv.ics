@@ -108,6 +108,17 @@ URL:https://rebteka.github.io/womens-football-statushub/spiele/1593157.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+UID:fixture-1642335@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Hamburger SV – 1. FC Union Berlin
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 UID:fixture-1593163@anstoss
 DTSTAMP:20261108T130000Z
 DTSTART;VALUE=DATE:20261108

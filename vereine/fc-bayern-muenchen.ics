@@ -89,7 +89,7 @@ UID:fixture-1629369@anstoss
 DTSTAMP:20260927T130000Z
 DTSTART:20260927T130000Z
 DTEND:20260927T150000Z
-SUMMARY:Borussia Mönchengladbach – FC Bayern München
+SUMMARY:Borussia Mönchengladbach – FC Bayern München 1:2
 DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1629369.ht
  ml
@@ -149,6 +149,17 @@ SUMMARY:FC Bayern München – Real Madrid
 DESCRIPTION:UEFA Women's Champions League · Ligaphase · 3. Spieltag
 LOCATION:FC Bayern Campus\, Munich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638299.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642333@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:FC Bayern München – Bayer 04 Leverkusen
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642333.ht
  ml
 END:VEVENT
 BEGIN:VEVENT

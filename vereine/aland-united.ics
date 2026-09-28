@@ -228,8 +228,9 @@ UID:fixture-1612479@anstoss
 DTSTAMP:20260926T110000Z
 DTSTART:20260926T110000Z
 DTEND:20260926T130000Z
-SUMMARY:HPS – Åland United
+SUMMARY:HPS – Åland United 1:0
 DESCRIPTION:Kansallinen Liiga · Championship Playoffs · 7. Spieltag
+LOCATION:Oulunkylan tekojaarata\, Helsinki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1612479.ht
  ml
 END:VEVENT

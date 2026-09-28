@@ -326,9 +326,95 @@ UID:fixture-1629369@anstoss
 DTSTAMP:20260927T130000Z
 DTSTART:20260927T130000Z
 DTEND:20260927T150000Z
-SUMMARY:Borussia Mönchengladbach – FC Bayern München
+SUMMARY:Borussia Mönchengladbach – FC Bayern München 1:2
 DESCRIPTION:DFB-Pokal der Frauen · Runde der 32
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1629369.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642333@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:FC Bayern München – Bayer 04 Leverkusen
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:FC Bayern Campus\, Munich
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642333.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642339@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:VfL Wolfsburg – TSG Hoffenheim
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:AOK Stadion\, Wolfsburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642339.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642334@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:SC Freiburg – FC Carl Zeiss Jena
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:Dreisamstadion\, Freiburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642334.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642336@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:1. FC Köln – RB Leipzig
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:Franz-Kremer Stadion\, Cologne
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642336.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642332@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:1. FC Nürnberg – Eintracht Frankfurt
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642332.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642335@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Hamburger SV – 1. FC Union Berlin
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642335.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642337@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:1. FSV Mainz 05 – SV Werder Bremen
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642337.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:fixture-1642338@anstoss
+DTSTAMP:20261031T130000Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:VfB Stuttgart – SGS Essen
+DESCRIPTION:DFB-Pokal der Frauen · Achtelfinale
+URL:https://rebteka.github.io/womens-football-statushub/spiele/1642338.ht
  ml
 END:VEVENT
 END:VCALENDAR
