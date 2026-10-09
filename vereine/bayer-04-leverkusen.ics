@@ -88,10 +88,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593149@anstoss
 DTSTAMP:20261018T120000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
 SUMMARY:Bayer 04 Leverkusen – Eintracht Frankfurt
-DESCRIPTION:Frauen-Bundesliga · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 7. Spieltag
 LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593149.ht
  ml
