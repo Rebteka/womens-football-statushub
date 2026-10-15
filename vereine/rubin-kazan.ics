@@ -241,11 +241,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530024@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Rostov – Rubin Kazan
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530024.ht
  ml

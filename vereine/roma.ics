@@ -184,10 +184,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601268@anstoss
 DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 SUMMARY:Juventus – Roma
-DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 4. Spieltag
 LOCATION:Stadio Vittorio Pozzo\, Biella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601268.ht
  ml

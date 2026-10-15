@@ -1472,11 +1472,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530025@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Yenisey – Ryazan
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:Football Arena Yenisei\, Krasnoyarsk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530025.ht
  ml
@@ -1484,11 +1483,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530026@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Krasnodar – Lokomotiv Moskva
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:Malaya Arena\, Krasnodar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530026.ht
  ml
@@ -1496,11 +1494,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530024@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Rostov – Rubin Kazan
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530024.ht
  ml
@@ -1508,11 +1505,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530022@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Dinamo Moskva – CSKA Moskva
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:UTB Novogorsk-Dynamo\, Khimki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530022.ht
  ml
@@ -1520,11 +1516,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530023@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Krylya Sovetov – Zenit
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:Metallurg Stadium\, Samara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530023.ht
  ml
@@ -1532,11 +1527,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530027@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Spartak Moskva – Chertanovo
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:Cherenkov Academy Stadium\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530027.ht
  ml

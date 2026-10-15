@@ -228,10 +228,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601268@anstoss
 DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 SUMMARY:Juventus – Roma
-DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 4. Spieltag
 LOCATION:Stadio Vittorio Pozzo\, Biella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601268.ht
  ml
@@ -239,10 +239,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601266@anstoss
 DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 SUMMARY:AC Milan – Ternana
-DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 4. Spieltag
 LOCATION:Centro Sportivo Peppino Vismara\, Milan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601266.ht
  ml
@@ -250,10 +250,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601270@anstoss
 DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 SUMMARY:Napoli – Inter Mailand
-DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 4. Spieltag
 LOCATION:Stadio Giuseppe Piccolo\, Cercola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601270.ht
  ml
@@ -261,10 +261,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601269@anstoss
 DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 SUMMARY:Lazio – Como
-DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 4. Spieltag
 LOCATION:Campo Mirko Fersini\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601269.ht
  ml
@@ -272,10 +272,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601271@anstoss
 DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 SUMMARY:Parma – Fiorentina
-DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 4. Spieltag
 LOCATION:Stadio Ennio Tardini\, Parma
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601271.ht
  ml
@@ -283,10 +283,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601267@anstoss
 DTSTAMP:20261024T130000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 SUMMARY:Como 1907 – Sassuolo
-DESCRIPTION:Serie A Femminile · 4. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 4. Spieltag
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601267.ht
  ml

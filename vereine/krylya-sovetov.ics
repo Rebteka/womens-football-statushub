@@ -232,11 +232,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530023@anstoss
 DTSTAMP:20261024T100000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
 SUMMARY:Krylya Sovetov – Zenit
-DESCRIPTION:Supreme Division Women · 23. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 23. Spieltag
 LOCATION:Metallurg Stadium\, Samara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530023.ht
  ml
