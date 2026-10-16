@@ -99,10 +99,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593159@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:RB Leipzig – FC Bayern München
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:Red Bull Arena\, Leipzig
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593159.ht
  ml

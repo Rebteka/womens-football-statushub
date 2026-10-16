@@ -631,10 +631,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573616@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Athletic Club – Sevilla
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 LOCATION:Lezama Facilities\, Lezama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573616.ht
  ml
@@ -642,20 +642,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573617@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Atletico Madrid – Valencia
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573617.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573623@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Real Sociedad – Espanyol
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 LOCATION:Instalaciones de Zubieta\, Lasarte-Oria
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573623.ht
  ml
@@ -663,10 +663,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573618@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Barcelona – Granada
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 LOCATION:Estadi Johan Cruyff\, Barcelona
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573618.ht
  ml
@@ -674,20 +674,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573620@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Edf Logrono – FC Levante Badalona
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573620.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573619@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Deportivo de La Coruña – Deportivo Alavés
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 LOCATION:Estadio Municipal de Riazor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573619.ht
  ml
@@ -695,20 +695,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573622@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Real Madrid – Granad. Tenerife
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573622.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573621@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Eibar – Madrid CFF
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 LOCATION:Estadio Municipal de Ipurua\, Eibar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573621.ht
  ml

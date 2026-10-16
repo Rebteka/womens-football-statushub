@@ -99,10 +99,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593156@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:1. FC Nürnberg – Bayer 04 Leverkusen
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:Max-Morlock-Stadion\, Nuremberg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593156.ht
  ml

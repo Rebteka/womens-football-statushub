@@ -154,10 +154,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593162@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:VfL Wolfsburg – 1. FC Köln
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:AOK Stadion\, Wolfsburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593162.ht
  ml

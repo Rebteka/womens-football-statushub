@@ -559,10 +559,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593158@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:TSG Hoffenheim – 1. FSV Mainz 05
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:Dietmar-Hopp Stadion\, Sinsheim
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593158.ht
  ml
@@ -570,10 +570,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593162@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:VfL Wolfsburg – 1. FC Köln
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:AOK Stadion\, Wolfsburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593162.ht
  ml
@@ -581,10 +581,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593161@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:SV Werder Bremen – SC Freiburg
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:Weserstadion Platz 11\, Bremen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593161.ht
  ml
@@ -592,10 +592,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593156@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:1. FC Nürnberg – Bayer 04 Leverkusen
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:Max-Morlock-Stadion\, Nuremberg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593156.ht
  ml
@@ -603,10 +603,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593157@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:Hamburger SV – 1. FC Union Berlin
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:Volksparkstadion\, Hamburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593157.ht
  ml
@@ -614,10 +614,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593159@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:RB Leipzig – FC Bayern München
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 LOCATION:Red Bull Arena\, Leipzig
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593159.ht
  ml
@@ -625,10 +625,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593160@anstoss
 DTSTAMP:20261025T130000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
 SUMMARY:VfB Stuttgart – Eintracht Frankfurt
-DESCRIPTION:Frauen-Bundesliga · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593160.ht
  ml
 END:VEVENT

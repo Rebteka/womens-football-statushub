@@ -128,10 +128,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573622@anstoss
 DTSTAMP:20261025T160000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
 SUMMARY:Real Madrid – Granad. Tenerife
-DESCRIPTION:Liga F · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 8. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573622.ht
  ml
 END:VEVENT
