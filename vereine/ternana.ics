@@ -131,10 +131,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601277@anstoss
 DTSTAMP:20261031T140000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
 SUMMARY:Ternana – Como 1907
-DESCRIPTION:Serie A Femminile · 5. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 5. Spieltag
 LOCATION:Stadio Libero Liberati\, Terni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601277.ht
  ml

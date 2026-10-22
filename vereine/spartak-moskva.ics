@@ -265,11 +265,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530031@anstoss
 DTSTAMP:20261031T110000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:Krylya Sovetov – Spartak Moskva
-DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 24. Spieltag
 LOCATION:Metallurg Stadium\, Samara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530031.ht
  ml

@@ -1538,11 +1538,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530028@anstoss
 DTSTAMP:20261031T110000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:Chertanovo – Rostov
-DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 24. Spieltag
 LOCATION:Chertanovo Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530028.ht
  ml
@@ -1550,11 +1549,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530032@anstoss
 DTSTAMP:20261031T110000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:Ryazan – Zvezda Perm
-DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 24. Spieltag
 LOCATION:SportComplex Znamja Truda\, Orekhovo-Zuyevo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530032.ht
  ml
@@ -1562,11 +1560,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530029@anstoss
 DTSTAMP:20261031T110000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:CSKA Moskva – Krasnodar
-DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 24. Spieltag
 LOCATION:Stadion Novye Chimki\, Khimki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530029.ht
  ml
@@ -1574,11 +1571,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530033@anstoss
 DTSTAMP:20261031T110000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:Zenit – Lokomotiv Moskva
-DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 24. Spieltag
 LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530033.ht
  ml
@@ -1586,11 +1582,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530030@anstoss
 DTSTAMP:20261031T110000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:Dinamo Moskva – Yenisey
-DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 24. Spieltag
 LOCATION:UTB Novogorsk-Dynamo\, Khimki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530030.ht
  ml
@@ -1598,11 +1593,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530031@anstoss
 DTSTAMP:20261031T110000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T110000Z
+DTEND:20261031T130000Z
 SUMMARY:Krylya Sovetov – Spartak Moskva
-DESCRIPTION:Supreme Division Women · 24. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 24. Spieltag
 LOCATION:Metallurg Stadium\, Samara
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530031.ht
  ml

@@ -131,10 +131,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580948@anstoss
 DTSTAMP:20261031T160000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART:20261031T160000Z
+DTEND:20261031T180000Z
 SUMMARY:Paris FC – Paris Saint Germain
-DESCRIPTION:Première Ligue · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 7. Spieltag
 LOCATION:Stade Charlety\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580948.ht
  ml
