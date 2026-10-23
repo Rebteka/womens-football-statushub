@@ -99,10 +99,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573631@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Valencia – Eibar
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Estadio Antonio Puchades\, Valencia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573631.ht
  ml

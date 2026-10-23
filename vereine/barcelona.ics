@@ -131,10 +131,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573625@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:FC Levante Badalona – Barcelona
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Estadi Municipal de Badalona\, Badalona
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573625.ht
  ml

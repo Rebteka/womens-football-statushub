@@ -716,10 +716,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573631@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Valencia – Eibar
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Estadio Antonio Puchades\, Valencia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573631.ht
  ml
@@ -727,20 +727,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573626@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Granad. Tenerife – Athletic Club
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573626.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573627@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Espanyol – Edf Logrono
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Ciutat Esportiva Dani Jarque
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573627.ht
  ml
@@ -748,10 +748,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573630@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Sevilla – Real Madrid
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Estadio Jesus Navas\, Sevilla
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573630.ht
  ml
@@ -759,10 +759,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573629@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Madrid CFF – Deportivo de La Coruña
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Estadio Fernando Torres\, Fuenlabrada
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573629.ht
  ml
@@ -770,10 +770,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573624@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Deportivo Alavés – Real Sociedad
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Estadio Mendizorrotza\, Vitoria-Gasteiz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573624.ht
  ml
@@ -781,10 +781,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573625@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:FC Levante Badalona – Barcelona
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Estadi Municipal de Badalona\, Badalona
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573625.ht
  ml
@@ -792,10 +792,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573628@anstoss
 DTSTAMP:20261101T160000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
+DTSTART:20261101T160000Z
+DTEND:20261101T180000Z
 SUMMARY:Granada – Atletico Madrid
-DESCRIPTION:Liga F · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 9. Spieltag
 LOCATION:Ciudad Deportiva del Granada
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573628.ht
  ml
