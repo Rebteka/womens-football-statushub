@@ -142,10 +142,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573634@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Barcelona – Madrid CFF
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 LOCATION:Estadi Johan Cruyff\, Barcelona
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573634.ht
  ml

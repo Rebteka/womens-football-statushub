@@ -121,10 +121,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593169@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:1. FC Union Berlin – TSG Hoffenheim
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593169.ht
  ml
 END:VEVENT

@@ -360,10 +360,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601280@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Juventus – Sassuolo
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Stadio Vittorio Pozzo\, Biella
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601280.ht
  ml
@@ -371,10 +371,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601278@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:AC Milan – Inter Mailand
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Centro Sportivo Peppino Vismara\, Milan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601278.ht
  ml
@@ -382,10 +382,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601281@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Lazio – Napoli
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Campo Mirko Fersini\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601281.ht
  ml
@@ -393,10 +393,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601282@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Parma – Como
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Stadio Ennio Tardini\, Parma
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601282.ht
  ml
@@ -404,10 +404,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601283@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Ternana – Fiorentina
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Stadio Libero Liberati\, Terni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601283.ht
  ml
@@ -415,10 +415,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601279@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Como 1907 – Roma
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601279.ht
  ml

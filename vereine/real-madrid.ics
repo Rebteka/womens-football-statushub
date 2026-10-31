@@ -160,10 +160,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573632@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Athletic Club – Real Madrid
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 LOCATION:Lezama Facilities\, Lezama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573632.ht
  ml

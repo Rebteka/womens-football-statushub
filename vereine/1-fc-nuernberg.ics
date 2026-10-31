@@ -120,10 +120,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593166@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:SC Freiburg – 1. FC Nürnberg
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 LOCATION:Dreisamstadion\, Freiburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593166.ht
  ml

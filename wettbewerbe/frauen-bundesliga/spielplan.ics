@@ -635,10 +635,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593163@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:Bayer 04 Leverkusen – Hamburger SV
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 LOCATION:Ulrich-Haberland-Stadion\, Leverkusen
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593163.ht
  ml
@@ -646,10 +646,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593164@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:FC Bayern München – SV Werder Bremen
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 LOCATION:FC Bayern Campus\, Munich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593164.ht
  ml
@@ -657,10 +657,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593166@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:SC Freiburg – 1. FC Nürnberg
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 LOCATION:Dreisamstadion\, Freiburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593166.ht
  ml
@@ -668,10 +668,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593167@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:1. FC Köln – RB Leipzig
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 LOCATION:Franz-Kremer Stadion\, Cologne
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593167.ht
  ml
@@ -679,10 +679,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593165@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:Eintracht Frankfurt – VfL Wolfsburg
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 LOCATION:Stadion am Brentanobad\, Frankfurt
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593165.ht
  ml
@@ -690,20 +690,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593168@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:1. FSV Mainz 05 – VfB Stuttgart
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593168.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593169@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:1. FC Union Berlin – TSG Hoffenheim
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593169.ht
  ml
 END:VEVENT

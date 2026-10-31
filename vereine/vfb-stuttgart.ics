@@ -118,10 +118,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593168@anstoss
 DTSTAMP:20261108T130000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
 SUMMARY:1. FSV Mainz 05 – VfB Stuttgart
-DESCRIPTION:Frauen-Bundesliga · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593168.ht
  ml
 END:VEVENT

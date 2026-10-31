@@ -803,10 +803,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573632@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Athletic Club – Real Madrid
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 LOCATION:Lezama Facilities\, Lezama
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573632.ht
  ml
@@ -814,30 +814,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573633@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Atletico Madrid – FC Levante Badalona
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573633.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573635@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Granad. Tenerife – Deportivo Alavés
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573635.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573634@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Barcelona – Madrid CFF
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 LOCATION:Estadi Johan Cruyff\, Barcelona
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573634.ht
  ml
@@ -845,20 +845,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573637@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Edf Logrono – Sevilla
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573637.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573636@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Deportivo de La Coruña – Valencia
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 LOCATION:Estadio Municipal de Riazor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573636.ht
  ml
@@ -866,10 +866,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573638@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Eibar – Real Sociedad
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 LOCATION:Estadio Municipal de Ipurua\, Eibar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573638.ht
  ml
@@ -877,10 +877,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573639@anstoss
 DTSTAMP:20261108T160000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
 SUMMARY:Granada – Espanyol
-DESCRIPTION:Liga F · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 10. Spieltag
 LOCATION:Ciudad Deportiva del Granada
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573639.ht
  ml

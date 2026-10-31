@@ -122,10 +122,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601282@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Parma – Como
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Stadio Ennio Tardini\, Parma
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601282.ht
  ml

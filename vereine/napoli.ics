@@ -142,10 +142,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601281@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Lazio – Napoli
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Campo Mirko Fersini\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601281.ht
  ml

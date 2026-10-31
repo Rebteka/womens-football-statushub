@@ -254,11 +254,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530035@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Rostov – Krylya Sovetov
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530035.ht
  ml

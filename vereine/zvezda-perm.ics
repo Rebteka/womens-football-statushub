@@ -265,11 +265,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530039@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Zvezda Perm – Dinamo Moskva
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Zvezda Stadium\, Perm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530039.ht
  ml

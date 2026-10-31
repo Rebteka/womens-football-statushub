@@ -217,10 +217,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601279@anstoss
 DTSTAMP:20261107T140000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
 SUMMARY:Como 1907 – Roma
-DESCRIPTION:Serie A Femminile · 6. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 6. Spieltag
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601279.ht
  ml

@@ -86,10 +86,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580950@anstoss
 DTSTAMP:20261107T160000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
 SUMMARY:FC Fleury 91 – Strasbourg
-DESCRIPTION:Première Ligue · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 8. Spieltag
 LOCATION:Terrain Walter Felder\, Fleury Merogis
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580950.ht
  ml

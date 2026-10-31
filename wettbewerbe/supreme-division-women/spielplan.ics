@@ -1604,11 +1604,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530034@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Chertanovo – Rubin Kazan
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Chertanovo Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530034.ht
  ml
@@ -1616,11 +1615,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530037@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Lokomotiv Moskva – Spartak Moskva
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Sapsan Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530037.ht
  ml
@@ -1628,11 +1626,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530038@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Zenit – CSKA Moskva
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Akademiya Zenit pole 5\, Saint Petersburg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530038.ht
  ml
@@ -1640,11 +1637,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530036@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Krasnodar – Yenisey
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Malaya Arena\, Krasnodar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530036.ht
  ml
@@ -1652,11 +1648,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530035@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Rostov – Krylya Sovetov
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Stadion Lokomotiv Rostov na Donu\, Rostov
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530035.ht
  ml
@@ -1664,11 +1659,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530039@anstoss
 DTSTAMP:20261107T110000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
 SUMMARY:Zvezda Perm – Dinamo Moskva
-DESCRIPTION:Supreme Division Women · 25. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 25. Spieltag
 LOCATION:Zvezda Stadium\, Perm
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530039.ht
  ml
