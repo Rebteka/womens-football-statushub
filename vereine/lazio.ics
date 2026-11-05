@@ -143,10 +143,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601286@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Fiorentina – Lazio
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601286.ht
  ml

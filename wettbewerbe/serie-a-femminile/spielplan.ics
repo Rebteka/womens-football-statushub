@@ -426,10 +426,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601286@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Fiorentina – Lazio
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601286.ht
  ml
@@ -437,10 +437,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601289@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Sassuolo – Ternana
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Stadio Enzo Ricci\, Sassuolo
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601289.ht
  ml
@@ -448,10 +448,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601284@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Roma – Parma
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Stadio Tre Fontane\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601284.ht
  ml
@@ -459,10 +459,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601287@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Inter Mailand – Juventus
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Stadio Ernesto Breda\, Sesto San Giovanni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601287.ht
  ml
@@ -470,10 +470,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601288@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Napoli – AC Milan
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Stadio Giuseppe Piccolo\, Cercola
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601288.ht
  ml
@@ -481,10 +481,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601285@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Como 1907 – Como
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601285.ht
  ml

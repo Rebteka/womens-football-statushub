@@ -121,10 +121,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601285@anstoss
 DTSTAMP:20261114T140000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
 SUMMARY:Como 1907 – Como
-DESCRIPTION:Serie A Femminile · 7. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 7. Spieltag
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601285.ht
  ml

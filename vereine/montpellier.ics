@@ -94,10 +94,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580955@anstoss
 DTSTAMP:20261114T160000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T160000Z
+DTEND:20261114T180000Z
 SUMMARY:Montpellier – FC Fleury 91
-DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 9. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580955.ht
  ml
 END:VEVENT

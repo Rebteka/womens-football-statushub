@@ -265,11 +265,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530041@anstoss
 DTSTAMP:20261114T110000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Yenisey – Zenit
-DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 26. Spieltag
 LOCATION:Football Arena Yenisei\, Krasnoyarsk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530041.ht
  ml

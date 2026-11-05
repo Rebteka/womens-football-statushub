@@ -113,10 +113,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581747@anstoss
 DTSTAMP:20261114T160000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T160000Z
+DTEND:20261114T180000Z
 SUMMARY:Slask Wroclaw – Górnik Łęczna
-DESCRIPTION:Ekstraliga Women · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Ekstraliga Women · 11. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581747.ht
  ml
 END:VEVENT

@@ -1670,11 +1670,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530043@anstoss
 DTSTAMP:20261114T110000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Lokomotiv Moskva – Rostov
-DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 26. Spieltag
 LOCATION:Sapsan Arena\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530043.ht
  ml
@@ -1682,11 +1681,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530041@anstoss
 DTSTAMP:20261114T110000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Yenisey – Zenit
-DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 26. Spieltag
 LOCATION:Football Arena Yenisei\, Krasnoyarsk
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530041.ht
  ml
@@ -1694,11 +1692,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530042@anstoss
 DTSTAMP:20261114T110000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Krasnodar – Zvezda Perm
-DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 26. Spieltag
 LOCATION:Malaya Arena\, Krasnodar
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530042.ht
  ml
@@ -1706,11 +1703,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530044@anstoss
 DTSTAMP:20261114T110000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Rubin Kazan – Krylya Sovetov
-DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 26. Spieltag
 LOCATION:Ak Bars Arena\, Kazan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530044.ht
  ml
@@ -1718,11 +1714,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530040@anstoss
 DTSTAMP:20261114T110000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Dinamo Moskva – Ryazan
-DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 26. Spieltag
 LOCATION:UTB Novogorsk-Dynamo\, Khimki
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530040.ht
  ml
@@ -1730,11 +1725,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1530045@anstoss
 DTSTAMP:20261114T110000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T110000Z
+DTEND:20261114T130000Z
 SUMMARY:Spartak Moskva – CSKA Moskva
-DESCRIPTION:Supreme Division Women · 26. Spieltag · Anstosszeit noch of
- fen
+DESCRIPTION:Supreme Division Women · 26. Spieltag
 LOCATION:Cherenkov Academy Stadium\, Moscow
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1530045.ht
  ml

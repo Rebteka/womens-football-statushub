@@ -95,10 +95,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581014@anstoss
 DTSTAMP:20261114T160000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T160000Z
+DTEND:20261114T180000Z
 SUMMARY:Strasbourg – Toulouse
-DESCRIPTION:Première Ligue · 9. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 9. Spieltag
 LOCATION:Stade de la Meinau\, Strasbourg
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581014.ht
  ml
