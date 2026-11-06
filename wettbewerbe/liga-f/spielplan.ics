@@ -888,10 +888,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573647@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Valencia – Granada
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Estadio Antonio Puchades\, Valencia
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573647.ht
  ml
@@ -899,10 +899,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573645@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Real Sociedad – Athletic Club
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Instalaciones de Zubieta\, Lasarte-Oria
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573645.ht
  ml
@@ -910,10 +910,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573642@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Espanyol – Granad. Tenerife
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Ciutat Esportiva Dani Jarque
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573642.ht
  ml
@@ -921,10 +921,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573646@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Sevilla – Atletico Madrid
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Estadio Jesus Navas\, Sevilla
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573646.ht
  ml
@@ -932,10 +932,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573643@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Madrid CFF – Edf Logrono
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Estadio Fernando Torres\, Fuenlabrada
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573643.ht
  ml
@@ -943,10 +943,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573641@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Deportivo de La Coruña – Barcelona
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Estadio Municipal de Riazor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573641.ht
  ml
@@ -954,20 +954,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573644@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Real Madrid – FC Levante Badalona
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573644.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573640@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Deportivo Alavés – Eibar
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Estadio Mendizorrotza\, Vitoria-Gasteiz
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573640.ht
  ml

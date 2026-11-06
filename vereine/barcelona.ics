@@ -164,10 +164,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573641@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Deportivo de La Coruña – Barcelona
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 LOCATION:Estadio Municipal de Riazor
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573641.ht
  ml

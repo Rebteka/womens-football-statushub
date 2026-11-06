@@ -120,10 +120,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573644@anstoss
 DTSTAMP:20261115T160000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
 SUMMARY:Real Madrid – FC Levante Badalona
-DESCRIPTION:Liga F · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 11. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573644.ht
  ml
 END:VEVENT
