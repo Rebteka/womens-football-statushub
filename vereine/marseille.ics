@@ -102,10 +102,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581016@anstoss
 DTSTAMP:20261121T160000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
 SUMMARY:Toulouse – Marseille
-DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581016.ht
  ml
 END:VEVENT

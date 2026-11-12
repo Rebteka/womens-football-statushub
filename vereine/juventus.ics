@@ -307,10 +307,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601293@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:Lazio – Juventus
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Campo Mirko Fersini\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601293.ht
  ml

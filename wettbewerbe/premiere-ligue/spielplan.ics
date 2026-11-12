@@ -585,10 +585,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581015@anstoss
 DTSTAMP:20261121T160000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
 SUMMARY:Paris Saint Germain – Saint-Malo
-DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 10. Spieltag
 LOCATION:Paris Saint-Germain Training Center\, Poissy
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581015.ht
  ml
@@ -596,10 +596,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580957@anstoss
 DTSTAMP:20261121T160000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
 SUMMARY:Lyon – Strasbourg
-DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 10. Spieltag
 LOCATION:Parc Olympique Lyonnais\, Lyon
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580957.ht
  ml
@@ -607,10 +607,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580958@anstoss
 DTSTAMP:20261121T160000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
 SUMMARY:Paris FC – FC Fleury 91
-DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 10. Spieltag
 LOCATION:Stade Charlety\, Paris
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580958.ht
  ml
@@ -618,20 +618,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1580956@anstoss
 DTSTAMP:20261121T160000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
 SUMMARY:Le Havre – Nantes
-DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1580956.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1585118@anstoss
 DTSTAMP:20261121T160000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
 SUMMARY:Lens – Montpellier
-DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 10. Spieltag
 LOCATION:Degouve-Brabant Stadium\, Arras
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1585118.ht
  ml
@@ -639,10 +639,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1581016@anstoss
 DTSTAMP:20261121T160000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
 SUMMARY:Toulouse – Marseille
-DESCRIPTION:Première Ligue · 10. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Première Ligue · 10. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1581016.ht
  ml
 END:VEVENT

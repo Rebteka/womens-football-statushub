@@ -492,10 +492,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601292@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:Fiorentina – Como 1907
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601292.ht
  ml
@@ -503,10 +503,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601290@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:AC Milan – Sassuolo
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Centro Sportivo Peppino Vismara\, Milan
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601290.ht
  ml
@@ -514,10 +514,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601293@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:Lazio – Juventus
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Campo Mirko Fersini\, Rome
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601293.ht
  ml
@@ -525,10 +525,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601291@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:Como – Roma
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Stadio Ferruccio\, Seregno
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601291.ht
  ml
@@ -536,10 +536,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601294@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:Parma – Napoli
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Stadio Ennio Tardini\, Parma
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601294.ht
  ml
@@ -547,10 +547,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601295@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:Ternana – Inter Mailand
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Stadio Libero Liberati\, Terni
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601295.ht
  ml

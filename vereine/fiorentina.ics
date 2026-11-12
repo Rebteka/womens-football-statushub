@@ -170,10 +170,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1601292@anstoss
 DTSTAMP:20261121T140000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
 SUMMARY:Fiorentina – Como 1907
-DESCRIPTION:Serie A Femminile · 8. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Serie A Femminile · 8. Spieltag
 LOCATION:Curva Fiesole - Viola Park\, Bagno a Ripoli
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1601292.ht
  ml
