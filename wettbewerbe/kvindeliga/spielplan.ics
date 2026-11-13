@@ -813,50 +813,50 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582165@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:Brøndby – AGF
-DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582165.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582167@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:Nordsjælland – Fortuna Hjørring
-DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582167.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582168@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:Odense Q – KoldingQ
-DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582168.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582166@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:Midtjylland – Køge
-DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582166.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1582164@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:ASA Aarhus – FC Copenhagen
-DESCRIPTION:Kvindeliga · 16. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Kvindeliga · 16. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1582164.ht
  ml
 END:VEVENT

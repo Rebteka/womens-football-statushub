@@ -131,10 +131,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1573653@anstoss
 DTSTAMP:20261122T160000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T160000Z
+DTEND:20261122T180000Z
 SUMMARY:Espanyol – Valencia
-DESCRIPTION:Liga F · 12. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Liga F · 12. Spieltag
 LOCATION:Ciutat Esportiva Dani Jarque
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1573653.ht
  ml

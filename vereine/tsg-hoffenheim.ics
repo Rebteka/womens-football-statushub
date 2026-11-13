@@ -142,10 +142,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593177@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:FC Bayern München – TSG Hoffenheim
-DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag
 LOCATION:FC Bayern Campus\, Munich
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593177.ht
  ml

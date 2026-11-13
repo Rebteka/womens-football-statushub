@@ -142,10 +142,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1593183@anstoss
 DTSTAMP:20261122T130000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
 SUMMARY:1. FC Union Berlin – Bayer 04 Leverkusen
-DESCRIPTION:Frauen-Bundesliga · 11. Spieltag · Anstosszeit noch offen
+DESCRIPTION:Frauen-Bundesliga · 11. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1593183.ht
  ml
 END:VEVENT
