@@ -5,4 +5,4 @@ title: Archiv
 
 # Archiv
 
-- [Statushub 2026-11-15](2026-11-15.html)
+- [Statushub 2026-11-16](2026-11-16.html)
