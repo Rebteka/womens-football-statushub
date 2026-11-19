@@ -161,11 +161,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638242@anstoss
 DTSTAMP:20261128T140000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+DTSTART:20261128T140000Z
+DTEND:20261128T160000Z
 SUMMARY:Ghana – Ecuador
 DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
-  1. Spieltag · Anstosszeit noch offen
+  1. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638242.ht
  ml
 END:VEVENT
