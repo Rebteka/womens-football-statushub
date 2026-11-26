@@ -2222,33 +2222,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638247@anstoss
 DTSTAMP:20261205T140000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+DTSTART:20261205T140000Z
+DTEND:20261205T160000Z
 SUMMARY:Chinese Taipei – Ecuador
 DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
-  3. Spieltag · Anstosszeit noch offen
+  3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638247.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638248@anstoss
 DTSTAMP:20261205T140000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+DTSTART:20261205T140000Z
+DTEND:20261205T160000Z
 SUMMARY:Papua New Guinea – Ghana
 DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
-  3. Spieltag · Anstosszeit noch offen
+  3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638248.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-1638249@anstoss
 DTSTAMP:20261205T140000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+DTSTART:20261205T140000Z
+DTEND:20261205T160000Z
 SUMMARY:South Africa – Uzbekistan
 DESCRIPTION:WM-Qualifikation Europa · Qualifikation · Aufstiegsrunde ·
-  3. Spieltag · Anstosszeit noch offen
+  3. Spieltag
 URL:https://rebteka.github.io/womens-football-statushub/spiele/1638249.ht
  ml
 END:VEVENT
